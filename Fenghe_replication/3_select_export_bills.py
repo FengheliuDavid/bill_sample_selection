@@ -1,19 +1,25 @@
 from itertools import chain
 import re
 import sqlite3
+from pathlib import Path
 from bs4 import BeautifulSoup
 import pandas as pd
 import json
 from nltk import tokenize
 from tqdm import tqdm
 
-with open("selected_bill_policies_subjects.json", 'r') as f:
+SCRIPT_DIR = Path(__file__).resolve().parent
+ARCHIVE_DIR = Path("D:/Dropbox/Legislator_PACs_AR_AS/z__Archive_1.18.24/Congress Bill Voting/Project Congress Bills Voting -- all")
+
+(SCRIPT_DIR / "selected_bill_texts").mkdir(exist_ok=True)
+
+with open(ARCHIVE_DIR / "selected_bill_policies_subjects.json", 'r') as f:
     selected = json.load(f)
     selected = {k: list(set([i.lower() for i in v])) for k, v in selected.items()}
 
-conn = sqlite3.connect("data/bill_subjects.db")
-conn.executescript("attach database 'data/bill.db' as bill")
-conn.executescript("attach database 'data/bill_text.db' as bill_text")
+conn = sqlite3.connect(ARCHIVE_DIR / "data/bill_subjects.db")
+conn.executescript(f"attach database '{ARCHIVE_DIR / 'data/bill.db'}' as bill")
+conn.executescript(f"attach database '{ARCHIVE_DIR / 'data/bill_text.db'}' as bill_text")
 cursor = conn.cursor()
 cursor.execute("select * from bill_subject")
 
@@ -82,7 +88,7 @@ dat_bills['summary_text'] = ["\n\n".join(tokenize.sent_tokenize(i)) for i in dat
 dat_bills_2 = dat_bills.drop_duplicates(subset='bill_id')
 dat_bills_2.reset_index(inplace=True, drop=True)
 
-with open("keywords.txt", 'r') as f:
+with open(SCRIPT_DIR / "keywords.txt", 'r') as f:
     keyword_list = f.read().lower().splitlines()
     keyword_list = [i.strip() for i in keyword_list]
 
@@ -110,16 +116,16 @@ dat_bills_meta = dat_bills_2.drop(['full_text', 'summary_text'], axis=1)
 dat_bills_meta['regulation'] = ''
 dat_bills_meta['related_sentences'] = ''
 
-dat_bills_meta[dat_bills_2['has_keywords'] == 1].to_csv("bills_meta_only --subset --has keywords.csv", index=False)
+dat_bills_meta[dat_bills_2['has_keywords'] == 1].to_csv(SCRIPT_DIR / "bills_meta_only --subset --has keywords.csv", index=False)
 
-dat_bills_meta[dat_bills_2['has_keywords'] != 1].to_csv("bills_meta_only --subset --no keywords.csv", index=False)
+dat_bills_meta[dat_bills_2['has_keywords'] != 1].to_csv(SCRIPT_DIR / "bills_meta_only --subset --no keywords.csv", index=False)
 
 # dat_bills_meta.groupby('congress_term').agg({"congress_term": 'count'})
 
 for i in dat_bills_2[['bill_id', 'full_text', 'summary_text']].values:
-    with open(f"selected_bill_texts/{i[0]}_summary.txt", 'w', encoding='utf-8') as f:
+    with open(SCRIPT_DIR / f"selected_bill_texts/{i[0]}_summary.txt", 'w', encoding='utf-8') as f:
         f.write(i[2])
-    with open(f"selected_bill_texts/{i[0]}_full_text.txt", 'w', encoding='utf-8') as f:
+    with open(SCRIPT_DIR / f"selected_bill_texts/{i[0]}_full_text.txt", 'w', encoding='utf-8') as f:
         f.write(i[1])
 
 
