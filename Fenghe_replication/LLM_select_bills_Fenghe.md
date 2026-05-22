@@ -106,16 +106,16 @@ Note: the prompt uses `summary_text` only (not full text), and also passes `poli
 
 |  | Keyword = True | Keyword = False |
 |---|---|---|
-| **LLM = True** | 758 | 1,441 |
-| **LLM = False** | 58 | 469 |
+| **LLM = True** | 779 | 1,441 |
+| **LLM = False** | 37 | 469 |
 
-The keyword approach has **92.9% precision but only 34.5% recall** against the LLM. The LLM selects 2,199 bills vs. 816 by keywords.
+The keyword approach has **95.5% precision but only 35.1% recall** against the LLM. The LLM selects 2,220 bills vs. 816 by keywords.
 
 ---
 
 ## Keyword vs. LLM Discrepancy Analysis
 
-### Group A: 58 bills — Keyword caught, LLM rejected (false positives)
+### Group A: 37 bills — Keyword caught, LLM rejected (false positives)
 
 Root cause: the bare word `corporate` is the main culprit. It fires on incidental text completely unrelated to financial regulation.
 
@@ -127,7 +127,9 @@ Root cause: the bare word `corporate` is the main culprit. It fires on incidenta
 | `financial statement` / `financial institution` in education grant bills | 6 | `hr1866-114` — grants for financial literacy curricula, zero regulatory content |
 | `securities law` as a single cross-reference clause in insurance licensing bills | 3 | `hr1112-112` — multi-state insurance producer licensing (NARAB) |
 | `financial disclosure` for judicial officers under ethics law | 1 | `hr2336-107` — redaction of judges' personal financial disclosures |
-| LLM parse errors on large omnibus bills (some may be true positives) | 21 | Dodd-Frank `hr4173-111`, PATRIOT Act, Bankruptcy Reform Acts |
+| Other incidental keyword matches | 12 | Various consumer credit and financial literacy bills |
+
+Note: 21 bills that initially showed as parse errors (including Dodd-Frank `hr4173-111`, Financial CHOICE Act `hr10-115`, Gramm-Leach-Bliley `hr10-106`) were re-run and correctly reclassified as `relevant=True`, reducing Group A from 58 to 37. The parse errors were caused by abnormally long summaries (40,000–211,000 chars vs. a median of 1,076 chars across all bills).
 
 **Key finding:** Standalone `corporate` as a keyword generates noise at massive scale across all legislation. A minimum of two-word phrases would dramatically reduce false positives.
 
