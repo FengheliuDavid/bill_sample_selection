@@ -1,0 +1,107 @@
+[Congressional Bills 115th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2954 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+115th CONGRESS
+  2d Session
+                                H. R. 2954
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To amend the Home Mortgage Disclosure Act of 1975 to specify which 
+ depository institutions are subject to the maintenance of records and 
+      disclosure requirements of such Act, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Home Mortgage Disclosure Adjustment 
+Act''.
+
+SEC. 2. DEPOSITORY INSTITUTIONS SUBJECT TO MAINTENANCE OF RECORDS AND 
+              DISCLOSURE REQUIREMENTS.
+
+    (a) In General.--Section 304 of the Home Mortgage Disclosure Act of 
+1975 (12 U.S.C. 2803) is amended--
+            (1) by redesignating subsection (i) as paragraph (3) and 
+        adjusting the margins accordingly; and
+            (2) by inserting before paragraph (3), as so redesignated, 
+        the following:
+    ``(i) Exemptions.--
+            ``(1) Closed-end mortgage loans.--With respect to a 
+        depository institution, the requirements of paragraphs (5) and 
+        (6) of subsection (b) shall not apply with respect to closed-
+        end mortgage loans if the depository institution originated 
+        less than 500 closed-end mortgage loans in each of the 2 
+        preceding calendar years.
+            ``(2) Open-end lines of credit.--With respect to a 
+        depository institution, the requirements of paragraphs (5) and 
+        (6) of subsection (b) shall not apply with respect to open-end 
+        lines of credit if the depository institution originated less 
+        than 500 open-end lines of credit in each of the 2 preceding 
+        calendar years.''.
+    (b) Technical Correction.--Section 304(i)(3) of the Home Mortgage 
+Disclosure Act of 1975, as so redesignated by subsection (a)(1), is 
+amended by striking ``section 303(2)(A)'' and inserting ``section 
+303(3)(A)''.
+
+SEC. 3. SECURITIES AND EXCHANGE COMMISSION RESERVE FUND.
+
+    Notwithstanding section 4(i)(2)(B)(i) of the Securities Exchange 
+Act of 1934 (15 U.S.C. 78d(i)(2)(B)(i)), the amount deposited in the 
+Securities and Exchange Commission Reserve Fund for fiscal year 2018 
+may not exceed $48,000,000.
+
+            Passed the House of Representatives January 18, 2018.
+
+            Attest:
+
+                                                                 Clerk.
+115th CONGRESS
+
+  2d Session
+
+                               H. R. 2954
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To amend the Home Mortgage Disclosure Act of 1975 to specify which 
+ depository institutions are subject to the maintenance of records and 
+      disclosure requirements of such Act, and for other purposes.
+

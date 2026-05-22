@@ -1,0 +1,706 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 2291 Introduced in Senate (IS)]
+
+103d CONGRESS
+  2d Session
+                                S. 2291
+
+     To separate certain activities involving derivative financial 
+      instruments from the insured deposits of insured depository 
+      institutions, to provide for regulatory coordination in the 
+  establishment of principles related to such activities, to provide 
+         enhanced regulatory oversight, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                July 18 (legislative day, July 11), 1994
+
+  Mr. Riegle introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+     To separate certain activities involving derivative financial 
+      instruments from the insured deposits of insured depository 
+      institutions, to provide for regulatory coordination in the 
+  establishment of principles related to such activities, to provide 
+         enhanced regulatory oversight, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Derivatives Supervision Act of 
+1994''.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Appropriate federal banking agency.--The term 
+        ``appropriate Federal banking agency'' has the same meaning as 
+        in section 3 of the Federal Deposit Insurance Act.
+            (2) Capitalization.--The terms ``adequately-capitalized'' 
+        and ``well-capitalized'' have the same meanings as in section 
+        38 of the Federal Deposit Insurance Act.
+            (3) Dealer.--The term ``dealer'' means any person engaged 
+        in the business of purchasing, selling, or engaging in 
+        transactions involving derivative financial instruments for its 
+        own account, through a broker or otherwise, for the purpose of 
+        serving customers who are end-users or other dealers.
+            (4) Derivative financial instrument.--The term ``derivative 
+        financial instrument'' means--
+                    (A) a qualified financial contract (as defined in 
+                section 11(e)(8) of the Federal Deposit Insurance Act); 
+                and
+                    (B) any other instrument which an appropriate 
+                Federal financial institutions regulatory agency 
+                determines, by regulation or order, to be a derivative 
+                financial instrument for purposes of this Act.
+            (5) Federal financial institutions regulatory agency.--The 
+        term ``Federal financial institutions regulatory agency'' 
+        means--
+                    (A) the Office of the Comptroller of the Currency;
+                    (B) the Board of Governors of the Federal Reserve 
+                System;
+                    (C) the Federal Deposit Insurance Corporation;
+                    (D) the Office of Thrift Supervision;
+                    (E) the National Credit Union Administration Board;
+                    (F) the Securities and Exchange Commission;
+                    (G) the Commodity Futures Trading Commission;
+                    (H) the Office of Federal Housing Enterprise 
+                Oversight; and
+                    (I) the Federal Housing Finance Board.
+            (6) Hedging transaction.--The term ``hedging transaction'' 
+        means any transaction involving a derivative financial 
+        instrument if--
+                    (A) such transaction is entered into in the normal 
+                course of business primarily--
+                            (i) to reduce risk of price change or 
+                        currency fluctuations with respect to other 
+                        transactions entered into by the institution, 
+                        previously or simultaneously, to which the 
+                        derivative financial instrument transaction 
+                        relates, either individually or in the 
+                        aggregate; or
+                            (ii) to reduce risk of interest rate 
+                        changes with respect to transactions entered 
+                        into by the institution, previously or 
+                        simultaneously, to which the derivative 
+                        financial instrument transaction relates, 
+                        either individually or in the aggregate; and
+                    (B) before the close of the day on which such 
+                transaction was entered into (or such earlier time as 
+                the appropriate Federal financial regulatory agency may 
+                prescribe by regulation), the regulated entity clearly 
+                identifies such transaction as a hedging transaction.
+            (7) Insured depository institution.--The term ``insured 
+        depository institution'' has the same meaning as in section 3 
+        of the Federal Deposit Insurance Act and includes an insured 
+        credit union, as defined in section 101 of the Federal Credit 
+        Union Act.
+            (8) Major dealer.--The term ``major dealer'' means any 
+        dealer whose ability to meet obligations as they become due is 
+        potentially significant to the stability of financial markets, 
+        as determined by the Federal financial institutions regulators, 
+        based upon size, market share, and the extent of linkages with 
+        other market participants.
+            (9) Regulated entity.--The term ``regulated entity'' 
+        means--
+                    (A) an insured depository institution;
+                    (B) a Federal Home Loan Bank, as defined in section 
+                2 of the Federal Home Loan Bank Act;
+                    (C) the Federal National Mortgage Association and 
+                any affiliate thereof; and
+                    (D) the Federal Home Loan Mortgage Corporation and 
+                any affiliate thereof.
+
+SEC. 3. LIMITATIONS ON DERIVATIVE ACTIVITIES.
+
+    (a) General Prohibition.--Except as provided in subsection (b), a 
+regulated entity may not purchase, sell, or engage in any transaction 
+involving a derivative financial instrument for the account of that 
+entity.
+    (b) Exceptions.--
+            (1) Hedging transactions.--A regulated entity may purchase, 
+        sell, or engage in any transaction involving a derivative 
+        financial instrument for the account of that entity for the 
+        purpose of engaging in a hedging transaction if such activity 
+        involves a category of derivative financial instruments 
+        approved by rule, regulation, or order of the appropriate 
+        Federal financial regulatory agency for such purpose.
+            (2) Dealing.--
+                    (A) Well-capitalized entities.--A well-capitalized 
+                insured depository institution may purchase, sell, or 
+                engage in a transaction involving a derivative 
+                financial instrument as a dealer if such activity 
+                involves a category of derivative financial instruments 
+                approved for such purpose by rule, regulation, or order 
+                of the appropriate Federal banking agency.
+                    (B) Adequately capitalized institutions.--An 
+                insured depository institution or a Federal Home Loan 
+                Bank that is adequately capitalized may purchase, sell, 
+                or engage in a transaction involving a derivative 
+                financial instrument as a dealer if--
+                            (i) the appropriate Federal financial 
+                        institutions regulatory agency determines that 
+                        such activity by the institution is in the 
+                        public interest; and
+                            (ii) the category of such derivative 
+                        financial instrument has been approved for such 
+                        purpose by any rule, regulation, or order 
+                        issued under subparagraph (A).
+    (c) Prohibition Against Speculation.--Nothing in this section shall 
+be construed to authorize a regulated entity, or any subsidiary of such 
+entity, to purchase, sell, or engage in a transaction involving a 
+derivative financial instrument for its own account for any speculative 
+purpose.
+
+SEC. 4. REGULATORY COORDINATION.
+
+    (a) Supervision by Federal Financial Institutions Regulatory 
+Agencies.--
+            (1) In general.--The Federal financial institutions 
+        regulatory agencies shall jointly establish principles and 
+        standards related to capital, accounting, disclosure, 
+        suitability, internal controls structures, and other 
+        appropriate regulatory actions for the supervision of regulated 
+        entities and major dealers engaged in activities involving 
+        derivative financial instruments.
+            (2) Development of minimum capital standards.--In 
+        establishing principles, standards, or other regulatory actions 
+        under paragraph (1), the Federal financial institutions 
+        regulatory agencies shall jointly develop minimum capital 
+        requirements (including the leverage ratio, if appropriate) to 
+        guard against risks that may be posed by regulated entities and 
+        major dealers engaged in activities involving derivative 
+        financial instruments, including--
+                    (A) credit risk;
+                    (B) market risk;
+                    (C) operational risk; and
+                    (D) legal risk.
+            (3) Training.--The Federal financial institutions 
+        regulatory agencies shall jointly sponsor training programs 
+        concerning derivative financial instruments for examiners and 
+        assistant examiners employed by the Federal financial 
+        institutions regulatory agencies. Such training programs shall 
+        be open to enrollment by employees of State financial 
+        institutions supervisory agencies.
+            (4) Confidential emergency management reporting.--
+                    (A) In general.--
+                            (i) Information on a nightly basis.--Not 
+                        later than 1 year after the date of enactment 
+                        of this Act, the Federal financial institutions 
+                        regulatory agencies shall jointly develop a 
+                        means to obtain, on a nightly basis, all 
+                        necessary information from a regulated entity 
+                        or a major dealer.
+                            (ii) Emergency need.--If any Federal 
+                        financial institutions regulatory agency 
+                        determines that such agency needs the 
+                        information described in clause (i) as a result 
+                        of adverse market conditions or other emergency 
+                        situations (as defined by that agency), a 
+                        regulated entity or a major dealer shall 
+                        provide such information to its appropriate 
+                        Federal financial institutions regulatory 
+                        agency, as may be required by that agency.
+                    (B) Confidentiality of information provided.--A 
+                Federal financial institutions regulatory agency that 
+                receives information pursuant to this paragraph with 
+                respect to any regulated entity or major dealer may not 
+                provide such information to any person or entity other 
+                than another Federal financial institutions regulatory 
+                agency with jurisdiction over that entity, dealer, or 
+                affiliate, without the prior written approval of the 
+                appropriate Federal financial institutions regulatory 
+                agency.
+
+SEC. 5. DISCLOSURE REQUIREMENTS.
+
+    (a) Information Required To Be Included in Reports.--Any report of 
+condition or comparable document made by any regulated entity or major 
+dealer in accordance with any applicable provision of law or with 
+respect to any period beginning after December 31, 1994, shall include 
+the following information:
+            (1) Quantitative information with respect to all derivative 
+        financial instruments.--
+                    (A) Gross notional and fair value.--The gross 
+                notional value and the gross positive and negative fair 
+                values of holdings, positions, or other interests of 
+                the regulated entity or major dealer in any category of 
+                derivative financial instrument.
+                    (B) Revenue, gains, and losses.--All revenue 
+                (identified by source of revenue), gains, and losses of 
+                the institution attributable to holdings, positions, or 
+                other interests of the regulated entity or major dealer 
+                in any category of derivative financial instrument.
+                    (C) Exposure under bilateral netting contract.--The 
+                net current credit exposure of the regulated entity or 
+                major dealer under legally enforceable bilateral 
+                arrangements with respect to holdings, positions, or 
+                other interests of the entity or dealer in any category 
+                of derivative financial instrument.
+                    (D) Exposure to individual counterparties.--The 
+                exposure to individual counterparties to any 
+                transaction involving holdings, positions, or other 
+                interests of the regulated entity or major dealer in 
+                any category of derivative financial instrument. The 
+                Federal financial institutions regulatory agencies 
+                shall determine, by regulation or order, the nature and 
+                size of the individual counterparties for which such 
+                information shall be required.
+            (2) Terms to maturity.--Information on the remaining term 
+        to maturity of holdings, positions, or other interests of the 
+        regulated entity or major dealer in any category of derivative 
+        financial instrument.
+    (b) Reporting Requirement.--Information reported pursuant to 
+subsection (a) with respect to derivative financial instruments traded 
+or purchased on an exchange, and the holdings, positions, or other 
+interests in derivative financial instruments which are the subjects of 
+such trades, shall be provided separately from information relating to 
+derivative financial instruments not traded or purchased on an 
+exchange, and the holdings, positions, or other interests in derivative 
+financial instruments which are the subjects of such transactions.
+
+SEC. 6. MANAGEMENT CONTROLS.
+
+    (a) Requirements Relating to Directors and Senior Executive 
+Officers.--
+            (1) Management plan required with respect to all derivative 
+        financial instruments.--A regulated entity or a major dealer 
+        may not engage in activities involving derivative financial 
+        instruments without, as part of its internal controls 
+        structure, a management plan that--
+                    (A) sets forth--
+                            (i) the purpose of the holdings, positions, 
+                        or other interests of the regulated entity or 
+                        major dealer in any category of derivative 
+                        financial instrument;
+                            (ii) how such holdings, positions, or other 
+                        interests in any category of derivative 
+                        financial instrument is consistent with the 
+                        overall risk management plan of the regulated 
+                        entity or major dealer; and
+                            (iii) how the regulated entity or major 
+                        dealer acquires holdings, positions, and other 
+                        interests in any category of derivative 
+                        financial instruments; and
+                    (B) describes the accounting methods used to value 
+                holdings, positions, or other interests of the 
+                regulated entity or major dealer in any category of 
+                derivative financial instrument; and
+                    (C) requires that derivative financial instrument 
+                activities are conducted with direct oversight by the 
+                appropriate senior executive officers (as defined 
+                pursuant to section 32(f) of the Federal Deposit 
+                Insurance Act) of the regulated entity or major dealer.
+            (2) Familiarity with risks required.--A regulated entity or 
+        major dealer may not engage in any transaction involving a 
+        derivative financial instrument unless the board of directors 
+        of such entity or dealer periodically reviews compliance with 
+        the management plan by the appropriate senior executive 
+        officers.
+
+SEC. 7. ENFORCEMENT.
+
+    (a) In General.--Each Federal financial institutions regulatory 
+agency may use the enforcement authority available to that agency under 
+other provisions of law to enforce the provisions of sections 3 through 
+6 of this Act, and any regulations promulgated in accordance with this 
+Act, as the agency determines to be appropriate.
+    (b) Securities and Exchange Commission Enforcement Authority.--The 
+Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by 
+inserting after section 21C the following new section:
+
+                   ``derivative financial instruments
+
+    ``Sec. 21D. (a) Supervision by the Commission.--Any major dealer 
+whose activities involving derivative financial instruments are not 
+subject to regulation by a Federal financial institutions regulatory 
+agency under the Derivatives Supervision Act of 1994, shall be subject 
+to appropriate regulation and enforcement by the Commission in 
+accordance with the authority provided to the Commission under this 
+title, and consistent with any principles, standards, or other 
+regulatory actions established in accordance with the Derivatives 
+Supervision Act of 1994.
+    ``(b) Definitions.--For purposes of this section, the terms 
+`derivative financial instrument', `Federal financial institutions 
+regulatory agency', and `major dealer' have the same meanings as in 
+section 2 of the Derivatives Supervision Act of 1994.''.
+
+SEC. 8. INTERNATIONAL COORDINATION.
+
+    The Secretary of the Treasury and the Chairman of the Board of 
+Governors of the Federal Reserve System, in consultation with the 
+Federal financial institutions regulatory agencies, shall encourage 
+governments, central banks, and regulatory authorities of other 
+industrialized countries to work toward maintaining and, where 
+appropriate, adopting comparable supervisory standards, regulations, 
+and capital standards in particular, for regulated entities and major 
+dealers engaged in activities involving derivative financial 
+instruments.
+
+SEC. 9. BANK HOLDING COMPANIES.
+
+    Section 3 of the Bank Holding Company Act of 1956 (12 U.S.C. 1842) 
+is amended by adding at the end the following new subsection:
+    ``(h) Derivative Activities.--
+            ``(1) In general.--A subsidiary of a bank holding company 
+        may purchase, sell, or engage in any transaction involving a 
+        derivative financial instrument for the account of that 
+        subsidiary if it is not an insured depository institution or a 
+        subsidiary of an insured depository institution.
+            ``(2) Consolidated capital.--The capital of a subsidiary 
+        engaged in activities described in paragraph (1) shall not be 
+        included in the consolidated capital of its parent bank holding 
+        company for the purpose of determining the compliance of such 
+        bank holding company with any applicable capital requirement.
+            ``(3) Establishment of subsidiaries.--The Board shall 
+        establish, by regulation, appropriate terms and conditions for 
+        the establishment of a subsidiary referred to in paragraph (1), 
+        consistent with any principles, standards or other regulatory 
+        actions established under section 4 of the Derivatives 
+        Supervision Act of 1994.
+            ``(4) Definitions.--For purposes of this subsection--
+                    ``(A) the term `derivative financial instrument' 
+                means--
+                            ``(i) an instrument the value of which is 
+                        derived from the value of other assets, 
+                        interest or currency exchange rates, or 
+                        indexes, including qualified financial 
+                        contracts (as defined in section 11(e)(8) of 
+                        the Federal Deposit Insurance Act); and
+                            ``(ii) any other instrument which an 
+                        appropriate Federal financial institutions 
+                        regulatory agency determines, by regulation or 
+                        order, to be a derivative financial instrument 
+                        for purposes of this section; and
+                    ``(B) the term `Federal financial institutions 
+                regulatory agency' has the same meaning as in section 2 
+                of the Derivatives Supervision Act of 1994.''.
+
+SEC. 10. SYSTEMIC RISK.
+
+    (a) In General.--Not later than 18 months after the date of 
+enactment of this Act, the Federal financial institutions regulatory 
+agencies shall, in order to reduce the risk associated with potential 
+systemic financial market failure, promulgate appropriate regulations 
+to require regulated entities and major dealers to--
+            (1) increase use of clearinghouses and multilateral netting 
+        agreements;
+            (2) reduce intraday debit positions;
+            (3) shorten intervals between financial transactions in 
+        cash markets and their final settlement;
+            (4) shorten intervals between delivery of and payment for 
+        financial products; and
+            (5) otherwise reduce payments and settlement risk.
+    (b) Considerations.--In implementing this section, the Federal 
+financial institutions regulatory agencies shall consider, as 
+appropriate--
+            (1) the costs imposed on or benefits granted to regulated 
+        entities and major dealers by regulatory actions taken under 
+        this section;
+            (2) the public benefits of reducing systemic risk; and
+            (3) the effects of any proposed action on the international 
+        competitive position of United States financial institutions.
+    (c) Effective Date of Regulations.--The regulations promulgated 
+under subsection (a) shall become effective 3 years after the date of 
+enactment of this Act, and shall be fully implemented 5 years after the 
+date of enactment of this Act.
+
+SEC. 11. REGULATORY CLARIFICATION AMENDMENTS.
+
+    (a) Federal Deposit Insurance Act Amendments.--
+            (1) Definitions of certain terms.--Section 11(e)(8)(D) of 
+        the Federal Deposit Insurance Act (12 U.S.C. 1821(e)(8)(D)) is 
+        amended--
+                    (A) in clause (iv), by striking ``section 101(24)'' 
+                and inserting ``section 101(25)'';
+                    (B) in clause (v)(I), by striking ``section 
+                101(41)'' and inserting ``section 101(47)'';
+                    (C) in clause (vi)(I)--
+                            (i) by inserting ``equity or equity index 
+                        swap, equity or equity index option, bond 
+                        option,'' after ``commodity swap,''; and
+                            (ii) by striking ``purchased'' each place 
+                        it appears; and
+                    (D) by striking clause (vii) and inserting the 
+                following:
+                            ``(vii) Treatment of master agreement as 1 
+                        agreement.--Any master agreement for any 
+                        qualified financial contract, as defined in 
+                        clauses (i) through (vi) (or any master 
+                        agreement there for), together with all 
+                        supplements thereto, shall be treated as a 
+                        single agreement and a single qualified 
+                        financial contract.''.
+            (2) Default against corporation as conservator.--Section 
+        11(e)(8)(E) of the Federal Deposit Insurance Act (12 U.S.C. 
+        1821(e)(8)(E)) is amended--
+                    (A) by striking ``paragraph (12) of this 
+                subsection,''; and
+                    (B) by striking ``subsection (d)(9)'' and inserting 
+                ``paragraph (10) of this subsection, subsections (d)(9) 
+                and (n)(4)(I)''.
+            (3) Notification of transfer; rights enforceable against 
+        receiver or conservator.--Section 11(e)(10) of the Federal 
+        Deposit Insurance Act (12 U.S.C. 1821(e)(10)) is amended--
+                    (A) in the heading, by inserting ``; rights 
+                enforceable against conservator or receiver'' before 
+                the period;
+                    (B) by redesignating subparagraph (B) as 
+                subparagraph (C); and
+                    (C) by striking subparagraph (A) and inserting the 
+                following:
+                    ``(A) In general.--The receiver for an insured 
+                depository institution in default shall notify any 
+                person who is a party to a qualified financial 
+                contract, not later than 5:00 p.m. (Eastern Time) on 
+                the business day following the appointment of the 
+                receiver, of any transfer made by the receiver of the 
+                assets and liabilities of such institution that 
+                includes such qualified financial contract.
+                    ``(B) Certain rights not enforceable.--
+                            ``(i) Rights against a receiver.--A person 
+                        who is a party to a qualified financial 
+                        contract with an insured depository institution 
+                        may not exercise any right such person may have 
+                        to net or close out such contract under 
+                        paragraph (8)(A) of this subsection, or section 
+                        403 or 404 of the Federal Deposit Insurance 
+                        Corporation Improvement Act of 1991, solely by 
+                        reason of the appointment of a receiver for the 
+                        depository institution (or insolvency or 
+                        financial condition of the institution for 
+                        which the receiver is appointed)--
+                                    ``(I) before 5:00 p.m. (Eastern 
+                                Time) on the business day following the 
+                                appointment of the receiver; or
+                                    ``(II) after the person has 
+                                received notice that the contract has 
+                                been transferred pursuant to paragraph 
+                                (9)(A).
+                            ``(ii) Timing of notification.--For 
+                        purposes of clause (i)(II), the Corporation, as 
+                        receiver of an insured depository institution, 
+                        shall be deemed to have provided notice if such 
+                        notice was sent to the last address shown in 
+                        the records of the insured depository 
+                        institution by the means, if any, provided for 
+                        in the subject qualified financial contract, or 
+                        by other means reasonably calculated to reach 
+                        that person not later than the time specified 
+                        in clause (i)(I).
+                            ``(iii) Rights against conservator.--A 
+                        person who is a party to a qualified financial 
+                        contract with an insured depository institution 
+                        may not exercise any right such person has to 
+                        net or close out such contract under paragraph 
+                        (8)(E) of this subsection, or section 403 or 
+                        404 of the Federal Deposit Insurance 
+                        Corporation Improvement Act of 1991, solely by 
+                        reason of the appointment of a conservator for 
+                        the insured depository institution.''.
+            (4) Agreements against interest of corporation.--Section 
+        13(e) of the Federal Deposit Insurance Act (12 U.S.C. 1823(e)) 
+        is amended--
+                    (A) by inserting the following before ``No 
+                agreement'':
+            ``(1) In general.--'';
+                    (B) by redesignating paragraphs (1) through (4) as 
+                subparagraphs (A) through (D), respectively; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(2) Exemptions from contemporaneous execution 
+        requirement.--An agreement to provide for the lawful 
+        collateralization of--
+                    ``(A) deposits of, or other credit extension by, a 
+                Federal, State, or local governmental entity, including 
+                an agreement to provide collateral in lieu of a surety 
+                bond;
+                    ``(B) bankruptcy estate funds pursuant to section 
+                345(b)(2) of title 11, United States Code;
+                    ``(C) extensions of credit, including any 
+                overdraft, from a Federal Reserve Bank or Federal Home 
+                Loan Bank; or
+                    ``(D) a qualified financial contract, as defined in 
+                section 11(e)(8)(D);
+        shall not be deemed to be invalid pursuant to subparagraph (B) 
+        of paragraph (1) solely because such agreement was not executed 
+        contemporaneously with the acquisition of the collateral or 
+        because of pledges, delivery, and substitution of the 
+        collateral made in accordance with such agreement.''.
+    (b) Federal Deposit Insurance Corporation Improvement Act 
+Amendments.--Sections 403(a) and 404(a) of the Federal Deposit 
+Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4403(a), 
+4404(a)) are each amended by striking ``other provision of law'' each 
+place such term appears, and inserting ``provision of law, other than 
+paragraphs (8)(E) and (10)(B) of section 11(e) of the Federal Deposit 
+Insurance Act''.
+    (c) Bankruptcy Code Amendments.--
+            (1) Definitions.--Section 101 of title 11, United States 
+        Code, is amended--
+                    (A) in paragraph (55)(A) (the first place paragraph 
+                (55) appears)--
+                            (i) by inserting ``equity or equity index 
+                        swap, equity or equity index option, bond 
+                        option,'' after ``basis swap,'';
+                            (ii) by inserting ``interest rate future,'' 
+                        after ``commodity swap,'';
+                            (iii) by striking ``forward foreign 
+                        exchange'' and inserting ``foreign exchange''; 
+                        and
+                            (iv) by inserting ``currency future,'' 
+                        after ``cross-currency rate swap agreement,'';
+                    (B) by redesignating paragraphs (54) through (57), 
+                the second place those paragraphs appear, as paragraphs 
+                (58) through (61), respectively;
+                    (C) in paragraph (60), as redesignated, by striking 
+                ``and'';
+                    (D) in paragraph (61), as redesignated, by striking 
+                the period at the end and inserting a semicolon; and
+                    (E) by adding at the end the following new 
+                paragraphs:
+            ``(62) `master netting agreement' means an agreement 
+        providing for the exercise of rights, including rights of 
+        setoff, liquidation, termination, acceleration, or closeout, in 
+        connection with one or more contracts with the debtor that are 
+        described in paragraphs (1) through (5) of section 561(a); and
+            ``(63) `master netting agreement participant' means an 
+        entity that, at any time before the filing of the petition, has 
+        an outstanding master netting agreement covering any of the 
+        contracts described in section 561 with the debtor.''.
+            (2) Automatic stay.--Section 362(b) of title 11, United 
+        States Code, is amended--
+                    (A) in paragraph (13), by striking ``or'' at the 
+                end;
+                    (B) by redesignating paragraphs (15) and (16) as 
+                paragraphs (16) and (17), respectively;
+                    (C) by redesignating paragraph (14), the second 
+                place such paragraph appears, as paragraph (15); and
+                    (D) by amending paragraph (14) to read as follows:
+            ``(14) under subsection (a), of the setoff by a swap 
+        participant or master netting agreement participant of any 
+        mutual debt and claim under or in connection with any swap 
+        agreement or master netting agreement that constitutes the 
+        setoff of a claim against the debtor for any payment due from 
+        the debtor under or in connection with any such agreement 
+        against--
+                    ``(A) any payment due to the debtor from such 
+                participant under or in connection with any such 
+                agreement; or
+                    ``(B) cash, securities, or other property of the 
+                debtor held by or due from such participant to 
+                guarantee, secure, or settle any such agreement;''.
+            (3) Limitations on avoiding powers.--Section 546(g) of 
+        title 11, United States Code, is amended--
+                    (A) by inserting ``or a master netting agreement 
+                covering any of the contracts described in section 
+                561'' after ``under a swap agreement'';
+                    (B) by inserting ``or a master netting agreement 
+                participant'' after ``swap participant''; and
+                    (C) by inserting ``or any master netting 
+                agreement'' after ``with a swap agreement''.
+            (4) Fraudulent transfers and obligations.--Section 
+        548(d)(2) of title 11, United States Code, is amended--
+                    (A) in subparagraph (C), by striking ``and'';
+                    (B) in subparagraph (D), by striking the period and 
+                inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(E) a master netting agreement participant that 
+                receives a transfer in connection with a master netting 
+                agreement covering any of the contracts described in 
+                section 561 takes for value to the extent of such 
+                transfer.''.
+            (5) Contractual right to liquidate a securities contract.--
+        Section 555 of title 11, United States Code, is amended--
+                    (A) in the section heading, by inserting ``, 
+                terminate, or accelerate'' after ``liquidate''; and
+                    (B) in the first sentence, by inserting ``, 
+                termination, or acceleration'' after ``liquidation''.
+            (6) Contractual right to liquidate a commodities contract 
+        or forward contract.--Section 556 of title 11, United States 
+        Code, is amended--
+                    (A) in the section heading, by inserting ``, 
+                terminate, or accelerate'' after ``liquidate''; and
+                    (B) in the first sentence, by inserting ``, 
+                termination, or acceleration'' after ``liquidation''.
+            (7) Contractual right to liquidate a repurchase 
+        agreement.--Section 559 of title 11, United States Code, is 
+        amended--
+                    (A) in the section heading, by inserting ``, 
+                terminate, or accelerate'' after ``liquidate''; and
+                    (B) in the first sentence, by inserting ``, 
+                termination, or acceleration'' after ``liquidation''.
+            (8) Contractual right to liquidate a swap agreement.--
+        Section 560 of title 11, United States Code, is amended--
+                    (A) in the section heading, by striking 
+                ``terminate'' and inserting ``liquidate, terminate, or 
+                accelerate''; and
+                    (B) in the first sentence, by striking 
+                ``termination'' and inserting ``liquidation, 
+                termination, or acceleration''.
+            (9) Contractual right to terminate, liquidate, accelerate, 
+        or offset a master netting agreement.--Chapter 5 of title 11, 
+        United States Code, is amended by adding at the end the 
+        following new section:
+``Sec. 561. Contractual right to terminate, liquidate, accelerate, or 
+              offset under a master netting agreement
+    ``(a) In General.--Subject to subsection (b), the exercise of any 
+contractual right, because of a condition of the kind specified in 
+section 365(e)(1), to cause termination, liquidation, acceleration, 
+offset, or netting of values or payment amounts arising under or in 
+connection with one or more--
+            ``(1) securities contracts, as defined in section 741(7);
+            ``(2) commodities contracts, as defined in section 761(4);
+            ``(3) forward contracts;
+            ``(4) repurchase agreements; or
+            ``(5) swap agreements;
+under a master netting agreement covering such contracts shall not be 
+stayed, avoided, or otherwise limited by operation of any provision of 
+this title or by any order of a court or administrative agency in any 
+proceeding under this title.
+    ``(b) Exception.--A party may exercise a contractual right 
+described in subsection (a) only if that party could exercise such a 
+right under section 555, 556, 559, or 560 for each individual contract 
+covered by the master netting agreement in issue.
+    ``(c) Definition.--As used in this section, the term `contractual 
+right' includes a right, whether or not evidenced in writing, arising 
+under common law, under law merchant, or by reason of normal business 
+practice, a right set forth in a rule or bylaw of a national securities 
+exchange, a national securities association or a securities clearing 
+agency, and a right set forth in a bylaw of a clearing organization or 
+contract market or in a resolution of the governing board thereof.''.
+            (9) Debts of a municipality.--Section 901(a) of title 11, 
+        United States Code, is amended--
+                    (A) by inserting ``555, 556,'' after ``553,''; and
+                    (B) by inserting ``559, 560, 561'' after ``557,''.
+
+SEC. 12. REGULATIONS.
+
+    Each of the Federal financial institutions regulatory agencies 
+shall issue consistent regulations governing activities involving 
+derivative financial instruments for the purpose of implementing this 
+Act.
+
+SEC. 13. EFFECTIVE DATES.
+
+    (a) In General.--Except as provided in subsection (b), this Act 
+shall become effective 1 year after the date of enactment of this Act.
+    (b) Exception.--The amendments made by section 11 shall become 
+effective on the date of enactment of this Act.
+                                 <all>
+S 2291 IS----2
+S 2291 IS----3
+

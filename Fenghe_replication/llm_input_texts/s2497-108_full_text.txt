@@ -1,0 +1,223 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[S. 2497 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+108th CONGRESS
+  2d Session
+                                S. 2497
+
+   To amend the securities laws to provide for enhanced mutual fund 
+             investor protections, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              June 3, 2004
+
+ Mr. Lieberman introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the securities laws to provide for enhanced mutual fund 
+             investor protections, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Small Investor Protection Act of 
+2004''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act--
+            (1) the term ``Chairman'' means the Chairman of the 
+        Securities and Exchange Commission;
+            (2) the terms ``broker'', ``dealer'', and ``securities'' 
+        have the same meanings as in section 3 of the Securities 
+        Exchange Act of 1934;
+            (3) the term ``Commission'' means the Securities and 
+        Exchange Commission; and
+            (4) the term ``individual investors'' means 
+        nonprofessional, noninstitutional investors, as a class, 
+        including small investors.
+
+SEC. 3. DIVISION OF THE INVESTOR.
+
+    (a) Establishment.--There is established within the Commission the 
+Division of the Investor.
+    (b) Director.--
+            (1) Appointment.--The Division of the Investor shall be 
+        headed by a Director, who shall be appointed by the Commission 
+        from among individuals who have--
+                    (A) a demonstrated commitment to the rights and 
+                interests of individual investors and to the public 
+                interest;
+                    (B) experience in advocating for, educating, or 
+                otherwise assisting individual investors; and
+                    (C) knowledge of the financial markets.
+            (2) Report to chairman.--The Director of the Division of 
+        the Investor shall report directly to the Chairman.
+    (c) Duties of the Division.--The duties of the Division of the 
+Investor shall be--
+            (1) to serve as an advocate for individual investors by--
+                    (A) assessing and advocating for the interests of 
+                individual investors;
+                    (B) providing views to the Commission and 
+                Commission staff as to whether policy proposals and 
+                proposed rules effectively serve, and, if appropriate, 
+                how they can better serve, the interests of individual 
+                investors;
+                    (C) identifying areas of concern to individual 
+                investors that may warrant or benefit from Commission 
+                action;
+                    (D) conducting qualitative and quantitative 
+                research to determine the information and other needs 
+                of individual investors; and
+                    (E) serving as a liaison between investor advocacy 
+                organizations and the Commission, and developing 
+                processes to receive meaningful input from such 
+                organizations and from individual investors;
+            (2) to assist and educate individual investors by 
+        performing the functions performed on the day before the 
+        effective date of this Act by the Director of the Office of 
+        Investor Education and Assistance (previously known as the 
+        Office of Consumer Affairs), as set forth in section 200.24a of 
+        title 17 of the Code of Federal Regulations, as in effect on 
+        the effective date of this Act, including--
+                    (A) developing and disseminating educational 
+                materials to individual investors;
+                    (B) receiving, tracking, and analyzing complaints 
+                from individual investors about entities regulated by 
+                the Commission, and transmitting to other offices and 
+                divisions within the Commission and to the Commission 
+                itself relevant information from such individual 
+                investors; and
+                    (C) providing information to individual investors 
+                concerning entities regulated by the Commission, the 
+                operation of the securities markets, and the functions 
+                of the Commission; and
+            (3) to perform other functions to promote the interests of 
+        individual investors, as the Chairman determines appropriate.
+    (d) Small Investors.--In carrying out this section, the Division of 
+the Investor shall pay particular attention to the needs and interests 
+of small investors.
+    (e) Views on Proposed Rules.--Whenever the Commission proposes a 
+new rule or an amendment to an existing rule, or otherwise solicits 
+public comment on a matter of importance to individual investors, the 
+Director of the Division of the Investor shall prepare a written 
+summary of the Division's views on the proposed rule or other matter, 
+and the Commission shall include the summary in its Notice of Proposed 
+Rulemaking or other public solicitation of comments.
+
+SEC. 4. OFFICE OF RISK ASSESSMENT.
+
+    (a) Establishment.--There is established within the Commission the 
+Office of Risk Assessment.
+    (b) Director.--
+            (1) Appointment.--The Office of Risk Assessment shall be 
+        headed by a Director, who shall be appointed by the Commission 
+        from among individuals who have--
+                    (A) demonstrated experience in public and private 
+                risk analysis or in uncovering and investigating 
+                financial fraud or other financial misconduct, or both;
+                    (B) knowledge of the financial markets; and
+                    (C) demonstrated commitment to the public interest.
+            (2) Report to chairman.--The Director of the Office of Risk 
+        Assessment shall report directly to the Chairman.
+    (c) Duties of the Office.--The duties of the Office of Risk 
+Assessment shall be--
+            (1) to assess industry practices within the jurisdiction of 
+        the Commission to identify any risks associated with those 
+        practices that could most likely harm investors and the public;
+            (2) to develop strategies to address and mitigate any such 
+        risks, and prevent or lessen the potential harm to investors 
+        and the public;
+            (3) to coordinate risk assessment and risk management 
+        activities throughout the Commission; and
+            (4) to prepare annual reports to the Commission assessing 
+        areas that potentially pose the most significant risks to 
+        investors during the 3-year period following submission of each 
+        such report.
+    (d) Use of Information.--In performing its duties under this 
+section, the Office of Risk Assessment shall seek and make use of 
+information from a wide range of sources, both within and outside of 
+the Commission, including securities filings, information gathered in 
+compliance inspections and examinations, consumer complaints, tips from 
+individuals working within publicly traded corporations or the 
+securities industry, academic research, and relevant information from 
+industry and other sources, consistent with applicable privacy and 
+other laws.
+
+SEC. 5. CONSUMER RESEARCH.
+
+    (a) In General.--Whenever it considers requiring significant 
+disclosures to investors, whether in advertising, on web sites, or in 
+documents required by law or regulation, the Commission shall consider 
+and give weight to empirical evidence as to whether the proposed 
+disclosure as a whole, including its wording, its format, the context 
+and location in which it appears, and the timing and manner of its 
+dissemination, is likely to meaningfully improve understanding by 
+individual investors to assist them in making wise financial decisions, 
+and whether alternative disclosures would be more effective in 
+improving investor understanding.
+    (b) Types of Evidence.--Empirical evidence referred to in 
+subsection (a)--
+            (1) may be qualitative or quantitative;
+            (2) should be of a type that relevant experts would 
+        consider competent and reliable evidence of the understanding 
+        of average investors; and
+            (3) may include evidence developed by the Commission or by 
+        others.
+
+SEC. 6. FUND SUMMARIES.
+
+    (a) Summaries Required.--
+            (1) In general.--Section 12 of the Investment Company Act 
+        of 1940 (15 U.S.C. 80a-12) is amended by adding at the end the 
+        following:
+    ``(h) Summaries Required for Open-End Companies.--It shall be 
+unlawful for an open-end registered investment company to offer its 
+securities for sale, unless, prior to completion of the sale, it 
+provides to investors a summary of relevant characteristics of the 
+investment, including information on expenses, risk, and 
+diversification, and any other information that the Commission 
+determines will assist investors in making wise financial decisions.''.
+            (2) Effective date.--Section 12(h) of the Investment 
+        Company Act of 1940, as added by paragraph (1) of this 
+        subsection, shall become effective on the earlier of--
+                    (A) the effective date of regulations issued under 
+                subsection (c); or
+                    (B) 1 year after the date of enactment of this Act.
+    (b) Study.--The Commission shall conduct a study, including 
+usability testing where appropriate, to determine--
+            (1) the information most likely to assist average mutual 
+        fund investors in making wise financial decisions; and
+            (2) the best media and format in which to present such 
+        information so as to ensure that it is readily accessible and 
+        understandable to average investors.
+    (c) Implementing Regulations.--Not later than 1 year after the date 
+of enactment of this Act, the Commission shall issue final regulations 
+implementing the requirements of section 12(h) of the Investment 
+Company Act of 1940, as added by subsection (a), and specifying the 
+content and format of the summary required under that section 12(h), 
+consistent with the findings of the Commission in the study conducted 
+under subsection (b), except that such summary shall not exceed in 
+length the equivalent of 4 printed pages of text.
+                                 <all>
+

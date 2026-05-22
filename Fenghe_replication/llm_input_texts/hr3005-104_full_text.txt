@@ -1,0 +1,1310 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3005 Reported in House (RH)]
+
+
+
+
+
+                                                 Union Calendar No. 310
+
+104th CONGRESS
+
+  2d Session
+
+                               H. R. 3005
+
+                          [Report No. 104-622]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+To amend the Federal securities laws in order to promote efficiency and 
+capital formation in the financial markets, and to amend the Investment 
+  Company Act of 1940 to promote more efficient management of mutual 
+     funds, protect investors, and provide more effective and less 
+                         burdensome regulation.
+
+_______________________________________________________________________
+
+                             June 17, 1996
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+
+
+
+
+
+                                                 Union Calendar No. 310
+104th CONGRESS
+  2d Session
+                                H. R. 3005
+
+                          [Report No. 104-622]
+
+To amend the Federal securities laws in order to promote efficiency and 
+capital formation in the financial markets, and to amend the Investment 
+  Company Act of 1940 to promote more efficient management of mutual 
+     funds, protect investors, and provide more effective and less 
+                         burdensome regulation.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 5, 1996
+
+ Mr. Fields of Texas introduced the following bill; which was referred 
+                      to the Committee on Commerce
+
+                             June 17, 1996
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+ [For text of introduced bill, see copy of bill as introduced on March 
+                                5, 1996]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal securities laws in order to promote efficiency and 
+capital formation in the financial markets, and to amend the Investment 
+  Company Act of 1940 to promote more efficient management of mutual 
+     funds, protect investors, and provide more effective and less 
+                         burdensome regulation.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Securities 
+Amendments of 1996''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+        TITLE I--CAPITAL MARKETS DEREGULATION AND LIBERALIZATION
+
+Sec. 101. Short title.
+Sec. 102. Creation of national securities markets.
+Sec. 103. Margin requirements.
+Sec. 104. Prospectus delivery.
+Sec. 105. Exemptive authority.
+Sec. 106. Promotion of efficiency, competition, and capital formation.
+Sec. 107. Privatization of EDGAR.
+Sec. 108. Coordination of Examining Authorities.
+Sec. 109. Foreign press conferences.
+Sec. 110. Report on Trust Indenture Act of 1939.
+
+              TITLE II--INVESTMENT COMPANY ACT AMENDMENTS
+
+Sec. 201. Short title.
+Sec. 202. Funds of funds.
+Sec. 203. Registration of securities.
+Sec. 204. Investment company advertising prospectus.
+Sec. 205. Variable insurance contracts.
+Sec. 206. Reports to the Commission and shareholders.
+Sec. 207. Books, records and inspections.
+Sec. 208. Investment company names.
+Sec. 209. Exceptions from definition of investment company.
+
+        TITLE I--CAPITAL MARKETS DEREGULATION AND LIBERALIZATION
+
+SEC. 101. SHORT TITLE.
+
+    This title may be cited as the ``Capital Markets Deregulation and 
+Liberalization Act of 1996''.
+
+SEC. 102. CREATION OF NATIONAL SECURITIES MARKETS.
+
+    (a) Securities Act of 1933.--
+            (1) Amendment.--Section 18 of the Securities Act of 1933 
+        (15 U.S.C. 77r) is amended to read as follows:
+
+``SEC. 18. EXEMPTION FROM STATE REGULATION OF SECURITIES OFFERINGS.
+
+    ``(a) Scope of Exemption.--Except as otherwise provided in this 
+section, no law, rule, regulation, or order, or other administrative 
+action of any State or Territory of the United States, or the District 
+of Columbia, or any political subdivision thereof--
+            ``(1) requiring, or with respect to, registration or 
+        qualification of securities, or registration or qualification 
+        of securities transactions, shall directly or indirectly apply 
+        to a security that--
+                    ``(A) is a covered security; or
+                    ``(B) will be a covered security upon completion of 
+                the transaction;
+            ``(2) shall directly or indirectly prohibit, limit, or 
+        impose conditions upon the use of--
+                    ``(A) with respect to a covered security described 
+                in subsection (b)(1) or (c)(1)--
+                            ``(i) any offering document that is 
+                        prepared by the issuer; or
+                            ``(ii) any offering document that is not 
+                        prepared by the issuer if such offering 
+                        document is required to be and is filed with 
+                        the Commission or any national securities 
+                        organization registered under section 15A of 
+                        the Securities Exchange Act of 1934 (15 U.S.C. 
+                        78o-3);
+                    ``(B) with respect to a covered security described 
+                in paragraph (2), (3), or (4) of subsection (b), any 
+                offering document; or
+                    ``(C) any proxy statement, report to shareholders, 
+                or other disclosure document relating to a covered 
+                security or the issuer thereof that is required to be 
+                and is filed with the Commission or any national 
+                securities organization registered under section 15A of 
+                the Securities Exchange Act of 1934 (15 U.S.C. 78o-3); 
+                or
+            ``(3) shall directly or indirectly prohibit, limit, or 
+        impose conditions, based on the merits of such offering or 
+        issuer, upon the offer or sale of any security described in 
+        paragraph (1).
+    ``(b) Covered Securities.--For purposes of this section, the 
+following are covered securities:
+            ``(1) Exclusive federal registration of nationally traded 
+        securities.--A security is a covered security if such security 
+        is--
+                    ``(A) listed, or authorized for listing, on the New 
+                York Stock Exchange or the American Stock Exchange, or 
+                included or qualified for inclusion in the National 
+                Market System of the National Association of Securities 
+                Dealers Automated Quotation System (or any successor to 
+                such entities);
+                    ``(B) listed, or authorized for listing, on a 
+                national securities exchange (or tier or segment 
+                thereof) that has listing standards that the Commission 
+                determines by rule (on its own initiative or on the 
+                basis of a petition) are substantially similar to the 
+                listing standards applicable to securities described in 
+                subparagraph (A); or
+                    ``(C) is a security of the same issuer that is 
+                equal in seniority or senior to a security described in 
+                subparagraph (A) or (B).
+            ``(2) Exclusive federal registration of investment 
+        companies.--A security is a covered security if such security 
+        is a security issued by an investment company that is 
+        registered under the Investment Company Act of 1940 (15 U.S.C. 
+        80a et seq.).
+            ``(3) Sales to qualified purchasers.--A security is a 
+        covered security with respect to the offer or sale of the 
+        security to qualified purchasers, as defined by the Commission 
+        by rule. In prescribing such rule, the Commission may define 
+        qualified purchaser differently with respect to different 
+        categories of securities, consistent with the public interest 
+        and the protection of investors.
+            ``(4) Exemption in connection with certain exempt 
+        offerings.--A security is a covered security if--
+                    ``(A) the offer or sale of such security is exempt 
+                from registration under this title pursuant to section 
+                4(1) or 4(3), and--
+                            ``(i) the issuer of such security files 
+                        reports with the Commission pursuant to section 
+                        13 or 15(d) of the Securities Exchange Act of 
+                        1934 (15 U.S.C. 78m, 78o(d)); or
+                            ``(ii) the issuer is exempt from filing 
+                        such reports;
+                    ``(B) such security is exempt from registration 
+                under this title pursuant to section 4(4);
+                    ``(C) the offer or sale of such security is exempt 
+                from registration under this title pursuant to section 
+                3(a), other than the offer or sale of a security that 
+is exempt from such registration pursuant to paragraph (4) or (11) of 
+such section, except that a municipal security that is exempt from such 
+registration pursuant to paragraph (2) of such section is not a covered 
+security with respect to the offer or sale of such security in the 
+State in which such security is issued; or
+                    ``(D) the offer or sale of such security is exempt 
+                from registration under this title pursuant to 
+                Commission rule or regulation under section 4(2) of 
+                this title.
+    ``(c) Conditionally Covered Securities.--
+            ``(1) Federally registered offerings.--Subject to the 
+        limitations contained in paragraphs (2) and (3), a security is 
+        a covered security if--
+                    ``(A) the issuer of such security has (or will have 
+                upon conclusion of the transaction) total assets 
+                exceeding $10,000,000;
+                    ``(B) such security is the subject of a 
+                registration statement that is filed with the 
+                Commission pursuant to this title; and
+                    ``(C) the issuer files with such registration 
+                statement audited financial statements for each of the 
+                two most recent fiscal years of its operations ending 
+                before the filing of the registration statement.
+            ``(2) Limitations for certain offerings.--Notwithstanding 
+        paragraph (1), a security is not a covered security if such 
+        security is--
+                    ``(A) a security of an issuer which is a blank 
+                check company (as defined in section 7(b) of this 
+                title), a partnership, a limited liability company, or 
+                a direct participation investment program;
+                    ``(B) a penny stock (as such term is defined in 
+                section 3(a)(51) of the Securities Exchange Act of 1934 
+                (15 U.S.C. 78c(a)(51)); or
+                    ``(C) a security issued in an offering relating to 
+                a rollup transaction (as such term is defined in 
+                paragraphs (4) and (5) of section 14(h) of such Act (15 
+                U.S.C. 78n(h)(4), (5)).
+            ``(3) Limitations based on misconduct.--Notwithstanding 
+        paragraph (1), a security is not a covered security--
+                    ``(A) with respect to any State, if the issuer, or 
+                a principal officer or principal shareholder thereof--
+                            ``(i) is subject to a statutory 
+                        disqualification, as defined in subparagraph 
+                        (A), (B), (C), or (D) of section 3(a)(39) of 
+                        the Securities Exchange Act of 1934 (15 U.S.C. 
+                        78c(a)(39));
+                            ``(ii) has been convicted within 5 years 
+                        prior to the offering of any felony under 
+                        Federal or State law in connection with the 
+                        offer, purchase, or sale of any security, or 
+                        any felony under Federal or State law involving 
+                        fraud or deceit; or
+                            ``(iii) is currently named in and subject 
+                        to any order, judgment, or decree of any court 
+                        of competent jurisdiction acting pursuant to 
+                        Federal or State law temporarily or permanently 
+                        restraining or enjoining such issuer, officer, 
+                        or shareholder from engaging in or continuing 
+                        any conduct or practice in connection with a 
+                        security; or
+                    ``(B) with respect to a particular State, if the 
+                issuer, or a principal officer or principal shareholder 
+                thereof--
+                            ``(i) has filed a registration statement 
+                        which is the subject of a currently effective 
+                        stop order entered pursuant to that State's 
+                        securities laws within 5 years prior to the 
+                        offering;
+                            ``(ii) is currently named in and subject to 
+                        any administrative enforcement order or 
+                        judgment of that State's securities commission 
+                        (or any agency or office performing like 
+                        functions) entered within 5 years prior to the 
+                        offering, or is currently named in and subject 
+                        to any other administrative enforcement order 
+                        or judgment of that State entered within 5 
+                        years prior to the offering that finds fraud or 
+                        deceit; or
+                            ``(iii) is currently named in and subject 
+                        to any administrative enforcement order or 
+                        judgment of that State which prohibits or 
+                        denies registration, or revokes the use of any 
+                        exemption from registration, in connection with 
+                        the offer, purchase, or sale of securities.
+            ``(4) Exceptions to limitations.--
+                    ``(A) Exemptions.--The limitations in paragraph 
+                (3)(A) shall not apply if the Commission has exempted 
+                the subject person from the application of such 
+                paragraph by rule or order, and the limitations in 
+                paragraph (3)(B) shall not apply if the securities 
+                commission (or any agency or office performing like 
+                functions) of the affected State has exempted the 
+                subject person from the application of such paragraph 
+                by rule or order.
+                    ``(B) Reasonable steps.--The provisions of 
+                paragraph (3) shall not apply if the issuer has taken 
+                reasonable steps to ascertain whether any principal 
+                officer or principal shareholder is subject to such 
+                paragraph, and such steps do not reveal a person who is 
+                subject to such paragraph. An issuer shall be 
+                considered to have taken reasonable steps if such 
+                issuer or its agent has conducted a search of any 
+                centralized data bases that the Commission may 
+                designate by rule, and has received an affidavit under 
+                oath by each such principal officer or principal 
+                shareholder stating that such officer or shareholder is 
+                not subject to the provisions of paragraph (3).
+                    ``(C) Effect of limitations on remedies.--
+                Notwithstanding paragraph (3), an issuer shall not be 
+                subject to a right of rescission under State securities 
+                laws solely as a result of the operation of such 
+                paragraph.
+            ``(5) No effect under subsection (b).--No limitation under 
+        this subsection shall affect the treatment of a security that 
+        qualifies as a covered security under subsection (b).
+    ``(d) Preservation of Authority.--
+            ``(1) Fraud authority.--Consistent with this section, the 
+        securities commission (or any agency or office performing like 
+        functions) of any State or Territory of the United States, or 
+        the District of Columbia, shall retain jurisdiction under the 
+        laws of such State, Territory, or District to investigate and 
+        bring enforcement actions with respect to fraud or deceit in 
+        connection with securities or securities transactions.
+            ``(2) Preservation of filing requirements.--
+                    ``(A) Notice filings permitted.--Nothing contained 
+                in this section shall prohibit the securities 
+                commission (or any agency or office performing like 
+                functions) of any State or Territory of the United 
+                States, or the District of Columbia, from requiring the 
+                filing of any documents filed with the Commission 
+                pursuant to this title solely for notice purposes, 
+                together with any required fee.
+                    ``(B) Preservation of fees.--Until otherwise 
+                provided by State law enacted after the date of 
+                enactment of the Securities Amendments of 1996, filing 
+                or registration fees with respect to securities or 
+                securities transactions may continue to be collected in 
+                amounts determined pursuant to State law as in effect 
+                on the day before such date.
+                    ``(C) Fees not permitted on listed securities.--
+                Notwithstanding subparagraphs (A) and (B), no filing or 
+                fee may be required with respect to any security that 
+                is a covered security pursuant to subsection (b)(1) of 
+                this section, or will be such a covered security upon 
+                completion of the transaction, or is a security of the 
+                same issuer that is equal in seniority or senior to a 
+                security that is a covered security pursuant to such 
+                subsection.
+            ``(3) Enforcement of requirements.--Nothing in this section 
+        shall prohibit the securities commission (or any agency or 
+        office performing like functions) of any State or Territory of 
+        the United States, or the District of Columbia, from suspending 
+        the offer or sale of securities within such State, Territory, 
+        or District as a result of the failure to submit any filing or 
+        fee required under law and permitted under this section.
+    ``(e) Definitions.--For purposes of this section:
+            ``(1) Principal officer.--The term `principal officer' 
+        means a director, chief executive officer, or chief financial 
+        officer of an issuer, or any other officer performing like 
+        functions.
+            ``(2) Principal shareholder.--The term `principal 
+        shareholder' means any person who is directly or indirectly the 
+        beneficial owner of more than 20 percent of any class of equity 
+        security of an issuer. When two or more persons act as a 
+        partnership, limited partnership, syndicate, or other group for 
+        the purpose of acquiring, holding, or disposing of securities 
+        of an issuer, such syndicate or group shall be deemed a 
+        `person' for purposes of this paragraph. In determining, for 
+        purposes of this paragraph, any percentage of a class of any 
+        security, such class shall be deemed to consist of the amount 
+        of the outstanding securities of such class, exclusive of any 
+        securities of such class held by or for the account of the 
+        issuer or a subsidiary of the issuer.
+            ``(3) Offering document.--The term `offering document' has 
+        the meaning given the term `prospectus' by section 2(10), but 
+        without regard to the provisions of clauses (a) and (b) of such 
+        section, except that, with respect to a security described in 
+        subsection (b)(2) of this section, such term also includes a 
+        communication that is not deemed to offer such a security 
+        pursuant to a rule of the Commission.
+            ``(4) Prepared by the issuer.--Within 6 months after the 
+        date of enactment of the Securities Amendments of 1996, the 
+        Commission shall, by rule, define the term `prepared by the 
+        issuer' for purposes of this section.''.
+            (2) Study of uniformity.--The Securities Exchange 
+        Commission shall conduct a study after consultation with 
+        States, issuers, brokers, and dealers on the extent to which 
+        uniformity of State regulatory requirements for securities or 
+        securities transactions has been achieved for securities that 
+        are not covered securities (within the meaning of section 18 of 
+        the Securities Act of 1933 as amended by paragraph (1) of this 
+        subsection). Such study shall specifically focus on the impact 
+        of such uniformity or lack thereof on the cost of capital, 
+        innovation and technological development in securities markets, 
+        and duplicative regulation with respect to securities issuers 
+        (including small business), brokers, and dealers and the effect 
+        on investor protection. The Commission shall submit to the 
+        Congress a report on the results of such study within one year 
+        after the date of enactment of this Act.
+    (b) Broker/Dealer Regulation.--
+            (1) Amendment.--Section 15 of the Securities Exchange Act 
+        of 1934 (15 U.S.C. 78o) is amended by adding at the end the 
+        following new subsection:
+    ``(h) Limitations on State Law.--
+            ``(1) Capital, margin, books and records, bonding, and 
+        reports.--No law, rule, regulation, or order, or other 
+        administrative action of any State or political subdivision 
+        thereof shall establish capital, custody, margin, financial 
+        responsibility, making and keeping records, bonding, or 
+        financial or operational reporting requirements for brokers, 
+        dealers, municipal securities dealers, government securities 
+        brokers, or government securities dealers that differ from, or 
+        are in addition to, the requirements in those areas established 
+        under this title. The Commission shall consult periodically the 
+        securities commissions (or any agency or office performing like 
+        functions) of the States concerning the adequacy of such 
+        requirements as established under this title.
+            ``(2) Exemption to permit service to customers.--No law, 
+        rule, regulation, or order, or other administrative action of 
+        any State or political subdivision thereof shall prohibit an 
+        associated person from effecting a transaction described in 
+        paragraph (3) for a customer in such State if--
+                    ``(A) such associated person is not ineligible to 
+                register with such State for any reason other than such 
+                a transaction;
+                    ``(B) such associated person is registered with a 
+                registered securities association and at least one 
+                State; and
+                    ``(C) the broker or dealer with which such person 
+                is associated is registered with such State.
+            ``(3) Described transactions.--A transaction is described 
+        in this paragraph if--
+                    ``(A) such transaction is effected--
+                            ``(i) on behalf of a customer that, for 30 
+                        days prior to the day of the transaction, 
+                        maintains an account with the broker or dealer; 
+                        and
+                            ``(ii) by an associated person (I) to which 
+                        the customer was assigned for 14 days prior to 
+                        the day of the transaction, and (II) who is 
+                        registered with a State in which the customer 
+                        was a resident or was present for at least 30 
+                        consecutive days during the one-year period 
+                        prior to the transaction;
+                except that, if the customer is present in another 
+                State for 30 or more consecutive days or has 
+                permanently changed his or her residence to another 
+                State, such transaction is not described in this 
+                subparagraph unless the associated person files with 
+                such State an application for registration within 10 
+                business days of the later of the date of the 
+                transaction or the date of the discovery of the 
+                presence of the customer in the State for 30 or more 
+                consecutive days or the change in the customer's 
+                residence;
+                    ``(B) the transaction is effected--
+                            ``(i) on behalf of a customer that, for 30 
+                        days prior to the day of the transaction, 
+                        maintains an account with the broker or dealer; 
+                        and
+                            ``(ii) within the period beginning on the 
+                        date on which such associated person files with 
+                        the State in which the transaction is effected 
+                        an application for registration and ending on 
+                        the earlier of (I) 60 days after the date the 
+                        application is filed, or (II) the time at which 
+                        such State notifies the associated person that 
+                        it has denied the application for registration 
+                        or has stayed the pendency of the application 
+                        for cause; or
+                    ``(C) the transaction is one of 10 or fewer 
+                transactions in a calendar year (excluding any 
+                transactions described in subparagraph (A) or (B)) 
+                which the associated person effects in the States in 
+                which the associated person is not registered.
+            ``(4) Alternate associated persons.--For purposes of 
+        paragraph (3)(A)(ii), each of up to 3 associated persons who 
+        are designated to effect transactions during the absence or 
+        unavailability of the principal associated person for a 
+        customer may be treated as an associated person to which such 
+        customer is assigned for purposes of such paragraph.''.
+            (2) Study.--Within 6 months after the date of enactment of 
+        this Act, the Commission, after consultation with registered 
+        securities associations, national securities exchanges, and 
+        States, shall conduct a study of--
+                    (A) the impact of disparate State licensing 
+                requirements on associated persons of registered 
+                brokers or dealers; and
+                    (B) methods for States to attain uniform licensing 
+                requirements for such persons.
+            (3) Report.--Within one year after the date of enactment of 
+        this Act, the Commission shall submit to the Congress a report 
+        on the study conducted under paragraph (2). Such report shall 
+        include recommendations concerning appropriate methods 
+        described in paragraph (2)(B), including any necessary 
+        legislative changes to implement such recommendations.
+            (4) Technical amendment.--Section 28(a) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78bb(a)) is amended by striking 
+        ``Nothing'' and inserting ``Except as otherwise specifically 
+        provided elsewhere in this title, nothing''.
+
+SEC. 103. MARGIN REQUIREMENTS.
+
+    (a) Margin Requirements.--
+            (1) Extensions of credit by broker-dealers.--Section 7(c) 
+        of the Securities Exchange Act of 1934 (15 U.S.C. 78g(c)) is 
+        amended to read as follows:
+    ``(c) Unlawful Credit Extension to Customers.--
+            ``(1) Prohibition.--It shall be unlawful for any member of 
+        a national securities exchange or any broker or dealer, 
+        directly or indirectly, to extend or maintain credit or arrange 
+        for the extension or maintenance of credit to or for any 
+        customer--
+                    ``(A) on any security (other than an exempted 
+                security), in contravention of the rules and 
+                regulations which the Board of Governors of the Federal 
+                Reserve System shall prescribe under subsections (a) 
+                and (b) of this section;
+                    ``(B) without collateral or on any collateral other 
+                than securities, except in accordance with such rules 
+                and regulations as the Board of Governors of the 
+                Federal Reserve System may prescribe--
+                            ``(i) to permit under specified conditions 
+                        and for a limited period any such member, 
+                        broker, or dealer to maintain a credit 
+                        initially extended in conformity with the rules 
+                        and regulations of the Board of governors of 
+                        the Federal Reserve System; and
+                            ``(ii) to permit the extension or 
+                        maintenance of credit in cases where the 
+                        extension or maintenance of credit is not for 
+                        the purpose of purchasing or carrying 
+                        securities or of evading or circumventing the 
+                        provisions of subparagraph (A) of this 
+                        paragraph.
+            ``(2) Exception.--This subsection and the rules and 
+        regulations thereunder shall not apply to any credit extended, 
+        maintained, or arranged by a member of a national securities 
+        exchange or a broker or dealer to or for a member of a national 
+        securities exchange or a registered broker or dealer--
+                    ``(A) a substantial portion of whose business 
+                consists of transactions with persons other than 
+                brokers or dealers; or
+                    ``(B) to finance its activities as a market maker 
+                or an underwriter;
+        except that the Board of Governors of the Federal Reserve 
+        System may impose such rules and regulations, in whole or in 
+        part, on any credit otherwise exempted by this paragraph if it 
+        determines that such action is necessary or appropriate in the 
+        public interest or for the protection of investors.''.
+            (2) Extensions of credit by other lenders.--Section 7(d) of 
+        the Securities Exchange Act of 1934 (78 U.S.C. 78g(d)) is 
+        amended to read as follows:
+    ``(d) Unlawful Credit Extension in Violation of Rules and 
+Regulations; Exception to Application of Rules, Etc.--
+            ``(1) Prohibition.--It shall be unlawful for any person not 
+        subject to subsection (c) of this section to extend or maintain 
+        credit or to arrange for the extension or maintenance of credit 
+        for the purpose of purchasing or carrying any security, in 
+        contravention of such rules and regulations as the Board of 
+        Governors of the Federal Reserve System shall prescribe to 
+        prevent the excessive use of credit for the purchasing or 
+        carrying of or trading in securities in circumvention of the 
+        other provisions of this section. Such rules and regulations 
+        may impose upon all loans made for the purpose of purchasing or 
+        carrying securities limitations similar to those imposed upon 
+        members, brokers, or dealers by subsection (c) of this section 
+        and the rules and regulations thereunder.
+            ``(2) Exceptions.--This subsection and the rules and 
+        regulations thereunder shall not apply to any credit extended, 
+        maintained, or arranged--
+                    ``(A) by a person not in the ordinary course of 
+                business;
+                    ``(B) on an exempted security;
+                    ``(C) to or for a member of a national securities 
+                exchange or a registered broker or dealer--
+                            ``(i) a substantial portion of whose 
+                        business consists of transactions with persons 
+                        other than brokers or dealers; or
+                            ``(ii) to finance its activities as a 
+                        market maker or an underwriter;
+                    ``(D) by a bank on a security other than an equity 
+                security; or
+                    ``(E) as the Board of Governors of the Federal 
+                Reserve System shall, by such rules, regulations, or 
+                orders as it may deem necessary or appropriate in the 
+                public interest or for the protection of investors, 
+                exempt, either unconditionally or upon specified terms 
+                and conditions or for stated periods, from the 
+                operation of this subsection and the rules and 
+                regulations thereunder;
+        except that the Board of Governors of the Federal Reserve 
+        System may impose such rules and regulations, in whole or in 
+        part, on any credit otherwise exempted by subparagraph (C) of 
+        this paragraph if it determines that such action is necessary 
+        or appropriate in the public interest or for the protection of 
+        investors.''.
+    (b) Borrowing by Members, Brokers, and Dealers.--Section 8 of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78h) is amended--
+            (1) by striking subsection (a), and
+            (2) by redesignating subsections (b) and (c) as subsections 
+        (a) and (b), respectively.
+
+SEC. 104. PROSPECTUS DELIVERY.
+
+    (a) Report on Electronic Delivery.--Within six months after the 
+date of enactment of this Act, the Commission shall report to Congress 
+on the steps the Commission has taken, or anticipates taking, to 
+facilitate the electronic delivery of prospectuses to institutional and 
+other investors.
+    (b) Report on Advisory Committee Recommendations.--Within one year 
+after the date of enactment of this Act, the Commission shall report to 
+Congress on the Commission's views on the recommendations of the 
+Advisory Committee on Capital Formation, including any actions taken to 
+implement the recommendations of the Advisory Committee.
+
+SEC. 105. EXEMPTIVE AUTHORITY.
+
+    (a) General Exemptive Authority Under the Securities Act of 1933.--
+Title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.) is 
+amended by adding at the end the following new section:
+
+``SEC. 28. GENERAL EXEMPTIVE AUTHORITY.
+
+    ``The Commission, by rules and regulations, may conditionally or 
+unconditionally exempt any person, security, or transaction, or any 
+class or classes of persons, securities, or transactions, from any 
+provision or provisions of this title or of any rule or regulation 
+thereunder, to the extent that such exemption is necessary or 
+appropriate in the public interest, and is consistent with the 
+protection of investors.''.
+    (b) General Exemptive Authority Under the Securities Exchange Act 
+of 1934.--Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a 
+et seq.) is amended by adding at the end the following new section:
+
+``SEC. 36. GENERAL EXEMPTIVE AUTHORITY.
+
+    ``Notwithstanding any other provision of this title, the 
+Commission, by rule, regulation, or order, may conditionally or 
+unconditionally exempt any person, security, or transaction, or any 
+class or classes of persons, securities, or transactions, from any 
+provision or provisions of this title or of any rule or regulation 
+thereunder, to the extent that such exemption is necessary or 
+appropriate in the public interest, and is consistent with the 
+protection of investors. The Commission shall by rules and regulations 
+determine the procedures under which an exemptive order under this 
+section shall be granted and may, in its sole discretion, decline to 
+entertain any application for an order of exemption under this 
+section.''.
+
+SEC. 106. PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION.
+
+    (a) Securities Act of 1933.--Section 2 of the Securities Act of 
+1933 (15 U.S.C. 77b) is amended--
+            (1) by inserting ``(a) Definitions.--'' after ``Sec. 2.''; 
+        and
+            (2) by adding at the end the following new subsection:
+    ``(b) Consideration of Promotion of Efficiency, Competition, and 
+Capital Formation.--Whenever pursuant to this title the Commission is 
+engaged in rulemaking and is required to consider or determine whether 
+an action is necessary or appropriate in the public interest, the 
+Commission shall also consider, in addition to the protection of 
+investors, whether the action will promote efficiency, competition, and 
+capital formation.''.
+    (b) Securities Exchange Act of 1934.--Section 3 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78c) is amended by adding at the end 
+the following new subsection:
+    ``(f) Consideration of Promotion of Efficiency, Competition, and 
+Capital Formation.--Whenever pursuant to this title the Commission is 
+engaged in rulemaking, or in the review of a rule of a self-regulatory 
+organization, and is required to consider or determine whether an 
+action is necessary or appropriate in the public interest, the 
+Commission shall also consider, in addition to the protection of 
+investors, whether the action will promote efficiency, competition, and 
+capital formation.''.
+    (c) Investment Company Act of 1940.--Section 2 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-2) is amended by adding at the end 
+the following new subsection:
+    ``(c) Consideration of Promotion of Efficiency, Competition, and 
+Capital Formation.--Whenever pursuant to this title the Commission is 
+engaged in rulemaking and is required to consider or determine whether 
+an action is consistent with the public interest, the Commission shall 
+also consider, in addition to the protection of investors, whether the 
+action will promote efficiency, competition, and capital formation.''.
+
+SEC. 107. PRIVATIZATION OF EDGAR.
+
+    (a) Examination.--The Securities and Exchange Commission shall 
+examine proposals for the privatization of the EDGAR system. Such 
+examination shall promote competition in the automation and rapid 
+collection and dissemination of information required to be disclosed. 
+Such examination shall include proposals that maintain free public 
+access to data filings in the EDGAR system.
+    (b) Review and Report.--Within 180 days after the date of enactment 
+of this Act, the Commission shall submit to the Congress a report on 
+the examination under subsection (a). Such report shall include such 
+recommendations for such legislative action as may be necessary to 
+implement the proposal that the Commission determines most effectively 
+achieves the objectives described in subsection (a).
+
+SEC. 108. COORDINATION OF EXAMINING AUTHORITIES.
+
+    (a) Amendments.--Section 17 of the Securities Exchange Act of 1934 
+(15 U.S.C. 78q) is amended by adding at the end the following new 
+subsection:
+    ``(i) Coordination of Examining Authorities.--
+            ``(1) Elimination of duplication.--The Commission and the 
+        examining authorities, through cooperation and coordination of 
+        examination and oversight as required by this subsection, shall 
+        eliminate any unnecessary and burdensome duplication in the 
+        examination process.
+            ``(2) Planning conferences.--
+                    ``(A) The Commission and the examining authorities 
+                shall meet at least annually for a national general 
+                planning conference to discuss coordination of 
+                examination schedules and priorities and other areas of 
+                interest relevant to examination coordination and 
+                cooperation.
+                    ``(B) Within each geographic region designated by 
+                the Commission, the Commission and the relevant 
+                examining authorities shall meet at least annually for 
+a regional planning conference to discuss examination schedules and 
+priorities and other areas of related interest, and to encourage 
+information-sharing and to avoid unnecessary duplication of 
+examinations.
+            ``(3) Coordination tracking system for broker-dealer 
+        examinations.--
+                    ``(A) The Commission and the examining authorities 
+                shall prepare, on a periodic basis in a uniform 
+                computerized format, information on registered broker 
+                and dealer examinations and shall submit such 
+                information to the Commission.
+                    ``(B) The Commission shall maintain a computerized 
+                database of consolidated examination information to be 
+                used for examination planning and scheduling and for 
+                monitoring coordination of registered broker and dealer 
+                examinations under this section.
+            ``(4) Coordination of examinations.--
+                    ``(A) The examining authorities shall share among 
+                themselves such information, including reports of 
+                examinations, customer complaint information, and other 
+                non-public regulatory information, as appropriate to 
+                foster a coordinated approach to regulatory oversight 
+                of registered brokers and dealers subject to 
+                examination by more than one examining authority.
+                    ``(B) To the extent practicable, the examining 
+                authorities shall assure that each registered broker 
+                and dealer subject to examination by more than one 
+                examining authority that requests a coordinated 
+                examination shall have all requested aspects of the 
+                examination conducted simultaneously and without 
+                duplication of the areas covered. The examining 
+                authorities shall also prepare an advance schedule of 
+                all such coordinated examinations.
+            ``(5) Prohibited non-coordinated examinations.--Any 
+        examining authority that does not participate in a coordinated 
+        examination pursuant to paragraph (4) of this subsection shall 
+        not conduct a routine examination other than a coordinated 
+        examination of that broker or dealer within 9 months of the 
+        conclusion of a scheduled coordinated examination.
+            ``(6) Examinations for cause.--At any time, any examining 
+        authority may conduct an examination for cause of any broker or 
+        dealer subject to its jurisdiction.
+            ``(7) Broker-dealer examination evaluation panel.--The 
+        Commission shall establish an examination evaluation panel 
+        composed of representatives of registered brokers and dealers 
+        that are members of more than one self-regulatory organization 
+        that conducts routine examinations. Prior to each national 
+        general planning conference required by paragraph (2)(A) of 
+        this subsection, the Commission shall convene the examination 
+        evaluation panel to review consolidated and statistical 
+        information on the coordination of examinations and information 
+        on examinations that are not coordinated, including the 
+        findings of Commission examiners on the effectiveness of the 
+        examining authorities in achieving coordinated examinations. 
+        The Commission shall present any findings and recommendations 
+        of the examination evaluation panel to the next meeting of the 
+        national general planning conference, and shall report back to 
+        the examination evaluation panel on the actions taken by the 
+        examining authorities regarding those findings and 
+        recommendations. The examination evaluation panel shall not be 
+        subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+            ``(8) Report to congress.--Within one year after the date 
+        of enactment of this Act, the Commission shall report to the 
+        Congress on the progress it and the examining authorities have 
+        made in reducing duplication and improving coordination in 
+        registered broker and dealer examinations, and on the 
+        activities of the examination evaluation panel. Such report 
+        shall also indicate whether the Commission has identified 
+        additional redundancies that have failed to be addressed in the 
+        coordination of examining authorities, or any recommendations 
+        of the examination evaluation panel established under paragraph 
+        (7) of this subsection that have not been addressed by the 
+        examining authorities or the Commission.''.
+    (b) Definition.--Section 3(a) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78e) is amended by adding at the end the following 
+paragraph:
+            ``(54) The term `examining authority' means any self-
+        regulatory organization registered with the Commission under 
+        this title (other than registered clearing agencies) with the 
+        authority to examine, inspect, and otherwise oversee the 
+        activities of a registered broker or dealer.''.
+
+SEC. 109. FOREIGN PRESS CONFERENCES.
+
+    No later than one year after the date of enactment of this Act, the 
+Commission shall adopt rules under the Securities Act of 1933 
+concerning the status under the registration provisions of the 
+Securities Act of 1933 of foreign press conferences and foreign press 
+releases by persons engaged in the offer and sale of securities.
+
+SEC. 110. REPORT ON TRUST INDENTURE ACT OF 1939.
+
+    Within 6 months after the date of enactment of this Act, the 
+Securities and Exchange Commission shall submit to the Congress a 
+report on the benefits of, the continuing need for, and, if necessary, 
+options for the modification or elimination of, the Trust Indenture Act 
+of 1939 (15 U.S.C. 77aaa et seq.).
+
+              TITLE II--INVESTMENT COMPANY ACT AMENDMENTS
+
+SEC. 201. SHORT TITLE.
+
+    This title may be cited as the ``Investment Company Act Amendments 
+of 1996''.
+
+SEC. 202. FUNDS OF FUNDS.
+
+    Section 12(d)(1) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-12(d)(1)) is amended--
+            (1) in subparagraph (E)(iii)--
+                    (A) by striking ``in the event such investment 
+                company is not a registered investment company,''; and
+                    (B) by inserting ``in the event such investment 
+                company is not a registered investment company'' after 
+                ``(bb)'';
+            (2) by redesignating existing subparagraphs (G) and (H) as 
+        subparagraphs (H) and (I), respectively;
+            (3) by inserting after subparagraph (F) the following new 
+        subparagraph:
+    ``(G) The provisions of this paragraph (1) shall not apply to 
+securities of a registered open-end company (the `acquired company') 
+purchased or otherwise acquired by a registered open-end company (the 
+`acquiring company') if--
+            ``(i) the acquired company and the acquiring company are 
+        part of the same group of investment companies;
+            ``(ii) the securities of the acquired company, securities 
+        of other registered open-end companies that are part of the 
+        same group of investment companies, Government securities, and 
+        short-term paper are the only investments held by the acquiring 
+        company;
+            ``(iii)(I) the acquiring company does not pay and is not 
+        assessed any charges or fees for distribution-related 
+        activities with respect to securities of the acquired company 
+        unless the acquiring company does not charge a sales load or 
+        other fees or charges for distribution-related activities; or
+            ``(II) any sales loads and other distribution-related fees 
+        charged with respect to securities of the acquiring company, 
+        when aggregated with any sales load and distribution-related 
+        fees paid by the acquiring company with respect to securities 
+        of the acquired company, are not excessive under rules adopted 
+        pursuant to either section 22(b) or section 22(c) of this title 
+        by a securities association registered under section 15A of the 
+        Securities Exchange Act of 1934 or the Commission;
+            ``(iv) the acquired company shall have a fundamental policy 
+        that prohibits it from acquiring any securities of registered 
+        open-end companies in reliance on this subparagraph or 
+        subparagraph (F) of this subsection; and
+            ``(v) such acquisition is not in contravention of such 
+        rules and regulations as the Commission may from time to time 
+        prescribe with respect to acquisitions in accordance with this 
+        subparagraph as necessary and appropriate for the protection of 
+        investors.
+For purposes of this subparagraph, a `group of investment companies' 
+shall mean any two or more registered investment companies that hold 
+themselves out to investors as related companies for purposes of 
+investment and investor services.''; and
+            (4) adding at the end the following new subparagraph:
+    ``(J) The Commission, by rules and regulations upon its own motion 
+or by order upon application, may conditionally or unconditionally 
+exempt any person, security, or transaction, or any class or classes of 
+persons, securities, or transactions from any provisions of this 
+subsection, if and to the extent such exemption is consistent with the 
+public interest and the protection of investors.''.
+
+SEC. 203. REGISTRATION OF SECURITIES.
+
+    (a) Amendments to Registration Statements.--Section 24(e) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-24(e)) is amended--
+            (1) by striking paragraphs (1) and (2);
+            (2) by redesignating paragraph (3) as subsection (e); and
+            (3) in subsection (e) (as so redesignated) by striking 
+        ``pursuant to this subsection or otherwise''.
+    (b) Registration of Indefinite Amount of Securities.--Section 24(f) 
+of the Investment Company Act of 1940 (15 U.S.C. 80a-24(f)) is amended 
+to read as follows:
+    ``(f) Registration of Indefinite Amount of Securities.--
+            ``(1) Indefinite registration of securities.--Upon the 
+        effectiveness of its registration statement under the 
+        Securities Act of 1933, a face-amount certificate company, 
+        open-end management company, or unit investment trust shall be 
+        deemed to have registered an indefinite amount of securities.
+            ``(2) Payment of registration fees.--Within 90 days after 
+        the end of the company's fiscal year, the company shall pay a 
+        registration fee to the Commission, calculated in the manner 
+        specified in section 6(b) of the Securities Act of 1933, based 
+        on the aggregate sales price for which its securities 
+        (including, for this purpose, all securities issued pursuant to 
+        a dividend reinvestment plan) were sold pursuant to a 
+        registration of an indefinite amount of securities under this 
+        subsection during the company's previous fiscal year reduced 
+        by--
+                    ``(A) the aggregate redemption or repurchase price 
+                of the securities of the company during that year, and
+                    ``(B) the aggregate redemption or repurchase price 
+                of the securities of the company during any prior 
+                fiscal year ending not more than 1 year before the date 
+                of enactment of the Investment Company Act Amendments 
+                of 1996 that were not used previously by the company to 
+                reduce fees payable under this section.
+            ``(3) Interest due on late payment.--A company paying the 
+        fee or any portion thereof more than 90 days after the end of 
+        the company's fiscal year shall pay to the Commission interest 
+        on unpaid amounts, compounded daily, at the underpayment rate 
+        established by the Secretary of the Treasury pursuant to 
+        section 3717(a) of title 31, United States Code. The payment of 
+        interest pursuant to the requirement of this paragraph shall 
+        not preclude the Commission from bringing an action to enforce 
+        the requirements of paragraph (2) of this subsection.
+            ``(4) Rulemaking authority.--The Commission may adopt rules 
+        and regulations to implement the provisions of this 
+        subsection.''.
+    (c) Effective Date.--The amendments made by this section shall be 
+effective 6 months after the date of enactment of this Act or on such 
+earlier date as the Commission may specify by rule.
+
+SEC. 204. INVESTMENT COMPANY ADVERTISING PROSPECTUS.
+
+    Section 24 of the Investment Company Act of 1940 (15 U.S.C. 80a-24) 
+is amended by adding at the end the following new subsection:
+    ``(g) In addition to the prospectuses permitted or required in 
+section 10 of the Securities Act of 1933, the Commission shall permit, 
+by rules or regulations deemed necessary or appropriate in the public 
+interest or for the protection of investors, the use of a prospectus 
+for the purposes of section 5(b)(1) of such Act with respect to 
+securities issued by a registered investment company. Such a 
+prospectus, which may include information the substance of which is not 
+included in the prospectus specified in section 10(a) of the Securities 
+Act of 1933, shall be deemed to be permitted by section 10(b) of such 
+Act.''.
+
+SEC. 205. VARIABLE INSURANCE CONTRACTS.
+
+    (a) Unit Investment Trust Treatment.--Section 26 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-26) is amended by adding at the end 
+the following new subsection:
+    ``(e)(1) Subsection (a) shall not apply to any registered separate 
+account funding variable insurance contracts, or to the sponsoring 
+insurance company and principal underwriter of such account.
+    ``(2) It shall be unlawful for any registered separate account 
+funding variable insurance contracts, or for the sponsoring insurance 
+company of such account, to sell any such contract, unless--
+            ``(A) the fees and charges deducted under the contract in 
+        the aggregate are reasonable in relation to the services 
+        rendered, the expenses expected to be incurred, and the risks 
+        assumed by the insurance company, and the insurance company so 
+represents in the registration statement for the contract; and
+            ``(B) the insurance company (i) complies with all other 
+        applicable provisions of this section as if it were a trustee 
+        or custodian of the registered separate account; (ii) files 
+        with the insurance regulatory authority of a State an annual 
+        statement of its financial condition, which most recent 
+        statement indicates that it has a combined capital and surplus, 
+        if a stock company, or an unassigned surplus, if a mutual 
+        company, of not less than $1,000,000, or such other amount as 
+        the Commission may from time to time prescribe by rule as 
+        necessary or appropriate in the public interest or for the 
+        protection of investors; and (iii) together with its registered 
+        separate accounts, is supervised and examined periodically by 
+        the insurance authority of such State.
+    ``(3) The Commission may adopt such rules and regulations under 
+paragraph (2)(A) as it determines are necessary or appropriate in the 
+public interest or for the protection of investors. For the purposes of 
+such paragraph, the fees and charges deducted under the contract shall 
+include all fees and charges imposed for any purpose and in any 
+manner.''.
+    (b) Periodic Payment Plan Treatment.--Section 27 of such Act (15 
+U.S.C. 80a-27) is amended by adding at the end the following new 
+subsection:
+    ``(i)(1) This section shall not apply to any registered separate 
+account funding variable insurance contracts, or to the sponsoring 
+insurance company and principal underwriter of such account, except as 
+provided in paragraph (2).
+    ``(2) It shall be unlawful for any registered separate account 
+funding variable insurance contracts, or for the sponsoring insurance 
+company of such account, to sell any such contract unless (A) such 
+contract is a redeemable security, and (B) the insurance company 
+complies with section 26(e) and any rules or regulations adopted by the 
+Commission thereunder.''.
+
+SEC. 206. REPORTS TO THE COMMISSION AND SHAREHOLDERS.
+
+    Section 30 of the Investment Company Act of 1940 (15 U.S.C. 80a-29) 
+is amended--
+            (1) by striking paragraph (1) of subsection (b) and 
+        inserting the following:
+            ``(1) such information, documents, and reports (other than 
+        financial statements), as the Commission may require to keep 
+        reasonably current the information and documents contained in 
+        the registration statement of such company filed under this 
+        title; and'';
+            (2) by redesignating subsections (c), (d), (e), and (f) as 
+        subsections (d), (e), (g), and (h), respectively;
+            (3) by inserting after subsection (b) the following new 
+        subsection:
+    ``(c) In exercising its authority under subsection (b)(1) to 
+require the filing of information, documents, and reports on a basis 
+more frequently than semi-annually, the Commission shall take such 
+steps as it deems necessary or appropriate, consistent with the public 
+interest and the protection of investors, to avoid unnecessary 
+reporting by, and minimize the compliance burdens on, registered 
+investment companies and their affiliated persons. Such steps shall 
+include considering and requesting public comment on--
+            ``(1) feasible alternatives that minimize the reporting 
+        burdens on registered investment companies; and
+            ``(2) the utility of such information, documents, and 
+        reports to the Commission in relation to the costs to 
+        registered investment companies and their affiliated persons of 
+        providing such information, documents, and reports.'';
+            (4) by inserting after subsection (e) (as redesignated by 
+        paragraph (2) of this section) the following new subsection:
+    ``(f) The Commission may by rule require that semi-annual reports 
+containing the information set forth in subsection (e) include such 
+other information as the Commission deems necessary or appropriate in 
+the public interest or for the protection of investors. In exercising 
+its authority under this subsection, the Commission shall take such 
+steps as it deems necessary or appropriate, consistent with the public 
+interest and the protection of investors, to avoid unnecessary 
+reporting by, and minimize the compliance burdens on, registered 
+investment companies and their affiliated persons. Such steps shall 
+include considering and requesting public comment on--
+            ``(1) feasible alternatives that minimize the reporting 
+        burdens on registered investment companies; and
+            ``(2) the utility of such information to shareholders in 
+        relation to the costs to registered investment companies and 
+        their affiliated persons of providing such information to 
+        shareholders.''; and
+            (5) in subsection (g) (as so redesignated) by striking 
+        ``subsections (a) and (d)'' and inserting ``subsections (a) and 
+        (e)''.
+
+SEC. 207. BOOKS, RECORDS AND INSPECTIONS.
+
+    Section 31 of the Investment Company Act of 1940 (15 U.S.C. 80a-30) 
+is amended--
+            (1) by striking subsections (a) and (b) and inserting the 
+        following:
+    ``(a) Every registered investment company, and every underwriter, 
+broker, dealer, or investment adviser that is a majority-owned 
+subsidiary of such a company, shall maintain and preserve such records 
+(as defined in section 3(a)(37) of the Securities Exchange Act of 1934) 
+for such period or periods as the Commission, by rules and regulations, 
+may prescribe as necessary or appropriate in the public interest or for 
+the protection of investors. Every investment adviser not a majority-
+owned subsidiary of, and every depositor of any registered investment 
+company, and every principal underwriter for any registered investment 
+company other than a closed-end company, shall maintain and preserve 
+for such period or periods as the Commission shall prescribe by rules 
+and regulations, such records as are necessary or appropriate to record 
+such person's transactions with such registered company. In exercising 
+its authority under this subsection, the Commission shall take such 
+steps as it deems necessary or appropriate, consistent with the public 
+interest and for the protection of investors, to avoid unnecessary 
+recordkeeping by, and minimize the compliance burden on, persons 
+required to maintain records under this subsection (hereinafter in this 
+section referred to as `subject persons'). Such steps shall include 
+considering, and requesting public comment on--
+            ``(1) feasible alternatives that minimize the recordkeeping 
+        burdens on subject persons;
+            ``(2) the necessity of such records in view of the public 
+        benefits derived from the independent scrutiny of such records 
+        through Commission examination;
+            ``(3) the costs associated with maintaining the information 
+        that would be required to be reflected in such records; and
+            ``(4) the effects that a proposed recordkeeping requirement 
+        would have on internal compliance policies and procedures.
+    ``(b) All records required to be maintained and preserved in 
+accordance with subsection (a) of this section shall be subject at any 
+time and from time to time to such reasonable periodic, special, and 
+other examinations by the Commission, or any member or representative 
+thereof, as the Commission may prescribe. For purposes of such 
+examinations, any subject person shall make available to the Commission 
+or its representatives any copies or extracts from such records as may 
+be prepared without undue effort, expense, or delay as the Commission 
+or its representatives may reasonably request. The Commission shall 
+exercise its authority under this subsection with due regard for the 
+benefits of internal compliance policies and procedures and the 
+effective implementation and operation thereof.'';
+            (2) by redesignating existing subsections (c) and (d) as 
+        subsections (e) and (f), respectively; and
+            (3) by inserting after subsection (b) the following new 
+        subsections:
+    ``(c) Notwithstanding any other provision of law, the Commission 
+shall not be compelled to disclose any internal compliance or audit 
+records, or information contained therein, provided to the Commission 
+under this section. Nothing in this subsection shall authorize the 
+Commission to withhold information from Congress or prevent the 
+Commission from complying with a request for information from any other 
+Federal department or agency requesting the information for purposes 
+within the scope of its jurisdiction, or complying with an order of a 
+court of the United States in an action brought by the United States or 
+the Commission. For purposes of section 552 of title 5, United States 
+Code, this section shall be considered a statute described in 
+subsection (b)(3)(B) of such section 552.
+    ``(d) For purposes of this section--
+            ``(1) `internal compliance policies and procedures' means 
+        policies and procedures designed by subject persons to promote 
+        compliance with the Federal securities laws; and
+            ``(2) `internal compliance and audit record' means any 
+        record prepared by a subject person in accordance with internal 
+        compliance policies and procedures.''.
+
+SEC. 208. INVESTMENT COMPANY NAMES.
+
+    Section 35(d) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+34(d)) is amended to read as follows:
+    ``(d) It shall be unlawful for any registered investment company to 
+adopt as a part of the name or title of such company, or of any 
+securities of which it is the issuer, any word or words that the 
+Commission finds are materially deceptive or misleading. The Commission 
+is authorized, by rule, regulation, or order, to define such names or 
+titles as are materially deceptive or misleading.''.
+
+SEC. 209. EXCEPTIONS FROM DEFINITION OF INVESTMENT COMPANY.
+
+    (a) Amendments.--Section 3(c) of the Investment Company Act of 1940 
+(15 U.S.C. 80a-3(c)) is amended--
+            (1) in paragraph (1), by inserting after the first sentence 
+        the following new sentence: ``Such issuer nonetheless is deemed 
+        to be an investment company for purposes of the limitations set 
+        forth in section 12(d)(1)(A)(i) and (B)(i) governing the 
+        purchase or other acquisition by such issuer of any security 
+        issued by any registered investment company and the sale of any 
+        security issued by any registered open-end company to any such 
+        issuer.'';
+            (2) in subparagraph (A) of paragraph (1)--
+                    (A) by inserting after ``issuer,'' the first place 
+                it appears the following: ``and is or, but for the 
+                exception in this paragraph or paragraph (7), would be 
+                an investment company,''; and
+                    (B) by striking all that follows ``(other than 
+                short-term paper)'' and inserting a period;
+            (3) in paragraph (2)--
+                    (A) by striking ``and acting as broker,'' and 
+                inserting ``acting as broker, and acting as market 
+                intermediary,''; and
+                    (B) by adding at the end of such paragraph the 
+                following new sentences: ``For the purposes of this 
+                paragraph, the term `market intermediary' means any 
+                person that regularly holds itself out as being willing 
+                contemporaneously to engage in, and is regularly 
+                engaged in the business of entering into, transactions 
+                on both sides of the market for a financial contract or 
+                one or more such financial contracts. For purposes of 
+                the preceding sentence, the term `financial contract' 
+                means any arrangement that (A) takes the form of an 
+individually negotiated contract, agreement, or option to buy, sell, 
+lend, swap, or repurchase, or other similar individually negotiated 
+transaction commonly entered into by participants in the financial 
+markets; (B) is in respect of securities, commodities, currencies, 
+interest or other rates, other measures of value, or any other 
+financial or economic interest similar in purpose or function to any of 
+the foregoing; and (C) is entered into in response to a request from a 
+counterparty for a quotation or is otherwise entered into and 
+structured to accommodate the objectives of the counterparty to such 
+arrangement.''; and
+            (4) by striking paragraph (7) and inserting the following:
+            ``(7)(A) Any issuer (i) whose outstanding securities are 
+        owned exclusively by persons who, at the time of acquisition of 
+        such securities, are qualified purchasers, and (ii) who is not 
+        making and does not presently propose to make a public offering 
+        of such securities. Securities that are owned by persons who 
+        received the securities from a qualified purchaser as a gift or 
+        bequest, or where the transfer was caused by legal separation, 
+        divorce, death, or other involuntary event, shall be deemed to 
+        be owned by a qualified purchaser, subject to such rules, 
+        regulations, and orders as the Commission may prescribe as 
+        necessary or appropriate in the public interest or for the 
+        protection of investors.
+            ``(B) Notwithstanding subparagraph (A), an issuer is within 
+        the exception provided by this paragraph if--
+                    ``(i) in addition to qualified purchasers, its 
+                outstanding securities are beneficially owned by not 
+                more than 100 persons who are not qualified purchasers 
+                if (I) such persons acquired such securities on or 
+                before December 31, 1995, and (II) at the time such 
+                securities were acquired by such persons, the issuer 
+                was excepted by paragraph (1) of this subsection; and
+                    ``(ii) prior to availing itself of the exception 
+                provided by this paragraph--
+                            ``(I) such issuer has disclosed to such 
+                        persons that future investors will be limited 
+                        to qualified purchasers, and that ownership in 
+                        such issuer is no longer limited to not more 
+                        than 100 persons, and
+                            ``(II) concurrently with or after such 
+                        disclosure, such issuer has provided such 
+                        persons with a reasonable opportunity to redeem 
+                        any part or all of their interests in the 
+                        issuer for their proportionate share of the 
+                        issuer's current net assets, or the cash 
+                        equivalent thereof.
+            ``(C) An issuer that is excepted under this paragraph shall 
+        nonetheless be deemed to be an investment company for purposes 
+        of the limitations set forth in section 12(d)(1)(A)(i) and 
+        (B)(i) governing the purchase or other acquisition by such 
+        issuer of any security issued by any registered investment 
+        company and the sale of any security issued by any registered 
+        open-end company to any such issuer.
+            ``(D) For purposes of determining compliance with this 
+        paragraph and paragraph (1) of this subsection, an issuer that 
+        is otherwise excepted under this paragraph and an issuer that 
+        is otherwise excepted under paragraph (1) shall not be treated 
+        by the Commission as being a single issuer for purposes of 
+        determining whether the outstanding securities of the issuer 
+        excepted under paragraph (1) are beneficially owned by not more 
+        than 100 persons or whether the outstanding securities of the 
+        issuer excepted under this paragraph are owned by persons that 
+        are not qualified purchasers. Nothing in this provision 
+shall be deemed to establish that a person is a bona fide qualified 
+purchaser for purposes of this paragraph or a bona fide beneficial 
+owner for purposes of paragraph (1) of this subsection.''.
+    (b) Definition of Qualified Purchaser.--Section 2(a) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-2(a)) is amended by 
+inserting after paragraph (50) the following new paragraph:
+            ``(51) `Qualified purchaser' means--
+                    ``(A) any natural person who owns at least 
+                $10,000,000 in securities of issuers that are not 
+                controlled by such person, except that securities of 
+                such a controlled issuer may be counted toward such 
+                amount if such issuer is, or but for the exception in 
+                paragraph (1) or (7) of section 3(c) would be, an 
+                investment company;
+                    ``(B) any trust not formed for the specific purpose 
+                of acquiring the securities offered, as to which the 
+                trustee or other person authorized to make decisions 
+                with respect to the trust, and each settlor or other 
+                person who has contributed assets to the trust, is a 
+                person described in subparagraph (A) or (C); or
+                    ``(C) any person, acting for its own account or the 
+                accounts of other qualified purchasers, who in the 
+                aggregate owns and invests on a discretionary basis, 
+                not less than $100,000,000 in securities of issuers 
+                that are not affiliated persons (as defined in 
+                paragraph (3)(C) of this subsection) of such person, 
+                except that securities of such an affiliated person 
+                issuer may be counted toward such amount if such issuer 
+                is, or but for the exception in paragraph (1) or (7) of 
+                section 3(c) would be, an investment company.
+        The Commission may adopt such rules and regulations governing 
+        the persons and trusts specified in subparagraphs (A), (B), and 
+        (C) of this paragraph as it determines are necessary or 
+        appropriate in the public interest and for the protection of 
+        investors.''.
+    (c) Conforming Amendment.--The last sentence of section 3(a) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-3(a)) is amended--
+            (1) by inserting ``(i)'' after ``of the owner''; and
+            (2) by inserting before the period the following: ``, and 
+        (ii) which are not relying on the exception from the definition 
+        of investment company in subsection (c)(1) or (c)(7) of this 
+        section''.
+    (d) Rulemaking Required.--
+            (1) Implementation of section 3(c)(1)(b).--Within one year 
+        after the date of enactment of this Act, the Commission shall 
+        prescribe rules to implement the requirements of section 
+        3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 
+        80a-3(c)(1)(B)).
+            (2) Employee exception.--Within one year after the date of 
+        enactment of this Act, the Commission shall prescribe rules 
+        pursuant to its authority under section 6 of the Investment 
+        Company Act of 1940 (15 U.S.C. 80a-6) to permit the ownership 
+        by knowledgeable employees of an issuer or an affiliated person 
+        of the issuer of the securities of that issuer or affiliated 
+        person without loss of the issuer's exception under section 
+        3(c)(1) or 3(c)(7) of such Act from treatment as an investment 
+        company under such Act.
+

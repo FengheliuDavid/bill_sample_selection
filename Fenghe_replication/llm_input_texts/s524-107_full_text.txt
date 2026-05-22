@@ -1,0 +1,161 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 524 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                 S. 524
+
+To increase the number of interaccount transfers which may be made from 
+business accounts at depository institutions, to authorize the Board of 
+ Governors of the Federal Reserve System to pay interest on reserves, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 13, 2001
+
+  Mr. Schumer introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To increase the number of interaccount transfers which may be made from 
+business accounts at depository institutions, to authorize the Board of 
+ Governors of the Federal Reserve System to pay interest on reserves, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Small Business Interest Checking Act 
+of 2001''.
+
+SEC. 2. INTEREST-BEARING TRANSACTION ACCOUNTS AUTHORIZED FOR ALL 
+              BUSINESSES.
+
+    Section 2 of Public Law 93-100 (12 U.S.C. 1832) is amended--
+            (1) by redesignating subsections (b) and (c) as subsections 
+        (c) and (d), respectively; and
+            (2) by inserting after subsection (a) the following:
+    ``(b) Business Account Transactions Authorized.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, any depository institution may permit the owner of any 
+        deposit or account that is a deposit or account on which 
+        interest or dividends are paid and is not a deposit or account 
+        described in subsection (a)(2), to make not more than 24 
+        transfers per month (or such greater number as the Board may 
+        determine, by rule or order), for any purpose, to another 
+        account of the owner in the same institution.
+            ``(2) Status as transaction account.--Nothing in this 
+        subsection shall be construed to prevent an account offered 
+        pursuant to this subsection from being considered a transaction 
+        account (as defined in section 19(b) of the Federal Reserve 
+        Act) for purposes of that Act.''.
+
+SEC. 3. PAYMENT OF INTEREST ON RESERVES AT FEDERAL RESERVE BANKS.
+
+    (a) In General.--Section 19(b) of the Federal Reserve Act (12 
+U.S.C. 461(b)) is amended by adding at the end the following new 
+paragraph:
+            ``(12) Earnings on reserves.--
+                    ``(A) In general.--Balances maintained at a Federal 
+                reserve bank by or on behalf of a depository 
+                institution may receive earnings to be paid by the 
+                Federal reserve bank not less frequently than once in 
+                each calendar quarter, at a rate or rates not to exceed 
+                the general level of short-term interest rates.
+                    ``(B) Regulations relating to payments and 
+                distribution.--The Board may prescribe regulations 
+                concerning--
+                            ``(i) the payment of earnings in accordance 
+                        with this paragraph;
+                            ``(ii) the distribution of such earnings to 
+                        the depository institutions which maintain 
+                        balances at such banks, or on behalf of which 
+                        such balances are maintained; and
+                            ``(iii) the responsibilities of depository 
+                        institutions, Federal home loan banks, and the 
+                        National Credit Union Administration Central 
+                        Liquidity Facility with respect to the 
+                        crediting and distribution of earnings 
+                        attributable to balances maintained, in 
+                        accordance with subsection (c)(1)(B), in a 
+                        Federal reserve bank by any such entity on 
+                        behalf of depository institutions.''.
+    (b) Authorization for Pass Through Reserves for Member Banks.--
+Section 19(c)(1)(B) of the Federal Reserve Act (12 U.S.C. 461(c)(1)(B)) 
+is amended by striking ``which is not a member bank''.
+    (c) Technical and Conforming Amendments.--Section 19 of the Federal 
+Reserve Act (12 U.S.C. 461) is amended--
+            (1) in subsection (b)(4) (12 U.S.C. 461(b)(4)), by striking 
+        subparagraph (C) and redesignating subparagraphs (D) and (E) as 
+        subparagraphs (C) and (D), respectively; and
+            (2) in subsection (c)(1)(A) (12 U.S.C. 461(c)(1)(A)), by 
+        striking ``subsection (b)(4)(C)'' and inserting ``subsection 
+        (b)''.
+
+SEC. 4. INCREASED FEDERAL RESERVE BOARD FLEXIBILITY IN SETTING RESERVE 
+              REQUIREMENTS.
+
+    Section 19(b)(2) of the Federal Reserve Act (12 U.S.C. 461(b)(2)) 
+is amended--
+            (1) in clause (i), by striking ``the ratio of 3 per 
+        centum'' and inserting ``a ratio not greater than 3 percent 
+        (and which may be zero)''; and
+            (2) in clause (ii), by striking ``and not less than 8 per 
+        centum,'' and inserting ``(and which may be zero),''.
+
+SEC. 5. TRANSFER OF FEDERAL RESERVE SURPLUSES.
+
+    (a) In General.--Section 7(b) of the Federal Reserve Act (12 U.S.C. 
+290) is amended by adding at the end the following new paragraph:
+            ``(4) Additional transfers to cover interest payments for 
+        fiscal years 2001 through 2005.--
+                    ``(A) In general.--In addition to the amounts 
+                required to be transferred from the surplus funds of 
+                the Federal reserve banks pursuant to paragraph (1), 
+                the Federal reserve banks shall transfer from such 
+                surplus funds to the Board for transfer to the 
+                Secretary of the Treasury for deposit in the general 
+                fund of the Treasury, such sums as are necessary to 
+                equal the net cost of section 19(b)(12), as estimated 
+                by the Office of Management and Budget, in each of the 
+                fiscal years 2002 through 2006.
+                    ``(B) Allocation by federal reserve board.--Of the 
+                total amount required to be paid by the Federal reserve 
+                banks under subparagraph (A) for fiscal years 2002 
+                through 2006, the Board shall determine the amount that 
+                each such bank shall pay in any such fiscal year.
+                    ``(C) Replenishment of surplus fund prohibited.--
+                During fiscal years 2002 through 2006, no Federal 
+                reserve bank may replenish the surplus fund of that 
+                bank by the amount of any transfer by that bank under 
+                subparagraph (A).''.
+    (b) Technical and Conforming Amendment.--Section 7(a) of the 
+Federal Reserve Act (12 U.S.C. 289(a)) is amended by adding at the end 
+the following new paragraph:
+            ``(3) Payment to treasury.--During fiscal years 2002 
+        through 2006, any amount in the surplus fund of any Federal 
+        reserve bank in excess of the amount equal to 3 percent of the 
+        paid-in capital and surplus of the member banks of such bank 
+        shall be transferred to the Secretary of the Treasury for 
+        deposit in the general fund of the Treasury.''.
+                                 <all>
+

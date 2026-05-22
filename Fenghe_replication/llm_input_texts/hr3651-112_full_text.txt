@@ -1,0 +1,60 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3651 Introduced in House (IH)]
+
+112th CONGRESS
+  1st Session
+                                H. R. 3651
+
+To amend the Truth in Lending Act to exempt certain creditors from the 
+ escrow account requirement for higher-priced mortgage loans, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           December 13, 2011
+
+  Mr. Barrow introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Truth in Lending Act to exempt certain creditors from the 
+ escrow account requirement for higher-priced mortgage loans, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. EXEMPTION FOR CERTAIN CREDITORS.
+
+    (a) In General.--Section 129D of the Truth in Lending Act, as added 
+by section 1461 of the Dodd-Frank Wall Street Reform and Consumer 
+Protection Act, is amended by adding at the end the following new 
+subsection:
+    ``(k) Exemption for Certain Creditors.--A creditor with less than 
+$1,000,000,000 in assets shall be exempt from--
+            ``(1) the requirements of subsection (a) with respect to a 
+        consumer credit transaction secured by a first lien on the 
+        consumer's principal dwelling with an annual percentage rate 
+        that exceeds the average prime offer rate for a comparable 
+        transaction as of the date the interest rate is set by 1.5 or 
+        more percentage points; and
+            ``(2) any other provision of this Act, to the extent such 
+        provision requires the creditor to establish an escrow or 
+        impound account described under subsection (a) with respect to 
+        a consumer credit transaction described under paragraph (1).''.
+    (b) Effective Date.--Notwithstanding the date on which the other 
+provisions of section 129D of the Truth in Lending Act take effect, 
+section 129D(k) of the Truth in Lending Act, as added by this Act, 
+shall take effect on the date of the enactment of this Act.
+                                 <all>
+

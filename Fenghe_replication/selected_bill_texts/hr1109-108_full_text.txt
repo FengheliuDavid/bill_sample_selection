@@ -1,0 +1,1136 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1109 Introduced in House (IH)]
+
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                H. R. 1109
+
+   To establish a Financial Markets Oversight Commission in order to 
+ combine the functions of the Commodity Futures Trading Commission and 
+    the Securities and Exchange Commission in a single independent 
+             regulatory commission, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 6, 2003
+
+ Mr. DeFazio introduced the following bill; which was referred to the 
+ Committee on Financial Services, and in addition to the Committee on 
+Agriculture, for a period to be subsequently determined by the Speaker, 
+ in each case for consideration of such provisions as fall within the 
+                jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To establish a Financial Markets Oversight Commission in order to 
+ combine the functions of the Commodity Futures Trading Commission and 
+    the Securities and Exchange Commission in a single independent 
+             regulatory commission, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Market Oversight 
+Consolidation and OTC Derivatives Regulation Act''.
+    (b) Table of Contents.--
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Purposes.
+Sec. 3. Definitions.
+Sec. 4. Effect on congressional jurisdiction.
+                  TITLE I--ESTABLISHMENT OF COMMISSION
+
+Sec. 101. Establishment.
+Sec. 102. Members: appointment; terms.
+Sec. 103. Organization of commission.
+Sec. 104. General Counsel.
+                    TITLE II--TRANSFERS OF FUNCTIONS
+
+Sec. 201. Commodity Futures Trading Commission functions.
+Sec. 202. Securities and Exchange Commission.
+Sec. 203. Jurisdiction of margin authority.
+       TITLE III--FEDERAL FINANCIAL MARKETS COORDINATING COUNCIL
+
+Sec. 301. Establishment; membership.
+Sec. 302. Functions of the Council.
+Sec. 303. Staff; administrative support; expenses.
+                  TITLE IV--ADMINISTRATIVE PROVISIONS
+
+                      Part A--Personnel Provisions
+
+Sec. 401. Officers and employees.
+Sec. 402. Experts and consultants.
+               Part B--General Administrative Provisions
+
+Sec. 411. General authority.
+Sec. 412. Delegation.
+Sec. 413. Reorganization.
+Sec. 414. Rules.
+Sec. 415. Contracts.
+Sec. 416. Regional and field offices.
+Sec. 417. Use of facilities.
+Sec. 418. Working capital fund.
+Sec. 419. Funds transfer.
+Sec. 420. Seal of Commission.
+Sec. 421. Annual report.
+       TITLE V--TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS
+
+Sec. 501. Transfer and allocation of appropriations and personnel.
+Sec. 502. Effect on personnel.
+Sec. 503. Agency terminations.
+Sec. 504. Incidental transfers.
+Sec. 505. Savings provisions.
+Sec. 506. Separability.
+Sec. 507. Reference.
+Sec. 508. Amendments.
+Sec. 509. Transition.
+                TITLE VI--REGULATION OF OTC DERIVATIVES
+
+Sec. 601. Regulation of over-the-counter derivatives.
+                       TITLE VII--EFFECTIVE DATE
+
+Sec. 701. Effective date.
+
+SEC. 2. PURPOSES.
+
+    The purposes of this Act are--
+            (1) to establish a single Federal regulatory body with 
+        jurisdiction over securities and derivatives, including 
+        options, futures, swaps, and related markets and instruments 
+        and including over-the-counter derivatives;
+            (2) to consolidate and revise the authority for setting 
+        margin requirements on all such instruments;
+            (3) to coordinate the regulation of all financial markets;
+            (4) to strengthen investor confidence in United States 
+        financial markets; and
+            (5) to ensure the competitiveness of those markets.
+
+SEC. 3. DEFINITIONS.
+
+    As used in this Act--
+            (1) the term ``Commission'' means the Financial Markets 
+        Oversight Commission established by section 101 of this Act; 
+        and
+            (2) the term ``function'' includes any duty, obligation, 
+        power, authority, responsibility, right, privilege, activity, 
+        or program.
+
+SEC. 4. EFFECT ON CONGRESSIONAL JURISDICTION.
+
+    It is the sense of Congress that this Act shall not be construed to 
+affect the jurisdiction of any committee or subcommittee of the 
+Congress with respect to any function transferred to the Commission by 
+this Act.
+
+                  TITLE I--ESTABLISHMENT OF COMMISSION
+
+SEC. 101. ESTABLISHMENT.
+
+    There is established an independent regulatory commission to be 
+known as the Financial Markets Oversight Commission.
+
+SEC. 102. MEMBERS: APPOINTMENT; TERMS.
+
+    (a) Composition of Commission.--The Commission shall be composed of 
+five commissioners appointed by the President, by and with the advice 
+and consent of the Senate. One of the commissioners shall be designated 
+by the President as chairman. Not more than three of such members shall 
+be members of the same political party. Each Commissioner shall be 
+selected solely on the basis of integrity and demonstrated knowledge of 
+the operations of the markets subject to the jurisdiction of the 
+Commission.
+    (b) Terms.--Each commissioner shall be appointed for a term of 5 
+years, except that--
+            (1) a commissioner may continue to serve after the 
+        expiration of such term until a successor is appointed and has 
+        qualified, but may not continue to so serve beyond the 
+        expiration of the next session of Congress beginning after the 
+        expiration of such term;
+            (2) the terms of office of the commissioners first taking 
+        office after the enactment of this Act shall expire, as 
+        designated by the President at the time of their appointment--
+                    (A) 1 at the end of 1 year;
+                    (B) 2 at the end of 3 years; and
+                    (C) 2 at the end of 5 years; and
+            (3) any member appointed to fill a vacancy occurring prior 
+        to the expiration of the term for which the predecessor was 
+        appointed shall be appointed for the remainder of such term.
+    (c) Conflicts of Interest.--
+            (1) In general.--No commissioner shall engage in any other 
+        business, vocation, or employment than that of serving as 
+        commissioner, nor shall any commissioner participate, directly 
+        or indirectly, in any market operations or transactions of a 
+        character subject to regulation by the Commission pursuant to 
+        this title.
+            (2) Reimbursement for travel.--Notwithstanding any other 
+        provision of law, in accordance with regulations which the 
+        Commission shall prescribe to prevent conflicts of interest, 
+        the Commission may accept payment and reimbursement, in cash or 
+        in kind, from non-Federal agencies, organizations, and 
+        individuals for travel, subsistence, and other necessary 
+        expenses incurred by Commission members and employees in 
+        attending meetings and conferences concerning the functions or 
+        activities of the Commission. Any payment or reimbursement 
+        accepted shall be credited to the appropriated funds of the 
+        Commission. The amount of travel, subsistence, and other 
+        necessary expenses for members and employees paid or reimbursed 
+        under this subsection may exceed per diem amounts established 
+        in official travel regulations, but the Commission may include 
+        in its regulations under this subsection a limitation on such 
+        amounts.
+            (3) Professional fellows.--Notwithstanding any other 
+        provision of law, former employers of participants in the 
+        Commission's professional fellows programs may pay such 
+        participants their actual expenses for relocation to 
+        Washington, District of Columbia, to facilitate their 
+        participation in such programs, and program participants may 
+        accept such payments.
+    (d) Fees.--Notwithstanding any other provision of law, whenever any 
+fee is required to be paid to the Commission pursuant to any provision 
+of the securities laws or any other law, the Commission may provide by 
+rule that such fee shall be paid in a manner other than in cash.
+
+SEC. 103. ORGANIZATION OF COMMISSION.
+
+    The Commission shall establish the principal divisions and 
+subdivisions of the Commission, except that the Commission shall 
+establish a separate division with responsibility for functions 
+relating to markets in physical commodities.
+
+SEC. 104. GENERAL COUNSEL.
+
+    There shall be in the Commission an Office of General Counsel, 
+headed by a General Counsel appointed by the President, by and with the 
+advice and consent of the Senate.
+
+                    TITLE II--TRANSFERS OF FUNCTIONS
+
+SEC. 201. COMMODITY FUTURES TRADING COMMISSION FUNCTIONS.
+
+    There are transferred to the Commission all functions of the 
+Commodity Futures Trading Commission and of any officer or component of 
+the Commodity Futures Trading Commission.
+
+SEC. 202. SECURITIES AND EXCHANGE COMMISSION.
+
+    There are transferred to the Commission all functions of the 
+Security and Exchange Commission and of any officer or component of the 
+Securities and Exchange Commission.
+
+SEC. 203. JURISDICTION OF MARGIN AUTHORITY.
+
+    (a) Margin Authority With Respect to Securities.--There is 
+transferred to the Commission the functions of the Board of Governors 
+of the Federal Reserve System under section 7 of the Securities 
+Exchange Act of 1934.
+    (b) Margin Authority With Respect to Futures.--Notwithstanding 
+section 5a(12) of the Commodity Exchange Act, the Commission may--
+            (1) by order, direct contract markets to adjust the level 
+        of margin required on any contract; or
+            (2) by regulation, prescribe limits on the level of margin 
+        that a contract market may require on any class or category of 
+        contract;
+as necessary to ensure the financial integrity of such market.
+
+       TITLE III--FEDERAL FINANCIAL MARKETS COORDINATING COUNCIL
+
+SEC. 301. ESTABLISHMENT; MEMBERSHIP.
+
+    (a) Establishment.--There is established in the executive branch a 
+council to be known as the Federal Financial Markets Coordinating 
+Council.
+    (b) Membership.--The Council shall be composed of the heads of the 
+following agencies or their designees for this purpose:
+            (1) The Board of Governors of the Federal Reserve System.
+            (2) The Comptroller of the Currency.
+            (3) The Department of the Treasury.
+            (4) The Financial Markets Oversight Commission.
+            (5) The National Credit Union Administration.
+            (6) The Office of Thrift Supervision.
+            (7) The Federal Deposit Insurance Corporation.
+    (c) Chairman.--The Council shall elect one of its members to serve 
+as chairman.
+
+SEC. 302. FUNCTIONS OF THE COUNCIL.
+
+    The Federal Financial Markets Coordinating Council shall--
+            (1) serve as a facility for the coordination of the 
+        regulatory operations of each of the agencies represented on 
+        the Council;
+            (2) meet bimonthly and at the call of the chair to discuss 
+        issues relating to the safety and effectiveness of the 
+        financial services industry and other issues relating to those 
+        regulatory operations;
+            (3) establish an advisory committee of not more than 5 
+        members representative of the futures, commodities, options, 
+        and securities exchanges and the banking industry to meet no 
+        less than 4 times annually; and
+            (4) report biennially to the Congress on its functions and 
+        activities, including in the first such report such 
+        recommendations for legislative action as it considers 
+        appropriate.
+
+SEC. 303. STAFF; ADMINISTRATIVE SUPPORT; EXPENSES.
+
+    (a) Staff; Administrative Support.--The Commission and each agency 
+represented on the Council shall provide to the Council such personnel 
+and administrative support as the Council may require to carry out its 
+functions under this title.
+    (b) Expenses.--There are authorized to be appropriated such sums as 
+may be necessary for the expenses of the Commission in carrying out 
+this title. Funds appropriated under this subsection may be available 
+to reimburse agencies for personnel detailed to the Council and for 
+administrative support provided under subsection (a).
+
+                  TITLE IV--ADMINISTRATIVE PROVISIONS
+
+                      PART A--PERSONNEL PROVISIONS
+
+SEC. 401. OFFICERS AND EMPLOYEES.
+
+    (a) Appointment and Compensation.--The Commission is authorized to 
+appoint and fix the compensation of such officers and employees, 
+including attorneys, as may be necessary to carry out the functions of 
+the Commission. Except as otherwise provided by law, such officers and 
+employees shall be appointed in accordance with the civil service laws 
+and their compensation fixed in accordance with title 5 of the United 
+States Code.
+    (b) Special Provisions.--
+            (1) Continuity of supergrade positions.--At the request of 
+        the Commission, the Director of the Office of Personnel 
+        Management shall, under section 5108 of title 5, United States 
+Code, provide for the establishment in each of the grade levels GS-16, 
+GS-17, and GS-18 of a number of positions in the Commission equal to 
+the number of positions in that grade level which were used primarily 
+for the performance of functions and offices transferred under this Act 
+and which were assigned and filled on the day before the effective date 
+of this Act.
+            (2) Continuity of professional and technical positions.--At 
+        the request of the Commission, the Director of the Office of 
+        Personnel Management shall, under section 3104 of title 5, 
+        United States Code, provide for the establishment in the 
+        Commission of a number of professional and technical positions 
+        outside of the General Schedule equal to the number of such 
+        positions which were used primarily for the performance of 
+        functions and offices transferred under this Act and which were 
+        assigned and filled on the day before the effective date of 
+        this Act.
+            (3) Appointments to special positions.--Appointments to 
+        positions provided for under this subsection may be made 
+        without regard to the provisions of section 3324 of title 5 of 
+        the United States Code, if the individual appointed in such 
+        position is an individual who is transferred in connection with 
+        the transfer of functions and offices under this Act and, on 
+        the day preceding the effective date of this Act, holds a 
+        position and has duties comparable to those of the position to 
+        which appointed hereunder.
+            (4) Termination of special authority.--The authority under 
+        this subsection with respect to any position shall terminate 
+        when the person first appointed to fill such position ceases to 
+        hold such position.
+            (5) Technical provision.--For purposes of section 
+        414(a)(3)(A) of the Civil Service Reform Act of 1978, an 
+        individual appointed under this subsection shall be deemed to 
+        occupy the same position as the individual occupied on the day 
+        preceding the effective date of this Act.
+    (c) Additional Technical and Professional Positions.--The 
+Commission may appoint, without regard to the provisions of title 5, 
+United States Code, governing appointment in the competitive service, 
+up to 100 technical or professional employees of the Commission and may 
+compensate employees so appointed without regard to the provisions of 
+chapter 51 and subchapter III of chapter 53 of such title relating to 
+classification and General Schedule pay rates. The rate of basic 
+compensation for such employees shall not be equal to or in excess of 
+the minimum rate of pay currently paid for GS-16 of the General 
+Schedule under section 5332 of such title.
+    (d) Limited-Term Appointees.--Notwithstanding any other provision 
+of law, the Director of the Office of Personnel Management shall 
+establish positions within the Senior Executive Service for 10 limited-
+term appointees. The Commission shall appoint individuals to such 
+positions as provided by section 3394 of title 5, United States Code. 
+Such positions shall expire on the later of three years after the 
+effective date of this Act or three years after the initial appointment 
+to each position. Positions in effect under this subsection shall be 
+taken into account in applying the limitations on positions prescribed 
+under section 3134(e) and section 5108 of such title.
+
+SEC. 402. EXPERTS AND CONSULTANTS.
+
+    The Commission may as provided in appropriation Acts obtain the 
+services of experts and consultants in accordance with the provisions 
+of section 3109 of title 5, United States Code, and may compensate such 
+experts and consultants at rates not to exceed the daily rate 
+prescribed for GS-18 of the General Schedule under section 5332 of such 
+title.
+
+               PART B--GENERAL ADMINISTRATIVE PROVISIONS
+
+SEC. 411. GENERAL AUTHORITY.
+
+    In carrying out any function transferred by this Act, the 
+Commission, or any officer or employee of the Commission, may exercise 
+any authority available by law (including appropriation Acts) with 
+respect to such function to the official or agency from which such 
+function is transferred, and the actions of the Commission in 
+exercising such authority shall have the same force and effect as when 
+exercised by such official or agency.
+
+SEC. 412. DELEGATION.
+
+    Exception as otherwise provided in this Act, the Commission may 
+delegate any function to such officers and employees of the Commission 
+as the Commission may designate, and may authorize such successive 
+redelegations of such functions within the Commission as may be 
+necessary or appropriate. No delegation of functions by the Commission 
+under this section or under any other provision of this Act shall 
+relieve the Commission of responsibility for the administration of such 
+functions.
+
+SEC. 413. REORGANIZATION.
+
+    The Commission is authorized to allocate or reallocate functions 
+among the officers of the Commission, and to establish, consolidate, 
+alter, or discontinue such organizational entities within the 
+Commission as may be necessary or appropriate.
+
+SEC. 414. RULES.
+
+    The Commission is authorized to prescribe such rules and 
+regulations as the Commission determines necessary or appropriate to 
+administer and manage the functions of the Commission.
+
+SEC. 415. CONTRACTS.
+
+    (a) In General.--Subject to the provisions of the Federal Property 
+and Administrative Services Act of 1949, the Commission is authorized 
+to make, enter into, and perform such contracts, grants, leases, 
+cooperative agreements, or other similar transactions with Federal or 
+other public agencies (including State and local governments) and 
+private organizations and persons, and to make such payments, by way of 
+advance or reimbursement, as the Commission may determine necessary or 
+appropriate to carry out functions of the Commission.
+    (b) Appropriations Required.--Notwithstanding any other provision 
+of this Act, no authority to enter into contracts or to make payments 
+under this title shall be effective except to such extent or in such 
+amounts as are provided in advance under appropriation Acts.
+
+SEC. 416. REGIONAL AND FIELD OFFICES.
+
+    The Commission is authorized to establish, alter, discontinue, or 
+maintain such regional or other field offices as the Commission may 
+find necessary or appropriate to perform functions of the Commission.
+
+SEC. 417. USE OF FACILITIES.
+
+    (a) Use by Commission.--With their consent, the Commission may, 
+with or without reimbursement, use the research, equipment, services, 
+and facilities of any agency or instrumentality of the United States, 
+of any State or political subdivision thereof, or of any foreign 
+government, in carrying out any function of the Commission.
+    (b) Use by Others.--The Commission is authorized to permit public 
+and private agencies, corporations, associations, organizations, or 
+individuals to use any real property, or any facilities, structures, or 
+other improvements thereon, under the custody and control of the 
+Commission for Commission purposes. The Commission shall permit the use 
+of such property, facilities, structures, or improvements under such 
+terms and rates and for such period as may be in the public interest, 
+except that the periods of such uses may not exceed five years. The 
+Commission may require permittees under this section to recondition and 
+maintain, at their own expense, the real property, facilities, 
+structures, and improvements used by such permittees to a standard 
+satisfactory to the Commission. This subsection shall not apply to 
+excess property as defined in section 3(e) of the Federal Property and 
+Administrative Services Act of 1949.
+    (c) Proceeds From Reimbursements.--Proceeds from reimbursements 
+under this section may be credited to the appropriation of funds that 
+bear or will bear all or part of the cost of such equipment or 
+facilities provided or to refund excess sums when necessary.
+    (d) Title to Property.--Any interest in real property acquired 
+pursuant to this Act shall be acquired in the name of the United States 
+Government.
+
+SEC. 418. WORKING CAPITAL FUND.
+
+    (a) Authority and Use.--The Commission, with the approval of the 
+Director of the Office of Management and Budget, is authorized to 
+establish for the Commission a working capital fund, to be available 
+without fiscal year limitation, for expenses necessary for the 
+maintenance and operation of such common administrative services as the 
+Commission shall find to be desirable in the interests of economy and 
+efficiency, including such services as--
+            (1) a central supply service for stationery and other 
+        supplies and equipment for which adequate stocks may be 
+        maintained to meet in whole or in part the requirements of the 
+        Commission and its components;
+            (2) central messenger, mail, telephone, and other 
+        communications services;
+            (3) office space, central services for document 
+        reproduction, and for graphics and visual aids; and
+            (4) a central library service.
+    (b) Contents and Management of Fund.--The capital of the fund shall 
+consist of any appropriations made for the purpose of providing working 
+capital and the fair and reasonable value of such stocks of supplies, 
+equipment, and other assets and inventories on order as the Commission 
+may transfer to the fund, less the related liabilities and unpaid 
+obligations. Such funds shall be reimbursed in advance from available 
+funds of agencies and offices in the Commission, or from other sources, 
+for supplies and services at rates that will approximate the expense of 
+operation, including the accrual of annual leave and the depreciation 
+of equipment. The fund shall also be credited with receipts from sale 
+or exchange of property and receipts in payment for loss or damage to 
+property owned by the fund. There shall be covered into the Treasury as 
+miscellaneous receipts any surplus of the fund (all assets, 
+liabilities, and prior losses considered) above the amounts transferred 
+or appropriated to establish and maintain such fund. There shall be 
+transferred to the fund the stocks of supplies, equipment, other 
+assets, liabilities, and unpaid obligations relating to the services 
+which the Commission determines, with the approval of the Director of 
+the Office of Management and Budget, will be performed.
+
+SEC. 419. FUNDS TRANSFER.
+
+    The Commission may, when authorized in an appropriation Act in any 
+fiscal year, transfer funds from one appropriation to another within 
+the Commission, except that no appropriation for any fiscal year shall 
+be either increased or decreased pursuant to this section by more than 
+5 percent and no such transfer shall result in increasing any such 
+appropriation above the amount authorized to be appropriated therefor.
+
+SEC. 420. SEAL OF COMMISSION.
+
+    The Commission shall cause a seal of office to be made for the 
+Commission of such design as the Commission shall approve. Judicial 
+notice shall be taken of such seal.
+
+SEC. 421. ANNUAL REPORT.
+
+    (a) Contents.--The Commission shall, as soon as practicable after 
+the close of each fiscal year, make a single, comprehensive report to 
+the President for transmission to the Congress on the activities of the 
+Commission during such fiscal year. The report shall include a 
+statement of goals, priorities, and plans for the Commission together 
+with an assessment of the progress made toward--
+            (1) the attainment of such goals, priorities, and plans; 
+        and
+            (2) the more effective and efficient management of the 
+        Commission and the coordination of its functions;
+accompanied where necessary by recommendations for proposed legislation 
+for the achievement of such objectives.
+    (b) Contracting-Out Estimate.--The report required by subsection 
+(a) shall also include an estimate of the extent of the non-Federal 
+personnel employed pursuant to contracts entered into by the Commission 
+under section 415 or under any other authority (including any 
+subcontract thereunder), the number of such contracts and subcontracts 
+pursuant to which non-Federal personnel are employed, and the total 
+cost of those contracts and subcontracts.
+
+       TITLE V--TRANSITIONAL, SAVINGS, AND CONFORMING PROVISIONS
+
+SEC. 501. TRANSFER AND ALLOCATION OF APPROPRIATIONS AND PERSONNEL.
+
+    (a) In General.--Except as otherwise provided in this Act, the 
+personnel employed in connection with, and the assets, liabilities, 
+contracts, property, records, and unexpended balance of appropriations, 
+authorizations, allocations, and other funds employed, held, used, 
+arising from, available to, or to be made available in connection with 
+the functions and offices, or portions thereof transferred by this Act, 
+subject to section 202 of the Budget and Accounting Procedures Act of 
+1950, shall be transferred to the Commission for appropriate 
+allocation. Unexpended funds transferred pursuant to this subsection 
+shall be used only for the purposes for which the funds were originally 
+authorized and appropriated.
+    (b) Exception.--Positions expressly specified by statute or 
+reorganization plan to carry out functions or offices transferred by 
+this Act, personnel occupying those positions on the effective date of 
+this Act, and personnel authorized to receive compensation in such 
+positions at the rate prescribed for offices and positions at level IV 
+or V of the Executive Schedule (5 U.S.C. 5315-5316) on the effective 
+date of this Act, shall be subject to the provisions of section 503.
+
+SEC. 502. EFFECT ON PERSONNEL.
+
+    (a) Protection Against Reduction in Grade or Compensation.--Except 
+as otherwise provided in this Act, the transfer pursuant to this title 
+of full-time personnel (except special Government employees) and part-
+time personnel holding permanent positions shall not cause any such 
+employee to be separated or reduced in grade or compensation for one 
+year after the date of transfer to the Commission.
+    (b) Executive Level Appointees.--Any person who, on the day 
+preceding the effective date of this Act, held a position compensated 
+in accordance with the Executive Schedule prescribed in chapter 53 of 
+title 5, United States Code, and who, without a break in service, is 
+appointed in the Commission to a position having duties comparable to 
+the duties performed immediately preceding such appointment shall 
+continue to be compensated in such new position at not less than the 
+rate provided for such previous position, for the duration of the 
+service of such person in such new position.
+
+SEC. 503. AGENCY TERMINATIONS.
+
+    (a) Terminated Agencies.--On the effective date of this Act, the 
+following entities shall terminate:
+            (A) The Commodity Futures Trading Commission.
+            (B) The Securities and Exchange Commission.
+    (b) Terminated Positions.--Each position which was expressly 
+authorized by law, or the incumbent of which was authorized to receive 
+compensation at the rate prescribed for level III, IV, or V of the 
+Executive Schedule (5 U.S.C. 5315-5316), in an office terminated 
+pursuant to this Act shall also terminate.
+
+SEC. 504. INCIDENTAL TRANSFERS.
+
+    (a) General Authority of OMB.--The Director of the Office of 
+Management and Budget, at such time or times as the Director shall 
+provide, is authorized and directed to make such determinations as may 
+be necessary with regard to the functions, offices, or portions thereof 
+transferred by this Act, and to make such additional incidental 
+dispositions of personnel, assets, liabilities, grants, contracts, 
+property, records, and unexpended balances of appropriations, 
+authorizations, allocations, and other funds held, used, arising from, 
+available to, or to be made available in connection with such 
+functions, offices, or portions thereof, as may be necessary to carry 
+out the provisions of this Act. The Director shall provide for the 
+termination of the affairs of all entities terminated by this Act and 
+for such further measures and dispositions as may be necessary to 
+effectuate the purposes of this Act.
+    (b) SES Positions.--After consultation with the Director of the 
+Office of Personnel Management, the Director of the Office of 
+Management and Budget is authorized, at such time as the Director of 
+the Office of Management and Budget provides, to make such 
+determinations as may be necessary with regard to the transfer of 
+positions within the Senior Executive Service in connection with 
+functions and offices transferred by this Act.
+
+SEC. 505. SAVINGS PROVISIONS.
+
+    (a) Continuity of Legal Instruments.--All orders, determinations, 
+rules, regulations, permits, grants, contracts, certificates, licenses, 
+and privileges--
+            (1) which have been issued, made, granted, or allowed to 
+        become effective by the President, any Federal department or 
+        agency or official thereof, or by a court of competent 
+        jurisdiction, in the performance of functions which are 
+        transferred under this Act to the Commission, and
+            (2) which are in effect at the time this Act takes effect,
+shall continue in effect according to their terms until modified, 
+terminated, superseded, set aside, or revoked in accordance with the 
+law by the President, the Commission, or other authorized official, a 
+court of competent jurisdiction, or by operation of law.
+    (b) Continuity of Proceedings.--
+            (1) In general.--The provisions of this Act shall not 
+        affect any proceedings, including notices of proposed 
+        rulemaking, or any application for any license, permit, 
+        certificate, or financial assistance pending on the effective 
+        date of this Act before any department, agency, commission, or 
+        component thereof, functions of which are transferred by this 
+        Act; but such proceedings and applications, to the extent that 
+        they relate to functions so transferred, shall be continued. 
+        Orders shall be issued in such proceedings, appeals shall be 
+        taken therefrom, and payments shall be made pursuant to such 
+        orders, as if this Act had not been enacted; and orders issued 
+        in any such proceedings shall continue in effect until 
+        modified, terminated, superseded, or revoked by the Commission, 
+        by a court of competent jurisdiction, or by operation of law. 
+        Nothing in this subsection shall be deemed to prohibit the 
+        discontinuance or modification of any such proceeding under the 
+        same terms and conditions and to the same extent that such 
+        proceeding could have been discontinued or modified if this Act 
+        had not been enacted.
+            (2) Regulations concerning transfers.--The Commission is 
+        authorized to promulgate regulations providing for the orderly 
+        transfer of proceedings continued under paragraph (1) to the 
+        Commission.
+    (c) Pending Litigation.--Except as provided in subsection (e)--
+            (1) the provisions of this Act shall not affect suits 
+        commenced prior to the effective date of this Act, and
+            (2) in all such suits, proceedings shall be had, appeals 
+        taken, and judgments rendered in the same manner and effect as 
+        if this Act had not been enacted.
+    (d) Nonabatement.--No suit, action, or other proceeding commenced 
+by or against any officer in the official capacity of such individual 
+as an officer of any department or agency, functions of which are 
+transferred by this Act, shall abate by reason of the enactment of this 
+Act. No cause of action by or against any department or agency, 
+functions of which are transferred by this Act, or by or against any 
+officer thereof in the official capacity of such officer shall abate by 
+reason of the enactment of this Act.
+    (e) Substitution of Parties.--If, before the date on which this Act 
+takes effect, any department or agency, or officer thereof in the 
+official capacity of such officer, is a party to a suit, and under this 
+Act any function of such department, agency, or officer is transferred 
+to the Commission or any other official of the Commission, then such 
+suit shall be continued with the Commission or other appropriate 
+official of the Commission substituted or added as a party.
+    (f) Judicial Review as Required by Existing Law.--Orders and 
+actions of the Commission in the exercise of functions transferred 
+under this Act shall be subject to judicial review to the same extent 
+and in the same manner as if such orders and actions had been by the 
+agency or office, or part thereof, exercising such functions 
+immediately preceding their transfer. Any statutory requirements 
+relating to notice, hearings, action upon the record, or administrative 
+review that apply to any function transferred by this Act shall apply 
+to the exercise of such function by the Commission.
+
+SEC. 506. SEPARABILITY.
+
+    If any provision of this Act or the application thereof to any 
+person or circumstance is held invalid, neither the remainder of this 
+Act nor the application of such provision to other persons or 
+circumstances shall be affected thereby.
+
+SEC. 507. REFERENCE.
+
+    With respect to any function transferred by this Act and exercised 
+on or after the effective date of this Act, reference in any other 
+Federal law to any department, commission, or agency or any officer or 
+office the functions of which are so transferred shall be deemed to 
+refer to the Commission, other official, or component of the Commission 
+to which this Act transfers such functions.
+
+SEC. 508. AMENDMENTS.
+
+    (a) Executive Schedule Salaries.--
+            (1) Chairman.--Section 5314 of title 5, United States Code, 
+        is amended--
+                    (A) by striking ``Chairman, Securities and Exchange 
+                Commission.'' and inserting ``Chairman, Markets and 
+                Trading Commission.''; and
+                    (B) by striking ``Chairman, Commodity Futures 
+                Trading Commission.''.
+            (2) Members.--Section 5315 of title 5, United States Code, 
+        is amended--
+                    (A) by striking ``Members, Securities and Exchange 
+                Commission'' and inserting ``Members, Markets and 
+                Trading Commission''; and
+                    (B) by striking ``Members, Commodity Futures 
+                Trading Commission.''.
+    (b) Conforming Amendments.--
+            (1) Securities exchange act.--Sections 4 and 35 of the 
+        Securities Exchange Act of 1934 are repealed.
+            (2) Commodity exchange act.--Section 2(a) of the Commodity 
+        Exchange Act is amended by striking paragraphs (2), (3), and 
+        (4).
+
+SEC. 509. TRANSITION.
+
+    With the consent of the appropriate department or agency head 
+concerned, the Commission is authorized to utilize the services of such 
+officers, employees, and other personnel of the departments and 
+agencies from which functions or offices have been transferred to the 
+Commission, and funds appropriated to such functions or offices for 
+such period of time as may reasonably be needed to facilitate the 
+orderly implementation of this Act.
+
+                TITLE VI--REGULATION OF OTC DERIVATIVES
+
+SEC. 601. REGULATION OF OVER-THE-COUNTER DERIVATIVES.
+
+    (a) In General.--The Commission shall prescribe such rules and 
+regulations governing over-the-counter derivatives dealers and over-
+the-counter derivatives transactions as may be necessary and 
+appropriate in the public interest and for the protection of investors 
+to ensure the safety and soundness of financial markets and the 
+Nation's economy as a whole, including rules and regulations with 
+respect to--
+            (1) the eligibility of persons to trade over-the-counter 
+        derivatives;
+            (2) registration requirements for over-the-counter 
+        derivatives dealers, institutions employing over-the-counter 
+        derivatives dealers, and facilities on which over-the-counter 
+        derivatives transactions are executed, which shall be similar 
+        to the registration requirements prescribed under the 
+        Securities Exchange Act of 1934 for securities dealers, for 
+        institutions employing securities dealers, and for securities 
+        exchanges;
+            (3) adequate capital requirements for over-the-counter 
+        derivatives dealers, that are similar to the net capital 
+        requirements applicable to securities dealers under section 
+        15(c)(3) of the Securities Exchange Act of 1934;
+            (4) adequate collateral or margin for over-the-counter 
+        derivatives transactions, which rules and regulations shall be 
+        prescribed in consultation with the Board of Governors of the 
+        Federal Reserve System;
+            (5) registration and approval of facilities for the 
+        execution of over-the-counter derivatives transactions;
+            (6) sales practices, including sales licensing and 
+        training;
+            (7) self-regulation;
+            (8) internal risk control;
+            (9) disciplinary procedures;
+            (10) violations and enforcement; and
+            (11) standardized reporting and recordkeeping requirements.
+    (b) Reporting Requirements.--
+            (1) In general.--An over-the-counter derivatives dealer 
+        shall submit to the Commission, in such form and manner as the 
+        Commission may prescribe--
+                    (A) a daily report on price, volume of 
+                transactions, open interest, implied volatility of 
+                options contracts, and the positions of large traders 
+                in the over-the-counter derivatives market; and
+                    (B) a quarterly report on the over-the-counter 
+                derivatives in the dealer's own account, and for each 
+                type of over-the-counter derivative, the currency, 
+                maturity, and the underlying basis for pricing.
+            (2) Data elements.--The Commission shall prescribe how each 
+        feature of an over-the-counter derivatives transaction is to be 
+        reported to the Commission pursuant to paragraph (1).
+            (3) Retroactive applicability.--On registration of an over-
+        the-counter derivatives dealer under this section, the dealer 
+        shall file with the Commission a report of the type described 
+        in paragraph (1)(B) covering the calendar quarter most recently 
+        ending before the registration date.
+    (c) Definitions.--In this section:
+            (1) Over-the-counter derivatives dealer.--The term ``over-
+        the-counter derivatives dealer'' means--
+                    (A) any person engaged in the business of buying, 
+                selling, trading, and clearing over-the-counter 
+                derivatives for the person's own account, as an 
+                intermediary for others, through an intermediary, or 
+                otherwise; and
+                    (B) any counter party to the transaction whose 
+                exposure to over-the-counter derivatives exceeds such 
+                threshold as the Commission shall prescribe by 
+                regulation.
+            (2) Over-the-counter derivative.--The term ``over-the-
+        counter derivative'' means--
+                    (A)(i) any agreement, contract, or transaction that 
+                is not subject to regulation--
+                            (I) under the Securities Exchange Act of 
+                        1934 as a security (as defined in section 
+                        3(a)(10) of such Act) or a security future 
+                        product (as defined in section 3(a)(56) of such 
+                        Act); or
+                            (II) as a financial instrument traded on a 
+                        board of trade which, before December 21, 2000, 
+                        was designated by the Commission as a contract 
+                        market; or
+                    (ii) any condition incorporated by reference in any 
+                such agreement, contract, or transaction; and
+                    (B) the value of which agreement, contract, 
+                transaction, or condition depends on--
+                            (i) an interest rate, exchange rate, 
+                        currency, security, security index, credit risk 
+                        or measure, debt or equity instrument, index or 
+                        measure of inflation or other macroeconomic 
+                        index;
+                            (ii) any other rate, differential, index or 
+                        measure of economic or commercial risk, return, 
+                        or value;
+                            (iii) any economic or commercial index 
+                        based on prices, rates, value or levels that 
+                        are beyond the control of any party to the 
+                        relevant contract, agreement or transaction; or
+                            (iv) an occurrence, extent of an 
+                        occurrence, or contingency that is beyond the 
+                        control of the parties to the relevant 
+                        contract, agreement, or transaction.
+    (d) Criminal Provisions.--
+            (1) It shall be a felony punishable by a fine of not more 
+        than $1,000,000 (or $500,000, in the case of a person who is an 
+        individual), imprisonment for not more than 5 years, or both, 
+        together with the costs of prosecution, for:
+                    (A) Any person registered or required to be 
+                registered under this section, or any employee or agent 
+                thereof, to embezzle, steal, purloin, or with criminal 
+                intent convert to the person's use or to the use of 
+                another, any money, securities, or property having a 
+                value in excess of $100, which was received by the 
+                person or any employee or agent thereof to margin, 
+                guarantee, or secure the trades or contracts of any 
+                customer or accruing to the customer as a result of the 
+                trades or contracts or which otherwise was received 
+                from any customer, client, or pool participant in 
+                connection with the business of the person. In this 
+                subparagraph, the term ``value'' means face, par, or 
+                market value, or cost price, either wholesale or 
+                retail, whichever is greater.
+                    (B) Any person to manipulate or attempt to 
+                manipulate the price of any over-the-counter derivative 
+                in interstate commerce, or for future delivery on or 
+                subject to the rules of any entity registered under 
+                this section, or to corner or attempt to corner any 
+                such derivative or knowingly to deliver or cause to be 
+                delivered for transmission through the mails or 
+                interstate commerce by telegraph, telephone, wireless, 
+                or other means of communication false or misleading or 
+                knowingly inaccurate reports concerning market 
+                information or conditions that affect or tend to affect 
+                the price of any derivative in interstate commerce.
+                    (C) Any person knowingly to make, or cause to be 
+                made, any statement in any application, report, or 
+                document required to be filed under this section or any 
+                rule or regulation under this section or any 
+                undertaking contained in a registration statement 
+                required under this section, which statement was false 
+                or misleading with respect to any material fact, or 
+                knowingly to omit any material fact required to be 
+                stated in the statement or necessary to make the 
+                statements in the statement not misleading.
+                    (D) Any person willfully to falsify, conceal, or 
+                cover up by any trick, scheme, or artifice a material 
+                fact, make any false, fictitious, or fraudulent 
+                statements or representations, or make or use any false 
+                writing or document knowing the same to contain any 
+                false, fictitious, or fraudulent statement or entry to 
+                an entity registered under this section acting in 
+                furtherance of its official duties under this section.
+                    (E) Any person willfully to violate any other 
+                provision of this section, or any rule or regulation 
+                under this section, the violation of which is made 
+                unlawful or the observance of which is required under 
+                this section, but a person shall not be subject to 
+                imprisonment under this subparagraph for the violation 
+                of any rule or regulation if the person proves that the 
+                person had no knowledge of the rule or regulation.
+            (2) Any person convicted of a felony under this subsection 
+        shall be suspended from registration under this section and 
+        shall be denied registration or reregistration for 5 years or 
+        such longer period as the Commission may determine, and barred 
+        from using, or participating in any manner in, any market 
+        regulated by the Commission for 5 years or such longer period 
+        as the Commission shall determine, on such terms and conditions 
+        as the Commission may prescribe, unless the Commission 
+        determines that the imposition of the suspension, denial of 
+        registration or reregistration, or market bar is not required 
+        to protect the public interest. The Commission may upon 
+        petition later review the disqualification and market bar and 
+        for good cause shown reduce the period of the disqualification.
+            (3) It shall be a felony punishable by a fine of not more 
+        than $500,000, imprisonment for not more than 5 years, or both, 
+        together with the costs of prosecution, for any Commissioner of 
+        the Commission or any employee or agent of the Commission, to 
+        participate, directly or indirectly, in any over-the-counter 
+        derivatives transaction, or any transaction for the delivery of 
+        any over-the-counter derivative under a standardized contract 
+        commonly known to the trade as a margin account, margin 
+        contract, leverage account, or leverage contract, or under any 
+        contract, account, arrangement, scheme, or device that the 
+        Commission determines serves the same function or functions as 
+        such a standardized contract, or is marketed or managed in 
+        substantially the same manner as such a standardized contract, 
+        or for any such person to participate, directly or indirectly, 
+        in any investment transaction in an over-the-counter derivative 
+        if nonpublic information is used in the investment transaction, 
+        if the investment transaction is prohibited by rule or 
+        regulation of the Commission, or if the investment transaction 
+        is effected by means of any instrument regulated by the 
+        Commission. The foregoing prohibitions shall not apply to any 
+        transaction or class of transactions that the Commission, by 
+        rule or regulation, has determined would not be contrary to the 
+        public interest or otherwise inconsistent with the purposes of 
+        this paragraph.
+            (4) It shall be a felony punishable by a fine of not more 
+        than $500,000, imprisonment for not more than 5 years, or both, 
+        together with the costs of prosecution for:
+                    (A) Any Commissioner of the Commission or any 
+                employee or agent of the Commission who, by virtue of 
+                his employment or position, acquires information which 
+                may affect or tend to affect the price of any over-the-
+                counter derivatives transaction and which information 
+                has not been made public to impart such information 
+                with intent to assist another person, directly or 
+                indirectly, to participate in any over-the-counter 
+                derivatives transaction or in any transaction for the 
+                delivery of any over-the-counter derivative under a 
+                standardized contract commonly known to the trade as a 
+                margin account, margin contract, leverage account, or 
+                leverage contract, or under any contract, account, 
+                arrangement, scheme, or device that the Commission 
+                determines serves the same function or functions as 
+                such a standardized contract, or is marketed or managed 
+                in substantially the same manner as such a standardized 
+                contract.
+                    (B) Any person to acquire such information from any 
+                Commissioner of the Commission or any employee or agent 
+                of the Commission and to use such information in any 
+                over-the-counter derivatives transaction or in any 
+                transaction for the delivery of any over-the-counter 
+                derivative under a standardized contract commonly known 
+                to the trade as a margin account, margin contract, 
+                leverage account, or leverage contract, or under any 
+                contract, account, arrangement, scheme, or device that 
+                the Commission determines serves the same function or 
+                functions as such a standardized contract, or is 
+                marketed or managed in substantially the same manner as 
+                such a standardized contract.
+            (5)(A) It shall be a felony for any person--
+                    (i) who is an employee, member of the governing 
+                board, or member of any entity registered under this 
+                section, in violation of a regulation issued by the 
+                Commission, willfully and knowingly to trade for the 
+                person's own account, or for or on behalf of any other 
+                account, in over-the-counter derivatives transactions 
+                on the basis of, or willfully and knowingly to disclose 
+                for any purpose inconsistent with the performance of 
+                such person's official duties as an employee or member, 
+                any material nonpublic information obtained through 
+                special access related to the performance of such 
+                duties; or
+                    (ii) willfully and knowingly to trade for the 
+                person's own account, or for or on behalf of any other 
+                account, in over-the-counter derivatives transactions 
+                on the basis of any material nonpublic information that 
+                the person knows was obtained in violation of clause 
+                (i) from an employee, member of the governing board, or 
+                member of any committee of an entity registered under 
+                this section.
+            (B) The felony shall be punishable by a fine of not more 
+        than $500,000, plus the amount of any profits realized from the 
+        trading or disclosure made in violation of this paragraph, or 
+        imprisonment for not more than 5 years, or both, together with 
+        the costs of prosecution.
+    (e) Private Rights of Action.--
+            (1)(A) Any person (other than an entity registered under 
+        this section) who violates this section or a regulation 
+        prescribed under this section or who willfully aids, abets, 
+        counsels, induces, or procures the commission of a violation of 
+        this section or of such a regulation shall be liable for actual 
+        damages caused by the violation to any other person--
+                    (i) who received trading advice from such person 
+                for a fee;
+                    (ii) who purchased or sold an over-the-counter 
+                derivative if the violation constitutes a manipulation 
+                of the price of any such derivative or of a rate, 
+                currency, index, measure, value, or level on which such 
+                a derivative is based;
+                    (iii) who made through the person any contract of 
+                sale of any over-the-counter derivative for future 
+                delivery (or option on such a contract or derivative), 
+                or who deposited with or paid to the person money, 
+                securities, or property (or incurred debt in lieu 
+                thereof) in connection with any order to make such a 
+                contract; or
+                    (iv) who purchased or sold a contract referred to 
+                in clause (iii) if the violation constitutes a 
+                manipulation of the price of any such contract or the 
+                price of any derivative underlying the contract.
+            (B) Except as provided in paragraph (2), the rights of 
+        action authorized by this paragraph shall be the exclusive 
+        remedies under this section available to any person who 
+        sustains loss as a result of any alleged violation of this 
+        section. This paragraph shall not be construed to limit or 
+        abridge the rights of the parties to agree in advance of a 
+        dispute on any forum for resolving claims under this 
+        subsection, including arbitration.
+            (C) In an action arising from a violation in the execution 
+        of an order on the floor of an entity registered under this 
+        section, the person referred to in subparagraph (A) shall be 
+        liable for--
+                    (i) actual damages proximately caused by the 
+                violation; and
+                    (ii) if the violation is willful and intentional, 
+                punitive or exemplary damages equal to no more than 
+                twice the amount of the actual damages.
+            (2)(A)(i) An entity registered under this section that 
+        fails to enforce any bylaw, rule, regulation, or resolution 
+        that the entity is required under this section to enforce, or 
+        that in enforcing any such bylaw, rule, regulation, or 
+        resolution violates this section or any Commission rule, 
+        regulation, or order issued under this section, shall be liable 
+        for actual damages sustained by a person who engaged in any 
+        transaction on or subject to the rules of the entity to the 
+        extent of the person's actual losses that resulted from the 
+        transaction and were caused by the failure to enforce or by 
+        enforcement of the bylaws, rules, regulations, or resolutions.
+            (B) An individual who, in the capacity as an officer, 
+        director, governor, committee member, or employee of an entity 
+        registered under this section willfully aids, abets, counsels, 
+        induces, or procures any failure by any such entity to enforce 
+        (or any violation of this section in enforcing) any bylaw, 
+        rule, regulation, or resolution referred to in subparagraph (A) 
+        of this paragraph, shall be liable for actual damages sustained 
+        by a person who engaged in any transaction specified in 
+        paragraph (1) of this subsection on, or subject to the rules 
+        of, the entity, to the extent of the person's actual losses 
+        that resulted from the transaction and were caused by the 
+        failure or violation.
+            (C) A person seeking to enforce liability under this 
+        subsection must establish that the entity, officer, director, 
+        governor, committee member, or employee acted in bad faith in 
+        failing to take action or in taking the action as was taken, 
+        and that the failure or action caused the loss.
+            (D) The rights of action authorized by this paragraph shall 
+        be the exclusive remedy under this section available to any 
+        person who sustains a loss as a result of--
+                    (i) the alleged failure by an entity registered 
+                under this section or by any officer, director, 
+                governor, committee member, or employee to enforce any 
+                bylaw, rule, regulation, or resolution referred to in 
+                subparagraph (A) of this paragraph, or
+                    (ii) the taking of action in enforcing any bylaw, 
+                rule, regulation, or resolution referred to in this 
+                paragraph that is alleged to have violated this 
+                section, or any Commission rule, regulation, or order 
+                issued under this section.
+            (3) The United States district courts shall have exclusive 
+        jurisdiction of actions brought under this subsection. Any such 
+        action shall be brought not later than 2 years after the date 
+        the cause of action arises. Any action brought under paragraph 
+        (1) may be brought in any judicial district in which the 
+        defendant is found, resides, or transacts business, or in the 
+        judicial district in which any act or transaction constituting 
+        the violation occurs. Process in such action may be served in 
+        any judicial district of which the defendant is an inhabitant 
+        or wherever the defendant may be found.
+    (f) Superiority to Commodity Exchange Act and the Commodity Futures 
+Modernization Act of 2000.--In the event of any conflict between any 
+provision of, or regulation prescribed under, this section and any 
+provision of, or regulation prescribed under, the Commodity Exchange 
+Act or the Commodity Futures Modernization Act of 2000, the provison 
+of, or regulation prescribed under, this section shall control.
+    (g) Conforming Amendments.--The Commodity Exchange Act is amended--
+            (1) in section 1a (7 U.S.C. 1a)--
+                    (A) by striking paragraph (13); and
+                    (B) in paragraph (14), by striking ``an excluded 
+                commodity or''; and
+            (2) in section 2 (7 U.S.C. 2)--
+                    (A) in subsection (c)(1)--
+                            (i) by adding ``or'' at the end of 
+                        subparagraph (E); and
+                            (ii) by striking subparagraph (F) and 
+                        redesignating subparagraph (G) as subparagraph 
+                        (F); and
+                    (B) in subsection (i)(1)(A), by striking ``2(d),''.
+
+                       TITLE VII--EFFECTIVE DATE
+
+SEC. 701. EFFECTIVE DATE.
+
+    (a) In General.--The provisions of this Act shall take effect 180 
+days after the first Commissioner takes office, or on any later date on 
+or before October 1, 2004, as the President may prescribe and publish 
+in the Federal Register, except that at any time on or after the date 
+of enactment of this Act--
+            (1) any of the officers provided for in title II of this 
+        Act may be nominated and appointed, as provided in such title; 
+        and
+            (2) the Commission may promulgate regulations pursuant to 
+        section 505(b)(2) of this Act.
+    (b) Transition Expenses.--Funds available to any department or 
+agency (or any official department or agency or any official or 
+component thereof), the functions or offices of which are transferred 
+to the Commission by this Act, may, with the approval of the Director 
+of the Office of Management and Budget, be used to pay the compensation 
+and expenses of any officer appointed pursuant to this title and other 
+transitional and planning expenses associated with the establishment of 
+the Commission or transfer of functions or offices thereto until such 
+time as funds for such purposes are otherwise available.
+                                 <all>
+

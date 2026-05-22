@@ -1,0 +1,115 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6125 Introduced in House (IH)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 6125
+
+To amend the Federal Deposit Insurance Act and the Federal Credit Union 
+ Act with respect to privilege of information provided to Federal and 
+                State agencies, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 12, 2012
+
+ Mr. Renacci (for himself and Mr. Perlmutter) introduced the following 
+    bill; which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Deposit Insurance Act and the Federal Credit Union 
+ Act with respect to privilege of information provided to Federal and 
+                State agencies, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. PRIVILEGE AND CONFIDENTIALITY OF INFORMATION PROVIDED TO 
+              REGULATORS.
+
+    (a) Federal Deposit Insurance Act.--The Federal Deposit Insurance 
+Act (12 U.S.C. 1811 et seq.) is amended--
+            (1) in section 11(t) (12 U.S.C. 1821(t))--
+                    (A) in paragraph (1), by inserting ``or 
+                confidentiality'' after ``privilege'';
+                    (B) in paragraph (2)--
+                            (i) in subparagraph (A)--
+                                    (I) by inserting after clause (v) 
+                                the following:
+                            ``(vi) The Bureau of Consumer Financial 
+                        Protection.''; and
+                                    (II) by adding at the end the 
+                                following:
+                            ``(viii) State bank and financial company 
+                        supervisors.
+                            ``(ix) Any licensing and registry system 
+                        established under section 1502 or section 1509 
+                        of the Secure and Fair Enforcement for Mortgage 
+                        Licensing Act of 2008 (12 U.S.C. 5101 et 
+                        seq.).''; and
+                            (ii) by adding at the end the following:
+                    ``(C) State bank and financial company 
+                supervisor.--The term `State bank and financial company 
+                supervisor' means--
+                            ``(i) a State bank supervisor; or
+                            ``(ii) any agency of a State which 
+                        licenses, supervises, or examines the offering 
+                        of consumer financial products or services 
+                        provided by persons subject to the regulatory 
+                        or supervisory authority of the Bureau of 
+                        Consumer Financial Protection.''; and
+                    (C) in paragraph (3), by inserting ``or 
+                confidentiality'' after ``privilege'';
+            (2) in section 18(x)--
+                    (A) in paragraph (1)--
+                            (i) by inserting ``the Bureau of Consumer 
+                        Financial Protection,'' before ``any Federal 
+                        banking agency'';
+                            (ii) by striking ``State bank supervisor'' 
+                        and inserting ``State bank and financial 
+                        company supervisor (as defined under section 
+                        11(t)(2)), licensing and registry system 
+                        established under section 1502 or section 1509 
+                        of the Secure and Fair Enforcement for Mortgage 
+                        Licensing Act of 2008 (12 U.S.C. 5101 et 
+                        seq.)''; and
+                            (iii) by striking ``such agency'' each 
+                        place such term appears and inserting ``such 
+                        Bureau, agency, system'';
+                            (iv) by inserting ``or confidentiality'' 
+                        after ``privilege''; and
+                    (B) in paragraph (2)--
+                            (i) by inserting ``or confidentiality'' 
+                        after ``privilege'' each place such term 
+                        appears; and
+                            (ii) in subparagraph (B)--
+                                    (I) by inserting ``the Bureau of 
+                                Consumer Financial Protection,'' before 
+                                ``any Federal banking agency''; and
+                                    (II) by striking ``State bank 
+                                supervisor'' and inserting ``State bank 
+                                and financial company supervisor, 
+                                licensing and registry system 
+                                established under section 1502 or 
+                                section 1509 of the Secure and Fair 
+                                Enforcement for Mortgage Licensing Act 
+                                of 2008 (12 U.S.C. 5101 et seq.)''.
+    (b) Federal Credit Union Act.--Section 205(j) of the Federal Credit 
+Union Act (12 U.S.C. 1785(j)) is amended--
+            (1) by inserting ``or confidentiality'' after ``privilege'' 
+        each place such term appears; and
+            (2) by inserting ``the Bureau of Consumer Financial 
+        Protection,'' before ``the Administration'' each place such 
+        term appears.
+                                 <all>
+

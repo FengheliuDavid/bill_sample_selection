@@ -1,0 +1,752 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3005 Introduced in Senate (IS)]
+
+111th CONGRESS
+  2d Session
+                                S. 3005
+
+    To create an independent research institute, to be known as the 
+``National Institute of Finance'', that will oversee the collection and 
+   standardization of data on financial entities and activities, and 
+  conduct monitoring and other research and analytical activities to 
+ support the work of the Federal financial regulatory agencies and the 
+                               Congress.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            February 4, 2010
+
+   Mr. Reed introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To create an independent research institute, to be known as the 
+``National Institute of Finance'', that will oversee the collection and 
+   standardization of data on financial entities and activities, and 
+  conduct monitoring and other research and analytical activities to 
+ support the work of the Federal financial regulatory agencies and the 
+                               Congress.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``National Institute 
+of Finance Act of 2010''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--Congress finds the following:
+            (1) The United States is experiencing the worst economic 
+        and financial crisis since the Great Depression. The nature of 
+        the current crisis is systemic. It was set in motion not by the 
+        actions of any single entity, but by a loss of confidence 
+        throughout the financial system as a whole.
+            (2) Such catastrophic events revealed significant 
+        shortcomings in the legal tools available to financial 
+        policymakers. The scale and systemic nature of the crisis calls 
+        for a thorough review of the United States' system of financial 
+        regulation, to assess its capacity to understand, monitor, and 
+        respond to systemic threats. It is critical that financial 
+        regulators have the legal tools they need to act quickly, 
+        decisively, effectively, and when appropriate, preemptively, to 
+        prevent systemic financial crises in the future and to mitigate 
+        their negative impact, should they recur.
+            (3) The recent catastrophic events in financial markets 
+        also revealed significant gaps in the information and analytic 
+        tools available to regulators and policymakers charged with 
+        ensuring the health of the financial system.
+            (4) Systemic risk involves interactions among financial 
+        entities in addition to features of individual firms. 
+        Therefore, to understand and monitor the buildup of systemic 
+        risk in the financial system requires information about such 
+        interactions among institutions.
+            (5) Operational methods do not exist by which to measure 
+        systemic risks in the United States financial system. Nor do 
+        proven operational techniques exist by which regulators can 
+        identify the buildup of systemic risks in the United States 
+        financial system.
+            (6) Regulators do not have effective methodologies for 
+        assessing the effects of particular regulatory actions or 
+        approaches on the overall health of the financial system.
+            (7) Financial regulators do not have the data needed to map 
+        the networks of counterparty relationships through which 
+        systemic contagion could spread. Nor do they have the analytic 
+        tools required to translate such data into useful, actionable 
+        information.
+            (8) Notwithstanding noteworthy efforts from the research 
+        community, sustained, large-scale programs of applied research 
+        and development necessary to create operational systems for 
+        understanding, measuring, and monitoring systemic risk in 
+        financial systems have not emerged.
+            (9) There is a substantial amount of high-quality research 
+        in academia in relevant disciplines, including financial 
+        economics, statistics, and operations research, but such 
+        research tends to focus on theoretical or conceptual 
+        innovations that are not immediately reducible to operational 
+        practice.
+            (10) The incentives confronting academic researchers work 
+        against the production of research that does not yield novel 
+        theoretical insights or computational techniques.
+            (11) The challenges of gaining access to data and obtaining 
+        funding from government and industry for academic research 
+        severely restrict the number of academics working on 
+        understanding and monitoring systemic risk in the financial 
+        markets.
+            (12) Some of the largest commercial firms make substantial 
+        investments in research and development in the area of 
+        quantitative finance, but such commercial research programs are 
+        targeted almost exclusively at applications that create 
+        commercial value for the firms undertaking the substantial 
+        investments necessary to support the programs, and focus 
+        primarily on techniques for pricing particular financial 
+        instruments and managing firm-specific risks.
+            (13) Financial institutions that sponsor research programs 
+        usually protect the results of investigations as commercial 
+        trade secrets. Even those results that might be useful in 
+        application to the analysis of systemic risk are generally not 
+        available to the public.
+            (14) No organization anywhere has access to the 
+        comprehensive transaction-level data that are necessary to map 
+        the network of counterparty relationships in the financial 
+        system. Absent such data, it is not possible to evaluate the 
+        primary counterparty risks, the extent to which any given firm 
+        is vulnerable to the failure of one of its counterparties, or 
+        broader counterparty network risks.
+            (15) It is not possible to understand, assess, or predict 
+        how the collapse of one or more institutions might set off a 
+        cascade of failure that destabilizes the entire financial 
+        system.
+            (16) Without intelligence about the network of counterparty 
+        relationships and the liquidity provided by the members of the 
+        counterparty network, it is difficult even to identify reliably 
+        the set of institutions that regulators should deem to be 
+        systemically important.
+            (17) Notwithstanding statutory mandates that call for 
+        sharing of information among regulatory agencies, United States 
+        financial regulators do not require that firms report data in a 
+        uniform standard format. The lack of compatibility in the data 
+        formats used by different agencies implies in practice that 
+        agencies find it difficult and expensive to integrate data from 
+        multiple sources.
+            (18) In periods of financial crisis such as that 
+        experienced in the 2 years preceding the date of enactment of 
+        this Act, absence of data comparability becomes a critical 
+        handicap, in that dispersed information cannot quickly be 
+        integrated into a comprehensive framework that could help 
+        reveal the condition of the financial system as a whole. 
+        Without a capacity quickly to compare and integrate financial 
+        data of diverse types from multiple sources, regulators are 
+        unable to analyze the state of the financial system accurately 
+        and comprehensively. Nor are they able to foresee, and 
+        potentially head off, the onset of a financial crisis.
+            (19) The events of September 2008 offer a sobering example 
+        of the consequences that can flow from an inability quickly to 
+        integrate financial data from diverse sources. During several 
+        critical days in that month, senior Government officials 
+        contemplated the possible consequences of allowing the failure 
+        of Lehman Brothers Holdings, Inc. Insofar as the content of 
+        their deliberations is accessible in the public record, there 
+        is little evidence that such officials had at their disposal an 
+        intelligence system that could illuminate the potential 
+        consequences of alternative choices. Notwithstanding that the 
+        United States Government, through its several agencies, 
+        collects a broad range of information from financial firms, the 
+        events of September 2008 revealed that, at this most critical 
+        juncture, these data and accompanying analytics could not 
+        provide financial officials with the information they needed.
+            (20) The creation of a system for collecting and organizing 
+        a comprehensive financial transaction database that employs 
+        standardized formats is feasible.
+            (21) The Enterprise Data Management Council, an industry 
+        consortium, is on record as advocating both the feasibility and 
+        desirability of bringing uniform standards to the collection, 
+        reporting, and management of financial transaction data.
+            (22) A leading financial firm has developed for its 
+        internal use a system that incorporates comprehensive reference 
+        databases of all legal entities in its counterparty network and 
+        of all of the many types of financial instruments in which it 
+        transacts. Using the system, the firm can compute its exposure 
+        to many of their counterparties within an hour.
+            (23) A leading information technology firm has developed a 
+        prototype of an operational system that would support a 
+        comprehensive database of financial instruments and 
+        transactions across the entire economy, and in collaboration 
+        with other private sector firms and public sector entities, is 
+        in the process of developing a prototype system for maintaining 
+        the needed system-wide reference databases.
+            (24) The community of financial regulators can realize 
+        substantial benefits by consolidating into one entity the 
+        highly technical tasks of establishing and maintaining uniform 
+        standards for reporting financial data, organizing and managing 
+        high-volume flows of financial data, providing analytic and 
+        high performance computational services, performing applied 
+        research and development activities, and conducting, 
+        coordinating, and sponsoring essential long term, fundamental 
+        research in the field of financial analysis and regulatory 
+        intelligence.
+            (25) Such technical tasks benefit from increasing economies 
+        of scale, the total cost of providing such services to the 
+        regulatory community promises to be lower if one agency is 
+        tasked to provide all of such data, instead of creating 
+        redundant and less effective units in each of the several 
+        financial regulatory agencies.
+            (26) An entity that provides access to data and analytic 
+        tools to all regulatory agencies on a common basis would help 
+        to ensure that all agencies are receiving accurate, consistent, 
+        comparable data and analytic tools that can be modified for 
+        agency-specific needs.
+            (27) The creation of an entity that creates shared data and 
+        analytic services will provide a natural and regular vehicle 
+        for the exchange of research and collaboration between 
+        regulatory agencies.
+            (28) The emergence of uniform standards for referencing and 
+        reporting financial transactions would generate substantial 
+        benefits for the financial services industry. There is, at 
+        present, no consistent, comprehensive, and universal system for 
+        coding, transmitting, and storing financial transaction data. 
+        Data reside typically in unconnected databases and 
+        spreadsheets, using multiple formats and inconsistent 
+        definitions. The routine conduct of business obliges firms to 
+        incur substantial costs to translate and transfer data among 
+        otherwise incompatible systems. In addition, this data 
+        incomparability impedes the ability of companies to assess 
+        their risks accurately. The adoption of a common language for 
+        data coding and handling would dramatically reduce costs for 
+        processing transactions and carrying out other administrative 
+        tasks. Standardized reporting would also enable firms to map 
+        their counterparty relationships more clearly and more easily 
+        understand their credit exposures to other firms, a development 
+        that promises improvements in risk management practices across 
+        the industry.
+            (29) In August 2008, the Counterparty Risk Management 
+        Policy Group called for the financial industry to move rapidly 
+        toward real-time reconciliation and confirmation of financial 
+        transactions. Industry experts believe that this change would 
+        yield substantial benefits to firms individually, to the 
+        financial services industry, and to the economy as a whole. 
+        Achieving this goal would not be possible, however, without 
+        industry-wide adoption of common standards for coding and 
+        handling financial transaction data. Despite the clear benefits 
+        of data standardization and despite years of effort by the 
+        industry, through consortia such as the Enterprise Data 
+        Management Council, the financial services industry has not 
+        been able to make meaningful progress towards the goal of 
+        universal adoption of uniform, consistent standards for data 
+        handling.
+            (30) Efforts to see a common set of standards for financial 
+        data adopted universally are impeded by so-called ``network 
+        effects''. The benefits of adoption for any one firm depend on 
+        the extent to which other firms adopt the same common language. 
+        For any one institution, the full benefits are distinctly 
+        limited until a critical number of participants in the industry 
+        adopt the same standards. In light of these network effects, 
+        the adoption of a single data handling standard by all industry 
+        participants presents a daunting coordination challenge. Each 
+        individual firm is discouraged from making the substantial 
+        investments required to upgrade its own systems, unless and 
+        until they receive assurance that others in the industry will 
+        follow suit. Many firms are deferring significant upgrades to 
+        their systems until well-defined industry-wide standards are 
+        accepted.
+            (31) The financial services industry's historical 
+        experience strongly suggests that the industry is unlikely to 
+        achieve universal adoption of a single data-handling standard 
+        on its own initiative, through either the decentralized actions 
+        of industry participants or through voluntary coordination at 
+        the urging of industry consortia or trade associations. 
+        Standardization of financial data will require an external 
+        mandate.
+            (32) The new data standards promulgated for reporting by 
+        firms will emerge as the de facto standard for data management 
+        in the finance industry, a standard on which firms could 
+        converge. Firms could then be confident of realizing a 
+        significant return on the investment needed to update their 
+        internal systems, knowing that other industry participants were 
+        doing likewise.
+            (33) The establishment of Federal requirements for the 
+        maintenance and provision of reference databases and reporting 
+        of transactions and position data to a central repository would 
+        assure individual institutions of a significant return on the 
+        investment needed to update their internal systems. Firms would 
+        benefit from not having to maintain their own unique reference 
+        databases, standardized reporting would greatly reduce the cost 
+        of reconciling trades and other back office activities, and it 
+        would give firms a clear map of their counterparty 
+        relationships, which would facilitate better risk management 
+        across the industry.
+            (34) Once achieved, the universal adoption of standard 
+        protocols for handling financial transaction data promises to 
+        generate significant and sustained improvements in the 
+        efficiency and productivity of the financial services industry 
+        in the United States. Such improvements will help to secure and 
+        maintain the international leadership position of United States 
+        capital markets.
+            (35) United States regulators must never again find 
+        themselves confronting a financial crisis without the full set 
+        of legal, data, and analytic tools they need to understand, 
+        measure, monitor, and respond intelligently to systemic risks 
+        that threaten the stability of the United States financial 
+        system.
+    (b) Purposes.--The purposes of this Act are--
+            (1) to ensure that the financial regulatory community is 
+        equipped fully with the data and analytic tools it needs to 
+        fulfill its responsibility to safeguard the United States 
+        financial system;
+            (2) to reduce the likelihood of another systemic financial 
+        crisis occurring;
+            (3) to restore integrity and confidence to the financial 
+        markets of the United States;
+            (4) to provide for the security of the United States 
+        economy from potential external threats to the United States 
+        financial system;
+            (5) to improve the efficiency of the financial markets in 
+        the United States;
+            (6) to reduce the cost and increase the effectiveness of 
+        coordinated financial regulation in the United States;
+            (7) to help maintain the leadership position of the United 
+        States as home to the most efficient, competitive, and 
+        productive capital markets in the world; and
+            (8) to help restore and maintain conditions in the United 
+        States financial system that will support the creation of 
+        wealth and prosperity in the United States.
+
+SEC. 3. DEFINITIONS.
+
+    In this Act, the following definitions shall apply:
+            (1) Financial regulatory agency.--The term ``financial 
+        regulatory agency'' means any Federal regulatory agency or body 
+        charged with regulating, examining, or supervising a financial 
+        entity or activity, including any financial systemic risk 
+        council or agency established by Congress.
+            (2) Institute; director; board of directors.--The terms 
+        ``Institute'', ``Director'', and ``Board of Directors'' mean 
+        the National Institute of Finance, the Director thereof, and 
+        the Board of Directors thereof, respectively.
+            (3) Financial entity.--
+                    (A) In general.--The term ``financial entity'' 
+                means any corporation, partnership, individual, or 
+                other organizational form, whether public or private, 
+                used to engage in any type of financial activity that 
+                may contribute to systemic risk, including any bank, 
+                savings association, credit union, industrial loan 
+                company, trust, pension fund, holding company, lender, 
+                finance company, mortgage broker, broker-dealer, mutual 
+                fund or other investment company, investment adviser, 
+                hedge fund, insurance company, clearinghouse or other 
+                central counterparty, exchange, and any other entity or 
+                institution that the Director determines, at the 
+                formation of the Institute, are necessary for the 
+                Institute to complete its duties under this Act.
+                    (B) Director authority.--The Director may, by rule, 
+                add new types of entities or institutions to be treated 
+                as financial entities for purposes of this Act.
+            (4) Systemic risk.--The term ``systemic risk'' means the 
+        risk that a failure or default by a financial entity or 
+        entities, or exposures to a financial product or products or 
+        activity will produce--
+                    (A) significant disruptions to the operations of 
+                financial markets;
+                    (B) the spreading of financial losses and failures 
+                through the financial system; or
+                    (C) significant disruption to the broader economy.
+            (5) Financial contract.--The term ``financial contract'' 
+        mean a legally binding agreement between 2 or more 
+        counterparties, describing rights, and obligations relating to 
+        the future delivery of items of intrinsic or extrinsic value 
+        among the counterparties.
+            (6) Financial instrument.--The term ``financial 
+        instrument'' means a financial contract in which the terms and 
+        conditions are publicly available, and the roles of 1 or more 
+        of the counterparties are assignable without the consent of any 
+        of the other counterparties, including common stock of a 
+        publicly traded company, government bonds, and exchange traded 
+        futures and options contracts.
+            (7) Financial entity reference database.--The term 
+        ``financial entity reference database'' means a comprehensive 
+        list of financial entities that may be counterparties to 
+        financial transactions or referenced in the contractual 
+        structure of a financial instrument. For each financial entity, 
+        the database shall include, but not be limited to a unique 
+        identifier, and sufficient information to differentiate the 
+        entity from every other entity, including an exact legal name 
+        and an address for each company, and an exact legal name and a 
+        social security number for each American citizen. For financial 
+        entities that are legally owned by or otherwise contained 
+        within other financial entities, the database shall include 
+        such information.
+            (8) Financial instrument reference database.--The term 
+        ``financial instrument reference database'' means a 
+        comprehensive list of unique financial instruments. For each 
+        financial instrument, the database shall include a unique 
+        identifier and a comprehensive description of the contractual 
+        structure of the instrument as well as all express terms 
+        governing the interpretation and implementation of the 
+        contract, including jurisdiction, force majeure, and dispute 
+        resolution. The contractual structure shall include the 
+        financial and economic obligations and rights, both express and 
+        implied, and including through legal agreements such as netting 
+        agreements, established among all of the counterparties having 
+        identified roles in the contract, including advisors, 
+        principals, trustees, custodians, guarantors, prime brokers, 
+        executing brokers, clearing brokers, and issuers of securities. 
+        An electronic copy of the prospectus for each financial 
+        instrument for which a prospectus was created or distributed 
+        shall also be contained in the database.
+            (9) Financial transaction data.--The term ``financial 
+        transaction'' means the explicit or implicit creation of a 
+        financial contract where at least one of the counterparties is 
+        required to report to the Institute. The data describing the 
+        transaction shall include the structure of the contract created 
+        in the transaction, as well as all express terms governing the 
+        interpretation and implementation of the contract, including 
+        jurisdiction, force majeure, and dispute resolution. The 
+        contractual structure shall include clearly identified 
+        counterparties, clearly identified financial instruments (when 
+        used as part of the structure of the contract), and the 
+        financial and economic obligations and rights, both express and 
+        implied, established among all of the counterparties with 
+        identified roles in the contract.
+            (10) Position data.--The term ``position'' means a 
+        financial asset or liability held on the balance sheet of a 
+        financial entity. A new position is created, or the quantity of 
+        an existing position is changed, by the execution of a 
+        financial transaction involving the financial entity as a 
+        counterparty. Position data include--
+                    (A) the counterparty identifier;
+                    (B) a contract identifier;
+                    (C) the role of the counterparty on the 
+                transaction;
+                    (D) a quantity, if applicable;
+                    (E) a location, if applicable; and
+                    (F) the valuation of the position for the purposes 
+                of the books and records of the financial entity.
+
+SEC. 4. ESTABLISHMENT OF NATIONAL INSTITUTE OF FINANCE; ADMINISTRATIVE 
+              MATTERS.
+
+    (a) In General.--
+            (1) Establishment.--There is established the National 
+        Institute of Finance, which shall be an independent 
+        establishment, as that term is defined in section 104 of title 
+        5, United States Code.
+            (2) Mission.--The mission of the Institute is to support 
+        the Federal financial regulatory agencies, including any 
+        systemic risk council or agency established by Congress, by--
+                    (A) collecting and providing data;
+                    (B) standardizing the types and formats of data 
+                reported and collected;
+                    (C) performing applied research and essential long-
+                term research;
+                    (D) developing tools for risk measurement and 
+                monitoring;
+                    (E) performing other related services; and
+                    (F) making the results of its activities available 
+                to financial regulatory agencies.
+    (b) Director.--
+            (1) Appointment.--The Institute shall be headed by a 
+        Director, who shall be appointed by the President, by and with 
+        the advice and consent of the Senate.
+            (2) Term of service.--The Director shall serve for a term 
+        of 15 years.
+            (3) Executive level and pension.--The position of the 
+        Director shall be at level II of the Executive Schedule, and a 
+        Director who serves a full term, or becomes disabled and unable 
+        to fulfill the responsibilities of the Director after serving 
+        at least 10 years, shall receive a pension at retirement equal 
+        to the salary of that person in the last year of the term, and 
+        that pension shall increase in subsequent years with the 
+        increase in the cost of living.
+            (4) Vacancy.--In the event that a successor is not 
+        nominated and confirmed by the end of the term of service of a 
+        Director, the Director may continue to serve until such time as 
+        the new Director is appointed and confirmed.
+            (5) Prohibition on dual service.--The individual serving in 
+        the position of Director may not, during such service, also 
+        serve as the head of any financial regulatory agency.
+            (6) Responsibilities, duties and authority.--The Director 
+        shall have sole discretion to fulfill the responsibilities and 
+        duties and exercise the authorities described in this Act, 
+        except in cases where specific authorities have been given to 
+        the Board of Directors.
+    (c) Board of Directors.--The Board of Directors of the Institute 
+shall be comprised of the Director, the Secretary of the Treasury, and 
+the head of each financial regulatory agency.
+    (d) Membership of the Director on the Board of Directors.--The 
+Director shall serve as a voting member of the Board of Directors and 
+as a member of any financial systemic risk regulatory council or agency 
+established by Congress.
+    (e) Funding.--
+            (1) Annual budget.--The Director, in consultation with the 
+        Board of Directors shall establish the initial annual budget. 
+        For all other annual budgets, the Director shall submit an 
+        annual budget for the Institute to the Board of Directors not 
+        later than April 30 of each year. The Board of Directors may, 
+        without amendment, reject the budget with a two-thirds majority 
+        vote. Each time a budget is rejected, the Director shall submit 
+        a revised budget to the Board of Directors within 60 days, and 
+        the Board of Directors may, without amendment, reject the 
+        budget with a two-thirds majority vote. If the Board of 
+        Directors fails to reject the budget within 60 days of 
+        submission by the Director, the budget shall be automatically 
+        approved. If a new budget is not approved before the existing 
+        budget expires, the most recent approved budget shall continue 
+        on a pro rata basis. Each submitted budget and all votes by the 
+        Board of Directors on each budget shall be part of the public 
+        record of the Board of Directors.
+            (2) Assessments.--The Institute shall be funded through 
+        assessments on the financial entities required to report data 
+        to the Institute. The formula by which the budgetary costs are 
+        allocated among the reporting entities shall be determined by 
+        the Board of Directors. If the Board of Directors fails to 
+        establish the formula within 60 days of submission of a budget 
+        by the Director, the Director shall determine the formula by 
+        which the budgetary costs are allocated among the reporting 
+        entities for that year.
+            (3) Initial funding and start up.--During the first 4 years 
+        of the operation of the Institute, the Institute shall have 
+        authority to borrow against future assessment revenue from the 
+        Federal Financing Bank. Such borrowed funds shall be paid back 
+        to the Federal Financing Bank over a term not to exceed 20 
+        years. The Secretary of the Treasury, and any financial 
+        regulatory agency, may second personnel to the Institute to 
+        assist the operations of the Institute.
+    (f) Excepted Service Agency.--The Institute shall be an excepted 
+service agency.
+    (g) Personnel.--The Board of Directors may fix the compensation of 
+Institute personnel, without regard to the provisions of chapter 51 and 
+subchapter III of chapter 53 of title 5, United States Code, relating 
+to classification of positions and General Schedule pay rates. The 
+rates of pay and benefits shall be competitive with and comparable to 
+the rates of pay and benefits at Federal financial regulatory agencies 
+that are not covered by title 5, United States Code.
+    (h) Non-Compete.--The Director and staff of the Institute, who have 
+had access to the transaction or position data maintained by the Data 
+Center or other business confidential information about financial 
+entities required to report to the Institute, may not, for a period of 
+1 year after last having access to such transaction or position data or 
+business confidential information, be employed by or provide advice or 
+consulting services to a financial entity, regardless of whether it is 
+required to report to the Institute. Individual staff members who 
+notify the Director of their intention to terminate their employment 
+with the Institute and to seek employment with a prohibited employer or 
+in a prohibited activity, shall be transferred for a period of 12 
+months to a position that does not provide access to transaction or 
+position data or other business confidential information. For staff 
+whose access to business confidential information was limited, the 
+Board of Directors may provide, on a case-by-case basis, for a shorter 
+period of post-employment prohibition, provided that the shorter period 
+does not compromise business confidential information.
+    (i) Advisory Boards.--The Institute shall maintain any advisory 
+boards that the Director determines are needed to complete the mission 
+of the Institute.
+    (j) Fellowship Program.--The Institute may establish and maintain 
+an academic and professional fellowship program, under which qualified 
+academics and professionals shall be invited to spend not longer than 2 
+years at the Institute, to perform research and to provide advanced 
+training for Institute personnel.
+    (k) Executive Schedule Matters.--Section 5312 of title 5, United 
+States Code, is amended by adding at the end the following new item:
+
+``Director of the National Institute of Finance.''.
+
+SEC. 5. ORGANIZATIONAL STRUCTURE; RESPONSIBILITIES OF PRIMARY 
+              PROGRAMMATIC UNITS.
+
+    (a) In General.--The Institute shall carry out its programmatic 
+responsibilities through--
+            (1) the Federal Financial Data Center (in this Act referred 
+        to as the ``Data Center''); and
+            (2) the Federal Financial Research and Analysis Center (in 
+        this Act referred to as the ``Research Center'').
+    (b) Federal Financial Data Center.--
+            (1) General duties.--The Data Center shall collect, 
+        validate, and maintain all data necessary to carry out its 
+        duties, as described in this Act.
+            (2) Responsibilities.--The Data Center shall prepare and 
+        publish, in a manner that is easily accessible to the public--
+                    (A) a financial entity reference database;
+                    (B) a financial instrument reference database; and
+                    (C) formats and standards for reporting financial 
+                transaction and position data to the Institute.
+            (3) Data to be collected.--Data referred to in paragraph 
+        (1)--
+                    (A) shall include for each financial entity--
+                            (i) comprehensive financial transaction 
+                        data on a schedule determined by the Director;
+                            (ii) comprehensive position data on a 
+                        schedule determined by the Director;
+                            (iii) for each financial instrument in the 
+                        financial instrument reference database or for 
+                        any other obligation of a financial entity that 
+                        is contingent on the value of an observable 
+                        event, where the observable event is not widely 
+                        available to the public, the level and changes 
+                        in the level of these observable events, on a 
+                        schedule determined by the Director; and
+                            (iv) any other data that are considered by 
+                        the Director to be important for measuring and 
+                        monitoring systemic risk, or for determining 
+                        the soundness of individual financial entities; 
+                        and
+                    (B) may include data regarding policies and 
+                procedures, governance, incentives, compensation 
+                practices, contractual relationships, and any other 
+                information deemed by the Director to be necessary in 
+                order for the Institute to carry out its 
+                responsibilities under this Act; and
+                    (C) the Board of Directors may, by a two-thirds 
+                vote, exclude financial entities, which, as a group, 
+                will not contribute to systemic risk for reasons such 
+                as size, nature of their assets and liabilities, volume 
+                of transactions, or other reasonable purposes, from 
+                reporting data. Notwithstanding such exclusions, 
+                financial entities shall comply with all reporting 
+                requirements or ensure that reporting requirements are 
+                met for any assets or part of their balance sheets that 
+                are sold to create a financial instrument or 
+                obligation, as described in subparagraph (A)(iii).
+            (4) Information security.--The Director and the Board of 
+        Directors shall ensure that data collected and maintained by 
+        the Data Center are kept secure and protected against 
+        unauthorized disclosure.
+            (5) Catalogue of financial entities and instruments.--The 
+        Data Center shall maintain a catalogue of the financial 
+        entities and instruments reported to the Institute.
+            (6) Availability to the financial regulatory agencies.--The 
+        Data Center shall make data collected and maintained by the 
+        Data Center available to any financial regulatory agency 
+        represented on the Board of Directors, as needed to support the 
+        regulatory responsibilities of such agency.
+            (7) Other responsibilities.--The Data Center shall oversee 
+        the management of the data supply chain, from the point of 
+        issuance, in order to ensure the quality of all data required 
+        to be submitted to the Institute.
+            (8) Other authority.--The Institute shall, after 
+        consultation with the Board of Directors provide certain data 
+        to financial industry participants and the general public to 
+        increase market transparency and facilitate research on the 
+        financial system, so long as intellectual property rights are 
+        not violated, business confidential information is properly 
+        protected, and the sharing of such information poses no 
+        significant threats to the financial system.
+    (c) Federal Financial Research and Analysis Center.--
+            (1) General duties.--The Research Center shall develop and 
+        maintain the independent analytical capabilities and computing 
+        resources--
+                    (A) to measure and monitor systemic risk;
+                    (B) to perform independent risk assessments of 
+                individual financial entities and markets;
+                    (C) to analyze and investigate relationships 
+                between the soundness of individual financial entities 
+                and markets and the soundness of the financial system 
+                together as a whole; and
+                    (D) to provide advice on the financial system.
+            (2) Responsibilities.--The Research Center shall--
+                    (A) develop and maintain metrics and risk reporting 
+                systems for system-wide risk;
+                    (B) develop and maintain metrics and risk reporting 
+                systems for determining the soundness of financial 
+                entities;
+                    (C) monitor, investigate, and report changes in 
+                system-wide risk levels and patterns to the Board of 
+                Directors and Congress, including through the 
+                collection of additional information that the Director 
+                deems necessary to understand such changes;
+                    (D) conduct, coordinate, and sponsor research to 
+                support and improve regulation of financial entities 
+                and markets;
+                    (E) benchmark financial risk management practices 
+                and promote best practices for financial risk 
+                management;
+                    (F) at the direction of the Board of Directors, or 
+                any member of the Board of Directors, for firms under 
+                that member's purview, develop, oversee, and report on 
+                stress tests or other tests of the valuation and risk 
+                management systems of any of the financial entities 
+                required to report to the Institute;
+                    (G) maintain expertise in such areas as may be 
+                necessary to support specific requests for advice and 
+                assistance from financial regulators;
+                    (H) at the direction of the Board of Directors or 
+                at the request of Congress, conduct studies and provide 
+                advice on financial markets and products, including 
+                advice regarding risks to consumers posed by financial 
+                products and practices;
+                    (I) at the direction of the Director, at the 
+                discretion of the Board of Directors, or at the request 
+                of Congress, investigate disruptions and failures in 
+                the financial markets, report findings, and make 
+                recommendations to the Board of Directors and Congress; 
+                and
+                    (J) at the direction of the Board of Directors or 
+                at the request of Congress, conduct studies and provide 
+                advice on the impact of policies related to systemic 
+                risk.
+    (d) Reporting Responsibilities.--
+            (1) Required report.--Commencing 2 years after the date of 
+        the establishment of the Institute, the Institute shall prepare 
+        and submit an annual report to Congress, not later than 120 
+        days after the end of each fiscal year.
+            (2) Content.--The report required by this subsection shall 
+        assess the state of the financial system, including an analysis 
+        of any threats to the financial system, the status of the 
+        Institute's efforts in meeting its mission, and key findings 
+        from its research and analysis of the financial system.
+            (3) Additional reports.--At the sole discretion of the 
+        Director, the Director may initiate and provide additional 
+        reports to Congress regarding the state of the financial 
+        system. The Director shall notify the Board of Directors of any 
+        additional reports provided to Congress.
+
+SEC. 6. ADMINISTRATIVE AUTHORITIES OF THE INSTITUTE.
+
+    The Institute may--
+            (1) require financial entities to report all data and 
+        information in conformance with reporting standards, as 
+        determined by the Institute, that are necessary to fulfill the 
+        responsibilities of the Institute under this Act;
+            (2) require reporting on a worldwide basis from the 
+        financial entities and affiliates thereof that are organized in 
+        the United States;
+            (3) require reporting of United States-based activities by 
+        financial entities that are not organized in the United States;
+            (4) enforce and apply sanctions on all financial entities 
+        required to report to the Institute that fail to report data 
+        requested by and in standards, frequency, and time frames, as 
+        determined by rule or regulation by the Institute;
+            (5) share data and information, as well as software 
+        developed by the Institute, with other financial regulatory 
+        agencies, as determined appropriate by the Board of Directors, 
+        where the shared data and software shall be maintained with at 
+        least the same level of security as is used by the Institute, 
+        and may not be shared with any individuals or entities without 
+        the permission of the Board of Directors;
+            (6) purchase and lease software;
+            (7) sponsor and conduct research projects; and
+            (8) assist, on a reimbursable basis, with financial 
+        analyses undertaken at the request of governmental agencies, 
+        other than financial regulatory agencies.
+
+SEC. 7. CIVIL PENALTIES.
+
+    Any person or entity that violates this Act or fails to comply with 
+a rule, regulation, or order of the Institute issued under this Act 
+shall be subject to a civil penalty in an amount established by the 
+Institute and published in the Code of Federal Regulations. Each such 
+violation or failure shall constitute a separate civil offense.
+                                 <all>
+

@@ -1,0 +1,291 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4629 Introduced in House (IH)]
+
+111th CONGRESS
+  2d Session
+                                H. R. 4629
+
+  To create a loan program to provide funds to State special purpose 
+vehicles for use in collateral support programs and loan participation 
+              programs to benefit qualified manufacturers.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 22, 2010
+
+  Mr. Levin (for himself, Mr. Frank of Massachusetts, Mr. Peters, Mr. 
+Moore of Kansas, Mr. Dingell, Mr. Kanjorski, Mr. Rangel, Ms. Fudge, Mr. 
+   Kildee, Mr. Pascrell, Mr. Lipinski, Mr. Doyle, Ms. Schwartz, Mr. 
+   Butterfield, Mr. Etheridge, and Mr. Ryan of Ohio) introduced the 
+   following bill; which was referred to the Committee on Financial 
+                                Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To create a loan program to provide funds to State special purpose 
+vehicles for use in collateral support programs and loan participation 
+              programs to benefit qualified manufacturers.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Manufacturing Modernization and 
+Diversification Act of 2010''.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act:
+            (1) Bank.--The term ``bank'' means--
+                    (A) an insured depository institution, as such term 
+                is defined under section 3(c)(2) of the Federal Deposit 
+                Insurance Act (12 U.S.C. 1813(c)(2)); and
+                    (B) an insured credit union, as such term is 
+                defined under section 101(7) of the Federal Credit 
+                Union Act (12 U.S.C. 1752(7)).
+            (2) Collateral support program.--The term ``Collateral 
+        Support Program'' means a program described under section 4.
+            (3) Loan participation program.--The term ``Loan 
+        Participation Program'' means a program described under section 
+        5.
+            (4) Qualified manufacturer.--The term ``qualified 
+        manufacturer'' means a business that is engaged in 
+        manufacturing and--
+                    (A) has less than $50,000,000 in annual revenue; 
+                and
+                    (B) has less than $50,000,000 in assets.
+            (5) Revolving loan fund.--The term ``revolving loan fund'' 
+        means the revolving loan fund established under section 3(d).
+            (6) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Treasury.
+            (7) SPV.--The term ``SPV'' means a special purpose vehicle 
+        created by a State.
+            (8) Termination date.--The term ``termination date'' means 
+        the date that is the end of the 2-year period beginning on the 
+        date the Secretary issues regulations pursuant to section 
+        3(b)(4).
+
+SEC. 3. FEDERAL LOAN PROGRAM TO SPVS.
+
+    (a) In General.--The Secretary shall certify SPVs to take part in a 
+program to carry out Collateral Support Programs and Loan Participation 
+Programs for the benefit of qualified manufacturers (hereinafter in 
+this section described as the ``loan program'').
+    (b) Application Process.--
+            (1) In general.--Each SPV wishing to participate in the 
+        loan program shall submit an application to the Secretary, in 
+        such form and manner as the Secretary may require, containing--
+                    (A) a detailed proposal for the structure of the 
+                Collateral Support Program the SPV proposes to carry 
+                out, including what criteria the SPV intends to use to 
+                determine which qualified manufacturers will be 
+                eligible to participate;
+                    (B) a detailed proposal for the structure of the 
+                Loan Participation Program the SPV proposes to carry 
+                out, including what criteria the SPV intends to use to 
+                determine which qualified manufacturers will be 
+                eligible to participate; and
+                    (C) such other information as the Secretary may 
+                require.
+            (2) Additional requirements.--
+                    (A) Interest rate.--Loans made to SPVs by the 
+                Secretary under the loan program shall be made with an 
+                interest rate of 0.5 percent.
+                    (B) Treatment of payments from qualified 
+                manufacturers.--The amount of all fees and interest 
+                payments paid by qualified manufacturers to an SPV 
+                under Collateral Support Programs and Loan 
+                Participation Programs that is more than the amount 
+                required by the SPV to repay the principal and interest 
+                amounts on loans made to the SPV under the loan program 
+                shall be retained by the SPV.
+                    (C) No disqualification by reason of 
+                participation.--Participation in a Collateral Support 
+                Program or a Loan Participation Program by a qualified 
+                manufacturer shall not disqualify such manufacturer 
+                from receiving assistance related to such loan under 
+                other Federal programs as well, including programs 
+                carried out by the Small Business Administration and 
+                the Department of Agriculture.
+                    (D) Limitations on spvs.--Only 1 SPV per State may 
+                be certified to participate in the loan program.
+                    (E) Oversight.--The Secretary shall issue 
+                regulations to require each SPV participating in the 
+                loan program to make periodic reports to the Secretary 
+                at any time such SPV has a loan outstanding under the 
+                loan program. Such reports shall contain such 
+                information as the Secretary determines appropriate to 
+                maintain oversight of the funds used in the loan 
+                program.
+            (3) Determination factors.--In making the determination of 
+        which SPVs should be certified to take part in the loan 
+        program, the Secretary shall consider--
+                    (A) all information submitted in the application of 
+                an SPV under paragraph (1);
+                    (B) the number of jobs that will likely be created 
+                by programs proposed by the SPV;
+                    (C) the amount of economic distress experienced by 
+                the State in which the SPV is located, including the 
+                unemployment rate of such State; and
+                    (D) the likelihood that the SPV will be able to 
+                successfully administer the programs proposed by the 
+                SPV.
+            (4) Rulemaking.--The Secretary shall issue all regulations 
+        necessary for the submission of applications described under 
+        paragraph (1) no later than 90 days after the date of the 
+        enactment of this Act.
+    (c) Loan-Making Process.--
+            (1) In general.--Each time a certified SPV wishes to make a 
+        loan under a Collateral Support Program or a Loan Participation 
+        Program, the certified SPV shall make a request to the 
+        Secretary, who shall loan the requested amount to the SPV from 
+        the revolving loan fund, as long as sufficient amounts remain 
+        in the fund.
+            (2) Time period.--An SPV may not make any new loans under a 
+        Collateral Support Program or a Loan Participation Program 
+        after the termination date.
+    (d) Revolving Loan Fund.--
+            (1) In general.--There is established in the Treasury a 
+        revolving loan fund for the loan program.
+            (2) Initial transfer.--
+                    (A) Funding from the tarp.--Of funds made available 
+                to the Secretary under title I of the Emergency 
+                Economic Stabilization Act of 2008 (12 U.S.C. 5211 et 
+                seq.) that remain unobligated, the Secretary shall 
+                transfer and credit $20,000,000,000 to the revolving 
+                loan fund.
+                    (B) Authorization.--The amounts transferred under 
+                subparagraph (A) shall be deemed to be for actions 
+                authorized under title I of the Emergency Economic 
+                Stabilization Act of 2008.
+            (3) Expenditures.--The Secretary shall use the amounts in 
+        the revolving loan fund to carry out the loan program.
+            (4) Deposits.--The Secretary shall deposit amounts received 
+        as payment and interest on loans provided under the loan 
+        program into the revolving loan fund.
+    (e) Termination of Loan Program.--On and after the termination 
+date--
+            (1) no additional loans may be made by the Secretary under 
+        the loan program;
+            (2) all amounts in the revolving loan fund shall be paid 
+        into the general fund of the Treasury; and
+            (3) all amounts that would otherwise have been paid into 
+        the revolving loan fund shall be paid into the general fund of 
+        the Treasury.
+
+SEC. 4. COLLATERAL SUPPORT PROGRAM.
+
+    (a) In General.--With respect to an SPV, a program is described 
+under this section if, under such program--
+            (1) a qualified manufacturer that wishes to receive a loan 
+        from a bank, but would not otherwise have sufficient collateral 
+        to qualify for such a loan, may ask the bank to seek collateral 
+        support for such loan from the SPV;
+            (2) the bank submits an application to the SPV to 
+        participate in the collateral support program, in such form and 
+        manner and containing such information as the SPV may require;
+            (3) the SPV, if approving such application, deposits cash 
+        with the bank in an interest bearing account under the SPV's 
+        name, and allows such cash to act as collateral support for the 
+        qualified manufacturer's loan;
+            (4) the interest paid on such cash deposit is paid to the 
+        SPV; and
+            (5) as the qualified manufacturer repays the loan over 
+        time, the SPV draws down the amount deposited with the bank.
+    (b) Additional Requirements.--A program described under subsection 
+(a) shall additionally have the following requirements:
+            (1) Deposit limits.--The cash deposit made by the SPV may 
+        not represent more than 49.9 percent of the total loan amount 
+        and may not be in an amount more than 49.9 percent of the non-
+        equity capital of the qualified manufacturer at the time the 
+        loan is made.
+            (2) Loan amount.--The SPV may not provide more than 
+        $20,000,000 to any one qualified manufacturer under the 
+        collateral support program.
+            (3) Fees.--The SPV shall require a fee or fees to be paid 
+        by the qualified manufacturer to the SPV, at loan closing or 
+        annually, which shall consist of no more than 3 percent of the 
+        value of the cash deposit per fee. The SPV may determine 
+        whether such fee should be paid in cash or in options to 
+        purchase equity in the qualified manufacturer, but in no case 
+        may such options allow for the purchase of equity in the 
+        qualified manufacturer that would result in the SPV holding 
+        more than 15 percent of the voting rights of the equity of such 
+        qualified manufacturer.
+            (4) Exit fee.--In the event that the qualified manufacturer 
+        defaults on the loan made under the collateral support program, 
+        the bank shall repay to the SPV an amount equal to 5 percent of 
+        the initial deposit made by the SPV.
+            (5) Oversight.--The SPV shall require--
+                    (A) the bank to make periodic reports to the SPV 
+                during the life of the loan; and
+                    (B) such other reports from the bank and the 
+                qualified manufacturer as the SPV determines 
+                appropriate to maintain oversight.
+
+SEC. 5. LOAN PARTICIPATION PROGRAM.
+
+    (a) In General.--With respect to an SPV, a program is described 
+under this section if, under such program--
+            (1) a qualified manufacturer that wishes to receive a loan 
+        from a bank, but would not otherwise qualify for such a loan, 
+        may ask the bank to seek loan participation for such loan from 
+        the SPV;
+            (2) the bank submits an application to the SPV to 
+        participate in the loan participation program, in such form and 
+        manner and containing such information as the SPV may require;
+            (3) the SPV, if approving such application, will agree to 
+        purchase between 1 to 49.9 percent of such loan, upon the bank 
+        making such loan;
+            (4) the bank shall continue to service the entire loan; and
+            (5) the SPV may, in coordination with the bank, permit the 
+        qualified manufacturer to forbear payments of interest or defer 
+        payments of principal on the amount of such loan purchased by 
+        the SPV for a period of no longer than 3 years from the date 
+        such loan is made.
+    (b) Additional Requirements.--A program described under subsection 
+(a) shall additionally have the following requirements:
+            (1) Loan amount.--The SPV may not pay more than $20,000,000 
+        for any portion of loans made to any one qualified manufacturer 
+        under the loan participation program.
+            (2) Fee.--
+                    (A) One-time fee.--The SPV shall require a one-time 
+                fee from the qualified manufacturer in exchange for the 
+                SPV participating in the loan participation program.
+                    (B) Annual fee.--The bank shall require the 
+                qualified manufacturer to pay an annual fee to the bank 
+                of a minimum of 0.5 percent, and a maximum of 2 
+                percent, of the amount of the portion of the loan 
+                purchased by the SPV under the loan participation 
+                program.
+            (3) Oversight.--The SPV shall require--
+                    (A) the bank to make periodic reports to the SPV 
+                during the life of the loan; and
+                    (B) such other reports from the bank and the 
+                qualified manufacturer as the SPV determines 
+                appropriate to maintain oversight.
+
+SEC. 6. REPORT.
+
+    Not later than the end of the 6-month period beginning on the date 
+of the enactment of this Act, and quarterly thereafter while any loan 
+remains outstanding under the loan program carried out under section 3, 
+the Secretary shall issue a report to the Congress containing--
+            (1) a list of the active participants in Collateral Support 
+        Programs and Loan Participation Programs; and
+            (2) an estimate of the impact the loan program has had on--
+                    (A) the overall economy; and
+                    (B) the creation of new jobs or the preservation of 
+                existing jobs.
+                                 <all>
+

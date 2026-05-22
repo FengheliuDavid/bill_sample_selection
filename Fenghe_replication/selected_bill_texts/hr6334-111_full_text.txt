@@ -1,0 +1,535 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6334 Introduced in House (IH)]
+
+111th CONGRESS
+  2d Session
+                                H. R. 6334
+
+    To amend the Community Reinvestment Act of 1977 to improve the 
+    assessments of regulated financial institutions, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 29, 2010
+
+Mr. Gutierrez (for himself, Ms. Waters, Mr. Al Green of Texas, and Ms. 
+ Eddie Bernice Johnson of Texas) introduced the following bill; which 
+          was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Community Reinvestment Act of 1977 to improve the 
+    assessments of regulated financial institutions, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``American Community Investment Reform 
+Act of 2010''.
+
+SEC. 2. COMMUNITY REINVESTMENT ACT AMENDMENTS.
+
+    (a) Findings and Purpose.--Section 802 of the Community 
+Reinvestment Act of 1977 (12 U.S.C. 2901) is amended to read as 
+follows:
+
+``SEC. 802. FINDINGS AND PURPOSE.
+
+    ``(a) Findings.--The Congress finds that--
+            ``(1) regulated financial institutions are required by law 
+        to demonstrate that they serve the convenience and needs of the 
+        communities in which they are chartered or do business;
+            ``(2) the convenience and needs of communities include the 
+        need for credit services, deposit services, transaction 
+        services, and community development loans and investments; and
+            ``(3) regulated financial institutions have a continuing 
+        and affirmative obligation to help meet the credit or other 
+        financial needs of the local communities in which they are 
+        chartered or do business.
+    ``(b) Purpose.--It is the purpose of this title to require each 
+appropriate Federal financial supervisory agency to use its authority 
+when examining regulated financial institutions, to encourage such 
+institutions to help meet the credit or other financial needs of the 
+local communities in which they are chartered or do business consistent 
+with the safe and sound operation of such institutions.''.
+    (b) Definitions.--Section 803 of such Act (12 U.S.C. 2902) is 
+amended to read as follows:
+
+``SEC. 803. DEFINITIONS.
+
+    ``For purposes of this title:
+            ``(1) Appropriate federal financial supervisory agency.--
+        The term `appropriate Federal financial supervisory agency' 
+        means--
+                    ``(A) the appropriate Federal banking agency with 
+                respect to depository institutions and depository 
+                institution holding companies, as those terms are 
+                defined under section 3 of the Federal Deposit 
+                Insurance Act;
+                    ``(B) the Securities and Exchange Commission with 
+                regard to--
+                            ``(i) any U.S. nonbank financial company 
+                        for which the Securities and Exchange 
+                        Commission acts as the primary financial 
+                        regulatory agency pursuant to section 2 of the 
+                        Dodd-Frank Wall Street Reform and Consumer 
+                        Protection Act; and
+                            ``(ii) any broker or dealer that is a 
+                        member of the Securities Investor Protection 
+                        Corporation;
+                    ``(C) the Bureau of Consumer Financial Protection 
+                with respect to any covered person supervised by the 
+                Bureau pursuant to section 1024 of the Dodd-Frank Wall 
+                Street Reform and Consumer Protection Act; and
+                    ``(D) the Board of Governors of the Federal Reserve 
+                System with respect to--
+                            ``(i) securities holding companies, as 
+                        defined under section 618 of the Dodd-Frank 
+                        Wall Street Reform and Consumer Protection Act; 
+                        and
+                            ``(ii) in consultation with the primary 
+                        financial regulatory agency (as such term is 
+                        defined under section 2 of the Dodd-Frank Wall 
+                        Street Reform and Consumer Protection Act), any 
+                        regulated financial institution not described 
+                        in subparagraph (A), (B), or (C) or clause (i).
+            ``(2) Capital distribution.--The term `capital 
+        distribution' means--
+                    ``(A) a distribution of cash or other property by 
+                any regulated financial institution to its owners made 
+                on account of that ownership;
+                    ``(B) a payment by a regulated financial 
+                institution to repurchase, redeem, retire, or otherwise 
+                acquire any of its shares or other ownership interests, 
+                including any extension of credit to finance an 
+                affiliated company's acquisition of those shares or 
+                interests; and
+                    ``(C) a transaction that the appropriate Federal 
+                financial supervisory agency determines, by order or 
+                regulation, to be in substance a distribution of 
+                capital to the owners of the regulated financial 
+                institution.
+            ``(3) Community development.--The term `community 
+        development' means--
+                    ``(A) affordable housing for low- (including 
+                extremely low-income) or moderate-income individuals 
+                (including multifamily rental housing and properties 
+                awarded low-income housing tax credits under section 
+                42(h) of the Internal Revenue Code of 1986);
+                    ``(B) community and financial services targeted to 
+                low- or moderate-income individuals, including 
+                appropriate electronic payments, basic account 
+                activities, and successful mortgage or loan 
+                modifications;
+                    ``(C) activities that promote economic development 
+                by financing businesses or farms that--
+                            ``(i) meet the size eligibility 
+                        requirements of the Small Business 
+                        Administration's Development Company or the 
+                        Small Business Investment Company programs 
+                        under section 121.301 of title 13, Code of 
+                        Federal Regulations; or
+                            ``(ii) have gross annual revenues of 
+                        $1,000,000 or less; or
+                    ``(D) activities that revitalize or stabilize--
+                            ``(i) low- or moderate-income geographies;
+                            ``(ii) designated disaster areas;
+                            ``(iii) distressed or underserved 
+                        nonmetropolitan middle-income geographies 
+                        designated by the Board of Governors of the 
+                        Federal Reserve System, the Federal Deposit 
+                        Insurance Corporation, and the Office of the 
+                        Comptroller of the Currency, based on--
+                                    ``(I) rates of poverty, 
+                                unemployment, and population loss; or
+                                    ``(II) population size, density, 
+                                and dispersion, if such activities help 
+                                to meet essential community needs, 
+                                including needs of low- and moderate-
+                                income individuals; or;
+                            ``(iv) activities conducted by certified 
+                        community development financial institutions 
+                        (as such term is defined under section 103(5) 
+                        of the Community Development Banking and 
+                        Financial Institutions Act of 1994).
+            ``(4) Regulated financial institution.--
+                    ``(A) In general.--The term `regulated financial 
+                institution' means an insured depository institution 
+                (as defined under section 3 of the Federal Deposit 
+                Insurance Act), a depository institution holding 
+                company (as defined under section 3 of the Federal 
+                Deposit Insurance Act), and a U.S. nonbank financial 
+                company.
+                    ``(B) Rule of construction.--The term `regulated 
+                financial institution' does not include a credit union.
+            ``(5) Application for a deposit facility.--The term 
+        `application for a deposit facility' means an application to 
+        the appropriate Federal financial supervisory agency otherwise 
+        required under Federal law or regulations thereunder for--
+                    ``(A) a charter for a national bank or Federal 
+                savings and loan association;
+                    ``(B) deposit insurance in connection with a newly 
+                chartered State bank, savings bank, savings and loan 
+                association or similar institution;
+                    ``(C) the establishment of a domestic branch or 
+                other facility with the ability to accept deposits of a 
+                regulated financial institution;
+                    ``(D) the relocation of the home office or a branch 
+                office of a regulated financial institution;
+                    ``(E) the merger or consolidation with, or the 
+                acquisition of the assets, or the assumption of the 
+                liabilities of a regulated financial institution 
+                requiring approval under section 18(c) of the Federal 
+                Deposit Insurance Act or under regulations issued under 
+                the authority of title IV of the National Housing Act; 
+                or
+                    ``(F) the acquisition of shares in, or the assets 
+                of, a regulated financial institution requiring 
+                approval under section 3 of the Bank Holding Company 
+                Act of 1956 or section 408(e) of the National Housing 
+                Act.
+            ``(6) U.S. nonbank financial company.--The term `U.S. 
+        nonbank financial company' has the meaning given such term 
+        under section 102 of the Dodd-Frank Wall Street Reform and 
+        Consumer Protection Act.
+            ``(7) Geography.--The term `geography' means a census tract 
+        delineated by the United States Bureau of the Census in the 
+        most recent decennial census.
+            ``(8) Entire community.--With respect to a financial 
+        institution whose business predominately consists of serving 
+        the needs of military personnel who are not located within a 
+        defined geographic area, such institution may define its 
+        `entire community' to include its entire deposit customer base 
+        without regard to geographic proximity.''.
+    (c) Evaluations.--Section 804 of such Act (12 U.S.C. 2903) is 
+amended--
+            (1) by redesignating subsections (c) and (d) as subsections 
+        (e) and (f), respectively;
+            (2) by striking subsections (a) and (b) and inserting the 
+        following new subsections:
+    ``(a) Depository Institutions and Depository Institution Holding 
+Companies.--In connection with its examination of a regulated financial 
+institution other than a U.S. nonbank financial company, the 
+appropriate Federal financial supervisory agency shall do the 
+following:
+            ``(1) Assess the institution's record of meeting the credit 
+        or other financial needs of its entire community, including 
+        low-income, moderate-income, and other traditionally 
+        underserved neighborhoods, consistent with the safe and sound 
+        operation of such institution.
+            ``(2) Assess, with at least an equal weight to any other 
+        factor or test identified in the regulations prescribed by the 
+        appropriate Federal financial supervisory agency to implement 
+        this Act, the community development activities and those 
+        activities' effectiveness in meeting the financial needs of an 
+        institution's entire community, including low- and moderate-
+        income neighborhoods, consistent with the safe and sound 
+        operation of such institution.
+            ``(3) Assess the following activities and those activities' 
+        effectiveness in meeting the credit or other financial needs of 
+        an institution's entire community, including low- and moderate-
+        income neighborhoods, consistent with the safe and sound 
+        operation of such institution, unless the appropriate Federal 
+        financial supervisory agency determines that such assessment is 
+        not appropriate for a given regulated financial institution or 
+        class of regulated financial institutions because it engages in 
+        limited activities or is of a limited size:
+                    ``(A) Lending activities other than loans 
+                considered under paragraph (1).
+                    ``(B) Investment activities other than investments 
+                considered under paragraph (1).
+                    ``(C) Retail financial services other than 
+                community development services considered under 
+                paragraph (1).
+            ``(4) Take such record into account in its evaluation of an 
+        application for a deposit facility by such institution.
+    ``(b) U.S. Nonbank Financial Companies.--The appropriate Federal 
+financial supervisory agency shall assess the community development 
+activities, including investments and loans where appropriate that 
+benefit the community of the company, and those activities' 
+effectiveness in meeting the credit or other financial needs of its 
+entire community, including low-income, moderate-income, and other 
+traditionally underserved neighborhoods, as appropriate for the given 
+regulated financial institution consistent with the safe and sound 
+operation of such company.
+    ``(c) Requirements.--
+            ``(1) In general.--In connection with its examination of a 
+        regulated financial institution under subsection (a) or (b), 
+        the appropriate Federal financial supervisory agency shall--
+                    ``(A) take into consideration public comment 
+                received by the appropriate Federal financial 
+                supervisory agency regarding the institution's record 
+                of meeting the credit or other financial needs of its 
+                entire community, including low-income, moderate-
+                income, and other traditionally underserved 
+                neighborhoods; and
+                    ``(B) require an improvement plan for an 
+                institution that receives a `Needs to improve record of 
+                meeting community credit or other financial needs' or a 
+                `Substantial noncompliance in meeting community credit 
+                or other financial needs' rating on the institution's 
+                written evaluation, or such a rating in any individual 
+                assessment area, and require such improvement plan to 
+                result in the reasonable likelihood that the 
+                institution will obtain a rating of at least 
+                `Satisfactory record of meeting community credit or 
+                other financial needs' in the relevant measure within 2 
+                exam cycles.
+            ``(2) Improvement plan.--
+                    ``(A) In general.--A regulated financial 
+                institution required to submit an improvement plan 
+                required under paragraph (1)(B) shall submit such plan 
+                in writing to the appropriate Federal financial 
+                supervisory agency no later than 60 days after 
+                receiving the notice that such plan will be required.
+                    ``(B) Public comment.--Upon receipt of an 
+                improvement plan required under paragraph (1)(B), the 
+                appropriate Federal financial supervisory agency 
+                shall--
+                            ``(i) make the plan available to the public 
+                        for review and comment for a period of no less 
+                        than 30 days; and
+                            ``(ii) require the regulated financial 
+                        institution to revise, as appropriate, the 
+                        improvement plan in response to the public 
+                        comments received under the public review and 
+                        comment period described under clause (i) and 
+                        submit such plan to the appropriate Federal 
+                        financial supervisory agency no later than 30 
+                        days after the end of such period.
+            ``(3) Limitation.--Public comment received pursuant to 
+        paragraph (2)(B) shall be limited to comments that directly 
+        address the regulated financial institution's record of meeting 
+        the credit or other financial needs of the entire community, 
+        including low-income, moderate-income, and other traditionally 
+        underserved neighborhoods.
+    ``(d) Nonminority Owned and Non-CDFI Institution Investments.--In 
+assessing and taking into account, under subsections (a), (b), and (c), 
+the record of a regulated financial institution that is a nonminority-
+owned, nonwomen-owned institution and that is not a certified community 
+development financial institution, the appropriate Federal financial 
+supervisory agency may consider as a factor capital investment, loan 
+participation, and other ventures undertaken by the regulated financial 
+institution in cooperation with certified community development 
+financial institutions, minority- and women-owned financial 
+institutions, and low-income credit unions, provided that these 
+activities help meet the credit or other financial needs of local 
+communities in which such institutions and credit unions operate, 
+including communities other than where such institutions and credit 
+unions operate, if the regulated financial institution has adequately 
+met the needs of its local assessment area.'';
+            (3) by adding at the end the following new subsections:
+    ``(g) Complex and Innovative Efforts.--In assessing and taking into 
+account, under subsection (a), the record of a regulated financial 
+institution, the appropriate Federal financial supervisory agency shall 
+consider, as a factor, the complexity, innovativeness, effectiveness in 
+meeting particularly difficult community needs, or significant effort 
+extended in specific loans, investments, or services.
+    ``(h) Rule of Construction.--An evaluation of a depository 
+institution holding company shall incorporate evaluations of subsidiary 
+regulated financial institutions made by each subsidiary's appropriate 
+Federal financial supervisory agency, if applicable.''.
+    (d) Written Evaluations.--Section 807 of such Act (12 U.S.C. 2906) 
+is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``an insured depository 
+                institution'' and inserting ``a regulated financial 
+                institution''; and
+                    (B) by inserting ``or financial'' after ``credit'';
+            (2) in subsection (b)--
+                    (A) in paragraph (1)--
+                            (i) in subparagraph (A)--
+                                    (I) in clause (ii), by striking 
+                                ``and'' at the end;
+                                    (II) by redesignating clause (iii) 
+                                as clause (v); and
+                                    (III) by inserting after clause 
+                                (ii) the following new clauses:
+                            ``(iii) disclose whether the institution 
+                        provided, or offered to provide, a consumer 
+                        financial product that the Bureau of Consumer 
+                        Financial Protection has determined is unfair, 
+                        deceptive, or abusive;
+                            ``(iv) include specific responses to public 
+                        comments received by the Federal financial 
+                        supervisory agency regarding the institution; 
+                        and''; and
+                            (ii) by adding at the end the following new 
+                        subparagraph:
+                    ``(C) Treatment with respect to unfair, deceptive, 
+                or abusive consumer financial products.--If the 
+                regulated financial institution provided, or offered to 
+                provide, one or more consumer financial products that 
+                the Bureau of Consumer Financial Protection has 
+                determined is unfair, deceptive, or abusive, the 
+                written evaluation shall be negatively influenced in a 
+                manner commensurate with the extent to which such 
+                product or products were offered or provided.'';
+                    (B) in paragraph (2)--
+                            (i) by striking ``paragraph (1)(C)'' and 
+                        inserting ``paragraph (1)(A)(v)''; and
+                            (ii) by striking subparagraphs (A), (B), 
+                        (C), and (D) and inserting the following:
+                    ``(A) `Satisfactory record of meeting community 
+                credit or other financial needs'.
+                    ``(B) `Sufficient record of meeting community 
+                credit or other financial needs'.
+                    ``(C) `Needs to improve record of meeting community 
+                credit or other financial needs'.
+                    ``(D) `Substantial noncompliance in meeting 
+                community credit or other financial needs'.''; and
+                    (C) by inserting after paragraph (2) the following 
+                new paragraph:
+            ``(3) Application for outstanding rating.--
+                    ``(A) In general.--The appropriate Federal 
+                financial supervisory agencies shall develop and 
+                implement a process to permit a regulated financial 
+                institution to submit an application at the time the 
+                examination process is initiated for a rating of 
+                `Outstanding record of meeting community credit or 
+                other financial needs'.
+                    ``(B) Availability of rating.--
+                            ``(i) In general.--The rating described 
+                        under subparagraph (A) shall only be awarded to 
+                        a regulated financial institution that--
+                                    ``(I) applies for such rating 
+                                pursuant to subparagraph (A);
+                                    ``(II) significantly exceeds the 
+                                requirements to receive the rating 
+                                described under paragraph (2)(A);
+                                    ``(III) with respect to a regulated 
+                                financial institution for which ratings 
+                                are available for the three most recent 
+                                examination cycles, received no less 
+                                than a `Satisfactory record of meeting 
+                                community credit or other financial 
+                                needs' or, for evaluations prior to the 
+                                date of the enactment of the American 
+                                Community Investment Reform Act of 
+                                2010, `Satisfactory record of meeting 
+                                community credit needs', for the three 
+                                most recent examination cycles; and
+                                    ``(IV) with respect to a depository 
+                                institution holding company or a 
+                                regulated financial institution that 
+                                controls one or more other regulated 
+                                financial institutions, does not have a 
+                                subsidiary regulated financial 
+                                institution that received a rating of 
+                                `Needs to improve record of meeting 
+                                community credit or other financial 
+                                needs' or less, or, for evaluations 
+                                prior to the date of enactment of the 
+                                American Community Investment Reform 
+                                Act of 2010, a rating of `Needs to 
+                                improve record of meeting community 
+                                credit needs' or lower for the most 
+                                recent examination cycle.
+                            ``(ii) Rule of construction.--For purposes 
+                        of clause (i)(IV), a rating given to a 
+                        regulated financial institution prior to the 
+                        control of such regulated financial institution 
+                        by the relevant depository institution holding 
+                        company or parent regulated financial 
+                        institution as a subsidiary shall not bar the 
+                        company from being granted a rating of 
+                        `Outstanding record of meeting community credit 
+                        or other financial needs'.
+                    ``(C) Expanded assessment area.--For purposes of 
+                determining whether to award a rating described under 
+                subparagraph (A), the appropriate Federal financial 
+                supervisory agency may consider community development 
+                activities, including investments made outside the 
+                institution's service area if the regulated financial 
+                institution has adequately met the needs of its local 
+                assessment area.'';
+            (3) by redesignating subsections (d) and (e) as subsections 
+        (f) and (g), respectively; and
+            (4) by inserting after subsection (c) the following new 
+        subsections:
+    ``(d) Preliminary Report Required.--
+            ``(1) In general.--The appropriate Federal financial 
+        supervisory agency shall--
+                    ``(A) prepare a preliminary report of the public 
+                section of the evaluation required under paragraph 
+                (a)(1); and
+                    ``(B) provide the preliminary report to the 
+                regulated financial institution and to the public not 
+                less than 60 days before the date on which the 
+                corresponding written evaluation is issued.
+            ``(2) Limitation.--The preliminary report required under 
+        paragraph (1) shall not include any assigned rating or 
+        discussion of an assigned rating.
+    ``(e) Public Comment on Preliminary Report.--The appropriate 
+Federal financial supervisory agency shall--
+            ``(1) develop and implement a process to seek and receive 
+        public comment on any preliminary report for a period of 30 
+        days following the release of the report; and
+            ``(2) incorporate into a revised written evaluation any 
+        public comment received during such comment period, as 
+        appropriate.''.
+    (e) Effects of Assigned Ratings.--Such Act is amended by adding at 
+the end the following new section:
+
+``SEC. 810. EFFECTS OF ASSIGNED RATINGS.
+
+    ``(a) Outstanding Rating.--A regulated financial institution that 
+receives a rating of `outstanding record of meeting community credit or 
+other financial needs' on its most recent performance evaluation 
+shall--
+            ``(1) be presumed to have satisfied consideration of such 
+        regulated financial institution's record of meeting the credit 
+        or other financial needs of its entire community in an 
+        application for a deposit facility; and
+            ``(2) be given preference over other regulated financial 
+        institutions with lower ratings in connection with the award of 
+        Government contracts.
+    ``(b) Satisfactory Rating.--There shall be a rebuttable presumption 
+that a regulated financial institution that receives a rating of 
+`satisfactory record of meeting community credit or other financial 
+needs' on its two most recent performance evaluations will have 
+satisfied consideration of such regulated financial institution's 
+record of meeting the credit or other financial needs of its entire 
+community in an application for a deposit facility.
+    ``(c) Needs To Improve Rating.--A regulated financial institution 
+that receives a rating of `needs to improve record of meeting community 
+credit or other financial needs' or lower on its two most recent 
+performance evaluations shall be prohibited from--
+            ``(1) being awarded a Government contract in an amount 
+        greater than $500,000, unless such Federal department or agency 
+        proposing to enter into such contract determines that 
+        compliance with such prohibition imposes an undue burden or is 
+        unable to meet its needs with another institution; and
+            ``(2) making any capital distributions in the aggregate 
+        during any calendar quarter that exceed 50 percent of its net 
+        earnings during the previous quarter without the prior approval 
+        of its appropriate Federal financial supervisory agency.
+    ``(d) Substantial Noncompliance.--A regulated financial institution 
+that receives a `substantial noncompliance in meeting community credit 
+or other financial needs' rating on its most recent performance 
+evaluations--
+            ``(1) may be ordered to restrict executive compensation by 
+        its appropriate Federal financial supervisory agency;
+            ``(2) shall be prohibited from being awarded a Government 
+        contract, unless such Federal department or agency proposing to 
+        enter into such contract determines that compliance with such 
+        prohibition imposes an undue burden or is unable to meet its 
+        needs with another institution; and
+            ``(3) shall be prohibited from making any capital 
+        distributions without the prior approval of its appropriate 
+        Federal financial supervisory agency.''.
+                                 <all>
+

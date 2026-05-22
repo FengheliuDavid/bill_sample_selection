@@ -1,0 +1,976 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1869 Introduced in House (IH)]
+
+
+
+
+
+
+
+110th CONGRESS
+  1st Session
+                                H. R. 1869
+
+To enhance the ability of community banks to foster economic growth and 
+ serve their communities, boost small businesses, increase individual 
+                    savings, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 17, 2007
+
+Ms. Velazquez introduced the following bill; which was referred to the 
+ Committee on Financial Services, and in addition to the Committees on 
+  Ways and Means and Small Business, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To enhance the ability of community banks to foster economic growth and 
+ serve their communities, boost small businesses, increase individual 
+                    savings, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Community Banks 
+Serving Their Communities First Act'' or the ``Communities First Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+        TITLE I--TARGETED REGULATORY RELIEF FOR COMMUNITY BANKS
+
+Sec. 101. Short form reports of condition for certain community banks.
+Sec. 102. Community bank exemption from annual management assessment of 
+                            internal controls requirement of the 
+                            Sarbanes-Oxley Act of 2002.
+Sec. 103. Changes required to small bank holding company policy 
+                            statement on assessment of financial and 
+                            managerial factors.
+Sec. 104. Community bank protection under the Securities Investor 
+                            Protection Act of 1970.
+Sec. 105. Updating the amount of small bank exception for cap on 
+                            aggregate loans to officers.
+Sec. 106. Consideration of community bank impact.
+Sec. 107. Increase in shareholder registration threshold.
+ TITLE II--ADDITIONAL REGULATORY RELIEF FOR COMMUNITY BANKS AND THEIR 
+                               CUSTOMERS
+
+Sec. 201. Enhance customer capital access.
+Sec. 202. Seasoned customer CTR exemption.
+Sec. 203. Exception to annual privacy notice requirement under the 
+                            Gramm-Leach-Bliley Act.
+Sec. 204. Privacy protection of consumer reports during loan 
+                            application.
+Sec. 205. Update in the special regulatory lending limit on loans to 
+                            executive officers.
+Sec. 206. Reimbursement for production of mandated records.
+Sec. 207. Study by the Comptroller General on implementation of 
+                            commercial real estate guidance.
+TITLE III--TAX RELIEF FOR BANK DEPOSITORS, RURAL BANKS, MUNICIPALITIES, 
+BANKS ORGANIZED AS LIMITED LIABILITY COMPANIES, INDIVIDUAL SAVERS, AND 
+                            SMALL BUSINESSES
+
+Sec. 301. Reduced rate and deferral of income recognition on long-term 
+                            certificates of deposit.
+Sec. 302. Exclusion for interest on loans secured by agricultural real 
+                            property.
+Sec. 303. Update in cap on qualified small issue bonds.
+Sec. 304. Limited liability company tax treatment for FDIC-insured 
+                            limited liability companies.
+Sec. 305. Repeal of individual alternative minimum tax.
+Sec. 306. Young savers accounts.
+Sec. 307. Section 179 expensing for small business.
+     TITLE IV--TAX RELIEF FOR COMMUNITY BANKS AND HOLDING COMPANIES
+
+Sec. 401. Limited tax credit.
+Sec. 402. Community bank relief from minimum tax.
+              TITLE V--SMALL BUSINESS SUBCHAPTER S REFORMS
+
+Sec. 501. Increasing Shareholder Limit for Subchapter S to 150.
+Sec. 502. Treatment of qualifying director shares.
+Sec. 503. Recapture of bad debt reserves.
+Sec. 504. Issuance of preferred stock permitted for subchapter S 
+                            corporations.
+             TITLE VI--SMALL BUSINESS LENDING ENHANCEMENTS
+
+Sec. 601. Reduced fees for section 7(a) loans.
+Sec. 602. Low documentation loan program made mandatory.
+Sec. 603. Effective date.
+
+        TITLE I--TARGETED REGULATORY RELIEF FOR COMMUNITY BANKS
+
+SEC. 101. SHORT FORM REPORTS OF CONDITION FOR CERTAIN COMMUNITY BANKS.
+
+    (a) In General.--Section 7(a) of the Federal Deposit Insurance Act 
+(12 U.S.C. 1817(a)) is amended by inserting at the end the following 
+new paragraph:
+            ``(12) Short form reports of condition for community 
+        banks.--
+                    ``(A) In general.--With respect to reports of 
+                condition required under paragraph (3) for each 
+                calendar quarter, an insured depository institution 
+                described in subparagraphs (A), (B), (C), and (D) of 
+                section 10(d)(4) may submit a short form of any such 
+                report of condition in 2 nonsequential quarters of any 
+                calendar year.
+                    ``(B) Short form defined.--The term `short form', 
+                when used in connection with any report of condition 
+                required under paragraph (3), means a report of 
+                condition in a format established by the appropriate 
+                Federal banking agency, after notice and opportunity 
+                for comment, that--
+                            ``(i) is significantly and materially less 
+                        burdensome for the insured depository 
+                        institution to prepare than the format of the 
+                        report of condition required under paragraph 
+                        (3); and
+                            ``(ii) provides sufficient material 
+                        information for the appropriate Federal banking 
+                        agency to assure the maintenance of the safe 
+                        and sound condition of the depository 
+                        institution and safe and sound practices.''.
+    (b) Regulations.--Any regulation required to carry out the 
+amendment made by subsection (a) shall be published in final form 
+before the end of the 6-month period beginning on the date of the 
+enactment of this Act.
+
+SEC. 102. COMMUNITY BANK EXEMPTION FROM ANNUAL MANAGEMENT ASSESSMENT OF 
+              INTERNAL CONTROLS REQUIREMENT OF THE SARBANES-OXLEY ACT 
+              OF 2002.
+
+    Section 404 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262) is 
+amended by adding the following new subsection:
+    ``(c) Community Bank Exemption.--
+            ``(1) In general.--This section shall not apply in any year 
+        to any insured depository institution which, as of the close of 
+        the preceding year, had total assets, as determined on a 
+        consolidated basis, of $1,000,000,000 or less.
+            ``(2) Adjustment of amount.--The Commission shall annually 
+        adjust the dollar amount in paragraph (1) by an amount equal to 
+        the percentage increase, for the most recent year, in total 
+        assets held by all depository institutions, as reported by the 
+        Federal Deposit Insurance Corporation.''.
+
+SEC. 103. CHANGES REQUIRED TO SMALL BANK HOLDING COMPANY POLICY 
+              STATEMENT ON ASSESSMENT OF FINANCIAL AND MANAGERIAL 
+              FACTORS.
+
+    (a) Small Bank Holding Company Policy Statement on Assessment of 
+Financial and Managerial Factors.--
+            (1) In general.--Before the end of the 6-month period 
+        beginning on the date of the enactment of this Act, the Board 
+        of Governors of the Federal Reserve System shall publish in the 
+        Federal Register proposed revisions to the Small Bank Holding 
+        Company Policy Statement on Assessment of Financial and 
+        Managerial Factors (12 C.F.R. part 225--appendix C) that 
+        provide that the policy shall apply to a bank holding company 
+        which has pro forma consolidated assets of less than 
+        $1,000,000,000 and that--
+                    (A) is not engaged in any nonbanking activities 
+                involving significant leverage; and
+                    (B) does not have a significant amount of 
+                outstanding debt that is held by the general public.
+            (2) Adjustment of amount.--The Board of Governors of the 
+        Federal Reserve System shall annually adjust the dollar amount 
+        referred to in paragraph (1) in the Small Bank Holding Company 
+        Policy Statement on Assessment of Financial and Managerial 
+        Factors by an amount equal to the percentage increase, for the 
+        most recent year, in total assets held by all insured 
+        depository institutions, as determined by the Board.
+    (b) Increase in Debt-to-Equity Ratio of Small Bank Holding 
+Company.--Before the end of the 6-month period beginning on the date of 
+the enactment of this Act, the Board of Governors of the Federal 
+Reserve System shall publish in the Federal Register proposed revisions 
+to the Small Bank Holding Company Policy Statement on Assessment of 
+Financial and Managerial Factors (12 C.F.R. part 225--appendix C) such 
+that the debt-to-equity ratio allowable for a small bank holding 
+company in order to remain eligible to pay a corporate dividend and to 
+remain eligible for expedited processing procedures under Regulation Y 
+of the Board of Governors of the Federal Reserve System would increase 
+from 1:1 to 3:1.
+
+SEC. 104. COMMUNITY BANK PROTECTION UNDER THE SECURITIES INVESTOR 
+              PROTECTION ACT OF 1970.
+
+    Section 9 of the Securities Investor Protection Act of 1970 (15 
+U.S.C. 78fff-3) is amended by adding the following new subsection:
+    ``(d) Community Bank Protection.--
+            ``(1) In general.--The prohibition on advances in 
+        subsection (a)(5) of this section shall not apply to a bank 
+        with total assets, on a consolidated basis, of less than 
+        $1,000,000,000.
+            ``(2) Adjustment of amount.--The Commission shall annually 
+        adjust the dollar amount in paragraph (1) by an amount equal to 
+        the percentage increase, for the most recent year, in total 
+        assets held by all depository institutions, as reported by the 
+        Federal Deposit Insurance Corporation.''.
+
+SEC. 105. UPDATING THE AMOUNT OF SMALL BANK EXCEPTION FOR CAP ON 
+              AGGREGATE LOANS TO OFFICERS.
+
+    Subparagraph (C) of section 22(h)(5) of the Federal Reserve Act (12 
+U.S.C. 375b(5)(C)) is amended--
+            (1) by striking ``$100,000,000 of deposits'' and inserting 
+        ``$1,000,000,000 of total assets (on a consolidated basis)'';
+            (2) by striking ``2 times'' and inserting ``4 times''; and
+            (3) by adding at the end the following new sentence: ``The 
+        Board shall annually adjust the dollar amount in the 1st 
+        sentence of this subparagraph by an amount equal to the 
+        percentage increase, for the most recent year, in total assets 
+        held by all depository institutions, as reported by the Federal 
+        Deposit Insurance Corporation.''.
+
+SEC. 106. CONSIDERATION OF COMMUNITY BANK IMPACT.
+
+    Before establishing or making any revision in any regulation, 
+requirement, or guideline applicable to insured depository institutions 
+(as defined in section 3 of the Federal Deposit Insurance Act), the 
+appropriate Federal banking agency (as defined in such section) shall 
+take into account the effect of the establishment of the regulation, 
+requirement, or guideline on community banks and savings associations.
+
+SEC. 107. INCREASE IN SHAREHOLDER REGISTRATION THRESHOLD.
+
+    Subsection (g) of section 12 of the Securities Exchange Act of 1934 
+(15 U.S.C. 78l(g)) is amended by striking ``instrumentality of 
+interstate commerce shall--'' and all that follows through ``register 
+such security by filing'' and inserting ``instrumentality of interstate 
+commerce and which has total assets exceeding $1,000,000 and a class of 
+equity security (other than an exempted security) held of record by 
+more than 1,000 persons shall register such security by filing''.
+
+ TITLE II--ADDITIONAL REGULATORY RELIEF FOR COMMUNITY BANKS AND THEIR 
+                               CUSTOMERS
+
+SEC. 201. ENHANCE CUSTOMER CAPITAL ACCESS.
+
+    (a) Optional Consumer Waivers of Right of Rescission.--Section 
+125(d) of the Truth in Lending Act (15 U.S.C. 1635(d)) is amended--
+            (1) by striking ``The Board may'' and inserting ``Waivers 
+        of Rescission Rights.--
+            ``(1) Personal financial emergencies.--The board may''; and
+            (2) by adding at the end the following new paragraph:
+            ``(2) Waivers when creditor is insured depository 
+        institution.--The Board shall prescribe regulations authorizing 
+        a consumer to waive the rights provided under this section when 
+        the creditor is an insured depository institution (as that term 
+        is defined in section 3(c)(2) of the Federal Deposit Insurance 
+        Act) in such manner and after such notice as the Board may 
+        prescribe.''.
+    (b) Exemption in Case of Refinancing With No New Money Regardless 
+of Creditor.--Section 125(e)(2) of the Truth in Lending Act (15 U.S.C. 
+1635(e)(2)) is amended by striking ``by the same creditor''.
+    (c) Exempt Home Equity Lines of Credit.--Section 125(e)(4) of the 
+Truth in Lending Act (15 U.S.C. 1635(e)(4)) is amended to read as 
+follows:
+            ``(4) advances under an open end consumer credit plan which 
+        provides for any extension of credit which is secured by the 
+        consumer's principal dwelling.''.
+
+SEC. 202. SEASONED CUSTOMER CTR EXEMPTION.
+
+    (a) Short Title.--This section may be cited as the ``Seasoned 
+Customer CTR Exemption Act of 2007''.
+    (b) Seasoned Customer Exemption.--Section 5313(e) of title 31, 
+United States Code, is amended to read as follows:
+    ``(e) Qualified Customer Exemption.--
+            ``(1) In general.--Before the end of the 270-day period 
+        beginning on the date of the enactment of the Seasoned Customer 
+        CTR Exemption Act of 2007, the Secretary of the Treasury shall 
+        prescribe regulations that exempt any depository institution 
+        from filing a report pursuant to this section in a transaction 
+        for the payment, receipt, or transfer of United States coins or 
+        currency (or other monetary instruments the Secretary of the 
+        Treasury prescribes) with a qualified customer of the 
+        depository institution.
+            ``(2) Qualified customer defined.--For purposes of this 
+        section, the term `qualified customer', with respect to a 
+        depository institution, has such meaning as the Secretary of 
+        the Treasury shall prescribe, which shall include any person 
+        that--
+                    ``(A) is incorporated or organized under the laws 
+                of the United States or any State, including a sole 
+                proprietorship (as defined in 31 C.F.R. 
+                103.22(d)(6)(vii), as in effect on May 10, 2006), or is 
+                registered as and eligible to do business within the 
+                United States or a State;
+                    ``(B) has maintained a deposit account with the 
+                depository institution for at least 12 months; and
+                    ``(C) has engaged, using such account, in multiple 
+                currency transactions that are subject to the reporting 
+                requirements of subsection (a).
+            ``(3) Regulations.--
+                    ``(A) In general.--The Secretary of the Treasury 
+                shall prescribe regulations requiring a depository 
+                institution to file a 1-time notice of designation of 
+                exemption for each qualified customer of the depository 
+                institution.
+                    ``(B) Form and content of exemption notice.--The 
+                Secretary shall by regulation prescribe the form, 
+                manner, content, and timing of the qualified customer 
+                exemption notice and such notice shall include 
+                information sufficient to identify the qualified 
+                customer and the accounts of the customer.
+                    ``(C) Authority of secretary.--
+                            ``(i) In general.--The Secretary may 
+                        suspend, reject, or revoke any qualified 
+                        customer exemption notice, in accordance with 
+                        criteria prescribed by the Secretary by 
+                        regulation.
+                            ``(ii) Conditions.--The Secretary may 
+                        establish conditions, in accordance with 
+                        criteria prescribed by regulation, under which 
+                        exempt qualified customers of an insured 
+                        depository institution that is merged with or 
+                        acquired by another insured depository 
+                        institution will continue to be treated as 
+                        designated exempt qualified customers of the 
+                        surviving or acquiring institution.''.
+    (c) Periodic Review of Reporting Threshold and Adjustment for 
+Inflation.--Section 5318 of title 31, United States Code, is amended by 
+adding at the end the following new subsection:
+    ``(o) Periodic Review of Reporting Threshold and Adjustment for 
+Inflation.--
+            ``(1) In general.--Before the end of the 90-day period 
+        beginning on the date of the enactment of the Seasoned Customer 
+        CTR Exemption Act of 2007 and at least every 5 years after the 
+        end of such period, the Secretary of the Treasury shall--
+                    ``(A) review the continuing appropriateness, 
+                relevance, and utility of each threshold amount or 
+                denomination established by the Secretary, in the 
+                Secretary's discretion, for any report required by the 
+                Secretary under this subchapter; and
+                    ``(B) adjust each such amount, at such time and in 
+                such manner as the Secretary considers appropriate, for 
+                any inflation that the Secretary determines has 
+                occurred since the date any such amount was established 
+                or last adjusted, as the case may be.
+            ``(2) Report.--Before the end of the 60-day period 
+        beginning upon the completion of any review by the Secretary of 
+        the Treasury under paragraph (1), the Secretary shall submit a 
+        report to the Congress containing the findings and conclusions 
+        of the Secretary in connection with such review, together with 
+        an explanation for any adjustment, or lack of adjustment, of 
+        any threshold amount or denomination by the Secretary as a 
+        result of such review, including the adjustment for 
+        inflation.''.
+
+SEC. 203. EXCEPTION TO ANNUAL PRIVACY NOTICE REQUIREMENT UNDER THE 
+              GRAMM-LEACH-BLILEY ACT.
+
+    Section 503 of the Gramm-Leach-Bliley Act (15 U.S.C. 6803) is 
+amended by adding the following new subsections:
+    ``(c) Exception to Annual Notice Requirement.--A financial 
+institution that--
+            ``(1) provides nonpublic personal information only in 
+        accordance with the provisions of subsection (b)(2) or (e) of 
+        section 502 or regulations prescribed under section 504(b);
+            ``(2) does not share information with affiliates under 
+        section 603(d)(2)(A) of the Fair Credit Reporting Act; and
+            ``(3) has not changed its policies and practices with 
+        regard to disclosing nonpublic personal information from the 
+        policies and practices that were disclosed in the most recent 
+        disclosure sent to consumers in accordance with this 
+        subsection,
+shall not be required to provide an annual disclosure under this 
+subsection until such time as the financial institution fails to comply 
+with any criteria described in paragraph (1), (2), or (3).
+    ``(d) Exception to Notice Requirement.--A financial institution 
+shall not be required to provide any disclosure under this section if--
+            ``(1) the financial institution is licensed by a State and 
+        is subject to existing regulation of consumer confidentiality 
+        that prohibits disclosure of nonpublic personal information 
+        without knowing and expressed consent of the consumer in the 
+        form of laws, rules, or regulation of professional conduct or 
+        ethics promulgated either by the court of highest appellate 
+        authority or by the principal legislative body or regulatory 
+        agency or body of any State of the United States, the District 
+        of Columbia, any territory of the United States, Puerto Rico, 
+        Guam, American Samoa, the Trust Territory of the Pacific 
+        Islands, the Virgin Islands, or the Northern Mariana Islands; 
+        or
+            ``(2) the financial institution is licensed by a State and 
+        becomes subject to future regulation of consumer 
+        confidentiality that prohibits disclosure of nonpublic personal 
+        information without knowing and expressed consent of the 
+        consumer in the form of laws, rules, or regulation of 
+        professional conduct or ethics promulgated either by the court 
+        of highest appellate authority or by the principal legislative 
+        body or regulatory agency or body of any State of the United 
+        States, the District of Columbia, any territory of the United 
+        States, Puerto Rico, Guam, American Samoa, the Trust Territory 
+        of the Pacific Islands, the Virgin Islands, or the Northern 
+        Mariana Islands.''.
+
+SEC. 204. PRIVACY PROTECTION OF CONSUMER REPORTS DURING LOAN 
+              APPLICATION.
+
+    Section 604(c) of the Fair Credit Reporting Act (15 U.S.C. 
+1681b(c)) is amended by adding at the end the following new paragraph
+            ``(4) Report prompted by a request for a consumer report 
+        from another creditor prohibited.--
+                    ``(A) In general.--A consumer reporting agency 
+                shall not furnish a consumer report if such action is 
+                prompted by a request for a consumer report from 
+                another creditor unless approved in writing by the 
+                consumer.
+                    ``(B) Regulations.--The Commission shall prescribe 
+                regulations in final form to enforce this paragraph 
+                before the end of the 180-day period beginning on the 
+                date of the enactment of the Communities First Act.''.
+
+SEC. 205. UPDATE IN THE SPECIAL REGULATORY LENDING LIMIT ON LOANS TO 
+              EXECUTIVE OFFICERS.
+
+    Section 22(g) of the Federal Reserve Act (12 U.S.C. 375b(g)) is 
+amended by adding at the end the following new paragraph:
+            ``(11) Limit applicable on aggregate amount of certain 
+        loans to executive officers of community banks.--
+        Notwithstanding any regulation prescribed by the Board under 
+        paragraph (4) and subject to other conditions imposed under 
+        this subsection and subsection (h), the aggregate amount of 
+        extensions of credit that a member bank may make to an 
+        executive officer of the bank under paragraph (4) shall not 
+        exceed $250,000.''.
+
+SEC. 206. REIMBURSEMENT FOR PRODUCTION OF MANDATED RECORDS.
+
+    (a) Corporate Records.--Section 1101(4) of the Right to Financial 
+Privacy Act of 1978 (12 U.S.C. 3401(4)) is amended by inserting ``, 
+except that, for purposes of section 1115, such term includes any 
+entity'' after ``fewer individuals''.
+    (b) Clarification of Scope.--Section 1115(b) of the Right to 
+Financial Privacy Act of 1978 (12 U.S.C. 3415) is amended to read as 
+follows:
+    ``(b) Clarification of Scope.--Notwithstanding the introductory 
+clause to the 1st sentence of subsection (a), this section shall apply 
+to all records required to be assembled or provided for any Federal law 
+enforcement or investigative purpose.''.
+
+SEC. 207. STUDY BY THE COMPTROLLER GENERAL ON IMPLEMENTATION OF 
+              COMMERCIAL REAL ESTATE GUIDANCE.
+
+    The Comptroller General shall conduct a study on the 
+implementation, by any Federal banking agency, of examiner guidance on 
+concentrations in commercial real estate lending, including the impact 
+on--
+            (1) local economies;
+            (2) the regulatory burden on banks
+            (3) community bank portfolios; and
+            (4) community banks' market share.
+
+TITLE III--TAX RELIEF FOR BANK DEPOSITORS, RURAL BANKS, MUNICIPALITIES, 
+BANKS ORGANIZED AS LIMITED LIABILITY COMPANIES, INDIVIDUAL SAVERS, AND 
+                            SMALL BUSINESSES
+
+SEC. 301. REDUCED RATE AND DEFERRAL OF INCOME RECOGNITION ON LONG-TERM 
+              CERTIFICATES OF DEPOSIT.
+
+    (a) Deferral of Income Recognition.--Section 451 of the Internal 
+Revenue Code of 1986 (relating to general rule for taxable year of 
+inclusion) is amended by adding at the end the following new 
+subsection:
+    ``(j) Certificates of Deposits Held by Cash Basis Individuals.--In 
+the case of an individual on the cash receipts and disbursements method 
+of accounting who holds a nonnegotiable certificate of deposit, 
+interest income which is not made available for withdrawal before 
+maturity of the certificate without penalty shall not be includible in 
+gross income before the certificate is redeemed or matures.''.
+    (b) Interest Income on Long-Term Certificates of Deposit.--
+Subparagraph (A) of section 1(h)(11) of such Code is amended by 
+striking ``increased by'' and all that follows and inserting:
+                ``increased by--
+                            ``(i) qualified dividend income, and
+                            ``(ii) interest income on any nonnegotiable 
+                        certificate of deposit--
+                                    ``(I) with a fixed maturity date 
+                                which is 1 year or more from the date 
+                                of issue, and
+                                    ``(II) the interest on which is not 
+                                made available for withdrawal before 
+                                maturity without penalty.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+
+SEC. 302. EXCLUSION FOR INTEREST ON LOANS SECURED BY AGRICULTURAL REAL 
+              PROPERTY.
+
+    (a) In General.--Part III of subchapter B of chapter 1 of the 
+Internal Revenue Code of 1986 (relating to items specifically excluded 
+from gross income) is amended by inserting after section 139A the 
+following new section:
+
+``SEC. 139B. INTEREST ON LOANS SECURED BY AGRICULTURAL REAL PROPERTY.
+
+    ``(a) Exclusion.--Gross income shall not include interest received 
+by a qualified lender on any qualified real estate loan.
+    ``(b) Definitions.--For purposes of this section--
+            ``(1) Qualified lender.--The term `qualified lender' means 
+        any bank or savings association the deposits of which are 
+        insured under the Federal Deposit Insurance Act (12 U.S.C. 1811 
+        et seq.).
+            ``(2) Qualified real estate loan.--The term `qualified real 
+        estate loan' means any loan secured by agricultural real estate 
+        or by a leasehold mortgage (with a status as a lien) on 
+        agricultural real estate. For purposes of the preceding 
+        sentence, the determination of whether property securing such 
+        loan is agricultural real estate shall be made as of the time 
+        the interest income on such loan is accrued.
+            ``(3) Agricultural real estate.--The term `agricultural 
+        real estate' means--
+                    ``(A) real property used for the production of 1 or 
+                more agricultural products, and
+                    ``(B) any single family residence--
+                            ``(i) which is the principal residence 
+                        (within the meaning of section 121) of its 
+                        occupant,
+                            ``(ii) which is located in a rural area (as 
+                        determined by the Secretary of Agriculture), 
+                        which is not within a Metropolitan Statistical 
+                        Area (as defined by the Office of Management 
+                        and Budget) and which has a population 
+                        (determined on the basis of the most recent 
+                        decennial census for which data are available) 
+                        of 2,500 or less, and
+                            ``(iii) which is purchased or improved with 
+                        the proceeds of the qualified real estate loan.
+    ``(c) Coordination With Section 265.--Qualified real estate loans 
+shall be treated as obligations described in section 265(a)(2) the 
+interest on which is wholly exempt from the taxes imposed by this 
+subtitle.''.
+    (b) Clerical Amendment.--The table of sections for such part III is 
+amended by inserting after the item relating to section 139A the 
+following new item:
+
+``Sec. 139B. Interest on loans secured by agricultural real 
+                            property.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+
+SEC. 303. UPDATE IN CAP ON QUALIFIED SMALL ISSUE BONDS.
+
+    (a) In General.--Clause (i) of section 144(a)(4)(A) of the Internal 
+Revenue Code of 1986 (relating to general rule for $10,000,000 limit in 
+certain cases) is amended by striking ``$10,000,000'' and inserting 
+``$30,000,000''.
+    (b) Adjustment of Cap for Inflation.--Subsection (a) of section 144 
+of such Code (relating to qualified small issue bond) is amended by 
+redesignating paragraph (12) as paragraph (13) and by inserting after 
+paragraph (11) the following new paragraph:
+            ``(12) Inflation adjustment.--In the case of a calendar 
+        year after 2007, the $30,000,000 amount contained in paragraph 
+        (4)(A)(i) shall be increased by an amount equal to--
+                    ``(A) such dollar amount, multiplied by
+                    ``(B) the cost-of-living adjustment determined 
+                under section 1(f)(3) for such calendar year by 
+                substituting `calendar year 2006' for `calendar year 
+                1992' in subparagraph (B) thereof.
+        Any increase under the preceding sentence which is not a 
+        multiple of $100,000 shall be rounded to the next lowest 
+        multiple of $100,000.''.
+    (c) Conforming Amendment.--Paragraph (4) of section 144(a) of such 
+Code is amended in the heading by striking ``$10,000,000'' and 
+inserting ``$30,000,000''.
+    (d) Effective Date.--The amendments made by this section shall 
+apply to--
+            (1) obligations issued after the date of the enactment of 
+        this Act, and
+            (2) capital expenditures made after such date with respect 
+        to obligations issued on or before such date.
+
+SEC. 304. LIMITED LIABILITY COMPANY TAX TREATMENT FOR FDIC-INSURED 
+              LIMITED LIABILITY COMPANIES.
+
+    (a) In General.--Paragraph (2) of section 7701(a) of the Internal 
+Revenue Code of 1986 (defining partnership and partner) is amended to 
+read as follows:
+            ``(2) Partner and partnership.--
+                    ``(A) In general.--The term `partnership' includes 
+                a syndicate, group, pool, joint venture, or other 
+                unincorporated organization, through or by means of 
+                which any business, financial operation, or venture is 
+                carried on, and which is not, within the meaning of 
+                this title, a trust or estate or a corporation; and the 
+                term `partner' includes a member in such a syndicate, 
+                group, pool, joint venture, or organization.
+                    ``(B) Election by certain banks to be taxed as 
+                partnerships.--
+                            ``(i) In general.--An eligible corporation 
+                        may elect to be treated as a partnership for 
+                        purposes of this title.
+                            ``(ii) Tax treatment.--In the case of an 
+                        eligible corporation making an election under 
+                        clause (i)--
+                                    ``(I) no gain or loss shall be 
+                                recognized to the corporation or the 
+                                shareholders by reason of an election 
+                                under clause (i), and
+                                    ``(II) section 1374 shall apply to 
+                                the entity after such election.
+                            ``(iii) Eligible corporation.--The term 
+                        `eligible corporation' means any of the 
+                        following entities which would (but for this 
+                        subparagraph) be treated as a C corporation for 
+                        purposes of this title:
+                                    ``(I) Any bank (as defined in 
+                                section 581).
+                                    ``(II) Any bank holding company (as 
+                                defined in section 2(a) of the Bank 
+                                Holding Company Act of 1956 (12 U.S.C. 
+                                1841(a))).
+                                    ``(III) Any savings association (as 
+                                defined in section 3(b) of the Federal 
+                                Deposit Insurance Act (12 U.S.C. 
+                                1813)).
+                                    ``(IV) Any savings and loan holding 
+                                company (as defined in section 
+                                10(a)(1)(D) of the Home Owners Loan 
+                                Act).''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to taxable years beginning after the date of the enactment of this Act.
+
+SEC. 305. REPEAL OF INDIVIDUAL ALTERNATIVE MINIMUM TAX.
+
+    (a) In General.--Section 55(a) of the Internal Revenue Code of 1986 
+(relating to alternative minimum tax imposed) is amended by adding at 
+the end the following new flush sentence:
+``Except in the case of a corporation, no tax shall be imposed by this 
+section for any taxable year beginning after December 31, 2007, and the 
+tentative minimum tax of any taxpayer other than a corporation for any 
+such taxable year shall be zero for purposes of this title.''.
+    (b) Modification of Limitation on Use of Credit for Prior Year 
+Minimum Tax Liability.--Subsection (c) of section 53 of the Internal 
+Revenue Code of 1986 (relating to credit for prior year minimum tax 
+liability) is amended to read as follows:
+    ``(c) Limitation.--
+            ``(1) In general.--Except as provided in paragraph (2), the 
+        credit allowable under subsection (a) for any taxable year 
+        shall not exceed the excess (if any) of--
+                    ``(A) the regular tax liability of the taxpayer for 
+                such taxable year reduced by the sum of the credits 
+                allowable under subparts A, B, D, E, and F of this 
+                part, over
+                    ``(B) the tentative minimum tax for the taxable 
+                year.
+            ``(2) Taxable years beginning after 2007.--In the case of 
+        any taxable year beginning after 2007, the credit allowable 
+        under subsection (a) to a taxpayer other than a corporation for 
+        any taxable year shall not exceed 90 percent of the regular tax 
+        liability of the taxpayer for such taxable year reduced by the 
+        sum of the credits allowable under subparts A, B, D, E, and F 
+        of this part.''.
+    (c) Effective Date.--The amendment made by this section shall apply 
+to taxable years beginning after December 31, 2007.
+
+SEC. 306. YOUNG SAVERS ACCOUNTS.
+
+    (a) In General.--Section 408A of the Internal Revenue Code of 1986 
+(relating to Roth IRAs) is amended by adding at the end the following 
+new subsection:
+    ``(g) Special Rules for Roth IRAs for Children.--
+            ``(1) General rule.--A Roth IRA maintained for the benefit 
+        of an individual who has not attained age 25 before the close 
+        of the taxable year shall be maintained under this section, as 
+        modified by this subsection.
+            ``(2) Contribution limits.--
+                    ``(A) In general.--For so long as a Roth IRA is 
+                subject to this subsection, contributions to such Roth 
+                IRA shall be subject to this paragraph and not to 
+                subsection (c)(2), and subsection (c)(3) shall not 
+                apply.
+                    ``(B) Limit.--The aggregate amount of contributions 
+                for any taxable year to all child Roth IRAs maintained 
+                for the benefit of an individual under this subsection 
+                shall not exceed the maximum amount allowable as a 
+                deduction under subsection (b)(1) of section 219 for 
+                such taxable year (computed without regard to 
+                subsections (b)(1)(B), (d)(1), and (g) of such 
+                section).''.
+    (b) Enforcement of Contribution Limits.--Paragraphs (1)(B) and 
+(2)(B) of section 4973(f) of such Code are each amended by striking 
+``and (c)(3)'' and inserting ``, (c)(3), and (f)(2)''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2007.
+
+SEC. 307. SECTION 179 EXPENSING FOR SMALL BUSINESS.
+
+    Subsections (b)(1), (b)(2), (b)(5), (c)(2), and (d)(1)(A)(ii) of 
+section 179(b) (relating to election to expense certain depreciable 
+business assets) are each amended by striking ``and before 2010''.
+
+     TITLE IV--TAX RELIEF FOR COMMUNITY BANKS AND HOLDING COMPANIES
+
+SEC. 401. LIMITED TAX CREDIT.
+
+    (a) C Corporations.--Section 11 of the Internal Revenue Code of 
+1986 (relating to tax imposed) is amended by adding at the end the 
+following new subsection:
+    ``(e) Reduction of Tax on Community Banks.--
+            ``(1) In general.--In the case of a C corporation which is 
+        a community bank, the aggregate tax imposed by this section, 
+        section 55, and section 1201 shall be 80 percent of the 
+        aggregate tax which would (but for this subsection) be imposed 
+        by such sections.
+            ``(2) Maximum reduction.--The reduction in tax by reason of 
+        this subsection shall not exceed $250,000. Corporations treated 
+        as 1 corporation under section 1202(d)(3) shall be so treated 
+        under this subsection, and the limitation under the preceding 
+        sentence shall be allocated among such corporations in such 
+        manner as the Secretary shall prescribe.
+            ``(3) Increased benefit for banks operating in distressed 
+        areas, etc.--
+                    ``(A) In general.--In the case of a bank operating 
+                in an area referred to in subparagraph (B)--
+                            ``(i) paragraph (1) shall be applied by 
+                        substituting `50 percent' for `80 percent', and
+                            ``(ii) paragraph (2) shall be applied by 
+                        substituting `$500,000' for `$250,000'.
+                    ``(B) Areas described.--The areas referred to in 
+                this subparagraph are--
+                            ``(i) empowerment zones and enterprise 
+                        communities designated under section 1391,
+                            ``(ii) renewal communities designated under 
+                        section 1400E,
+                            ``(iii) low-income communities (as defined 
+                        in section 45D(e)), and
+                            ``(iv) distressed communities (within the 
+                        meaning of section 233 of the Bank Enterprise 
+                        Act of 1991 (12 U.S.C. 1834a(b)).
+            ``(4) Community bank.--For purposes of this section, the 
+        term `community bank' means any of the following entities the 
+        gross assets of which (determined under the rules of section 
+        1202(d)) are $5,000,000,000 or less:
+                    ``(A) Any bank (as defined in section 581).
+                    ``(B) Any bank holding company (as defined in 
+                section 2(a) of the Bank Holding Company Act of 1956 
+                (12 U.S.C. 1841(a))).
+                    ``(C) Any savings association (as defined in 
+                section 3(b) of the Federal Deposit Insurance Act (12 
+                U.S.C. 1813)).
+                    ``(D) Any savings and loan holding company (as 
+                defined in section 10(a)(1)(D) of the Home Owners Loan 
+                Act).''.
+    (b) S Corporations.--Subsection (a) of section 1366 of such Code is 
+amended by adding at the end the following new paragraph:
+            ``(3) Reduction of tax on community banks.--
+                    ``(A) In general.--In the case of an S corporation 
+                which is a community bank (as defined in section 
+                11(e)(4)), the net amount required to be taken into 
+                account by shareholders (without regard to this 
+                paragraph) shall be reduced by the lesser of--
+                            ``(i) 20 percent of such net amount, or
+                            ``(ii) $1,250,000.
+                    ``(B) Increased benefit for banks operating in 
+                distressed areas, etc.--In the case of a bank operating 
+                in an area referred to in section 11(e)(3)(B)--
+                            ``(i) subparagraph (A)(i) shall be applied 
+                        by substituting `50 percent' for `20 percent', 
+                        and
+                            ``(ii) subparagraph (A)(ii) shall be 
+                        applied by substituting `$2,500,000' for 
+                        `$1,250,000'.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+
+SEC. 402. COMMUNITY BANK RELIEF FROM MINIMUM TAX.
+
+    (a) In General.--Section 55 of the Internal Revenue Code of 1986 
+(relating to alternative minimum tax imposed) is amended by adding at 
+the end the following new subsection:
+    ``(f) Exemption for Community Banks.--
+            ``(1) In general.--The tentative minimum tax of a community 
+        bank (as defined in section 11(e)(4)) shall be zero.
+            ``(2) Certain rules to apply.--Rules similar to the rules 
+        of paragraphs (2) through (5) of subsection (e) shall apply for 
+        purposes of this subsection.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+
+              TITLE V--SMALL BUSINESS SUBCHAPTER S REFORMS
+
+SEC. 501. INCREASING SHAREHOLDER LIMIT FOR SUBCHAPTER S TO 150.
+
+    (a) In General.--Section 1361(b)(1)(A) of the Internal Revenue Code 
+of 1986 (defining small business corporation) is amended by striking 
+``100'' and inserting ``150''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to taxable years beginning after December 31, 2007.
+
+SEC. 502. ISSUANCE OF PREFERRED STOCK PERMITTED FOR SUBCHAPTER S 
+              CORPORATIONS.
+
+    (a) In General.--Section 1361 (defining S corporation) is amended 
+by adding at the end the following new subsection:
+    ``(f) Treatment of Qualified Preferred Stock.--
+            ``(1) In general.--For purposes of this subchapter--
+                    ``(A) qualified preferred stock shall not be 
+                treated as a second class of stock, and
+                    ``(B) no person shall be treated as a shareholder 
+                of the corporation by reason of holding qualified 
+                preferred stock.
+            ``(2) Qualified preferred stock defined.--For purposes of 
+        this subsection, the term `qualified preferred stock' means 
+        stock which meets the requirements of subparagraphs (A), (B), 
+        and (C) of section 1504(a)(4). Stock shall not fail to be 
+        treated as qualified preferred stock merely because it is 
+        convertible into other stock.
+            ``(3) Distributions.--A distribution (not in part or full 
+        payment in exchange for stock) made by the corporation with 
+        respect to qualified preferred stock shall be includible as 
+        ordinary income of the holder and deductible to the corporation 
+        as an expense in computing taxable income under section 1363(b) 
+        in the year such distribution is received.''.
+    (b) Conforming Amendments.--
+            (1) Paragraph (1) of section 1361(b) is amended by 
+        inserting ``, except as provided in subsection (f),'' before 
+        ``which does not''.
+            (2) Subsection (a) of section 1366 is amended by adding at 
+        the end the following new paragraph:
+            ``(3) Allocation with respect to qualified preferred 
+        stock.--The holders of qualified preferred stock (as defined in 
+        section 1361(f)) shall not, with respect to such stock, be 
+        allocated any of the items described in paragraph (1).''.
+            (3) So much of clause (ii) of section 354(a)(2)(C) as 
+        precedes subclause (II) is amended to read as follows:
+                            ``(ii) Recapitalization of family-owned 
+                        corporations and s corporations.--
+                                    ``(I) In general.--Clause (i) shall 
+                                not apply in the case of a 
+                                recapitalization under section 
+                                368(a)(I)(E) of a family-owned 
+                                corporation or S corporation.''.
+            (4) Subsection (a) of section 1373 is amended by striking 
+        ``and'' at the end of paragraph (1), by striking the period at 
+        the end of paragraph (2) and inserting ``, and'', and by adding 
+        at the end the following new paragraph:
+            ``(3) no amount of an expense deductible under this 
+        subchapter by reason of section 1361(f)(3) shall be apportioned 
+        or allocated to such income.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2007.
+
+SEC. 503. TREATMENT OF QUALIFYING DIRECTOR SHARES.
+
+    (a) In General.--Section 1361 of the Internal Revenue Code of 1986 
+(defining S corporation), as amended by section 502(a), is amended by 
+adding at the end the following new subsection:
+    ``(g) Treatment of Qualifying Director Shares.--
+            ``(1) In general.--For purposes of this subchapter--
+                    ``(A) qualifying director shares shall not be 
+                treated as a second class of stock, and
+                    ``(B) no person shall be treated as a shareholder 
+                of the corporation by reason of holding qualifying 
+                director shares.
+            ``(2) Qualifying director shares defined.--For purposes of 
+        this subsection, the term `qualifying director shares' means 
+        any shares of stock in a bank (as defined in section 581) or in 
+        a bank holding company registered as such with the Federal 
+        Reserve System--
+                    ``(A) which are held by an individual solely by 
+                reason of status as a director of such bank or company 
+                or its controlled subsidiary, and
+                    ``(B) which are subject to an agreement pursuant to 
+                which the holder is required to dispose of the shares 
+                of stock upon termination of the holder's status as a 
+                director at the same price as the individual acquired 
+                such shares of stock.
+            ``(3) Distributions.--A distribution (not in part or full 
+        payment in exchange for stock) made by the corporation with 
+        respect to qualifying director shares shall be includible as 
+        ordinary income of the holder and deductible to the corporation 
+        as an expense in computing taxable income under section 1363(b) 
+        in the year such distribution is received.''.
+    (b) Conforming Amendments.--
+            (1) Section 1361(b)(1) of the Internal Revenue Code of 
+        1986, as amended by section 502(b), is amended by striking 
+        ``subsection (f)'' and inserting ``subsections (f) and (g)''.
+            (2) Section 1366(a) of such Code, as amended by section 
+        502(b), is amended by adding at the end the following new 
+        paragraph:
+            ``(4) Allocation with respect to qualifying director 
+        shares.--The holders of qualifying director shares (as defined 
+        in section 1361(g)) shall not, with respect to such shares of 
+        stock, be allocated any of the items described in paragraph 
+        (1).''.
+            (3) Section 1373(a) of such Code, as amended by section 
+        502(b), is amended by striking ``and'' at the end of paragraph 
+        (2), by striking the period at the end of paragraph (3) and 
+        inserting ``, and'', and adding at the end the following new 
+        paragraph:
+            ``(4) no amount of an expense deductible under this 
+        subchapter by reason of section 1361(g)(3) shall be apportioned 
+        or allocated to such income.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2007.
+
+SEC. 504. RECAPTURE OF BAD DEBT RESERVES.
+
+    Notwithstanding section 481 of the Internal Revenue Code of 1986, 
+with respect to any S corporation election made by any bank in taxable 
+years beginning after December 31, 1996, such bank may recognize built-
+in gains from changing its accounting method for recognizing bad debts 
+from the reserve method under section 585 or 593 of such Code to the 
+charge-off method under section 166 of such Code either in the taxable 
+year ending with or beginning with such an election.
+
+             TITLE VI--SMALL BUSINESS LENDING ENHANCEMENTS
+
+SEC. 601. REDUCED FEES FOR SECTION 7(A) LOANS.
+
+    Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is 
+amended--
+            (1) in paragraph (23)(C)--
+                    (A) in the matter preceding clause (i), by striking 
+                ``may be reduced,'' and all that follows through 
+                ``guarantees--'' and inserting ``may be reduced--'';
+                    (B) in clause (i), by striking ``, to the maximum 
+                extent possible''; and
+            (2) by adding at the end the following new paragraph:
+            ``(32) Fee reduction.--Amounts appropriated or otherwise 
+        made available to the Administrator for the purpose of fee 
+        reduction shall be used by the Administrator to reduce the fee 
+        percentages in effect under paragraphs (18)(A) and (23)(A), to 
+        the maximum extent possible.''.
+
+SEC. 602. LOW DOCUMENTATION LOAN PROGRAM MADE MANDATORY.
+
+    Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) (as 
+amended by section 601 of this title) is amended--
+            (1) in paragraph (25), by striking subparagraph (C); and
+            (2) by inserting after paragraph (32) (as added by section 
+        601(3) of this title) the following new paragraph:
+            ``(33) Low documentation loan program.--
+                    ``(A) In general.--The Administrator shall carry 
+                out a low documentation loan program for loans of 
+                $250,000 or less only through lenders with significant 
+                experience in making small business loans.
+                    ``(B) Regulations.--Not later than 45 days after 
+                the date of the enactment of this paragraph, the 
+                Administrator shall prescribe regulations defining the 
+                experience necessary for participation as a lender in 
+                the low documentation loan program.''.
+
+SEC. 603. EFFECTIVE DATE.
+
+    The amendments made by sections 601 and 602 shall apply for fiscal 
+years beginning with fiscal year 2008.
+                                 <all>
+

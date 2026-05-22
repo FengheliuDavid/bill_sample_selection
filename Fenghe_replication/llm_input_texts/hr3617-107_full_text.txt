@@ -1,0 +1,235 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3617 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 3617
+
+   To withdraw certain benefits of the Private Securities Litigation 
+  Reform Act from auditors that perform non-audit functions, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 23, 2002
+
+  Mr. Markey introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To withdraw certain benefits of the Private Securities Litigation 
+  Reform Act from auditors that perform non-audit functions, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Accountability for Accountants Act 
+of 2002''.
+
+SEC. 2. RESTORATION OF JOINT AND SEVERAL LIABILITY.
+
+    (a) Amendment.--Subparagraph (A) of section 21D(f)(2) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78u-4(f)(2)(A)) is amended 
+to read as follows:
+                    ``(A) Joint and several liability.--Any covered 
+                person against whom a final judgment is entered in a 
+                private action shall be liable for damages jointly and 
+                severally only if the trier of fact specifically 
+                determines that--
+                            ``(i) such covered person knowingly 
+                        committed a violation of the securities laws;
+                            ``(ii) the covered person was the auditor 
+                        of the financial statements of the issuer of 
+                        the securities that are the subject of the 
+                        class action and such auditor failed to comply 
+                        with section 10A by failing to detect and 
+                        report an illegal act of such issuer that is 
+                        the basis of such class action;
+                            ``(iii) the covered person was the auditor 
+                        of the financial statements of such issuer and 
+                        such auditor performed any non-audit functions 
+                        for such issuer during the fiscal year in which 
+                        an alleged violation of the securities laws 
+                        occurred; or
+                            ``(iv) the issuer of such securities is 
+                        insolvent.''.
+    (b) Uncollectable Shares.--Section 21D(f)(4) of such Act is amended 
+by adding at the end the following new subparagraph:
+                    ``(D) Inapplicability to insolvency cases.--The 
+                provisions of this paragraph shall not apply in any 
+                case in which the trier of fact determines that the 
+                issuer of the securities that are the subject of the 
+                class action is insolvent under paragraph 
+                (2)(A)(iv).''.
+    (c) Disclosure to Juries.--Section 21D(f) of such Act is further 
+amended--
+            (1) by striking paragraph (6); and
+            (2) by redesignating paragraphs (7) through (10) as 
+        paragraphs (6) through (9), respectively.
+    (d) Definition.--Section 21D(f)(9) of such Act (as redesignated by 
+subsection (c)(2) of this section) is amended--
+            (1) by striking ``and'' at then end of subparagraph (C);
+            (2) by striking the period at the end of subparagraph (D) 
+        and inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(E) an auditor shall be considered to have 
+                performed `non-audit functions for an issuer' if such 
+                auditor received any compensation for services from 
+                such issuer for a fiscal year that did not qualify to 
+                be treated as audit fees for such fiscal year for 
+                purposes of item 9(e)(1) of the schedule 14A of such 
+                issuer.''.
+    (e) Prevention of Stays of Discovery.--
+            (1) Section 21D(b)(3) of such Act is amended by adding at 
+        the end the following new subparagraph:
+                    ``(E) Inapplicability to action against auditors.--
+                In any private action arising under this title against 
+                the auditor of the financial statements of the issuer 
+                of the securities that are the subject of such action, 
+                discovery and other proceedings shall not be stayed 
+                pursuant to this paragraph.''.
+            (2) Section 27(b) of the Securities Act of 1933 (15 U.S.C. 
+        77z-1(b)) is amended by adding at the end the following new 
+        paragraph:
+            ``(5) Inapplicability to action against auditors.--In any 
+        private action arising under this title against the auditor of 
+        the financial statements of the issuer of the securities that 
+        are the subject of such action, discovery and other proceedings 
+        shall not be stayed pursuant to this subsection.''.
+
+SEC. 3. RESTORATION OF AIDING AND ABETTING LIABILITY.
+
+    (a) Securities Act of 1933.--Section 20 of the Securities Act of 
+1933 (15 U.S.C. 77t) is amended by adding at the end the following new 
+subsection:
+    ``(g) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (b) and (d), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule or regulation 
+hereunder, shall be deemed to violate such provision to the same extent 
+as the person to whom such assistance is provided. No person shall be 
+liable under this subsection based on an omission or failure to act 
+unless such omission or failure constituted a breach of a duty owed by 
+such person.''.
+    (b) Securities Exchange Act of 1934.--Section 20(e) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78t(e)) is amended to read 
+as follows:
+    ``(e) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d)(1) and (d)(3) of section 21, or an action 
+by a self-regulatory organization, or an express or implied private 
+right of action under this title, any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule or regulation 
+thereunder, shall be deemed to violate such provision and shall be 
+liable to the same extent as the person to whom such assistance is 
+provided. No person shall be liable under this subsection based on an 
+omission or failure to act unless such omission or failure constituted 
+a breach of a duty owed by such person.''.
+    (c) Investment Company Act of 1940.--Section 42 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-41) is amended by adding at the end 
+the following new subsection:
+    ``(f) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d) and (e), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule, regulation, or 
+order hereunder, shall be deemed to violate such provision to the same 
+extent as the person to whom such assistance is provided. No person 
+shall be liable under this subsection based on an omission or failure 
+to act unless such omission or failure constituted a breach of a duty 
+owed by such person.''.
+    (d) Investment Advisers Act of 1940.--Section 209(d) of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-9) is amended--
+            (1) in subsection (d)--
+                    (A) by striking ``or that any person has aided, 
+                abetted, counseled, commanded, induced, or procured, is 
+                aiding, abetting, counseling, commanding, inducing, or 
+                procuring, or is about to aid, abet, counsel, command, 
+                induce, or procure such a violation,''; and
+                    (B) by striking ``or in aiding, abetting, 
+                counseling, commanding, inducing, or procuring any such 
+                act or practice''; and
+            (2) by adding at the end the following new subsection:
+    ``(f) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d) and (e), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule, regulation, or 
+order hereunder, shall be deemed to violate such provision to the same 
+extent as the person to whom such assistance is provided. No person 
+shall be liable under this subsection based on an omission or failure 
+to act unless such omission or failure constituted a breach of duty 
+owed by such person.''.
+
+SEC. 4. DESTRUCTION OF RECORDS; SEPARATION OF FUNCTIONS.
+
+    (a) Audit Requirements.--Section 10A of the Securities Exchange Act 
+of 1934 (15 U.S.C. 78j-1) is amended--
+            (1) by redesignating subsections (e) and (f) as subsections 
+        (g) and (h), respectively; and
+            (2) by inserting after subsection (d) the following new 
+        subsections:
+    ``(e) Destruction of Records.--
+            ``(1) Maintenance of records required.--Any accountant that 
+        conducts an audit of an issuer pursuant to this title to which 
+        subsection (a) applies shall maintain all documents (including 
+        electronic documents) sent, received, or created in connection 
+        with any audit, review, or other engagement for such issuer for 
+        a period of four years from the end of the fiscal period in 
+        which the engagement was concluded.
+            ``(2) Penalty.--In addition to any other sanctions that may 
+        be available, any person who knowingly and willfully violates 
+        paragraph (1) shall be subject to fine and imprisonment to the 
+        same extent as a person violating section 1512(b) of title 18, 
+        United States Code.
+    ``(f) Consideration of Separation of Audit and Non-Audit 
+Functions.--
+            ``(1) Consideration required.--Any accountant that conducts 
+        an audit of an issuer pursuant to this title to which 
+        subsection (a) applies shall, within 60 days after the date of 
+        enactment of the Accountability for Accountants Act of 2002, 
+        initiate a review of--
+                    ``(A) whether that accountant should divest itself 
+                of any interests in non-audit businesses in light of 
+                the inherent potential conflicts of interest in 
+                providing both audit and non-audit services to an 
+                issuer; or
+                    ``(B) whether the accountant should cease providing 
+                non-audit services to those companies whose financial 
+                statements it audits.
+            ``(2) Reports.--Each accountant to which paragraph (1) 
+        applies shall report to the Commission within 12 months after 
+        such date of enactment on whether such accountant has decided 
+        to either divest its non-audit services, or to cease providing 
+        non-audit services to audit clients. The Commission shall 
+        submit a report to Congress on the reports received under the 
+        preceding sentence.''.
+    (b) Preservation of Records During Shareholder Litigation.--
+            (1) Securities act of 1933.--Section 27(b)(2) of the 
+        Securities Act of 1933 (15 U.S.C. 77z-1(b)(2)) is amended by 
+        inserting ``, and the issuer of the securities that are the 
+        subject of such action,'' after ``in the complaint''.
+            (2) Securities exchange act of 1934.--Section 
+        21D(b)(3)(C)(i) of the Securities Act of 1933 (15 U.S.C. 77z-
+        1(b)(3)(C)(i)) is amended by inserting ``, and the issuer of 
+        the securities that are the subject of such action,'' after 
+        ``in the complaint''.
+                                 <all>
+

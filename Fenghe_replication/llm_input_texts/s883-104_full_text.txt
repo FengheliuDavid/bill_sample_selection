@@ -1,0 +1,129 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[S. 883 Introduced in Senate (IS)]
+
+  1st Session
+                                 S. 883
+
+    To amend the Federal Credit Union Act to enhance the safety and 
+ soundness of federally insured credit unions, to protect the National 
+       Credit Union Share Insurance Fund, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                 June 6 (legislative day, June 5), 1995
+
+  Mr. D'Amato (for himself and Mr. Sarbanes) introduced the following 
+ bill; which was read twice and referred to the Committee on Banking, 
+                       Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Federal Credit Union Act to enhance the safety and 
+ soundness of federally insured credit unions, to protect the National 
+       Credit Union Share Insurance Fund, and for other purposes.
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Credit Union Reform and Enhancement 
+Act''.
+
+SEC. 2. INSURED CREDIT UNION INVESTMENTS IN OTHER CREDIT UNIONS.
+
+    (a) Amendments to Section 107.--Section 107(7) of the Federal 
+Credit Union Act (12 U.S.C. 1757(7)) is amended--
+            (1) by striking subparagraph (G); and
+            (2) by redesignating subparagraphs (H) through (K) as 
+        subparagraphs (G) through (J), respectively.
+    (b) Amendment to Section 205.--Section 205 of the Federal Credit 
+Union Act (12 U.S.C. 1785) is amended by adding at the end the 
+following new subsection:
+    ``(j) Insured Credit Union Investments in Other Credit Unions.--An 
+insured credit union may invest in shares, deposits, notes, or other 
+instruments of another credit union only if such other credit union is 
+also insured pursuant to this title.''.
+
+SEC. 3. ACTIVITIES OF INSURED STATE-CHARTERED CREDIT UNIONS.
+
+    Section 205 of the Federal Credit Union Act (12 U.S.C. 1785) is 
+amended by adding at the end the following new subsection:
+    ``(k) Activities of Insured State-Chartered Credit Unions.--
+            ``(1) In general.--A State-chartered insured credit union 
+        may not exercise asset powers of a type, or in an amount, not 
+        authorized for Federal credit unions, unless either--
+                    ``(A) the asset power was--
+                            ``(i) authorized pursuant to the laws of 
+                        the State in which the credit union is 
+                        chartered; and
+                            ``(ii) being utilized by one or more credit 
+                        unions in that State on May 1, 1995; or
+                    ``(B) the Board determines that the exercise of the 
+                asset power would pose no significant risk to the Fund.
+            ``(2) Continued rulemaking authority.--Nothing in this 
+        subsection shall restrict or limit in any way the general 
+        rulemaking authority of the Board.
+            ``(3) Definition.--For purposes of this subsection, the 
+        term `asset powers' refers to any item or activity properly 
+        reflected on the asset side of the financial statements of a 
+        credit union, as may be more specifically defined by regulation 
+        of the Board.''.
+
+SEC. 4. CORPORATE CREDIT UNIONS.
+
+    (a) In General.--Section 120(a) of the Federal Credit Union Act (12 
+U.S.C. 1766(a)) is amended--
+            (1) in the second sentence, by striking ``central credit 
+        union'' and inserting ``corporate credit union''; and
+            (2) by adding at the end the following: ``The Board shall, 
+        by regulation, establish limits on loans and investments by a 
+        corporate credit union to a single obligor and minimum capital 
+        requirements for corporate credit unions.''.
+    (b) Definition.--Section 101 of the Federal Credit Union Act (12 
+U.S.C. 1752) is amended by adding at the end the following new 
+paragraph:
+            ``(10) The term `corporate credit union' has the meaning 
+        given to that term under the rules or regulations of the 
+        Board.''.
+
+SEC. 5. AUTHORITY OF THE NCUA BOARD TO PLACE FEDERALLY INSURED STATE-
+              CHARTERED CREDIT UNIONS INTO LIQUIDATION.
+
+    Section 207(a)(1) of the Federal Credit Union Act (12 U.S.C. 
+1787(a)(1)) is amended--
+            (1) by redesignating subparagraph (B) as subparagraph (C);
+            (2) in subparagraph (C), as redesignated, by striking 
+        ``paragraph (1)'' and inserting ``subparagraph (A) or (B)''; 
+        and
+            (3) by inserting after subparagraph (A) the following new 
+        subparagraph:
+    ``(B) Notwithstanding any other provision of this Act or other law, 
+the Board may, after prior consultation with the appropriate State 
+credit union supervisory authority, appoint itself as a liquidating 
+agent for any State-chartered credit union that is insured under this 
+title, and may close such credit union, if the Board determines that 
+the credit union is insolvent or bankrupt. In any such case, the Board 
+shall have all of the rights, privileges, powers, and duties specified 
+in this section as applicable to the liquidation of Federal credit 
+unions.''.
+
+SEC. 6. CONSULTATION FOR CONSERVATORSHIPS OF FEDERALLY INSURED STATE-
+              CHARTERED CREDIT UNIONS.
+
+    Section 206(h)(2) of the Federal Credit Union Act (12 U.S.C. 
+1786(h)(2)) is amended to read as follows:
+            ``(2) In the case of a State-chartered insured credit 
+        union, the authority conferred by paragraph (1) shall not be 
+        exercised without prior consultation with the appropriate State 
+        credit union supervisory authority.''.
+                                 <all>
+

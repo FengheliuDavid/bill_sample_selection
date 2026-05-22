@@ -1,0 +1,228 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 757 Introduced in House (IH)]
+
+112th CONGRESS
+  1st Session
+                                H. R. 757
+
+To amend the Securities Investor Protection Act of 1970 to confirm that 
+a customer's net equity claim is based on the customer's last statement 
+and that certain recoveries are prohibited, to change how trustees are 
+                   appointed, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 17, 2011
+
+ Mr. Garrett (for himself, Mr. King of New York, and Ms. Ros-Lehtinen) 
+ introduced the following bill; which was referred to the Committee on 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Securities Investor Protection Act of 1970 to confirm that 
+a customer's net equity claim is based on the customer's last statement 
+and that certain recoveries are prohibited, to change how trustees are 
+                   appointed, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Equitable Treatment of Investors 
+Act''.
+
+SEC. 2. SECURITIES INVESTOR PROTECTION ACT OF 1970 AMENDMENTS.
+
+    (a) Net Equity Based on Last Statement.--Section 16(11) of the 
+Securities Investor Protection Act of 1970 (15 U.S.C. 78lll(11)) is 
+amended to read as follows:
+            ``(11) Net equity.--
+                    ``(A) In general.--The term `net equity' means the 
+                dollar amount of the account or accounts of a customer, 
+                to be determined by--
+                            ``(i) calculating the sum which would have 
+                        been owed by the debtor to such customer if the 
+                        debtor had liquidated, by sale or purchase on 
+                        the filing date--
+                                    ``(I) all securities positions of 
+                                such customer (other than customer name 
+                                securities reclaimed by such customer); 
+                                and
+                                    ``(II) all positions in futures 
+                                contracts and options on futures 
+                                contracts held in a portfolio margining 
+                                account carried as a securities account 
+                                pursuant to a portfolio margining 
+                                program approved by the Commission, 
+                                including all property collateralizing 
+                                such positions, to the extent that such 
+                                property is not otherwise included 
+                                herein; minus
+                            ``(ii) any indebtedness of such customer to 
+                        the debtor on the filing date; plus
+                            ``(iii) any payment by such customer of 
+                        such indebtedness to the debtor which is made 
+                        with the approval of the trustee and within 
+                        such period as the trustee may determine (but 
+                        in no event more than sixty days after the 
+                        publication of notice under section 8(a)).
+                    ``(B) Treatment of certain commodity futures 
+                contracts.--A claim for a commodity futures contract 
+                received, acquired, or held in a portfolio margining 
+                account pursuant to a portfolio margining program 
+                approved by the Commission or a claim for a security 
+                futures contract, shall be deemed to be a claim with 
+                respect to such contract as of the filing date, and 
+                such claim shall be treated as a claim for cash.
+                    ``(C) Treatment of accounts held by a customer in 
+                separate capacities.--In determining net equity under 
+                this paragraph, accounts held by a customer in separate 
+                capacities shall be deemed to be accounts of separate 
+                customers.
+                    ``(D) Reliance on final customer statement.--
+                            ``(i) In general.--In determining net 
+                        equity under this paragraph, the positions, 
+                        options, and contracts of a customer held by 
+                        the debtor, and any indebtedness of the 
+                        customer to the debtor, shall be determined 
+                        based on--
+                                    ``(I) the information contained in 
+                                the last statement received by the 
+                                customer from the debtor before the 
+                                filing date; and
+                                    ``(II) any additional specific 
+                                confirmations of the customer's 
+                                positions, options, contracts, or 
+                                indebtedness received after such last 
+                                statement but before the filing date.
+                            ``(ii) Fraud exception.--The provisions of 
+                        this subparagraph shall not apply to any 
+                        customer that--
+                                    ``(I) knew the debtor was involved 
+                                in fraudulent activity with respect to 
+                                any customer of the debtor; or
+                                    ``(II) was a person that--
+                                            ``(aa) was, or was required 
+                                        to be, registered--
+
+                                                    ``(AA) as a broker 
+                                                or dealer under the 
+                                                Securities Exchange Act 
+                                                of 1934; or
+
+                                                    ``(BB) as an 
+                                                investment adviser 
+                                                under the Investment 
+                                                Advisers Act of 1940, 
+                                                or that would have been 
+                                                required to register as 
+                                                an investment adviser 
+                                                under the Investment 
+                                                Advisers Act of 1940 
+                                                but for section 203(m) 
+                                                of such Act;
+
+                                            ``(bb) knew, or, due to the 
+                                        activities of such person 
+                                        causing such person to be 
+                                        described under item (aa), 
+                                        should have known, that the 
+                                        debtor was involved in 
+                                        fraudulent activity with 
+                                        respect to any customer of the 
+                                        debtor; and
+                                            ``(cc) did not notify SIPC, 
+                                        the Commission, or law 
+                                        enforcement personnel that the 
+                                        debtor was involved in such 
+                                        fraudulent activity.''.
+    (b) Prohibition on Certain Recoveries.--
+            (1) In general.--Section 8 of the Securities Investor 
+        Protection Act of 1970 (15 U.S.C. 78fff-2) is amended by adding 
+        at the end the following new subsection:
+    ``(g) Prohibition on Certain Recoveries.--Notwithstanding any other 
+provision of this Act, a trustee may not recover any property 
+transferred by the debtor to a customer before the filing date unless, 
+at the time of such transfer, such customer--
+            ``(1) knew the debtor was involved in fraudulent activity 
+        with respect to any customer of the debtor; or
+            ``(2) was a person that--
+                    ``(A) was, or was required to be, registered--
+                            ``(i) as a broker or dealer under the 
+                        Securities Exchange Act of 1934; or
+                            ``(ii) as an investment adviser under the 
+                        Investment Advisers Act of 1940, or that would 
+                        have been required to register as an investment 
+                        adviser under the Investment Advisers Act of 
+                        1940 but for section 203(m) of such Act;
+                    ``(B) knew, or, due to the activities of such 
+                person causing such person to be described under 
+                subparagraph (A), should have known, that the debtor 
+                was involved in fraudulent activity with respect to any 
+                customer of the debtor; and
+                    ``(C) did not notify SIPC, the Commission, or law 
+                enforcement personnel that the debtor was involved in 
+                such fraudulent activity.''.
+            (2) Construction.--Nothing in this Act, or the amendments 
+        made by this Act, shall be construed as prohibiting a trustee 
+        appointed under the Securities Investor Protection Act of 1970 
+        from recovering property transferred by a debtor to a person 
+        who is not a customer of the debtor.
+    (c) Appointment of Trustees.--
+            (1) In general.--Section 5(b)(3) of the Securities Investor 
+        Protection Act of 1970 (15 U.S.C. 78eee(b)(3)) is amended to 
+        read as follows:
+            ``(3) Appointment of trustee and attorney.--
+                    ``(A) In general.--If the court issues a protective 
+                decree under paragraph (1), such court shall forthwith 
+                appoint, as trustee for the liquidation of the business 
+                of the debtor and as attorney for the trustee, such 
+                persons as the court determines best fit to serve as 
+                trustee and as attorney from among the persons selected 
+                by the Commission pursuant to subparagraph (B). The 
+                persons appointed as trustee and as attorney for the 
+                trustee may be associated with the same firm.
+                    ``(B) Commission candidates.--With respect to a 
+                debtor and upon the court issuing a protective decree 
+                under paragraph (1), the Commission shall forthwith 
+                provide the court with a list of candidates for the 
+                position of trustee and attorney for the trustee for 
+                such debtor.
+                    ``(C) Disinterest requirement.--No person may be 
+                appointed to serve as trustee or attorney for the 
+                trustee if such person is not disinterested within the 
+                meaning of paragraph (6), except that for any specified 
+                purpose other than to represent a trustee in conducting 
+                a liquidation proceeding, the trustee may, with the 
+                approval of SIPC and the court, employ an attorney who 
+                is not disinterested.
+                    ``(D) Qualification.--A trustee appointed under 
+                this paragraph shall qualify by filing a bond in the 
+                manner prescribed by section 322 of title 11, United 
+                States Code.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect with respect to trustees and attorneys 
+        appointed after the date of the enactment of this Act.
+
+SEC. 3. EFFECTIVE DATE.
+
+    Except as provided under section 2(c)(2), the amendments made by 
+section 2 shall take effect with respect to a liquidation proceeding 
+under the Securities Investor Protection Act of 1970 that--
+            (1) was in progress on the date of the enactment of this 
+        Act; or
+            (2) is initiated after the date of the enactment of this 
+        Act.
+                                 <all>
+

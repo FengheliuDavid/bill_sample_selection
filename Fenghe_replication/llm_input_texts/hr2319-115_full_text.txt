@@ -1,0 +1,237 @@
+[Congressional Bills 115th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2319 Reported in House (RH)]
+
+<DOC>
+
+
+
+
+
+                                                 Union Calendar No. 699
+115th CONGRESS
+  2d Session
+                                H. R. 2319
+
+                          [Report No. 115-903]
+
+ To protect the investment choices of investors in the United States, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 3, 2017
+
+ Mr. Rothfus (for himself, Ms. Moore, and Mr. Stivers) introduced the 
+   following bill; which was referred to the Committee on Financial 
+                                Services
+
+                            August 24, 2018
+
+ Additional sponsors: Ms. Sewell of Alabama, Mr. Trott, Mr. Sires, Mr. 
+Messer, Mr. Tiberi, Mr. Ross, Mr. David Scott of Georgia, Ms. Kelly of 
+Illinois, Ms. Eddie Bernice Johnson of Texas, Mr. Moolenaar, Mr. Murphy 
+   of Pennsylvania, Mrs. Beatty, Mr. Meeks, Mr. Michael F. Doyle of 
+ Pennsylvania, Mr. Mooney of West Virginia, Mr. Gonzalez of Texas, Mr. 
+   Williams, Mr. MacArthur, Mr. Pittenger, Mr. Clay, Mr. Thompson of 
+    Pennsylvania, Mr. Cleaver, Ms. Sinema, Mr. Kildee, Mr. Kelly of 
+Pennsylvania, Mr. Sessions, Mr. Ryan of Ohio, Mr. Gottheimer, Mr. Budd, 
+  Mr. Lawson of Florida, Mr. Olson, Mr. Fitzpatrick, Mr. Renacci, Mr. 
+Hastings, Mr. Hill, Mr. Tipton, Mrs. Wagner, Ms. Fudge, Mr. Flores, Mr. 
+ Shuster, Mr. Farenthold, Ms. Jackson Lee, Mr. Dent, Mr. Davidson, Mr. 
+Zeldin, Mr. Sean Patrick Maloney of New York, Mr. Barletta, Mr. Kustoff 
+  of Tennessee, Mr. Barr, Mr. Emmer, Mr. Smith of Texas, Mr. Estes of 
+ Kansas, Mr. Danny K. Davis of Illinois, Mr. Arrington, Mr. Long, Mr. 
+Perry, Mr. Evans, Mr. Brendan F. Boyle of Pennsylvania, Mr. Babin, Mr. 
+Marino, Mr. Brady of Pennsylvania, Mr. Smucker, Mr. Vela, Mr. Faso, Mr. 
+    Donovan, Mr. Higgins of New York, Mr. McCaul, Mr. Norcross, Mr. 
+                Walberg, Mr. Cramer, and Mr. Cartwright
+
+
+                            August 24, 2018
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+[For text of introduced bill, see copy of bill as introduced on May 3, 
+                                 2017]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To protect the investment choices of investors in the United States, 
+                        and for other purposes.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Consumer Financial Choice and 
+Capital Markets Protection Act of 2018''.
+
+SEC. 2. TREATMENT OF MONEY MARKET FUNDS UNDER THE INVESTMENT COMPANY 
+              ACT OF 1940.
+
+    The Investment Company Act of 1940 (15 U.S.C. 80a-1 et seq.) is 
+amended by adding at the end the following:
+
+``SEC. 66. MONEY MARKET FUNDS.
+
+    ``(a) Definitions.--In this section--
+            ``(1) the term `covered Federal assistance' means Federal 
+        assistance used for the purpose of--
+                    ``(A) making any loan to, or purchasing any stock, 
+                equity interest, or debt obligation of, any money 
+                market fund;
+                    ``(B) guaranteeing any loan or debt issuance of any 
+                money market fund; or
+                    ``(C) entering into any assistance arrangement 
+                (including tax breaks), loss sharing, or profit sharing 
+                with any money market fund; and
+            ``(2) the term `Federal assistance' means--
+                    ``(A) insurance or guarantees by the Federal 
+                Deposit Insurance Corporation;
+                    ``(B) transactions involving the Secretary of the 
+                Treasury; or
+                    ``(C) the use of any advances from any Federal 
+                Reserve credit facility or discount window, except to 
+                the extent any part of a program or facility with 
+                broad-based eligibility established in unusual or 
+                exigent circumstances might be made available.
+    ``(b) Election To Be a Stable Value Money Market Fund.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        this title, any open-end investment company (or a separate 
+        series thereof) that is a money market fund that relies on 
+        section 270.2a-7 of title 17, Code of Federal Regulations, may, 
+        in the prospectus included in its registration statement filed 
+        under section 8, state that the company or series has elected 
+        to compute the current price per share, for purposes of 
+        distribution or redemption and repurchase, of any redeemable 
+        security issued by the company or series by using the amortized 
+        cost method of valuation, or the penny-rounding method of 
+        pricing, regardless of whether its shareholders are limited to 
+        natural persons, if--
+                    ``(A) the company or series has as its objective 
+                the generation of income and preservation of capital 
+                through investment in short-term, high-quality debt 
+                securities;
+                    ``(B) the board of directors of the company or 
+                series elects, on behalf of the company or series, to 
+                maintain a stable net asset value per share or stable 
+                price per share, by using the amortized cost valuation 
+                method, as defined in section 270.2a-7(a) of title 17, 
+                Code of Federal Regulations (or successor regulation), 
+                or the penny-rounding pricing method, as defined in 
+                section 270.2a-7(a) of title 17, Code of Federal 
+                Regulations (or successor regulation), and the board of 
+                directors of the company has determined, in good faith, 
+                that--
+                            ``(i) it is in the best interests of the 
+                        company or series, and its shareholders, to do 
+                        so; and
+                            ``(ii) the money market fund will continue 
+                        to use such method or methods only as long as 
+                        the board of directors believes that the 
+                        resulting share price fairly reflects the 
+                        market-based net asset value per share of the 
+                        company or series; and
+                    ``(C) the company or series will comply with such 
+                quality, maturity, diversification, liquidity, and 
+                other requirements, including related procedural and 
+                recordkeeping requirements, as the Commission, by rule 
+                or regulation or order, may prescribe or has prescribed 
+                as necessary or appropriate in the public interest or 
+                for the protection of investors to the extent that such 
+                requirements and provisions are not inconsistent with 
+                this section.
+            ``(2) Exemption from default liquidity fee requirements.--
+                    ``(A) Elections under paragraph (1).--
+                Notwithstanding section 270.2a-7 of title 17, Code of 
+                Federal Regulations (or successor regulation), no 
+                company or series that makes the election under 
+                paragraph (1) shall be subject to the default liquidity 
+                fee requirements of section 270.2a-7(c)(2)(ii) of title 
+                17, Code of Federal Regulations (or successor 
+                regulation) unless the board of directors of such 
+                company or series elects, in the prospectus included in 
+                the registration statement filed under section 8, to be 
+                subject to such requirements.
+                    ``(B) Other funds.--Notwithstanding section 270.2a-
+                7 of title 17, Code of Federal Regulations (or 
+                successor regulation), a company or series that does 
+                not make an election under paragraph (1) shall not be 
+                subject to the default liquidity fee requirements of 
+                section 270.2a-7(c)(2)(ii) of title 17, Code of Federal 
+                Regulations (or successor regulation), if it states in 
+                the prospectus included in the registration statement 
+                filed under section 8, that the company or series 
+                satisfies the provisions of subparagraphs (A) and (C) 
+                of paragraph (1) and that the board of directors of 
+                such company or series has elected for the company or 
+                series to not be subject to the default liquidity fee 
+                requirements.
+    ``(c) Prohibition Against Federal Government Bailouts of Money 
+Market Funds.--Notwithstanding any other provision of law (including 
+regulations), covered Federal assistance may not be provided directly 
+to any money market fund.
+    ``(d) Disclosure of the Prohibition Against Federal Government 
+Bailouts of Money Market Funds.--
+            ``(1) In general.--No principal underwriter of a redeemable 
+        security issued by a money market fund nor any dealer shall 
+        offer or sell any such security to any person unless the 
+        prospectus of the money market fund and any advertising or 
+        sales literature for such fund prominently discloses, on the 
+        first page of such prospectus or literature, the prohibition 
+        against direct covered Federal assistance as described in 
+        subsection (c).
+            ``(2) Rules, regulations, and orders.--The Commission may, 
+        after consultation with and taking into account the views of 
+        the Board of Governors of the Federal Reserve System, the 
+        Federal Deposit Insurance Corporation, and the Department of 
+        the Treasury, adopt rules and regulations and issue orders 
+        consistent with the protection of investors, prescribing the 
+        manner in which the disclosure under this subsection shall be 
+        provided.
+    ``(e) Continuing Obligation To Meet Requirements of This Title.--A 
+company or series that makes an election under subsection (b)(1) shall 
+remain subject to the provisions of this title and the rules and 
+regulations of the Commission thereunder that would otherwise apply if 
+those provisions do not conflict with the provisions of this 
+section.''.
+                                                 Union Calendar No. 699
+
+115th CONGRESS
+
+  2d Session
+
+                               H. R. 2319
+
+                          [Report No. 115-903]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To protect the investment choices of investors in the United States, 
+                        and for other purposes.
+
+_______________________________________________________________________
+
+                            August 24, 2018
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+

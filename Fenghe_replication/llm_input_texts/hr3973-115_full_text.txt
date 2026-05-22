@@ -1,0 +1,91 @@
+[Congressional Bills 115th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3973 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+115th CONGRESS
+  1st Session
+                                H. R. 3973
+
+    To amend the Securities Exchange Act of 1934 to require certain 
+ entities to develop internal risk control mechanisms to safeguard and 
+                   govern the storage of market data.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 5, 2017
+
+  Mr. Davidson (for himself and Mr. Sherman) introduced the following 
+    bill; which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Securities Exchange Act of 1934 to require certain 
+ entities to develop internal risk control mechanisms to safeguard and 
+                   govern the storage of market data.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Market Data Protection Act of 
+2017''.
+
+SEC. 2. INTERNAL RISK CONTROLS.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended--
+            (1) by inserting after section 4E the following:
+
+``SEC. 4F. INTERNAL RISK CONTROLS.
+
+    ``(a) In General.--Each of the following entities, in consultation 
+with the Chief Economist, shall develop comprehensive internal risk 
+control mechanisms to safeguard and govern the storage of all market 
+data by such entity, all market data sharing agreements of such entity, 
+and all academic research performed at such entity using market data:
+            ``(1) The Commission.
+            ``(2) Each national securities association registered 
+        pursuant to section 15A.
+            ``(3) The operator of the consolidated audit trail created 
+        by a national market system plan approved pursuant to section 
+        242.613 of title 17, Code of Federal Regulations (or any 
+        successor regulation).
+    ``(b) Consolidated Audit Trail Prohibited From Accepting Market 
+Data Until Mechanisms Developed.--The operator described in paragraph 
+(3) of subsection (a) may not accept market data (or shall cease 
+accepting market data) until the operator has developed the mechanisms 
+required by such subsection. Any requirement for a person to provide 
+market data to the operator shall not apply during any time when the 
+operator is prohibited by this subsection from accepting such data.
+    ``(c) Treatment of Previously Developed Mechanisms.--The 
+development of comprehensive internal risk control mechanisms required 
+by subsection (a) may occur, in whole or in part, before the date of 
+the enactment of this section, if such development and such mechanisms 
+meet the requirements of such subsection (including consultation with 
+the Chief Economist).''; and
+            (2) in section 3(a)--
+                    (A) by redesignating the second paragraph (80) 
+                (relating to funding portals) as paragraph (81); and
+                    (B) by adding at the end the following:
+            ``(82) Chief economist.--The term `Chief Economist' means 
+        the Director of the Division of Economic and Risk Analysis, or 
+        an employee of the Commission with comparable authority, as 
+        determined by the Commission.''.
+                                 <all>
+

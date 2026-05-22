@@ -1,0 +1,151 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1171 Introduced in House (IH)]
+
+
+
+
+
+
+
+110th CONGRESS
+  1st Session
+                                H. R. 1171
+
+  To direct the Securities and Exchange Commission to revise rules to 
+  provide for the comparable treatment and expanded use of qualified 
+            money market funds for broker-dealer financing.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 16, 2007
+
+   Mr. Meeks of New York (for himself and Mr. Tiberi) introduced the 
+   following bill; which was referred to the Committee on Financial 
+                                Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To direct the Securities and Exchange Commission to revise rules to 
+  provide for the comparable treatment and expanded use of qualified 
+            money market funds for broker-dealer financing.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Money Market Fund Parity Act of 
+2007''.
+
+SEC. 2. MODERNIZATION OF S.E.C. BROKER-DEALER FINANCING RULES.
+
+    (a) Rule Revision Required.--Not later than 90 days after the date 
+of enactment of this Act, the Securities and Exchange Commission, 
+pursuant to its authority under section 15(c) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78o(c)(3)), shall revise Rules 15c3-1, 
+15c3-3, and 15c2-4 (17 C.F.R. 240.15c3-1, 240.15c3-3, 240.15c2-4) to 
+provide for the comparable treatment of securities issued by qualified 
+money market funds with the treatment of other low-risk securities and 
+deposits under such rules, and the expanded use of securities issued by 
+qualified money market funds for financing by brokers and dealers.
+    (b) Required Revisions.--In making the revisions required by 
+subsection (a), the Commission shall revise the requirements--
+            (1) under Rule 15c3-1 relating to net capital, by not 
+        requiring, in the computation of net capital (or any other 
+        capital requirement based on value-at-risk or similar financial 
+        models or systems) any deduction for assets of the broker or 
+        dealer invested in redeemable securities issued by one or more 
+        qualified money market funds;
+            (2) under Rule 15c3-3 relating to custody and use of 
+        customers' securities--
+                    (A) to permit a broker or dealer to use redeemable 
+                securities issued by one or more qualified money market 
+                funds as collateral in complying with any requirement 
+                regarding physical possession or control of fully-paid 
+                or excess margin securities borrowed from any person 
+                under terms no less favorable than the treatment 
+                afforded to any other collateral that the Commission 
+                permits under Rule 15c3-3(b)(3)(iii)(A) (17 C.F.R. 
+                240.15c3-3(b)(3)(iii)(A)) or any successor rule, or by 
+                order; and
+                    (B) to permit a broker or dealer to--
+                            (i) deposit redeemable securities issued by 
+                        one or more qualified money market funds in any 
+                        required special reserve account under terms no 
+                        less favorable than the treatment afforded to 
+                        any other qualified security (as such term is 
+                        defined in Rule 15c3-3(a)(6) (17 C.F.R. 
+                        240.15c3-3(a)(6)) or any successor rule) or by 
+                        order; and
+                            (ii) post as collateral or deposit in any 
+                        required special reserve account redeemable 
+                        securities issued by one or more qualified 
+                        money market funds by pledging such securities 
+                        through the facilities of a clearing agency 
+                        registered under section 17A(b) of the 
+                        Securities Exchange Act of 1934 (15 U.S.C. 78q-
+                        1(b)); and
+            (3) under Rule 15c2-4 in connection with the underwritings 
+        to which Rule 15c2-4(b) applies--
+                    (A) permit a broker or dealer that has obtained 
+                funds through the underwriting or distribution of 
+                securities--
+                            (i) to invest such obtained funds pending 
+                        the specified event or contingency in 
+                        redeemable securities issued by one or more 
+                        qualified money market funds and to deposit 
+                        such obtained funds or redeemable securities in 
+                        a separate bank account; and
+                            (ii) to transmit such obtained funds to a 
+                        bank that has agreed to hold such obtained 
+                        funds in escrow; and
+                    (B) permit the bank to which such obtained funds 
+                are transmitted pursuant to subparagraph (A)(ii) to 
+                invest such obtained funds pending the specified event 
+                or contingency in redeemable securities issued by one 
+                or more qualified money market funds; and
+                    (C) for the purposes of subparagraphs (A) and (B), 
+                permit the broker, dealer, or bank to invest, redeem, 
+                pledge, or receive the pledge of such obtained funds or 
+                such redeemable securities through the facilities of a 
+                clearing agency registered under section 17A(b) of the 
+                Securities Exchange Act of 1934 (15 U.S.C. 78q-1(b)).
+    (c) Definition of Qualified Money Market Fund.--For purposes of the 
+rule revisions required under this Act, the term ``qualified money 
+market fund'' shall be defined by the Commission in such rule 
+revisions, but shall include any open-end management company registered 
+under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-
+8)--
+            (1) which is generally known as a ``money market fund'';
+            (2) which has received the highest money market fund rating 
+        from a nationally recognized statistical rating organization;
+            (3) which has agreed to redeem fund shares in cash, with 
+        payment being made no later than the business day following a 
+        redemption request by a shareholder (except in the event of an 
+        unscheduled closing of Federal Reserve Banks or the unscheduled 
+        closing of one or more national securities exchanges registered 
+        under section 6 of this title (15 U.S.C. 78f); and
+            (4) which has adopted a policy to notify its shareholders 
+        of--
+                    (A) any change in its rating not later than 30 days 
+                after the effective date of such change; and
+                    (B) any change in its policy to redeem fund shares 
+                in cash no later than the business day following a 
+                redemption request by a shareholder as required by 
+                paragraph (3), not less than 60 days prior to such 
+                change taking effect (except in the event of an 
+                unscheduled closing of Federal Reserve Banks or the 
+                unscheduled closing of one or more national securities 
+                exchanges registered under section 6 of this title (15 
+                U.S.C. 78f)).
+                                 <all>
+

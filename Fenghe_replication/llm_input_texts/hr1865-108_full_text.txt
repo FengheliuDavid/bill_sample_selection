@@ -1,0 +1,343 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1865 Introduced in House (IH)]
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                H. R. 1865
+
+  To authorize the Secretary of Housing and Urban Development to make 
+  grants to States, units of general local government, and nonprofit 
+organizations for counseling and education programs for the prevention 
+of predatory lending and to establish a toll-free telephone number for 
+    complaints regarding predatory lending, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 29, 2003
+
+Mr. Scott of Georgia introduced the following bill; which was referred 
+                 to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To authorize the Secretary of Housing and Urban Development to make 
+  grants to States, units of general local government, and nonprofit 
+organizations for counseling and education programs for the prevention 
+of predatory lending and to establish a toll-free telephone number for 
+    complaints regarding predatory lending, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Prevention of Predatory Lending 
+Through Education Act''.
+
+SEC. 2. FINDINGS.
+
+    The Congress finds the following:
+            (1) While expanded access to credit from both prime and 
+        subprime lenders has contributed to the highest homeownership 
+        rates in the Nation's history, there is growing evidence that 
+        some lenders are engaging in predatory lending practices--
+        excessive front-end fees, single-premium credit life insurance, 
+        and exorbitant prepayment penalties--that make homeownership 
+        much more costly for families that can least afford it.
+            (2) Borrowers with fair to good credit ratings may be able 
+        to obtain loans in the ``prime'' mortgage market, with the 
+        lowest interest rates and costs.
+            (3) Borrowers with blemished credit histories obtain 
+        mortgage loans in the ``subprime'' mortgage market, with higher 
+        interest rates and loan fees than are obtainable in the prime 
+        market. Some subprime lenders have been making loans on terms 
+        that are regarded as ``predatory''.
+            (4) Predatory lending involves home mortgages, mortgage 
+        refinancing, home equity loans, and home repair loans with 
+        unjustifiably high interest rates, excessive fees, balloon 
+        payments, prepayment penalties, and the imposition of other 
+        unreasonable, and sometimes fraudulent, terms.
+            (5) Predatory loans are said to have grown rapidly in 
+        minority neighborhoods, often stripping away wealth that may 
+        have taken owners decades or a lifetime to accumulate.
+            (6) Some communities that have lacked access to traditional 
+        institutions were being victimized by second mortgage lenders, 
+        home improvement contractors, and finance companies who peddled 
+        high interest rate home equity loans with high loan fees to 
+        cash-poor homeowners. Borrowers, who may not have fully 
+        understood the terms of the loans, and who may not have been 
+        offered adequate disclosures of the loan terms, often have 
+        struggled to meet overwhelming mortgage payments and too often 
+        ultimately lost their homes through foreclosure.
+            (7) A joint report by the Department of Housing and Urban 
+        Development and the Treasury Department, issued June 21, 2000, 
+        entitled ``Curbing Predatory Home Mortgage Lending'', urged the 
+        Congress to adopt legislation that would restrict abusive terms 
+        and conditions on high-cost loans, prohibit harmful sales 
+        practices in mortgage markets, improve consumer literacy and 
+        disclosures, prohibit government-sponsored enterprises from 
+        purchasing loans with predatory features, and establish 
+        predatory lending as a factor in CRA evaluations.
+            (8) The joint report proposed a four-point plan to address 
+        predatory lending practices, as follows:
+                    (A) To improve consumer literacy and disclosures, 
+                the report recommended requiring lenders to recommend 
+                that applicants for high-cost loans avail themselves of 
+                home mortgage counseling, to disclose credit scores to 
+                all borrowers upon request, and to give borrowers more 
+                timely and more accurate information on loan costs and 
+                terms.
+                    (B) To prohibit harmful sales practices in the 
+                mortgage market, the report recommended the banning of 
+                practices such as loan ``flipping'' and lending to 
+                borrowers without regard to their ability to repay the 
+                loan, imposing new requirements on mortgage brokers to 
+                document the appropriateness of a high-cost loan for 
+                certain applicants, and requiring lenders who report to 
+                credit bureaus to provide ``full-file'' payment history 
+                for their mortgage customers.
+                    (C) To restrict abusive terms and conditions on 
+                high-cost loans, the report recommended that the 
+                Congress increase the number of borrowers in the 
+                subprime market covered by legislative protections, 
+                further restrict balloon payments on high-cost loans, 
+                restrict prepayment penalties and the financing of 
+                points and fees, prohibit mandatory arbitration 
+                agreements on high-cost loans, and ban lump-sum credit 
+                life insurance and similar products.
+                    (D) To improve market structure, the report 
+                recommended the award of credit under the Community 
+                Reinvestment Act of 1977 (CRA) to lenders that promote 
+                borrowers from the subprime to prime mortgage market, 
+                the denial of CRA credit to lenders for the origination 
+                or purchase of loans that violate applicable lending 
+                laws, the disclosure by lenders of the incidence of 
+                high-cost loans in pools of mortgage-backed securities, 
+                and the disclosure of the incidence of such loans in 
+                the offering documents for such securities.
+            (9) A recent study by the Center for Community Change, 
+        entitled ``Risk or Race? Racial Disparities and the Subprime 
+        Refinance Market'' found a geographic concentration of subprime 
+        lending in minority neighborhoods and to borrowers of color at 
+        all income levels.
+            (10) A number of government agencies have become involved 
+        in addressing various aspects of the predatory lending issue in 
+        an attempt to reduce the number of lenders that use high-
+        pressure telemarketing sales techniques and mislead borrowers 
+        about increases in interest rates and monthly payments on 
+        adjustable rate mortgages.
+            (11) Predatory lending threatens to undo the work of many 
+        nonprofit organizations that have worked with lenders and local 
+        governments to improve distressed neighborhoods. More needs to 
+        be done to assist borrowers who already have predatory loans, 
+        to educate consumers about the dangers and pitfalls of entering 
+        into a home loan, and to refer consumers to appropriate 
+        governmental agencies or consumer protection organizations for 
+        assistance.
+
+SEC. 3. GRANT PROGRAM FOR EDUCATION AND COUNSELING REGARDING PREDATORY 
+              LENDING.
+
+    (a) In General.--The Secretary of Housing and Urban Development may 
+make grants under this section to States, units of general local 
+government, and nonprofit organizations, which shall be used only for 
+costs of carrying out eligible anti-predatory lending activities under 
+subsection (b).
+    (b) Eligible Anti-Predatory Lending Activities.--Amounts from a 
+grant under this section may be used only for carrying out the 
+following activities:
+            (1) Education programs.--For education programs to inform 
+        and educate consumers, particularly those most vulnerable to 
+        being taken advantage of by predatory and unscrupulous lending 
+        practices relating to home loans (such as low-income borrowers 
+        and senior citizens), regarding home mortgages, mortgage 
+        refinancing, home equity loans, and home repair loans with 
+        unjustifiably high interest rates, excessive fees, balloon 
+        payments, prepayment penalties, and the imposition of other 
+        unreasonable, and sometimes fraudulent, terms.
+            (2) Counseling programs.--For programs, provided only by 
+        organizations certified by the Secretary as competent to 
+        provide homeownership counseling, that counsel homeowners and 
+        prospective homeowners regarding predatory and unscrupulous 
+        lending practices relating to home loans.
+            (3) Referral services.--For services that provide 
+        referrals, for homeowners and prospective homeowners--
+                    (A) to education and counseling programs described 
+                in paragraphs (1) and (2); or
+                    (B) to appropriate agencies or authorities 
+                responsible for handling consumer complaints, 
+                allegations, or requests for assistance regarding 
+                predatory and unscrupulous lending practices relating 
+                to home loans or for investigating the circumstances 
+                surrounding home loans for possible violations of law.
+    (c) Eligibility and Application.--To be eligible for a grant under 
+this section, a State, unit of general local government, or nonprofit 
+organization shall submit to the Secretary an application for a grant 
+in such form and including such information as the Secretary shall 
+require, which shall include such information as the Secretary 
+considers appropriate to ensure that the grant amounts are used for 
+activities eligible under subsection (b).
+    (d) Maximum Grant Amount.--The maximum amount of grant funds that 
+may be provided under this section to any single grantee for any single 
+fiscal year shall be $1,000,000.
+    (e) Selection of Applicants.--The Secretary shall provide for 
+States, units of general local government, and nonprofit organizations 
+to submit applications for grants under this section. The Secretary 
+shall select applications to receive such grants according to selection 
+criteria, which the Secretary shall establish.
+
+SEC. 4. TOLL-FREE TELEPHONE NUMBER FOR PREDATORY LENDING COMPLAINTS.
+
+    The Secretary shall, using any amounts reserved under section 7(1), 
+provide for the establishment, operation, and publication of a 
+nationwide toll-free telephone number to receive consumer complaints 
+regarding predatory and unscrupulous lending practices relating to home 
+loans, provide information about predatory lending, refer borrowers who 
+already have predatory loans to the appropriate governmental agencies 
+or consumer protection organizations for assistance, and coordinate 
+between existing State and nonprofit community organizations to create 
+a resource database of information for consumers.
+
+SEC. 5. PREDATORY LENDING ADVISORY COUNCIL.
+
+    (a) Establishment.--There is established in the Department of 
+Housing and Urban Development a Predatory Lending Advisory Council (in 
+this section referred to as the ``Council'') to advise the Secretary on 
+policies and issues relating to predatory and unscrupulous lending 
+practices relating to home loans.
+    (b) Membership.--The Council shall be composed of 13 members 
+appointed by the Secretary, who shall include--
+            (1) 4 members who are representatives of community-based 
+        organizations that work with consumers, lenders, and State and 
+        local governments to improve distressed neighborhoods, assist 
+        borrowers who already have predatory loans, educate consumers 
+        about the dangers and pitfalls of entering into a home loan, 
+        and refer consumers to appropriate governmental agencies or 
+        consumer protection organizations for assistance;
+            (2) 3 members who are officials of State agencies or 
+        offices for consumer affairs or consumer protection;
+            (3) 3 members who are private homeowners who are familiar 
+        with home mortgages, mortgage refinancing, home equity loans, 
+        and home repair loans; and
+            (4) 3 members who are representatives of the private real 
+        estate industry, such as realtors, mortgage brokers, and 
+        bankers.
+    (c) Terms and Vacancies.--Members of the Council shall serve terms 
+of two years, except that, of the initial members appointed, half shall 
+serve terms of one year and half shall serve terms of two years. A 
+vacancy in the Council shall be filled in the manner in which the 
+original appointment was made.
+    (d) Travel Expenses.--Members of the Council shall serve without 
+compensation but shall receive travel expenses, including per diem in 
+lieu of subsistence, in accordance with sections 5702 and 5703 of title 
+5, United States Code.
+    (e) Chairperson.--The Secretary shall designate a chairperson of 
+the Council at the time of appointment.
+    (f) Meetings and Hearings.--The Council shall meet upon the call of 
+the chairperson, except that the council shall meet not fewer than 3 
+times per year. The Council shall have the authority, when a majority 
+of the members deem necessary, to hold public hearings and to take 
+testimony and receive evidence from individuals and organizations.
+    (g) Advisory Functions.--The Council shall provide advice to the 
+Secretary regarding--
+            (1) the grant program under section 3, including advice 
+        regarding criteria for selection of applications to receive 
+        grant amounts;
+            (2) the establishment, operation, and publication of the 
+        toll-free telephone number under section 4;
+            (3) coordination of activities of the Secretary regarding 
+        prevention of predatory and unscrupulous lending practices 
+        relating to home loans with such activities of lending 
+        institutions; and
+            (4) any other matters regarding predatory and unscrupulous 
+        lending practices relating to home loans that the Secretary 
+        considers appropriate.
+    (h) Study of Defaults and Foreclosures.--The Council shall conduct 
+an extensive study of the root causes of default and foreclosure of 
+home loans, using as much empirical data as are available. The Council 
+shall submit a report to the Secretary and the Congress, not later than 
+12 months after the full membership of the Council is first appointed, 
+regarding the results of the study, which shall include recommendations 
+for consumer protection legislation regarding predatory and 
+unscrupulous lending practices relating to home loans.
+
+SEC. 6. DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Home loan.--The term ``home loan'' means a loan or 
+        agreement to extend credit made to a natural person, which loan 
+        is secured by a deed to secure debt, security deed, mortgage, 
+        security instrument, deed of trust, or other document 
+        representing a security interest or lien upon any interest in 
+        one- to four-family residential property or a manufactured 
+        home, regardless of where made, including the renewal or 
+        refinancing of any such loan. Such term includes a home equity 
+        line of credit or home improvement loan or other similar 
+        agreement.
+            (2) Nonprofit organization.--The term ``nonprofit 
+        organization'' has the meaning given such term in section 
+        104(5) of the Cranston-Gonzalez National Affordable Housing Act 
+        (42 U.S.C. 12704(5)), except that subparagraph (D) of such 
+        section shall not apply for purposes of this Act.
+            (3) Predatory or unscrupulous lending practice.--The term 
+        ``predatory or unscrupulous lending practice'' includes--
+                    (A) making any loan that--
+                            (i) is solely based on the borrower's home 
+                        equity;
+                            (ii) is made without regard to the 
+                        borrower's ability to repay the obligation; and
+                            (iii) is unaffordable to the borrower, as 
+                        may be evidenced by a failure to fully 
+                        understand the terms of the loans, a failure to 
+                        offer adequate disclosures of the loan terms, a 
+                        difficulty in meeting overwhelming mortgage 
+                        payments, loss of a home through foreclosure, 
+                        or otherwise;
+                    (B) inducing a borrower to refinance a loan 
+                repeatedly and charging additional points and fees, 
+                even though refinancing may not be in the borrower's 
+                interest; and
+                    (C) engaging in fraud or deception to conceal the 
+                true nature of the loan obligation from an unsuspecting 
+                or unsophisticated borrower.
+            (4) Secretary.--The term ``Secretary'' means the Secretary 
+        of Housing and Urban Development.
+            (5) State.--The term ``State'' means each of the several 
+        States, the Commonwealth of Puerto Rico, the District of 
+        Columbia, the Commonwealth of the Northern Mariana Islands, 
+        Guam, the Virgin Islands, American Samoa, the Trust Territories 
+        of the Pacific, or any other possession of the United States.
+            (6) Unit of general local government.--The term ``unit of 
+        general local government'' means any city, town, township, 
+        parish, village, or other general purpose political subdivision 
+        of a State.
+
+SEC. 7. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated for carrying out this Act 
+$55,000,000 for each of fiscal years 2004 through 2008, of which--
+            (1) not more than $2,000,000 in each such fiscal year shall 
+        be for carrying out section 4; and
+            (2) not more than $5,000,000 in each such fiscal year shall 
+        be for carrying out section 5.
+
+SEC. 8. REGULATIONS.
+
+    The Secretary may issue any regulations necessary to carry out this 
+Act.
+                                 <all>
+

@@ -1,0 +1,433 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4170 Introduced in House (IH)]
+
+103d CONGRESS
+  2d Session
+                                H. R. 4170
+
+To amend the Federal Deposit Insurance Act and the Federal Credit Union 
+ Act to require insured depository institutions to include information 
+ on derivative financial instruments in reports of condition, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 12, 1994
+
+ Mr. Gonzalez introduced the following bill; which was referred to the 
+            Committee on Banking, Finance and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Deposit Insurance Act and the Federal Credit Union 
+ Act to require insured depository institutions to include information 
+ on derivative financial instruments in reports of condition, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Derivatives Safety and Soundness Act 
+of 1994''.
+
+SEC. 2. DISCLOSURE OF AMOUNTS, NATURE, AND TERMS OF DERIVATIVE 
+              FINANCIAL INSTRUMENTS IN DEPOSITORY INSTITUTION CALL 
+              REPORTS.
+
+    (a) Insured Depository Institutions.--The Federal Deposit Insurance 
+Act (12 U.S.C. 1811 et seq.) is amended by adding at the end the 
+following new section:
+
+``SEC. 44. DISCLOSURE REQUIREMENTS FOR DERIVATIVE FINANCIAL 
+              INSTRUMENTS.
+
+    ``(a) Information Required To Be Included in Call Reports.--Any 
+report of condition made by any insured depository institution in 
+accordance with section 7(a) with respect to any period beginning after 
+December 31, 1994, shall include the following information:
+            ``(1) Quantitative information with respect to all 
+        derivative financial instruments.--
+                    ``(A) Gross notional and fair value.--The gross 
+                notional value and the gross fair value of any holding, 
+                position, or other interest of the institution in any 
+                derivative financial instrument.
+                    ``(B) Revenue, gains, and losses.--All revenue, 
+                gains, and losses of the institution attributable to 
+                any holding, position, or other interest of the 
+                institution in any derivative financial instrument.
+                    ``(C) Exposure under bilateral netting contract.--
+                The net current credit exposure of the institution 
+                under legally enforceable bilateral arrangements with 
+                respect to any holding, position, or other interest of 
+                the institution in any derivative financial instrument.
+            ``(2) Terms to maturity.--Information on the remaining term 
+        to maturity of any holding, position, or other interest of the 
+        institution in any derivative financial instrument.
+            ``(3) Quantitative information with respect to derivative 
+        financial instruments held for trading purposes.--
+                    ``(A) Average fair value balances.--The average 
+                maximum and minimum fair value balances of the insured 
+                depository institution during the period covered by the 
+                report with respect to any holding, position, or other 
+                interest of the institution in any derivative financial 
+                instrument which is acquired or taken by the 
+                institution for trading purposes.
+                    ``(B) Revenue, gains, and losses.--All revenue, 
+                gains, and losses of the institution attributable to 
+                trading account operations involving any holding, 
+                position, or other interest of the institution in any 
+                derivative financial instrument.
+    ``(b) Requirements Applicable to Reporting Under Subsection (a).--
+            ``(1) Separate reporting for exchange and otc trading.--To 
+        the maximum extent possible, information reported pursuant to 
+        paragraphs (1) and (2) of subsection (a) with respect to 
+        transactions which are conducted on an exchange, and the 
+        holdings, positions, or other interests in derivative financial 
+        instruments which are the subjects of such transactions, shall 
+        be provided separately from information relating to 
+        transactions which are conducted over the counter, and the 
+        holdings, positions, or other interests in derivative financial 
+        instruments which are the subjects of such transactions.
+            ``(2) Exemption by agency prohibited.--A Federal banking 
+        agency may not--
+                    ``(A) exempt any insured depository institution 
+                from the requirements of subsection (a); or
+                    ``(B) allow any exception to any such requirement 
+                with respect to any insured depository institution,
+        unless the agency determines that such exemption or exception 
+        is in the public interest and submits a written notice of such 
+        determination and a detailed description of the reasons for the 
+        determination to the Committee on Banking, Finance and Urban 
+        Affairs of the House of Representatives and the Committee on 
+        Banking, Housing, and Urban Affairs of the Senate at least 30 
+        days before the effective date of the exemption or exception.
+    ``(c) Qualitative Reporting Requirements.--The Federal banking 
+agencies shall take such action as may be appropriate to encourage 
+insured depository institutions to publicly report the following 
+information with such frequency as the agencies determine to be 
+appropriate:
+            ``(1) Nature of derivative financial instruments.--A 
+        description of--
+                    ``(A) the purposes for which any holding, position, 
+                or other interest of the institution in any derivative 
+                financial instrument has been acquired or taken by the 
+                institution during the period since the prior report, 
+                including the specific objectives of the institution;
+                    ``(B) the overall operating and investment 
+                strategies of the institution which provide the context 
+                for acquiring or taking any such holding, position, or 
+                other interest in any derivative financial instrument; 
+                and
+                    ``(C) the manner in which the institution acquires 
+                or takes a holding, position, or other interest in a 
+                derivative financial instrument in furtherance of the 
+                purposes and objectives for such activities.
+            ``(2) Accounting policies and methodology for determining 
+        fair value and other amounts.--A description of the accounting 
+        policy and principles and the methodologies used by the 
+        institution to determine--
+                    ``(A) the fair value of the various types of 
+                holdings, positions, and other interests of the 
+                institution in derivative financial instruments; and
+                    ``(B) any other amount required to be reported 
+                under subsection (a) with respect to any such holding, 
+                position, or other interest.
+    ``(d) Confidential Emergency Management Reporting.--
+            ``(1) In general.--Before the end of the 1-year period 
+        beginning on the date of the enactment of the Derivatives 
+        Safety and Soundness Act of 1994, the Federal banking agencies 
+        shall develop the means to obtain, on a nightly basis, all 
+        necessary information from any insured depository institution, 
+        or any affiliate of any such institution, which is a dealer in 
+        derivative financial instruments or is an active end-user 
+        relating to any activity of such institution or affiliate which 
+        involves derivative financial instruments or any holding, 
+        position, or other interest in a derivative financial 
+        instrument if the agency determines that the agency needs such 
+        information as a result of adverse market conditions or other 
+        emergency situation (as defined by the agency).
+            ``(2) Accessibility of information.--Each insured 
+        depository institution referred to in paragraph (1) shall--
+                    ``(A) obtain such information and make and keep 
+                such records as the appropriate Federal banking agency 
+                may require by regulation for purposes of such 
+                paragraph; and
+                    ``(B) promptly provide to the agency any 
+                information requested by the agency pursuant to such 
+                paragraph.
+            ``(3) Confidentiality of information provided.--No 
+        information provided to or obtained by a Federal banking agency 
+        pursuant to paragraph (1) with respect to any insured 
+        depository institution or any affiliate of any such institution 
+        may be provided to any person or entity other than another 
+        Federal regulatory agency with jurisdiction over the insured 
+        depository institution or affiliate without the prior written 
+        approval of the agency.
+    ``(e) Administrative Provisions.--
+            ``(1) Enhanced regulatory cooperation.--The Federal banking 
+        agencies and the National Credit Union Administration Board 
+        shall jointly develop uniform definitions, reporting 
+        requirements, capital standards, and examination guidelines and 
+        procedures with respect to activities of insured depository 
+        institutions and insured credit unions which involve derivative 
+        financial instruments or to any holding, position, or other 
+        interest of any such institution or credit union in any such 
+        instrument.
+            ``(2) Standardized methodologies for estimating fair 
+        values.--The Federal banking agencies and the National Credit 
+        Union Administration Board shall jointly take such action as 
+        may be appropriate to encourage insured depository institutions 
+        and insured credit unions to develop standard methodologies and 
+        assumptions which may be used in estimating the fair value of 
+        any holding, position, or other interest of any such 
+        institution in any derivative financial instrument for use in 
+        preparing reports of condition.
+            ``(3) Accounting standards.--The Federal banking agencies 
+        and the National Credit Union Administration Board, in 
+        consultation with the Financial Accounting Standards Board, 
+        shall develop and implement accounting standards for derivative 
+        financial instruments which are uniformly applicable to insured 
+        depository institutions and insured credit unions.
+            ``(4) Inclusion of fdic and occ as principals in 
+        interagency task force.--The Secretary of the Treasury shall 
+        include the Chairperson of the Federal Deposit Insurance 
+        Corporation and the Comptroller of the Currency as principals 
+        on any interagency task force or working group dealing with 
+        issues relating to derivative financial institutions.
+    ``(f) Requirements Relating to Directors and Senior Executive 
+Officers.--
+            ``(1) Effective management oversight.--No insured 
+        depository institution may engage in activities involving 
+        derivative financial instruments without a management plan 
+        which ensures that such activities are--
+                    ``(A) conducted with appropriate direct oversight 
+                of the directors and the senior executive officers (as 
+                defined pursuant to section 32(f)) of the institution;
+                    ``(B) conducted in a safe and sound manner; and
+                    ``(C) consistent with the overall risk management 
+                philosophy and the business strategy of the management 
+                of the institution.
+            ``(2) Requirement for directors.--No insured depository 
+        institution may act as a dealer in derivative financial 
+        instruments or as an active end-user unless a sufficient number 
+        of the directors of such institution are familiar with the 
+        risks associated with each holding, position, or other interest 
+        of the institution in any derivative financial instrument and 
+        the total current credit exposure of the institution with 
+        respect to the holdings, positions, and other interests of the 
+        institution in derivative financial instruments and activities 
+        of the institution relating to such holdings, positions, and 
+        other interests.
+            ``(3) Enforcement.--In the case of the failure of any 
+        insured depository institution to comply with the requirements 
+        of this subsection, the appropriate Federal banking agency 
+        shall, in addition to such other enforcement action the agency 
+        may determine to be appropriate--
+                    ``(A) treat the failure as an unsafe or unsound 
+                practice in conducting the business of the institution;
+                    ``(B) issue a notice under section 8(e) to the 
+                chairperson of the board of directors of the 
+                institution, and any other director of the institution 
+                the agency determines to be appropriate, of the 
+                agency's intention to remove the chairperson or other 
+                director from office; and
+                    ``(C) assess a civil penalty under section 8(i)(2) 
+                on any appropriate institution-affiliated party.
+    ``(g) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Active end-user.--
+                    ``(A) In general.--The term `active end-user' means 
+                any insured depository institution or any affiliate of 
+                any insured depository institution which buys or sells 
+                high volumes of derivative financial instruments, or 
+                conducts transactions in a wide variety of derivative 
+                financial instruments, in order to manage the exposure 
+                of the institution or affiliate to individual or 
+                multiple market factors.
+                    ``(B) Other terms.--The terms ``high volumes'' and 
+                ``wide variety of transactions'', as used in 
+                subparagraph (A), shall have the meanings prescribed 
+                for such terms by the appropriate Federal banking 
+                agency by regulation.
+            ``(2) Derivative financial instrument.--The term 
+        `derivative financial instrument' means--
+                    ``(A) an instrument the value of which is derived 
+                from the value of other assets, interest or currency 
+                exchange rates, or indexes, including qualified 
+                financial contracts (as defined in section 11(e)(8)); 
+                and
+                    ``(B) any other instrument which an appropriate 
+                Federal banking agency determines, by regulation or 
+                order, to be a derivative financial instrument for 
+                purposes of this section.''.
+    (b) Insured Credit Unions.--Section 202(a) of the Federal Credit 
+Union Act (12 U.S.C. 1782(a)) is amended by adding at the end the 
+following new paragraph:
+            ``(8) Derivative financial instruments.--
+                    ``(A) In general.--The reports of condition made by 
+                insured credit unions under this section shall include 
+                all the information with respect to derivative 
+                financial instruments which are required, under section 
+                44 of the Federal Deposit Insurance Act, to be included 
+                in reports of condition made by insured depository 
+                institutions (as defined in section 3 of such Act).
+                    ``(B) Applicability of section 44 of the federal 
+                deposit insurance act.--Section 44 of the Federal 
+                Deposit Insurance Act shall apply with respect to 
+                insured credit unions and the Board in the same manner 
+                such section applies to insured depository institutions 
+                and Federal banking agencies (as such terms are defined 
+                in section 3 of such Act) and shall be enforceable by 
+                the Board with respect to insured credit unions under 
+                this Act.''.
+
+SEC. 3. STUDY OF INTERNATIONAL REGULATION AND SUPERVISION OF DERIVATIVE 
+              FINANCIAL INSTRUMENTS.
+
+    (a) In General.--Before the end of the 30-day period beginning on 
+the date of the enactment of this Act, the Secretary of the Treasury 
+shall request a meeting with the appropriate representatives of the 
+other major industrialized countries to plan a study to examine the 
+adequacy of the international regulation and supervision of derivative 
+financial instruments (as defined in section 44(f)(2) of the Federal 
+Deposit Insurance Act).
+    (b) Goals of Study.--The goals of the study as proposed by the 
+Secretary of the Treasury shall be as follows:
+            (1) To foster a greater understanding of the manner in 
+        which derivative financial instruments affect the stability of 
+        the world's financial systems and markets.
+            (2) To examine the adequacy of international regulation and 
+        supervision of derivative financial activities.
+            (3) To make recommendations for improving the international 
+        regulation and supervision of derivative financial activities.
+            (4) To foster greater cooperation between all regulatory 
+        agencies with jurisdiction over derivative financial 
+        activities.
+            (5) To make recommendations for action by the financial 
+        regulators in the respective countries that would facilitate 
+        the safe and sound conduct of entities involved in derivative 
+        financial activities.
+            (6) To evaluate the feasibility of establishing a single 
+        governing body to regulate international derivative financial 
+        activities.
+    (c) Issues to Study.--The Secretary of the Treasury shall propose 
+that the study include the following factors:
+            (1) Identification of the manner in which derivative 
+        financial instruments affect the stability of the world's 
+        financial systems and markets.
+            (2) Identification of the various regulatory entities and 
+        mechanisms that are used to regulate and supervise derivative 
+        financial activities around the world.
+            (3) Analysis of the adequacy of the cooperation between the 
+        various regulatory entities and mechanisms referred to in 
+        paragraph (2).
+            (4) Identification of problems that inhibit the safe and 
+        sound conduct of world-wide derivative financial activities.
+            (5) Analysis of the extent to which derivative financial 
+        activities in countries other than the major industrialized 
+        countries affect the safety and soundness of the world's 
+        financial systems and markets.
+            (6) Identification of uniform accounting and public 
+        reporting standards for derivative financial instruments.
+            (7) Evaluation of the feasibility of establishing a single 
+        governing body to regulate international derivative financial 
+        activities.
+    (d) Utilization of Information and Resources.--The Secretary of the 
+Treasury shall propose that, in conducting the study under this 
+section, the major industrialized countries should--
+            (1) gather information from a wide variety of sources 
+        including government agencies, central banks, market 
+        participants, and the consumers of the derivative financial 
+        instruments; and
+            (2) to the extent feasible, obtain and use information from 
+        the International Monetary Fund, the Bank for International 
+        Settlements, and other multilateral organizations.
+
+SEC. 4. GAO STUDY OF SPECULATION, TRANSACTION TAXES, AND MARGIN 
+              REQUIREMENTS WITH RESPECT TO DERIVATIVE FINANCIAL 
+              INSTRUMENTS.
+
+    (a) Study Required.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a study of the speculative uses of 
+        derivative financial instruments (as defined in section 44 of 
+        the Federal Deposit Insurance Act) and the feasibility of 
+        imposing taxes and margin requirements on speculative 
+        transactions involving derivative financial instruments.
+            (2) Report.--The Comptroller General shall submit a report 
+        on the study conducted pursuant to paragraph (1) to the 
+        Congress before the end of the 18-month period beginning on the 
+        date of the enactment of this Act.
+    (b) Issues Involving Speculative Transactions Involving Derivative 
+Financial Instruments.--In conducting the study under subsection 
+(a)(1), the Comptroller General shall--
+            (1) define the term ``speculation'' as such term is used in 
+        connection with derivative financial instruments;
+            (2) determine the extent to which depository institutions, 
+        including credit unions, use holdings, positions, and other 
+        interests in derivative financial instruments to engage in 
+        speculation for the institution's own trading account; and
+            (3) determine the extent to which depository institutions, 
+        including credit unions, sell holdings, positions, or other 
+        interests in derivative financial instruments to--
+                    (A) speculators such as hedge funds; or
+                    (B) consumers of such financial instruments who are 
+                engaged in the use of such holdings, positions, or 
+                other interests in derivative financial instruments for 
+                purposes other than hedging against risks.
+    (c) Issues Involving Transaction Taxes and Fees.--In conducting the 
+study under subsection (a)(1), the Comptroller General shall--
+            (1) determine the extent to which any holding, position, or 
+        other interest in a derivative financial instrument is subject 
+        to Federal or State transaction tax or fee, the entity imposing 
+        the tax or fee, the purpose of the tax or fee, and the amount 
+        of annual revenue derived from the tax or fee;
+            (2) evaluate the feasibility of imposing a tax or fee on 
+        the acquisition or taking of a holding, position, or other 
+        interest in a derivative financial instrument for speculative 
+        purposes and estimate the revenue which would result from such 
+        a tax or fee; and
+            (3) evaluate the competitive impact of the imposition of a 
+        tax or fee described in paragraph (2).
+    (d) Issues Involving Margin Requirements.--In conducting the study 
+under subsection (a)(1), the Comptroller General shall--
+            (1) determine which holdings, position, or other interests 
+        in a derivative financial instrument are subject to margin 
+        requirements and the amount and purpose of the margin 
+        requirement;
+            (2) determine the extent to which the transactions of 
+        insured depository institutions which involve a holding, 
+        position, or other interest in a derivative financial 
+        instrument are conducted over the counter and evaluate the 
+        feasibility of imposing margin requirements on such 
+        transactions;
+            (3) evaluate the feasibility of imposing margin 
+        requirements on any holding, position, or other interest in a 
+        derivative financial instrument which was acquired or taken for 
+        speculative purposes; and
+            (4) evaluate the competitive impact of imposing margin 
+        requirements on any holding, position, or other interest in a 
+        derivative financial instrument which was acquired or taken for 
+        speculative purposes.
+    (e) Access to Information.--The head of any department or agency of 
+the Federal Government and any insured depository institution shall 
+provide, upon the request of the Comptroller General, such information 
+to the General Accounting Office as the Comptroller General may 
+determine to be appropriate for purposes of carrying out the study 
+required under this section.
+
+                                 <all>
+
+HR 4170 IH----2
+

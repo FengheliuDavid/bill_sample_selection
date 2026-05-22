@@ -1,0 +1,191 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 2192 Introduced in Senate (IS)]
+
+103d CONGRESS
+  2d Session
+                                S. 2192
+
+   To amend the Securities Exchange Act of 1934 with respect to the 
+extension of unlisted trading privileges for corporate securities, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                June 15 (legislative day, June 7), 1994
+
+Mr. Bennett (for himself, Mr. Sasser, Mrs. Feinstein, Mr. Wofford, Ms. 
+  Moseley-Braun, Mr. Domenici, Mr. Faircloth, Mr. Specter, Mr. Simon, 
+ Mrs. Boxer, Mr. Kennedy, and Mr. Bond) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Securities Exchange Act of 1934 with respect to the 
+extension of unlisted trading privileges for corporate securities, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Unlisted Trading Privileges Act of 
+1994''.
+
+SEC. 2. AMENDMENTS TO THE SECURITIES EXCHANGE ACT OF 1934.
+
+    (a) Unlisted Trading Privileges.--Section 12(f) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78l(f)) is amended by striking 
+paragraphs (1) and (2) and inserting the following:
+    ``(f)(1)(A) Notwithstanding the preceding subsections of this 
+section, any national securities exchange, in accordance with the 
+requirements of this subsection and the rules hereunder, may extend 
+unlisted trading privileges to--
+            ``(i) any security that is listed and registered on a 
+        national securities exchange, subject to subparagraph (B); and
+            ``(ii) any security that is otherwise registered pursuant 
+        to this section, or that would be required to be so registered 
+        except for the exemption from registration provided in 
+        subparagraph (B) or (G) of subsection (g)(2), subject to 
+        subparagraph (E) of this paragraph.
+    ``(B) A national securities exchange may not extend unlisted 
+trading privileges to a security described in subparagraph (A)(i) 
+during such interval, if any, after the commencement of an initial 
+public offering of such security, as is or may be required pursuant to 
+subparagraph (C).
+    ``(C) Not later than 180 days after the date of enactment of the 
+Unlisted Trading Privileges Act of 1994, the Commission shall 
+prescribe, by rule or regulation, the duration of the interval referred 
+to in subparagraph (B), if any, as the Commission determines to be 
+necessary or appropriate for the maintenance of fair and orderly 
+markets, the protection of investors and the public interest, or 
+otherwise in furtherance of the purposes of this title. Until the 
+earlier of the effective date of such rule or regulation or 240 days 
+after such date of enactment, such interval shall begin at the opening 
+of trading on the day on which such security commences trading on the 
+national securities exchange with which such security is registered and 
+end at the conclusion of the next day of trading.
+    ``(D) The Commission may prescribe, by rule or regulation such 
+additional procedures or requirements for extending unlisted trading 
+privileges to any security as the Commission deems necessary or 
+appropriate for the maintenance of fair and orderly markets, the 
+protection of investors and the public interest, or otherwise in 
+furtherance of the purposes of this title.
+    ``(E) No extension of unlisted trading privileges to securities 
+described in subparagraph (A)(ii) may occur except pursuant to a rule, 
+regulation, or order of the Commission approving such extension or 
+extensions. In promulgating such rule or regulation or in issuing such 
+order, the Commission--
+            ``(i) shall find that such extension or extensions of 
+        unlisted trading privileges is consistent with the maintenance 
+        of fair and orderly markets, the protection of investors and 
+        the public interest, and otherwise in furtherance of the 
+        purposes of this title;
+            ``(ii) shall take account of the public trading activity in 
+        such securities, the character of such trading, the impact of 
+        such extension on the existing markets for such securities, and 
+        the desirability of removing impediments to and the progress 
+        that has been made toward the development of a national market 
+        system; and
+            ``(iii) shall not permit a national securities exchange to 
+        extend unlisted trading privileges to such securities if any 
+        rule of such national securities exchange would unreasonably 
+        impair the ability of a dealer to solicit or effect 
+        transactions in such securities for its own account, or would 
+        unreasonably restrict competition among dealers in such 
+        securities or between such dealers acting in the capacity of 
+        market makers who are specialists and such dealers who are not 
+        specialists.
+    ``(F) An exchange may continue to extend unlisted trading 
+privileges in accordance with this paragraph only if the exchange and 
+the subject security continue to satisfy the requirements for 
+eligibility under this paragraph, including any rules and regulations 
+issued by the Commission pursuant to this paragraph, except that 
+unlisted trading privileges may continue with regard to securities 
+which had been admitted on such exchange prior to July 1, 1964, 
+notwithstanding the failure to satisfy such requirements. If unlisted 
+trading privileges in a security are discontinued pursuant to this 
+subparagraph, the exchange shall cease trading in that security, unless 
+the exchange and the subject security thereafter satisfy the 
+requirements of this paragraph and the rules issued hereunder.
+    ``(G) For purposes of this paragraph--
+            ``(i) a security is the subject of an initial public 
+        offering if--
+                    ``(I) the offering of the subject security is 
+                registered under the Securities Act of 1933; and
+                    ``(II) the issuer of the security, immediately 
+                prior to filing the registration statement with respect 
+                to the offering, was not subject to the reporting 
+                requirements of section 13 or 15(d) of this title; and
+            ``(ii) an initial public offering of such security 
+        commences at the opening of trading on the day on which such 
+        security commences trading on the national securities exchange 
+        with which such security is registered.
+    ``(2)(A) At any time within 60 days of commencement of trading on 
+an exchange of a security pursuant to unlisted trading privileges, the 
+Commission may summarily suspend such unlisted trading privileges on 
+the exchange. Such suspension shall not be reviewable under section 25 
+of this title and shall not be deemed to be a final agency action for 
+purposes of section 704 of title 5, United States Code. Upon such 
+suspension--
+            ``(i) the exchange shall cease trading in the security by 
+        the close of business on the date of such suspension, or at 
+        such time as the Commission may prescribe by rule or order for 
+        the maintenance of fair and orderly markets, the protection of 
+        investors and the public interest, or otherwise in furtherance 
+        of the purposes of this title; and
+            ``(ii) if the exchange seeks to extend unlisted trading 
+        privileges to the security, the exchange shall file an 
+        application to reinstate its ability to do so with the 
+        Commission pursuant to such procedures as the Commission may 
+        prescribe by rule or order for the maintenance of fair and 
+        orderly markets, the protection of investors and the public 
+        interest, or otherwise in furtherance of the purposes of this 
+        title.
+    ``(B) A suspension under subparagraph (A) shall remain in effect 
+until the Commission, by order, grants approval of an application to 
+reinstate, as described in subparagraph (A)(ii).
+    ``(C) A suspension under subparagraph (A) shall not affect the 
+validity or force of an extension of unlisted trading privileges in 
+effect prior to such suspension.
+    ``(D) The Commission shall not approve an application by a national 
+securities exchange to reinstate its ability to extend unlisted trading 
+privileges to a security unless the Commission finds, after notice and 
+opportunity for hearing, that the extension of unlisted trading 
+privileges pursuant to such application is consistent with the 
+maintenance of fair and orderly markets, the protection of investors 
+and the public interest, and otherwise in furtherance of the purposes 
+of this title. If the application is made to reinstate unlisted trading 
+privileges to a security described in paragraph (1)(A)(ii), the 
+Commission--
+            ``(i) shall take account of the public trading activity in 
+        such security, the character of such trading, the impact of 
+        such extension on the existing markets for such a security, and 
+        the desirability of removing impediments to and the progress 
+        that has been made toward the development of a national market 
+        system; and
+            ``(ii) shall not grant any such application if any rule of 
+        the national securities exchange making application under this 
+        subsection would unreasonably impair the ability of a dealer to 
+        solicit or effect transactions in such security for its own 
+        account, or would unreasonably restrict competition among 
+        dealers in such security or between such dealers acting in the 
+        capacity of marketmakers who are specialists and such dealers 
+        who are not specialists.''.
+    (b) Conforming Amendment.--Section 12(f)(3) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78l(f)(3)) is amended by striking ``The 
+Commission'' and inserting ``Notwithstanding paragraph (2), the 
+Commission''.
+
+                                 <all>
+

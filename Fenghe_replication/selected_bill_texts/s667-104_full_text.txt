@@ -1,0 +1,912 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[S. 667 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+104th CONGRESS
+  1st Session
+                                 S. 667
+
+  To amend the Securities Exchange Act of 1934 in order to reform the 
+  conduct of private securities litigation, to provide for financial 
+        fraud detection and disclosure, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+               April 4 (legislative day, March 27), 1995
+
+ Mr. Bryan (for himself and Mr. Shelby) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Securities Exchange Act of 1934 in order to reform the 
+  conduct of private securities litigation, to provide for financial 
+        fraud detection and disclosure, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Private Securities 
+Enforcement Improvements Act of 1995''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+                 TITLE I--PRIVATE SECURITIES LITIGATION
+
+Sec. 101. Elimination of certain abusive practices and procedural 
+                            reforms.
+Sec. 102. Special requirements for class action complaints; multiple 
+                            securities class actions; procedure for 
+                            selecting lead counsel in class actions; 
+                            early evaluation procedure.
+Sec. 103. Requirements for securities fraud actions.
+Sec. 104. Proportionate liability and contribution.
+Sec. 105. Restoration of aiding and abetting liability.
+Sec. 106. Limitations period for implied private rights of action.
+Sec. 107. Safe harbor for forward-looking statements.
+           TITLE II--FINANCIAL FRAUD DETECTION AND DISCLOSURE
+
+Sec. 201. Financial fraud detection and disclosure.
+
+                 TITLE I--PRIVATE SECURITIES LITIGATION
+
+SEC. 101. ELIMINATION OF CERTAIN ABUSIVE PRACTICES AND PROCEDURAL 
+              REFORMS.
+
+    (a) Receipt for Referral Fees.--Section 15(c) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78o(c)) is amended by adding at the end 
+the following new paragraph:
+            ``(8) Receipt of referral fees.--No broker or dealer, or 
+        person associated with a broker or dealer, may solicit or 
+        accept remuneration for assisting an attorney in obtaining the 
+        representation of any customer in any implied private action 
+        arising under this title.''.
+    (b) Prohibition on Attorneys' Fees Paid From Commission 
+Disgorgement Funds.--Section 21(d) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78u(d)) is amended by adding at the end the following 
+new paragraph:
+            ``(4) Prohibition on attorneys' fees paid from commission 
+        disgorgement funds.--Except as otherwise ordered by the court, 
+        funds disgorged solely as the result of an action brought by 
+        the Commission, or of any Commission proceeding, shall not be 
+        distributed as payment for attorneys' fees or expenses incurred 
+        by private parties seeking distribution of the disgorged 
+        funds.''.
+    (c) Additional Provisions Applicable to Class Actions.--Section 21 
+of the Securities Exchange Act of 1934 (15 U.S.C. 78u) is amended by 
+adding at the end the following new subsections:
+    ``(i) Recovery by Named Plaintiffs in Class Actions.--In an implied 
+private action arising under this title that is certified as a class 
+action pursuant to the Federal Rules of Civil Procedure, the share of 
+any final judgment or of any settlement that is awarded to class 
+plaintiffs serving as the representative parties shall be calculated in 
+the same manner as the shares of the final judgment or settlement 
+awarded to all other members of the class. Nothing in this subsection 
+shall be construed to limit the award to any representative parties of 
+reasonable compensation, costs, and expenses (including lost wages) 
+relating to the representation of the class.
+    ``(j) Conflicts of Interest.--In an implied private action arising 
+under this title that is certified as a class action pursuant to the 
+Federal Rules of Civil Procedure, if a party is represented by an 
+attorney who directly owns or otherwise has a beneficial interest in 
+the securities that are the subject of the litigation, the court shall, 
+upon motion by any party, make a determination of whether such interest 
+constitutes a conflict of interest sufficient to disqualify the 
+attorney from representing the party.
+    ``(k) Restrictions on Secrecy.--
+            ``(1) Restrictions on settlements under seal.--In an 
+        implied private action arising under this title, the terms and 
+        provisions of any settlement agreement between any of the 
+        parties shall not be filed under seal, except that on motion of 
+        any of the parties to the settlement, the court may order 
+        filing under seal for those portions of a settlement agreement 
+        as to which good cause is shown for such filing under seal. 
+        Good cause shall only exist if publication of a term or 
+        provision of a settlement agreement would cause direct and 
+        substantial harm to any person.
+            ``(2) Restrictions on protective orders and sealing of 
+        cases.--In an implied private action arising under this title, 
+        a court may enter an order restricting the disclosure of 
+        information obtained through discovery, or an order restricting 
+        access after entry of final judgment to court records, only 
+        after making particularized findings of fact that such 
+        disclosure or access would cause direct and substantial harm to 
+        the competitive or privacy interests of a person.
+    ``(l) Payment of Attorneys' Fees From Settlement Funds.--In an 
+implied private action arising under this title that is certified as a 
+class action pursuant to the Federal Rules of Civil Procedure, 
+attorneys' fees awarded by the court from a common fund for the class 
+to counsel for the class shall--
+            ``(1) be determined based on--
+                    ``(A) a reasonable percentage of the amount made 
+                available to class members from the common fund; and
+                    ``(B) a reasonable percentage of the value of any 
+                other benefits made available to the class; and
+            ``(2) include reasonable expenses incurred in the 
+        prosecution of the action.
+    ``(m) Disclosure of Settlement Terms to Class Members.--In an 
+implied private action arising under this title that is certified as a 
+class action pursuant to the Federal Rules of Civil Procedure, a 
+proposed or final settlement agreement that is published or otherwise 
+disseminated to the class shall include the following statements, which 
+shall not be admissible for purposes of any Federal or State judicial 
+action or administrative proceeding, other than an action or proceeding 
+arising out of such statements:
+            ``(1) Statement of the benefits of settlement.--A statement 
+        of the total amount of the settlement, fully describing all 
+        proposed payments and non-monetary benefits to the class, and a 
+        schedule setting forth the reasonably anticipated payments to 
+        class members.
+            ``(2) Statement of potential outcome of case.--
+                    ``(A) Agreement on amount of damages and likelihood 
+                of prevailing.--If the settling parties agree on the 
+                amount of damages that would be recoverable if the 
+                plaintiff prevailed on each claim alleged under this 
+                title and the likelihood that the plaintiff would 
+                prevail--
+                            ``(i) a statement concerning the amount of 
+                        such potential damages; and
+                            ``(ii) a statement concerning the 
+                        likelihood that the plaintiff would prevail on 
+                        the claims alleged under this title and a brief 
+                        explanation of the reasons for that conclusion.
+                    ``(B) Disagreement on amount of damages or 
+                likelihood of prevailing.--If the settling parties do 
+                not agree on the amount of damages that would be 
+                recoverable if the plaintiff prevailed on each claim 
+                alleged under this title or on the likelihood that the 
+                plaintiff would prevail on those claims, or both, a 
+                statement concerning the issue or issues on which the 
+                parties disagree.
+            ``(3) Statement of attorneys' fees or costs sought.--If any 
+        of the settling parties or their counsel intend to apply to the 
+        court for an award of attorneys' fees or costs from any fund 
+        established as part of the settlement, a statement indicating 
+        which parties or counsel intend to make such an application, 
+        the amount of fees and costs that will be sought, and a brief 
+        explanation of the basis for the application.
+            ``(4) Identification of representatives.--The name, 
+        telephone number, and address of one or more representatives of 
+        counsel for the class who will be reasonably available to 
+        answer questions from class members concerning any matter 
+        contained in any notice of settlement published or otherwise 
+        disseminated to the class.
+            ``(5) Other information.--Such other information as may be 
+        required by the court.''.
+
+SEC. 102. SPECIAL REQUIREMENTS FOR CLASS ACTION COMPLAINTS; MULTIPLE 
+              SECURITIES CLASS ACTIONS; PROCEDURE FOR SELECTING LEAD 
+              COUNSEL IN CLASS ACTIONS; EARLY EVALUATION PROCEDURE.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by inserting after section 27A the following new section:
+
+``SEC. 27B. SPECIAL PROVISIONS FOR CLASS ACTIONS.
+
+    ``(a) Certification of Complaints.--
+            ``(1) In general.--In an implied private action arising 
+        under this title that is filed as a class action pursuant to 
+        the Federal Rules of Civil Procedure, each plaintiff seeking to 
+        serve as a class representative shall provide a certification 
+        personally signed by the plaintiff to be filed with the 
+        complaint that--
+                    ``(A) states that the plaintiff has reviewed the 
+                complaint and authorized its filing;
+                    ``(B) states that the plaintiff did not purchase 
+                the security that is the subject of the complaint at 
+                the direction of plaintiff's counsel;
+                    ``(C) states that the plaintiff is willing to serve 
+                as a class representative, including providing 
+                testimony at deposition and trial, if necessary;
+                    ``(D) sets forth all of the plaintiffs' 
+                transactions in the security that is the subject of the 
+                complaint during the class period specified in the 
+                complaint;
+                    ``(E) identifies all suits under this title which 
+                the plaintiff has filed as a class action in the prior 
+                12 months; and
+                    ``(F) states that the plaintiff will not accept any 
+                payment for serving as class representative beyond the 
+                plaintiff's pro rata share of any recovery, except as 
+                ordered by the court.
+            ``(2) Non-waiver of attorney-client privilege.--The 
+        certification filed pursuant to paragraph (1) shall not be 
+        construed to be a waiver of the attorney-client privilege.
+    ``(b) Multiple Securities Class Actions.--
+            ``(1) In general.--If more than one implied private action 
+        arising under this title out of substantially the same 
+        transaction or occurrence is filed in one or more Federal 
+        courts, and any person or entity is named as a defendant in 
+        more than one such action, each such action shall be deemed a 
+        multiple securities class action, and the actions shall be 
+        deemed a group of multiple securities class actions.
+            ``(2) Consolidation.--The parties shall promptly call to 
+        the attention of each court in which multiple securities class 
+        actions are filed the other actions in the group of multiple 
+        securities class actions. All the actions in the group of 
+        multiple securities class actions shall be transferred or 
+        consolidated (or both) in the most convenient forum before one 
+        judge as promptly as possible. The Judicial Panel on Multi-
+        District Litigation shall give expedited treatment to 
+        proceedings involving multiple securities class actions to 
+        facilitate their transfer to one district as promptly as 
+        possible.
+            ``(3) Selection of lead counsel.--When multiple securities 
+        class actions are filed, plaintiffs' counsel shall promptly 
+        organize themselves and select lead counsel to direct the 
+        prosecution of the actions, subject to the approval of the 
+        court. If plaintiffs' counsel do not organize themselves, the 
+        court shall promptly designate lead counsel, in no event later 
+        than 45 days after the filing of the first multiple securities 
+        class action. In selecting or designating lead counsel, 
+        plaintiffs' counsel and the court shall not give undue weight 
+        to the order of filing the multiple securities class actions.
+            ``(4) Later-filed cases.--Any multiple securities class 
+        action filed after the case organization period shall be 
+        subject to the decisions taken during the case organization 
+        period.
+    ``(c) Early Evaluation Procedure.--
+            ``(1) In general.--In an implied private action arising 
+        under this title that is filed as a class action pursuant to 
+        the Federal Rules of Civil Procedure, if the class 
+        representatives and each of the other parties to the action 
+        agree and any party so requests, or if the court upon motion of 
+        any party so decides, not later than 60 days after the filing 
+        of the class action, the court shall order an early evaluation 
+        procedure. The period of the early evaluation procedure shall 
+        not extend beyond 150 days after the filing of the first 
+        complaint subject to the procedure.
+            ``(2) Requirements.--During the early evaluation procedure 
+        described under paragraph (1)--
+                    ``(A) defendants shall not be required to answer or 
+                otherwise respond to any complaint;
+                    ``(B) plaintiffs may file a consolidated or amended 
+                complaint at any time and may dismiss the action or 
+                actions at any time without sanction;
+                    ``(C) unless otherwise ordered by the court, no 
+                formal discovery shall occur, except that parties may 
+                propound discovery requests to third parties to 
+                preserve evidence;
+                    ``(D) the parties shall evaluate the merits of the 
+                action under the supervision of a person (hereafter in 
+                this section referred to as the `mediator') agreed upon 
+                by them or designated by the court in the absence of 
+                agreement, which person may be another district court 
+                judge, any magistrate-judge or a special master, each 
+                side having one peremptory challenge of a mediator 
+                designated by the court by filing a written notice of 
+                challenge not later than 5 days after receipt of an 
+                order designating the mediator;
+                    ``(E) the parties shall promptly provide access to 
+                or exchange all nonprivileged documents relating to the 
+                allegations in the complaint or complaints, and any 
+                documents withheld on the grounds of privilege shall be 
+                sufficiently identified so as to permit the mediator to 
+                determine if they are, in fact, privileged; and
+                    ``(F) the parties shall exchange damage studies and 
+                such other expert reports as may be helpful to an 
+                evaluation of the action on the merits, which materials 
+                shall be treated as prepared and used in the context of 
+                settlement negotiations.
+            ``(3) Failure to produce documents.--Any party that fails 
+        to produce documents relevant to the allegations of the 
+        complaint or complaints during the early evaluation procedure 
+        described in paragraph (1) may be sanctioned by the court 
+        pursuant to the Federal Rules of Civil Procedure. 
+        Notwithstanding paragraph (2), subject to review by the court, 
+        the mediator may order the production of evidence by any party 
+        and, to the extent necessary properly to evaluate the case, may 
+        permit discovery of nonparties and depositions of parties for 
+        good cause shown.
+            ``(4) Evaluation by the mediator.--
+                    ``(A) In general.--If, at the end of the early 
+                evaluation procedure described in paragraph (1), the 
+                action has not been voluntarily dismissed or settled, 
+                the mediator shall evaluate the action as being--
+                            ``(i) clearly frivolous, such that it can 
+                        only be further maintained in bad faith; or
+                            ``(ii) clearly meritorious, such that it 
+                        can only be further defended in bad faith; or
+                            ``(iii) described by neither clause (i) nor 
+                        clause (ii).
+                    ``(B) Written evaluation.--An evaluation required 
+                by subparagraph (A) with respect to the claims against 
+                and defenses of each defendant shall be issued in 
+                writing not later than 10 days after the end of the 
+                early evaluation procedure and provided to the parties. 
+                The evaluation shall not be admissible in the action, 
+                and shall not be provided to the court until a motion 
+                for sanctions under paragraph (5) is timely filed.
+            ``(5) Mandatory sanctions.--
+                    ``(A) Clearly frivolous actions.--In an action that 
+                is evaluated under paragraph (4)(A)(i) in which final 
+                judgment is entered against the plaintiff, the 
+                plaintiff or plaintiff's counsel shall be liable to the 
+                defendant for sanctions as awarded by the court, which 
+                may include an order to pay reasonable attorneys' fees 
+                and other expenses, if the court agrees, based on the 
+                entire record, that the action was clearly frivolous 
+                when filed and was maintained in bad faith.
+                    ``(B) Clearly meritorious actions.--In an action 
+                that is evaluated under paragraph (4)(A)(ii) in which 
+                final judgment is entered against the defendant, the 
+                defendant or defendant's counsel shall be liable to the 
+                plaintiff for sanctions as awarded by the court, which 
+                may include an order to pay reasonable attorneys' fees 
+                and other expenses, if the court agrees, based on the 
+                entire record, that the action was clearly meritorious 
+                and was defended in bad faith.
+            ``(6) Extension of early evaluation period.--The period of 
+        the early evaluation procedure described in paragraph (1) may 
+        be extended by stipulation of all parties. At the conclusion of 
+        the period, the action shall proceed in accordance with Federal 
+        Rules of Civil Procedure.
+            ``(7) Fees.--In an implied private action described in 
+        paragraph (1), each side shall bear equally the reasonable fees 
+        and expenses of the mediator agreed upon or designated under 
+        paragraph (2)(D), if the mediator is not a judicial officer.''.
+
+SEC. 103. REQUIREMENTS FOR SECURITIES FRAUD ACTIONS.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by inserting after section 10 the following new section:
+
+``SEC. 10A. REQUIREMENTS FOR SECURITIES FRAUD ACTIONS.
+
+    ``(a) In General.--In any private action arising under section 
+10(b) that is based on a fraudulent statement or fraudulent omission, 
+liability for that statement or omission may be established only upon 
+proof that--
+            ``(1) the defendant directly or indirectly made that 
+        fraudulent statement or omission; and
+            ``(2) the defendant made that fraudulent statement or 
+        fraudulent omission knowingly or recklessly.
+    ``(b) Application.--Subsection (a) does not affect any liability 
+under section 10(b), other than as provided in subsection (a), based on 
+the employment of any device, scheme, or artiface to defraud or on the 
+engagement in any act, practice, or course of business which operates 
+or would operate as a fraud or deceit upon any person.
+    ``(c) Fraudulent Statement.--For purposes of this section, a 
+fraudulent statement is a statement that contains an untrue statement 
+of a material fact, or omits to state a material fact necessary in 
+order to make the statements made, in light of the circumstances in 
+which they were made, not misleading.
+    ``(d) Knowingly.--For purposes of subsection (a), a person makes a 
+fraudulent statement knowingly if the person knew that the statement of 
+a material fact was untrue at the time it was made, or knew that an 
+omitted fact was necessary in order to make the statements made, in 
+light of the circumstances in which they were made, not misleading.
+    ``(e) Recklessly.--For purposes of subsection (a), a person makes a 
+fraudulent statement recklessly if the person, in making the statement 
+is guilty of highly unreasonable conduct that--
+            ``(1) involves not merely simple or even inexcusable 
+        negligence, but an extreme departure from standards of ordinary 
+        care; and
+            ``(2) presents a danger of misleading securities purchasers 
+        or sellers that was either known to the defendant or so obvious 
+        that the defendant must have been aware of it.
+    ``(f) Pleading Requirement.--In any private action described in 
+subsection (a), in which the plaintiff may recover money damages only 
+if it proves that the defendant acted as described in subsection 
+(a)(2), the plaintiff shall allege in its complaint facts suggesting 
+that the defendant made a fraudulent statement or fraudulent omission 
+knowingly or recklessly.
+    ``(g) Fraud on the Market.--The Commission shall, by rule, define 
+the circumstances in which it is and is not appropriate for reliance to 
+be presumed under the fraud on the market theory in any action to which 
+subsection (a) applies. In promulgating such rules, the Commission 
+shall consider--
+            ``(1) whether the issuer and its securities are regularly 
+        reviewed by 2 or more analysts;
+            ``(2) the weekly trading volume of any class of securities 
+        of the issuer of the security;
+            ``(3) the existence of public reports by securities 
+        analysts concerning any class of securities of the issuer of 
+        the security;
+            ``(4) the eligibility of the issuer of the security, under 
+        the rules and regulations of the Commission, to incorporate by 
+        reference its reports made pursuant to section 13 in a 
+        registration statement filed under the Securities Act of 1933 
+        in connection with the sale of equity securities;
+            ``(5) a history of immediate movement of the price of any 
+        class of securities of the issuer of the security caused by the 
+        public dissemination of information regarding unexpected 
+        corporate events or financial releases; and
+            ``(6) any other factors determined by the Commission to be 
+        appropriate.''.
+
+SEC. 104. PROPORTIONATE LIABILITY AND CONTRIBUTION.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by inserting after section 10A (as added by section 103 of this 
+Act) the following new section:
+
+``SEC. 10B. PROPORTIONATE LIABILITY AND CONTRIBUTION.
+
+    ``(a) Proportionate Liability.--
+            ``(1) Special findings.--In all implied private actions 
+        arising under this title involving the fault of more than one 
+        defendant, including third-party defendants, the court, unless 
+        otherwise agreed by all parties, shall instruct the jury to 
+        answer special interrogatories or, if there is no jury, shall 
+        make findings, indicating whether such defendant--
+                    ``(A) acted with a degree of scienter greater than 
+                recklessness; or
+                    ``(B) at the time of the violation of this title 
+                for which liability is claimed, directly or indirectly 
+                controlled a defendant who acted with a degree of 
+                scienter greater than recklessness.
+            ``(2) Allocation of liability.--
+                    ``(A) In general.--
+                            ``(i) Rules of joint and several 
+                        liability.--In all private actions arising 
+                        under this title to which paragraph (1) 
+                        applies, each liable defendant, including 
+                        third-party defendants, as to whom an 
+                        affirmative finding under paragraph (1) has 
+                        been made shall be subject to the rules of 
+                        joint and several liability.
+                            ``(ii) Proportionate liability.--Subject to 
+                        subparagraph (C), each liable defendant to 
+                        which clause (i) does not apply, including 
+                        third-party defendants, shall be 
+                        proportionately liable for his or her equitable 
+                        share of the obligation, as determined in 
+                        accordance with subsection (c)(4).
+                    ``(B) Uncollectible shares.--If, upon motion made 
+                under subsection (c)(5), the court determines that all 
+                or part of the equitable share of a defendant of the 
+                obligation is uncollectible from that defendant, the 
+                court shall reallocate any uncollectible amount among 
+                those defendants who are jointly and severally liable 
+                under subparagraph (A)(i) according to their respective 
+                percentages of fault, as determined in accordance with 
+                subsection (c)(1).
+                    ``(C) Reallocation.--If there are no defendants who 
+                are jointly and severally liable (other than defendants 
+                whose equitable shares are uncollectible) or if, upon 
+                motion made not later than 6 months after reallocation 
+                of an uncollectible amount under subparagraph (B), the 
+                court shall determine that all or part of such 
+                uncollectible amount is uncollectible from defendants 
+                who are jointly and severally liable, the court shall 
+                reallocate any uncollectible amount among the 
+                defendants who are proportionately liable under 
+                subparagraph (A)(ii), according to their respective 
+                percentages of fault as determined in accordance with 
+                subsection (c)(1).
+                    ``(D) Contribution and continuing liability.--A 
+                defendant whose liability is reallocated pursuant to 
+                subparagraph (B) and (C) shall be subject to 
+                contribution under subsection (b) and to any continuing 
+                liability to the plaintiff on the judgment.
+    ``(b) Right to Contribution.--Subject to subsection (f), in an 
+implied private action arising under this title, a right of 
+contribution--
+            ``(1) shall exist between or among 2 or more persons who 
+        are liable upon the same indivisible claim for the same 
+        damages, whether or not judgment has been recovered against all 
+        or any of such persons;
+            ``(2) may be enforced either in the original action or by a 
+        separate action brought for that purpose; and
+            ``(3) shall be based upon the equitable share of each 
+        person of the obligation, as determined in accordance with 
+        subsection (c)(4), except that a defendant who is jointly and 
+        severally liable under subsection (a)(2)(A)(i) shall not be 
+        entitled to contribution for the payment of any amount 
+        reallocated under subsection (a)(2)(B) from any party who is 
+        proportionately liable under subsection (a)(2)(A)(ii), other 
+        than the party whose liability was reallocated.
+    ``(c) Special Findings.--
+            ``(1)  Fault of multiple parties.--In all implied private 
+        actions arising under this title involving the fault of more 
+        than 1 defendant, including third-party defendants and persons 
+        who have been released under subsection (e), the court, unless 
+        otherwise agreed by all parties, shall instruct the jury to 
+        answer special interrogatories or, if there is no jury, shall 
+        make findings indicating--
+                    ``(A) the amount of damages the plaintiff is 
+                entitled to recover; and
+                    ``(B) the percentage of the total fault that is 
+                allocated to each defendant, each third-party 
+                defendant, and each person who has been released from 
+                liability under subsection (e).
+            ``(2) Single party determinations.--For purposes of 
+        paragraph (1), the court may determine that 2 or more persons 
+        are to be treated as a single party.
+            ``(3) Court considerations.--In determining the percentages 
+        of fault for purposes of this subsection, the trier of fact 
+        shall consider both the nature of the conduct of each party at 
+        fault and the extent of the causal relation between the conduct 
+        and the damages claimed.
+            ``(4) Determination and allocation of damages.--The court 
+        shall determine the award of damages to the plaintiff in 
+        accordance with its findings, subject to any reduction under 
+        subsection (e), and shall enter judgment against each liable 
+        defendant and third-party defendant on the basis of the rules 
+        of joint and several liability or, if applicable, as set forth 
+        in subsection (a). For purposes of allocation of liability 
+        under subsection (a)(2), and contribution under subsections (b) 
+        and (d), the court shall also determine and state in the 
+        judgment the equitable share of each party of the obligation in 
+        accordance with the respective percentages of fault assigned to 
+        each party.
+            ``(5) Determination of collectibility.--Upon motion made 
+        not later than 6 months after judgment is entered in an action 
+        arising under this title, the court shall determine whether all 
+        or part of the equitable share of a party of the obligation is 
+        uncollectible from that party and, except as otherwise provided 
+        in subsection (a)(2), shall reallocate any uncollectible amount 
+        among the other parties according to their respective 
+        percentages of fault. A party whose liability is reallocated 
+        shall be subject to contribution and to any continuing 
+        liability to the plaintiff on the judgment.
+    ``(d) Enforcement of Contribution.--
+            ``(1) In general.--In an implied private action arising 
+        under this title, if the proportionate fault of the parties to 
+        a claim for contribution--
+                    ``(A) has been established previously by the court, 
+                as provided by subsection (c), a party paying more than 
+                its equitable share of the obligation, upon motion, may 
+                recover judgment for contribution; or
+                    ``(B) has not been established by the court, 
+                contribution may be enforced in a separate action, 
+                whether or not a judgment has been rendered against 
+                either the person seeking contribution or the person 
+                from whom contribution is being sought.
+            ``(2) Timing.--In an implied private action arising under 
+        this title--
+                    ``(A) if a judgment has been rendered, an action 
+                for contribution shall be commenced not later than 1 
+                year after the date on which the judgment becomes 
+                final; or
+                    ``(B) if no judgment has been rendered, a person 
+                bringing an action for contribution shall--
+                            ``(i) discharge by payment the common 
+                        liability within the period of the statute of 
+                        limitations applicable to the plaintiff's right 
+                        of action and commence the action for 
+                        contribution not later than 1 year after the 
+                        date on which such payment is made; or
+                            ``(ii) agree while the action is pending, 
+                        to discharge the common liability and, not 
+                        later than 1 year after the date of the 
+                        agreement, pay the liability and commence an 
+                        action for contribution.
+    ``(e) Effect of Release.--A release, covenant not to sue, or 
+similar agreement entered into by a plaintiff and a person liable, 
+shall discharge that person from all liabilities for contribution, but 
+shall not discharge any other persons liable upon the same claim unless 
+the agreement so provides. Upon such release, covenant not to sue, or 
+similar agreement, the claim of the releasing person against other 
+persons shall be reduced by the amount paid to the releasing person in 
+consideration of such release, covenant not to sue, or similar 
+agreement.
+    ``(f) Encouragement of Finality in Settlement Discharge.--
+            ``(1) Discharge.--A defendant who, in good faith, settles 
+        any private action brought under this title at any time before 
+        verdict or judgment is rendered shall be discharged from all 
+        claims for contribution brought by other persons. Upon entry of 
+        the settlement by the court, the court shall enter a bar order 
+        constituting the final discharge of all obligations to the 
+        plaintiff of the settling defendant arising out of the action. 
+        The order shall bar all future claims for contribution or 
+        indemnity arising out of the action--
+                    ``(A) by nonsettling persons against the settling 
+                defendant; and
+                    ``(B) by the settling defendant against any 
+                nonsettling defendants.
+            ``(2) Reduction.--If a person enters into a settlement with 
+        the plaintiff prior to verdict or judgment rendered in any 
+        private action brought under this title, the verdict or 
+        judgment shall be reduced by the amount paid to the plaintiff 
+        by that person.''.
+
+SEC. 105. RESTORATION OF AIDING AND ABETTING LIABILITY.
+
+    (a) Securities Act of 1933.--Section 20 of the Securities Act of 
+1933 (15 U.S.C. 77t) is amended by adding at the end the following new 
+subsection:
+    ``(f) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (b) and (d), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule or regulation 
+promulgated under this title, shall be deemed to violate such provision 
+to the same extent as the person to whom such assistance is provided. 
+No person shall be liable under this subsection based on an omission or 
+failure to act unless such omission or failure constituted a breach of 
+a duty owed by such person.''.
+    (b) Securities Exchange Act of 1934.--Section 20 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78t) is amended--
+            (1) by adding at the end the following new subsection:
+    ``(e) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d)(1) and (d)(3) of section 21, or an action 
+by a self-regulatory organization, or an express or implied private 
+right of action arising under this title, any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule or regulation 
+promulgated under this title, shall be deemed to violate such provision 
+and shall be liable to the same extent as the person to whom such 
+assistance is provided. No person shall be liable under this subsection 
+based on an omission or failure to act unless such omission or failure 
+constituted a breach of a duty owed by such person.''; and
+            (2) by striking the heading of such section and inserting 
+        the following:
+
+``SEC. 20. LIABILITY OF CONTROLLING PERSONS AND PERSONS WHO AID OR ABET 
+              VIOLATIONS.''.
+
+    (c) Investment Company Act of 1940.--Section 42 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-41) is amended by adding at the end 
+the following new subsection:
+    ``(f) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d) and (e), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule, regulation, or 
+order promulgated under this title, shall be deemed to violate such 
+provision to the same extent as the person to whom such assistance is 
+provided. No person shall be liable under this subsection based on an 
+omission or failure to act unless such omission or failure constituted 
+a breach of a duty owed by such person.''.
+    (d) Investment Advisers Act of 1940.--Section 209(d) of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-9) is amended--
+            (1) in subsection (d)--
+                    (A) by striking ``or that any person has aided, 
+                abetted, counseled, commanded, induced, or procured, is 
+                aiding, abetting, counseling, commanding, inducing, or 
+                procuring, or is about to aid, abet, counsel, command, 
+                induce, or procure such a violation,''; and
+                    (B) by striking ``or in aiding, abetting, 
+                counseling, commanding, inducing, or procuring any such 
+                act or practice''; and
+            (2) by adding at the end the following new subsection:
+    ``(f) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d) and (e), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule, regulation, or 
+order promulgated under this title, shall be deemed to violate such 
+provision to the same extent as the person to whom such assistance is 
+provided. No person shall be liable under this subsection based on an 
+omission or failure to act unless such omission or failure constituted 
+a breach of duty owed by such person.''.
+
+SEC. 106. LIMITATIONS PERIOD FOR IMPLIED PRIVATE RIGHTS OF ACTION.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by adding at the end the following new section:
+
+``SEC. 36. LIMITATIONS PERIOD FOR IMPLIED PRIVATE RIGHTS OF ACTION.
+
+    ``(a) In General.--Except as otherwise provided in this title, an 
+implied private right of action arising under this title shall be 
+brought not later than the earlier of--
+            ``(1) 5 years after the date on which the alleged violation 
+        occurred; or
+            ``(2) 2 years after the date on which the alleged violation 
+        was discovered.
+    ``(b) Effective Date.--The limitations period provided by this 
+section shall apply to all proceedings commenced after the date of 
+enactment of this section.''.
+
+SEC. 107. SAFE HARBOR FOR FORWARD-LOOKING STATEMENTS.
+
+    (a) Rulemaking.--Not later than 12 months after the date of 
+enactment of this Act, the Commission shall adopt rules or regulations 
+(or amend the rules or regulations in effect on the date of enactment 
+of this Act), to provide one or more safe harbors for such forward-
+looking information, as that term is defined by the Commission, as the 
+Commission may designate, having due regard for the public interest and 
+the protection of investors.
+    (b) Criteria.--Rules or regulations adopted (or amended) pursuant 
+to subsection (a) shall specify with respect to a safe harbor--
+            (1) the forward-looking information or classes of forward-
+        looking information to be covered by the safe harbor;
+            (2) the securities or classes of securities to be covered 
+        by the safe harbor;
+            (3) the issuers of or classes of issuers of securities or 
+        other persons to whom the safe harbor shall apply, as 
+        appropriate;
+            (4) the criteria the Commission determines to be necessary 
+        and appropriate in the public interest and for the protection 
+        of investors by which such forward-looking information may be 
+        included in the safe harbor; and
+            (5) the provisions of the Securities Act of 1933 and the 
+        Securities Exchange Act of 1934 to which the safe harbor shall 
+        apply.
+    (c) Report.--
+            (1) Submission.--Not later than 30 days after the date of 
+        adoption of the rules described in subsection (a), the 
+        Commission shall submit a report to the Committee on Commerce 
+        of the House of Representatives and the Committee on Banking, 
+        Housing, and Urban Affairs of the Senate describing such rules.
+            (2) Contents.--The report required by paragraph (1) shall 
+        include a description of--
+                    (A) the procedures to be followed by the court for 
+                making a summary determination early in a judicial 
+                proceeding of the applicability of any rule of the 
+                Commission to forward-looking statements in order--
+                            (i) to limit litigation and discovery; and
+                            (ii) to promote timely dismissal of claims 
+                        against issuers of securities based on such 
+                        forward-looking statements if such statements 
+                        are in accordance with the rules and 
+                        regulations of the Commission;
+                    (B) the steps that the Commission is undertaking to 
+                provide clear guidance to issuers of securities and the 
+                judiciary regarding the rules prescribed pursuant to 
+                subsection (a); and
+                    (C) any legislative recommendations relating to 
+                forward-looking statements that the Commission 
+                determines to be appropriate.
+    (d) Securities Exchange Act Amendment.--The Securities Exchange Act 
+of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end the 
+following new section:
+
+``SEC. 37. APPLICATION OF SAFE HARBOR FOR FORWARD-LOOKING STATEMENTS.
+
+    ``(a) In General.--In any implied private action arising under this 
+title that alleges that a forward-looking statement concerning the 
+future economic performance of an issuer registered under section 12 
+was materially false or misleading, if a party making a motion in 
+accordance with subsection (b) requests a stay of discovery concerning 
+the claims or defenses related to such statement of that party, the 
+court shall grant such a stay until it has ruled on any such motion.
+    ``(b) Summary Judgment Motions.--Subsection (a) shall apply to any 
+motion for summary judgment made by a defendant asserting that the 
+forward-looking statement was within the coverage of any rule which the 
+Commission may have adopted concerning such predictive statements, if 
+such motion is made not later than 60 days after the plaintiff 
+commences discovery in the action.
+    ``(c) Dilatory Conduct; Duplicative Discovery.--Notwithstanding 
+subsection (a) or (b), the time permitted for a plaintiff to conduct 
+discovery under subsection (b) may be extended, or a stay of the 
+proceedings may be denied, if the court finds that--
+            ``(1) the defendant making a motion described in subsection 
+        (b) engaged in dilatory or obstructive conduct in taking or 
+        opposing any discovery; or
+            ``(2) a stay of discovery pending a ruling on a motion 
+        under subsection (b) would be substantially unfair to the 
+        plaintiff or other parties to the action.''.
+
+           TITLE II--FINANCIAL FRAUD DETECTION AND DISCLOSURE
+
+SEC. 201. FINANCIAL FRAUD DETECTION AND DISCLOSURE.
+
+    (a) Amendments to the Securities Exchange Act of 1934.--The 
+Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by 
+inserting after section 13 the following new section:
+
+``SEC. 13A. FRAUD DETECTION AND DISCLOSURE.
+
+    ``(a) Audit Requirements.--Each audit required pursuant to this 
+title of an issuer's financial statements by an independent public 
+accountant shall include, in accordance with generally accepted 
+auditing standards, as may be modified or supplemented by the 
+Commission--
+            ``(1) procedures designed to provide reasonable assurance 
+        of detecting illegal acts that would have a direct and material 
+        effect on the determination of financial statement amounts;
+            ``(2) procedures designed to identify related party 
+        transactions that are material to the financial statements or 
+        otherwise require disclosure therein; and
+            ``(3) an evaluation of whether there is substantial doubt 
+        about the issuer's ability to continue as a going concern 
+        during the ensuing fiscal year.
+    ``(b) Required Response to Audit Discoveries.--
+            ``(1) Investigation and report to management.--If, in the 
+        course of conducting any audit pursuant to this title to which 
+        subsection (a) applies, the independent public accountant 
+        detects or otherwise becomes aware of information indicating 
+        that an illegal act (whether or not perceived to have a 
+        material effect on the issuer's financial statements) has or 
+        may have occurred, the accountant shall, in accordance with 
+        generally accepted auditing standards, as may be modified or 
+        supplemented by the Commission--
+                    ``(A) determine whether it is likely that an 
+                illegal act has occurred, and if so, determine and 
+                consider the possible effect of the illegal act on the 
+                financial statements of the issuer, including any 
+                contingent monetary effects, such as fines, penalties, 
+                and damages; and
+                    ``(B) as soon as practicable, inform the 
+                appropriate level of the issuer's management and assure 
+                that the issuer's audit committee, or the issuer's 
+                board of directors in the absence of such a committee, 
+                is adequately informed with respect to illegal acts 
+                that have been detected or have otherwise come to the 
+                attention of such accountant in the course of the 
+                audit, unless the illegal act is clearly 
+                inconsequential.
+            ``(2) Response to failure to take remedial action.--If, 
+        having first assured itself that the audit committee of the 
+        board of directors of the issuer or the board of directors (in 
+        the absence of an audit committee) is adequately informed with 
+        respect to illegal acts that have been detected or have 
+        otherwise come to the attention of the independent public 
+        accountant in the course of such accountant's audit, the 
+        independent public accountant concludes that--
+                    ``(A) any such illegal act has a material effect on 
+                the financial statements of the issuer;
+                    ``(B) senior management of the issuer have not 
+                taken, and the board of directors has not caused senior 
+                management to take, timely and appropriate remedial 
+                actions with respect to such illegal act; and
+                    ``(C) the failure to take remedial action is 
+                reasonably expected to warrant departure from a 
+                standard auditor's report, when made, or warrant 
+                resignation from the audit engagement,
+        the independent public accountant shall, as soon as 
+        practicable, directly report its conclusions to the board of 
+        directors of the issuer.
+            ``(3) Notice to commission; response to failure to 
+        notify.--An issuer whose board of directors has received a 
+        report pursuant to paragraph (2) shall inform the Commission by 
+        notice not later than 1 business day after receipt of such 
+        report, and shall furnish the independent public accountant 
+        making such report with a copy of the notice furnished to the 
+        Commission. If the independent public accountant making such 
+        report does not receive a copy of such notice within the 
+        required one-business-day period, the independent public 
+        accountant shall--
+                    ``(A) resign from the engagement; or
+                    ``(B) furnish to the Commission a copy of its 
+                report (or the documentation of any oral report given) 
+                not later than 1 business day after such failure to 
+                receive notice.
+            ``(4) Report after resignation.--An independent public 
+        accountant electing resignation under paragraph (3)(A) shall, 
+        not later than 1 business day after a failure by an issuer to 
+        notify the Commission under paragraph (3), furnish to the 
+        Commission a copy of the accountant's report (or the 
+        documentation of any oral report given).
+    ``(c) Auditor Liability Limitation.--No independent public 
+accountant shall be liable in a private action for any finding, 
+conclusion, or statement expressed in a report made pursuant to 
+paragraph (3) or (4) of subsection (b), including any rules promulgated 
+pursuant to those provisions.
+    ``(d) Civil Penalties in Cease-and-Desist Proceedings.--If the 
+Commission finds, after notice and opportunity for hearing in a 
+proceeding instituted pursuant to section 21C, that an independent 
+public accountant has willfully violated paragraph (3) or (4) of 
+subsection (b), the Commission may, in addition to entering an order 
+under section 21C, impose a civil penalty against the independent 
+public accountant and any other person that the Commission finds was a 
+cause of such violation. The determination whether to impose a civil 
+penalty, and the amount of any such penalty, shall be governed by the 
+standards set forth in section 21B.
+    ``(e) Preservation of Existing Authority.--Except as provided in 
+subsection (d), nothing in this section limits or otherwise affects the 
+authority of the Commission under this title.
+    ``(f) Definition.--As used in this section, the term `illegal act' 
+means any action or omission that violates any law, or any rule or 
+regulation having the force of law.''.
+    (b) Effective Dates.--Section 13A of the Securities Exchange Act of 
+1934, as added by subsection (a) of this section, shall apply to any 
+person registered under that Act that is required to file selected 
+quarterly financial data pursuant to the rules of the Commission for 
+all such reports for any period beginning on or after January 1, 1996. 
+Such section shall apply to such reports filed by any other person 
+registered under that Act for any period beginning on or after January 
+1, 1997.
+                                 <all>
+S 667 IS----2
+S 667 IS----3
+

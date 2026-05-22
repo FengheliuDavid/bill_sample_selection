@@ -1,0 +1,137 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5474 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 5474
+
+  To amend the Gramm-Leach-Bliley Act to further protect customers of 
+ financial institutions whose identities are stolen from the financial 
+                  institution, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 26, 2002
+
+  Mr. Kleczka (for himself and Mr. Ryan of Wisconsin) introduced the 
+   following bill; which was referred to the Committee on Financial 
+                                Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Gramm-Leach-Bliley Act to further protect customers of 
+ financial institutions whose identities are stolen from the financial 
+                  institution, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Identity Theft Consumer Notification 
+Act''.
+
+SEC. 2. FINANCIAL INSTITUTION'S OBLIGATION TO PROMPTLY NOTIFY AND 
+              ASSIST CUSTOMERS WHOSE PERSONAL INFORMATION IS 
+              COMPROMISED.
+
+    (a) Prompt Notice and Assistance.--Section 503(b) of the Gramm-
+Leach-Bliley Act (15 U.S.C. 6803(b)) is amended--
+            (1) by striking ``and'' at the end of paragraph (3);
+            (2) by striking the period at the end of paragraph (4) and 
+        inserting ``; and''; and
+            (3) by inserting after paragraph (4) the following new 
+        paragraph:
+            ``(5) a statement that, upon discovering that the 
+        confidentiality or security of any nonpublic personal 
+        information maintained by the financial institution with 
+        respect to consumer has been compromised in any way by an 
+        employee of the financial institution, or through any 
+        unauthorized entry into the records of the financial 
+        institution, the financial institution is obligated--
+                    ``(A) to promptly notify the consumer of the 
+                compromise of the security or confidentiality of such 
+                information, and any misuse of such information, that 
+                the financial institution discovers or reasonably 
+                should discover has occurred;
+                    ``(B) to provide assistance to the consumer to 
+                remedy any such compromise, including the duty of the 
+                financial institution under the Fair Credit Reporting 
+                Act to correct and update information contained in a 
+                consumer report relating to such consumer;
+                    ``(C) to reimburse the consumer for any losses the 
+                consumer incurred as a result of the compromise of the 
+                security or confidentiality of such information, and 
+                any misuse of such information, including any fees for 
+                obtaining, investigating, and correcting a consumer 
+                report of such consumer at any consumer reporting 
+                agency; and
+                    ``(D) to provide information concerning the manner 
+                in which the consumer can obtain such assistance.''.
+    (b) Waiver of Disclosure at Request of Law Enforcement Agency For 
+Limited Time.--Section 503 of the Gramm-Leach-Bliley Act (15 U.S.C. 
+6803) is amended by adding at the end the following new subsection:
+    ``(c) Waiver of Disclosure at Request of Law Enforcement Agency For 
+Limited Time.--A financial institution may delay notifying a consumer 
+that the confidentiality or security of any nonpublic personal 
+information of the consumer maintained by the financial institution has 
+been compromised at the request of a law enforcement agency 
+investigating such violation for such limited period of time as the law 
+enforcement agency determines is essential for carrying out the 
+investigation.''.
+    (c) Penalties For Failure to Notify Customers of Identity Theft.--
+Section 503 of the Gramm-Leach-Bliley Act (15 U.S.C. 6803) is amended 
+by inserting after subsection (c) (as added by subsection (b) of this 
+section) the following new subsection:
+    ``(d) Penalties For Failure to Notify and Assist Customers After 
+Identity Theft.--The failure of any financial institution to promptly 
+notify any consumer that the confidentiality or security of any 
+nonpublic personal information of the consumer maintained by the 
+financial institution has been compromised in any way by an employee of 
+the financial institution or through any unauthorized entry into the 
+records of the financial institution, to provide assistance to such 
+consumer, or to reimburse the consumer for any loss or fee described 
+subsection (b)(5)(C) shall be treated as a violation of--
+            ``(1) this title for purposes of enforcement actions 
+        required under section 505; and
+            ``(2) the requirements of section 623(a)(2) of the Fair 
+        Credit Reporting Act to correct and update information 
+        concerning the consumer in a consumer report at a consumer 
+        reporting agency.''.
+
+SEC. 3. ADDITIONAL PROTECTION FOR VICTIMS OF IDENTITY THEFT.
+
+    Section 618 of the Fair Credit Reporting Act (15 U.S.C. 1681p) is 
+amended to read as follows:
+
+``SEC. 618. JURISDICTION OF COURTS; LIMITATIONS OF ACTIONS.
+
+    ``(a) In General.--An action to enforce any liability created under 
+this title may be brought in any appropriate United States district 
+court, without regard to the amount in controversy, or in any other 
+court of competent jurisdiction, not later than 2 years after the date 
+on which the violation is discovered or should have been discovered by 
+the exercise of reasonable diligence.
+    ``(b) Willful Misrepresentation.--The limitations period prescribed 
+in subsection (a) shall be tolled during any period during which a 
+defendant has materially and willfully misrepresented any information 
+required under this title to be disclosed to an individual, and the 
+information so misrepresented is material to the establishment of the 
+liability of the defendant to that individual under this title.''.
+                                 <all>
+

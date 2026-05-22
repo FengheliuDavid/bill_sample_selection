@@ -1,0 +1,492 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 467 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 467
+
+To amend the Commodity Exchange Act to provide a conditional exemption 
+for certain transactions involving professional markets, to clarify the 
+effect of the designation of a board of trade as a contract market, to 
+    simplify the process for implementing contract market rules, to 
+ regulate audit trail requirements, to establish cost-benefit analysis 
+ requirements, to combat fraud in transactions in or involving foreign 
+                   currency, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 21, 1997
+
+  Mr. Ewing introduced the following bill; which was referred to the 
+                        Committee on Agriculture
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Commodity Exchange Act to provide a conditional exemption 
+for certain transactions involving professional markets, to clarify the 
+effect of the designation of a board of trade as a contract market, to 
+    simplify the process for implementing contract market rules, to 
+ regulate audit trail requirements, to establish cost-benefit analysis 
+ requirements, to combat fraud in transactions in or involving foreign 
+                   currency, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Commodity Exchange 
+Act Amendments of 1997''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+           TITLE I--ADMINISTRATION OF COMMODITY EXCHANGE ACT
+
+Sec. 101. Findings and purposes.
+Sec. 102. Conditional exemption from Commodity Exchange Act for certain 
+                            transactions involving professional 
+                            markets.
+Sec. 103. Designation of contract markets.
+Sec. 104. Process for submission and disapproval of contract market 
+                            rules.
+Sec. 105. Regulation of audit trail requirements.
+Sec. 106. Use of benefit-cost analysis.
+Sec. 107. Commission oversight and deficiency orders.
+               TITLE II--TREASURY AMENDMENT CLARIFICATION
+
+Sec. 201. Regulation of transactions in or involving foreign currency.
+
+           TITLE I--ADMINISTRATION OF COMMODITY EXCHANGE ACT
+
+SEC. 101. FINDINGS AND PURPOSES.
+
+    Section 3 of the Commodity Exchange Act (7 U.S.C. 5) is amended to 
+read as follows:
+
+``SEC. 3. FINDINGS AND PURPOSES.
+
+    ``(a) Findings.--The Congress finds the following:
+            ``(1) Commodity futures and commodity options are traded in 
+        interstate commerce, and the regulation of transactions in or 
+        involving commodity futures and commodity options is in the 
+        national public interest.
+            ``(2) Commodity futures and commodity options transactions 
+        are used to hedge and manage price or other economic risks 
+        faced by businesses and financial enterprises throughout the 
+        world.
+            ``(3) Such hedging activity allows businesses and financial 
+        enterprises to operate in a more efficient manner, with 
+        corresponding benefits to consumers and others served by these 
+        businesses and enterprises.
+            ``(4) Liquid trading in commodity futures and commodity 
+        options contracts also provides a mechanism for discovering 
+        important pricing information relating to the various 
+        commodities that are the subject of such trading.
+            ``(5) Such pricing information may be widely quoted and 
+        disseminated in order to allow consumers, businesses, and 
+        financial enterprises to rely upon such pricing information in 
+        making various commercial arrangements and decisions relating 
+        to the price of the affected commodities in interstate 
+        commerce.
+            ``(6) Unless appropriately and prudently regulated, whether 
+        through self-regulation by the market participants themselves 
+        or through Government regulation, transactions subject to this 
+        Act may not serve these public interests.
+    ``(b) Purpose.--It is the purpose of this Act to provide for self-
+regulation that is in the public interest and Government oversight of 
+transactions subject to this Act--
+            ``(1) to prevent fraud, sales practice abuses, and price 
+        manipulation;
+            ``(2) to foster efficient and effective transaction 
+        executions at fair prices;
+            ``(3) to ensure conduct consistent with just and equitable 
+        principles of trade and the financial integrity of all futures 
+        and options transactions, market participants, and markets; and
+            ``(4) to promote responsible economic or financial 
+        innovation and fair competition among all markets, market 
+        participants, and consumers of the markets' services.''.
+
+SEC. 102. CONDITIONAL EXEMPTION FROM COMMODITY EXCHANGE ACT FOR CERTAIN 
+              TRANSACTIONS INVOLVING PROFESSIONAL MARKETS.
+
+    Section 4 of the Commodity Exchange Act (7 U.S.C. 6) is amended by 
+adding the following subsections:
+    ``(e) Exemption for Certain Professional Markets.--
+            ``(1) Exemption.--Subject to paragraphs (2) and (3), any 
+        agreement, contract, or transaction (or class thereof) that is 
+        or may be subject to this Act shall be exempt from all of the 
+        provisions of this Act if the only parties eligible to enter 
+        into the agreement, contract, or transaction (or class thereof) 
+        qualify as appropriate persons (as defined in subsection 
+        (c)(3)).
+            ``(2) Rules against fraud and manipulation.--Any agreement, 
+        contract, or transaction (or class thereof) for which an 
+        exemption is provided under this subsection shall still be 
+        subject to prohibitions against fraud or manipulation issued by 
+        the Commission, following notice and opportunity for hearing, 
+        that are specifically designed to apply to such agreements, 
+        contracts, and transactions.
+            ``(3) Use of approved clearinghouses and systems.--Any 
+        agreement, contract, or transaction (or class thereof) for 
+        which an exemption is provided under this subsection shall not 
+        be submitted to any clearinghouse or clearing system (or 
+        similar entity) unless that clearinghouse or clearing system 
+        (or similar entity) has been approved by the Commission to do 
+        business as a clearinghouse or clearing system.''.
+
+SEC. 103. DESIGNATION OF CONTRACT MARKETS.
+
+    (a) Designation Required.--Section 4(a)(1) of the Commodity 
+Exchange Act (7 U.S.C. 6(a)(1)) is amended by striking ``for such 
+commodity''.
+    (b) Conditions and Requirements for Designation.--Section 5 of the 
+Commodity Exchange Act (7 U.S.C. 7) is amended--
+            (1) by striking the matter preceding paragraph (1) and 
+        inserting the following:
+
+``SEC. 5. DESIGNATION OF BOARD OF TRADE AS CONTRACT MARKET.
+
+    ``(a) In General.--The Commission shall designate a board of trade 
+as a contract market if, and only if, the board of trade complies with 
+and carries out the following conditions and requirements:'';
+            (2) by striking paragraphs (1), (7), and (8);
+            (3) by redesignating paragraphs (2) through (6) as 
+        paragraphs (1) through (5), respectively; and
+            (4) by inserting at the end the following new paragraph:
+            ``(6) When the board of trade demonstrates that it is in 
+        compliance with the requirements of section 5a(b).''.
+    (c) Effect of Designation.--Section 5 of the Commodity Exchange Act 
+(7 U.S.C. 7) is amended by inserting after paragraph (6), as added by 
+subsection (b)(4), the following new subsection:
+    ``(b) Existing and Future Designations.--
+            ``(1) Future designations.--If a board of trade is 
+        designated as a contract market by the Commission under 
+        subsection (a) and section 6, the board of trade shall retain 
+        the designation for all existing or future contracts, unless--
+                    ``(A) the Commission suspends or revokes the 
+                designation; or
+                    ``(B) the board of trade relinquishes the 
+                designation.
+            ``(2) Existing designations.--A board of trade that has 
+        been designated as a contract market as of the date of the 
+        enactment of this subsection shall retain the designation 
+        unless--
+                    ``(A) the Commission finds that a violation of this 
+                Act or a rule, regulation, or order of the Commission 
+                by the contract market justifies suspension or 
+                revocation of the designation under section 6(b); or
+                    ``(B) the board of trade relinquishes the 
+                designation.''.
+    (d) Application for Designation.--The first sentence of section 
+6(a) of the Commodity Exchange Act (7 U.S.C. 8(a)) is amended by 
+striking ``Any board of trade desiring to be designated a `contract 
+market' '' and inserting ``A board of trade that has not obtained 
+designation as a contract market for a contract of sale for a commodity 
+under section 5, but that desires to be designated as a contract 
+market,''.
+
+SEC. 104. PROCESS FOR SUBMISSION AND DISAPPROVAL OF CONTRACT MARKET 
+              RULES.
+
+    Section 5a of the Commodity Exchange Act (7 U.S.C. 7a) is amended--
+            (1) in subsection (a), by striking paragraph (12); and
+            (2) by adding at the end the following new subsection:
+    ``(c) Contract Market Bylaws, Rules, Regulations, and 
+Resolutions.--
+            ``(1) Submission to commission.--Except as otherwise 
+        provided in this subsection, each contract market shall submit 
+        to the Commission all bylaws, rules, regulations, and 
+        resolutions (in this subsection referred to as `rules') made or 
+        issued by the contract market, or by the governing board or any 
+        committee thereof, other than rules that relate to the setting 
+        of levels of margin and such other rules as the Commission may 
+        specify by regulation.
+            ``(2) Effective date.--
+                    ``(A) In general.--Except in the case of a rule 
+                described in subparagraph (B) or (C), a contract market 
+                may make a rule of that contract market effective 10 
+                days after the date on which the Commission receives 
+                the rule under paragraph (1), unless, within such 
+                period, the contract market requests review of the rule 
+                by the Commission or the Commission institutes 
+                proceedings to determine whether the rule should be 
+                disapproved. The disapproval proceedings shall be 
+                conducted in accordance with paragraph (3).
+                    ``(B) Special effective date for certain rules.--In 
+                the case of a rule that would establish the terms and 
+                conditions of a contract for the purchase or sale of a 
+                commodity for future delivery, which is to be executed 
+                subject to the rules of a contract market and has not 
+                previously been traded subject to the rules of the 
+                contract market, the contract market may make the rule 
+                effective 15 days after the date on which the 
+                Commission receives the rule under paragraph (1), 
+                unless, within such period, the Commission institutes 
+                proceedings to determine whether the rule should be 
+                disapproved. The disapproval proceedings shall be 
+                conducted in accordance with paragraph (3).
+                    ``(C) Exception.--A board of trade may not make 
+                effective any rule to establish the terms and 
+                conditions of a new contract (or option on such a 
+                contract) that is subject to the requirements and 
+                procedures of clauses (ii) through (v) of section 
+                2(a)(1)(B) unless and until the requirements and 
+                procedures of such clauses are satisfied and carried 
+                out.
+            ``(3) Disapproval process.--
+                    ``(A) Notice of proposed disapproval.--If the 
+                Commission institutes a proceeding to determine whether 
+                a rule submitted under paragraph (1) should be 
+                disapproved, the Commission shall provide the contract 
+                market with written notice of the proposed grounds for 
+                disapproval, including--
+                            ``(i) the specific sections of this Act or 
+                        the regulations of the Commission that would be 
+                        violated; and
+                            ``(ii) in the case of a rule described in 
+                        paragraph (2)(B), the specific reason or 
+                        reasons why the rule might be contrary to the 
+                        public interest.
+                    ``(B) Disapproval proceeding.--In a disapproval 
+                proceeding under this paragraph, the Commission shall 
+                afford the contract market a reasonable opportunity to 
+                respond in writing and an opportunity for a hearing, 
+                including the right to an oral hearing before a quorum 
+                of the Commission. In a disapproval proceeding 
+                involving a rule described in paragraph (2)(B), the 
+                Commission shall have the burden of proving that the 
+                rule is contrary to the public interest.
+                    ``(C) Disapproval.--At the conclusion of a 
+                disapproval proceeding under this paragraph, the 
+                Commission shall determine whether to disapprove the 
+                rule and shall disapprove the rule if the Commission 
+                determines in the proceeding that the rule would be--
+                            ``(i) in violation of the provisions of 
+                        this Act or the regulations of the Commission; 
+                        or
+                            ``(ii) in the case of a rule described in 
+                        paragraph (2)(B), contrary to the public 
+                        interest.
+                    ``(D) Notice of disapproval.--The Commission shall 
+                provide the contract market with written notice of the 
+                disapproval of a rule of the contract market. The 
+                notice shall--
+                            ``(i) specify the sections of this Act or 
+                        the Commission's regulations that the 
+                        Commission determines the rule violates or, if 
+                        effective, would violate; and
+                            ``(ii) in the case of a rule described in 
+                        paragraph (2)(B), contain an explanation and 
+                        analysis of the substantive basis why the rule 
+                        violates or, if effective, would violate the 
+                        public interest.
+            ``(4) Time for disapproval actions.--
+                    ``(A) 60-day period.--Before the end of the 60-day 
+                period beginning on the date on which the Commission 
+                receives a rule under paragraph (1), the Commission 
+                shall complete any disapproval proceeding instituted 
+                under this subsection regarding the rule.
+                    ``(B) Effect of failure to complete action.--Unless 
+                the Commission has notified the contract market by the 
+                end of such 60-day period that the Commission has 
+                disapproved the rule, the contract market may make the 
+                rule effective. Except as provided in subparagraph (C), 
+                the Commission shall not thereafter disapprove the 
+                rule.
+                    ``(C) Exception.--Subparagraph (B) shall not be 
+                construed to modify or affect the ability of the 
+                Commission to alter or supplement any rules of a 
+                contract market pursuant to section 8a(7).
+            ``(5) Rule of construction regarding public interest 
+        standard.--The authority of the Commission to disapprove a rule 
+        described in paragraph (2)(B) on the basis that the rule is 
+        contrary to the public interest shall not be construed to 
+        authorize the Commission to apply such a standard to any other 
+        provision of this Act or any other action of the Commission.
+            ``(6) Temporary effectiveness for emergency rules.--
+                    ``(A) Emergency rules authorized.--The Commission 
+                shall issue regulations to specify the terms and 
+                conditions under which, in an emergency as defined by 
+                the Commission, a contract market may, by a two-thirds 
+                vote of its governing board, make a rule (in this 
+                paragraph referred to as an `emergency rule') 
+                immediately effective on a temporary basis without 
+                compliance with the applicable notice requirements 
+                under paragraph (2), or during any period of review by 
+                the Commission, if the contract market makes every 
+                effort practicable to notify the Commission of the 
+                emergency rule before making the emergency rule 
+                effective. The notification shall include a complete 
+                explanation of the emergency involved. If the contract 
+                market does not provide the Commission with such 
+                notification and explanation before making the 
+                emergency rule effective, the contract market shall 
+                provide the Commission with such notification and 
+                explanation at the earliest possible date. The 
+                Commission may delegate the power to receive such 
+                notification and explanation to such individuals as the 
+                Commission determines necessary and appropriate.
+                    ``(B) Commission consideration of emergency 
+                rules.--Within 10 days of the receipt from a contract 
+                market of notification of an emergency rule and an 
+                explanation of the emergency involved, or as soon as 
+                practicable, the Commission shall determine whether it 
+                is appropriate either--
+                            ``(i) to permit the emergency rule to 
+                        remain in effect during the period of the 
+                        emergency; or
+                            ``(ii) to suspend the effect of the 
+                        emergency rule pending review either under the 
+                        procedures of this subsection or otherwise.
+                    ``(C) Report on consideration.--The Commission 
+                shall submit to the affected contract market, to the 
+                Committee on Agriculture of the House of 
+                Representatives and the Committee on Agriculture, 
+                Nutrition, and Forestry of the Senate a report 
+                regarding its determination (and the basis thereof) 
+                with respect to an emergency rule. If the report is 
+                submitted more than 10 days after the Commission's 
+                receipt of notification of the emergency rule, the 
+                report shall also contain an explanation of why 
+                submission within such period was not practicable. A 
+                determination by the Commission to suspend the effect 
+                of a rule under this paragraph shall be subject to 
+                judicial review on the same basis as an emergency 
+                determination under section 8a(9). Nothing in this 
+                paragraph shall be construed to limit the authority of 
+                the Commission under section 8a(9).''.
+
+SEC. 105. REGULATION OF AUDIT TRAIL REQUIREMENTS.
+
+    Section 5a(b) of the Commodity Exchange Act (7 U.S.C. 7a(b)) is 
+amended--
+            (1) by striking paragraphs (3), (4), and (6);
+            (2) by redesignating paragraph (5) as paragraph (6);
+            (3) in paragraph (6) (as so redesignated)--
+                    (A) by striking ``paragraph (3)'' both places it 
+                appears and inserting ``this subsection'' and
+                    (B) by striking ``such paragraph'' and inserting 
+                ``this subsection''; and
+            (4) by inserting after paragraph (2) the following new 
+        paragraphs:
+            ``(3) Development of standards for time of execution.--Not 
+        later than nine months after the date of the enactment of this 
+        paragraph, the Commission shall issue a regulation, after 
+        notice and an opportunity for a hearing, that prescribes an 
+        objective standard or methodology for establishing whether a 
+        contract market meets the requirement under paragraph (2) that 
+        each contract market must be able to determine, with reasonable 
+        accuracy, the time of execution, in increments of no more than 
+        one minute in length. In issuing the regulation, the 
+        Commission--
+                    ``(A) shall take into account any unique features 
+                and trading practices of each contract market and any 
+                surveillance mechanisms beyond a manual trade recording 
+                system adopted by each contract market;
+                    ``(B) shall not prescribe a specific means or 
+                technology for meeting the accuracy or any other 
+                requirement.
+            ``(4) Use of trade recording data.--Consistent with 
+        Commission regulations, the audit trail system for a contract 
+        market shall rely upon trade recording data that are--
+                    ``(A) entered by floor traders, floor brokers or 
+                others in nonerasable ink or other form that cannot be 
+                altered without leaving a complete record of such 
+                alteration; and
+                    ``(B) continually provided to the contract market 
+                during the trading day in intervals of not more than 30 
+                minutes for processing by the contract market.
+            ``(5) Use of time stamps.--The audit trail system for a 
+        contract market shall rely upon accurate time stamps or 
+        similarly reliable devices for recording when a customer's 
+        order reaches the trading floor and when that order is reported 
+        from the floor as having been executed.''.
+
+SEC. 106. USE OF BENEFIT-COST ANALYSIS.
+
+    Section 12 of the Commodity Exchange Act (7 U.S.C. 16) is amended 
+by adding at the end the following new subsection:
+    ``(h) Use of Benefit-Cost Analysis.--
+            ``(1) Analysis required.--Except as provided in paragraph 
+        (4), the Commission shall not adopt any rule, regulation, or 
+        order, or take any other regulatory action, if the benefits of 
+        such an action do not exceed the costs. The Commission shall 
+        make this benefit-cost determination based upon the information 
+        available in the record of such action maintained by the 
+        Commission.
+            ``(2) Benefits defined.--For purposes of this subsection, 
+        the term `benefits' means the significant, reasonably 
+        identifiable, favorable effects (including the impact on market 
+        liquidity and efficiency, financial and market integrity, 
+        customer protection, and fair competition) that are reasonably 
+        expected to result, directly or indirectly, from the adoption 
+        of a rule or other agency action.
+            ``(3) Costs Defined.--For purposes of this subsection, the 
+        term `costs' means the significant, reasonably identifiable, 
+adverse effects (including the impact on market liquidity and 
+efficiency, financial and market integrity, customer protection, and 
+fair competition) that are reasonably expected to result, directly or 
+indirectly, from the adoption of a rule or other agency action.
+            ``(4) Exception for certain rules and actions.--This 
+        subsection shall not apply to the following:
+                    ``(A) Any adjudicatory or formal rulemaking 
+                determinations made by the Commission after a hearing 
+                on the record.
+                    ``(B) Any emergency determination made by the 
+                Commission under section 8a(a)(9).
+                    ``(C) Any review or action taken by the Commission 
+                on appeal from a contract market disciplinary action in 
+                accordance with section 8c.
+                    ``(D) Any Commission approvals of rules or rule 
+                changes in accordance with section 5a(c).
+                    ``(E) Any Commission approvals of contract market 
+                designation applications under section 6.''.
+
+SEC. 107. COMMISSION OVERSIGHT AND DEFICIENCY ORDERS.
+
+    (a) Repeal.--Section 8e of the Commodity Exchange Act (7 U.S.C. 
+12e) is repealed.
+    (b) Conforming Amendments.--(1) Section 4j(a) of the Commodity 
+Exchange Act (7 U.S.C. 6j(a)) is amended--
+            (1) in paragraph (3)(B)(ii), by striking ``, such as those 
+        described in section 8e,''; and
+            (2) in paragraph (5)(A)(ii), by striking ``, such as those 
+        described in section 8e,''.
+
+               TITLE II--TREASURY AMENDMENT CLARIFICATION
+
+SEC. 201. TREASURY AMENDMENT CLARIFICATION.
+
+    Section 2(a)(1)(A)(ii) of the Commodity Exchange Act (7 U.S.C. 
+2(ii)) is amended--
+            (1) by inserting ``or transactions involving'' after 
+        ``transactions in'';
+            (2) by inserting ``to the general public'' after ``sale 
+        thereof''; and
+            (3) by adding at the end the following new sentence: ``For 
+        purposes of this clause only, the term `board of trade', as it 
+        applies to transactions in or involving foreign currency, means 
+        any facility whereby standardized contracts are systematically 
+        marketed to retail investors (other than individuals and 
+        entities described as eligible participants under the 
+        regulations of the Commission published in the Federal Register 
+        on January 22, 1993, as codified in section 35.1(b)(2) of part 
+        35 of title 17, Code of Federal Regulations).''.
+                                 <all>
+

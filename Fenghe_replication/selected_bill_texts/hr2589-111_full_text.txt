@@ -1,0 +1,177 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2589 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 2589
+
+  To establish the Office of Public Finance in the Department of the 
+  Treasury to make available Federal reinsurance for insurers of tax-
+                        exempt municipal bonds.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 21, 2009
+
+ Mr. Cleaver (for himself, Mr. Himes, Mr. Frank of Massachusetts, Mr. 
+Baca, Mr. Moran of Virginia, Mr. Andrews, and Mr. Connolly of Virginia) 
+ introduced the following bill; which was referred to the Committee on 
+Financial Services, and in addition to the Committee on Ways and Means, 
+for a period to be subsequently determined by the Speaker, in each case 
+for consideration of such provisions as fall within the jurisdiction of 
+                        the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To establish the Office of Public Finance in the Department of the 
+  Treasury to make available Federal reinsurance for insurers of tax-
+                        exempt municipal bonds.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Municipal Bond Insurance Enhancement 
+Act of 2009''.
+
+SEC. 2. OFFICE OF PUBLIC FINANCE AND FEDERAL REINSURANCE FOR INSURERS 
+              OF TAX-EXEMPT MUNICIPAL BONDS.
+
+    (a) In General.--Subchapter I of chapter 3 of title 31, United 
+States Code, is amended by adding at the end the following new section:
+
+``SEC. 314. THE OFFICE OF PUBLIC FINANCE.
+
+    ``(a) Establishment and Personnel.--
+            ``(1) Establishment.--There is hereby established in the 
+        Department of the Treasury an office to be known as the `Office 
+        of Public Finance' (in this section referred to as the 
+        `Office').
+            ``(2) Director; staffing.--The Secretary of the Treasury 
+        shall appoint the Director of the Office, as well as such other 
+        staff as the Secretary believes necessary for the Office to 
+        carry out its duties under this Act.
+    ``(b) Federal Reinsurance for Insurers of Tax-Exempt Municipal 
+Bonds.--
+            ``(1) Establishment.--The Director of the Office of Public 
+        Finance shall carry out a program under this subsection to 
+        provide reinsurance for insured losses of qualified municipal 
+        bond insurers.
+            ``(2) Qualified municipal bond insurers.--Reinsurance 
+        coverage under this subsection may be made available only for 
+        an insurer, including an insurer that is an affiliate of 
+        another entity--
+                    ``(A) that is licensed or admitted to engage in the 
+                business, in any State, of providing insurance for the 
+                payment of principal and interest due under--
+                            ``(i) any municipal bond; or
+                            ``(ii) any bond, note, security, or other 
+                        debt obligation issued by a special purpose 
+                        corporation, trust, or other entity to finance 
+                        a project serving a substantial public purpose; 
+                        and
+                    ``(B) that has, as of the date of purchase of 
+                reinsurance coverage under this subsection--
+                            ``(i) a corporate or other governing 
+                        charter that prohibits the insurer from 
+                        providing coverage for risks other than the 
+                        risks specified in subparagraph (A) and such 
+                        bonds issued by public purpose issuers or 
+                        ultimate obligors as are not inconsistent with 
+                        the intent of Municipal Bond Insurance 
+                        Enhancement Act of 2009 and as may be approved 
+                        generally or specifically by the Director of 
+                        the Office of Public Finance or the relevant 
+                        insurance regulator; or
+                            ``(ii) entered into an agreement with the 
+                        Director to only provide coverage for the risks 
+                        specified in clause (i).
+                A qualified municipal bond insurer shall not be 
+                precluded from retaining or performing any obligations 
+                in place prior to entering into such an agreement with 
+                the Office.
+            ``(3) Terms of reinsurance.--Reinsurance coverage under 
+        this subsection shall be subject to the following requirements:
+                    ``(A) Premiums.--The Director shall establish and 
+                collect risk-based premiums for such coverage. Premium 
+                charges under this subparagraph shall be established in 
+                amounts that are sufficient, but do not exceed, the 
+                minimum amounts necessary to cover the costs (as such 
+                term is defined in section 502 of the Federal Credit 
+                Reform Act of 1990 (2 U.S.C. 661(a)) of such 
+                reinsurance coverage and to cover administrative costs 
+                of the Secretary that are associated with the program 
+                for such coverage.
+                    ``(B) Others.--The Director shall establish such 
+                other terms for such coverage as the Director 
+                determines are appropriate to provide additional 
+                capacity in the market for insurance of State and local 
+                bonds in the most cost-efficient manner.
+            ``(4) Program limit.--The aggregate par value of bonds, 
+        notes, security, and other debt obligations for which 
+        reinsurance is provided under the program under this subsection 
+        in any of fiscal years 2010 through 2014 may not exceed 
+        $50,000,000,000.
+            ``(5) Authorization of appropriations.--There is authorized 
+        to be appropriated such sums as may be necessary for 
+        administrative costs of carrying out the program under this 
+        subsection during the first 12 months of the operation of such 
+        program.
+            ``(6) Divestment.--Not later than the expiration of the 5-
+        year period beginning on the date of the enactment of this Act, 
+        the Secretary of the Treasury shall--
+                    ``(A) establish and submit to the Congress a plan 
+                providing for the sale of the reinsurance assets 
+                acquired under the program under this subsection, 
+                except that any such sale shall not reduce the credit 
+                rating of bonds insured under such program or the 
+                relevant qualified municipal bond insurer through the 
+                submission of offers to purchase such assets; and
+                    ``(B) implement such plan, including soliciting 
+                offers for the purchase of such operations.
+            ``(7) Definitions.--For purposes of this subsection, the 
+        following definitions shall apply:
+                    ``(A) Insured loss.--The term `insured loss' means 
+                any loss resulting from any municipal bond that is 
+                covered by insurance provided by a qualified municipal 
+                bond insurer.
+                    ``(B) Municipal bond.--The term `municipal bond' 
+                means any bond, note, security, or other debt 
+                obligation issued by any State or political subdivision 
+                thereof, or by any other entity eligible to issue bonds 
+                treated as a State or local bond (as such term is 
+                defined in section 103(c) of the Internal Revenue Code 
+                of 1986 and the regulations issued thereunder)
+                    ``(C) Qualified municipal bond insurer.--The term 
+                `qualified municipal bond insurer' means an insurer 
+                that meets the requirements in paragraph (2) for 
+                reinsurance coverage under this subsection.''.
+    (b) Clerical Amendment.--The table of sections for subchapter I of 
+chapter 3 of title 31, United States Code, is amended by adding at the 
+end the following:
+
+``314. The Office of Public Finance.''.
+
+SEC. 3. REINSURANCE BY OFFICE OF PUBLIC FINANCE NOT TREATED AS FEDERAL 
+              GUARANTEE UNDER TAX EXEMPT BOND REQUIREMENTS.
+
+    (a) In General.--Subparagraph (A) of section 149(b)(3) of the 
+Internal Revenue Code of 1986 is amended by striking ``or'' at the end 
+of clause (ii), by striking the period at the end of clause (iii) and 
+inserting ``, or'', and by adding at the end the following new clause:
+                            ``(iv) any guarantee by the Office of 
+                        Public Finance.''.
+    (b) Effective Date.--The amendments made by this section shall take 
+effect on the date of the enactment of this Act.
+                                 <all>
+

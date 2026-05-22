@@ -1,0 +1,228 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[S. 840 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+106th CONGRESS
+  1st Session
+                                 S. 840
+
+ To amend title 11, United States Code, to provide for health care and 
+               employee benefits, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 20, 1999
+
+ Mr. Grassley (for himself, Mr. Torricelli, and Mr. Leahy) introduced 
+the following bill; which was read twice and referred to the Committee 
+                            on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend title 11, United States Code, to provide for health care and 
+               employee benefits, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. DEFINITIONS.
+
+    (a) Health Care Business Defined.--Section 101 of title 11, United 
+States Code, is amended by inserting after paragraph (27) the 
+following:
+            ``(27A) `health care business'--
+                    ``(A) means any public or private entity (without 
+                regard to whether that entity is organized for profit 
+                or not for profit) that is primarily engaged in 
+                offering to the general public facilities and services 
+                for--
+                            ``(i) the diagnosis or treatment of injury, 
+                        deformity, or disease; and
+                            ``(ii) surgical, drug treatment, 
+                        psychiatric or obstetric care; and
+                    ``(B) includes--
+                            ``(i) any--
+                                    ``(I) general or specialized 
+                                hospital;
+                                    ``(II) ancillary ambulatory, 
+                                emergency, or surgical treatment 
+                                facility;
+                                    ``(III) hospice;
+                                    ``(IV) home health agency; and
+                                    ``(V) other health care institution 
+                                that is similar to an entity referred 
+                                to in subclause (I), (II), (III), or 
+                                (IV); and
+                            ``(ii) any long-term care facility, 
+                        including any--
+                                    ``(I) skilled nursing facility;
+                                    ``(II) intermediate care facility;
+                                    ``(III) assisted living facility;
+                                    ``(IV) home for the aged;
+                                    ``(V) domicilary care facility; and
+                                    ``(VI) health care institution that 
+                                is related to a facility referred to in 
+                                subclause (I), (II), (III), (IV), or 
+                                (V), if that institution is primarily 
+                                engaged in offering room, board, 
+                                laundry, or personal assistance with 
+                                activities of daily living and 
+                                incidentals to activities of daily 
+                                living;''.
+    (b) Patient Defined.--Section 101 of title 11, United States Code, 
+as amended by subsection (a) of this section, is amended by inserting 
+after paragraph (40) the following:
+            ``(40A) `patient' means any person who obtains or receives 
+        services from a health care business;''.
+    (d) Patient Records Defined.--Section 101 of title 11, United 
+States Code, as amended by subsection (b) of this section, is amended 
+by inserting after paragraph (40A) the following:
+            ``(40B) `patient records' means any written document 
+        relating to a patient or record recorded in a magnetic, 
+        optical, or other form of electronic medium;''.
+
+SEC. 2. DISPOSAL OF PATIENT RECORDS.
+
+    (a) In General.--Subchapter III of chapter 3 of title 11, United 
+States Code, is amended by adding at the end the following:
+``Sec. 351. Disposal of patient records
+    ``If a health care business commences a case under chapter 7, 9, or 
+11, and the trustee does not have a sufficient amount of funds to pay 
+for the storage of patient records in the manner required under 
+applicable Federal or State law, the following requirements shall 
+apply:
+            ``(1) The trustee shall mail, by certified mail, a written 
+        request to each appropriate Federal or State agency to request 
+        permission from that agency to deposit the patient records with 
+        that agency.
+            ``(2) If no appropriate Federal or State agency agrees to 
+        permit the deposit of patient records referred to in paragraph 
+        (1) by the date that is 60 days after the trustee mails a 
+        written request under that paragraph, the trustee shall--
+                    ``(A) publish notice, in 1 or more appropriate 
+                newspapers, that if those patient records are not 
+                claimed by the patient or an insurance provider (if 
+                applicable law permits the insurance provider to make 
+                that claim) by the date that is 60 days after the date 
+                of that notification, the trustee will destroy the 
+                patient records; and
+                    ``(B) during the 60-day period described in 
+                subparagraph (A), the trustee shall attempt to notify 
+                directly each patient that is the subject of the 
+                patient records concerning the patient records by 
+                mailing to the last known address of that patient an 
+                appropriate notice regarding the claiming or disposing 
+                of patient records.
+            ``(3) If, after providing the notification under paragraph 
+        (2), patient records are not claimed during the 60-day period 
+        described in paragraph (2)(A) or in any case in which a notice 
+        is mailed under paragraph (2)(B), during the 90-day period 
+        beginning on the date on which the notice is mailed, by a 
+        patient or insurance provider in accordance with that 
+        paragraph, the trustee shall destroy those records by--
+                    ``(A) if the records are written, shredding or 
+                burning the records; or
+                    ``(B) if the records are magnetic, optical, or 
+                other electronic records, by otherwise destroying those 
+                records so that those records cannot be retrieved.''.
+    (b) Clerical Amendment.--The chapter analysis for chapter 3 of 
+title 11, United States Code, is amended by inserting after the item 
+relating to section 350 the following:
+
+``351. Disposal of patient records.''.
+
+SEC. 3. ADMINISTRATIVE EXPENSE CLAIM FOR COSTS OF CLOSING A HEALTH CARE 
+              BUSINESS.
+
+    Section 503(b) of title 11, United States Code, is amended--
+            (1) in paragraph (5), by striking ``and'' at the end;
+            (2) in paragraph (6), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(7) the actual, necessary costs and expenses of closing a 
+        health care business incurred by a trustee, including any cost 
+        or expense incurred--
+                    ``(A) in disposing of patient records in accordance 
+                with section 351; or
+                    ``(B) in connection with transferring patients from 
+                the health care business that is in the process of 
+                being closed to another health care business.''.
+
+SEC. 4. APPOINTMENT OF OMBUDSMAN TO ACT AS PATIENT ADVOCATE.
+
+    (a) In General.--
+            (1) Appointment of ombudsman.--Subchapter II of chapter 3 
+        of title 11, United States Code, is amended by inserting after 
+        section 331 the following:
+``Sec. 332. Appointment of ombudsman
+    ``(a) Not later than 30 days after a case is commenced by a health 
+care business under chapter 7, 9, or 11, the court shall appoint an 
+ombudsman to represent the interests of the patients of the health care 
+business.
+    ``(b) An ombudsman appointed under subsection (a) shall--
+            ``(1) monitor the quality of patient care, to the extent 
+        necessary under the circumstances, including reviewing records 
+        and interviewing patients and physicians;
+            ``(2) not later than 60 days after the date of appointment, 
+        and not less frequently than every 60 days thereafter, report 
+        to the court, at a hearing or in writing, regarding the quality 
+        of patient care at the health care business involved; and
+            ``(3) if the ombudsman determines that the quality of 
+        patient care is declining significantly or is otherwise being 
+        materially compromised, notify the court by motion or written 
+        report, with notice to appropriate parties in interest, 
+        immediately upon making that determination.
+    ``(c) An ombudsman shall maintain any information obtained by the 
+ombudsman under this section that relates to patients (including 
+information relating to patient records) as confidential 
+information.''.
+            (2) Clerical amendment.--The chapter analysis for chapter 3 
+        of title 11, United States Code, is amended by inserting after 
+        the item relating to section 331 the following:
+
+``332. Appointment of ombudsman.''.
+    (b) Compensation of Ombudsman.--Section 330(a)(1) of title 11, 
+United States Code, is amended--
+            (1) in the matter proceeding subparagraph (A), by inserting 
+        ``an ombudsman appointed under section 331, or'' before ``a 
+        professional person''; and
+            (2) in subparagraph (A), by inserting ``ombudsman,'' before 
+        ``professional person''.
+
+SEC. 5. DEBTOR IN POSSESSION; DUTY OF TRUSTEE TO TRANSFER PATIENTS.
+
+    (a) In General.--Section 704(a) of title 11, United States Code, is 
+amended--
+            (1) in paragraph (8), by striking ``and'' at the end;
+            (2) in paragraph (9), by striking the period and inserting 
+        ``; and''; and
+            (3) by adding at the end the following:
+            ``(10) use all reasonable and best efforts to transfer 
+        patients from a health care business that is in the process of 
+        being closed to an appropriate health care business that--
+                    ``(A) is in the vicinity of the health care 
+                business that is closing;
+                    ``(B) provides the patient with services that are 
+                substantially similar to those provided by the health 
+                care business that is in the process of being closed; 
+                and
+                    ``(C) maintains a reasonable quality of care.''.
+    (b) Conforming Amendment.--Section 1106(a)(1) of title 11, United 
+States Code, is amended by striking ``and 704(9)'' and inserting 
+``704(9), and 704(10)''.
+                                 <all>
+

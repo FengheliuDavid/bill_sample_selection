@@ -1,0 +1,118 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2986 Introduced in House (IH)]
+
+  2d Session
+                                H. R. 2986
+
+       To establish a criminal penalty for the production, sale, 
+   transportation, or possession of fictitious financial instruments 
+ purporting to be instruments issued by a public or private entity, to 
+    require forfeiture of counterfeit access devices, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 28, 1996
+
+  Mr. Leach (for himself, Mr. Bereuter, Mr. Schumer, Mr. Bachus, Mrs. 
+    Maloney, Mr. Royce, Mrs. Kelly, Mr. Heineman, and Mr. Watts of 
+  Oklahoma) introduced the following bill; which was referred to the 
+    Committee on the Judiciary, and in addition to the Committee on 
+  Transportation and Infrastructure, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+       To establish a criminal penalty for the production, sale, 
+   transportation, or possession of fictitious financial instruments 
+ purporting to be instruments issued by a public or private entity, to 
+    require forfeiture of counterfeit access devices, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Financial Crimes Prevention Act of 
+1996''.
+
+SEC. 2. FICTITIOUS FINANCIAL INSTRUMENTS.
+
+    (a) Increased Penalties for Counterfeiting Violations.--
+            (1) Section 474.--Section 474 title 18, United States Code, 
+        is amended by striking ``Is guilty of a class C felony'' and 
+        inserting ``shall be fined under this title, imprisoned not 
+        more than 25 years, or both''.
+            (2) Section 474a.--Section 474A of title 18, United States 
+        Code, is amended by striking ``is guilty of a class C felony'' 
+        each place such term appears in such section and inserting 
+        ``shall be fined under this title, imprisoned not more than 25 
+        years, or both''.
+    (b) Criminal Penalty for Production, Sale, Transportation, or 
+Possession of Fictitious Financial Instruments Purporting To Be Those 
+of the States, of Political Subdivisions, and of Private 
+Organizations.--
+            (1) In general.--Chapter 25 of title 18, United States 
+        Code, is amended by inserting after section 513 the following 
+        new section:
+``Sec. 514. Fictitious obligations
+    ``(a) In General.--Whoever, with the intent to defraud--
+            ``(1) possesses any fictitious obligation within the United 
+        States;
+            ``(2) draws, prints, processes, produces, publishes, or 
+        otherwise makes any fictitious obligation within the United 
+        States;
+            ``(3) passes, utters, presents, offers, brokers, issues, or 
+        sells any fictitious obligation within the United States;
+            ``(4) uses an instrumentality of interstate or foreign 
+        commerce, including the use of the mails or wire, radio, or 
+        other electronic communication, to transmit or transport any 
+        fictitious obligation to, from, or through the United States; 
+        or
+            ``(5) attempts to commit an offense described in paragraph 
+        (1), (2), (3), or (4),
+shall be fined under this title, imprisoned not more than 25 years, or 
+both.
+    ``(b) Fictitious Obligation Defined.--The term `fictitious 
+obligation' means any false or fictitious instrument, document, or 
+other item which appears or is purported to be an actual security or 
+other financial instrument issued under the authority of the United 
+States, a foreign government, a State or other political subdivision of 
+the United States, or an organization.
+    ``(c) Incorporated Definitions.--For purposes of this section, any 
+term used in this section which is defined in section 513(c) shall have 
+the meaning given that term in such section.
+    ``(d) Investigative Authority.--The United States Secret Service, 
+in addition to any other agency having such authority, shall have 
+authority to investigate offenses under this section.''.
+            (2) Clerical amendment.--The table of sections for chapter 
+        25 of title 18, United States Code, is amended by inserting 
+        after the item relating to section 513 the following new item:
+
+``514. Fictitious obligations.''.
+
+SEC. 3. FORFEITURE OF COUNTERFEIT ACCESS DEVICES AND OTHER EQUIPMENT.
+
+    Section 80302(a) of title 49, United States Code, is amended--
+            (1) in paragraph (4), by striking ``or'' the last place it 
+        appears;
+            (2) in paragraph (5), by striking the period and inserting 
+        ``; or''; and
+            (3) by adding at the end the following new paragraph:
+            ``(6) a counterfeit access device, device-making equipment, 
+        or scanning receiver (as such terms are defined in section 1029 
+        of title 18) that is possessed with the intent to defraud in 
+        violation of Federal law.''.
+                                 <all>
+

@@ -1,0 +1,246 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2225 Introduced in House (IH)]
+
+112th CONGRESS
+  1st Session
+                                H. R. 2225
+
+  To amend the Investment Advisers Act of 1940 to add a definition of 
+                             family office.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 16, 2011
+
+Mr. Hensarling (for himself, Mr. Bachus, Mrs. Maloney, Mr. Garrett, Mr. 
+  Neugebauer, Mrs. Capito, and Mrs. Biggert) introduced the following 
+    bill; which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Investment Advisers Act of 1940 to add a definition of 
+                             family office.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. FINDINGS.
+
+    The Congress finds the following:
+            (1) Family offices are not of national concern in that 
+        their advice, counsel, publications, writings, analyses, and 
+        reports are not furnished or distributed to clients on a retail 
+        basis, but are instead furnished or distributed only to persons 
+        who are members of a particular family.
+            (2) Family offices do not hold themselves out to the public 
+        as investment advisers.
+            (3) Family offices do not engage in the business of 
+        advising others, but instead provide a wide range of services 
+        to members of the family they serve, only one of which involves 
+        investment advice, for which they may receive compensation from 
+        the members of the family.
+            (4) Since the Investment Advisers Act of 1940 was enacted, 
+        the Securities and Exchange Commission has regularly issued 
+        orders to individual family offices exempting them from all of 
+        the provisions of the Investment Advisers Act of 1940.
+            (5) Section 409 of the Dodd-Frank Wall Street Reform and 
+        Consumer Protection Act expressly exempts family offices from 
+        all of the provisions of the Investment Advisers Act of 1940.
+            (6) It was the intent of Congress that section 409 of the 
+        Dodd-Frank Wall Street Reform and Consumer Protection Act be 
+        interpreted broadly to encompass all family offices as they are 
+        currently organized and operated, as well as to encompass 
+        changes in the organization and operation of family offices in 
+        the future.
+
+SEC. 2. FAMILY OFFICE DEFINITION.
+
+    Section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2(a)) is amended--
+            (1) in paragraph (11)(G), in the matter added by section 
+        409(a) of the Dodd-Frank Wall Street Reform and Consumer 
+        Protection Act, by striking ``, as defined by rule, regulation, 
+        or order of the Commission, in accordance with the purposes of 
+        this title'';
+            (2) by redesignating the second paragraph (29), as added by 
+        section 770 of the Dodd-Frank Wall Street Reform and Consumer 
+        Protection Act, as paragraph (31); and
+            (3) by adding at the end the following new paragraph:
+            ``(32) Family office.--
+                    ``(A) In general.--The term `family office' means a 
+                company (including any director, partner, trustee, or 
+                employee of such company, when acting in their 
+                respective capacities as such) that--
+                            ``(i) has no clients other than family 
+                        clients;
+                            ``(ii) is--
+                                    ``(I) owned, directly or 
+                                indirectly, by,
+                                    ``(II) controlled, directly or 
+                                indirectly, by, or
+                                    ``(III) operated primarily for the 
+                                benefit of,
+                        family clients; and
+                            ``(iii) does not hold itself out to the 
+                        public as an investment adviser.
+                    ``(B) Grandfathering.--A person described under 
+                section 409(b)(3) of the Dodd-Frank Wall Street Reform 
+                and Consumer Protection Act, but who otherwise meets 
+                the requirements under subparagraph (A), shall qualify 
+                as a family office.
+                    ``(C) Definitions.--For purposes of this paragraph:
+                            ``(i) Control.--The term `control' means 
+                        the power to exercise a controlling influence 
+                        over the management or policies of a company, 
+                        unless such power is solely the result of being 
+                        an officer of such company.
+                            ``(ii) Family client.--The term `family 
+                        client' means:
+                                    ``(I) Any family member.
+                                    ``(II) Any key employee.
+                                    ``(III) Any charitable foundation, 
+                                charitable organization, charitable 
+                                trust, or other non-profit organization 
+                                established or controlled, directly or 
+                                indirectly, by persons one or more of 
+                                whom is a family client.
+                                    ``(IV) Any trust or estate funded 
+                                exclusively by one or more family 
+                                members or established primarily for 
+                                the benefit of one or more family 
+                                clients.
+                                    ``(V) Any limited liability 
+                                company, partnership, corporation, or 
+                                other entity, if--
+                                            ``(aa) such entity is 
+                                        majority-owned or controlled, 
+                                        directly or indirectly, by, or 
+                                        operated primarily for the 
+                                        benefit of, one or more family 
+                                        clients;
+                                            ``(bb) the family office is 
+                                        giving investment advice to 
+                                        such entity; and
+                                            ``(cc) persons who are not 
+                                        otherwise defined as a family 
+                                        client do not own interests in 
+                                        such entity.
+                                    ``(VI) Any former family member.
+                                    ``(VII) Any former key employee, 
+                                if, upon the termination of such 
+                                individual's employment by the family 
+                                office or family client, the former key 
+                                employee shall not receive investment 
+                                advice from the family office or the 
+                                family client (or invest additional 
+                                assets with a family office-advised 
+                                trust, charitable foundation, or 
+                                entity), other than with respect to 
+                                assets advised, directly or indirectly, 
+                                by the family office or family client 
+                                immediately prior to the termination of 
+                                such individual's employment, except 
+                                that a former key employee shall be 
+                                permitted to receive investment advice 
+                                from the family office with respect to 
+                                additional investments that the former 
+                                key employee was contractually 
+                                obligated to make, and that relate to a 
+                                family office advised investment 
+                                existing, in each case, prior to the 
+                                time the person became a former key 
+                                employee. For purposes of this 
+                                subclause, the term `family office' 
+                                shall include any entity described 
+                                under subclause (V).
+                            ``(iii) Family member.--
+                                    ``(I) In general.--The term `family 
+                                member' means:
+                                            ``(aa) Any natural person 
+                                        whose economic activities 
+                                        created or substantially 
+                                        contributed to the family's 
+                                        wealth, and such person's 
+                                        spouse.
+                                            ``(bb) The siblings, 
+                                        parents, grandparents of a 
+                                        person described in item (aa).
+                                            ``(cc) The spouse of a 
+                                        person described in item (bb).
+                                            ``(dd) The siblings of a 
+                                        person described in item (bb) 
+                                        or (cc).
+                                            ``(ee) The spouse of a 
+                                        person described in item (dd).
+                                            ``(ff) The lineal 
+                                        descendant of a person 
+                                        described in item (bb), (cc), 
+                                        (dd), or (ee).
+                                            ``(gg) The spouse of a 
+                                        person described in item (ff).
+                                    ``(II) Construction.--For purposes 
+                                of this clause--
+                                            ``(aa) the term `lineal 
+                                        descendant' includes natural 
+                                        children, adopted children, and 
+                                        stepchildren;
+                                            ``(bb) the term `spouse' 
+                                        includes spousal equivalents; 
+                                        and
+                                            ``(cc) the terms 
+                                        `siblings', `parents', and 
+                                        `grandparents' include step-
+                                        siblings, step-parents, and 
+                                        step-grandparents, 
+                                        respectively.
+                            ``(iv) Former family member.--The term 
+                        `former family member' means a spouse or a 
+                        descendant who was a family member but is no 
+                        longer a family member due to a divorce or 
+                        other similar event.
+                            ``(v) Key employee.--The term `key 
+                        employee' means any natural person (and such 
+                        person's spouse or lineal descendant) who is an 
+                        executive officer, director, trustee, general 
+                        partner, or person serving in a similar 
+                        capacity, of the family office or any employee 
+                        of the family office (other than an employee 
+                        performing solely clerical, secretarial, or 
+                        administrative functions) who, in connection 
+                        with his or her regular functions or duties, 
+                        participates in the investment activities of 
+                        the family office. For purposes of this 
+                        subclause, the term `family office' shall 
+                        include any entity described under clause 
+                        (ii)(V).
+                            ``(vi) Spousal equivalent.--The term 
+                        `spousal equivalent' means a cohabitant 
+                        occupying a relationship generally equivalent 
+                        to that of a spouse.
+                    ``(D) Involuntary events.--If--
+                            ``(i) a person that is not a family client 
+                        becomes a client of the family office as a 
+                        result of the death of a family member or key 
+                        employee or other involuntary transfer from a 
+                        family member or key employee, or
+                            ``(ii) a person ceases to be a family 
+                        client,
+                that person shall be deemed to be a family client until 
+                the end of the 1-year period beginning on the date that 
+                it is both legally and practically feasible for the 
+                family office to transfer the affected assets to such 
+                person, but in no event earlier than 1 year from the 
+                date that it becomes legally feasible to transfer the 
+                affected assets unless it becomes practically feasible 
+                to affect such a transfer sooner.''.
+                                 <all>
+

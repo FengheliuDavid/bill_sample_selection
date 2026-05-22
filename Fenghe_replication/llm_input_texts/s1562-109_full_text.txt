@@ -1,0 +1,1267 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1562 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                S. 1562
+
+ To provide for the merger of the bank and savings association deposit 
+ insurance funds, to modernize and improve the safety and fairness of 
+     the Federal deposit insurance system, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 29, 2005
+
+    Mr. Enzi (for himself, Mr. Johnson, Mr. Allard, and Mr. Hagel) 
+introduced the following bill; which was read twice and referred to the 
+            Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To provide for the merger of the bank and savings association deposit 
+ insurance funds, to modernize and improve the safety and fairness of 
+     the Federal deposit insurance system, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Safe and Fair 
+Deposit Insurance Act of 2005''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+             TITLE I--MERGER OF THE DEPOSIT INSURANCE FUNDS
+
+Sec. 101. Short title.
+Sec. 102. Merger of BIF and SAIF.
+Sec. 103. Establishment of the Deposit Insurance Fund.
+Sec. 104. Technical and conforming amendments to the Federal Deposit 
+                            Insurance Act.
+Sec. 105. Other technical and conforming amendments.
+Sec. 106. Effective date.
+       TITLE II--DEPOSIT INSURANCE MODERNIZATION AND IMPROVEMENT
+
+Sec. 201. Short title.
+Sec. 202. Increase in Federal insurance coverage.
+Sec. 203. Designated reserve ratio.
+Sec. 204. Assessment credits and dividends.
+Sec. 205. Regulations required.
+Sec. 206. Studies of potential changes to the Federal deposit insurance 
+                            system.
+Sec. 207. Effective date.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act--
+            (1) the term ``Administration'' means the National Credit 
+        Union Administration;
+            (2) the term ``Board'' means the Board of Directors of the 
+        Federal Deposit Insurance Corporation (other than in connection 
+        with the National Credit Union Administration Board);
+            (3) the term ``Corporation'' means the Federal Deposit 
+        Insurance Corporation;
+            (4) the term ``designated reserve ratio'' means the reserve 
+        ratio designated by the Board under section 7(b)(3) of the 
+        Federal Deposit Insurance Act, as amended by this Act;
+            (5) the terms ``Fund'' and ``Deposit Insurance Fund'' mean 
+        the Deposit Insurance Fund established under section 11(a)(4) 
+        of the Federal Deposit Insurance Act, as amended by this Act;
+            (6) the term ``insured depository institution'' has the 
+        same meaning as in section 3 of the Federal Deposit Insurance 
+        Act; and
+            (7) the term ``reserve ratio'' means the ratio of the fund 
+        balance of the Deposit Insurance Fund to the aggregate 
+        estimated amount of deposits insured by the Fund.
+
+             TITLE I--MERGER OF THE DEPOSIT INSURANCE FUNDS
+
+SEC. 101. SHORT TITLE.
+
+    This title may be cited as the ``Insurance Funds Merger Act of 
+2005''.
+
+SEC. 102. MERGER OF BIF AND SAIF.
+
+    (a) In General.--
+            (1) Merger.--The Bank Insurance Fund and the Savings 
+        Association Insurance Fund shall be merged into the Deposit 
+        Insurance Fund.
+            (2) Disposition of assets and liabilities.--All assets and 
+        liabilities of the Bank Insurance Fund and the Savings 
+        Association Insurance Fund shall be transferred to the Deposit 
+        Insurance Fund.
+            (3) No separate existence.--The separate existence of the 
+        Bank Insurance Fund and the Savings Association Insurance Fund 
+        shall cease on the effective date of the merger thereof under 
+        this section.
+    (b) Repeal of Outdated Merger Provision.--Section 2704 of the 
+Deposit Insurance Funds Act of 1996 (12 U.S.C. 1821 note) is repealed.
+
+SEC. 103. ESTABLISHMENT OF THE DEPOSIT INSURANCE FUND.
+
+    (a) In General.--Section 11(a)(4) of the Federal Deposit Insurance 
+Act (12 U.S.C. 1821(a)(4)) is amended--
+            (1) by redesignating subparagraph (B) as subparagraph (C);
+            (2) by striking subparagraph (A) and inserting the 
+        following:
+                    ``(A) Establishment.--There is established the 
+                Deposit Insurance Fund, which the Corporation shall--
+                            ``(i) maintain and administer;
+                            ``(ii) use to carry out its insurance 
+                        purposes, in the manner provided by this 
+                        subsection; and
+                            ``(iii) invest in accordance with section 
+                        13(a).
+                    ``(B) Uses.--The Deposit Insurance Fund shall be 
+                available to the Corporation for use with respect to 
+                Deposit Insurance Fund members.'';
+            (3) by striking ``(4) General provisions relating to 
+        funds.--'' and inserting the following:
+            ``(4) Establishment of the deposit insurance fund.--'';
+            (4) in subparagraph (C), as redesignated by paragraph (1) 
+        of this subsection, by striking ``Bank Insurance Fund and the 
+        Savings Association Insurance Fund'' and inserting ``Deposit 
+        Insurance Fund''; and
+            (5) by adding at the end the following:
+                    ``(D) Deposits.--All amounts assessed against 
+                insured depository institutions by the Corporation 
+                shall be deposited in the Deposit Insurance Fund.''.
+    (b) Merger-Related Amendments to the Federal Deposit Insurance 
+Act.--
+            (1) Definitions.--Section 3(y) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1813(y)) is amended to read as 
+        follows:
+    ``(y) Definitions Relating to the Deposit Insurance Fund.--
+            ``(1) Deposit insurance fund.--The terms `Deposit Insurance 
+        Fund' and `Fund' mean the fund established under section 
+        11(a)(4).''.
+            (2) Assessments.--Section 7 of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1817) is amended--
+                    (A) by striking subsection (l);
+                    (B) by redesignating subsections (m) and (n) as 
+                subsections (l) and (m), respectively; and
+                    (C) in subsection (b), by striking paragraph (2) 
+                and inserting the following:
+            ``(2) Assessments.--
+                    ``(A) In general.--Each insured depository 
+                institution shall pay assessments to the Corporation in 
+                such amounts and at such time or times as the Board of 
+                Directors may require.
+                    ``(B) Factors to be considered.--In setting 
+                assessments for insured depository institutions, the 
+                Board of Directors shall consider--
+                            ``(i) the estimated operating expenses of 
+                        the Deposit Insurance Fund;
+                            ``(ii) the estimated case resolution 
+                        expenditures and income of the Deposit 
+                        Insurance Fund;
+                            ``(iii) the projected effects of 
+                        assessments on the earnings and capital of 
+                        insured depository institutions;
+                            ``(iv) the need to maintain a risk-based 
+                        assessment system under paragraph (1); and
+                            ``(v) any other factors that the Board of 
+                        Directors may determine to be appropriate.
+                    ``(C) Notice of assessments.--The Corporation shall 
+                notify each insured depository institution of 
+                assessments charged to that institution.
+                    ``(D) Newly insured institutions.--To facilitate 
+                the administration of this section, the Board of 
+                Directors may waive the requirements of paragraphs (1) 
+                and (2) for any assessment period in which a depository 
+                institution becomes insured.''.
+            (3) Repeal of separate funds provisions.--Section 11(a) of 
+        the Federal Deposit Insurance Act (12 U.S.C. 1821(a)) is 
+        amended--
+                    (A) by striking paragraphs (5), (6), and (7); and
+                    (B) by redesignating paragraph (8) as paragraph 
+                (5).
+
+SEC. 104. TECHNICAL AND CONFORMING AMENDMENTS TO THE FEDERAL DEPOSIT 
+              INSURANCE ACT.
+
+    The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is 
+amended--
+            (1) in section 3(a)(1) (12 U.S.C. 1813(a)(1)), by striking 
+        subparagraph (B) and inserting the following:
+                    ``(B) includes any former savings association.'';
+            (2) in section 5(b)(5) (12 U.S.C. 1815(b)(5)), by striking 
+        ``the Bank Insurance Fund or the Savings Association Insurance 
+        Fund;'' and inserting ``the Deposit Insurance Fund,'';
+            (3) in section 5(c)(4), by striking ``deposit insurance 
+        fund'' and inserting ``Deposit Insurance Fund'';
+            (4) in section 5(d) (12 U.S.C. 1815(d)), by striking 
+        paragraphs (2) and (3);
+            (5) in section 5(d)(1) (12 U.S.C. 1815(d)(1))--
+                    (A) in subparagraph (A), by striking ``reserve 
+                ratios in the Bank Insurance Fund and the Savings 
+                Association Insurance Fund as required by section 7'' 
+                and inserting ``the reserve ratio of the Deposit 
+                Insurance Fund'';
+                    (B) by striking subparagraph (B) and inserting the 
+                following:
+            ``(2) Fee credited to the deposit insurance fund.--The fee 
+        paid by the depository institution under paragraph (1) shall be 
+        credited to the Deposit Insurance Fund.'';
+                    (C) by striking ``institutions.--'' and all that 
+                follows through ``general.--'' and inserting 
+                ``institutions.--''; and
+                    (D) by redesignating subparagraph (C) as paragraph 
+                (3) and moving the margin 2 ems to the left;
+            (6) in section 5(e) (12 U.S.C. 1815(e))--
+                    (A) in paragraph (5)(A), by striking ``Bank 
+                Insurance Fund or the Savings Association Insurance 
+                Fund'' and inserting ``Deposit Insurance Fund'';
+                    (B) by striking paragraph (6); and
+                    (C) by redesignating paragraphs (7), (8), and (9) 
+                as paragraphs (6), (7), and (8), respectively;
+            (7) in section 6(5) (12 U.S.C. 1816(5)), by striking ``Bank 
+        Insurance Fund or the Savings Association Insurance Fund'' and 
+        inserting ``Deposit Insurance Fund'';
+            (8) in section 7(a)(3) (12 U.S.C. 1817(a)(3))--
+                    (A) by striking ``in July''; and
+                    (B) by striking ``in January'';
+            (9) in section 7(b) (12 U.S.C. 1817(b))--
+                    (A) in paragraph (1)--
+                            (i) in subparagraph (B)(ii), by striking 
+                        ``institution's semiannual assessment'' and 
+                        inserting ``assessments for that institution 
+                        under subsection (b)''; and
+                            (ii) in subparagraph (C)--
+                                    (I) by striking ``a depository 
+                                institution's semiannual assessment'' 
+                                and inserting ``assessments for a 
+                                depository institution under subsection 
+                                (b)''; and
+                                    (II) by striking ``deposit 
+                                insurance fund'' each place that term 
+                                appears and inserting ``Deposit 
+                                Insurance Fund'';
+                    (B) in paragraph (1)(D), by striking ``each deposit 
+                insurance fund'' and inserting ``the Deposit Insurance 
+                Fund'';
+                    (C) by striking paragraph (4) and redesignating 
+                paragraphs (5) through (7) as paragraphs (4) through 
+                (6), respectively;
+                    (D) in paragraph (5), as so redesignated--
+                            (i) by striking ``any such assessment'' and 
+                        inserting ``any such assessment is necessary'';
+                            (ii) by striking subparagraph (B);
+                            (iii) in subparagraph (A)--
+                                    (I) by striking ``(A) is 
+                                necessary--'';
+                                    (II) by striking ``Bank Insurance 
+                                Fund members'' and inserting ``insured 
+                                depository institutions''; and
+                                    (III) by redesignating clauses (i), 
+                                (ii), and (iii) as subparagraphs (A), 
+                                (B), and (C), respectively, and moving 
+                                the margins 2 ems to the left; and
+                            (iv) in subparagraph (C) (as 
+                        redesignated)--
+                                    (I) by inserting ``that'' before 
+                                ``the Corporation''; and
+                                    (II) by striking ``; and'' and 
+                                inserting a period; and
+                    (E) in paragraph (6), as so redesignated, by 
+                striking ``semiannual assessment'' and inserting 
+                ``assessment under subsection (b)'';
+            (10) in section 7(c) (12 U.S.C. 1817(c))--
+                    (A) in paragraph (1), by striking ``institution's 
+                semiannual assessment'' and inserting ``assessments for 
+                that institution under subsection (b)'';
+                    (B) by striking paragraphs (2) and (3); and
+                    (C) by redesignating paragraph (4) as paragraph 
+                (2); and
+            (11) in section 7(j)(7)(F) (12 U.S.C. 1817(j)(7)(F)), by 
+        striking ``Bank Insurance Fund or the Savings Association 
+        Insurance Fund'' and inserting ``Deposit Insurance Fund'';
+            (12) in section 8 (12 U.S.C. 1818)--
+                    (A) in subsection (p), by striking ``semiannual'';
+                    (B) in subsection (q), by striking ``semiannual'' 
+                and inserting ``assessment''; and
+                    (C) in subsection (t)(2)(C), by striking ``deposit 
+                insurance fund'' and inserting ``Deposit Insurance 
+                Fund'';
+            (13) in section 11 (12 U.S.C. 1821), by striking ``deposit 
+        insurance fund'' each place that term appears and inserting 
+        ``Deposit Insurance Fund'';
+            (14) in section 11(f)(1) (12 U.S.C. 1821(f)(1)), by 
+        striking ``, except that--'' and all that follows through the 
+        end of the paragraph and inserting a period;
+            (15) in section 11(i)(3) (12 U.S.C. 1821(i)(3))--
+                    (A) by striking subparagraph (B);
+                    (B) by redesignating subparagraph (C) as 
+                subparagraph (B); and
+                    (C) in subparagraph (B) (as redesignated), by 
+                striking ``subparagraphs (A) and (B)'' and inserting 
+                ``subparagraph (A)'';
+            (16) in section 11(p)(2)(B) (12 U.S.C. 1821(p)(2)(B)), by 
+        striking ``institution, any'' and inserting ``institution, 
+        the'';
+            (17) in section 12(f)(4)(E)(iv) (12 U.S.C. 
+        1822(f)(4)(E)(iv)), by striking ``Federal deposit insurance 
+        funds'' and inserting ``the Deposit Insurance Fund, or any 
+        predecessor deposit insurance fund'';
+            (18) in section 13 (12 U.S.C. 1823)--
+                    (A) by striking ``deposit insurance fund'' each 
+                place that term appears and inserting ``Deposit 
+                Insurance Fund'';
+                    (B) in subsection (a)(1), by striking ``Bank 
+                Insurance Fund, the Savings Association Insurance 
+                Fund,'' and inserting ``Deposit Insurance Fund'';
+                    (C) in subsection (c)(4)(E)--
+                            (i) in the subparagraph heading, by 
+                        striking ``funds'' and inserting ``fund''; and
+                            (ii) in clause (i), by striking ``any 
+                        insurance fund'' and inserting ``the Deposit 
+                        Insurance Fund'';
+                    (D) in subsection (c)(4)(G)(ii)--
+                            (i) by striking ``appropriate insurance 
+                        fund'' and inserting ``Deposit Insurance 
+                        Fund'';
+                            (ii) by striking ``the members of the 
+                        insurance fund (of which such institution is a 
+                        member)'' and inserting ``insured depository 
+                        institutions'';
+                            (iii) by striking ``each member's'' and 
+                        inserting ``each insured depository 
+                        institution's'';
+                            (iv) by striking ``the member's'' each 
+                        place that term appears and inserting ``the 
+                        institution's''; and
+                            (v) in subclause (II), by striking 
+                        ``semiannual'' and inserting ``applicable 
+                        assessment'';
+                    (E) in subsection (c), by striking paragraph (11);
+                    (F) in subsection (h), by striking ``Bank Insurance 
+                Fund'' and inserting ``Deposit Insurance Fund'';
+                    (G) in subsection (k)(4)(B)(i), by striking 
+                ``Savings Association Insurance Fund member'' and 
+                inserting ``savings association'';
+                    (H) in subsection (k)(5)--
+                            (i) in subparagraph (A), by striking 
+                        ``Savings Association Insurance Fund members'' 
+                        and inserting ``savings associations'';
+                            (ii) by striking ``member's'' each place 
+                        that term appears and inserting ``savings 
+                        association's''; and
+                            (iii) by striking ``member'' each place 
+                        that term appears and inserting ``savings 
+                        association'';
+            (19) in section 14(a) (12 U.S.C. 1824(a)), in the 5th 
+        sentence--
+                    (A) by striking ``Bank Insurance Fund or the 
+                Savings Association Insurance Fund'' and inserting 
+                ``Deposit Insurance Fund''; and
+                    (B) by striking ``each such fund'' and inserting 
+                ``the Deposit Insurance Fund'';
+            (20) in section 14(b) (12 U.S.C. 1824(b)), by striking 
+        ``Bank Insurance Fund or Savings Association Insurance Fund'' 
+        and inserting ``Deposit Insurance Fund'';
+            (21) in section 14(c) (12 U.S.C. 1824(c))--
+                    (A) in paragraph (2)(A), by striking ``(7)'' and 
+                inserting ``(6)''; and
+                    (B) by striking paragraph (3);
+            (22) in section 14(d) (12 U.S.C. 1824(d))--
+                    (A) by striking ``Bank Insurance Fund member'' each 
+                place that term appears and inserting ``insured 
+                depository institution'';
+                    (B) by striking ``Bank Insurance Fund members'' 
+                each place that term appears and inserting ``insured 
+                depository institutions'';
+                    (C) by striking ``Bank Insurance Fund'' each place 
+                that term appears (other than in connection with a 
+                reference to a Bank Insurance Fund member or members) 
+                and inserting ``Deposit Insurance Fund'';
+                    (D) by striking the subsection heading and 
+                inserting the following:
+    ``(d) Borrowing for the Deposit Insurance Fund From Insured 
+Depository Institutions.--'';
+                    (E) in paragraph (3), in the paragraph heading, by 
+                striking ``bif'' and inserting ``the deposit insurance 
+                fund''; and
+                    (F) in paragraph (5), in the paragraph heading, by 
+                striking ``bif members'' and inserting ``insured 
+                depository institutions'';
+            (23) in section 14 (12 U.S.C. 1824) by adding at the end 
+        the following:
+    ``(e) Borrowing for the Deposit Insurance Fund From Federal Home 
+Loan Banks.--
+            ``(1) In general.--The Corporation may borrow from the 
+        Federal home loan banks, with the concurrence of the Federal 
+        Housing Finance Board, such funds as the Corporation considers 
+        necessary for the use of the Deposit Insurance Fund.
+            ``(2) Terms and conditions.--Any loan from any Federal home 
+        loan bank under paragraph (1) to the Deposit Insurance Fund 
+        shall--
+                    ``(A) bear a rate of interest of not less than the 
+                current marginal cost of funds to that bank, taking 
+                into account the maturities involved;
+                    ``(B) be adequately secured, as determined by the 
+                Federal Housing Finance Board; and
+                    ``(C) be a direct liability of the Deposit 
+                Insurance Fund.'';
+            (24) in section 15(c)(5) (12 U.S.C. 1825(c)(5))--
+                    (A) by striking ``the Bank Insurance Fund or 
+                Savings Association Insurance Fund, respectively'' each 
+                place that term appears and inserting ``the Deposit 
+                Insurance Fund''; and
+                    (B) in subparagraph (B), by striking ``the Bank 
+                Insurance Fund or the Savings Association Insurance 
+                Fund, respectively'' and inserting ``the Deposit 
+                Insurance Fund'';
+            (25) in section 17(a) (12 U.S.C. 1827(a))--
+                    (A) in the subsection heading, by striking ``BIF, 
+                SAIF,'' and inserting ``the Deposit Insurance Fund''; 
+                and
+                    (B) in paragraph (1)--
+                            (i) by striking ``the Bank Insurance Fund, 
+                        the Savings Association Insurance Fund,'' each 
+                        place that term appears and inserting ``the 
+                        Deposit Insurance Fund''; and
+                            (ii) in subparagraph (D), by striking 
+                        ``each insurance fund'' and inserting ``the 
+                        Fund'';
+            (26) in section 17(d) (12 U.S.C. 1827(d)), by striking ``, 
+        the Bank Insurance Fund, the Savings Association Insurance 
+        Fund,'' each place that term appears and inserting ``the 
+        Deposit Insurance Fund'';
+            (27) in section 18(m) (12 U.S.C. 1828(m))--
+                    (A) in paragraph (2), in the matter preceding 
+                subparagraph (A), by striking the colon and inserting a 
+                dash;
+                    (B) in paragraph (3)(A)--
+                            (i) by striking ``poses a serious threat to 
+                        the Savings Association Insurance Fund'' and 
+                        inserting ``of an insured savings association 
+                        poses a serious threat to the Deposit Insurance 
+                        Fund''; and
+                            (ii) by striking ``Savings Association 
+                        Insurance Fund member'' and inserting ``insured 
+                        savings association''; and
+                    (C) in paragraph (3)(C), by striking ``Savings 
+                Association Insurance Fund or the Bank Insurance Fund'' 
+                and inserting ``Deposit Insurance Fund'';
+            (28) in section 18(o) (12 U.S.C. 1828(o)), by striking 
+        ``deposit insurance funds'' and ``deposit insurance fund'' each 
+        place those terms appear and inserting ``Deposit Insurance 
+        Fund'';
+            (29) in section 18(p) (12 U.S.C. 1828(p)), by striking 
+        ``deposit insurance funds'' and inserting ``Deposit Insurance 
+        Fund'';
+            (30) in section 24 (12 U.S.C. 1831a)--
+                    (A) in subsections (a)(1) and (d)(1)(A), by 
+                striking ``appropriate deposit insurance fund'' each 
+                place that term appears and inserting ``Deposit 
+                Insurance Fund'';
+                    (B) in subsection (e)(2)(A), by striking ``risk 
+                to'' and all that follows through the period and 
+                inserting ``risk to the Deposit Insurance Fund.''; and
+                    (C) in subsections (e)(2)(B)(ii) and (f)(6)(B), by 
+                striking ``the insurance fund of which such bank is a 
+                member'' each place that term appears and inserting 
+                ``the Deposit Insurance Fund'';
+            (31) in section 28 (12 U.S.C. 1831e), by striking 
+        ``affected deposit insurance fund'' each place that term 
+        appears and inserting ``Deposit Insurance Fund'';
+            (32) by striking section 31 (12 U.S.C. 1831h);
+            (33) in section 36(i)(3) (12 U.S.C. 1831m(i)(3)), by 
+        striking ``affected deposit insurance fund'' and inserting 
+        ``Deposit Insurance Fund'';
+            (34) in section 37(a)(1)(C) (12 U.S.C. 1831n(a)(1)(C)), by 
+        striking ``insurance funds'' and inserting ``Deposit Insurance 
+        Fund'';
+            (35) in section 38 (12 U.S.C. 1831o), by striking ``the 
+        deposit insurance fund'' each place that term appears and 
+        inserting ``the Deposit Insurance Fund'';
+            (36) in section 38(a) (12 U.S.C. 1831o(a)), in the 
+        subsection heading, by striking ``Funds'' and inserting 
+        ``Fund'';
+            (37) in section 38(k) (12 U.S.C. 1831o(k))--
+                    (A) in paragraph (1), by striking ``a deposit 
+                insurance fund'' and inserting ``the Deposit Insurance 
+                Fund'';
+                    (B) in paragraph (2), by striking ``A deposit 
+                insurance fund'' and inserting ``The Deposit Insurance 
+                Fund''; and
+                    (C) in paragraphs (2)(A) and (3)(B), by striking 
+                ``the deposit insurance fund's outlays'' each place 
+                that term appears and inserting ``the outlays of the 
+                Deposit Insurance Fund''; and
+            (38) in section 38(o) (12 U.S.C. 1831o(o))--
+                    (A) by striking ``Associations.--'' and all that 
+                follows through ``Subsections (e)(2)'' in paragraph (2) 
+                and inserting ``Associations.--Subsections (e)(2)'';
+                    (B) by redesignating subparagraphs (A), (B), and 
+                (C) as paragraphs (1), (2), and (3), respectively, and 
+                moving the margins 2 ems to the left; and
+                    (C) in paragraph (1) (as so redesignated), by 
+                redesignating clauses (i) and (ii) as subparagraphs (A) 
+                and (B), respectively, and moving the margins 2 ems to 
+                the left.
+
+SEC. 105. OTHER TECHNICAL AND CONFORMING AMENDMENTS.
+
+    (a) Section 5136 of the Revised Statutes.--The paragraph designated 
+the ``Eleventh'' of section 5136 of the Revised Statutes of the United 
+States (12 U.S.C. 24) is amended in the 5th sentence, by striking 
+``affected deposit insurance fund'' and inserting ``Deposit Insurance 
+Fund''.
+    (b) Investments Promoting Public Welfare; Limitations on Aggregate 
+Investments.--The 23d undesignated paragraph of section 9 of the 
+Federal Reserve Act (12 U.S.C. 338a) is amended in the 4th sentence, by 
+striking ``affected deposit insurance fund'' and inserting ``Deposit 
+Insurance Fund''.
+    (c) Advances to Critically Undercapitalized Depository 
+Institutions.--Section 10B(b)(3)(A)(ii) of the Federal Reserve Act (12 
+U.S.C. 347b(b)(3)(A)(ii)) is amended by striking ``any deposit 
+insurance fund in'' and inserting ``the Deposit Insurance Fund of''.
+    (d) Amendments to the Balanced Budget and Emergency Deficit Control 
+Act of 1985.--Section 255(g)(1)(A) of the Balanced Budget and Emergency 
+Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(A)) is amended--
+            (1) by striking ``Bank Insurance Fund'' and inserting 
+        ``Deposit Insurance Fund''; and
+            (2) by striking ``Federal Deposit Insurance Corporation, 
+        Savings Association Insurance Fund;''.
+    (e) Amendments to the Federal Home Loan Bank Act.--The Federal Home 
+Loan Bank Act (12 U.S.C. 1421 et seq.) is amended--
+            (1) in section 11(k) (12 U.S.C. 1431(k))--
+                    (A) in the subsection heading, by striking ``SAIF'' 
+                and inserting ``the Deposit Insurance Fund''; and
+                    (B) by striking ``Savings Association Insurance 
+                Fund'' each place that term appears and inserting 
+                ``Deposit Insurance Fund'';
+            (2) in section 21 (12 U.S.C. 1441)--
+                    (A) in subsection (f)(2), by striking ``, except 
+                that'' and all that follows through the end of the 
+                paragraph and inserting a period; and
+                    (B) in subsection (k), by striking paragraph (4);
+            (3) in section 21A(b)(4)(B) (12 U.S.C. 1441a(b)(4)(B)), by 
+        striking ``affected deposit insurance fund'' and inserting 
+        ``Deposit Insurance Fund''; and
+            (4) in section 21B(k) (12 U.S.C. 1441b(k)) by inserting 
+        before the colon ``, the following definitions shall apply''.
+    (f) Amendments to the Home Owners' Loan Act.--The Home Owners' Loan 
+Act (12 U.S.C. 1461 et seq.) is amended--
+            (1) in section 5 (12 U.S.C. 1464)--
+                    (A) in subsection (c)(6), by striking ``As used in 
+                this subsection--'' and inserting ``For purposes of 
+                this subsection, the following definitions shall 
+                apply:'';
+                    (B) in subsection (o)(1), by striking ``that is a 
+                Bank Insurance Fund member'';
+                    (C) in subsection (o)(2)(A), by striking ``a Bank 
+                Insurance Fund member until such time as it changes its 
+                status to a Savings Association Insurance Fund member'' 
+                and inserting ``insured by the Deposit Insurance 
+                Fund'';
+                    (D) in subsection (t)(5)(D)(iii)(II), by striking 
+                ``affected deposit insurance fund'' and inserting 
+                ``Deposit Insurance Fund'';
+                    (E) in subsection (t)(7)(C)(i)(I), by striking 
+                ``affected deposit insurance fund'' and inserting 
+                ``Deposit Insurance Fund''; and
+                    (F) in subsection (v)(2)(A)(i), by striking ``the 
+                Savings Association Insurance Fund'' and inserting ``or 
+                the Deposit Insurance Fund''; and
+            (2) in section 10 (12 U.S.C. 1467a)--
+                    (A) in subsection (c)(6)(D), by striking ``this 
+                title'' and inserting ``this Act'';
+                    (B) in subsection (e)(1)(B), by striking ``Savings 
+                Association Insurance Fund or Bank Insurance Fund'' and 
+                inserting ``Deposit Insurance Fund'';
+                    (C) in subsection (e)(2), by striking ``Savings 
+                Association Insurance Fund or the Bank Insurance Fund'' 
+                and inserting ``Deposit Insurance Fund'';
+                    (D) in subsection (e)(4)(B), by striking 
+                ``subsection (1)'' and inserting ``subsection (l)'';
+                    (E) in subsection (g)(3)(A), by striking ``(5) of 
+                this section'' and inserting ``(5) of this 
+                subsection'';
+                    (F) in subsection (i), by redesignating paragraph 
+                (5) as paragraph (4);
+                    (G) in subsection (m)(3), by striking subparagraph 
+                (E), and by redesignating subparagraphs (F), (G), and 
+                (H) as subparagraphs (E), (F), and (G), respectively;
+                    (H) in subsection (m)(7)(A), by striking ``during 
+                period'' and inserting ``during the period''; and
+                    (I) in subsection (o)(3)(D), by striking ``sections 
+                5(s) and (t) of this Act'' and inserting ``subsections 
+                (s) and (t) of section 5''.
+    (g) Amendments to the National Housing Act.--The National Housing 
+Act (12 U.S.C. 1701 et seq.) is amended--
+            (1) in section 317(b)(1)(B) (12 U.S.C. 1723i(b)(1)(B)), by 
+        striking ``Bank Insurance Fund for banks or through the Savings 
+        Association Insurance Fund for savings associations'' and 
+        inserting ``Deposit Insurance Fund''; and
+            (2) in section 536(b)(1)(B)(ii) (12 U.S.C. 1735f-
+        14(b)(1)(B)(ii)), by striking ``Bank Insurance Fund for banks 
+        and through the Savings Association Insurance Fund for savings 
+        associations'' and inserting ``Deposit Insurance Fund''.
+    (h) Amendments to the Financial Institutions Reform, Recovery, and 
+Enforcement Act of 1989.--The Financial Institutions Reform, Recovery, 
+and Enforcement Act of 1989 (12 U.S.C. 1811 note) is amended--
+            (1) in section 951(b)(3)(B) (12 U.S.C. 1833a(b)(3)(B)), by 
+        striking ``Bank Insurance Fund, the Savings Association 
+        Insurance Fund,'' and inserting ``Deposit Insurance Fund (or 
+        any predecessor deposit insurance fund)''; and
+            (2) in section 1112(c)(1)(B) (12 U.S.C. 3341(c)(1)(B)), by 
+        striking ``Bank Insurance Fund, the Savings Association 
+        Insurance Fund,'' and inserting ``Deposit Insurance Fund''.
+    (i) Amendment to the Bank Holding Company Act of 1956.--The Bank 
+Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is amended--
+            (1) in section 2(j)(2) (12 U.S.C. 1841(j)(2)), by striking 
+        ``Savings Association Insurance Fund'' and inserting ``Deposit 
+        Insurance Fund''; and
+            (2) in section 3(d)(1)(D)(iii) (12 U.S.C. 
+        1842(d)(1)(D)(iii)), by striking ``appropriate deposit 
+        insurance fund'' and inserting ``Deposit Insurance Fund''.
+    (j) Amendments to the Gramm-Leach-Bliley Act.--Section 114 of the 
+Gramm-Leach-Bliley Act (12 U.S.C. 1828a) is amended by striking ``any 
+Federal deposit insurance fund'', in subsection (a)(1)(B), paragraphs 
+(2)(B) and (4)(B) of subsection (b), and subsection (c)(1)(B), each 
+place that term appears and inserting ``the Deposit Insurance Fund''.
+
+SEC. 106. EFFECTIVE DATE.
+
+    This title and the amendments made by this title shall become 
+effective on the first day of the first calendar quarter that begins 
+more than 90 days after the date of enactment of this Act.
+
+       TITLE II--DEPOSIT INSURANCE MODERNIZATION AND IMPROVEMENT
+
+SEC. 201. SHORT TITLE.
+
+    This title may be cited as the ``Deposit Insurance Reform Act of 
+2005''.
+
+SEC. 202. INCREASE IN FEDERAL INSURANCE COVERAGE.
+
+    (a) Insured Depository Institutions.--
+            (1) In general.--Section 11(a)(1) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1821(a)(1)) is amended--
+                    (A) by striking subparagraph (B) and inserting the 
+                following:
+                    ``(B) Net amount of insured deposits.--The net 
+                amount of deposit insurance payable to any depositor at 
+                an insured depository institution shall not exceed the 
+                standard maximum deposit insurance amount, as 
+                determined in accordance with paragraph (3) and 
+                subparagraphs (C), (D), (E), and (F) of this 
+                paragraph.''; and
+                    (B) by striking subparagraph (D) and inserting the 
+                following:
+                    ``(D) Coverage for certain employee benefit plan 
+                deposits.--
+                            ``(i) Pass-through insurance.--The 
+                        Corporation shall provide pass-through deposit 
+                        insurance for the deposits of any employee 
+                        benefit plan.
+                            ``(ii) Prohibition on acceptance of benefit 
+                        plan deposits.--An insured depository 
+                        institution that is not well capitalized or 
+                        adequately capitalized may not accept employee 
+                        benefit plan deposits.
+                            ``(iii) Definitions.--For purposes of this 
+                        subparagraph, the following definitions shall 
+                        apply:
+                                    ``(I) Capital standards.--The terms 
+                                `well capitalized' and `adequately 
+                                capitalized' have the same meanings as 
+                                in section 38.
+                                    ``(II) Employee benefit plan.--The 
+                                term `employee benefit plan' has the 
+                                same meaning as in paragraph 
+                                (5)(B)(ii), and includes any eligible 
+                                deferred compensation plan described in 
+                                section 457 of the Internal Revenue 
+                                Code of 1986.
+                                    ``(III) Pass-through deposit 
+                                insurance.--The term `pass-through 
+                                deposit insurance' means, with respect 
+                                to an employee benefit plan, deposit 
+                                insurance coverage provided on a pro 
+                                rata basis to the participants in the 
+                                plan, in accordance with the interests 
+                                of each participant.
+                    ``(E) Standard maximum deposit insurance amount 
+                defined.--For purposes of this paragraph, the term 
+                `standard maximum deposit insurance amount' means, 
+                until the end of the 5-year period beginning on the 
+                date of enactment of the Deposit Insurance Reform Act 
+                of 2005, $100,000.
+                    ``(F) Inflation adjustment.--
+                            ``(i) In general.--As of January 1, 2010, 
+                        and as of the 1st day of each 5-year period 
+                        thereafter, the standard maximum deposit 
+                        insurance amount payable to any depositor at an 
+                        insured depository institution shall be 
+                        increased by the product of--
+                                    ``(I) $100,000; and
+                                    ``(II) the ratio of the value of 
+                                the Personal Consumption Expenditures 
+                                Chain-Type Index (or any successor 
+                                index thereto), published by the 
+                                Department of Commerce, for December 31 
+                                of the year preceding the year in which 
+                                the adjustment is calculated under this 
+                                clause, to the value of such index for 
+                                December 31 of the year preceding the 
+                                effective date of the Insurance Funds 
+                                Merger Act of 2005.
+                            ``(ii) Limitation on adjustments.--If the 
+                        application of clause (i) would result in any 
+                        decrease in the standard maximum deposit 
+                        insurance amount in effect on the date of the 
+                        adjustment under clause (i), the standard 
+                        maximum deposit insurance amount shall remain 
+                        unchanged until the next scheduled 5-year 
+                        adjustment that does not result in any such 
+                        decrease.
+                            ``(iii) Rounding.--If the amount determined 
+                        under clause (ii) for any period is not a 
+                        multiple of $10,000, the amount so determined 
+                        shall be rounded to the nearest $10,000.
+                            ``(iv) Publication.--Not later than January 
+                        1, 2010, and not later than April 1 of the 1st 
+                        year of each subsequent 5-year period referred 
+                        to in clause (i), the Board of Directors shall 
+                        publish in the Federal Register the standard 
+                        maximum deposit insurance amount and the amount 
+                        of deposit insurance coverage under paragraph 
+                        (3)(A) that may be due to any depositor at an 
+                        insured depository institution during the 
+                        applicable 5-year period.''.
+            (2) Deposit insurance for retirement accounts.--Section 
+        11(a)(3)(A) of the Federal Deposit Insurance Act (12 U.S.C. 
+        1821(a)(3)(A)) is amended--
+                    (A) by striking ``$100,000'' and inserting 
+                ``$250,000''; and
+                    (B) by inserting before the period at the end the 
+                following: ``which amount shall be subject to inflation 
+                adjustments in the same manner as under paragraph 
+                (1)(F) with respect to the standard maximum deposit 
+                insurance amount, except that `$250,000' shall be 
+                substituted for the amount specified in clause (i) of 
+                paragraph (1)(F) for purposes of this subparagraph''.
+            (3) Deposit insurance for municipal deposits.--Section 
+        11(a)(2)(A) of the Federal Deposit Insurance Act (12 U.S.C. 
+        1821(a)(2)(A)) is amended in the matter following clause (v)--
+                    (A) by striking ``$100,000'' the first place that 
+                term appears and inserting ``the standard maximum 
+                deposit insurance amount'';
+                    (B) by striking ``in an amount not to exceed 
+                $100,000 per account'' the second place that term 
+                appears; and
+                    (C) by inserting before the period at the end the 
+                following: ``, which amount shall be subject to 
+                inflation adjustments in the same manner as under 
+                paragraph (1)(F)''.
+            (4) Technical and conforming amendment relating to 
+        insurance of trust funds.--Section 7(i) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1817(i)) is amended in each of 
+        paragraphs (1) and (3), by striking ``$100,000'' each place it 
+        appears and inserting ``the standard maximum deposit insurance 
+        amount (as determined under section 11(a)(1))''.
+            (5) Other technical and conforming amendments.--The Federal 
+        Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended--
+                    (A) in section 11(m)(6) (12 U.S.C. 1821(m)(6)), by 
+                striking ``$100,000'' and inserting ``an amount equal 
+                to the standard maximum deposit insurance amount (as 
+                determined under subsection (a)(1))'';
+                    (B) in section 18 (12 U.S.C. 1828), by striking 
+                subsection (a) and inserting the following:
+    ``(a) Insurance Logo.--
+            ``(1) Insured depository institutions.--Each insured 
+        depository institution shall display at each place of business 
+        maintained by that institution a sign or signs relating to the 
+        insurance of the deposits of the institution, in accordance 
+        with regulations to be prescribed by the Corporation.
+            ``(2) Regulations.--The Corporation shall prescribe 
+        regulations to carry out this subsection, including regulations 
+        governing the substance of signs required by paragraph (1) and 
+        the manner of display or use of such signs.
+            ``(3) Penalties.--For each day that an insured depository 
+        institution continues to violate this subsection or any 
+        regulation issued under this subsection, it shall be subject to 
+        a penalty of not more than $100, which the Corporation may 
+        recover for its use.''; and
+                    (C) in section 43(d) (12 U.S.C. 1831t(d)), by 
+                striking ``$100,000'' and inserting ``an amount equal 
+                to the standard maximum deposit insurance amount (as 
+                determined under section 11(a)(1))''.
+    (b) Insured Credit Unions.--
+            (1) In general.--Section 207(k) of the Federal Credit Union 
+        Act (12 U.S.C. 1787(k)) is amended--
+                    (A) by striking ``(k)(1)'' and all that follows 
+                through the end of paragraph (1) and inserting the 
+                following:
+    ``(k) Insured Amounts Payable.--
+            ``(1) Net insured amount.--
+                    ``(A) In general.--Subject to the provisions of 
+                paragraph (2), the net amount of share insurance 
+                payable to any member at an insured credit union shall 
+                not exceed the total amount of the shares or deposits 
+                in the name of the member (after deducting offsets), 
+                less any part thereof which is in excess of the 
+                standard maximum share insurance amount, as determined 
+                in accordance with this paragraph and paragraphs (5) 
+                and (6), and consistent with actions taken by the 
+                Federal Deposit Insurance Corporation under section 
+                11(a) of the Federal Deposit Insurance Act.
+                    ``(B) Aggregation.--Determination of the net amount 
+                of share insurance under subparagraph (A), shall be in 
+                accordance with such regulations as the Board may 
+                prescribe, and, in determining the amount payable to 
+                any member, there shall be added together all accounts 
+                in the credit union maintained by that member for that 
+                member's own benefit, either in the member's own name 
+                or in the names of others.
+                    ``(C) Authority to define the extent of coverage.--
+                The Board may define, with such classifications and 
+                exceptions as it may prescribe, the extent of the share 
+                insurance coverage provided for member accounts, 
+                including member accounts in the name of a minor, in 
+                trust, or in joint tenancy.''; and
+                    (B) by adding at the end the following:
+            ``(4) Coverage for certain employee benefit plan 
+        deposits.--
+                    ``(A) Pass-through insurance.--The Administration 
+                shall provide pass-through share insurance for the 
+                deposits or shares of any employee benefit plan, 
+                subject to subparagraph (B).
+                    ``(B) Prohibition on acceptance of deposits.--An 
+                insured credit union that is not well capitalized or 
+                adequately capitalized may not accept employee benefit 
+                plan deposits.
+                    ``(C) Definitions.--For purposes of this paragraph, 
+                the following definitions shall apply:
+                            ``(i) Capital standards.--The terms `well 
+                        capitalized' and `adequately capitalized' have 
+                        the same meanings as in section 216(c), as 
+                        added by section 301 of the Credit Union 
+                        Membership Access Act (Public Law 105-219, 112 
+                        Stat. 931).
+                            ``(ii) Employee benefit plan.--The term 
+                        `employee benefit plan'--
+                                    ``(I) has the meaning given to such 
+                                term in section 3(3) of the Employee 
+                                Retirement Income Security Act of 1974;
+                                    ``(II) includes any plan described 
+                                in section 401(d) of the Internal 
+                                Revenue Code of 1986; and
+                                    ``(III) includes any eligible 
+                                deferred compensation plan described in 
+                                section 457 of the Internal Revenue 
+                                Code of 1986.
+                            ``(iii) Pass-through share insurance.--The 
+                        term `pass-through share insurance' means, with 
+                        respect to an employee benefit plan, insurance 
+                        coverage provided on a pro rata basis to the 
+                        participants in the plan, in accordance with 
+                        the interest of each participant.
+            ``(5) Standard maximum share insurance amount defined.--For 
+        purposes of this subsection, the term `standard maximum share 
+        insurance amount' means, until the end of the 270-day period 
+        beginning on the date of enactment of the Deposit Insurance 
+        Reform Act of 2005, $100,000.
+            ``(6) Inflation adjustment.--
+                    ``(A) In general.--As of January 1, 2010, and as of 
+                the 1st day of each subsequent 5-year period, the 
+                standard maximum share insurance amount payable to any 
+                member of an insured credit union shall be increased by 
+                the product of--
+                            ``(i) $100,000; and
+                            ``(ii) the ratio of the value of the 
+                        Personal Consumption Expenditures Chain-Type 
+                        Index (or any successor index thereto), 
+                        published by the Department of Commerce, as in 
+                        effect on the date of the adjustment under this 
+                        clause.
+                    ``(B) Limitation on adjustments.--If the 
+                application of subparagraph (A) would result in any 
+                decrease in the standard maximum share insurance amount 
+                in effect on the date of the adjustment under clause 
+                (i), the standard maximum share insurance amount shall 
+                remain unchanged until the next scheduled 5-year 
+                adjustment that does not result in any such decrease.
+                    ``(C) Rounding.--If the amount determined under 
+                subparagraph (B) for any period is not a multiple of 
+                $10,000, the amount so determined shall be rounded to 
+                the nearest $10,000.
+                    ``(D) Publication.--Not later than January 31 of 
+                the 1st year of each 5-year period referred to in 
+                subparagraph (A), the Board shall publish in the 
+                Federal Register the standard maximum share insurance 
+                amount and the amount of share insurance coverage under 
+                paragraph (3) that may be due to any member at an 
+                insured credit union during that 5-year period.''; and
+                    (C) in paragraph (3), by striking ``$100,000 per 
+                account'' and inserting the following: ``$250,000 per 
+                account, which amount shall be subject to inflation 
+                adjustments in the same manner as under paragraph (6) 
+                with respect to the standard maximum share insurance 
+                amount (as determined under paragraph (5), except that 
+                `$250,000' shall be substituted for the amount 
+                specified in paragraph (5)(A)(i) for purposes of this 
+                paragraph).''.
+            (2) Technical amendment.--Section 202(h) of the Federal 
+        Credit Union Act (12 U.S.C. 1782(h)) is amended by striking 
+        ``207(c)(1)'' and inserting ``207(k)''.
+    (c) Effective Date.--Except as otherwise specifically provided in 
+this section or the amendments made by this section, this section and 
+such amendments shall become effective on the effective date of the 
+regulations required under section 205(a)(2), relating to the 
+implementation of deposit insurance increases under this section.
+
+SEC. 203. DESIGNATED RESERVE RATIO.
+
+    (a) In General.--
+            (1) Amendment to section 7.--Section 7(b)(3) of the Federal 
+        Deposit Insurance Act (12 U.S.C. 1817(b)(3)) is amended to read 
+        as follows:
+            ``(3) Designated reserve ratio.--
+                    ``(A) Action by the board.--
+                            ``(i) In general.--Before the beginning of 
+                        each calendar year, the Board of Directors 
+                        shall, subject to clause (ii)--
+                                    ``(I) designate the reserve ratio 
+                                applicable to the Deposit Insurance 
+                                Fund for that year; and
+                                    ``(II) publish the reserve ratio so 
+                                designated.
+                            ``(ii) Rulemaking.--Any change to the 
+                        designated reserve ratio for any calendar year 
+                        shall be made pursuant to section 553 of title 
+                        5, United States Code.
+                    ``(B) Range.--The reserve ratio designated by the 
+                Board of Directors for any year--
+                            ``(i) may not exceed 1.50 percent of 
+                        aggregate estimated insured deposits; and
+                            ``(ii) may not be less than 1.0 percent of 
+                        aggregate estimated insured deposits.
+                    ``(C) Factors.--In designating a reserve ratio for 
+                any year, the Board of Directors shall--
+                            ``(i) take into account the risk of losses 
+                        to the Deposit Insurance Fund in that year and 
+                        in future years;
+                            ``(ii) take into account economic 
+                        conditions generally affecting insured 
+                        depository institutions, to provide for an 
+                        increase in the designated reserve ratio during 
+                        more favorable economic conditions and to 
+                        provide for a decrease in the designated 
+                        reserve ratio during less favorable economic 
+                        conditions, notwithstanding the increased risks 
+                        of loss that may exist during such less 
+                        favorable conditions, as determined to be 
+                        appropriate by the Board;
+                            ``(iii) seek to prevent sharp swings in the 
+                        assessment rates for insured depository 
+                        institutions; and
+                            ``(iv) take into account such other factors 
+                        as the Board of Directors may determine to be 
+                        appropriate, consistent with the requirements 
+                        of this subparagraph.''.
+            (2) Technical and conforming amendments.--Section 3(y) of 
+        the Federal Deposit Insurance Act (12 U.S.C. 1813), as added by 
+        this Act, is amended by adding at the end the following:
+            ``(2) Reserve ratio.--The term `reserve ratio' means the 
+        ratio of the fund balance of the Deposit Insurance Fund to 
+        aggregate estimated insured deposits held in all insured 
+        depository institutions.
+            ``(3) Designated reserve ratio.--The term `designated 
+        reserve ratio' means the reserve ratio designated by the Board 
+        of Directors under section 7(b)(3).''.
+            (3) Effective date.--Subject to paragraph (4), this 
+        subsection and the amendments made by this subsection shall 
+        become effective on the effective date of the regulations 
+        required under section 205(a)(1), relating to designation of 
+        the reserve ratio by the Board.
+            (4) Designation of initial reserve ratio for deposit 
+        insurance fund.--During the period beginning on the effective 
+        date of the merger of the deposit insurance funds under section 
+        102, and ending on the effective date of final regulations 
+        designating the reserve ratio, as required by section 
+        205(a)(1), the designated reserve ratio of the Deposit 
+        Insurance Fund shall continue to be determined pursuant to 
+        section 7(b)(2)(A)(iv), as in effect on the day before the 
+        effective date of the merger under section 102.
+    (b) Requirements Applicable to Any Modification of the Risk-Based 
+Assessment System.--Section 7(b)(1) of the Federal Deposit Insurance 
+Act (12 U.S.C. 1817(b)(1)) is amended by adding at the end the 
+following:
+                    ``(E) Requirements applicable to any modification 
+                of the risk-based assessment system.--
+                            ``(i) In general.--In revising or modifying 
+                        the risk-based assessment system at any time 
+                        after the date of enactment of the Deposit 
+                        Insurance Reform Act of 2005, the Board of 
+                        Directors--
+                                    ``(I) may not make any change to 
+                                the information collected from or 
+                                required to be retained by insured 
+                                depository institutions solely for 
+                                purposes of the assessment risk 
+                                classification, as defined by 
+                                regulations of the Board, if the change 
+                                would result in the imposition of an 
+                                overall greater regulatory or reporting 
+                                burden on insured depository 
+                                institutions than was the case before 
+                                that date of enactment; and
+                                    ``(II) may implement any such 
+                                revision or modification in final form 
+                                only after notice and opportunity for 
+                                comment.
+                            ``(ii) Rule of construction.--An increase 
+                        in an assessment rate or a revision of the 
+                        assessment base shall not be considered to be a 
+                        revision or modification resulting in greater 
+                        regulatory or reporting burden for purposes of 
+                        this subparagraph.''.
+
+SEC. 204. ASSESSMENT CREDITS AND DIVIDENDS.
+
+    (a) In General.--Section 7(e) of the Federal Deposit Insurance Act 
+(12 U.S.C. 1817(e)) is amended to read as follows:
+    ``(e) Credits and Dividends.--
+            ``(1) One-time credit based on total assessment base at 
+        year-end 1996.--
+                    ``(A) In general.--The Board of Directors shall, by 
+                regulation, provide for a credit to each insured 
+                depository institution that was in existence on 
+                December 31, 1996, and that had paid a deposit 
+                insurance assessment prior to that date (or a successor 
+                insured depository institution), based on the 
+                assessment base of the institution on that date, as 
+                compared to the combined aggregate assessment base of 
+                all such institutions, taking into account such factors 
+                as the Board may determine to be appropriate.
+                    ``(B) Credit limit.--The aggregate amount of 
+                credits available under subparagraph (A) to all insured 
+                depository institutions that are eligible for the 
+                credit shall not exceed the amount that the Corporation 
+                could collect if it imposed an assessment of 9 basis 
+                points on the combined assessment base of the Bank 
+                Insurance Fund and the Savings Association Insurance 
+                Fund as of December 31, 2001.
+                    ``(C) Application of credits.--The amount of a 
+                credit to any insured depository institution under this 
+                paragraph may be applied by the Corporation to those 
+                portions of the assessments under subsection (b) 
+                applicable to that institution which become due for 
+                assessment periods beginning after the effective date 
+                of regulations required by subparagraph (A).
+                    ``(D) Challenges to credit amounts.--The 
+                regulations required by subparagraph (A) shall include 
+                provisions allowing an insured depository institution a 
+                reasonable opportunity to challenge administratively 
+                the amount of its credit under this paragraph. The 
+                determination of the Corporation of the amount of the 
+                credit following such challenge shall be final, and not 
+                subject to judicial review.
+            ``(2) Assessment credits.--
+                    ``(A) Authority.--The Board of Directors shall, by 
+                regulation, establish the qualifications and procedures 
+                under which the Corporation would apply assessment 
+                credits for the assessment periods beginning on or 
+                after the first assessment period to which a credit 
+                under paragraph (1) applies.
+                    ``(B) Criteria for determination.--In determining 
+                whether to provide assessment credits under this 
+                paragraph and in what amounts, the Board of Directors 
+                shall take into account the factors for setting 
+                assessments under subsection (b)(2) and the factors for 
+                designating the reserve ratio under subsection (b)(3).
+            ``(3) Dividends.--
+                    ``(A) Reserve ratio in excess of 1.50 percent of 
+                estimated insured deposits.--The Corporation shall 
+                provide cash dividends to insured depository 
+                institutions in accordance with this paragraph if the 
+                reserve ratio of the Deposit Insurance Fund exceeds the 
+                maximum amount established under subsection 
+                (b)(3)(B)(i), to the extent of that excess amount.
+                    ``(B) Amount equal to or in excess of 1.40 percent 
+                of estimated insured deposits and not more than 1.50 
+                percent.--The Corporation shall provide cash dividends 
+                to insured depository institutions in accordance with 
+                this paragraph if the reserve ratio of the Deposit 
+                Insurance Fund equals or exceeds 1.40 and is not more 
+                than 1.50 percent, and that amount shall equal 50 
+                percent of the amount in excess of the amount required 
+                to maintain the reserve ratio at 1.40 percent of the 
+                estimated insured deposits.
+                    ``(C) Limitation.--The Board of Directors may 
+                suspend or limit dividends paid under this paragraph if 
+                the Board determines in writing that--
+                            ``(i) a significant risk of losses to the 
+                        Deposit Insurance Fund exists over the next 
+                        one-year period; and
+                            ``(ii) it is likely that such losses will 
+                        be sufficiently high as to justify a finding by 
+                        the Board that the reserve ratio should 
+                        temporarily exceed the maximum amount 
+                        established under subsection (b)(3)(B)(i).
+                    ``(D) Considerations.--In making a determination 
+                under subparagraph (B), the Board shall consider--
+                            ``(i) national and regional conditions and 
+                        their impact on insured depository 
+                        institutions;
+                            ``(ii) potential problems affecting insured 
+                        depository institutions or a specific group or 
+                        type of depository institution;
+                            ``(iii) the degree to which the contingent 
+                        liability of the Corporation for anticipated 
+                        failures of insured institutions adequately 
+                        addresses concerns over funding levels in the 
+                        Deposit Insurance Fund; and
+                            ``(iv) any other factors that the Board 
+                        determines is appropriate.
+                    ``(E) Report to congress.--
+                            ``(i) Submission.--Any determination under 
+                        subparagraph (B) shall be submitted to the 
+                        Committee on Banking, Housing, and Urban 
+                        Affairs of the Senate and the Committee on 
+                        Financial Services of the House of 
+                        Representatives, not later than 270 days after 
+                        making such determination.
+                            ``(ii) Content.--The report submitted under 
+                        clause (i) shall include--
+                                    ``(I) a complete explanation for 
+                                the determination; and
+                                    ``(II) a discussion of the factors 
+                                required to be considered under 
+                                subparagraph (C).
+                    ``(F) Review of determination.--
+                            ``(i) Annual review.--A determination to 
+                        suspend or limit dividends under subparagraph 
+                        (B) shall be reviewed by the Board of Directors 
+                        annually.
+                            ``(ii) Action by board.--Based on each 
+                        annual review under clause (i), the Board of 
+                        Directors shall either renew or remove a 
+                        determination to suspend or limit dividends 
+                        under subparagraph (B), or shall make a new 
+                        determination in accordance with this 
+                        paragraph. Unless justified under the terms of 
+                        the renewal or new determination, any amount as 
+                        is in the Fund in excess of the amount required 
+                        to maintain the reserve ratio at the maximum 
+                        amount established under subsection 
+                        (b)(3)(B)(i) shall be paid as dividends to 
+                        insured depository institutions in accordance 
+                        with this paragraph.''.
+    (b) Effective Date.--The amendments made by this section shall 
+become effective on the effective date of the regulations required to 
+be issued under section 205(a)(2), relating to implementation of the 
+one-time assessment credit.
+
+SEC. 205. REGULATIONS REQUIRED.
+
+    (a) In General.--Not later than 270 days after the date of 
+enactment of this Act, the Board shall issue final regulations, in 
+accordance with section 553 of chapter 5 of title 5, United States 
+Code--
+            (1) designating the reserve ratio for the Deposit Insurance 
+        Fund in accordance with section 7(b)(3) of the Federal Deposit 
+        Insurance Act, as amended by section 203 of this Act, which 
+        regulations shall become effective not later than 90 days after 
+        the date of their publication in final form;
+            (2) implementing increases in deposit insurance coverage in 
+        accordance with the amendments made by section 202, which 
+        regulations shall become effective not later than 90 days after 
+        the date of their publication in final form;
+            (3) implementing the one-time assessment credit to certain 
+        insured depository institutions in accordance with section 
+        7(e)(2) of the Federal Deposit Insurance Act, as amended by 
+        section 204 of this Act;
+            (4) establishing the qualifications and procedures under 
+        which the Corporation may provide ongoing assessment credits, 
+        under section 7(e)(3) of the Federal Deposit Insurance Act, as 
+        amended by section 204 of this Act; and
+            (5) providing for assessments under section 7 of the 
+        Federal Deposit Insurance Act, as amended by this Act, which 
+        regulations shall become effective on the effective date of the 
+        regulations required by paragraph (3).
+    (b) Savings Clause.--
+            (1) In general.--Nothing in this Act or the amendments made 
+        by this Act shall be construed to affect the authority of the 
+        Corporation with regard to the setting or collection of deposit 
+        insurance assessments prior to the effective date of any 
+        regulations required under subsection (a).
+            (2) Preservation of minimum assessment provision.--
+        Subparagraph (E) of section 7(b)(2) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1817(b)(2)), as in effect on the day 
+        before the effective date of title I of this Act, shall 
+        continue to apply with respect to deposit insurance assessments 
+        imposed prior to the effective date of the regulations required 
+        under subsection (a)(5) of this section.
+
+SEC. 206. STUDIES OF POTENTIAL CHANGES TO THE FEDERAL DEPOSIT INSURANCE 
+              SYSTEM.
+
+    (a) Study and Report by FDIC and NCUA.--
+            (1) Study.--The Board of Directors of the Federal Deposit 
+        Insurance Corporation and the National Credit Union 
+        Administration Board shall each conduct a study of--
+                    (A) the feasibility of increasing the limit on 
+                deposit insurance for deposits of municipalities and 
+                other units of general local government, and the 
+                potential benefits and the potential adverse 
+                consequences that may result from any such increase; 
+                and
+                    (B) the feasibility of establishing a voluntary 
+                deposit insurance system for deposits in excess of the 
+                maximum amount of deposit insurance for any depositor, 
+                and the potential benefits and the potential adverse 
+                consequences that may result from the establishment of 
+                any such system.
+            (2) Report.--Not later than 1 year after the date of 
+        enactment of this Act, the Board of Directors of the Federal 
+        Deposit Insurance Corporation and the National Credit Union 
+        Administration Board shall each submit a report to the Congress 
+        on the study required under paragraph (1), containing the 
+        findings and conclusions of the reporting agency, together with 
+        such recommendations for legislative or administrative changes 
+        as the agency may determine to be appropriate.
+    (b) Study and Report Regarding Appropriate Reserve Ratio.--
+            (1) Study.--The Corporation shall conduct a study on the 
+        feasibility of using actual deposits rather than estimated 
+        insured deposits in calculating the reserve ratio of the 
+        Deposit Insurance Fund.
+            (2) Report.--Not later than 1 year after the date of 
+        enactment of this Act, the Board shall submit a report to 
+        Congress on the results of the study required under paragraph 
+        (1), together with such recommendations for legislative or 
+        administrative actions as may be determined to be appropriate.
+
+SEC. 207. EFFECTIVE DATE.
+
+    Except as otherwise specifically provided in this title, this title 
+and the amendments made by this title shall become effective on the 
+date of enactment of this Act.
+                                 <all>
+

@@ -1,0 +1,131 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[S. 2293 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+106th CONGRESS
+  2d Session
+                                S. 2293
+
+ To amend the Federal Deposit Insurance Act and the Federal Home Loan 
+ Bank Act to provide for the payment of Financing Corporation interest 
+ obligations from balances in the deposit insurance funds in excess of 
+  an established ratio and, after such obligations are satisfied, to 
+ provide for rebates to insured depository institutions of such excess 
+                               reserves.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 27, 2000
+
+ Mr. Santorum (for himself, Mr. Edwards, Mr. Helms, Mr. Murkowski, and 
+Mrs. Hutchison) introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Federal Deposit Insurance Act and the Federal Home Loan 
+ Bank Act to provide for the payment of Financing Corporation interest 
+ obligations from balances in the deposit insurance funds in excess of 
+  an established ratio and, after such obligations are satisfied, to 
+ provide for rebates to insured depository institutions of such excess 
+                               reserves.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Deposit Insurance Fairness and 
+Economic Opportunity Act''.
+
+SEC. 2. USE OF EXCESS DEPOSIT FUND RESERVES TO PAY FICO INTEREST 
+              OBLIGATIONS AND MAKE REBATES.
+
+    (a) In General.--Section 7(b)(2) of the Federal Deposit Insurance 
+Act (12 U.S.C. 1817(b)(2)) is amended by inserting after subparagraph 
+(C) the following:
+                    ``(D) Use of excess deposit insurance funds 
+                initially to pay fico interest obligations and then for 
+                other purposes.--Notwithstanding subsection (e)(2), 
+                beginning January 1, 2001, and annually thereafter, if 
+                the funds in both the Bank Insurance Fund and the 
+                Savings Association Insurance Fund, respectively, 
+                exceed 1.40 percent of the total estimated deposits 
+                insured by each of the respective Funds (or such higher 
+                percentage as may have been established as the 
+                designated reserve ratio for the respective Fund 
+                pursuant to subparagraph (A)(iv)(II)), the Board of 
+                Directors shall transfer such excess amounts as 
+                follows:
+                            ``(i) Years 2001 through 2017.--In years 
+                        2001 through 2017, to the Financing Corporation 
+                        in such amount as is necessary to pay, for such 
+                        year, the interest payments, issuance costs, 
+                        and custodial fees described in section 21(f) 
+                        of the Federal Home Loan Bank Act with regard 
+                        to obligations issued by the Financing 
+                        Corporation.
+                            ``(ii) Years after 2017.--In years 
+                        beginning after December 31, 2017--
+                                    ``(I) to the Financing Corporation 
+                                for the purposes described in clause 
+                                (i); and
+                                    ``(II) if the amount required to be 
+                                transferred under this subparagraph 
+                                exceeds the amount required by the 
+                                Financing Corporation for the purposes 
+                                described in clause (i), to insured 
+                                depository institutions, the allocation 
+                                of which is to be made on such basis as 
+                                the Board of Directors determines to be 
+                                appropriate, taking into account the 
+                                factors considered under the risk-based 
+                                assessment system, except that no 
+                                amount may be paid under this subclause 
+                                to any insured depository institution 
+                                described in subparagraph (A)(v).''.
+    (b) Technical and Conforming Amendments.--
+            (1) Federal home loan bank act.--Section 21(f) of the 
+        Federal Home Loan Bank Act (12 U.S.C. 1441) is amended--
+                    (A) by redesignating paragraphs (2) and (3) as 
+                paragraphs (3) and (4), respectively;
+                    (B) by inserting after paragraph (1) the following:
+            ``(2) Excess deposit insurance fund balances.--In addition 
+        to the amounts obtained pursuant to paragraph (1), the 
+        Financing Corporation shall have available the amounts 
+        transferred by the Board of Directors of the Federal Deposit 
+        Insurance Corporation pursuant to section 7(b)(2)(D) of the 
+        Federal Deposit Insurance Act.'';
+                    (C) in paragraph (3) (as redesignated), by striking 
+                ``In addition to the amounts obtained pursuant to 
+                paragraph (1),'' and inserting ``To the extent that the 
+                amounts available under paragraphs (1) and (2) are 
+                insufficient to cover the amount of interest payments, 
+                issuance costs, and custodial fees,''; and
+                    (D) in paragraph (4) (as redesignated), by striking 
+                ``(1) and (2)'' and inserting ``(1), (2), and (3)''.
+            (2) Deposit insurance funds act of 1996.--Section 
+        2703(c)(2) of the Deposit Insurance Funds Act of 1996 (12 
+        U.S.C. 1441 note) is amended--
+                    (A) by striking ``21(f)(2)'' and inserting 
+                ``21(f)(3)''; and
+                    (B) by inserting ``and redesignated by section 
+                2(b)(1)(A) of the Deposit Insurance Fairness and 
+                Economic Opportunity Act'' after ``as amended by 
+                subsection (a)''.
+                                 <all>
+

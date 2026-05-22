@@ -1,0 +1,389 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[S. 633 Introduced in Senate (IS)]
+
+  1st Session
+                                 S. 633
+
+To amend the Federal Deposit Insurance Act to provide certain consumer 
+    protections if a depository institution engages in the sale of 
+        nondeposit investment products, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+               March 28 (legislative day, March 27), 1995
+
+   Mr. Pryor introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Deposit Insurance Act to provide certain consumer 
+    protections if a depository institution engages in the sale of 
+        nondeposit investment products, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Bank Customer Confidentiality and 
+Protection Act of 1995''.
+
+SEC. 2. CUSTOMER PROTECTIONS REGARDING NONDEPOSIT INVESTMENT PRODUCTS.
+
+    (a) Amendment to the Federal Deposit Insurance Act.--Section 18 of 
+the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by adding 
+at the end the following new subsection:
+    ``(q) Safeguards for Sale of Nondeposit Investment Products.--
+            ``(1) Definitions.--For purposes of this subsection--
+                    ``(A) the terms `broker', `dealer', and `registered 
+                broker or dealer' have the same meanings as in section 
+                3 of the Securities Act of 1934;
+                    ``(B) the term `customer'--
+                            ``(i) means any person who maintains or 
+                        establishes a deposit, trust, or credit 
+                        relationship with an insured depository 
+                        institution;
+                            ``(ii) includes any person who renews an 
+                        account in an insured depository institution 
+                        and any person who rolls over a deposit in any 
+                        such account; and
+                            ``(iii) any person who contacts an insured 
+                        depository institution, in person or otherwise, 
+                        for the purpose of inquiring about or 
+                        purchasing a nondeposit investment product;
+                    ``(C) the term `Federal securities law' has the 
+                meaning given to the term `securities laws' in section 
+                3(a)(47) of the Securities Exchange Act of 1934;
+                    ``(D) the term `nondeposit investment product'--
+                            ``(i) includes any investment product that 
+                        is not a deposit; and
+                            ``(ii) does not include--
+                                    ``(I) any loan or other extension 
+                                of credit by an insured depository 
+                                institution;
+                                    ``(II) any letter of credit; or
+                                    ``(III) any other instrument or 
+                                investment product specifically 
+                                excluded from the definition of such 
+                                term by regulations prescribed jointly 
+                                by the Federal banking agencies after 
+                                consultation with the Securities and 
+                                Exchange Commission;
+                    ``(E) the term `nonpublic customer information'--
+                            ``(i) means information regarding any 
+                        person which has been derived from any record 
+                        of any insured depository institution and 
+                        pertains to the person's relationship with the 
+                        institution, including the provision or 
+                        servicing of a credit card; and
+                            ``(ii) does not include information about a 
+                        person that could be obtained from a credit 
+                        reporting agency that is subject to the 
+                        restrictions of the Fair Credit Reporting Act 
+                        by a third party that is not entering into a 
+                        credit relationship with the person, but that 
+                        otherwise has a legitimate business need for 
+                        that information in connection with a business 
+                        transaction involving the person; and
+                    ``(F) the term `self-regulatory organization' has 
+                the same meaning as in section 3(a)(26) of the 
+                Securities Exchange Act of 1934.
+            ``(2)  Misrepresentation of guarantees.--It shall be 
+        unlawful for any insured depository institution sponsoring, 
+        selling, or soliciting the purchase of any nondeposit 
+        investment product to represent or imply in any manner 
+        whatsoever that such nondeposit investment product--
+                    ``(A) is guaranteed or approved by the United 
+                States or any agency or officer thereof; or
+                    ``(B) is insured under this Act.
+            ``(3) Customer disclosure.--
+                    ``(A) In general.--An insured depository 
+                institution shall, concurrently with the opening of an 
+                investment account by a customer or with the initial 
+                purchase of a nondeposit investment product by a 
+                customer, prominently disclose, in writing, to that 
+                customer--
+                            ``(i) that nondeposit investment products 
+                        offered, recommended, sponsored, or sold by the 
+                        institution--
+                                    ``(I) are not deposits;
+                                    ``(II) are not insured under this 
+                                Act;
+                                    ``(III) are not guaranteed by the 
+                                insured depository institution; and
+                                    ``(IV) carry risk of a loss of 
+                                principal;
+                            ``(ii) the nature of the relationship 
+                        between the insured depository institution and 
+                        the broker or dealer;
+                            ``(iii) any fees that the customer will or 
+                        may incur in connection with the nondeposit 
+                        investment product;
+                            ``(iv) whether the broker or dealer would 
+                        receive any higher or special compensation for 
+                        the sale of certain types of nondeposit 
+                        investment products; and
+                            ``(v) any other information that the 
+                        Federal banking agencies jointly determine to 
+                        be appropriate.
+                    ``(B) Customer acknowledgment of disclosure.--
+                            ``(i) In general.--Concurrently with the 
+                        opening of an investment account by a customer 
+                        or with the initial purchase of a nondeposit 
+                        investment product by a customer, an insured 
+                        depository institution or other person required 
+                        to make disclosures to the customer under 
+                        subparagraph (A) shall obtain from each such 
+                        customer a written acknowledgment of receipt of 
+                        such disclosures, including the date of receipt 
+                        and the name, address, account number, and 
+                        signature of the customer.
+                            ``(ii) Records of customer 
+                        acknowledgement.--An insured depository 
+                        institution shall maintain appropriate records 
+                        of the written acknowledgement required by this 
+                        subparagraph for an appropriate period, as 
+                        determined by the Corporation. Such record 
+                        shall include the date on which the 
+                        acknowledgment was obtained and the customer's 
+                        name and address.
+                            ``(iii) Duration of acknowledgement.--
+                        Written acknowledgement shall not be considered 
+                        valid for purposes of this subparagraph for a 
+                        period of more than 5 years, beginning on the 
+                        date on which it was obtained.
+                    ``(C) Prohibition on inconsistent oral 
+                representations.--No employee of an insured depository 
+                institution shall make any oral representation to a 
+                customer of an insured depository institution that is 
+                contradictory or otherwise inconsistent with the 
+                information required to be disclosed to the customer 
+                under this paragraph.
+                    ``(D) Model forms and regulations.--The Federal 
+                banking agencies, after consultation with the 
+                Securities and Exchange Commission, shall jointly issue 
+                appropriate regulations incorporating the requirements 
+                of this paragraph. Such regulations shall include a 
+                requirement for a model disclosure form solely for such 
+                purpose to be used by all insured depository 
+                institutions incorporating the disclosures required by 
+                this paragraph.
+            ``(4) Referral compensation.--A one-time nominal referral 
+        fee may be paid by an insured depository institution to any 
+        employee of that institution who refers a customer of that 
+        institution either to a broker or dealer or to another employee 
+        of that insured depository institution for services related to 
+        the sale of a nondeposit investment product, if the fee is not 
+        based upon whether or not the customer referred makes a 
+        purchase from the broker, dealer, or other employee.
+            ``(5) Prohibition of joint marketing activities.--No 
+        nondeposit investment product may be offered, recommended, or 
+        sold by a person unaffiliated with an insured depository 
+        institution on the premises of that institution as part of 
+        joint marketing activities, unless the person marketing such 
+        nondeposit investment product--
+                    ``(A) prominently discloses to its customers, in 
+                writing, in addition to the disclosures required in 
+                paragraph (3), that such person is not an insured 
+depository institution and is separate and distinct from the insured 
+depository institution with which it shares marketing activities; and
+                    ``(B) otherwise complies with the requirements of 
+                this subsection.
+            ``(6) Limitations on advertising.--
+                    ``(A) Misleading advertising.--No insured 
+                depository institution may employ any advertisement 
+                that would mislead or otherwise cause a reasonable 
+                person to believe mistakenly that an insured depository 
+                institution or the Federal Government is responsible 
+                for the activities of an affiliate of the institution, 
+                stands behind the affiliate's credit, guarantees any 
+                returns on nondeposit investment products, or is a 
+                source of payment of any obligation of or sold by the 
+                affiliate.
+                    ``(B) Names, letterheads, and logos.--In offering, 
+                recommending, sponsoring, or selling nondeposit 
+                investment products, an insured depository institution 
+                shall use names, letterheads, and logos that are 
+                sufficiently different from the names, letterheads, and 
+                logos of the institution so as to avoid the possibility 
+                of confusion.
+                    ``(C) Separation of literature.--All sales 
+                literature related to the marketing of nondeposit 
+                investment products by an insured depository 
+                institution shall be kept separate and apart from, and 
+                not be commingled with, the banking literature of that 
+                institution.
+            ``(7) Limitations on solicitation.--The place of 
+        solicitation or sale of nondeposit investment products by an 
+        insured depository institution shall be--
+                    ``(A) physically separated from the banking 
+                activities of the institution; and
+                    ``(B) readily distinguishable by the public as 
+                separate and distinct from that of the institution.
+            ``(8) Sales staff requirement.--Solicitation for the 
+        purchase or sale of nondeposit investment products by any 
+        insured depository institution may only be conducted by a 
+        person--
+                    ``(A) who--
+                            ``(i) is a registered broker or dealer or a 
+                        person affiliated with a registered broker or 
+                        dealer; or
+                            ``(ii) has passed a qualification 
+                        examination that the appropriate Federal 
+                        banking agency, in consultation with the 
+                        Securities and Exchange Commission, determines 
+                        to be comparable to those used by a national 
+                        security exchange registered under section 6 of 
+                        the Securities Exchange Act of 1934, or a 
+                        national securities association registered 
+                        under section 15A of that Act, for persons 
+                        required to be registered with the exchange or 
+                        association; and
+                    ``(B) whose responsibilities are restricted to such 
+                nondeposit investment products.
+            ``(9)  No favoring of captive agents.--No insured 
+        depository institution may directly or indirectly require, as a 
+        condition of providing any product or service to any customer, 
+        or any renewal of any contract for providing such product or 
+        service, that the customer acquire, finance, negotiate, 
+        refinance, or renegotiate any nondeposit investment product 
+        through a named broker or dealer.
+            ``(10)  Restrictions on use of nonpublic customer 
+        information.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), no insured depository institution may 
+                use or disclose to any person any nonpublic customer 
+                information for the purpose of soliciting the purchase 
+                or sale of nondeposit investment products.
+                    ``(B) Exception based on disclosure.--An insured 
+                depository institution may use or disclose nonpublic 
+                customer information for the purpose of soliciting the 
+                purchase or sale of nondeposit investment products if, 
+                before such use or disclosure--
+                            ``(i) the customer gives explicit written 
+                        consent to such use or disclosure; and
+                            ``(ii) such written consent is given after 
+                        the institution has provided the customer with 
+                        written disclosure that--
+                                    ``(I) the information may be used 
+                                to target the customer for marketing or 
+                                advertising for nondeposit investment 
+                                products;
+                                    ``(II) such nondeposit investment 
+                                products are not guaranteed or approved 
+                                by the United States or any agency 
+                                thereof; and
+                                    ``(III) such nondeposit investment 
+                                products are not insured under this 
+                                Act.
+                    ``(C) Records of customer consent.--An insured 
+                depository institution shall maintain appropriate 
+                records of the written consent required by subparagraph 
+                (B) for an appropriate period, as determined by the 
+                Corporation. Such record shall include the date on 
+                which the consent was signed and the customer's name 
+                and address.
+                    ``(D) Duration of consent.--Written consent shall 
+                not be considered valid for purposes of this paragraph 
+                for a period of more than 5 years, beginning on the 
+                date on which it was obtained.
+                    ``(E) Additional restrictions.--The Corporation 
+                may, by regulation or order, prescribe additional 
+                restrictions and requirements limiting the disclosure 
+                of nonpublic customer information, including 
+                information to be used in an evaluation of the credit 
+                worthiness of an issuer or other customer of that 
+                insured depository institution and such additional 
+                restrictions as may be necessary or appropriate to 
+                avoid any significant risk to insured depository 
+                institutions, protect customers, and avoid conflicts of 
+                interest or other abuses.
+            ``(11) Scope of application.--
+                    ``(A) Application limited to retail activities.--
+                The Federal banking agencies, after consultation with 
+                the Securities and Exchange Commission, may waive the 
+                requirements of any provision of this subsection, other 
+                than paragraph (10), with respect to any transaction 
+                otherwise subject to such provision between--
+                            ``(i) any insured depository institution or 
+                        any other person who is subject, directly or 
+                        indirectly, to the requirements of this 
+                        section; and
+                            ``(ii) any other insured depository 
+                        institution, any registered broker or dealer, 
+                        any person who is, or meets the requirements 
+                        for, an accredited investor, as such term is 
+                        defined in section 2(15)(i) of the Securities 
+                        Act of 1933, or any other customer who the 
+                        Federal banking agencies, after consultation 
+                        with the Securities and Exchange Commission, 
+                        jointly determine, on the basis of the 
+                        financial sophistication of the customer, does 
+                        not need the protection afforded by the 
+                        requirements to be waived.
+                    ``(B) No effect on other authority.--No provision 
+                of this subsection shall be construed as limiting or 
+                otherwise affecting--
+                            ``(i) any authority of the Securities and 
+                        Exchange Commission, any self-regulatory 
+                        organization, the Municipal Securities 
+                        Rulemaking Board, or the Secretary of the 
+                        Treasury under any Federal securities law;
+                            ``(ii) any authority of any State 
+                        securities regulatory agency; or
+                            ``(iii) the applicability of any Federal 
+                        securities law, or any rule or regulation 
+                        prescribed by the Commission, any self-
+                        regulatory organization, the Municipal 
+                        Securities Rulemaking Board, or the Secretary 
+                        of the Treasury pursuant to any such law, to 
+                        any person.
+            ``(12) Enforcement.--The provisions of this subsection 
+        shall be enforced in accordance with section 8.''.
+    (b) Regulations.--Not later than 1 year after the date of enactment 
+of this Act, after consultation with the Securities and Exchange 
+Commission, the appropriate Federal banking agencies (as defined in 
+section 3 of the Federal Deposit Insurance Act) shall jointly 
+promulgate appropriate regulations to implement section 18(q) of the 
+Federal Deposit Insurance Act, as added by subsection (a) of this 
+section.
+
+SEC. 3. REGULATION BY THE SECURITIES AND EXCHANGE COMMISSION.
+
+    (a) SEC Rulemaking.--Not later than 1 year after the date of 
+enactment of this Act, the Securities and Exchange Commission shall, 
+after consultation with the Federal banking agencies (as defined in 
+section 3 of the Federal Deposit Insurance Act), promulgate regulations 
+that--
+            (1) would afford customers of brokers and dealers that 
+        affect transactions on behalf of insured depository 
+        institutions and customers of affiliates of insured depository 
+        institutions protections that are substantially similar to 
+        section 18(q) of the Federal Deposit Insurance Act (as added by 
+        section 2 of this Act) and the regulations promulgated 
+        thereunder; and
+            (2) are consistent with the purposes of that section 18(q) 
+        and the protection of investors.
+    (b) Enforcement.--The Commission shall have the same authority to 
+enforce rules or regulations promulgated under subsection (a) as it has 
+to enforce the provisions of the Securities Exchange Act of 1934.
+
+SEC. 4. ENFORCEMENT COORDINATION.
+
+    The Federal banking agencies and the Securities and Exchange 
+Commission shall work together to develop comparable methods of 
+securities enforcement and a process for the interagency exchange of 
+enforcement-related information.
+                                 <all>
+S 633 IS----2
+

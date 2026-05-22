@@ -1,0 +1,89 @@
+[Congressional Bills 116th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 758 Referred in Senate (RFS)]
+
+<DOC>
+116th CONGRESS
+  1st Session
+                                H. R. 758
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 12, 2019
+
+Received; read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To provide a safe harbor for financial institutions that maintain a 
+customer account or customer transaction at the request of a Federal or 
+                     State law enforcement agency.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Cooperate with Law Enforcement 
+Agencies and Watch Act of 2019''.
+
+SEC. 2. SAFE HARBOR WITH RESPECT TO KEEP OPEN LETTERS.
+
+    (a) In General.--Subchapter II of chapter 53 of title 31, United 
+States Code, is amended by adding at the end the following:
+``Sec. 5333. Safe harbor with respect to keep open letters
+    ``(a) In General.--With respect to a customer account or customer 
+transaction of a financial institution, if a Federal, State, Tribal, or 
+local law enforcement agency requests, in writing, the financial 
+institution to keep such account or transaction open--
+            ``(1) the financial institution shall not be liable under 
+        this subchapter for maintaining such account or transaction 
+        consistent with the parameters of the request; and
+            ``(2) no Federal or State department or agency may take any 
+        adverse supervisory action under this subchapter with respect 
+        to the financial institution for maintaining such account or 
+        transaction consistent with the parameters of the request.
+    ``(b) Rule of Construction.--Nothing in this section may be 
+construed--
+            ``(1) from preventing a Federal or State department or 
+        agency from verifying the validity of a written request 
+        described under subsection (a) with the Federal, State, Tribal, 
+        or local law enforcement agency making the written request; or
+            ``(2) to relieve a financial institution from complying 
+        with any reporting requirements, including the reporting of 
+        suspicious transactions under section 5318(g).
+    ``(c) Letter Termination Date.--For purposes of this section, any 
+written request described under subsection (a) shall include a 
+termination date after which such request shall no longer apply.''.
+    (b) Clerical Amendment.--The table of contents for chapter 53 of 
+title 31, United States Code, is amended by inserting after the item 
+relating to section 5332 the following:
+
+``5333. Safe harbor with respect to keep open letters.''.
+
+SEC. 3. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives March 11, 2019.
+
+            Attest:
+
+                                             CHERYL L. JOHNSON,
+
+                                                                 Clerk.
+

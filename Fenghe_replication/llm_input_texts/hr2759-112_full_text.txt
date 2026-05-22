@@ -1,0 +1,244 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2759 Introduced in House (IH)]
+
+112th CONGRESS
+  1st Session
+                                H. R. 2759
+
+    To require companies to include in their annual reports to the 
+Securities and Exchange Commission a disclosure describing any measures 
+     the company has taken during the year to identify and address 
+ conditions of forced labor, slavery, human trafficking, and the worst 
+        forms of child labor within the company's supply chains.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             August 1, 2011
+
+Mrs. Maloney (for herself, Mr. Smith of New Jersey, Ms. Speier, and Mr. 
+  McGovern) introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To require companies to include in their annual reports to the 
+Securities and Exchange Commission a disclosure describing any measures 
+     the company has taken during the year to identify and address 
+ conditions of forced labor, slavery, human trafficking, and the worst 
+        forms of child labor within the company's supply chains.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE, ETC.
+
+    (a) Short Title.--This Act may be cited as the ``Business 
+Transparency on Trafficking and Slavery Act''.
+    (b) Findings.--Congress finds that--
+            (1) in 2010, the Department of Labor identified 128 goods 
+        from 70 countries around the world made by forced labor and 
+        child labor;
+            (2) the United States is the world's largest importer, and 
+        in the twenty-first century, investors, consumers, and broader 
+        civil society increasingly demand information about the human 
+        rights impact of products in the United States market;
+            (3) in 2010, California enacted the first State law 
+        requiring manufacturers and retail companies to publicly 
+        disclose their policies to eradicate slavery, forced labor, and 
+        human trafficking within their supply chains;
+            (4) the Smoot-Hawley Tariff Act of 1930, which prohibits 
+        importation of goods made with forced labor or convict labor, 
+        has a broad exception for goods that cannot be produced in the 
+        United States in sufficient quantities to meet the demands of 
+        American consumers;
+            (5) courts have also ruled that consumers do not have 
+        standing to bring a civil action in United States courts for 
+        enforcement of this provision of the Tariff Act, because the 
+        legislative intent was to protect American manufacturers from 
+        unfairly priced goods, not to protect consumers from tainted 
+        goods, consequently, there are fewer than 40 enforcement 
+        actions on record in the past 80 years; and
+            (6) other mechanisms related to slavery and trafficking in 
+        the stream of commerce suffer from similar problems of limited 
+        scope, broad exceptions, and inability to provide information 
+        about specific suppliers whose goods are tainted.
+    (c) Sense of Congress.--It is the sense of Congress that--
+            (1) forced labor, slavery, human trafficking and the worst 
+        forms of child labor are among the most egregious forms of 
+        abuse that humans commit against each other, in the name of 
+        commercial profit;
+            (2) the legislative and regulatory framework to prevent 
+        goods produced through forced labor, slavery, human 
+        trafficking, and the worst forms of child labor from passing 
+        into the stream of commerce in the United States is gravely 
+        inadequate; and
+            (3) legislation is necessary to provide the information 
+        that the public demands, recognizing that businesses can be 
+        part of the solution to these problems when they transparently 
+        provide information to consumers and investors, and 
+        subsequently respond to consumer and investor demands for 
+        business reasons, rather than solely reacting to governmental 
+        prescriptions on how to conduct their business.
+
+SEC. 2. DISCLOSURE TO SEC RELATING TO SLAVERY CONDITIONS WITHIN PRODUCT 
+              SUPPLY CHAINS.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), 
+is amended by adding at the end the following new subsection:
+    ``(r) Disclosures Relating to Slavery Conditions Within Product 
+Supply Chains.--
+            ``(1) Regulations.--Not later than 270 days after the date 
+        of the enactment of this subsection, the Commission shall 
+        promulgate regulations requiring any person required to file 
+        reports with the Commission under this section to include 
+        annually in such reports, beginning with the person's first 
+        full fiscal year that begins after the date of promulgation of 
+        such regulations, a disclosure of any measures such person has 
+        taken during the year for which such reporting is required to 
+        identify and address conditions of forced labor, slavery, human 
+        trafficking, and the worst forms of child labor within such 
+        person's supply chains. Such disclosure shall include the 
+        following information under the heading `Policies to Address 
+        Forced Labor, Slavery, Human Trafficking and the Worst Forms of 
+        Child Labor' describing to what extent, if any, the person 
+        conducts any of the following activities:
+                    ``(A) Maintains a policy to identify and eliminate 
+                risks of forced labor, slavery, human trafficking, and 
+                the worst forms of child labor within its supply chain. 
+                If the person maintains such a policy, the disclosure 
+                shall include the text of the policy or a substantive 
+                description of the elements of the policy.
+                    ``(B) Maintains a policy prohibiting the use of the 
+                person's corporate products, facilities, or services to 
+                obtain or maintain someone under conditions of forced 
+                labor, slavery, human trafficking, and the worst forms 
+                of child labor.
+                    ``(C) Engages in verification of product supply 
+                chains to evaluate and address risks of forced labor, 
+                slavery, human trafficking and the worst forms of child 
+                labor. The disclosure shall--
+                            ``(i) describe the greatest risks 
+                        identified within the supply chain, and the 
+                        measures taken toward eliminating those risks;
+                            ``(ii) specify whether the verification was 
+                        or was not conducted by a third party; and
+                            ``(iii) specify whether the verification 
+                        process includes consultations with independent 
+                        unions, workers' associations, or workers 
+                        within workplaces and incorporates the 
+                        resulting certification or written comments 
+                        from such independent union, workers' 
+                        associations, or workers.
+                    ``(D) Ensures that audits of suppliers are 
+                conducted to evaluate supplier compliance with the 
+                person's company standards for eliminating forced 
+                labor, slavery, human trafficking, and the worst forms 
+                of child labor in supply chains. The disclosure shall 
+                specify if the verification was not an independent, 
+                unannounced audit.
+                    ``(E) Assesses supply chain management and 
+                procurement systems of suppliers in the person's supply 
+                chain, to verify whether said suppliers have in place 
+                appropriate systems to identify risks of forced labor, 
+                slavery, human trafficking, and the worst forms of 
+                child labor within their own supply chain.
+                    ``(F) Requires suppliers in its supply chain to 
+                certify that materials incorporated into the product 
+                comply with the laws regarding forced labor, slavery, 
+                human trafficking, and the worst forms of child labor 
+                of the country or countries in which they are doing 
+                business.
+                    ``(G) Maintains internal accountability standards, 
+                supply chain management and procurement systems, and 
+                procedures for employees or contractors failing to meet 
+                the person's company standards regarding forced labor, 
+                slavery, human trafficking, and the worst forms of 
+                child labor. The report shall describe such standards 
+                and systems.
+                    ``(H) Provides the person's employees and 
+                management who have direct responsibility for supply 
+                chain management, training on forced labor, slavery, 
+                human trafficking and the worst forms of child labor, 
+                particularly with respect to mitigating risks within 
+                the supply chains of products.
+                    ``(I) Ensures that recruitment practices at all 
+                suppliers comply with the person's company standards 
+                for eliminating exploitive labor practices that 
+                contribute to forced labor, slavery, human trafficking, 
+                and the worst forms of child labor, including by 
+                conducting audits of labor recruiters and disclosing 
+                the results of such audits.
+                    ``(J) In cases where forced labor, slavery, human 
+                trafficking, and the worst forms of child labor have 
+                been identified within the supply chain, ensures that 
+                remediation is provided to those who have been 
+                identified as victims.
+            ``(2) Interactive data format.--The rules issued under 
+        paragraph (1) shall require that the information included in 
+        the person's annual report be submitted in electronic form in 
+        an interactive data format.
+            ``(3) Public availability of information.--To the extent 
+        practicable, the Commission shall make available to the public 
+        in a searchable format on a website, a compilation of the 
+        information required to be submitted under the rules issued 
+        under paragraph (1).
+            ``(4) Publication on the company's website.--Any person 
+        filing the disclosure required by paragraph (1) shall make 
+        available such disclosure on the person's Internet website with 
+        a conspicuous and easily understood link to the relevant 
+        information placed on the homepage of the website. The link on 
+        the homepage shall be labeled ``Policies to Address Forced 
+        Labor, Slavery, Human Trafficking and the Worst Forms of Child 
+        Labor.'' In the event the person does not have an Internet 
+        website, the person shall provide the written disclosure within 
+        30 days after receiving a written request for the disclosure 
+        from an investor or consumer.
+            ``(5) Definitions.--For purposes of this subsection--
+                    ``(A) the term ``forced labor, slavery, human 
+                trafficking and the worst forms of child labor'' means 
+                child labor in violation of international standards 
+                including International Labor Organization Convention 
+                No. 182 and acts that would violate the criminal 
+                provisions related to slavery and human trafficking 
+                under chapter 77 of title 18 if they had been committed 
+                within the jurisdiction of the United States;
+                    ``(B) the term `person' means any publicly-traded 
+                or private entity required to submit any annual report 
+                to the Commission, and having annual worldwide global 
+                receipts in excess of $100,000,000;
+                    ``(C) the term `remediation' means the activities 
+                or systems that a company puts in place to address non-
+                compliance with the standards identified through 
+                monitoring or verification, which may apply to 
+                individuals adversely affected by the non-compliant 
+                conduct or address broader systematic processes;
+                    ``(D) the term `supply chain', with respect to a 
+                person filing the disclosure required by paragraph (1), 
+                means all suppliers of products, component parts of 
+                products, and raw materials used by such person in the 
+                manufacturing of such person's products or the 
+                provision of such person's services, whether or not 
+                such person has a direct relationship with the 
+                supplier; and
+                    ``(E) the term `verification' means the process by 
+                which a company is evaluated to determine compliance 
+                with its documented program, including standards on 
+                forced labor, slavery, human trafficking, and the worst 
+                forms of child labor, including an evaluation of--
+                            ``(i) data gathered through monitoring 
+                        activities to ensure results are reliable and 
+                        process is credible; and
+                            ``(ii) the system established to remediate 
+                        violations to determine if remediation is 
+                        implemented and effective.''.
+                                 <all>
+

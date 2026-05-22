@@ -1,0 +1,95 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1660 Introduced in House (IH)]
+
+112th CONGRESS
+  1st Session
+                                H. R. 1660
+
+To amend the Expedited Funds Availability Act, to adjust dollar limits 
+            on check hold policies, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 15, 2011
+
+   Ms. Tsongas (for herself, Ms. Speier, and Ms. Wilson of Florida) 
+ introduced the following bill; which was referred to the Committee on 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Expedited Funds Availability Act, to adjust dollar limits 
+            on check hold policies, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Faster Access and Shorter 
+Transaction Time for Checks Act of 2011'' or the ``FASTT Checks Act''.
+
+SEC. 2. ADJUSTMENT OF DOLLAR AMOUNTS.
+
+    (a) Section 603 Adjustments.--Section 603 of the Expedited Funds 
+Availability Act (12 U.S.C. 4002) is amended--
+            (1) in subsection (b)(3)(B), by striking ``$400'' each 
+        place that term appears and inserting ``$800''; and
+            (2) in subsection (c)(1)(B)(iii), in the clause heading, by 
+        striking ``$100'' and inserting ``$200''.
+    (b) Section 604 Adjustments.--Section 604 of the Expedited Funds 
+Availability Act (12 U.S.C. 4003) is amended--
+            (1) in subsection (a)(3)--
+                    (A) in the paragraph heading, by striking 
+                ``$5,000'' and inserting ``$10,000''; and
+                    (B) by striking ``$5,000'' each place that term 
+                appears and inserting ``$10,000''; and
+            (2) in subsection (b)(1), striking ``$5,000'' and inserting 
+        ``$10,000''.
+
+SEC. 3. ELIMINATION OF LARGE DEPOSIT EXCEPTION FOR LARGE DEPOSITARY 
+              BANKS.
+
+    Section 604(b) of the Expedited Funds Availability Act (12 U.S.C. 
+4003(b)) is amended--
+            (1) by redesignating paragraphs (1), (2), and (3) as 
+        subparagraphs (A), (B), and (C), respectively, and moving the 
+        left margin of each such subparagraph (as so redesignated) 2 
+        ems to the right;
+            (2) by striking ``Repeated Overdrafts.--The Board'' and 
+        inserting ``Repeated Overdrafts.--
+            ``(1) In general.--The Board''; and
+            (3) by adding at the end the following new paragraph:
+            ``(2) Exception for large depositary banks.--Subparagraph 
+        (A) of paragraph (1) shall not apply, and the Board may not 
+        establish any exception under such subparagraph, with respect 
+        to any check that--
+                    ``(A) has been truncated and cleared in accordance 
+                with the Check Clearing for the 21st Century Act; and
+                    ``(B) is received for payment or deposit at a 
+                depositary bank (as defined in section 3(3)(B) of such 
+                Act) which has total assets of $10,000,000,000 or 
+                more.''.
+
+SEC. 4. TREATMENT OF SATURDAY AS A BUSINESS DAY.
+
+    (a) Definition.--Section 602(3) of the Expedited Funds Availability 
+Act (12 U.S.C. 4001(3)) is amended by inserting before the period at 
+the end the following: ``, except that Saturday shall be treated as a 
+business day in the calculation of any period within which funds 
+deposited in an account at a receiving depository institution are 
+required to be made available under this title''.
+    (b) Conforming Amendment.--Section 607(a) of the Expedited Funds 
+Availability Act (12 U.S.C. 4006(a)) is amended by striking 
+``Saturday,''.
+                                 <all>
+

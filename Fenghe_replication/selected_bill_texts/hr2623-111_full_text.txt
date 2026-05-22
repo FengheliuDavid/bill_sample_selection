@@ -1,0 +1,85 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2623 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 2623
+
+    To amend the Federal securities laws to clarify and expand the 
+            definition of certain persons under those laws.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 21, 2009
+
+  Mr. McCarthy of California introduced the following bill; which was 
+            referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Federal securities laws to clarify and expand the 
+            definition of certain persons under those laws.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. FORMERLY ASSOCIATED PERSONS.
+
+    (a) Member or Employee of the Municipal Securities Rulemaking 
+Board.--Section 15B(c)(8) of the Securities Exchange Act of 1934 (15 
+U.S.C. 78o-4(c)(8)) is amended by striking ``any member or employee'' 
+and inserting ``any person who is, or at the time of the alleged 
+misconduct was, a member or employee''.
+    (b) Person Associated With a Government Securities Broker or 
+Dealer.--Section 15C of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o-5) is amended--
+            (1) in subsection (c)(1)(C), by striking ``or seeking to 
+        become associated,'' and inserting ``seeking to become 
+        associated, or, at the time of the alleged misconduct, 
+        associated or seeking to become associated'';
+            (2) in subsection (c)(2)(A), by inserting ``, seeking to 
+        become associated, or, at the time of the alleged misconduct, 
+        associated or seeking to become associated'' after ``any person 
+        associated''; and
+            (3) in subsection (c)(2)(B), by inserting ``, seeking to 
+        become associated, or, at the time of the alleged misconduct, 
+        associated or seeking to become associated'' after ``any person 
+        associated''.
+    (c) Person Associated With a Member of a National Securities 
+Exchange or Registered Securities Association.--Section 21(a)(1) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78u(a)(1)) is amended by 
+inserting ``, or, as to any act or practice, or omission to act, while 
+associated with a member, formerly associated'' after ``member or a 
+person associated''.
+    (d) Participant of a Registered Clearing Agency.--Section 21(a)(1) 
+of the Securities Exchange Act of 1934 (15 U.S.C. 78u(a)(1)) is amended 
+by inserting ``or, as to any act or practice, or omission to act, while 
+a participant, was a participant,'' after ``in which such person is a 
+participant,''.
+    (e) Officer or Director of a Self-Regulatory Organization.--Section 
+19(h)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(h)(4)) 
+is amended--
+            (1) by striking ``any officer or director'' and inserting 
+        ``any person who is, or at the time of the alleged misconduct 
+        was, an officer or director''; and
+            (2) by striking ``such officer or director'' and inserting 
+        ``such person''.
+    (f) Officer or Director of an Investment Company.--Section 36(a) of 
+the Investment Company Act of 1940 (15 U.S.C. 80a-35(a)) is amended--
+            (1) by striking ``a person serving or acting'' and 
+        inserting ``a person who is, or at the time of the alleged 
+        misconduct was, serving or acting''; and
+            (2) by striking ``such person so serves or acts'' and 
+        inserting ``such person so serves or acts, or at the time of 
+        the alleged misconduct, so served or acted''.
+                                 <all>
+

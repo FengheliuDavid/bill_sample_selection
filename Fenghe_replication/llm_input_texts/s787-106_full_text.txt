@@ -1,0 +1,432 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[S. 787 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+106th CONGRESS
+  1st Session
+                                 S. 787
+
+   To amend the Truth in Lending Act to enhance consumer disclosures 
+regarding credit card terms and charges, to restrict issuance of credit 
+cards to students, to expand protections in connection with unsolicited 
+  credit cards and third-party checks, and to protect consumers from 
+unreasonable practices that result in unnecessary credit costs or loss 
+                   of credit, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 13, 1999
+
+Mr. Schumer (for himself and Mr. Durbin) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Truth in Lending Act to enhance consumer disclosures 
+regarding credit card terms and charges, to restrict issuance of credit 
+cards to students, to expand protections in connection with unsolicited 
+  credit cards and third-party checks, and to protect consumers from 
+unreasonable practices that result in unnecessary credit costs or loss 
+                   of credit, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Consumer Credit Card Protection 
+Amendments of 1999''.
+
+SEC. 2. DISCLOSURES REGARDING MINIMUM MONTHLY PAYMENTS.
+
+    (a) In General.--Section 127(a)(3) of the Truth in Lending Act (15 
+U.S.C. 1637(a)(3)) is amended by inserting before the period ``, or the 
+method of determining the required minimum payment amount, if a minimum 
+payment is required that is different from the amount of any finance 
+charge, and the charges or penalties, if any, that may be imposed for 
+failure by the obligor to pay the required finance charge or minimum 
+payment amount''.
+    (b) Repayment Information.--Section 127(b) of the Truth in Lending 
+Act (15 U.S.C. 1637(b)) is amended by adding at the end the following:
+            ``(11) In a clear and conspicuous manner, repayment 
+        information that would apply to the outstanding balance of the 
+        obligor under the credit plan, including--
+                    ``(A) the required minimum monthly payment on that 
+                balance, represented as both a dollar figure and as a 
+                percentage of that balance;
+                    ``(B) the number of months (rounded to the nearest 
+                month) that it would take to pay the entire amount of 
+                that current balance if the obligor pays only the 
+                required minimum monthly payments, and if no further 
+                advances are made;
+                    ``(C) the total cost to the obligor, including 
+                interest and principal payments, of paying that balance 
+                in full if the obligor pays only the required minimum 
+                monthly payments, and if no further advances are made; 
+                and
+                    ``(D) the following statement: `If your current 
+                rate of interest is a temporary introductory rate, your 
+                total costs may be higher.'''.
+    (c) Minimum Payment Amount.--Section 127(c)(1)(A) of the Truth in 
+Lending Act (15 U.S.C. 1637(c)(1)(A)) is amended by adding at the end 
+the following:
+                            ``(v) Minimum payment amount.--The method 
+                        for determining the required minimum payment 
+                        amount to be paid for each billing cycle, and 
+                        the charge or penalty, if any, to be imposed 
+                        for any failure by the obligor to pay the 
+                        required minimum payment amount.''.
+
+SEC. 3. DISCLOSURE OF LATE PAYMENT DEADLINES AND PENALTIES.
+
+    Section 127(b) of the Truth in Lending Act (15 U.S.C. 1637(b)) is 
+amended by adding at the end the following:
+            ``(12) If a charge is to be imposed due to the failure of 
+        the obligor to make payment on or before a required payment due 
+        date, the date that payment is due or, if different, the date 
+        on which a late payment fee will be charged, shall be stated 
+        prominently in a conspicuous location on the billing statement, 
+        together with the amount of the charge to be imposed if payment 
+        is made after such date.''.
+
+SEC. 4. WORLDWIDE WEB-BASED CREDIT CARD SOLICITATIONS.
+
+    Section 127(c) of the Truth in Lending Act (15 U.S.C. 1637(c)) is 
+amended--
+            (1) by redesignating paragraphs (3), (4), and (5) as 
+        paragraphs (4), (5), and (8), respectively; and
+            (2) by inserting after paragraph (2) the following:
+            ``(3) Internet based applications and solicitations.--
+                    ``(A) In general.--In any solicitation to open a 
+                credit card account for any person under an open end 
+                consumer credit plan using the Internet or an 
+interactive computer service, the person making the solicitation shall 
+clearly and conspicuously disclose--
+                            ``(i) the information described in 
+                        subparagraphs (A) and (B) of paragraph (1); and
+                            ``(ii) the disclosures described in 
+                        paragraph (6).
+                    ``(B) Form of disclosure.--The disclosures required 
+                by subparagraph (A) shall be--
+                            ``(i) readily accessible to consumers in 
+                        close proximity to the solicitation to open a 
+                        credit card account; and
+                            ``(ii) updated regularly to reflect the 
+                        current policies, terms, and fee amounts 
+                        applicable to the credit card account.
+                    ``(C) Definitions.--For purposes of this 
+                paragraph--
+                            ``(i) the term `Internet' means the 
+                        international computer network of both Federal 
+                        and non-Federal interoperable packet switched 
+                        data networks; and
+                            ``(ii) the term `interactive computer 
+                        service' means any information service, system, 
+                        or access software provider that provides or 
+                        enables computer access by multiple users to a 
+                        computer server, including specifically a 
+                        service or system that provides access to the 
+                        Internet and such systems operated or services 
+                        offered by libraries or educational 
+                        institutions.''.
+
+SEC. 5. DISCLOSURES RELATED TO ``TEASER RATES''.
+
+    Section 127(c) (15 U.S.C. 1637(c)) is amended by inserting after 
+paragraph (5) (as so redesignated by section 4 of this Act) the 
+following:
+            ``(6) Additional notice concerning `teaser rates'.--
+                    ``(A) In general.--An application or solicitation 
+                for a credit card for which a disclosure is required 
+                under this subsection shall contain the disclosure 
+                contained in subparagraph (B) or (C), as appropriate, 
+                if the application or solicitation offers, for an 
+                introductory period of less than 1 year, an annual 
+                percentage rate of interest that--
+                            ``(i) is less than the annual percentage 
+                        rate of interest that will apply after the end 
+                        of the introductory period; or
+                            ``(ii) in the case of an annual percentage 
+                        rate that varies in accordance with an index, 
+                        is less than the current annual percentage rate 
+                        under the index that will apply after the end 
+                        of such period.
+                    ``(B) Fixed annual percentage rate.--If the annual 
+                percentage rate that will apply after the end of the 
+                introductory period will be a fixed rate, the 
+                application or solicitation shall include the following 
+                disclosure: `The annual percentage rate of interest 
+                applicable during the introductory period is not the 
+                annual percentage rate that will apply after the end of 
+                the introductory period. The permanent annual 
+                percentage rate will apply after [insert applicable 
+                date] and will be [insert applicable percentage 
+                rate].'.
+                    ``(C) Variable annual percentage rate.--If the 
+                annual percentage rate that will apply after the end of 
+                the introductory period will vary in accordance with an 
+                index, the application or solicitation shall include 
+                the following disclosure: `The annual percentage rate 
+                of interest applicable during the introductory period 
+                is not the annual percentage rate that will apply after 
+                the end of the introductory period. The permanent 
+                annual percentage rate will be determined by an index, 
+                and will apply after [insert applicable date]. If the 
+                index that will apply after such date were applied to 
+                your account today, the annual percentage rate would be 
+                [insert applicable percentage rate].'.
+                    ``(D) Conditions for introductory rates.--If the 
+                annual percentage rate of interest that will apply 
+                during the introductory period described in 
+                subparagraph (A) is revocable or otherwise conditioned 
+                upon any action by the obligor, including any failure 
+                by the obligor to pay the minimum payment amount or 
+                finance charge or to make any payment by the stated 
+                monthly payment due date, the application or 
+                solicitation shall include disclosure of--
+                            ``(i) the conditions that the obligor must 
+                        meet to retain the annual percentage rate of 
+                        interest during the introductory period; and
+                            ``(ii) the annual percentage rate of 
+                        interest that will apply as a result of the 
+                        failure of the obligor to meet such conditions.
+                    ``(E) Form of disclosure.--The disclosures required 
+                under this paragraph shall be made in a clear and 
+                conspicuous manner, in a form at least as prominent as 
+the disclosure of the annual percentage rate of interest that will 
+apply during the introductory period.''.
+
+SEC. 6. LIMIT ON INACTIVITY FEES.
+
+    Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended 
+by adding at the end the following:
+    ``(h) Limit on Inactivity Fees.--In the case of any credit card 
+account under an open end consumer credit plan, a creditor may not 
+impose a fee based on inactivity for the account during any period 
+during which no advances have been made, if the obligor maintains any 
+outstanding balance and is charged a finance charge applicable to such 
+balance.''.
+
+SEC. 7. ISSUANCE OF CREDIT CARDS TO UNDERAGE CONSUMERS.
+
+    Section 127(c) of the Truth in Lending Act (15 U.S.C. 1637(c)) is 
+amended by inserting after paragraph (6) (as added by section 5 of this 
+Act) the following:
+            ``(7) Applications from underage obligors.--
+                    ``(A) Prohibition on issuance.--No credit card may 
+                be issued to, or open end credit plan established on 
+                behalf of, any obligor who has not attained the age of 
+                21, except in response to a written request or 
+                application to the card issuer that meets the 
+                requirements of subparagraph (B).
+                    ``(B) Application requirements.--An application to 
+                open a credit card account by an individual who has not 
+                reached the age of 21 as of the date of submission of 
+                the application shall require--
+                            ``(i) the signature of the parent or 
+                        guardian of that individual indicating joint 
+                        liability for debts incurred by the consumer in 
+                        connection with the account before the consumer 
+                        has reached the age of 21; or
+                            ``(ii) submission by that individual of 
+                        financial information indicating an independent 
+                        means of repaying any obligation arising from 
+                        the proposed extension of credit in connection 
+                        with the account.''.
+
+SEC. 8. PENALTIES FOR ON-TIME PAYMENT PROHIBITED.
+
+    Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended 
+by adding at the end the following:
+    ``(i) Penalties for On-Time Payment Prohibited.--
+            ``(1) In general.--In the case of any credit card account 
+        under an open end consumer credit plan, no creditor may cancel 
+        an account, impose a minimum finance charge for any period 
+        (including any annual period), impose any fee in lieu of a 
+        minimum finance charge, or impose any other charge or penalty 
+        with regard to such account or credit extended under such 
+        account solely on the basis that any credit extended has been 
+        repaid in full before the end of any grace period applicable 
+        with respect to the extension of credit.
+            ``(2) Payment due dates.--For purposes of paragraph (1), a 
+        creditor shall be deemed to have imposed a prohibited charge or 
+        penalty on an account under an open end consumer credit plan if 
+        the creditor regularly transmits to the obligor of such plan a 
+        statement for a billing cycle in which credit has been extended 
+        under such plan that includes a payment due date, as required 
+        by subsection (b)(9), that--
+                    ``(A) is different from and in advance of--
+                            ``(i) the date by which payment would have 
+                        to be made for any credit extended under such 
+                        credit plan to avoid incurring a finance change 
+                        that was disclosed to such obligor pursuant to 
+                        subsection (c)(1)(A)(iii); or
+                            ``(ii) the actual date by which payment 
+                        would otherwise have to be made to avoid 
+                        incurring a finance charge if calculated on the 
+                        same basis as the date by which or the period 
+                        within which any payment would have to be made 
+                        to avoid incurring a finance charge that was 
+                        disclosed to such obligor pursuant to 
+                        subsection (c)(1)(A)(iii); and
+                    ``(B) has the purpose or effect of inducing the 
+                obligor of such plan to transmit payment to the 
+                creditor earlier than otherwise would be required to 
+                avoid incurring a finance charge.
+            ``(3) Scope of application.--Paragraph (1) may not be 
+        construed as--
+                    ``(A) prohibiting the imposition of any flat annual 
+                fee which may be imposed on the consumer in advance of 
+                any annual period to cover the cost of maintaining a 
+                credit card account during such annual period without 
+                regard to whether any credit is actually extended under 
+                such account during such period; or
+                    ``(B) otherwise affecting the imposition of the 
+                actual finance charge applicable with respect to any 
+                credit extended under such account during such annual 
+period at the annual percentage rate disclosed to the consumer in 
+accordance with this title for the period of time during which any such 
+credit is outstanding.''.
+
+SEC. 9. FREEZE ON INTEREST RATE TERMS AND FEES ON CANCELED CARDS.
+
+    Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended 
+by adding at the end the following:
+    ``(j) Freeze on Interest Rate Terms and Fees on Canceled Cards.--
+            ``(1) Advance notice of increase in interest rate 
+        required.--In the case of any credit card account under an open 
+        end consumer credit plan, no increase in any annual percentage 
+        rate of interest (other than an increase due to the expiration 
+        of any introductory percentage rate of interest, or due solely 
+        to a change in another rate of interest to which such rate is 
+        indexed) applicable to any outstanding balance of credit under 
+        such plan may take effect before the beginning of the billing 
+        cycle that begins not less than 15 days after the date on which 
+        the obligor receives notice of such increase.
+            ``(2) Increase not effective for canceled accounts.--If an 
+        obligor referred to in paragraph (1) cancels the credit card 
+        account before the beginning of the billing cycle referred to 
+        in paragraph (1)--
+                    ``(A) an annual percentage rate of interest 
+                applicable after the cancellation with respect to the 
+                outstanding balance on the account as of the date of 
+                cancellation may not exceed any annual percentage rate 
+                of interest applicable with respect to that balance 
+                under the terms and conditions in effect before the 
+                increase referred to in paragraph (1); and
+                    ``(B) the repayment of the outstanding balance 
+                after the cancellation shall be subject to all other 
+                terms and conditions applicable with respect to the 
+                account before the increase referred to in such 
+                paragraph.
+            ``(3) Notice of right to cancel.--The notice referred to in 
+        paragraph (1) with respect to an increase in any annual 
+        percentage rate of interest shall be made in a clear and 
+        conspicuous manner, and shall contain a brief statement of the 
+        right of the obligor--
+                    ``(A) to cancel the account before the effective 
+                date of the increase; and
+                    ``(B) after any such cancellation, to pay any 
+                balance outstanding on the account at the time of 
+                cancellation, in accordance with the terms and 
+                conditions in effect before the cancellation.''.
+
+SEC. 10. DISCLOSURE OF INTEREST RATES AND FEES ON CREDIT ADVANCES 
+              THROUGH THIRD-PARTY CHECKS.
+
+    Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended 
+by adding at the end the following:
+    ``(k) Fees and Interest Rates on Credit Advances Through the Use of 
+Third-Party Checks.--
+            ``(1) In general.--In the case of any credit card account 
+        under an open end consumer credit plan, a creditor may not 
+        provide the obligor with any negotiable or transferable 
+        instrument for use in making an extension of credit to the 
+        obligor for the purpose of making a transfer to a third party, 
+        unless the creditor has fully satisfied the notice requirements 
+        of paragraph (2) with respect to such instrument.
+            ``(2) Notice requirements.--A creditor satisfies the notice 
+        requirements of this paragraph with respect to an instrument 
+        referred to in paragraph (1) if the creditor provides to an 
+        obligor, at the same time at which any such instrument is 
+provided, a notice that prominently and specifically describes--
+                    ``(A) the amount of any transaction fee that may be 
+                imposed for making an extension of credit through the 
+                use of such instrument, including the exact percentage 
+                rate to be used in determining such amount if the 
+                amount of the transaction fee is expressed as a 
+                percentage of the amount of the credit extended; and
+                    ``(B) any annual percentage rate of interest 
+                applicable in determining the finance charge for any 
+                such extension of credit, if different from the finance 
+                charge applicable to other extensions of credit under 
+                such account.''.
+
+SEC. 11. PROHIBITION ON OVER-THE-LIMIT FEES FOR CREDITOR-APPROVED 
+              TRANSACTIONS.
+
+    Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended 
+by adding at the end the following:
+    ``(l) Limitation on Imposition of Over-the-Limit Fees.--In the case 
+of any credit card account under an open end consumer credit plan, a 
+creditor may not impose any fee on the obligor for any extension of 
+credit in excess of the amount of credit authorized to be extended with 
+respect to such account, if the extension of credit is made in 
+connection with a credit transaction that the creditor approves in 
+advance or at the time of the transaction.''.
+
+SEC. 12. UNSOLICITED DUAL-PURPOSE CARDS.
+
+    Section 132 of the Truth in Lending Act (15 U.S.C. 1642) is 
+amended--
+            (1) by inserting ``(a) In General.--'' before ``No''; and
+            (2) by adding at the end the following:
+    ``(b) Certain Cards Included.--For purposes of this section, the 
+term `credit card' includes any dual purpose or multifunction card, 
+including a stored-value card, debit card, check card, check guarantee 
+card, or purchase-price discount card, that is connected with an open 
+end credit plan and can be used, either on issuance or upon later 
+activation, to obtain credit directly or indirectly.''.
+
+SEC. 13. CIVIL LIABILITY.
+
+    Section 130(a) of the Truth in Lending Act (15 U.S.C. 1640(a)) is 
+amended in the undesignated paragraph following paragraph (4)--
+            (1) in the second sentence, by striking ``or (10)'' and 
+        inserting ``(10), (11), or (12)''; and
+            (2) by striking the third sentence.
+
+SEC. 14. REGULATIONS.
+
+    Not later than 6 months after the date of enactment of this Act, 
+the Board of Governors of the Federal Reserve System (hereafter in this 
+section referred to as the ``Board'') shall--
+            (1) issue final regulations to implement the amendments 
+        made by this Act; and
+            (2) issue such staff commentary or publish such model 
+        disclosure statements and forms as the Board considers 
+        necessary--
+                    (A) to carry out the intent of the amendments made 
+                by this Act;
+                    (B) to implement any initiative to prevent the 
+                circumvention of any of the amendments made by this 
+                Act; and
+                    (C) to facilitate compliance with the requirements 
+                in the amendments made by this Act.
+                                 <all>
+

@@ -1,0 +1,43 @@
+Data Accountability and Trust Act (DATA) - (Sec.
+
+2) Requires the Federal Trade Commission ( FTC) to promulgate regulations that require each person engaged in interstate commerce that owns or possesses data in electronic form containing personal information to establish policies and procedures regarding security practices for the treatment and protection of such information.
+
+Directs the FTC to study the practicality of requiring a standard method or methods for destroying obsolete paper documents and other nonelectronic data containing personal information.
+
+Authorizes the FTC to require such a standard method or methods if the study makes certain findings.
+
+Requires information brokers to submit their security policies to the FTC in conjunction with a notification of a breach of security or upon FTC request.
+
+Requires the FTC to conduct or require an audit of security practices when information brokers are required to provide notification of such a breach.
+
+Authorizes additional audits for five years following such breach.
+
+Requires each information broker to: (1) establish procedures to verify the accuracy of the certain information it collects or maintains that identifies individuals, other than merely by name or address; (2) provide to individuals whose personal information it maintains a means to review it; (3) place notice on the Internet instructing individuals how to request access to such information; and (4) correct inaccurate information.
+
+Directs the FTC to require information brokers to establish measures which facilitate the auditing or retracing of access to, or transmissions of, electronic data containing personal information.
+
+Prohibits information brokers from obtaining or disclosing personal information by false pretenses (pretexting).
+
+(Sec.
+
+3) Prescribes procedures for notification to the FTC and affected individuals of breaches of information security.
+
+Sets forth special notification requirements for breaches: (1) by third party entities that have been contracted to maintain or process data in electronic form containing personal information; (2) by telecommunications carriers, cable operators, information services, and interactive computer services; and (3) of health information.
+
+Directs the FTC to: (1) establish criteria for determining circumstances under which substitute notification may be provided; and (2) study the practicality and cost-effectiveness of requiring notification in a language in addition to English for those who speak only such other language.
+
+(Sec.
+
+4) Grants the FTC enforcement powers equivalent to those it exercises with respect to unfair and deceptive acts or practices.
+
+Authorizes enforcement by a state attorney general if there is reason to believe that interests of the state's residents have been or are threatened or adversely affected by violators of this Act.
+
+Sets forth civil penalties.
+
+(Sec.
+
+6) Preempts state information security laws.
+
+(Sec.
+
+7) Authorizes appropriations for FY2006-FY2011.

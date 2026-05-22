@@ -1,0 +1,1102 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2448 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 2448
+
+  To provide for regulation of futures transactions involving energy 
+   commodities, to regulate credit default swaps, to strengthen the 
+  enforcement authorities of the Federal Energy Regulatory Commission 
+  under the Natural Gas Act, Natural Gas Policy Act of 1978, and the 
+               Federal Power Act, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 14, 2009
+
+  Mr. Stupak (for himself, Mr. Doyle, Mr. Inslee, Mr. Van Hollen, Mr. 
+ Bishop of New York, Mr. Carney, Mr. Larson of Connecticut, Mr. Wilson 
+  of Ohio, Ms. Slaughter, Mr. Gene Green of Texas, Ms. Kilpatrick of 
+  Michigan, and Mr. McHugh) introduced the following bill; which was 
+   referred to the Committee on Agriculture, and in addition to the 
+Committees on Energy and Commerce and Financial Services, for a period 
+    to be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To provide for regulation of futures transactions involving energy 
+   commodities, to regulate credit default swaps, to strengthen the 
+  enforcement authorities of the Federal Energy Regulatory Commission 
+  under the Natural Gas Act, Natural Gas Policy Act of 1978, and the 
+               Federal Power Act, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Prevent Unfair Manipulation of 
+Prices Act of 2009''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents of this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Regulation of certain transactions in derivatives involving 
+                            energy commodities.
+Sec. 4. No effect on authority of the Federal Energy Regulatory 
+                            Commission.
+Sec. 5. Inspector general of the Commodity Futures Trading Commission.
+Sec. 6. Settlement and clearing through registered derivatives clearing 
+                            organizations.
+Sec. 7. Limitation on eligibility to purchase a credit default swap.
+Sec. 8. Transaction fees.
+Sec. 9. No effect on authority of the Federal Trade Commission.
+Sec. 10. Cease-and-desist authority.
+Sec. 11. Natural Gas Act refunds.
+Sec. 12. Regulation of carbon derivatives markets.
+
+SEC. 3. REGULATION OF CERTAIN TRANSACTIONS IN DERIVATIVES INVOLVING 
+              ENERGY COMMODITIES.
+
+    (a) Energy Commodity Defined.--Section 1a of the Commodity Exchange 
+Act (7 U.S.C. 1a) is amended--
+            (1) in paragraph (14), by inserting ``, an energy 
+        commodity,'' after ``excluded commodity'';
+            (2) by redesignating paragraphs (13) through (21) and 
+        paragraphs (22) through (34) as paragraphs (14) through (22) 
+        and paragraphs (24) through (36), respectively;
+            (3) by inserting after paragraph (12) the following:
+            ``(13) Energy commodity.--The term `energy commodity' 
+        means--
+                    ``(A) coal;
+                    ``(B) crude oil, gasoline, diesel fuel, jet fuel, 
+                heating oil, and propane;
+                    ``(C) electricity (excluding financial transmission 
+                rights which are subject to regulation and oversight by 
+                the Federal Energy Regulatory Commission);
+                    ``(D) natural gas; and
+                    ``(E) any other substance (other than an excluded 
+                commodity, a metal, or an agricultural commodity) that 
+                is used as a source of energy, as the Commission, in 
+                its discretion, deems appropriate.''; and
+            (4) by inserting after paragraph (22) (as so redesignated 
+        by paragraph (2) of this subsection) the following:
+            ``(23) Included energy transaction.--The term `included 
+        energy transaction' means a contract, agreement, or transaction 
+        in an energy commodity for future delivery that provides for a 
+        delivery point of the energy commodity in the United States or 
+        a territory or possession of the United States, or that is 
+        offered or transacted on or through a computer terminal located 
+        in the United States.''.
+    (b) Extension of Regulatory Authority to Swaps Involving Energy 
+Transactions.--Section 2(g) of such Act (7 U.S.C. 2(g)) is amended by 
+inserting ``or an energy commodity'' after ``agricultural commodity''.
+    (c) Elimination of Exemption for Over-the-Counter Swaps Involving 
+Energy Commodities.--Section 2(h)(1) of such Act (7 U.S.C. 2(h)(1)) is 
+amended by inserting ``(other than an energy commodity)'' after 
+``exempt commodity''.
+    (d) Extension of Regulatory Authority to Included Energy 
+Transactions on Foreign Boards of Trade.--Section 4 of such Act (7 
+U.S.C. 6) is amended--
+            (1) in subsection (a), by inserting ``, and which is not an 
+        included energy transaction'' after ``territories or 
+        possessions'' the 2nd place it appears; and
+            (2) in subsection (b), by adding at the end the following: 
+        ``The preceding sentence shall not apply with respect to 
+        included energy transactions.''.
+    (e) Limitation of General Exemptive Authority of the CFTC With 
+Respect to Included Energy Transactions.--
+            (1) In general.--Section 4(c) of such Act (7 U.S.C. 6(c)) 
+        is amended by adding at the end the following:
+            ``(6) The Commission may not exempt any included energy 
+        transaction from the requirements of subsection (a), unless the 
+        Commission provides 60 days advance notice to the Congress and 
+        the Position Limit Energy Advisory Group and solicits public 
+        comment about the exemption request and any proposed Commission 
+        action.''.
+            (2) Nullification of no-action letter exemptions to certain 
+        requirements applicable to included energy transactions.--
+        Beginning 180 days after the date of the enactment of this Act, 
+        any exemption provided by the Commodity Futures Trading 
+        Commission that has allowed included energy transactions (as 
+        defined in section 1a(13) of the Commodity Exchange Act) to be 
+        conducted without regard to the requirements of section 4(a) of 
+        such Act shall be null and void.
+    (f) Requirement To Establish Uniform Speculative Position Limits 
+for Energy Transactions.--
+            (1) In general.--Section 4a(a) of such Act (7 U.S.C. 6a(a)) 
+        is amended--
+                    (A) by inserting ``(1)'' after ``(a)'';
+                    (B) by inserting after the 2nd sentence the 
+                following: ``With respect to energy transactions, the 
+                Commission shall fix limits on the aggregate number of 
+                positions which may be held by any person for each 
+                month across all markets subject to the jurisdiction of 
+                the Commission.'';
+                    (C) in the 4th sentence by inserting ``, consistent 
+                with the 3rd sentence,'' after ``Commission''; and
+                    (D) by adding after and below the end the 
+                following:
+    ``(2)(A) Not later than 60 days after the date of the enactment of 
+this paragraph, the Commission shall convene a Position Limit Energy 
+Advisory Group consisting of representatives from--
+            ``(i) 7 predominantly commercial short hedgers of the 
+        actual energy commodity for future delivery;
+            ``(ii) 7 predominantly commercial long hedgers of the 
+        actual energy commodity for future delivery;
+            ``(iii) 4 non-commercial participants in markets for energy 
+        commodities for future delivery; and
+            ``(iv) each designated contract market or derivatives 
+        transaction execution facility upon which a contract in the 
+        energy commodity for future delivery is traded, and each 
+        electronic trading facility that has a significant price 
+        discovery contract in the energy commodity.
+    ``(B) Not later than 60 days after the date on which the advisory 
+group is convened under subparagraph (A), and annually thereafter, the 
+advisory group shall submit to the Commission advisory recommendations 
+regarding the position limits to be established in paragraph (1).
+    ``(C) The Commission shall have exclusive authority to grant 
+exemptions for bona fide hedging transactions and positions from 
+position limits imposed under this Act on energy transactions.''.
+            (2) Conforming amendments.--
+                    (A) Significant price discovery contracts.--Section 
+                2(h)(7) of such Act (7 U.S.C. 2(h)(7)) is amended--
+                            (i) in subparagraph (A)--
+                                    (I) by inserting ``of this 
+                                paragraph and section 4a(a)'' after 
+                                ``(B) through (D)''; and
+                                    (II) by inserting ``of this 
+                                paragraph'' before the period; and
+                            (ii) in subparagraph (C)(ii)(IV)--
+                                    (I) in the heading, by striking 
+                                ``limitations or''; and
+                                    (II) by striking ``position 
+                                limitations or''.
+                    (B) Contracts traded on or through designated 
+                contract markets.--Section 5(d)(5) of such Act (7 
+                U.S.C. 7(d)(5)) is amended--
+                            (i) in the heading by striking 
+                        ``limitations or''; and
+                            (ii) by striking ``position limitations 
+                        or''.
+                    (C) Contracts traded on or through derivatives 
+                transaction execution facilities.--Section 5a(d)(4) of 
+                such Act (7 U.S.C. 7a(d)(4)) is amended--
+                            (i) in the heading by striking 
+                        ``limitations or''; and
+                            (ii) by striking ``position limits or''.
+    (g) Elimination of the Swaps Loophole.--Section 4a(c) of such Act 
+(7 U.S.C. 6a(c)) is amended--
+            (1) by inserting ``(1)'' after ``(c)''; and
+            (2) by adding after and below the end the following:
+    ``(2) For the purposes of contracts of sale for future delivery and 
+options on such contracts or commodities, the Commission shall define 
+what constitutes a bona fide hedging transaction or position as a 
+transaction or position that--
+            ``(A)(i) represents a substitute for transactions made or 
+        to be made or positions taken or to be taken at a later time in 
+        a physical marketing channel;
+            ``(ii) is economically appropriate to the reduction of 
+        risks in the conduct and management of a commercial enterprise; 
+        and
+            ``(iii) arises from the potential change in the value of--
+                    ``(I) assets that a person owns, produces, 
+                manufactures, processes, or merchandises or anticipates 
+                owning, producing, manufacturing, processing, or 
+                merchandising;
+                    ``(II) liabilities that a person owns or 
+                anticipates incurring; or
+                    ``(III) services that a person provides, purchases, 
+                or anticipates providing or purchasing; or
+            ``(B) reduces risks attendant to a position resulting from 
+        a transaction that--
+                    ``(i) was executed pursuant to subsection (d), (g), 
+                (h)(1), or (h)(2) of section 2, or an exemption issued 
+                by the Commission by rule, regulation or order; and
+                    ``(ii) was executed opposite a counterparty for 
+                which the transaction would qualify as a bona fide 
+                hedging transaction pursuant to paragraph (2)(A) of 
+                this subsection.''.
+    (h) Detailed Reporting and Disaggregation of Market Data.--Section 
+4 of such Act (7 U.S.C. 6) is amended by adding at the end the 
+following:
+    ``(e) Detailed Reporting and Disaggregation of Market Data.--
+            ``(1) Index traders and swap dealers reporting.--The 
+        Commission shall issue a proposed rule defining and classifying 
+        index traders and swap dealers (as those terms are defined by 
+        the Commission) for purposes of data reporting requirements and 
+        setting routine detailed reporting requirements for any 
+        positions of such entities in contracts traded on designated 
+        contract markets, over-the-counter markets, derivatives 
+        transaction execution facilities, foreign boards of trade 
+        subject to section 4(f), and electronic trading facilities with 
+        respect to significant price discovery contracts not later than 
+        120 days after the date of the enactment of this subsection, 
+        and issue a final rule within 180 days after such date of 
+        enactment.
+            ``(2) Disaggregation of index funds and other data in 
+        markets.--Subject to section 8 and beginning within 60 days of 
+        the issuance of the final rule required by paragraph (1), the 
+        Commission shall disaggregate and make public weekly--
+                    ``(A) the number of positions and total notional 
+                value of index funds and other passive, long-only and 
+                short-only positions (as defined by the Commission) in 
+                all markets to the extent such information is 
+                available; and
+                    ``(B) data on speculative positions relative to 
+                bona fide physical hedgers in those markets to the 
+                extent such information is available.
+            ``(3) Disclosure of identity of holders of positions in 
+        indexes in excess of position limits.--The Commission shall 
+        include in its weekly Commitment of Trader reports the identity 
+        of each person who holds a position in an index in excess of a 
+        limit imposed under section 4i.''.
+    (i) Authority To Set Limits To Prevent Excessive Speculation in 
+Indexes.--
+            (1) In general.--Section 4a of such Act (7 U.S.C. 6a) is 
+        amended by adding at the end the following:
+    ``(f) The provisions of this section shall apply to the amounts of 
+trading which may be done or positions which may be held by any person 
+under contracts of sale of an index for future delivery on or subject 
+to the rules of any contract market, derivatives transaction execution 
+facility, or over-the-counter market, or on an electronic trading 
+facility with respect to a significant price discovery contract, in the 
+same manner in which this section applies to contracts of sale of a 
+commodity for future delivery.''.
+            (2) Regulations.--The Commodity Futures Trading Commission 
+        shall issue regulations under section 4a(f) of the Commodity 
+        Exchange Act within 180 days after the date of the enactment of 
+        this Act.
+
+SEC. 4. NO EFFECT ON AUTHORITY OF THE FEDERAL ENERGY REGULATORY 
+              COMMISSION.
+
+    Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is amended by 
+adding at the end the following:.
+    ``(j) No Effect on FERC Authority.--This Act shall not be 
+interpreted to affect the jurisdiction of the Federal Energy Regulatory 
+Commission with respect to the authority of the Federal Energy 
+Regulatory Commission under the Federal Power Act (16 U.S.C. 791a et 
+seq.), the Natural Gas Act (15 U.S.C. 717 et seq.), or other law to 
+obtain information, carry out enforcement actions, or otherwise carry 
+out the responsibilities of the Federal Energy Regulatory 
+Commission.''.
+
+SEC. 5. INSPECTOR GENERAL OF THE COMMODITY FUTURES TRADING COMMISSION.
+
+    (a) Elevation of Office.--
+            (1) Inclusion of cftc in definition of establishment.--
+                    (A) Section 11(1) of the Inspector General Act of 
+                1978 (5 U.S.C. App.) is amended by striking ``or the 
+                Federal Cochairpersons of the Commissions established 
+                under section 15301 of title 40, United States Code;'' 
+                and inserting ``the Federal Cochairpersons of the 
+                Commissions established under section 15301 of title 
+                40, United States Code; or the Chairman of the 
+                Commodity Futures Trading Commission;''.
+                    (B) Section 11(2) of the Inspector General Act of 
+                1978 (5 U.S.C. App.) is amended by striking ``or the 
+                Commissions established under section 15301 of title 
+                40, United States Code,'' and inserting ``the 
+                Commissions established under section 15301 of title 
+                40, United States Code, or the Commodity Futures 
+                Trading Commission,''.
+            (2) Exclusion of cftc from definition of designated federal 
+        entity.--Section 8G(a)(2) of the Inspector General Act of 1978 
+        (5 U.S.C. App.) is amended by striking ``the Commodity Futures 
+        Trading Commission,''.
+    (b) Effective Date; Transition Rule.--
+            (1) Effective date.--The amendments made by this section 
+        shall take effect 30 days after the date of the enactment of 
+        this Act.
+            (2) Transition rule.--An individual serving as Inspector 
+        General of the Commodity Futures Trading Commission on the 
+        effective date of this section pursuant to an appointment made 
+        under section 8G of the Inspector General Act of 1978 (5 U.S.C. 
+        App.)--
+                    (A) may continue so serving until the President 
+                makes an appointment under section 3(a) of such Act 
+                consistent with the amendments made by this section; 
+                and
+                    (B) shall, while serving under subparagraph (A), 
+                remain subject to the provisions of section 8G of such 
+                Act which apply with respect to the Commodity Futures 
+                Trading Commission.
+
+SEC. 6. SETTLEMENT AND CLEARING THROUGH REGISTERED DERIVATIVES CLEARING 
+              ORGANIZATIONS.
+
+    (a) In General.--
+            (1) Application to excluded derivative transactions.--
+                    (A) Section 2(d)(1) of the Commodity Exchange Act 
+                (7 U.S.C. 2(d)(1)) is amended--
+                            (i) by striking ``and'' at the end of 
+                        subparagraph (A);
+                            (ii) by striking the period at the end of 
+                        subparagraph (B) and inserting ``and''; and
+                            (iii) by adding at the end the following:
+                    ``(C) except as provided in section 4(f), the 
+                agreement, contract, or transaction is settled and 
+                cleared through a derivatives clearing organization 
+                registered with the Commission.''.
+                    (B) Section 2(d)(2) of such Act (7 U.S.C. 2(d)(2)) 
+                is amended--
+                            (i) by striking ``and'' at the end of 
+                        subparagraph (B);
+                            (ii) by striking the period at the end of 
+                        subparagraph (C) and inserting ``; and''; and
+                            (iii) by adding at the end the following:
+                    ``(D) except as provided in section 4(f), the 
+                agreement, contract, or transaction is settled and 
+                cleared through a derivatives clearing organization 
+                registered with the Commission.''.
+            (2) Application to certain swap transactions.--Section 2(g) 
+        of such Act (7 U.S.C. 2(g)) is amended--
+                    (A) by striking ``and'' at the end of paragraph 
+                (2);
+                    (B) by striking the period at the end of paragraph 
+                (3) and inserting ``; and''; and
+                    (C) by adding at the end the following:
+            ``(4) except as provided in section 4(f), settled and 
+        cleared through a derivatives clearing organization registered 
+        with the Commission.''.
+            (3) Application to certain transactions in exempt 
+        commodities.--
+                    (A) Section 2(h)(1) of such Act (7 U.S.C. 2(h)(1)) 
+                is amended--
+                            (i) by striking ``and'' at the end of 
+                        subparagraph (A);
+                            (ii) by striking the period at the end of 
+                        subparagraph (B) and inserting ``; and''; and
+                            (iii) by adding at the end the following:
+                    ``(C) except as provided in section 4(f), is 
+                settled and cleared through a derivatives clearing 
+                organization registered with the Commission.''.
+                    (B) Section 2(h)(3) of such Act (7 U.S.C. 2(h)(3)) 
+                is amended--
+                            (i) by striking ``and'' at the end of 
+                        subparagraph (A);
+                            (ii) by striking the period at the end of 
+                        subparagraph (B) and inserting ``; and''; and
+                            (iii) by adding at the end the following:
+                    ``(C) except as provided in section 4(f), settled 
+                and cleared through a derivatives clearing organization 
+                registered with the Commission.''.
+            (4) General exemptive authority.--Section 4(c)(1) of such 
+        Act (7 U.S.C. 6(c)(1)) is amended by inserting ``the agreement, 
+        contract, or transaction, except as provided in section 4(h), 
+        will be settled and cleared through a derivatives clearing 
+        organization registered with the Commission and'' before ``the 
+        Commission determines''.
+            (5) Conforming amendment relating to significant price 
+        discovery contracts.--Section 2(h)(7)(D) of such Act (7 U.S.C. 
+        2(h)(7)(D)) is amended by striking the heading for the 
+        subparagraph and all that follows through ``As part of'' and 
+        inserting the following:
+                    ``(D) Review of implementation.--As part of''.
+    (b) Alternatives To Clearing Through Designated Clearing 
+Organizations.--Section 4 of such Act (7 U.S.C. 6), as amended by 
+section 3(h) of this Act, is amended by adding at the end the 
+following:
+    ``(f) Alternatives To Clearing Through Designated Clearing 
+Organizations.--
+            ``(1) Settlement and clearing through certain other 
+        regulated entities.--An agreement, contract, or transaction, or 
+        class thereof, relating to an excluded commodity, that would 
+        otherwise be required to be settled and cleared by section 
+        2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), or 2(h)(3)(C) of 
+        this Act, or subsection (c)(1) of this section may be settled 
+        and cleared through an entity listed in subsections (a) or (b) 
+        of section 409 of the Federal Deposit Insurance Corporation 
+        Improvement Act of 1991.
+            ``(2) Waiver of clearing requirement.--
+                    ``(A) The Commission, in its discretion, may exempt 
+                an agreement, contract, or transaction, or class 
+                thereof, that would otherwise be required by section 
+                2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), or 
+                2(h)(3)(C) of this Act, or subsection (c)(1) of this 
+                section to be settled and cleared through a derivatives 
+                clearing organization registered with the Commission 
+                from such requirement.
+                    ``(B) In granting exemptions pursuant to 
+                subparagraph (A), the Commission shall consult with the 
+                Securities and Exchange Commission and the Board of 
+                Governors of the Federal Reserve System regarding 
+                exemptions that relate to excluded commodities or 
+                entities for which the Securities Exchange Commission 
+                or the Board of Governors of the Federal Reserve System 
+                serve as the primary regulator.
+                    ``(C) Before granting an exemption pursuant to 
+                subparagraph (A), the Commission shall find that the 
+                agreement, contract, or transaction, or class thereof--
+                            ``(i) is highly customized as to its 
+                        material terms and conditions;
+                            ``(ii) is transacted infrequently;
+                            ``(iii) does not serve a significant price-
+                        discovery function in the marketplace; and
+                            ``(iv) is being entered into by parties who 
+                        can demonstrate the financial integrity of the 
+                        agreement, contract, or transaction and their 
+                        own financial integrity, as such terms and 
+                        standards are determined by the Commission. The 
+                        standards may include, with respect to any 
+                        federally regulated financial entity for which 
+                        net capital requirements are imposed, a net 
+                        capital requirement associated with any 
+                        agreement, contract, or transaction subject to 
+                        an exemption from the clearing requirement that 
+                        is higher than the net capital requirement that 
+                        would be associated with such a transaction 
+                        were it cleared.
+                    ``(D) Any agreement, contract, or transaction, or 
+                class thereof, which is exempted pursuant to 
+                subparagraph (A) shall be reported to the Commission in 
+                a manner designated by the Commission, or to such other 
+                entity the Commission deems appropriate.
+                    ``(E) The Commission, the Securities and Exchange 
+                Commission, and the Board of Governors of the Federal 
+                Reserve System shall enter into a memorandum of 
+                understanding by which the information reported to the 
+                Commission pursuant to subparagraph (D) with regard to 
+                excluded commodities or entities for which the 
+                Securities Exchange Commission or the Board of 
+                Governors of the Federal Reserve System serve as the 
+                primary regulator may be provided to the other 
+                agencies.
+    ``(g) Spot and Forward Exclusion.--The settlement and clearing 
+requirements of section 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), 
+2(h)(3)(C), or 4(c)(1) shall not apply to an agreement, contract, or 
+transaction of any cash commodity for immediate or deferred shipment or 
+delivery, as defined by the Commission.''.
+    (c) Additional Requirements Applicable to Applicants for 
+Registration as a Derivative Clearing Organization.--Section 5b(c)(2) 
+of such Act (7 U.S.C. 7a-1(c)(2)) is amended by adding at the end the 
+following:
+                    ``(O) Disclosure of general information.--The 
+                applicant shall disclose publicly and to the Commission 
+                information concerning--
+                            ``(i) the terms and conditions of 
+                        contracts, agreements, and transactions cleared 
+                        and settled by the applicant;
+                            ``(ii) the conventions, mechanisms, and 
+                        practices applicable to the contracts, 
+                        agreements, and transactions;
+                            ``(iii) the margin-setting methodology and 
+                        the size and composition of the financial 
+                        resource package of the applicant; and
+                            ``(iv) other information relevant to 
+                        participation in the settlement and clearing 
+                        activities of the applicant.
+                    ``(P) Daily publication of trading information.--
+                The applicant shall make public daily information on 
+                settlement prices, volume, and open interest for 
+                contracts settled or cleared pursuant to the 
+                requirements of 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 
+                2(h)(1)(C), 2(h)(3)(C) or 4(c)(1) of this Act by the 
+                applicant if the Commission determines that the 
+                contracts perform a significant price discovery 
+                function for transactions in the cash market for the 
+                commodity underlying the contracts.
+                    ``(Q) Fitness standards.--The applicant shall 
+                establish and enforce appropriate fitness standards for 
+                directors, members of any disciplinary committee, and 
+                members of the applicant, and any other persons with 
+                direct access to the settlement or clearing activities 
+                of the applicant, including any parties affiliated with 
+                any of the persons described in this subparagraph.''.
+    (d) Amendments.--
+            (1) Section 409 of the Federal Deposit Insurance 
+        Corporation Improvement Act of 1991 (12 U.S.C. 4422) is amended 
+        by adding at the end the following:
+    ``(c) Clearing Requirement.--A multilateral clearing organization 
+described in subsections (a) or (b) of this section shall comply with 
+requirements similar to the requirements of sections 5b and 5c or the 
+Commodity Exchange Act.''.
+            (2) Section 407 of the Legal Certainty for Bank Products 
+        Act of 2000 (7 U.S.C. 27e) is amended by inserting ``and the 
+        settlement and clearing requirements of sections 2(d)(1)(C), 
+        2(d)(2)(D), 2(g)(4), 2(h)(1)(C), 2(h)(3)(C), and 4(c)(1) of 
+        such Act'' after ``the clearing of covered swap agreements''.
+    (e) Effective Date.--The amendments made by this section shall take 
+effect 150 days after the date of the enactment of this Act.
+    (f) Transition Rule.--Any agreement, contract, or transaction 
+entered into before the date of the enactment of this Act or within 150 
+days after such date of enactment, in reliance on subsection (d), (g), 
+(h)(1), or (h)(3) of section 2 of the Commodity Exchange Act or any 
+other exemption issued by the Commission Futures Trading Commission by 
+rule, regulation, or order shall, within 90 days after such date of 
+enactment, unless settled and cleared through an entity registered with 
+the Commission as a derivatives clearing organization or another 
+clearing entity pursuant to section 4(f) of such Act, be reported to 
+the Commission in a manner designated by the Commission, or to such 
+other entity as the Commission deems appropriate.
+
+SEC. 7. LIMITATION ON ELIGIBILITY TO PURCHASE A CREDIT DEFAULT SWAP.
+
+    (a) In General.--Section 4c of the Commodity Exchange Act (7 U.S.C. 
+6c) is amended by adding at the end the following:
+    ``(h) Limitation on Eligibility To Purchase a Credit Default 
+Swap.--It shall be unlawful for any person to enter into a credit 
+default swap unless the person--
+            ``(1) owns a credit instrument which is insured by the 
+        credit default swap;
+            ``(2) would experience financial loss if an event that is 
+        the subject of the credit default swap occurs with respect to 
+        the credit instrument; and
+            ``(3) meets such minimum capital adequacy standards as may 
+        be established by the Commission, in consultation with the 
+        Board of Governors of the Federal Reserve System, or such more 
+        stringent minimum capital adequacy standards as may be 
+        established by or under the law of any State in which the swap 
+        is originated or entered into, or in which possession of the 
+        contract involved takes place.''.
+    (b) Elimination of Preemption of State Bucketing Laws Regarding 
+Naked Credit Default Swaps.--Section 12(e)(2)(B) of such Act (7 U.S.C. 
+16(e)(2)(B)) is amended by inserting ``(other than a credit default 
+swap in which the purchaser of the swap would not experience financial 
+loss if an event that is the subject of the swap occurred)'' before 
+``that is excluded''.
+    (c) Definition of Credit Default Swap.--Section 1a of such Act (7 
+U.S.C. 1a), as amended by section 3(a) of this Act, is amended by 
+adding at the end the following:
+            ``(37) Credit default swap.--the term `credit default swap' 
+        means a contract which insures a party to the contract against 
+        the risk that an entity may experience a loss of value as a 
+        result of an event specified in the contract, such as a default 
+        or credit downgrade. A credit default swap that is traded on or 
+        cleared by a registered entity shall be excluded from the 
+        definition of a security as defined in this Act and in section 
+        2(a)(1) of the Securities Act of 1933 or section 3(a)(10) of 
+        the Securities Exchange Act of 1934, except it shall be deemed 
+        a security solely for purpose of enforcing prohibitions against 
+        insider trading in sections 10 and 16 of the Securities 
+        Exchange Act of 1934.''.
+    (d) Effective Date.--The amendments made by this section shall be 
+effective for credit default swaps (as defined in section 1a(37) of the 
+Commodity Exchange Act) entered into after 60 days after the date of 
+the enactment of this section.
+
+SEC. 8. TRANSACTION FEES.
+
+    (a) In General.--Section 12 of the Commodity Exchange Act (7 U.S.C. 
+16) is amended by redesignating subsections (e), (f), and (g) as 
+subsections (f), (g), and (h), respectively, and inserting after 
+subsection (d) the following:
+    ``(e) Clearing Fees.--
+            ``(1) In general.--The Commission shall, in accordance with 
+        this subsection, charge and collect from each registered 
+        clearing organization, and each such organization shall pay to 
+        the Commission, transaction fees at a rate calculated to 
+        recover the costs to the Federal Government of the supervision 
+        and regulation of futures markets, except those directly 
+        related to enforcement.
+            ``(2) Fees assessed per side of cleared contracts.--
+                    ``(A) In general.--The Commission shall determine 
+                the fee rate referred to in paragraph (1), and shall 
+                apply the fee rate per side of any transaction cleared.
+                    ``(B) Authority to delegate.--The Commission may 
+                determine the procedures by which the fee rate is to be 
+                applied on the transactions subject to the fee, or 
+                delegate the authority to make the determination to any 
+                appropriate derivatives clearing organization.
+            ``(3) Exemptions.--The Commision may not impose a fee under 
+        paragraph (1) on--
+                    ``(A) a class of contracts or transactions if the 
+                Commission finds that it is in the public interest to 
+                exempt the class from the fee; or
+                    ``(B) a contract or transaction cleared by a 
+                registered derivatives clearing organization that is--
+                            ``(i) subject to fees under section 31 of 
+                        the Securities Exchange Act of 1934; or
+                            ``(ii) a security as defined in the 
+                        Securities Act of 1933 or the Securities 
+                        Exchange Act of 1934.
+            ``(4) Dates for payment of fees.--The fees imposed under 
+        paragraph (1) shall be paid on or before--
+                    ``(A) March 15 of each year, with respect to 
+                transactions occurring on or after the preceding 
+                September 1 and on or before the preceding December 31; 
+                and
+                    ``(B) September 15 of each year, with respect to 
+                transactions occurring on or after the preceding 
+                January 1 and on or before the preceding August 31.
+            ``(5) Annual adjustment of fee rates.--
+                    ``(A) In general.--Not later than April 30 of each 
+                fiscal year, the Commission shall, by order, adjust 
+                each fee rate determined under paragraph (2) for the 
+                fiscal year to a uniform adjusted rate that, when 
+                applied to the estimated aggregate number of cleared 
+                sides of transactions for the fiscal year, is 
+                reasonably likely to produce aggregate fee receipts 
+                under this subsection for the fiscal year equal to the 
+                target offsetting receipt amount for the fiscal year.
+                    ``(B) Definitions.--In subparagraph (A):
+                            ``(i) Estimated aggregate number of cleared 
+                        sides of transactions.--The term `estimated 
+                        aggregate number of cleared sides of 
+                        transactions' means, with respect to a fiscal 
+                        year, the aggregate number of cleared sides of 
+                        transactions to be cleared by registered 
+                        derivatives clearing organizations during the 
+                        fiscal year, as estimated by the Commission, 
+                        after consultation with the Office of 
+                        Management and Budget, using the methodology 
+                        required for making projections pursuant to 
+                        section 257 of the Balanced Budget and 
+                        Emergency Deficit Control Act of 1985.
+                            ``(ii) Target offsetting receipt amount.--
+                        The term `target offsetting receipt amount' 
+                        means, with respect to a fiscal year, the total 
+                        level of Commission budget authority for all 
+                        non-enforcement activities of the Commission, 
+                        as contained in the regular appropriations Acts 
+                        for the fiscal year.
+                    ``(C) No judicial review.--An adjusted fee rate 
+                prescribed under subparagraph (A) shall not be subject 
+                to judicial review.
+            ``(6) Publication.--Not later than April 30 of each fiscal 
+        year, the Commission shall cause to be published in the Federal 
+        Register notices of the fee rates applicable under this 
+        subsection for the succeeding fiscal year, and any estimate or 
+        projection on which the fee rates are based.
+            ``(7) Inapplicability of certain procedural rules.--Section 
+        553 of title 5, United States Code, shall not apply with 
+        respect to any exercise of authority under this subsection.
+            ``(8) Establishment of futures and options transaction fee 
+        account; deposit of fees.--There is established in the Treasury 
+        of the United States an account which shall be known as the 
+        `Futures and Options Transaction Fee Account'. All fees 
+        collected under this subsection for a fiscal year shall be 
+        deposited in the account. Amounts in the account are authorized 
+        to be appropriated to fund the expenditures of the 
+        Commission.''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply to fiscal years beginning 30 or more days after the date of the 
+enactment of this Act.
+    (c) Transition Rule.--If this section becomes law after March 31 
+and before September 1 of a fiscal year, then paragraphs (5)(A) and (6) 
+of section 12(e) of the Commodity Exchange Act shall be applied, in the 
+case of the 1st fiscal year beginning after the date of the enactment 
+of this Act, by substituting ``August 31'' for ``April 30''.
+
+SEC. 9. NO EFFECT ON AUTHORITY OF THE FEDERAL TRADE COMMISSION.
+
+    Nothing in this Act shall be interpreted to affect or diminish the 
+jurisdiction or authority of the Federal Trade Commission with respect 
+to its authorities under the Federal Trade Commission Act (15 U.S.C. 41 
+et seq.) or the Energy Independence and Security Act of 2007 (Public 
+Law 110-140) to obtain information, to carry out enforcement activities 
+or otherwise carry out the responsibilities of the Federal Trade 
+Commission.
+
+SEC. 10. CEASE-AND-DESIST AUTHORITY.
+
+    (a) Natural Gas Act.--Section 20 of the Natural Gas Act (15 U.S.C. 
+717s) is amended by adding the following at the end:
+    ``(e) Cease-and-Desist Proceedings; Temporary Orders; Authority of 
+the Commission.--
+            ``(1) In general.--If the Commission finds, after notice 
+        and opportunity for hearing, that any entity may be violating, 
+        may have violated, or may be about to violate any provision of 
+        this Act, or any rule, regulation, restriction, condition, or 
+        order made or imposed by the Commission under the authority of 
+        this Act, the Commission may publish its findings and issue an 
+        order requiring such entity, and any other entity that is, was, 
+        or would be a cause of the violation, due to an act or omission 
+        the entity knew or should have known would contribute to such 
+        violation, to cease and desist from committing or causing such 
+        violation and any future violation of the same provision, rule, 
+        or regulation. Such order may, in addition to requiring an 
+        entity to cease and desist from committing or causing a 
+        violation, require such entity to comply, to provide an 
+        accounting and disgorgement, or to take steps to effect 
+        compliance, with such provision, rule, or regulation, upon such 
+        terms and conditions and within such time as the Commission may 
+        specify in such order. Any such order may, as the Commission 
+        deems appropriate, require future compliance or steps to effect 
+        future compliance, either permanently or for such period of 
+        time as the Commission may specify.
+            ``(2) Timing of entry.--An order issued under this 
+        subsection shall be entered only after notice and opportunity 
+        for a hearing, unless the Commission determines that notice and 
+        hearing prior to entry would be impracticable or contrary to 
+        the public interest.
+    ``(f) Hearing.--The notice instituting proceedings pursuant to 
+subsection (e) shall fix a hearing date not earlier than 30 days nor 
+later than 60 days after service of the notice unless an earlier or a 
+later date is set by the Commission with the consent of any respondent 
+so served.
+    ``(g) Temporary Order.--Whenever the Commission determines that--
+            ``(1) a respondent may take actions to dissipate or convert 
+        assets prior to the completion of the proceedings referred to 
+        in subsection (e), and such assets would be necessary to comply 
+        with or otherwise satisfy a final enforcement order of the 
+        Commission pursuant to alleged violations or threatened 
+        violations specified in the notice instituting proceedings, or
+            ``(2) a respondent is engaged in actual or threatened 
+        violations of this Act or a Commission rule, regulation, 
+        restriction or order referred to in subsection (e),
+the Commission may issue a temporary order requiring the respondent to 
+take such action to prevent dissipation or conversion of assets, 
+significant harm to energy consumers, or substantial harm to the public 
+interest, frustration of the Commission's ability to conduct the 
+proceedings, or frustration of the Commission's ability to redress said 
+violation at the conclusion of the proceedings, as the Commission deems 
+appropriate pending completion of such proceedings.
+    ``(h) Review of Temporary Orders.--
+            ``(1) Commission review.--At any time after the respondent 
+        has been served with a temporary cease-and-desist order 
+        pursuant to subsection (g), the respondent may apply to the 
+        Commission to have the order set aside, limited, or suspended. 
+        If the respondent has been served with a temporary cease-and-
+        desist order entered without a prior Commission hearing, the 
+        respondent may, within 10 days after the date on which the 
+        order was served, request a hearing on such application and the 
+        Commission shall hold a hearing and render a decision on such 
+        application at the earliest possible time.
+            ``(2) Judicial review.--Within--
+                    ``(A) 10 days after the date the respondent was 
+                served with a temporary cease-and-desist order entered 
+                with a prior Commission hearing; or
+                    ``(B) 10 days after the Commission renders a 
+                decision on an application and hearing under paragraph 
+                (1), with respect to any temporary cease-and-desist 
+                order entered without a prior Commission hearing, the 
+                respondent may apply to the United States district 
+                court for the district in which the respondent resides 
+                or has its principal place of business, or for the 
+                District of Columbia, for an order setting aside, 
+                limiting, or suspending the effectiveness or 
+                enforcement of the order, and the court shall have 
+                jurisdiction to enter such an order. A respondent 
+                served with a temporary cease-and-desist order entered 
+                without a prior Commission hearing may not apply to the 
+                court except after hearing and decision by the 
+                Commission on the respondent's application under 
+                paragraph (1) of this subsection.
+            ``(3) No automatic stay of temporary order.--The 
+        commencement of proceedings under paragraph (2) of this 
+        subsection shall not, unless specifically ordered by the court, 
+        operate as a stay of the Commission's order.
+            ``(4) Exclusive review.--Sections 19(d) and 24 shall not 
+        apply to a temporary order entered pursuant to this section.
+    ``(i) Implementation.--The Commission is authorized to adopt rules, 
+regulations, and orders as it deems appropriate to implement this 
+section.''.
+    (b) Federal Power Act.--Section 314 of the Federal Power Act (16 
+U.S.C. 825m) is amended by adding the following at the end:
+    ``(e) Cease-and-Desist Proceedings; Temporary Orders; Authority of 
+the Commission.--
+            ``(1) In general.--If the Commission finds, after notice 
+        and opportunity for hearing, that any entity may be violating, 
+        may have violated, or may be about to violate any provision of 
+        this Act, or any rule, regulation, restriction, condition, or 
+        order made or imposed by the Commission under the authority of 
+        this Act, the Commission may publish its findings and issue an 
+        order requiring such entity, and any other entity that is, was, 
+        or would be a cause of the violation, due to an act or omission 
+        the entity knew or should have known would contribute to such 
+        violation, to cease and desist from committing or causing such 
+        violation and any future violation of the same provision, rule, 
+        or regulation. Such order may, in addition to requiring an 
+        entity to cease and desist from committing or causing a 
+        violation, require such entity to comply, to provide an 
+        accounting and disgorgement, or to take steps to effect 
+        compliance, with such provision, rule, or regulation, upon such 
+        terms and conditions and within such time as the Commission may 
+        specify in such order. Any such order may, as the Commission 
+        deems appropriate, require future compliance or steps to effect 
+        future compliance, either permanently or for such period of 
+        time as the Commission may specify.
+            ``(2) Timing of entry.--An order issued under this 
+        subsection shall be entered only after notice and opportunity 
+        for a hearing, unless the Commission determines that notice and 
+        hearing prior to entry would be impracticable or contrary to 
+        the public interest.
+            ``(3) Hearing.--The notice instituting proceedings pursuant 
+        to paragraph (1) shall fix a hearing date not earlier than 30 
+        days nor later than 60 days after service of the notice unless 
+        an earlier or a later date is set by the Commission with the 
+        consent of any respondent so served.
+            ``(4) Temporary order.--Whenever the Commission determines 
+        that--
+                    ``(A) a respondent may take actions to dissipate or 
+                convert assets prior to the completion of the 
+                proceedings referred to in paragraph (1), and such 
+                assets would be necessary to comply with or otherwise 
+                satisfy a final enforcement order of the Commission 
+                pursuant to alleged violations or threatened violations 
+                specified in the notice instituting proceedings, or
+                    ``(B) a respondent is engaged in actual or 
+                threatened violations of this Act or a Commission rule, 
+                regulation, restriction or order referred to in 
+                paragraph (1),
+        the Commission may issue a temporary order requiring the 
+        respondent to take such action to prevent dissipation or 
+        conversion of assets, significant harm to energy consumers, or 
+        substantial harm to the public interest, frustration of the 
+        Commission's ability to conduct the proceedings, or frustration 
+        of the Commission's ability to redress said violation at the 
+        conclusion of the proceedings, as the Commission deems 
+        appropriate pending completion of such proceedings.
+            ``(5) Review of temporary orders.--
+                    ``(A) Commission review.--At any time after the 
+                respondent has been served with a temporary cease-and-
+                desist order pursuant to paragraph (4), the respondent 
+                may apply to the Commission to have the order set 
+                aside, limited, or suspended. If the respondent has 
+                been served with a temporary cease-and-desist order 
+                entered without a prior Commission hearing, the 
+                respondent may, within 10 days after the date on which 
+                the order was served, request a hearing on such 
+                application and the Commission shall hold a hearing and 
+                render a decision on such application at the earliest 
+                possible time.
+                    ``(B) Judicial review.--Within--
+                            ``(i) 10 days after the date the respondent 
+                        was served with a temporary cease-and-desist 
+                        order entered with a prior Commission hearing; 
+                        or
+                            ``(ii) 10 days after the Commission renders 
+                        a decision on an application and hearing under 
+                        subparagraph (A), with respect to any temporary 
+                        cease-and-desist order entered without a prior 
+                        Commission hearing, the respondent may apply to 
+                        the United States district court for the 
+                        district in which the respondent resides or has 
+                        its principal place of business, or for the 
+                        District of Columbia, for an order setting 
+                        aside, limiting, or suspending the 
+                        effectiveness or enforcement of the order, and 
+                        the court shall have jurisdiction to enter such 
+                        an order. A respondent served with a temporary 
+                        cease-and-desist order entered without a prior 
+                        Commission hearing may not apply to the court 
+                        except after hearing and decision by the 
+                        Commission on the respondent's application 
+                        under subparagraph (A) of this paragraph.
+                    ``(C) No automatic stay of temporary order.--The 
+                commencement of proceedings under subparagraph (B) of 
+                this subsection shall not, unless specifically ordered 
+                by the court, operate as a stay of the Commission's 
+                order.
+                    ``(D) Exclusive review.--Section 317 shall not 
+                apply to a temporary order entered pursuant to this 
+                section.
+            ``(6) Implementation.--The Commission is authorized to 
+        adopt rules, regulations, and orders as it deems appropriate to 
+        implement this subsection.''.
+    (c) Natural Gas Policy Act of 1978.--Section 504 of the Natural Gas 
+Policy Act of 1978 (15 U.S.C. 3414) is amended by adding the following 
+at the end:
+    ``(c) Cease-and-Desist Proceedings; Temporary Orders; Authority of 
+the Commission.--
+            ``(1) In general.--If the Commission finds, after notice 
+        and opportunity for hearing, that any entity may be violating, 
+        may have violated, or may be about to violate any provision of 
+        this Act, or any rule, regulation, restriction, condition, or 
+        order made or imposed by the Commission under the authority of 
+        this Act, the Commission may publish its findings and issue an 
+        order requiring such entity, and any other entity that is, was, 
+        or would be a cause of the violation, due to an act or omission 
+        the entity knew or should have known would contribute to such 
+        violation, to cease and desist from committing or causing such 
+        violation and any future violation of the same provision, rule, 
+        or regulation. Such order may, in addition to requiring an 
+        entity to cease and desist from committing or causing a 
+        violation, require such entity to comply, to provide an 
+        accounting and disgorgement, or to take steps to effect 
+        compliance, with such provision, rule, or regulation, upon such 
+        terms and conditions and within such time as the Commission may 
+        specify in such order. Any such order may, as the Commission 
+        deems appropriate, require future compliance or steps to effect 
+        future compliance, either permanently or for such period of 
+        time as the Commission may specify.
+            ``(2) Timing of entry.--An order issued under this 
+        subsection shall be entered only after notice and opportunity 
+        for a hearing, unless the Commission determines that notice and 
+        hearing prior to entry would be impracticable or contrary to 
+        the public interest.
+            ``(3) Hearing.--The notice instituting proceedings pursuant 
+        to paragraph (1) shall fix a hearing date not earlier than 30 
+        days nor later than 60 days after service of the notice unless 
+        an earlier or a later date is set by the Commission with the 
+        consent of any respondent so served.
+            ``(4) Temporary order.--Whenever the Commission determines 
+        that--
+                    ``(A) a respondent may take actions to dissipate or 
+                convert assets prior to the completion of the 
+                proceedings referred to in paragraph (1) and such 
+                assets would be necessary to comply with or otherwise 
+                satisfy a final enforcement order of the Commission 
+                pursuant to alleged violations or threatened violations 
+                specified in the notice instituting proceedings, or
+                    ``(B) a respondent is engaged in actual or 
+                threatened violations of this Act or a Commission rule, 
+                regulation, restriction or order referred to in 
+                paragraph (1),
+        the Commission may issue a temporary order requiring the 
+        respondent to take such action to prevent dissipation or 
+        conversion of assets, significant harm to energy consumers, or 
+        substantial harm to the public interest, frustration of the 
+        Commission's ability to conduct the proceedings, or frustration 
+        of the Commission's ability to redress said violation at the 
+        conclusion of the proceedings, as the Commission deems 
+        appropriate pending completion of such proceedings.
+            ``(5) Review of temporary orders.--
+                    ``(A) Commission review.--At any time after the 
+                respondent has been served with a temporary cease-and-
+                desist order pursuant to paragraph (4), the respondent 
+                may apply to the Commission to have the order set 
+                aside, limited, or suspended. If the respondent has 
+                been served with a temporary cease-and-desist order 
+                entered without a prior Commission hearing, the 
+                respondent may, within 10 days after the date on which 
+                the order was served, request a hearing on such 
+                application and the Commission shall hold a hearing and 
+                render a decision on such application at the earliest 
+                possible time.
+                    ``(B) Judicial review.--Within--
+                            ``(i) 10 days after the date the respondent 
+                        was served with a temporary cease-and-desist 
+                        order entered with a prior Commission hearing; 
+                        or
+                            ``(ii) 10 days after the Commission renders 
+                        a decision on an application and hearing under 
+                        subparagraph (A), with respect to any temporary 
+                        cease-and-desist order entered without a prior 
+                        Commission hearing, the respondent may apply to 
+                        the United States district court for the 
+                        district in which the respondent resides or has 
+                        its principal place of business, or for the 
+                        District of Columbia, for an order setting 
+                        aside, limiting, or suspending the 
+                        effectiveness or enforcement of the order, and 
+                        the court shall have jurisdiction to enter such 
+                        an order. A respondent served with a temporary 
+                        cease-and-desist order entered without a prior 
+                        Commission hearing may not apply to the court 
+                        except after hearing and decision by the 
+                        Commission on the respondent's application 
+                        under paragraph (1) of this subsection.
+                    ``(C) No automatic stay of temporary order.--The 
+                commencement of proceedings under subparagrpah (B) of 
+                this paragraph shall not, unless specifically ordered 
+                by the court, operate as a stay of the Commission's 
+                order.
+            ``(6) Implementation.--The Commission is authorized to 
+        adopt rules, regulations, and orders as it deems appropriate to 
+        implement this subsection.''.
+
+SEC. 11. NATURAL GAS ACT REFUNDS.
+
+    Section 5(a) of the Natural Gas Act (15 U.S.C. 717d(a)) is amended 
+by adding the following new paragraphs at the end thereof:
+            ``(3) Refund effective date.--
+                    ``(A) In general.--In accordance with subparagraphs 
+                (B) and (C), the Commission shall establish a refund 
+                effective date for any proceeding initiated under this 
+                subsection.
+                    ``(B) Complaints.--In the case of a proceeding 
+                initiated by a complaint, the refund effective date 
+                shall be--
+                            ``(i) not earlier than the date on which 
+                        the complaint is submitted to the Commission; 
+                        and
+                            ``(ii) not later than 150 days after the 
+                        date on which the complaint was submitted to 
+                        the Commission.
+                    ``(C) Commission motion.--In the case of a 
+                proceeding initiated on motion of the Commission, the 
+                refund effective date shall be--
+                            ``(i) not earlier than the date on which 
+                        the Commission publishes notice of the 
+                        intention of the Commission to initiate the 
+                        proceeding; and
+                            ``(ii) not later than 150 days after the 
+                        date on which the notice under clause (i) is 
+                        published.
+            ``(4) Issuance of refunds.--
+                    ``(A) In general.--At the conclusion of any hearing 
+                under this section, the Commission may order, for the 
+                period beginning on the refund effective date and 
+                ending on a date 15 months after the refund effective 
+                date, refunds of any amounts paid in excess of the 
+                amounts that would have been paid under the just and 
+                reasonable rate, charge, classification, rule, 
+                regulation, practice, or contract that the Commission 
+                orders that would be in effect after the hearing.
+                    ``(B) Exception.--Notwithstanding subparagraph (A), 
+                the Commission may order refunds of any or all amounts 
+                paid for the period beginning on the refund effective 
+                date and ending on the date on which the hearing 
+                concludes--
+                            ``(i) if the proceeding is not concluded by 
+                        the date that is 15 months after the refund 
+                        effective date; and
+                            ``(ii) if the Commission determines at the 
+                        conclusion of the proceeding that the 
+                        proceeding was not resolved within the 15-month 
+                        period primarily because of dilatory behavior 
+                        by the natural gas company.
+                    ``(C) Interest.--Refunds under this subsection 
+                shall be issued in an amount determined by the 
+                proceeding, plus interest, to the persons that paid the 
+                rates or charges.''.
+
+SEC. 12. REGULATION OF CARBON DERIVATIVES MARKETS.
+
+    (a) In General.--Section 2 of the Commodity Exchange Act (7 U.S.C. 
+2), as amended by section 4 of this Act, is amended by adding at the 
+end the following:
+    ``(k) The Commission shall have jurisdiction over the 
+establishment, operation, and oversight of markets for regulated 
+allowance derivatives, and shall provide for the establishment, 
+operation, and oversight of the markets in accordance with the same 
+regulations that apply under this Act to included energy 
+transactions.''.
+    (b) Definitions.--Section 1a of such Act (7 U.S.C. 1a), as amended 
+by section 3(a) of this Act, is amended by redesignating paragraphs 
+(32) through (36) as paragraphs (34) through (38), respectively, and by 
+inserting after paragraph (31) the following:
+            ``(32) Regulated allowance.--The term `regulated allowance' 
+        means any allowance authorized under law to emit a greenhouse 
+        gas, and any credit authorized under law based on a reduction 
+        in greenhouse gas emissions, the production of renewable 
+        energy, a carbon emission offset, or an increase in carbon 
+        sequestration.
+            ``(33) Regulated allowance derivative.--The term `regulated 
+        allowance derivative' means an instrument that is, or includes, 
+        an instrument--
+                    ``(A) which--
+                            ``(i) is of the character of, or is 
+                        commonly known to the trade as, a `put option', 
+                        `call option', `privilege', `indemnity', 
+                        `advance guaranty', `decline guaranty', or 
+                        `swap agreement'; or
+                            ``(ii) is a contract of sale for future 
+                        delivery, other than a written agreement for 
+                        the origination and development of an offset 
+                        project, and the related issuance of offset 
+                        credits, pursuant to title VII of the Clean Air 
+                        Act; and
+                    ``(B) the value of which, in whole or in part, is 
+                expressly linked to the price of a regulated allowance 
+                or another regulated allowance derivative.''.
+                                 <all>
+

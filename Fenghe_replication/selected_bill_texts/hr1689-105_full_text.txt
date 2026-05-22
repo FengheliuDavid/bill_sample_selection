@@ -1,0 +1,159 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1689 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 1689
+
+To amend the Securities Act of 1933 and the Securities Exchange Act of 
+1934 to limit the conduct of securities class actions under State law, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 21, 1997
+
+ Mr. White (for himself, Ms. Eshoo, Mr. Barton of Texas, Mr. Brown of 
+Ohio, Mr. Bilbray, Mr. Dooley of California, Mr. Campbell, Mr. Fazio of 
+California, Mr. Coburn, Mr. Farr of California, Mr. Cox of California, 
+Mr. Frank of Massachusetts, Ms. Dunn, Ms. Harman, Mr. Klug, Mr. Kennedy 
+ of Massachusetts, Mr. Nethercutt, Ms. Lofgren, Mr. Paxon, Mr. Roemer, 
+   Ms. Pryce of Ohio, Mrs. Tauscher, Mr. Tauzin, Mr. Towns, and Mr. 
+   Deutsch) introduced the following bill; which was referred to the 
+                         Committee on Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Securities Act of 1933 and the Securities Exchange Act of 
+1934 to limit the conduct of securities class actions under State law, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securities Litigation Uniform 
+Standards Act of 1997''.
+
+SEC. 2. LIMITATION ON REMEDIES.
+
+    (a) Amendments to the Securities Act of 1933.--
+            (1) Amendment.--Section 16 of the Securities Act of 1933 
+        (15 U.S.C. 77p) is amended to read as follows:
+
+``SEC. 16. ADDITIONAL REMEDIES; LIMITATION ON REMEDIES.
+
+    ``(a) Remedies Additional.--Except as provided in subsection (b), 
+the rights and remedies provided by this title shall be in addition to 
+any and all other rights and remedies that may exist at law or in 
+equity.
+    ``(b) Class Action Limitations.--No class action based upon the 
+statutory or common law of any State or subdivision thereof may be 
+maintained in any State or Federal court by any private party 
+alleging--
+            ``(1) an untrue statement or omission of a material fact in 
+        connection with the purchase or sale of a covered security; or
+            ``(2) that the defendant used or employed any manipulative 
+        or deceptive device or contrivance in connection with the 
+        purchase or sale of a covered security.
+    ``(c) Removal of Class Actions.--Any class action brought in any 
+State court involving a covered security as set forth in subsection (b) 
+shall be removable to the Federal district court for the district in 
+which the action is pending and shall be subject to subsection (b).
+    ``(d) Definitions.--For purposes of this section:
+            ``(1) Class action.--A `class action' is any single 
+        lawsuit, or any group of lawsuits filed in or pending in the 
+        same court involving common questions of law or fact, in 
+        which--
+                    ``(A) damages are sought on behalf of more than 25 
+                persons;
+                    ``(B) one or more named parties seek to recover 
+                damages on a representative basis on behalf of 
+                themselves and other unnamed parties similarly 
+                situated; or
+                    ``(C) one or more of the parties seeking to recover 
+                damages did not personally authorize the filing of the 
+                lawsuit.
+            ``(2) Covered security.--A security is a `covered security' 
+        if the issuer of the security had outstanding any security that 
+        satisfied the standard for a covered security specified in 
+        section 18(b)(1) of this title at any time during which it is 
+        alleged that the misrepresentation, omission, or manipulative 
+        or deceptive conduct occurred.''.
+            (2) Conforming amendments.--Section 22(a) of the Securities 
+        Act of 1933 (15 U.S.C. 77v(a)) is amended--
+                    (A) by striking ``and, concurrent with State and 
+                Territorial courts,'' and inserting ``and, concurrent 
+                with State and Territorial courts except as provided in 
+                section 16 with respect to class actions,''; and
+                    (B) by striking ``No case arising under this title 
+                and brought in any State court of competent 
+                jurisdiction shall be removed'' and inserting ``Except 
+                as provided in section 16(c), no case arising under 
+                this title and brought in any State court of competent 
+                jurisdiction shall be removed''.
+    (b) Amendments to the Securities Exchange Act of 1934.--Section 28 
+of the Securities Exchange Act of 1934 (15 U.S.C. 78bb) is amended--
+            (1) in subsection (a), by striking ``The rights and 
+        remedies'' and inserting ``Except as provided in subsection 
+        (f), the rights and remedies''; and
+            (2) by adding at the end the following new subsection:
+    ``(f) Limitations on Remedies.--
+            ``(1) Class action limitations.--No class action based upon 
+        the statutory or common law of any State or subdivision thereof 
+        may be maintained in any State or Federal court by any private 
+        party alleging--
+                    ``(A) a misrepresentation or omission of a material 
+                fact in connection with the purchase or sale of a 
+                covered security; or
+                    ``(B) that the defendant used or employed any 
+                manipulative or deceptive device or contrivance in 
+                connection with the purchase or sale of a covered 
+                security.
+            ``(2) Removal of class actions.--Any class action brought 
+        in any State court involving a covered security as set forth in 
+        paragraph (1) shall be removable to the Federal district court 
+        for the district in which the action is pending and shall be 
+        subject to paragraph (1).
+            ``(3) Definitions.--For purposes of this subsection:
+                    ``(A) Class action.--A `class action' is any single 
+                lawsuit, or any group of lawsuits filed in or pending 
+                in the same court involving common questions of law or 
+                fact, in which--
+                            ``(i) damages are sought on behalf of more 
+                        than 25 persons;
+                            ``(ii) one or more named parties seek to 
+                        recover damages on a representative basis on 
+                        behalf of themselves and other unnamed parties 
+                        similarly situated; or
+                            ``(iii) one or more of the parties seeking 
+                        to recover damages did not personally authorize 
+                        the filing of the lawsuit.
+                    ``(B) Covered security.--A security is a `covered 
+                security' if the issuer of the security had outstanding 
+                any security that satisfied the standard for a covered 
+                security specified in section 18(b)(1) of the 
+                Securities Act of 1993 at any time during which it is 
+                alleged that the misrepresentation, omission, or 
+                manipulative or deceptive conduct occurred.''.
+    (c) Applicability.--The amendments made by this section shall not 
+affect or apply to any action commenced before and pending on the date 
+of enactment of this Act.
+                                 <all>
+

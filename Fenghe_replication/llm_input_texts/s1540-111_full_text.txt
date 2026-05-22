@@ -1,0 +1,556 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1540 Introduced in Senate (IS)]
+
+111th CONGRESS
+  1st Session
+                                S. 1540
+
+  To provide for enhanced authority of the Federal Deposit Insurance 
+  Corporation to act as receiver for certain affiliates of depository 
+                 institutions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 30, 2009
+
+Mr. Corker (for himself and Mr. Warner) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To provide for enhanced authority of the Federal Deposit Insurance 
+  Corporation to act as receiver for certain affiliates of depository 
+                 institutions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Resolution Reform Act of 2009''.
+
+SEC. 2. PURPOSES.
+
+    The purposes of this Act are--
+            (1) to allow the Federal Deposit Insurance Corporation (in 
+        this Act referred to as the ``Corporation'') to resolve the 
+        holding companies, affiliates, and subsidiaries of failed or 
+        failing insured depository institutions, consistent with the 
+        statutory mission of the Corporation, recognizing that 
+        depository institution holding companies serve as a source of 
+        strength for their subsidiary institutions, and that their 
+        affiliates and subsidiaries may provide critical services for 
+        such institutions; and
+            (2) to provide a clear and cohesive set of rules to address 
+        the increasingly complex and interreliant business structures 
+        in which insured depository institutions operate in order to 
+        promote efficient and economical resolution.
+
+SEC. 3. DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Affiliate.--The term ``affiliate'' has the same meaning 
+        as in section 2(k) of the Bank Holding Company Act of 1956.
+            (2) Bridge depository institution holding company.--The 
+        term ``bridge depository institution holding company'' means a 
+        new depository institution holding company organized by the 
+        Corporation pursuant to section 53(b) of the Federal Deposit 
+        Insurance Act.
+            (3) Corporation.--The terms ``Corporation'' and ``Board'' 
+        mean the Federal Deposit Insurance Corporation and the Board of 
+        Directors thereof, respectively.
+            (4) Covered affiliate or subsidiary.--The term ``covered 
+        affiliate or subsidiary'' means any affiliate or subsidiary of 
+        a depository institution holding company, or any subsidiary of 
+        an insured depository institution that is a subsidiary of that 
+        depository institution holding company, as to which the 
+        Corporation is appointed receiver.
+            (5) Covered depository institution holding company.--The 
+        term ``covered depository institution holding company'' means a 
+        depository institution holding company with one or more 
+        affiliated or subsidiary insured depository institutions for 
+        which grounds exist to appoint a receiver pursuant to section 
+        11(c) of the Federal Deposit Insurance Act.
+            (6) Foreign.--The term ``foreign'' means any country other 
+        than the United States and includes any territory, dependency, 
+        or possession of any country other than the United States.
+            (7) Insured depository institution.--The term ``insured 
+        depository institution'' has the same meaning as section 
+        3(c)(2) of the Federal Deposit Insurance Act.
+
+SEC. 4. HOLDING COMPANY RESOLUTION AMENDMENTS TO THE FEDERAL DEPOSIT 
+              INSURANCE ACT.
+
+    The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is 
+amended by adding at the end the following:
+
+``SEC. 51. RESOLUTION OF COVERED DEPOSITORY INSTITUTION HOLDING 
+              COMPANIES, AFFILIATES, AND SUBSIDIARIES.
+
+    ``(a) In General.--Notwithstanding any other provision of Federal 
+or State law, except section 52(c), it shall be the responsibility of 
+the Corporation to resolve depository institution holding companies of 
+failed or failing insured depository institutions and the affiliates 
+and subsidiaries of a depository institution holding company, including 
+any subsidiary of an insured depository institution that is a 
+subsidiary of the depository institution holding company, using the 
+powers and authorities conferred upon it by this Act.
+    ``(b) Definitions.--For purposes of this section and sections 52 
+and 53, the following definitions shall apply:
+            ``(1) Bridge depository institution holding company.--The 
+        term `bridge depository institution holding company' means a 
+        new depository institution holding company organized by the 
+        Corporation pursuant to section 53(b).
+            ``(2) Covered affiliate or subsidiary.--The term `covered 
+        affiliate or subsidiary' means any affiliate or subsidiary of a 
+        depository institution holding company, or any subsidiary of an 
+        insured depository institution that is a subsidiary of that 
+        depository institution holding company, as to which the 
+        Corporation is appointed receiver under section 52.
+            ``(3) Covered depository institution holding company.--The 
+        term `covered depository institution holding company' means a 
+        depository institution holding company with one or more 
+        affiliated or subsidiary insured depository institutions for 
+        which grounds exist to appoint a receiver pursuant to section 
+        11(c).
+            ``(4) Functionally regulated affiliate or subsidiary.--The 
+        term `functionally regulated affiliate or subsidiary' means any 
+        company--
+                    ``(A) that is not a depository institution holding 
+                company or a depository institution; and
+                    ``(B) that is--
+                            ``(i) a broker or dealer that is registered 
+                        under the Securities Exchange Act of 1934;
+                            ``(ii) a registered investment adviser, 
+                        properly registered by or on behalf of either 
+                        the Securities and Exchange Commission in 
+                        accordance with the Investment Advisers Act of 
+                        1940, or any State, with respect to the 
+                        investment advisory activities of such 
+                        investment adviser and activities incidental to 
+                        such investment advisory activities;
+                            ``(iii) an investment company that is 
+                        registered under the Investment Company Act of 
+                        1940;
+                            ``(iv) an insurance company that is subject 
+                        to supervision by a State insurance regulator, 
+                        with respect to the insurance activities of the 
+                        insurance company and activities incidental to 
+                        such insurance activities; or
+                            ``(v) an entity that is subject to 
+                        regulation by the Commodity Futures Trading 
+                        Commission, with respect to the commodities 
+                        activities of such entity and activities 
+                        incidental to such commodities activities.
+            ``(5) Functional regulator.--The term `functional 
+        regulator' means the Federal or State regulator responsible for 
+        regulating the types of activities engaged in by the depository 
+        institution holding company, its subsidiary institutions, or 
+        other affiliates and subsidiaries. The `functional regulators' 
+        are--
+                    ``(A) the Securities and Exchange Commission, if 
+                the depository institution holding company, any 
+                subsidiary institution, or other affiliate thereof, is 
+                a broker or dealer registered with the Commission under 
+                section 15(b) of the Securities Exchange Act of 1934 
+                (15 U.S.C. 78o(b)) in conjunction with the authorities 
+                granted to the Securities Investor Protection 
+                Corporation, as created by the Securities Investor 
+                Protection Act in resolution of brokers or dealers;
+                    ``(B) the Commodity Futures Trading Commission, if 
+                the depository institution holding company, its 
+                subsidiary institution, or other affiliate thereof, is 
+                a futures commission merchant or a commodity pool 
+                operator registered with the Commodity Futures Trading 
+                Commission under the Commodity Exchange Act; and
+                    ``(C) a State insurance commission or other board 
+                or authority, if the depository institution holding 
+                company, or an affiliate or subsidiary thereof, is an 
+                insurance company.
+
+``SEC. 52. APPOINTMENT OF THE CORPORATION AS RECEIVER.
+
+    ``(a) Depository Institution Holding Companies.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        Federal law, the law of any State, or the constitution of any 
+        State, and subject to subsection (c), the Corporation shall 
+        accept appointment, and shall act as the receiver of a covered 
+        depository institution holding company upon such appointment, 
+        in the manner provided in paragraph (2) or (3), if the 
+        Corporation determines, in its sole discretion, that such 
+        appointment will reduce the cost to the Deposit Insurance Fund, 
+        and that grounds specified in subsection (f) exist. If the 
+        Corporation determines that such appointment will not reduce 
+        the cost to the Deposit Insurance Fund, the Corporation may 
+        decline the appointment, as provided in subsection (c).
+            ``(2) Appointment by the appropriate federal banking 
+        agency.--Whenever the appropriate Federal banking agency 
+        appoints a receiver for a depository institution holding 
+        company, the Federal banking agency shall tender the 
+        appointment to the Corporation, and the Corporation shall 
+        accept such appointment, unless the Corporation declines the 
+        appointment, as provided in subsection (c).
+            ``(3) Appointment of the corporation by the corporation.--
+        The Board of Directors may appoint the Corporation as receiver 
+        of a depository institution holding company, after consultation 
+        with the appropriate Federal banking agency, if the Board of 
+        Directors determines that, notwithstanding the existence of 
+        grounds specified in subsection (f), the appropriate Federal 
+        banking agency having supervision of a covered depository 
+        institution holding company has declined to appoint the 
+        Corporation as receiver.
+            ``(4) Functionally regulated depository institution holding 
+        companies.--When the appropriate Federal banking agency 
+        appoints the Corporation as receiver of a covered depository 
+        institution holding company, or the Board of Directors appoints 
+        the Corporation as receiver of a covered depository institution 
+        holding company, the appropriate Federal banking agency or the 
+        Corporation shall consult with the covered depository 
+        institution holding company's functional regulator, if any.
+    ``(b) Affiliates and Subsidiaries.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        Federal law, the law of any State, or the constitution of any 
+        State, and subject to paragraph (2) and subsection (c), in any 
+        case in which the Corporation is appointed under this section 
+        as receiver for a depository institution holding company, the 
+        Corporation may appoint itself as the receiver of any affiliate 
+        or subsidiary of the insured depository institution or 
+        depository institution holding company that is incorporated or 
+        organized under the laws of any State, if the Corporation 
+        determines that such action would facilitate the orderly 
+        resolution of the insured depository institution or depository 
+        institution holding company, and is consistent with the 
+        purposes of this Act.
+            ``(2) Functionally regulated subsidiaries.--The Corporation 
+        shall consult with the appropriate Federal or State functional 
+        regulator when the Corporation appoints itself as the receiver 
+        of any functionally regulated affiliate or subsidiary.
+    ``(c) Bankruptcy or State Insurance Resolution Option.--
+            ``(1) Bankruptcy grounds for declining appointment.--The 
+        Corporation may decline to accept appointment for a covered 
+        depository institution holding company, when, in its sole 
+        discretion, the Corporation determines that the resolution of 
+        that holding company would be better accomplished under title 
+        11, of the United States Code, or under applicable State 
+        insurance law.
+            ``(2) Rulemaking required.--The Corporation shall, not 
+        later than 180 days after the date of enactment of this 
+        section, adopt regulations that establish criteria pursuant to 
+        which the Corporation will make the determination described in 
+        paragraph (1).
+    ``(d) Separate Entities.--
+            ``(1) In general.--Subject to paragraph (2), each separate 
+        legal entity for which the Corporation is appointed receiver 
+        shall constitute a separate receivership.
+            ``(2) Applicability.--Paragraph (1) shall not apply to any 
+        insured depository institution subsidiary for which the 
+        Corporation has appointed itself as receiver.
+    ``(e) Corporation Not Subject to Any Other Agency.--When acting as 
+the receiver pursuant to an appointment described in subsection (a) or 
+(b), the Corporation shall not be subject to the direction or 
+supervision of any other agency or department of the United States or 
+any State in the exercise of its rights, powers, and privileges.
+    ``(f) Grounds for Appointment.--The grounds for appointing the 
+Corporation as receiver of a depository institution holding company, 
+affiliate, or subsidiary are that one or more grounds exist under 
+section 11(c) to appoint a receiver for one or more affiliated insured 
+depository institutions.
+    ``(g) Termination and Exclusion of Other Actions.--The appointment 
+of the Corporation as receiver for a depository institution holding 
+company or an insured depository institution that is an affiliate or 
+subsidiary of a depository institution holding company shall 
+immediately, and by operation of law, terminate any case commenced with 
+respect to the depository institution holding company or any affiliate 
+or subsidiary under title 11, United States Code, or any proceeding 
+under any State insolvency law with respect to the depository 
+institution holding company or affiliate or subsidiary. No such case or 
+proceeding may be commenced with respect to the depository institution 
+holding company or any affiliate or subsidiary of the insured 
+depository institution at any time while the Corporation acts as 
+receiver of the depository institution holding company or any affiliate 
+or subsidiary, without the written agreement of the Corporation.
+    ``(h) Judicial Review.--
+            ``(1) In general.--If the Corporation is appointed 
+        (including the appointment of the Corporation by itself) as 
+        receiver of a depository institution holding company under 
+        subsection (a), the depository institution holding company may, 
+        not later than 30 days thereafter, bring an action in the 
+        United States district court for the judicial district in which 
+        the home office of such depository institution holding company 
+        is located, or in the United States District Court for the 
+        District of Columbia, for an order requiring the Corporation to 
+        be removed as the receiver (regardless of how such appointment 
+        was made), and the court shall, upon the merits, dismiss such 
+        action or direct the Corporation to be removed as the receiver.
+            ``(2) Other appointment.--If the Corporation appoints 
+        itself as receiver of any affiliate or subsidiary of the 
+        insured depository institution or depository institution 
+        holding company under subsection (b), the affiliate or 
+        subsidiary of the insured depository institution or depository 
+        institution holding company may, not later than 30 days 
+        thereafter, bring an action in the United States district court 
+        for the judicial district in which the home office of such any 
+        affiliate or subsidiary of the insured depository institution 
+        or depository institution holding company is located, or in the 
+        United States District Court for the District of Columbia, for 
+        an order requiring the Corporation to be removed as the 
+        receiver, and the court shall, upon the merits, dismiss such 
+        action or direct the Corporation to be removed as the receiver.
+
+``SEC. 53. POWERS AND DUTIES OF CORPORATION AS RECEIVER.
+
+    ``(a) Rulemaking Authority of Corporation.--The Corporation may 
+prescribe such regulations as the Corporation determines appropriate 
+regarding the orderly resolution and conduct of receiverships of 
+covered depository institution holding companies or any affiliate or 
+subsidiary, in accordance with section 52.
+    ``(b) Receivership, Back-Up Examination, and Enforcement Powers.--
+Except as provided in subsections (c) and (e), the Corporation shall 
+have the same powers and rights to carry out its duties with respect to 
+depository institution holding companies, or affiliates and 
+subsidiaries, as the Corporation has under sections 8(t), 10(b), 11, 
+12, 13(d), 13(e), 15, and 38, with adaptations made, in the sole 
+discretion of the Corporation, that are appropriate to the differences 
+in form and function among depository institution holding companies, 
+insured depository institutions, and their affiliates and subsidiaries.
+    ``(c) Authority To Obtain Credit.--
+            ``(1) In general.--A bridge depository institution holding 
+        company with respect to which the Corporation is the receiver 
+        may obtain unsecured credit and issue unsecured debt.
+            ``(2) Inability to obtain credit.--If a bridge depository 
+        institution holding company is unable to obtain unsecured 
+        credit or issue unsecured debt, the Corporation may authorize 
+        the obtaining of credit or the issuance of debt by the bridge 
+        depository holding company--
+                    ``(A) with priority over any or all of the 
+                obligations of the bridge depository holding company;
+                    ``(B) secured by a lien on property of the bridge 
+                depository holding company that is not otherwise 
+                subject to a lien; or
+                    ``(C) secured by a junior lien on property of the 
+                bridge depository holding company that is subject to a 
+                lien.
+            ``(3) Limitation.--The Corporation may authorize the 
+        obtaining of credit or the issuance of debt by a bridge 
+        depository holding company that is secured by a senior or equal 
+        lien on property of the bridge depository holding company that 
+        is subject to a lien, only if--
+                    ``(A) the bridge depository holding company is 
+                unable to otherwise obtain such credit or issue such 
+                debt; and
+                    ``(B) there is adequate protection of the interest 
+                of the holder of the lien on the property with respect 
+                to which such senior or equal lien is proposed to be 
+                granted.
+    ``(d) Disposition of Certain Depository Institution Holding 
+Companies, Affiliates, and Subsidiaries.--Notwithstanding any other 
+provision of law (other than a conflicting provision of this Act), the 
+Corporation, in connection with the resolution of any insured 
+depository institution with respect to which the Corporation has been 
+appointed as receiver, shall--
+            ``(1) in the case of any depository institution holding 
+        company, or a covered affiliate or subsidiary for which the 
+        Corporation is appointed receiver, that is a member of the 
+        Securities Investor Protection Corporation (in this section 
+        referred to as `SIPC'), coordinate with SIPC in the 
+        liquidation, if any, of the company, to facilitate the orderly 
+        and timely payment of claims under the Securities Investor 
+        Protection Act; and
+            ``(2) in the case of any other depository institution 
+        holding company, or covered affiliate or subsidiary, that is 
+        functionally regulated, coordinate with the appropriate Federal 
+        or State functional regulator in the disposition of the 
+        company, to facilitate the orderly and timely payment of claims 
+        under applicable guaranty plans, including State insurance 
+        guaranty plans.
+    ``(e) Priority of Expenses and Unsecured Claims.--
+            ``(1) In general.--Allowed claims (other than secured 
+        claims to the extent of any such security) against a covered 
+        depository institution holding company or any covered affiliate 
+        or subsidiary that are proven to the satisfaction of the 
+        receiver for such covered depository institution holding 
+        company, affiliate, or subsidiary shall have priority in the 
+        following order:
+                    ``(A) Administrative expenses of the receiver.
+                    ``(B) Any obligation of the covered depository 
+                institution holding company, or covered affiliate or 
+                subsidiary, to the Corporation.
+                    ``(C) Any general or senior liability of the 
+                covered depository institution holding company, or 
+                covered affiliate or subsidiary (which is not a 
+                liability described in subparagraph (D) or (E)).
+                    ``(D) Any obligation subordinated to general 
+                creditors which is not an obligation described in 
+                subparagraph (E).
+                    ``(E) Any obligation to shareholders, members, 
+                general partners, limited partners, or other persons 
+                with interests in the equity of the covered depository 
+                institution holding company, or covered affiliate or 
+                subsidiary, arising as a result of their status as 
+                shareholders, members, general partners, limited 
+                partners, or other persons with interests in the equity 
+                of the covered depository institution holding company, 
+                or covered affiliate or subsidiary.
+            ``(2) Creditors similarly situated.--All claimants of a 
+        covered depository institution holding company, or covered 
+        affiliate or subsidiary, that are similarly situated under 
+        paragraph (1) shall be treated in a similar manner, except that 
+        the receiver may take any action (including making payments) 
+        that does not comply with this subsection, if--
+                    ``(A) the Corporation determines that such action 
+                is necessary to maximize the value of the assets of the 
+                covered depository institution holding company, or 
+                covered affiliate or subsidiary, to maximize the 
+                present value return from the sale or other disposition 
+                of the assets of the covered depository institution 
+                holding company, or to minimize the amount of any loss 
+                realized upon the sale or other disposition of the 
+                assets of the covered depository holding company, or 
+                covered affiliate or subsidiary; and
+                    ``(B) all claimants that are similarly situated 
+                under paragraph (1) receive not less than the amount 
+                provided in section 11(i)(2).
+    ``(f) Rule of Construction.--Nothing in the Resolution Reform Act 
+is intended to supersede the administration of claims under applicable 
+State laws governing insurance guaranty funds or the Securities 
+Investor Protection Act of 1970.
+    ``(g) Rulemaking.--The Federal Deposit Insurance Corporation shall 
+conduct a rulemaking to be completed within 180 days of enactment that 
+will lay out specific guidelines and priority of all secured and 
+unsecured claims as well as where the resources to satisfy those that 
+will be satisfied will be derived.''.
+
+SEC. 5. OTHER SPECIFIC MODIFICATIONS TO FEDERAL DEPOSIT INSURANCE 
+              CORPORATION AUTHORITY.
+
+    (a) Recordkeeping.--Section 11(e)(8)(H) of the Federal Deposit 
+Insurance Act (12 U.S.C. 1821(e)(8)(H)) is amended to read as follows:
+                    ``(H) Recordkeeping.--The Corporation, after 
+                consultation with the appropriate Federal banking 
+                agencies, may prescribe regulations requiring that any 
+                insured depository institution or depository 
+                institution holding company maintain such records with 
+                respect to qualified financial contracts (including 
+                market valuations) as the Corporation determines to be 
+                necessary or appropriate to enable it to exercise its 
+                rights and fulfill its obligations under this Act.''.
+    (b) Golden Parachute Payments.--Section 18(k)(4)(A)(ii)(III) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1828(k)(4)(A)(ii)(III)) is 
+amended--
+            (1) by striking ``institution's'';
+            (2) by inserting ``or covered company'' after ``insured 
+        depository institution''; and
+            (3) by inserting before the semicolon: ``, except that the 
+        Corporation may define and make a determination of troubled 
+        condition for any covered company that does not have an 
+        appropriate Federal banking agency''.
+
+SEC. 6. CROSS-BORDER CLAIMS.
+
+    (a) Purpose and Scope.--
+            (1) Purpose.--The purpose of this section is to provide 
+        effective mechanisms for dealing with cases of cross-border 
+        insolvency, with the objectives of--
+                    (A) facilitating cooperation between the 
+                Corporation, acting in its capacity as receiver of a 
+                covered depository institution holding company or 
+                covered affiliate or subsidiary of an insured 
+                depository institution and the courts and other 
+                authorities of foreign countries involved in cross-
+                border insolvency cases; and
+                    (B) facilitating the orderly resolution of insured 
+                depository institutions, covered depository institution 
+                holding companies, or covered affiliates or 
+                subsidiaries, in receivership.
+            (2) Scope.--This section applies in any case in which--
+                    (A) the Corporation seeks assistance from a foreign 
+                court, foreign representative, or foreign regulatory or 
+                supervisory authority in connection with the resolution 
+                of a depository institution holding company, or covered 
+                affiliate or subsidiary thereof;
+                    (B) the assistance of the Corporation is sought by 
+                a foreign court, foreign representative, or foreign 
+                regulatory or supervisory authority in connection with 
+                a foreign proceeding or with a resolution under this 
+                Act; or
+                    (C) a foreign proceeding and a case under this Act 
+                with respect to the same covered depository institution 
+                holding company, or covered affiliate or subsidiary, 
+                are pending concurrently.
+    (b) Coordination and Cooperation.--In regard to matters of 
+insolvency and insolvency proceedings, the Corporation may--
+            (1) cooperate and coordinate with foreign courts, foreign 
+        representatives, and foreign regulatory or supervisory 
+        authorities, either directly or through a designated 
+        representative, as the Corporation deems appropriate; and
+            (2) communicate directly with, or to request information or 
+        assistance directly from, foreign courts, foreign 
+        representatives, and foreign regulatory or supervisory 
+        authorities.
+    (c) Claims by Foreign Representatives.--The Corporation, in its 
+capacity as receiver of a covered depository institution holding 
+company, or covered affiliate or subsidiary, may allow a foreign 
+administrator or representative to file claims.
+    (d) Coordination of Payments.--
+            (1) Limitation.--Notwithstanding any other provision of 
+        Federal law, a creditor who has received payment with respect 
+        to a claim in a foreign insolvency proceeding may not receive a 
+        payment for the same claim brought in a United States 
+        insolvency proceeding under this Act against the same 
+        depository institution, depository institution holding company, 
+        or covered affiliate or subsidiary.
+            (2) Subrogation.--A claimant in an insolvency proceeding 
+        under this Act that has received payment on its claim shall 
+        agree to the subrogation of the Corporation, to the extent of 
+        such payment, to any claim or right of claim, arising from the 
+        same loss.
+    (e) Public Policy Exemption.--Nothing in this section prevents the 
+Corporation from refusing to take an action governed by this section if 
+the action would be contrary to the public policy of the United States 
+or if it would increase losses to the Deposit Insurance Fund.
+
+SEC. 7. MISCELLANEOUS PROVISIONS.
+
+    (a) Bankruptcy Code Amendments.--Section 109(b)(2) of title 11, 
+United States Code, is amended by inserting before ``homestead 
+association'' the following: ``covered depository institution holding 
+company and covered affiliate or subsidiary, as those terms are defined 
+in section 51(b) of the Federal Deposit Insurance Act (except if the 
+Federal Deposit Insurance Corporation exercises its authority under 
+section 52(c) of that Act),''.
+    (b) Authority To Appoint Receiver.--
+            (1) Federal reserve act.--Section 11(o) of the Federal 
+        Reserve Act (12 U.S.C. 248(o)) is amended--
+                    (A) by striking ``The Board'' and inserting the 
+                following:
+            ``(1) State member banks.--The Board''; and
+                    (B) by adding at the end the following:
+            ``(2) Covered depository institution holding companies.--
+        The Board may appoint the Federal Deposit Insurance Corporation 
+        as receiver for a covered depository institution holding 
+        company (as those terms are defined in section 51(b) of the 
+        Federal Deposit Insurance Act) under section 52 of the Federal 
+        Deposit Insurance Act.''.
+            (2) Home owners' loan act.--Section 10 of the Home Owners' 
+        Loan Act (12 U.S.C. 1467a) is amended--
+                    (A) by redesignating subsection (t) as subsection 
+                (u); and
+                    (B) by inserting after subsection (s) the 
+                following:
+    ``(t) Appointment of FDIC as Receiver.--The Director may appoint 
+the Federal Deposit Insurance Corporation as receiver for a covered 
+depository institution holding company (as those terms are defined in 
+section 51(b) of the Federal Deposit Insurance Act) under section 52 of 
+the Federal Deposit Insurance Act.''.
+                                 <all>
+

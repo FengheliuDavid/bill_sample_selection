@@ -1,0 +1,201 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1081 Introduced in House (IH)]
+
+112th CONGRESS
+  1st Session
+                                H. R. 1081
+
+To delay the implementation of proposed or final rules issued under the 
+authority of the Dodd-Frank Wall Street Reform and Consumer Protection 
+  Act relating to the reasonable and proportional fees and rules for 
+         electronic debit transactions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 15, 2011
+
+ Mrs. Capito (for herself, Ms. Wasserman Schultz, Mr. Luetkemeyer, Mr. 
+ Renacci, Mr. Perlmutter, Mr. Hensarling, Mr. Royce, Mr. Canseco, Mr. 
+ Neugebauer, Mrs. Bachmann, Mr. Meeks, Mr. McClintock, Mr. Carney, Mr. 
+ Gibbs, Mr. Peters, Mr. Herger, Mr. Marchant, Mr. Kelly, Mr. Bartlett, 
+   Mr. Chaffetz, Mr. Kissell, Mr. Gary G. Miller of California, Mr. 
+Kildee, Mrs. McCarthy of New York, Mr. Polis, Mr. Connolly of Virginia, 
+ Mr. Owens, and Ms. Woolsey) introduced the following bill; which was 
+            referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To delay the implementation of proposed or final rules issued under the 
+authority of the Dodd-Frank Wall Street Reform and Consumer Protection 
+  Act relating to the reasonable and proportional fees and rules for 
+         electronic debit transactions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Consumers Payment System Protection 
+Act''.
+
+SEC. 2. DELAY IN THE APPLICATION OF RULES ISSUED UNDER THE AUTHORITY OF 
+              SECTION 1075 OF THE DODD-FRANK WALL STREET REFORM AND 
+              CONSUMER PROTECTION ACT.
+
+    Subject to section 3(b)(2), any proposed or final rule issued under 
+the authority of any provision under section 1075 of the Dodd-Frank 
+Wall Street Reform and Consumer Protection Act (Public Law 111-203), or 
+of amendments made by such section, shall take effect 1 year after the 
+date of the enactment of this Act.
+
+SEC. 3. STUDY AND REPORT.
+
+    (a) Study.--
+            (1) In general.--The Board of Governors of the Federal 
+        Reserve System, the Chairperson of the Federal Deposit 
+        Insurance Corporation, the Chairperson of the National Credit 
+        Union Administration, and the Comptroller of the Currency shall 
+        jointly conduct a study on the effect of section 1075 of the 
+        Dodd-Frank Wall Street Reform and Consumer Protection Act 
+        (Public Law 111-203), and amendments made by such section, on 
+        consumers, card issuers, merchants, and financial institutions. 
+        Such study shall survey card issuers, merchants, and financial 
+        institutions representing a cross section of all market 
+        participants regardless of whether such participants are exempt 
+        from any rule issued under the authority of section 1075 of the 
+        Dodd-Frank Wall Street Reform and Consumer Protection Act, or 
+        of any amendment made by such section.
+            (2) Considerations.--The study described in paragraph (1) 
+        shall consider the following:
+                    (A) The identity and categories of all costs and 
+                investments associated with debit card transactions 
+                (prior to the implementation of section 1075 of the 
+                Dodd-Frank Wall Street Reform and Consumer Protection 
+                Act) to consumers, card issuers, merchants, and 
+                financial institutions, including the operation of the 
+                payment system to support such transactions.
+                    (B) The impact of the proposed rule issued by the 
+                Board of Governors of the Federal Reserve System 
+                entitled ``Debit Card Interchange Fees and Routing'' 
+                (75 Fed. Reg. 81772 (Dec. 28, 2010)), if finalized, 
+                including--
+                            (i) the impact of reduced debit card 
+                        interchange fees on consumers, including--
+                                    (I) the cost to and consequences 
+                                for consumers if such proposed rule 
+                                were to become final;
+                                    (II) the impact on consumer 
+                                protection, including anti-fraud and 
+                                customer identification efforts, and 
+                                privacy protection; and
+                                    (III) the impact on consumers, 
+                                particularly low- and moderate-income 
+                                consumers (including banked and 
+                                unbanked consumers), and small 
+                                businesses with respect to the 
+                                provision of payment accounts and 
+                                services;
+                            (ii) the impact of reduced debit card 
+                        interchange fees on debit card issuers, 
+                        including--
+                                    (I) whether such fees would provide 
+                                recoupment of costs and investments by 
+                                debit card issuers;
+                                    (II) whether such fees would result 
+                                in increased risks to debit card 
+                                issuers, including the potential impact 
+                                on the safety and soundness of such 
+                                issuers; and
+                                    (III) the impact of the exemption 
+                                provided for smaller banks and credit 
+                                unions, including whether potential 
+                                merchant behavior would lead to 
+                                discrimination against debit cards 
+                                issued by credit unions and community 
+                                banks, and whether the exemption would 
+                                have an adverse impact on the deposit 
+                                base of credit unions and community 
+                                banks as well as the payment system;
+                            (iii) the impact of the reduced debit card 
+                        interchange fees on merchants, including such 
+                        merchants ability to--
+                                    (I) pass savings on to the 
+                                consumer;
+                                    (II) make new capital investments; 
+                                and
+                                    (III) cover the costs associated 
+                                with fraud prevention;
+                            (iv) the impact on consumers, debit card 
+                        issuers, and merchants of the debit exclusivity 
+                        and transaction routing provisions of section 
+                        920(b) of the Electronic Fund Transfer Act and 
+                        any proposed or final rules issued under such 
+                        provisions, including--
+                                    (I) the impact on the continued 
+                                innovation and development of secure, 
+                                efficient, and reliable electronic 
+                                payment technologies; and
+                                    (II) the impact of mandating a 
+                                specific number of enabled networks on 
+                                each debit card; and
+                            (v) the impact on other entities that 
+                        utilize debit card transactions, including the 
+                        debit card programs of Federal and State 
+                        entities.
+                    (C) Subsections (a) and (c) of section 904 of the 
+                Electronic Fund Transfer Act (15 U.S.C. 1693b(a), (c)).
+    (b) Report.--
+            (1) In general.--Not later than 8 months after the date of 
+        the enactment of this Act, the Board of Governors of the 
+        Federal Reserve System, the Chairperson of the Federal Deposit 
+        Insurance Corporation, the Chairperson of the National Credit 
+        Union Administration, and the Comptroller of the Currency shall 
+        jointly submit to Congress a report that includes--
+                    (A) an analysis of the results of the study 
+                required under subsection (a);
+                    (B) a determination of whether revisions need to be 
+                made to any proposed or final rule described in section 
+                2; and
+                    (C) a determination of whether revisions need to be 
+                made to any provision under section 1075 of the Dodd-
+                Frank Wall Street Reform and Consumer Protection Act, 
+                or any amendment made by such section.
+            (2) Revisions to rules.--The Board of Governors of the 
+        Federal Reserve System shall have 4 months after the submission 
+        of the report submitted pursuant to paragraph (1) to make 
+        revisions to any proposed or final rule described in section 2 
+        if at least two of the Board of Governors of the Federal 
+        Reserve System, the Chairperson of the Federal Deposit 
+        Insurance Corporation, the Chairperson of the National Credit 
+        Union Administration, and the Comptroller of the Currency 
+        determine, in such report, that any one of the following are 
+        true:
+                    (A) Either of section 920 of the Electronic Fund 
+                Transfer Act or the proposed rule issued by the Board 
+                of Governors of the Federal Reserve System entitled 
+                ``Debit Card Interchange Fees and Routing'' does not 
+                encompass all costs and investments associated with 
+                debit card transactions.
+                    (B) Consumers will be adversely affected by either 
+                such section or such proposed rule.
+                    (C) The exemption of small financial institutions 
+                (defined as financial institutions with less than 
+                $10,000,000,000 in assets), as provided under section 
+                920(a)(6) of the Electronic Fund Transfer Act, or as 
+                carried out by the proposed rule, is not effective in 
+                practice.
+    (c) Definitions.--In this section, the terms ``consumer'', 
+``financial institution'', and ``State'' have the same meanings given 
+such terms in section 903 of the Electronic Fund Transfer Act (15 
+U.S.C. 1693a).
+                                 <all>
+

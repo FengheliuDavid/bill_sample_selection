@@ -1,0 +1,156 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 2717 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                S. 2717
+
+To increase criminal penalties relating to conspiracy, mail fraud, wire 
+      fraud, and certain ERISA violations, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 10, 2002
+
+ Mr. Biden (for himself and Mr. Hatch) introduced the following bill; 
+  which was read twice and referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To increase criminal penalties relating to conspiracy, mail fraud, wire 
+      fraud, and certain ERISA violations, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``White-Collar Crime Penalty 
+Enhancement Act of 2002''.
+
+SEC. 2. CRIMINAL PENALTIES FOR CONSPIRACY TO COMMIT OFFENSE OR TO 
+              DEFRAUD THE UNITED STATES.
+
+    Section 371 of title 18, United States Code, is amended by striking 
+``If two or more'' and all that follows through ``If, however,'' and 
+inserting the following:
+    ``(a) In General.--If 2 or more persons--
+            ``(1) conspire to commit any offense against the United 
+        States, in any manner or for any purpose, and 1 or more of such 
+        persons do any act to effect the object of the conspiracy, each 
+        person shall be fined or imprisoned, or both, as set forth in 
+        the specific substantive offense which was the object of the 
+        conspiracy; or
+            ``(2) conspire to defraud the United States, or any agency 
+        thereof in any manner or for any purpose, and 1 or more of such 
+        persons do any act to effect the object of the conspiracy, each 
+        person shall be fined under this title, or imprisoned not more 
+        than 10 years, or both.
+    ``(b) Misdemeanor Offense.--If, however,''.
+
+SEC. 3. CRIMINAL PENALTIES FOR MAIL AND WIRE FRAUD.
+
+    (a) Mail Fraud.--Section 1341 of title 18, United States Code, is 
+amended by striking ``five years'' and inserting ``10 years''.
+    (b) Wire Fraud.--Section 1343 of title 18, United States Code, is 
+amended by striking ``five years'' and inserting ``10 years''.
+
+SEC. 4. CRIMINAL PENALTIES FOR VIOLATIONS OF THE EMPLOYEE RETIREMENT 
+              INCOME SECURITY ACT OF 1974.
+
+    Section 501 of the Employee Retirement Income Security Act of 1974 
+(29 U.S.C. 1131) is amended--
+            (1) by striking ``$5,000'' and inserting ``$100,000'';
+            (2) by striking ``one year'' and inserting ``10 years''; 
+        and
+            (3) by striking ``$100,000'' and inserting ``$500,000''.
+
+SEC. 5. AMENDMENT TO SENTENCING GUIDELINES RELATING TO CERTAIN WHITE-
+              COLLAR OFFENSES.
+
+    (a) Directive to the United States Sentencing Commission.--Pursuant 
+to its authority under section 994(p) of title 18, United States Code, 
+and in accordance with this section, the United States Sentencing 
+Commission shall review and, as appropriate, amend the Federal 
+Sentencing Guidelines and related policy statements to implement the 
+provisions of this Act.
+    (b) Requirements.--In carrying out this section, the Sentencing 
+Commission shall--
+            (1) ensure that the sentencing guidelines and policy 
+        statements reflect the serious nature of the offenses and the 
+        penalties set forth in this Act, the growing incidence of 
+        serious fraud offenses which are identified above, and the need 
+        to modify the sentencing guidelines and policy statements to 
+        deter, prevent, and punish such offenses;
+            (2) consider the extent to which the guidelines and policy 
+        statements adequately address--
+                    (A) whether the guideline offense levels and 
+                enhancements for violations of the sections amended by 
+                this Act are sufficient to deter and punish such 
+                offenses, and specifically, are adequate in view of the 
+                statutory increases in penalties contained in this Act; 
+                and
+                    (B) whether a specific offense characteristic 
+                should be added in United States Sentencing Guideline 
+                section 2B1.1 in order to provide for stronger 
+                penalties for fraud when the crime is committed by a 
+                corporate officer or director;
+            (3) assure reasonable consistency with other relevant 
+        directives and sentencing guidelines;
+            (4) account for any additional aggravating or mitigating 
+        circumstances that might justify exceptions to the generally 
+        applicable sentencing ranges;
+            (5) make any necessary conforming changes to the sentencing 
+        guidelines; and
+            (6) assure that the guidelines adequately meet the purposes 
+        of sentencing as set forth in section 3553(a)(2) of title 18, 
+        United States Code.
+
+SEC. 6. CORPORATE RESPONSIBILITY FOR FINANCIAL REPORTS.
+
+    (a) In General.--Chapter 63 of title 18, United States Code, is 
+amended by adding at the end the following:
+``Sec. 1348. Failure of corporate officers to certify financial reports
+    ``(a) Certification of Periodic Financial Reports.--Each periodic 
+report containing financial statements filed by an issuer with the 
+Securities Exchange Commission pursuant to section 13(a) or 15(d) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78o(d)) shall 
+be accompanied by a written statement by the chairman of the board, 
+chief executive officer, and chief financial officer (or equivalent 
+thereof) of the issuer.
+    ``(b) Content.--The statement required under subsection (a) shall 
+certify the appropriateness of the financial statements and disclosures 
+contained in the periodic report or financial report, and that those 
+financial statements and disclosures fairly present, in all material 
+respects, the operations and financial condition of the issuer.
+    ``(c) Criminal Penalties.--Notwithstanding any other provision of 
+law--
+            ``(1) any person who recklessly and knowingly violates any 
+        provision of this section shall upon conviction be fined not 
+        more than $500,000, or imprisoned not more than 5 years, or 
+        both; or
+            ``(2) any person who willfully violates any provision of 
+        this section shall upon conviction be fined not more than 
+        $1,000,000, or imprisoned not more than 10 years, or both.''.
+    (b) Technical and Conforming Amendment.--The section analysis for 
+chapter 63 of title 18, United States Code, is amended by adding at the 
+end the following:
+
+``1348. Failure of corporate officers to certify financial reports.''.
+                                 <all>
+

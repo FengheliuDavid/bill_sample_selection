@@ -1,0 +1,585 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3764 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 3764
+
+ To amend the Legal Services Corporation Act to meet special needs of 
+  eligible clients, provide for technology grants, improve corporate 
+  practices of the Legal Services Corporation, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 8, 2009
+
+ Mr. Scott of Virginia (for himself, Mr. Conyers, Mr. Cohen, Mr. Watt, 
+ Mr. Delahunt, Ms. Linda T. Sanchez of California, and Mr. Johnson of 
+   Georgia) introduced the following bill; which was referred to the 
+                       Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Legal Services Corporation Act to meet special needs of 
+  eligible clients, provide for technology grants, improve corporate 
+  practices of the Legal Services Corporation, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Civil Access to Justice Act of 
+2009''.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) It is crucial to provide equal access to the system of 
+        justice in the United States for all individuals, regardless of 
+        economic status.
+            (2) The Legal Services Corporation provides high quality 
+        civil legal assistance for persons who would otherwise be 
+        unable to afford legal assistance, and there is a need to 
+        continue the present vital legal services program.
+            (3) The amount of Federal resources made available to the 
+        Legal Services Corporation has been inadequate to provide 
+        individuals with the legal assistance that they need. Over half 
+        of all people who have applied for assistance from local 
+        programs funded through the Legal Services Corporation have 
+        been turned away in recent years. In many States, over 80 
+        percent of individuals who need legal assistance do not receive 
+        the help they need.
+            (4) Congress must adequately fund Legal Services 
+        Corporation programs to preserve the strength of the programs.
+            (5) Providing legal assistance to those who face an 
+        economic barrier to adequate legal counsel serves justice and 
+        assists in improving opportunities for low-income persons.
+            (6) The availability of legal services has reaffirmed the 
+        faith of many people of the United States in a government of 
+        laws.
+            (7) To preserve its strength, the legal services program 
+        must be kept free from the influence of political pressures.
+            (8) Attorneys providing legal assistance must have full 
+        freedom to protect the best interests of their clients in 
+        keeping with the applicable rules of professional 
+        responsibility and the high standards of the legal profession.
+
+SEC. 3. AMENDMENTS TO STATEMENT OF FINDINGS AND DECLARATION OF PURPOSE.
+
+    Section 1001 of the Legal Services Corporation Act (42 U.S.C. 2996) 
+is amended--
+            (1) by striking ``1001.'' and inserting ``1001.(a)'';
+            (2) in paragraph (3), by striking ``Act'' and inserting 
+        ``title'';
+            (3) in paragraph (6), by striking ``Code of Professional 
+        Responsibility, the Canons of Ethics,'' and inserting 
+        ``applicable rules of professional responsibility''; and
+            (4) by inserting at the end the following:
+    ``(b) Congress finds the following:
+            ``(1) Participation of private lawyers in providing legal 
+        assistance to those unable to afford such assistance 
+        significantly enhances the overall system for providing legal 
+        services to the poor, and the Legal Services Corporation should 
+        continue to promote and support pro bono services and other 
+        forms of private bar involvement through its policies and 
+        regulations.''.
+            ``(2) The highest court of each State should encourage pro 
+        bono service by lawyers by adopting aspirational guidelines, 
+        such as the American Bar Association Model Rule of Professional 
+        Conduct 6.1, `Voluntary Pro Bono Publico Services', and by 
+        adopting mandatory reporting of voluntary pro bono service.''.
+
+SEC. 4. DEFINITIONS.
+
+    Section 1002 of the Legal Services Corporation Act (42 U.S.C. 
+2996a) is amended--
+            (1) by striking paragraph (7) and inserting the following:
+            ``(7) `staff attorney' means an attorney who--
+                    ``(A) is employed by a recipient organized in whole 
+                or in part for the provision of legal assistance to 
+                eligible clients under this title; or
+                    ``(B) receives more than one-half of the attorney's 
+                annual professional salary from the proceeds of a 
+                grant, contract, or other financial assistance from the 
+                Corporation to such recipient;'';
+            (2) in paragraph (8), by striking ``the Trust Territory of 
+        the Pacific Islands, and any other territory or possession of 
+        the United States'' and inserting ``the Commonwealth of the 
+        Northern Mariana Islands, the Republic of the Marshall Islands, 
+        the Federated States of Micronesia, and the Republic of 
+        Palau;''; and
+            (3) by adding at the end the following:
+            ``(9) `individual in poverty' means an individual who is a 
+        member of a family (of 1 or more members) with an income at or 
+        below the poverty line; and
+            ``(10) `poverty line' means the poverty line (as defined by 
+        the Office of Management and Budget, and revised annually in 
+        accordance with section 673(2) of the Community Services Block 
+        Grant Act (42 U.S.C. 9902(2)), applicable to a family of the 
+        size involved.''.
+
+SEC. 5. GOVERNING BODY.
+
+    Section 1004 of the Legal Services Corporation Act (42 U.S.C. 
+2996c) is amended--
+            (1) in subsection (a), in the third sentence--
+                    (A) by striking ``Effective with respect to 
+                appointments made after the date of enactment of the 
+                Legal Services Corporation Act Amendments of 1977 but 
+                not later than July 31, 1978, the'' and inserting 
+                ``The'';
+                    (B) by striking ``and'' after ``shall be appointed 
+                so as to include eligible clients,''; and
+                    (C) by inserting ``, and to include at least 1 
+                individual with financial or audit experience'' before 
+                the period; and
+            (2) in subsection (b)--
+                    (A) by striking ``, except that five of the members 
+                first appointed, as designated by the President at the 
+                time of appointment, shall serve for a term of two 
+                years''; and
+                    (B) by striking the third and fourth sentences;
+            (3) in subsection (d), by striking ``President shall select 
+        from among the voting members of the board a chairman, who 
+        shall serve for a term of three years. Thereafter the'';
+            (4) by striking subsection (f);
+            (5) by redesignating subsections (g) and (h) as (f) and 
+        (g), respectively; and
+            (6) in subsection (f), as redesignated by this section, by 
+        striking ``, of any executive committee of the Board, and of 
+        any advisory council established in connection with this 
+        title'' and inserting ``or of any committee of the Board''.
+
+SEC. 6. OFFICERS AND EMPLOYEES.
+
+    (a) Elimination of Personal Pronoun.--Section 1005(b)(1) of the 
+Legal Services Corporation Act (42 U.S.C. 2996d(b)(1)) is amended by 
+striking ``as he'' and inserting ``as the president of the 
+Corporation''.
+    (b) Maximum Pay.--Section 1005(d) of the Legal Services Corporation 
+Act (42 U.S.C. 2996d(d)) is amended--
+            (1) by striking ``level V'' and inserting ``level III''; 
+        and
+            (2) by striking ``5316'' and inserting ``5314''.
+
+SEC. 7. IMPROVEMENTS OF LEGAL SERVICES CORPORATION CORPORATE GOVERNANCE 
+              AND INTERNAL PRACTICES.
+
+    Section 1006 of the Legal Services Corporation Act (42 U.S.C. 
+2996e) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (2), by inserting ``, subject to 
+                subsection (g)'' before the semicolon; and
+                    (B) in paragraph (3)(A), by striking ``except that 
+                broad general legal or policy research unrelated to 
+                representation of eligible clients may not be 
+                undertaken by grant or contract,'';
+            (2) in subsection (b)--
+                    (A) in paragraph (3), by striking ``as established 
+                in the Canons of Ethics and the Code of Professional 
+                Responsibility of the American Bar Association'' and 
+                inserting ``as established in the applicable rules of 
+                professional responsibility or other laws of the State 
+                or other jurisdiction where the attorney practices 
+                law''; and
+                    (B) in paragraph (5), by striking the last 
+                sentence; and
+            (3) by adding at the end the following:
+    ``(g)(1) The Corporation shall establish a protocol for the receipt 
+of donations under subsection (a)(2).
+    ``(2) In order for the Corporation to use any Federal funds for 
+representational activities of the Corporation, not including non-
+representational activities that primarily involve Corporation staff, 
+the appropriations Act through which the funds are made available shall 
+specifically permit the use of the funds for such activities. Any 
+solicitation of a donation of funds for expenses for which Federal 
+funds may not be used under this title shall be approved in advance by 
+the Board. In addition, a budget for the use of such donated funds 
+shall be approved by the Board, before the Corporation incurs such an 
+expense.
+    ``(3) The Corporation may not advance Federal funds, in 
+anticipation of receiving a donation under subsection (a)(2), to pay 
+for an expense.
+    ``(h)(1) The Board shall establish and maintain an audit committee, 
+a finance committee, and a governance and performance review committee.
+    ``(2) The Corporation shall establish and implement a continuity of 
+operations plan, to prepare for disasters and emergencies.
+    ``(3) The Corporation shall--
+            ``(A) establish an adequate internal control structure and 
+        procedures for financial reporting; and
+            ``(B) not later than 1 year after the date of enactment of 
+        the Civil Access to Justice Act of 2009, and annually 
+        thereafter, conduct an assessment of the effectiveness of the 
+        internal control structure and procedures.
+    ``(i)(1) The Corporation shall adopt comprehensive training 
+standards and develop appropriate training materials to ensure that 
+recipients are able to provide comprehensive and appropriate training 
+for executive directors, supervisors, and attorneys employed by 
+recipients and board members of recipients. Such training standards and 
+materials shall address training concerning--
+            ``(A) restrictions applicable to the activities of 
+        attorneys employed by the recipient involved; and
+            ``(B) appropriate use of Federal funds.
+    ``(2) In developing training standards and materials for the 
+training described in paragraph (1), the Corporation--
+            ``(A) is encouraged to address training concerning the 
+        representation of victims of domestic violence; and
+            ``(B) may coordinate activities with the American Bar 
+        Association Commission on Domestic Violence.
+    ``(3) The Corporation shall provide financial assistance, in such 
+amounts as the Corporation may determine to be appropriate, to 
+recipients, to enable the recipients to provide the training described 
+in paragraph (1).''.
+
+SEC. 8. PILOT LOAN REPAYMENT ASSISTANCE PROGRAM.
+
+    Section 1006 of the Legal Services Corporation Act, as amended by 
+section 7, is further amended by adding at the end the following:
+    ``(j)(1) The Corporation shall promote recruitment and retention of 
+highly qualified staff members for all recipients, through the Pilot 
+Loan Repayment Assistance Program established by the Corporation in 
+2005 or other programs, as the Corporation determines to be 
+appropriate.
+    ``(2) If funds are appropriated for any such staff recruitment and 
+retention program for each of the 5 full fiscal years following the 
+date of enactment of the Civil Access to Justice Act of 2009, in the 
+fifth year, the Corporation shall submit to Congress a report on the 
+impact of such program on the recruitment and retention of highly 
+qualified staff for recipients.
+    ``(3) Nothing in paragraph (2) prevents the Corporation from 
+continuing such recruitment and retention programs for longer than 5 
+years, if such program is effective in the recruitment and retention of 
+highly qualified staff and funds are appropriated for such program.''.
+
+SEC. 9. PROHIBITED USE OF FUNDS.
+
+    Section 1006 of the Legal Services Corporation Act, as amended by 
+section 8, is further amended by adding at the end the following:
+    ``(k)(1)(A) No prohibited purposes provision shall be considered to 
+cover recipient funds from any source other than the Corporation, 
+except as provided in paragraph (3).
+    ``(B) No prohibited purposes provision shall be considered to cover 
+Federal funds awarded under this title, except as provided in this 
+title.
+    ``(2)(A) In this subsection, the term `prohibited purposes 
+provision' means a provision of this title, or any other Federal law, 
+that contains text stating that funds of a recipient may not be 
+expended for a purpose prohibited by this title or another Federal law.
+    ``(B) The term includes any Federal law that incorporates by 
+reference a provision that contains text described in subparagraph (A) 
+and is a provision of--
+            ``(i) the Departments of Commerce, Justice, and State, the 
+        Judiciary, and Related Agencies Appropriations Act, 1998;
+            ``(ii) the Departments of Commerce, Justice, and State, the 
+        Judiciary, and Related Agencies Appropriations Act, 1996; or
+            ``(iii) another Federal law.
+    ``(3) No non-Federal funds may be used by a recipient to 
+participate in any litigation with respect to abortion.''.
+
+SEC. 10. CONSTRUCTION.
+
+    Section 1006 of the Legal Services Corporation Act, as amended by 
+section 9, is further amended by adding at the end the following:
+    ``(l) No provision of law, other than an amendment to this title, 
+shall be considered to supersede or modify this title unless the 
+provision refers specifically to this subsection.''.
+
+SEC. 11. GRANTS AND CONTRACTS.
+
+    Section 1007 of the Legal Services Corporation Act (42 U.S.C. 
+2996f) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (2)--
+                            (i) in subparagraph (A), by striking ``and 
+                        with the Governors of the several States'';
+                            (ii) in subparagraph (B)--
+                                    (I) in clause (i), by striking 
+                                ``liquid''; and
+                                    (II) in clause (iv), by striking 
+                                ``, which may include evidence of a 
+                                prior determination that such 
+                                individual's lack of income results 
+                                from refusal or unwillingness, without 
+                                good cause, to seek or accept an 
+                                employment situation; and'' and 
+                                inserting a semicolon;
+                    (B) by striking paragraphs (8) and (9);
+                    (C) by redesignating paragraphs (10) and (11) as 
+                (9) and (10), respectively;
+                    (D) by inserting after paragraph (7) the following:
+            ``(8) ensure that funds appropriated under this title for 
+        basic field programs shall be distributed on the basis of a 
+        system of competitive bidding, in accordance with Legal 
+        Services Corporation regulations, and shall be allocated so as 
+        to provide--
+                    ``(A) except as provided in subparagraphs (B) and 
+                (C), an equal figure per individual in poverty for all 
+                geographic areas, as determined on the basis of the 
+                most recent decennial census of population conducted 
+                pursuant to section 141 of title 13, United States Code 
+                (or, in the case of the Republic of Palau, the 
+                Federated States of Micronesia, the Republic of the 
+                Marshall Islands, the Commonwealth of the Northern 
+                Mariana Islands, Alaska, Hawaii, and the United States 
+                Virgin Islands, on the basis of the adjusted population 
+                counts historically used as the basis for such 
+                determinations);
+                    ``(B) an additional amount for Native American 
+                communities that received assistance under the Legal 
+                Services Corporation Act for fiscal year 2009, so that 
+                the proportion of the funds appropriated to the Legal 
+                Services Corporation for basic field programs for 
+                fiscal year 2010 that is received by the Native 
+                American communities shall be not less than the 
+                proportion of such funds appropriated for fiscal year 
+                2009 that was received by the Native American 
+                communities; and
+                    ``(C) an amount for representation of migrant and 
+                seasonal farm workers.''; and
+                    (E) in paragraph (9), as redesignated by this 
+                subsection, by striking ``the Canons of Ethics and Code 
+                of Professional Responsibility of the American Bar 
+                Association'' and inserting ``applicable rules of 
+                professional responsibility'';
+            (2) in subsection (b)--
+                    (A) by striking paragraph (8) and inserting the 
+                following:
+            ``(8) to participate in any litigation with respect to 
+        abortion;'';
+                    (B) in paragraph (10), by striking ``or'' after the 
+                semicolon;
+                    (C) in paragraph (11), by striking the period at 
+                the end and inserting a semicolon; and
+                    (D) by adding at the end the following:
+            ``(12) to provide legal assistance with respect to 
+        litigation relating to prison conditions on behalf of any 
+        individual who is incarcerated in a Federal, State, or local 
+        prison, except that nothing in this paragraph prohibits the use 
+        of funds made available by the Corporation for litigation 
+        related to an incarcerated individual's ability to reenter 
+        society successfully;
+            ``(13) to provide legal assistance with respect to the 
+        defense of an individual in a proceeding to evict such 
+        individual from a public housing project if--
+                    ``(A) the individual has been convicted in a 
+                criminal proceeding with the illegal sale or 
+                distribution of a controlled substance; and
+                    ``(B) the eviction proceeding is brought by a 
+                public housing agency because the illegal drug activity 
+                of the individual threatens the health and safety of 
+                another tenant residing in the public housing project 
+                or an employee of the public housing agency; or
+            ``(14) to provide legal assistance for, or on behalf of an 
+        alien, unless the alien--
+                    ``(A) is present in the United States and the 
+                alien--
+                            ``(i) is described in subparagraph (A), 
+                        (B), (C), (D), (E), or (F) of section 
+                        504(a)(11) of the Departments of Commerce, 
+                        Justice, and State, the Judiciary, and Related 
+                        Agencies Appropriations Act, 1996, as enacted 
+                        by section 101 of the Omnibus Consolidated 
+                        Rescissions and Appropriations Act of 1996 
+                        (Public Law 104-134; 110 Stat. 1321-54);
+                            ``(ii) is lawfully present as a result of 
+                        withholding of deportation pursuant to former 
+                        section 243(h) of the Immigration and 
+                        Nationality Act, withholding or restriction of 
+                        removal pursuant to section 241(b)(3) of the 
+                        Immigration and Nationality Act (8 U.S.C. 
+                        1231(b)(3)), or withholding of removal under 
+                        the Convention Against Torture pursuant to the 
+                        regulation of the Secretary of Homeland 
+                        Security codified on the date of the enactment 
+                        of the Civil Access to Justice Act of 2009 at 8 
+                        C.F.R. 208.16(c) and the regulation of the 
+                        Attorney General codified on such date at 8 
+                        C.F.R. 1208.16(c);
+                            ``(iii)(I) has been battered or subjected 
+                        to extreme cruelty or was a victim of sexual 
+                        assault or trafficking in the United States; or
+                            ``(II) qualifies for nonimmigrant status 
+                        described in section 101(a)(15)(U) of the 
+                        Immigration and Nationality Act (8 U.S.C. 
+                        1101(a)(15)(U));
+                            ``(iv) has a child present in the United 
+                        States who, without the active participation of 
+                        the alien--
+                                    ``(I) has been battered or 
+                                subjected to extreme cruelty or was a 
+                                victim of sexual assault or trafficking 
+                                in the United States; or
+                                    ``(II) qualifies for nonimmigrant 
+                                status described in section 
+                                101(a)(15)(U) of the Immigration and 
+                                Nationality Act;
+                            ``(v) has been a victim of trafficking or 
+                        is a family member of such a victim and is 
+                        eligible for protection and assistance under 
+                        section 107 of the Trafficking Victims 
+                        Protection Act of 2000 (22 U.S.C. 7105);
+                            ``(vi) is an evacuee from, or victim of, a 
+                        major disaster or an emergency designated by 
+                        the President pursuant to the Robert T. 
+                        Stafford Disaster Relief and Emergency 
+                        Assistance Act (42 U.S.C. 5121 et seq.) or by 
+                        an appropriate State or local official, and the 
+                        alien's need for legal assistance from the 
+                        Corporation is related to the alien's status as 
+                        such an evacuee or victim;
+                            ``(vii)(I) has been declared dependent on a 
+                        juvenile court located in a State or has been 
+                        legally committed to, or placed under the 
+                        custody of, an agency or department of a State 
+                        by such a court; and
+                            ``(II) has been deemed eligible by such a 
+                        court for long-term foster care due to abuse, 
+                        neglect, or abandonment;
+                            ``(viii) is under 18 years of age, is 
+                        unaccompanied by a parent or legal guardian, 
+                        and is in the custody of the Secretary of 
+                        Homeland Security or Health and Human Services; 
+                        or
+                            ``(ix) is authorized to work in the United 
+                        States or is otherwise lawfully present in the 
+                        United States;
+                    ``(B) is a member of a cross-border Indian Tribe 
+                who is--
+                            ``(i) an American Indian born in Canada 
+                        referred to in section 289 of the Immigration 
+                        and Nationality Act (8 U.S.C. 1359); or
+                            ``(ii) a member of the Texas Band of 
+                        Kickapoo Indians referred to in the Texas Band 
+                        of Kickapoo Act (25 U.S.C. 1300b-11 et seq.);
+                    ``(C) is--
+                            ``(i) indigent; and
+                            ``(ii) seeking relief under the Convention 
+                        on the Civil Aspects of International Child 
+                        Abduction, done at The Hague on October 25, 
+                        1980, pursuant to the International Child 
+                        Abduction Remedies Act (42 U.S.C. 11601 et 
+                        seq.); or
+                    ``(D) is a citizen of--
+                            ``(i) the Commonwealth of the Northern 
+                        Mariana Islands;
+                            ``(ii) the Federated States of Micronesia;
+                            ``(iii) the Republic of the Marshall 
+                        Islands; or
+                            ``(iv) the Republic of Palau.'';
+            (3) by striking subsection (c) and inserting the following:
+    ``(c) In making grants or entering into contracts for legal 
+assistance, the Corporation--
+            ``(1) shall ensure that any recipient organized solely for 
+        the purpose of providing legal assistance to eligible clients 
+        is governed by a body (referred to in this subsection as a 
+        `board') at least 50 percent of which consists of attorneys who 
+        are members of the bar of a State in which the legal assistance 
+        is to be provided (except that the Corporation may grant, 
+        pursuant to regulations issued by the Corporation, a waiver of 
+        such requirement for recipients which, because of the 
+        population the recipients serve, are unable to comply with such 
+        requirement);
+            ``(2) shall ensure that any attorney, while serving on such 
+        board, shall not receive compensation from a recipient for such 
+        service;
+            ``(3) shall ensure that at least one-third of a recipient's 
+        governing body consists of individuals who are, when selected, 
+        eligible clients who also may be representatives of 
+        associations or organizations of eligible clients; and
+            ``(4) shall ensure that at least 1 board member is 
+        designated as a liaison to the bar association of the State 
+        described in paragraph (1) for pro bono promotion and 
+        coordination.'';
+            (4) in subsection (d), by adding at the end the following: 
+        ``The Corporation shall ensure that the monitoring and 
+        evaluation activities described in this subsection are carried 
+        out in a manner that is consistent with the applicable rules of 
+        professional responsibility for the jurisdiction in which the 
+        recipient is being monitored, and shall take reasonable steps 
+        to avoid imposing undue burden or expense on the recipient.'';
+            (5) by striking subsections (g) and (h); and
+            (6) by adding at the end the following:
+    ``(h) The Corporation shall require all attorneys and paralegals 
+employed by a recipient to maintain records of time spent on each case 
+or matter supported in whole or in part with funds provided under this 
+title.''.
+
+SEC. 12. TECHNOLOGY GRANTS.
+
+    Section 1007 of the Legal Services Corporation Act (42 U.S.C. 
+2996f), as amended by section 12, is further amended--
+            (1) by redesignating subsections (c) through (f) as 
+        subsections (d) through (g), respectively; and
+            (2) by inserting after subsection (b) the following:
+    ``(c) In making a grant or entering into a contract under this 
+section, the Corporation may provide that a portion of the funds 
+provided under the grant or contract may be used to acquire and develop 
+information technology to promote full access to high-quality, 
+efficient legal representation and materials for self-
+representation.''.
+
+SEC. 13. AUDITS.
+
+    Section 1009 of the Legal Services Corporation Act (42 U.S.C. 
+2996h) is amended--
+            (1) by striking subsection (c) and inserting the following:
+    ``(c) The Corporation shall require an audit of each recipient in 
+accordance with generally accepted auditing standards and shall require 
+that the recipient prepare a report that includes--
+            ``(1) the financial statements of the recipient, including 
+        an unbiased presentation of the recipient's financial position 
+        and the results of the recipient's financial operations, in 
+        accordance with generally accepted accounting principles; and
+            ``(2) a description of internal control systems of the 
+        recipient that provide reasonable assurance that the recipient 
+        is managing funds, from all sources, in compliance with Federal 
+        law.''; and
+            (2) in subsection (d), by striking all that follows the 
+        comma and adding ``the Corporation, the Comptroller General of 
+        the United States, and the Corporation's Inspector General 
+        shall not have access to any information in documents, reports, 
+        or records that is confidential under the applicable rules of 
+        professional responsibility or that is subject to the attorney-
+        client privilege.''.
+
+SEC. 14. FINANCING.
+
+    Section 1010 of the Legal Services Corporation Act (42 U.S.C. 
+2996i) is amended--
+            (1) in subsection (a), by striking the first 3 sentences 
+        and inserting the following: ``There are authorized to be 
+        appropriated for the purpose of carrying out the activities of 
+        the Corporation $750,000,000 for each of fiscal years 2010 
+        through 2015.'';
+            (2) in subsection (c)--
+                    (A) by striking the semicolon after ``distinct from 
+                Federal funds'' and inserting a period;
+                    (B) by striking ``but any funds so received for the 
+                provision of legal assistance shall not be expended by 
+                recipients for any purpose prohibited by this title, 
+                except that this'' and inserting ``This'';
+                    (C) by striking ``or'' after ``to prevent 
+                recipients from receiving other public funds'' and 
+                inserting ``, private funds,''; and
+                    (D) by inserting after ``(including foundation 
+                funds benefitting Indians or Indian tribes)'' the 
+                following: ``, or any other funds received from a 
+                source other than the Corporation''; and
+            (3) by adding at the end the following:
+    ``(e) For purposes of other programs that have Federal funds 
+matching requirements, funds received by a recipient from the 
+Corporation shall not be considered to be Federal funds for the purpose 
+of determining whether those funds may be used as non-Federal matching 
+funds.''
+                                 <all>
+

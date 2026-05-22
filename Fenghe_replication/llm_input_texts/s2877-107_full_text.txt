@@ -1,0 +1,254 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 2877 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                S. 2877
+
+To amend the Internal Revenue Code of 1986 to ensure that stock options 
+ of public companies are granted to rank and file employees as well as 
+            officers and directors, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             August 1, 2002
+
+  Mr. Lieberman (for himself and Mrs. Boxer) introduced the following 
+  bill; which was read twice and referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Internal Revenue Code of 1986 to ensure that stock options 
+ of public companies are granted to rank and file employees as well as 
+            officers and directors, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Rank and File Stock Option Act of 
+2002''.
+
+SEC. 2. DENIAL OF DEDUCTION FOR STOCK OPTION PLANS DISCRIMINATING IN 
+              FAVOR OF HIGHLY COMPENSATED EMPLOYEES.
+
+    (a) In General.--Section 162 of the Internal Revenue Code of 1986 
+(relating to deduction for trade and business expenses) is amended by 
+redesignating subsection (p) as subsection (q) and by inserting after 
+subsection (o) the following new subsection:
+    ``(p) Deductibility of Stock Options Not Widely Available to All 
+Employees.--
+            ``(1) In general.--If--
+                    ``(A) an applicable taxpayer grants stock options 
+                during any taxable year, and
+                    ``(B) the taxpayer fails to meet the overall 
+                concentration test of paragraph (2) or the individual 
+                concentration tests of paragraph (3) for such taxable 
+                year with respect to the granting of such options,
+        then the deduction allowable to such taxpayer for any taxable 
+        year in which any such option is exercised shall be limited as 
+        provided in this subsection.
+            ``(2) Overall concentration test.--If the total number of 
+        shares which may be acquired pursuant to options granted to 
+        applicable highly compensated employees by an applicable 
+        taxpayer during a taxable year exceeds 50 percent of the 
+        aggregate share amount, then the deduction allowable under this 
+        chapter with respect to the exercise of any option granted by 
+        the applicable taxpayer during such taxable year to any 
+        employee shall be reduced by the product of--
+                    ``(A) the amount of such deduction computed without 
+                regard to this subsection, and
+                    ``(B) a percentage equal to the number of 
+                percentage points (including any fraction thereof) by 
+                which such total number exceeds 50 percent.
+            ``(3) Individual concentration tests.--
+                    ``(A) Options granted to single employee.--If the 
+                total number of shares which may be acquired pursuant 
+                to options granted to any applicable highly compensated 
+                employee by an applicable taxpayer during a taxable 
+                year exceeds 5 percent of the aggregate share amount, 
+                then no deduction shall be allowable under this chapter 
+                with respect to the exercise of any options granted by 
+                the applicable taxpayer to such employee during such 
+                taxable year.
+                    ``(B) Options granted to top employees.--
+                            ``(i) In general.--If the total number of 
+                        shares which may be acquired pursuant to 
+                        options granted to employees who are members of 
+                        the top group by an applicable taxpayer during 
+                        a taxable year exceeds 15 percent of the 
+                        aggregate share amount, then no deduction shall 
+                        be allowable under this chapter with respect to 
+                        the exercise of any options granted by the 
+                        applicable taxpayer to such employees during 
+                        such taxable year.
+                            ``(ii) Top group.--For purposes of this 
+                        subparagraph, an employee shall be treated as a 
+                        member of the top group if the employee is a 
+                        covered employee (within the meaning of section 
+                        162(m)(3)).
+                    ``(C) Exception.--Subparagraphs (A) and (B) shall 
+                not apply to any taxable year if the applicable 
+                taxpayer granted an equal number of identical options 
+                to each employee without regard to whether the employee 
+                was highly compensated or not.
+            ``(4) Rules relating to tests.--For purposes of this 
+        subsection--
+                    ``(A) Aggregate share amount.--
+                            ``(i) In general.--The aggregate share 
+                        amount for any taxable year is the total number 
+                        of shares which may be acquired pursuant to 
+                        options granted to all employees by an 
+                        applicable taxpayer during the taxable year.
+                            ``(ii) Certain options disregarded.--Except 
+                        as provided in regulations, if the terms of any 
+                        option granted to an employee other than a 
+                        highly compensated employee during any taxable 
+                        year are not substantially the same as, or more 
+                        favorable than, the terms of any option granted 
+                        to any highly compensated employee, then such 
+                        option shall not be taken into account in 
+                        determining the aggregate share amount.
+                    ``(B) Options granted on different classes of 
+                stock.--Except as provided in regulations, this 
+                subsection shall be applied separately with respect to 
+                each class of stock for which options are granted.
+            ``(5) Definitions and special rules.--For purposes of this 
+        subsection--
+                    ``(A) Applicable taxpayer.--The term `applicable 
+                taxpayer' means any taxpayer which is an issuer (as 
+                defined in section 3 of the Securities Exchange Act of 
+                1934; 15 U.S.C. 78c)--
+                            ``(i) the securities of which are 
+                        registered under section 12 of that Act (15 
+                        U.S.C. 78l), or
+                            ``(ii) which--
+                                    ``(I) is required to file reports 
+                                pursuant to section 15(d) of that Act 
+                                (15 U.S.C. 78o(d)), or
+                                    ``(II) will be required to file 
+                                such reports at the end of a fiscal 
+                                year of the issuer in which a 
+                                registration statement filed by such 
+                                issuer has become effective pursuant to 
+                                the Securities Act of 1933 (15 U.S.C. 
+                                77a et seq.), unless its securities are 
+                                registered under section 12 of the 
+                                Securities Exchange Act of 1934 (15 
+                                U.S.C. 78c) on or before the end of 
+                                such fiscal year.
+                    ``(B) Applicable highly compensated employee.--The 
+                term `applicable highly compensated employee' means--
+                            ``(i) any highly compensated employee who 
+                        is described in subparagraph (B) of section 
+                        414(q)(1), and
+                            ``(ii) any director of the applicable 
+                        taxpayer.
+                    ``(C) Incentive stock options not taken into 
+                account.--An incentive stock option (as defined in 
+                section 422(b)) shall not be taken into account for 
+                purposes of applying this section.
+                    ``(D) Aggregation.--All corporations which are 
+                members of an affiliated group of corporations filing a 
+                consolidated return shall be treated as 1 taxpayer.
+            ``(6) Regulations.--The Secretary shall prescribe such 
+        regulations as may be necessary to carry out the purposes of 
+        this subsection, including regulations to prevent the avoidance 
+        of this subsection through the use of phantom stock, restricted 
+        stock, or similar instruments.''
+    (b) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2002.
+
+SEC. 3. SHAREHOLDER APPROVAL.
+
+    (a) Rules Required.--Not later than 1 year after the date of 
+enactment of this Act, the Securities and Exchange Commission shall 
+finalize rules pursuant to the Securities Exchange Act of 1934 to 
+ensure that--
+            (1) shareholder approval is required for stock option plans 
+        and grants, stock purchase plans, and other arrangements by 
+        public companies by which any person may acquire an equity 
+        interest in the company in exchange for consideration that is 
+        less than the fair market value of the equity interest at the 
+        time of the exchange; and
+            (2) prior to submission of such plans to shareholders for 
+        approval, such shareholders are given detailed information 
+        about the stock option plans and grants, including--
+                    (A) the economic rationale and interest of 
+                shareholders in the plan or grant;
+                    (B) a detailed description of the anticipated 
+                distribution of the plan or grant among directors, 
+                officers, and employees and the rationale of such 
+                distribution;
+                    (C) the total number of options reserved or 
+                intended for grants to each director and officer, and 
+                to different classes of employees;
+                    (D) the maximum potential future earnings per share 
+                dilution of investors' shareholdings, assuming the 
+                exercise of all in-the-money options with no adjustment 
+                for the use of the Treasury stock method, as stock 
+                price varies;
+                    (E) the terms under which stock option grants may 
+                be canceled or reissued; and
+                    (F) the number, weighted average exercise prices, 
+                and vesting schedule of all options previously approved 
+                or outstanding.
+    (b) Reliability and Accuracy.--The Commission shall ensure that all 
+disclosures required by this section shall increase the reliability and 
+accuracy of information provided to shareholders and investors. 
+    (c) Exemption Authority.--Shareholder approval rules issued in 
+accordance with this section--
+            (1) may exempt stock option grants to individual employees 
+        under terms and conditions specified by the Commission, except 
+        that such exemptions shall be available only in cases in which 
+        the grant--
+                    (A) is made to an individual who is not a director 
+                or officer of the company at the time the grant is 
+                approved;
+                    (B) is necessary, based on business judgment;
+                    (C) represents a de minimus potential dilution of 
+                future earnings per share of investors' shareholdings; 
+                and
+                    (D) is made on terms disclosed to shareholders in 
+                the next filing with the Commission; and
+            (2) may exempt stock option plans and grants of any 
+        registrant that qualifies as a small business issuer under 
+        applicable securities laws and regulations, or to such 
+        additional small issuers as the Commission determines would be 
+        unduly burdened by such requirements as compared to the benefit 
+        to shareholders, except that such exemption may be phased in, 
+        both as to applicability and to its effective date, so that the 
+        Commission may determine the size of issuer to which such 
+        exemptions will apply and the extent to which the rule should 
+        apply to plans that exclude officers and directors.
+
+SEC. 4. HOLDING PERIOD FOR EXECUTIVES.
+
+    Not later than 1 year after the date of enactment of this Act, the 
+Securities and Exchange Commission shall conduct an analysis of, and 
+make regulatory and legislative recommendations on, the need for new 
+stock holding period requirements for senior executives, including--
+            (1) recommendations to set minimum holding periods after 
+        the exercise of options to purchase stock and to set a maximum 
+        percentage of stock purchased through options that may be sold; 
+        and
+            (2) an analysis of sales to company, sales on public 
+        markets, and derivative sales.
+                                 <all>
+

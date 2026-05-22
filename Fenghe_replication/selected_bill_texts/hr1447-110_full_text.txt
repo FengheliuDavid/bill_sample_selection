@@ -1,0 +1,245 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1447 Introduced in House (IH)]
+
+
+
+
+
+
+
+110th CONGRESS
+  1st Session
+                                H. R. 1447
+
+  To amend sections 5313 and 5318 of title 31, United States Code, to 
+ reform certain requirements for reporting cash transactions, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 9, 2007
+
+ Mr. Jones of North Carolina introduced the following bill; which was 
+            referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend sections 5313 and 5318 of title 31, United States Code, to 
+ reform certain requirements for reporting cash transactions, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``CTR Modernization Act''.
+
+SEC. 2. PURPOSES.
+
+    The purposes of this Act are as follows:
+            (1) To improve the quality and usefulness of currency 
+        transaction reports in criminal, tax, and regulatory 
+        investigations or proceedings.
+            (2) To eliminate filing currency transaction reports 
+        related to many innocent, infrequent, or idiosyncratic deposit 
+        activities.
+            (3) To further focus anti-money laundering investigations 
+        and prosecutions by reducing the number of spurious, 
+        duplicative, and innocent currency transaction reports and 
+        increasing the usefulness of suspicious activity reports.
+            (4) To maintain the high degree of usefulness of currency 
+        transaction reports and adjust for inflation and current 
+        financial practices the threshold for currency transaction 
+        reports to a level consistent with the amount established 
+        pursuant to Public Law 91-508 upon the enactment of such Public 
+        Law in 1970.
+            (5) To increase the usefulness of data collected through 
+        currency transaction reports and suspicious activity reports 
+        and for other purposes.
+
+SEC. 3. MODIFICATION OF CURRENCY TRANSACTION REPORTING THRESHOLD.
+
+    (a) Threshold.--
+            (1) Nondepository institutions.--The 1st sentence of 
+        section 5313(a) of title 31, United States Code, is amended by 
+        inserting ``, other than a depository institution,'' after 
+        ``domestic financial institution''.
+            (2) Depository institutions.--Subsection (a) of section 
+        5313 of title 31, United States Code, is amended by inserting 
+        after the 1st sentence (as amended by paragraph (1) of this 
+        subsection) the following new sentence: ``When a depository 
+        institution is involved in a transaction for the payment, 
+        receipt, or transfer of United States coins or currency (or 
+        other monetary instruments the Secretary of the Treasury 
+        prescribes), in an amount, denomination, or amount and 
+        denomination of not less than $30,000 and under circumstances 
+        the Secretary prescribes by regulation, the depository 
+        institution and any other participant in the transaction the 
+        Secretary may prescribe shall file a report on the transaction 
+        at the time and in the way the Secretary prescribes.''.
+    (b) Regulation.--After the end of the 270-day period beginning on 
+the date of the enactment of the CTR Modernization Act, the Secretary 
+of the Treasury shall not require a depository institution to file a 
+currency transaction report when the transaction involves the transfer 
+of currency of an amount and denomination of less than $30,000.
+    (c) Technical and Conforming Amendment.--Subsection (c) of section 
+5312 of title 31, United States Code, is amended by adding at the end 
+the following new paragraph:
+            ``(2) Depository institution.--The term `depository 
+        institution' means any insured depository institution (as 
+        defined in section 3 of the Federal Deposit Insurance Act) and 
+        any insured credit union (as defined in section 101(7) of the 
+        Federal Credit Union Act).''.
+
+SEC. 4. PERIODIC REVIEW OF REPORTING THRESHOLD AND ADJUSTMENT FOR 
+              INFLATION.
+
+    Section 5318 of title 31, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(o) Periodic Review of Reporting Threshold and Adjustment for 
+Inflation.--
+            ``(1) In general.--Before the end of the 5-year period 
+        beginning on the date of the enactment of the CTR Modernization 
+        Act and at least every 5 years after the expiration of such 
+        period, the Secretary of the Treasury shall--
+                    ``(A) solicit and review public comments about the 
+                appropriateness, relevance, and utility of the then-
+                current threshold amount or denomination established by 
+                the Secretary;
+                    ``(B) review the continuing appropriateness, 
+                relevance, and utility of each threshold amount or 
+                denomination established by the Secretary, in the 
+                Secretary's discretion, for any report required by the 
+                Secretary under this subchapter; and
+                    ``(C) adjust such amount, at such time and in such 
+                manner as the Secretary considers appropriate but in no 
+                case later than 365 days following the expiration of 
+                the public comment period, for any inflation that the 
+                Secretary of the Treasury determines has occurred since 
+                the date any such amount was established or last 
+                adjusted, except that the Secretary of the Treasury 
+                shall not reduce such amount to an amount and 
+                denomination of less than $30,000.
+            ``(2) Report.--Before the end of the 365-day period 
+        beginning upon the completion of any review by the Secretary of 
+        the Treasury under paragraph (1), the Secretary shall submit a 
+        report to the Congress containing the findings and conclusions 
+        of the Secretary in connection with such review, together with 
+        an explanation for any adjustment, or lack of adjustment, of 
+        any threshold amount or denomination by the Secretary as a 
+        result of such review, including the adjustment for 
+        inflation.''.
+
+SEC. 5. MODIFICATION OF EXEMPTION PROCESS.
+
+    (a) Seasoned Customer Exemption.--Subsection (e) of section 5313 of 
+title 31, United States Code, is amended to read as follows:
+    ``(e) Qualified Customer Exemption.--
+            ``(1) In general.--Before the end of the 270-day period 
+        beginning on the date of the enactment of the CTR Modernization 
+        Act, the Secretary of the Treasury shall prescribe regulations 
+        that exempt any depository institution from filing a report 
+        pursuant to this section in a transaction for the payment, 
+        receipt, or transfer of United States coins or currency (or 
+        other monetary instruments the Secretary of the Treasury 
+        prescribes) with a qualified customer of the depository 
+        institution.
+            ``(2) Qualified customer defined.--For purposes of this 
+        section, the term `qualified customer', with respect to a 
+        depository institution, has such meaning as the Secretary of 
+        the Treasury shall prescribe, which shall include any person 
+        that--
+                    ``(A) is incorporated or organized under the laws 
+                of the United States or any State, including a sole 
+                proprietorship (as defined in 31 Code of Federal 
+                Regulations 103.22(d)(6)(vii), as in effect on May 10, 
+                2006), or is registered as and eligible to do business 
+                within the United States or a State;
+                    ``(B) has maintained a deposit account with the 
+                depository institution for at least 12 months; and
+                    ``(C) has engaged, using such account, in multiple 
+                currency transactions that are subject to the reporting 
+                requirements of subsection (a).
+            ``(3) Regulations.--
+                    ``(A) In general.--The Secretary of the Treasury 
+                shall prescribe regulations requiring a depository 
+                institution to file a 1-time notice of designation of 
+                exemption for each qualified customer of the depository 
+                institution.
+                    ``(B) Form and content of exemption notice.--The 
+                Secretary shall by regulation prescribe the form, 
+                manner, content, and timing of the qualified customer 
+                exemption notice and such notice shall include 
+                information sufficient to identify the qualified 
+                customer and the accounts of the customer.
+                    ``(C) Authority of secretary.--
+                            ``(i) In general.--The Secretary may 
+                        suspend, reject, or revoke any qualified 
+                        customer exemption notice, in accordance with 
+                        criteria prescribed by the Secretary by 
+                        regulation.
+                            ``(ii) Conditions.--The Secretary may 
+                        establish conditions, in accordance with 
+                        criteria prescribed by regulation, under which 
+                        exempt qualified customers of an insured 
+                        depository institution that is merged with or 
+                        acquired by another insured depository 
+                        institution will continue to be treated as 
+                        designated exempt qualified customers of the 
+                        surviving or acquiring institution.''.
+    (b) 3-Year Review and Report.--Before the end of the 3-year period 
+beginning on the date of the enactment of this Act, the Secretary of 
+the Treasury, in consultation with the Attorney General, the Secretary 
+of Homeland Security, the Federal banking agencies, the banking 
+industry, and such other persons as the Secretary deems appropriate, 
+shall evaluate the operations and effect of the provisions of the 
+amendment made by subsection (a) and make recommendations to the 
+Congress as to any legislative action with respect to such provision as 
+the Secretary may determine to be appropriate.
+
+SEC. 6. IDENTIFYING SUSPICIOUS ACTIVITY.
+
+    Subsection 5318(g) of title 31, United States Code, is amended by 
+adding at the end the following new paragraph:
+            ``(5) Guidance on when to file a report.--Before the end of 
+        the 270-day period beginning on the date of the enactment of 
+        the CTR Modernization Act, the Secretary of the Treasury shall 
+        prescribe regulations that provide guidance on examples of 
+        transactions that--
+                    ``(A) involved funds derived from illegal 
+                activities;
+                    ``(B) were designed to evade any requirements under 
+                this subchapter, chapter 2 of title I of Public Law 91-
+                508, or the Internal Revenue Code of 1986; and
+                    ``(C) have no business or apparent lawful 
+                purpose.''.
+
+SEC. 7. PROVIDING GENERAL INFORMATION REGARDING SUSPICIOUS ACTIVITY 
+              REPORT REQUIREMENTS.
+
+    Subsection 5318(g) of title 31, United States Code, is amended by 
+inserting after paragraph (5) (as added by section 6 of this Act) the 
+following new paragraph:
+            ``(6) General notification to customers.--
+                    ``(A) In general.--Before the end of the 270-day 
+                period beginning on the date of the enactment of the 
+                CTR Modernization Act, the Secretary of the Treasury 
+                shall prescribe regulations that create a list of 
+                information that may be disclosed to customers prior to 
+                the reporting of suspicious activity.
+                    ``(B) Rule of construction.--Subparagraph (A) of 
+                this paragraph shall not be construed as creating any 
+                immunity from the notification prohibition under 
+                paragraph (2).''.
+                                 <all>
+

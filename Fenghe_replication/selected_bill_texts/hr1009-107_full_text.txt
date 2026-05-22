@@ -1,0 +1,384 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1009 Engrossed in House (EH)]
+
+
+  2d Session
+
+                               H. R. 1009
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+    To repeal the prohibition on the payment of interest on demand 
+                               deposits.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+107th CONGRESS
+  2d Session
+                                H. R. 1009
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+    To repeal the prohibition on the payment of interest on demand 
+                               deposits.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Business Checking Freedom Act of 
+2002''.
+
+SEC. 2. INTEREST-BEARING TRANSACTION ACCOUNTS AUTHORIZED.
+
+    (a) Repeal of Prohibition on Payment of Interest on Demand 
+Deposits.--
+            (1) Federal reserve act.--Section 19(i) of the Federal 
+        Reserve Act (12 U.S.C. 371a) is amended to read as follows:
+    ``(i) [Repealed]''.
+            (2) Home owners' loan act.--The first sentence of section 
+        5(b)(1)(B) of the Home Owners' Loan Act (12 U.S.C. 
+        1464(b)(1)(B)) is amended by striking ``savings association may 
+        not--'' and all that follows through ``(ii) permit any'' and 
+        inserting ``savings association may not permit any''.
+            (3) Federal deposit insurance act.--Section 18(g) of the 
+        Federal Deposit Insurance Act (12 U.S.C. 1828(g)) is amended to 
+        read as follows:
+    ``(g) [Repealed]''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect at the end of the 2-year period beginning on the date of 
+the enactment of this Act.
+
+SEC. 3. INTEREST-BEARING TRANSACTION ACCOUNTS AUTHORIZED FOR ALL 
+              BUSINESSES.
+
+    Section 2 of Public Law 93-100 (12 U.S.C. 1832) is amended--
+            (1) by redesignating subsections (b) and (c) as subsections 
+        (c) and (d), respectively; and
+            (2) by inserting after subsection (a) the following:
+    ``(b) Notwithstanding any other provision of law, any depository 
+institution may permit the owner of any deposit or account which is a 
+deposit or account on which interest or dividends are paid and is not a 
+deposit or account described in subsection (a)(2) to make up to 24 
+transfers per month (or such greater number as the Board of Governors 
+of the Federal Reserve System may determine by rule or order), for any 
+purpose, to another account of the owner in the same institution. An 
+account offered pursuant to this subsection shall be considered a 
+transaction account for purposes of section 19 of the Federal Reserve 
+Act unless the Board of Governors of the Federal Reserve System 
+determines otherwise.''.
+
+SEC. 4. PAYMENT OF INTEREST ON RESERVES AT FEDERAL RESERVE BANKS.
+
+    (a) In General.--Section 19(b) of the Federal Reserve Act (12 
+U.S.C. 461(b)) is amended by adding at the end the following new 
+paragraph:
+            ``(12) Earnings on reserves.--
+                    ``(A) In general.--Balances maintained at a Federal 
+                reserve bank by or on behalf of a depository 
+                institution may receive earnings to be paid by the 
+                Federal reserve bank at least once each calendar 
+                quarter at a rate or rates not to exceed the general 
+                level of short-term interest rates.
+                    ``(B) Regulations relating to payments and 
+                distribution.--The Board may prescribe regulations 
+                concerning--
+                            ``(i) the payment of earnings in accordance 
+                        with this paragraph;
+                            ``(ii) the distribution of such earnings to 
+                        the depository institutions which maintain 
+                        balances at such banks or on whose behalf such 
+                        balances are maintained; and
+                            ``(iii) the responsibilities of depository 
+                        institutions, Federal home loan banks, and the 
+                        National Credit Union Administration Central 
+                        Liquidity Facility with respect to the 
+                        crediting and distribution of earnings 
+                        attributable to balances maintained, in 
+                        accordance with subsection (c)(1)(A), in a 
+                        Federal reserve bank by any such entity on 
+                        behalf of depository institutions.
+                    ``(C) Depository institutions defined.--For 
+                purposes of this paragraph, the term `depository 
+                institution', in addition to the institutions described 
+                in paragraph (1)(A), includes any trust company, 
+                corporation organized under section 25A or having an 
+                agreement with the Board under section 25, or any 
+                branch or agency of a foreign bank (as defined in 
+                section 1(b) of the International Banking Act of 
+                1978).''.
+    (b) Authorization for Pass Through Reserves for Member Banks.--
+Section 19(c)(1)(B) of the Federal Reserve Act (12 U.S.C. 461(c)(1)(B)) 
+is amended by striking ``which is not a member bank''.
+    (c) Consumer Banking Costs Assessment.--
+            (1) In general.--Section 1002 of the Financial Institutions 
+        Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 
+        note) is amended to read as follows:
+
+``SEC. 1002. SURVEY OF BANK FEES AND SERVICES.
+
+    ``(a) Annual Survey Required.--The Board of Governors of the 
+Federal Reserve System shall obtain annually a sample, which is 
+representative by type and size of the institution (including small 
+institutions) and geographic location, of the following retail banking 
+services and products provided by insured depository institutions and 
+insured credit unions (along with related fees and minimum balances):
+            ``(1) Checking and other transaction accounts.
+            ``(2) Negotiable order of withdrawal and savings accounts.
+            ``(3) Automated teller machine transactions.
+            ``(4) Other electronic transactions.
+    ``(b) Minimum Survey Requirement.--The annual survey described in 
+subsection (a) shall meet the following minimum requirements:
+            ``(1) Checking and other transaction accounts.--Data on 
+        checking and transaction accounts shall include, at a minimum, 
+        the following:
+                    ``(A) Monthly and annual fees and minimum balances 
+                to avoid such fees.
+                    ``(B) Minimum opening balances.
+                    ``(C) Check processing fees.
+                    ``(D) Check printing fees.
+                    ``(E) Balance inquiry fees.
+                    ``(F) Fees imposed for using a teller or other 
+                institution employee.
+                    ``(G) Stop payment order fees.
+                    ``(H) Nonsufficient fund fees.
+                    ``(I) Overdraft fees.
+                    ``(J) Deposit items returned fees.
+                    ``(K) Availability of no-cost or low-cost accounts 
+                for consumers who maintain low balances.
+            ``(2) Negotiable order of withdrawal accounts and savings 
+        accounts.--Data on negotiable order of withdrawal accounts and 
+        savings accounts shall include, at a minimum, the following:
+                    ``(A) Monthly and annual fees and minimum balances 
+                to avoid such fees.
+                    ``(B) Minimum opening balances.
+                    ``(C) Rate at which interest is paid to consumers.
+                    ``(D) Check processing fees for negotiable order of 
+                withdrawal accounts.
+                    ``(E) Fees imposed for using a teller or other 
+                institution employee.
+                    ``(F) Availability of no-cost or low-cost accounts 
+                for consumers who maintain low balances.
+            ``(3) Automated teller transactions.--Data on automated 
+        teller machine transactions shall include, at a minimum, the 
+        following:
+                    ``(A) Monthly and annual fees.
+                    ``(B) Card fees.
+                    ``(C) Fees charged to customers for withdrawals, 
+                deposits, and balance inquiries through institution-
+                owned machines.
+                    ``(D) Fees charged to customers for withdrawals, 
+                deposits, and balance inquiries through machines owned 
+                by others.
+                    ``(E) Fees charged to noncustomers for withdrawals, 
+                deposits, and balance inquiries through institution-
+                owned machines.
+                    ``(F) Point-of-sale transaction fees.
+            ``(4) Other electronic transactions.--Data on other 
+        electronic transactions shall include, at a minimum, the 
+        following:
+                    ``(A) Wire transfer fees.
+                    ``(B) Fees related to payments made over the 
+                Internet or through other electronic means.
+            ``(5) Other fees and charges.--Data on any other fees and 
+        charges that the Board of Governors of the Federal Reserve 
+        System determines to be appropriate to meet the purposes of 
+        this section.
+            ``(6) Federal reserve board authority.--The Board of 
+        Governors of the Federal Reserve System may cease the 
+        collection of information with regard to any particular fee or 
+        charge specified in this subsection if the Board makes a 
+        determination that, on the basis of changing practices in the 
+        financial services industry, the collection of such information 
+        is no longer necessary to accomplish the purposes of this 
+        section.
+    ``(c) Annual Report to Congress Required.--
+            ``(1) Preparation.--The Board of Governors of the Federal 
+        Reserve System shall prepare a report of the results of each 
+        survey conducted pursuant to subsections (a) and (b) of this 
+        section and section 136(b)(1) of the Consumer Credit Protection 
+        Act.
+            ``(2) Contents of the report.--In addition to the data 
+        required to be collected pursuant to subsections (a) and (b), 
+        each report prepared pursuant to paragraph (1) shall include a 
+        description of any discernible trend, in the Nation as a whole, 
+        in a representative sample of the 50 States (selected with due 
+        regard for regional differences), and in each consolidated 
+        metropolitan statistical area (as defined by the Director of 
+        the Office of Management and Budget), in the cost and 
+        availability of the retail banking services, including those 
+        described in subsections (a) and (b) (including related fees 
+        and minimum balances), that delineates differences between 
+        institutions on the basis of the type of institution and the 
+        size of the institution, between large and small institutions 
+        of the same type, and any engagement of the institution in 
+        multistate activity.
+            ``(3) Submission to congress.--The Board of Governors of 
+        the Federal Reserve System shall submit an annual report to the 
+        Congress not later than June 1, 2004, and not later than June 1 
+        of each subsequent year.
+            ``(4) Transition provision.--Notwithstanding section 
+        4(c)(3) of the Business Checking Freedom Act of 2002, the Board 
+        of Governors of the Federal Reserve System shall, on an interim 
+        basis, continue to comply with the requirements for the bank 
+        fee survey under the amendment made to this section by section 
+        108 of the Riegle-Neal Interstate Banking and Branching 
+        Efficiency Act of 1994 for reports submitted to the Congress 
+        under this section not later than June 1, 2003, except that the 
+        Board shall incorporate within any such report, to the extent 
+        possible, any additional information on any credit card fee or 
+        charge that is available to the Board even though such 
+        information is not required by such amendment.
+    ``(d) Definitions.--For purposes of this section, the term 
+``insured depository institution'' has the meaning given such term in 
+section 3 of the Federal Deposit Insurance Act, and the term ``insured 
+credit union'' has the meaning given such term in section 101 of the 
+Federal Credit Union Act.''.
+            (2) Amendment to the truth in lending act.--
+                    (A) In general.--Paragraph (1) of section 136(b) of 
+                the Truth in Lending Act (15 U.S.C. 1646(b)(1)) is 
+                amended to read as follows:
+            ``(1) Collection required.--The Board shall collect, on a 
+        semiannual basis, from a broad sample of financial institutions 
+        which offer credit card services, credit card price and 
+        availability information including--
+                    ``(A) the information required to be disclosed 
+                under section 127(c) of this chapter;
+                    ``(B) the average total amount of finance charges 
+                paid by consumers; and
+                    ``(C) the following credit card rates and fees:
+                            ``(i) Application fees.
+                            ``(ii) Annual percentage rates for cash 
+                        advances and balance transfers.
+                            ``(iii) Maximum annual percentage rate that 
+                        may be charged when an account is in default.
+                            ``(iv) Fees for the use of convenience 
+                        checks.
+                            ``(v) Fees for balance transfers.
+                            ``(vi) Fees for foreign currency 
+                        conversions.''.
+                    (B) Effective date.--The amendment made by 
+                subparagraph (A) shall take effect on January 1, 2003.
+            (3) Repeal of sunset provision.--Section 108 of the Riegle-
+        Neal Interstate Banking and Branching Efficiency Act of 1994 is 
+        hereby repealed.
+            (4) Nonapplicability of other provision of law.--Section 
+        3003(a)(1) of the Federal Reports Elimination and Sunset Act of 
+        1995 (31 U.S.C. 1113 note) shall not apply to any report 
+        required to be submitted under section 1002(b) of Financial 
+        Institutions Reform, Recovery, and Enforcement Act of 1989.
+    (d) Technical and Conforming Amendments.--Section 19 of the Federal 
+Reserve Act (12 U.S.C. 461) is amended--
+            (1) in subsection (b)(4) (12 U.S.C. 461(b)(4)), by striking 
+        subparagraph (C) and redesignating subparagraphs (D) and (E) as 
+        subparagraphs (C) and (D), respectively; and
+            (2) in subsection (c)(1)(A) (12 U.S.C. 461(c)(1)(A)), by 
+        striking ``subsection (b)(4)(C)'' and inserting ``subsection 
+        (b)''.
+
+SEC. 5. INCREASED FEDERAL RESERVE BOARD FLEXIBILITY IN SETTING RESERVE 
+              REQUIREMENTS.
+
+    Section 19(b)(2)(A) of the Federal Reserve Act (12 U.S.C. 
+461(b)(2)(A)) is amended--
+            (1) in clause (i), by striking ``the ratio of 3 per 
+        centum'' and inserting ``a ratio not greater than 3 percent 
+        (and which may be zero)''; and
+            (2) in clause (ii), by striking ``and not less than 8 per 
+        centum,'' and inserting ``(and which may be zero),''.
+
+SEC. 6. TRANSFER OF FEDERAL RESERVE SURPLUSES.
+
+    (a) In General.--Section 7(b) of the Federal Reserve Act (12 U.S.C. 
+289(b)) is amended by adding at the end the following new paragraph:
+            ``(4) Additional transfers to cover interest payments for 
+        fiscal years 2002 through 2006.--
+                    ``(A) In general.--In addition to the amounts 
+                required to be transferred from the surplus funds of 
+                the Federal reserve banks pursuant to subsection 
+                (a)(3), the Federal reserve banks shall transfer from 
+                such surplus funds to the Board of Governors of the 
+                Federal Reserve System for transfer to the Secretary of 
+                the Treasury for deposit in the general fund of the 
+                Treasury, such sums as are necessary to equal the net 
+                cost of section 19(b)(12) in each of the fiscal years 
+                2002 through 2006.
+                    ``(B) Allocation by federal reserve board.--Of the 
+                total amount required to be paid by the Federal reserve 
+                banks under subparagraph (A) for fiscal years 2002 
+                through 2006, the Board of Governors of the Federal 
+                Reserve System shall determine the amount each such 
+                bank shall pay in such fiscal year.
+                    ``(C) Replenishment of surplus fund prohibited.--
+                During fiscal years 2002 through 2006, no Federal 
+                reserve bank may replenish such bank's surplus fund by 
+                the amount of any transfer by such bank under 
+                subparagraph (A).''.
+    (b) Technical and Conforming Amendment.--Section 7(a) of the 
+Federal Reserve Act (12 U.S.C. 289(a)) is amended by adding at the end 
+the following new paragraph:
+            ``(3) Payment to treasury.--During fiscal years 2002 
+        through 2006, any amount in the surplus fund of any Federal 
+        reserve bank in excess of the amount equal to 3 percent of the 
+        paid-in capital and surplus of the member banks of such bank 
+        shall be transferred to the Secretary of the Treasury for 
+        deposit in the general fund of the Treasury.''.
+
+SEC. 7. RULE OF CONSTRUCTION.
+
+    In the case of an escrow account maintained at a depository 
+institution in connection with a real estate transaction--
+            (1) the absorption, by the depository institution, of 
+        expenses incidental to providing a normal banking service with 
+        respect to such escrow account;
+            (2) the forbearance, by the depository institution, from 
+        charging a fee for providing any such banking function; and
+            (3) any benefit which may accrue to the holder or the 
+        beneficiary of such escrow account as a result of an action of 
+        the depository institution described in subparagraph (1) or (2) 
+        or similar in nature to such action,
+shall not be treated as the payment or receipt of interest for purposes 
+of this Act and any provision of Public Law 93-100, the Federal Reserve 
+Act, the Home Owners' Loan Act, or the Federal Deposit Insurance Act 
+relating to the payment of interest on accounts or deposits at 
+depository institutions.
+
+            Passed the House of Representatives April 9, 2002.
+
+            Attest:
+
+                                                                 Clerk.
+

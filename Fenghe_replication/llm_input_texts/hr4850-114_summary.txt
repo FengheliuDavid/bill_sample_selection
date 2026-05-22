@@ -1,0 +1,7 @@
+Micro Offering Safe Harbor Act
+
+This bill amends the Securities Act of 1933 to exempt from specified prohibitions against the sale or delivery after sale of unregistered securities, among other things, transactions involving the sale of securities by an issuer of micro-offerings that meet all of the following criteria:
+
+ each purchaser has a substantive pre-existing relationship with either an officer or director of the issuer, or with a shareholder holding 10% or more of the issuer's shares; during the 12-month period preceding the transaction there are no more than 35 purchasers of such micro-offerings sold in reliance on this exemption; and the aggregate amount of all securities sold by the issuer (including any amount sold in reliance upon the exemption) during the 12-month period preceding the transaction does not exceed $500,000. The exemption provided under this bill is not available for a transaction involving a sale of securities if any of specified persons connected with their issuance would have triggered disqualification as a "bad actor" pursuant to regulations under the Act.
+
+The bill also exempts such micro-offerings from state regulation of securities offerings.

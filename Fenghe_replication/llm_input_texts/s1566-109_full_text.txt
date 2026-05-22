@@ -1,0 +1,498 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1566 Placed on Calendar Senate (PCS)]
+
+
+
+
+
+
+
+                                                       Calendar No. 191
+109th CONGRESS
+  1st Session
+                                S. 1566
+
+                          [Report No. 109-119]
+
+   To reauthorize the Commodity Exchange Act, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 29, 2005
+
+    Mr. Chambliss from the Committee on Agriculture, Nutrition, and 
+Forestry reported the following original bill; which was read twice and 
+                         placed on the calendar
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To reauthorize the Commodity Exchange Act, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Commodity Exchange Reauthorization 
+Act of 2005''.
+
+SEC. 2. CONTRACTS DESIGNED TO DEFRAUD OR MISLEAD.
+
+    Section 4b of the Commodity Exchange Act (7 U.S.C. 6b) is amended--
+            (1) by redesignating subsections (b) and (c) as subsections 
+        (c) and (d), respectively; and
+            (2) by striking ``Sec. 4b'' and all that follows through 
+        the end of subsection (a) and inserting the following:
+
+``SEC. 4B. CONTRACTS DESIGNED TO DEFRAUD OR MISLEAD.
+
+    ``(a) Unlawful Actions.--It shall be unlawful--
+            ``(1) for any person, in or in connection with any order to 
+        make, or the making of, any contract of sale of any commodity 
+        in interstate commerce or for future delivery that is made, or 
+        to be made, on or subject to the rules of a designated contract 
+        market, for or on behalf of any other person; or
+            ``(2) for any person, in or in connection with any order to 
+        make, or the making of, any contract of sale of any commodity 
+        for future delivery, or other agreement, contract, or 
+        transaction subject to paragraphs (1) and (2) of section 5a(g), 
+        that is made, or to be made, for or on behalf of, or with, any 
+        other person, other than on or subject to the rules of a 
+        designated contract market--
+                    ``(A) to cheat or defraud or attempt to cheat or 
+                defraud such other person;
+                    ``(B) willfully to make or cause to be made to such 
+                other person any false report or statement or willfully 
+                to enter or cause to be entered for such other person 
+                any false record;
+                    ``(C) willfully to deceive or attempt to deceive 
+                such other person by any means whatsoever in regard to 
+                any order or contract or the disposition or execution 
+                of any order or contract, or in regard to any act of 
+                agency performed, with respect to any order or contract 
+                for or, in the case of paragraph (2), with such other 
+                person; or
+                    ``(D)(i) to bucket an order if such order is either 
+                represented by such person as an order to be executed, 
+                or is required to be executed, on or subject to the 
+                rules of a designated contract market; or
+                    ``(ii) to fill an order by offset against the order 
+                or orders of any other person, or willfully and 
+                knowingly and without the prior consent of such other 
+                person to become the buyer in respect to any selling 
+                order of such other person, or become the seller in 
+                respect to any buying order of such other person, if 
+                such order is either represented by such person as an 
+                order to be executed, or is required to be executed, on 
+                or subject to the rules of a designated contract market 
+                unless such order is executed in accordance with the 
+                rules of the designated contract market.
+    ``(b) Clarification.--Subsection (a)(2) shall not obligate any 
+person, in or in connection with a transaction in a contract of sale of 
+a commodity for future delivery, or other agreement, contract or 
+transaction subject to paragraphs (1) and (2) of section 5a(g), with 
+another person, to disclose to such other person nonpublic information 
+that may be material to the market price, rate or level of such 
+commodity or transaction, except as necessary to make any statement 
+made to such other person in or in connection with such transaction, 
+not misleading in any material respect.''.
+
+SEC. 3. CRIMINAL AND CIVIL PENALTIES.
+
+    (a) Enforcement Powers of the Commission.--Section 6(c) of the 
+Commodity Exchange Act (7 U.S.C. 9, 15) is amended in paragraph (3) of 
+the 10th sentence--
+            (1) by inserting ``(A)'' after ``assess such person''; and
+            (2) by inserting after ``each such violation'' the 
+        following: ``, or (B) in any case of manipulation of, or 
+        attempt to manipulate, the price of any commodity, a civil 
+        penalty of not more than the greater of $1,000,000 or triple 
+        the monetary gain to such person for each such violation,''.
+    (b) Nonenforcement of Rules of Government or Other Violations.--
+Section 6b of the Commodity Exchange Act (7 U.S.C. 13a) is amended--
+            (1) in the 1st sentence, by inserting before the period at 
+        the end the following: ``, or, in any case of manipulation of, 
+        or an attempt to manipulate, the price of any commodity, a 
+        civil penalty of not more than $1,000,000 for each such 
+        violation''; and
+            (2) in the 2nd sentence, by inserting before the period at 
+        the end the following: ``, except that if the failure or 
+        refusal to obey or comply with the order involved any offense 
+        under section 9(a)(2), the registered entity, director, 
+        officer, agent, or employee shall be guilty of a felony and, on 
+        conviction, shall be subject to penalties under section 
+        9(a)(2)''.
+    (c) Action to Enjoin or Restrain Violations.--Section 6c(d) of the 
+Commodity Exchange Act (7 U.S.C. 13a-1(d)) is amended by striking 
+``(d)'' and all that follows through the end of the paragraph (1) and 
+inserting the following:
+    ``(d) Civil Penalties.--
+            ``(1) In general.--In any action brought under this 
+        section, the Commission may seek and the court shall have 
+        jurisdiction to impose, on a proper showing, on any person 
+        found in the action to have committed any violation--
+                    ``(A) a civil penalty in the amount of not more 
+                than the greater of $100,000 or triple the monetary 
+                gain to the person for each violation; or
+                    ``(B) in any case of manipulation of, or an attempt 
+                to manipulate, the price of any commodity, a civil 
+                penalty in the amount of not more than the greater of 
+                $1,000,000 or triple the monetary gain to the person 
+                for each violation.''.
+    (d) Violations Generally.--
+            (1) In general.--Section 9 of the Commodity Exchange Act (7 
+        U.S.C. 13) is amended--
+                    (A) in subsection (a), in the matter preceding 
+                paragraph (1)--
+                            (i) by striking ``(or $500,000 in the case 
+                        of a person who is an individual)''; and
+                            (ii) by striking ``five years'' and 
+                        inserting ``10 years'';
+                    (B) by redesignating subsection (f) as subsection 
+                (e);
+                    (C) in paragraph (1) of subsection (e) (as 
+                redesignated by subparagraph (B)), by striking the 
+                period at the end and inserting ``; or''; and
+                    (D) by adding at the end the following:
+    ``(f) Commission Administrative and Civil Authority.--The 
+Commission may bring an administrative or civil action under this Act 
+for an alleged violation of any provision of this section.''.
+            (2) Effect of clarification.--The amendment made by 
+        paragraph (1)(D) restates, without substantive change, 
+        Commission civil enforcement authority in effect on the date of 
+        enactment of this Act, which continues to apply to any action 
+        pending on or commenced after the date of enactment of this Act 
+        for any alleged violation occurring before, on, or after, that 
+        date.
+
+SEC. 4. CLARIFICATION OF AUTHORITY.
+
+    Section 2(c)(2) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)) is 
+amended by striking subparagraphs (B) and (C) and inserting the 
+following:
+                    ``(B) Agreements, contracts, and transactions in 
+                retail foreign currency.--
+                            ``(i) In general.--This Act applies to, and 
+                        the Commission shall have jurisdiction over, 
+                        any agreement, contract, or transaction in 
+                        foreign currency (including agreements, 
+                        contracts, or transactions described in 
+                        subsection (a)(1)(A)), and any person who 
+                        engages in any activity in connection with any 
+                        agreement, contract, or transaction in foreign 
+                        currency, that is--
+                                    ``(I) offered to, or entered into 
+                                with, a person that is not an eligible 
+                                contract participant;
+                                    ``(II) offered, or entered into, on 
+                                a leveraged, margined, or financed on a 
+                                similar basis; and
+                                    ``(III) offered, or entered into, 
+                                for purposes other than commercial or 
+                                personal use of such foreign currency, 
+                                except that personal use shall include 
+                                only those agreements, contracts, or 
+                                transactions in which a person takes 
+                                immediate ownership and possession of 
+                                foreign currency.
+                            ``(ii) Exclusions.--Subparagraph (B)(i) 
+                        shall not apply if the counterparty, or the 
+                        person offering to be the counterparty, of the 
+                        person that is not an eligible contract 
+                        participant is--
+                                    ``(I) a financial institution;
+                                    ``(II) a broker or dealer 
+                                registered under section 15(b) of the 
+                                Securities Exchange Act of 1934 (15 
+                                U.S.C. 78o(b)) (except notice 
+                                registration under paragraph (11)(A) of 
+                                that section) or under section 15C of 
+                                that Act (15 U.S.C. 78o-5), provided 
+                                that each person who participates in 
+                                the solicitation or recommendation of 
+                                the agreement, contract, or transaction 
+                                is--
+                                            ``(aa) registered under 
+                                        section 15(b) or 15C of that 
+                                        Act (15 U.S.C. 78o(b), 78o-5);
+                                            ``(bb) an individual 
+                                        registered with a securities 
+                                        association registered under 
+                                        section 15A(a) of that Act (15 
+                                        U.S.C. 78o-3(a)); and
+                                            ``(cc) a member or 
+                                        associate of a securities 
+                                        association registered under 
+                                        section 15A(a) of that Act (15 
+                                        U.S.C. 78o-3(a));
+                                    ``(III) a person that is registered 
+                                as a futures commission merchant under 
+                                this Act, provided that each person who 
+                                participates in the solicitation or 
+                                recommendation of the agreement, 
+                                contract, or transaction is--
+                                            ``(aa) registered under 
+                                        section 4d, 4k, or 4m; and
+                                            ``(bb) a member or 
+                                        associate of a futures 
+                                        association registered under 
+                                        section 17;
+                                    ``(IV) an insurance company 
+                                described in section 1a(12)(A)(ii), or 
+                                a regulated subsidiary or affiliate of 
+                                such an insurance company;
+                                    ``(V) a financial holding company 
+                                (as defined in section 2 of the Bank 
+                                Holding Company Act of 1956 (12 U.S.C. 
+                                1841)); or
+                                    ``(VI) an investment bank holding 
+                                company (as defined in section 17(i) of 
+                                the Securities Exchange Act of 1934 (15 
+                                U.S.C. 78q)).
+                    ``(C) Notwithstanding subclause (III) of 
+                subparagraph (B)(ii), agreements, contracts, or 
+                transactions described in subparagraph (B), and persons 
+                who engage in any activity in connection with 
+                agreements, contracts, or transactions described in 
+                subparagraph (B), shall be subject to subsection 
+                (a)(1)(B) and sections 4(b), 4b, 4c(b), 4o, 6(c) and 
+                6(d) (except to the extent that sections 6(c) and 6(d) 
+                prohibit manipulation of the market price of any 
+                commodity in interstate commerce, or for future 
+                delivery on or subject to the rules of any market), 6c, 
+                6d, 8(a), 13(a), and 13(b) if the agreements, 
+                contracts, or transactions are offered, or entered 
+                into, by a person that is registered as a futures 
+                commission merchant under this Act.
+                    ``(D) Sections 4(b) and 4b shall apply to any 
+                agreement, contract, or transaction in foreign currency 
+                described in subparagraphs (B) and (C) as though the 
+                agreement, contract, or transaction were a contract of 
+                sale of a commodity for future delivery.''.
+
+SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 12(d) of the Commodity Exchange Act (7 U.S.C. 16(d)) is 
+amended by striking ``2005'' and inserting ``2010''.
+
+SEC. 6. LIAISON WITH DEPARTMENT OF JUSTICE.
+
+    Section 2(a)(9) of the Commodity Exchange Act (7 U.S.C. 2(a)(9)) is 
+amended by adding at the end the following:
+                    ``(C) Liaison with department of justice.--
+                            ``(i) In general.--The Commission shall, in 
+                        cooperation with the Attorney General, maintain 
+                        a liaison between the Commission and the 
+                        Department of Justice to coordinate civil and 
+                        criminal investigations and prosecutions of 
+                        violations of this Act as appropriate.
+                            ``(ii) Designation.--The Attorney General 
+                        shall designate a person as liaison and take 
+                        such steps as are necessary to facilitate 
+                        communications described in clause (i).''.
+
+SEC. 7. SINGLE STOCK FUTURES MARGINING PILOT PROGRAM.
+
+    Section 2(a)(1) of the Commodity Exchange Act (7 U.S.C. 2(a)(1)) is 
+amended--
+            (1) in subparagraph (C)(v)--
+                    (A) in subclause (I)--
+                            (i) by striking ``other than'' both places 
+                        it appears and inserting ``or''; and
+                            (ii) by striking ``contract or option'' and 
+                        inserting ``contract, option, or security 
+                        futures product'';
+                    (B) in the first sentence of subclause (II), by 
+                striking ``other than'' and inserting ``or''; and
+                    (C) in subclause (III), by striking ``other than'' 
+                and inserting ``or''; and
+            (2) in subparagraph (D)(i)--
+                    (A) by striking ``(XI) The margin requirements'' 
+                and inserting the following:
+                                    ``(XI) Margin requirements.--
+                                            ``(aa) In general.--The 
+                                        margin requirement;''; and
+                    (B) by adding at the end the following:
+                                            ``(bb) Pilot program for 
+                                        margining security futures 
+                                        products.--Notwithstanding any 
+                                        other provision of law, for a 
+                                        period of 2 years beginning on 
+                                        the date of enactment of this 
+                                        item, an entity that is 
+                                        designated or registered as a 
+                                        contract market or derivatives 
+                                        transaction execution facility 
+                                        under section 5 and that is 
+                                        also notice-registered as a 
+                                        national securities exchange 
+                                        under section 6(g) of the 
+                                        Securities Exchange Act of 1934 
+                                        (15 U.S.C. 78f(g)), and its 
+                                        clearing organization, a 
+                                        futures commission merchant 
+                                        registered under this Act, and 
+                                        a broker or dealer registered 
+                                        under section 15(b) of that Act 
+                                        (15 U.S.C. 78o(b)), shall not 
+                                        be required to comply with item 
+                                        (aa) or subparagraph 
+                                        (C)(v)(IV).
+                                            ``(cc) Acting in 
+                                        reliance.--Any entity acting in 
+                                        reliance upon item (bb) shall 
+                                        not be required to comply with 
+                                        regulations promulgated under 
+                                        section 7(c)(2)(B) of the 
+                                        Securities Exchange Act of 1934 
+                                        (15 U.S.C. 78g(c)(2)(B)), or 
+                                        with the rules of a self-
+                                        regulatory organization (as 
+                                        defined in section 3(a)(26) of 
+                                        that Act (15 U.S.C. 
+                                        78c(a)(26)), pertaining to 
+                                        levels of initial and 
+                                        maintenance margin, or with any 
+                                        regulation that operates to 
+                                        preclude the implementation of 
+                                        risk-based portfolio margining 
+                                        systems.
+                                            ``(dd) Promulgation of 
+                                        final rules.--Subject to item 
+                                        (ee), an entity designated or 
+                                        registered as a contract market 
+                                        or derivatives transaction 
+                                        execution facility under 
+                                        section 5 and that is notice-
+                                        registered as a national 
+                                        securities exchange under 
+                                        section 6(g) of the Securities 
+                                        Exchange Act of 1934 (15 U.S.C. 
+                                        78f(g)) and its clearing 
+                                        organization shall be permitted 
+                                        to promulgate final rules to--
+
+                                                    ``(AA) set margin 
+                                                requirements for 
+                                                security futures 
+                                                products, held in any 
+                                                account, in accordance 
+                                                with subparagraph 
+                                                (C)(v)(I); and
+
+                                                    ``(BB) permit 
+                                                futures commission 
+                                                merchants registered 
+                                                under this Act, and 
+                                                brokers and dealers 
+                                                registered under 
+                                                section 15(b) of the 
+                                                Securities Exchange Act 
+                                                of 1934 (15 U.S.C. 
+                                                78o(b)), to collect 
+                                                initial and maintenance 
+                                                margin for security 
+                                                futures products, held 
+                                                in any account, in 
+                                                accordance with the 
+                                                rules.
+
+                                            ``(ee) Effective date and 
+                                        reviewability of final rules.--
+                                        Final rules promulgated by any 
+                                        entity under item (dd) shall 
+                                        become effective in accordance 
+                                        with section 5c(c), and, 
+                                        notwithstanding any other 
+                                        provision of law, shall not be 
+                                        subject to any other approval 
+                                        or review requirements.
+                                            ``(ff) Report.--Not later 
+                                        than 2 years after the date of 
+                                        enactment of this item, the 
+                                        Board of Governors of the 
+                                        Federal Reserve System, after 
+                                        consultation with the 
+                                        Commission and the Securities 
+                                        and Exchange Commission, shall 
+                                        submit to the Committee on 
+                                        Agriculture of the House of 
+                                        Representatives and the 
+                                        Committee on Agriculture, 
+                                        Nutrition, and Forestry of the 
+                                        Senate a report describing the 
+                                        results of the pilot program 
+                                        for margining security futures 
+                                        products.
+                                            ``(gg) Continuation of 
+                                        pilot program.--The pilot 
+                                        program for margining security 
+                                        futures products shall continue 
+                                        to apply unless the report 
+                                        under item (ff) concludes that 
+                                        the pilot program has resulted 
+                                        in undue risks to the financial 
+                                        integrity of the relevant 
+                                        contract markets or derivatives 
+                                        transaction execution 
+                                        facilities, or to their 
+                                        respective clearing systems, or 
+                                        has resulted in systemic risk 
+                                        to financial markets or undue 
+                                        risk to customers.''.
+
+SEC. 8. BROAD-BASED INDEX DEFINITIONS.
+
+    (a) In General.--Not later than 180 days after the date of 
+enactment of this Act, the Commodity Futures Trading Commission and the 
+Securities and Exchange Commission shall exercise the authority 
+described in section 1a(25)(B)(vi) of the Commodity Exchange Act (7 
+U.S.C. 1a(25)(B)(vi)) and section 3(a)(55)(C)(vi) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78c(a)(55)(C)(vi)) jointly to 
+promulgate a final rule, regulation, or order to exclude from the 
+definition of the term ``narrow-based security index'' indexes based 
+on--
+            (1) United States debt instruments;
+            (2) other United States securities;
+            (3) foreign equities; and
+            (4) foreign debt instruments.
+    (b) Requirements.--The final rule, regulation, or order established 
+under subsection (a) shall--
+            (1) be consistent with the capitalization, trading 
+        patterns, and trade reporting conditions in the market for 
+        securities described in subsection (a); and
+            (2) exclude from the definition of the term ``narrow-based 
+        security index'' indexes that include a representative sample 
+        of a class of securities in the relevant market if the index is 
+        not readily susceptible to manipulation.
+                                                       Calendar No. 191
+
+109th CONGRESS
+
+  1st Session
+
+                                S. 1566
+
+                          [Report No. 109-119]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+   To reauthorize the Commodity Exchange Act, and for other purposes.
+
+_______________________________________________________________________
+
+                             July 29, 2005
+
+                  Read twice and placed on the calendar
+

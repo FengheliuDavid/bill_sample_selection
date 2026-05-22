@@ -1,0 +1,372 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[S. 183 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                 S. 183
+
+To address Securities and Exchange Commission authority to impose civil 
+    money penalties in administrative proceedings for violations of 
+                securities laws, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            January 16, 2003
+
+  Mr. Levin (for himself, Mr. Nelson of Florida, Mr. Corzine, and Mr. 
+Biden) introduced the following bill; which was read twice and referred 
+        to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To address Securities and Exchange Commission authority to impose civil 
+    money penalties in administrative proceedings for violations of 
+                securities laws, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``SEC Civil Enforcement Act''.
+
+SEC. 2. SECURITIES CIVIL ENFORCEMENT PROVISIONS.
+
+    (a) Authority To Assess Civil Money Penalties.--
+            (1) Securities act of 1933.--Section 8A of the Securities 
+        Act of 1933 (15 U.S.C. 77h-1) is amended by adding at the end 
+        the following new subsection:
+    ``(g) Authority of the Commission To Assess Money Penalty.--
+            ``(1) In general.--In any cease-and-desist proceeding under 
+        subsection (a), the Commission may impose a civil monetary 
+        penalty if it finds, on the record after notice and opportunity 
+        for hearing, that a person is violating, has violated, or is or 
+        was a cause of the violation of, any provision of this title or 
+        any rule or regulation thereunder, and that such penalty is in 
+        the public interest.
+            ``(2) Maximum amount of penalty.--
+                    ``(A) First tier.--The maximum amount of penalty 
+                for each act or omission described in paragraph (1) 
+                shall be $100,000 for a natural person or $250,000 for 
+                any other person.
+                    ``(B) Second tier.--Notwithstanding subparagraph 
+                (A), the maximum amount of penalty for such act or 
+                omission described in paragraph (1) shall be $500,000 
+                for a natural person or $1,000,000 for any other 
+                person, if the act or omission involved fraud, deceit, 
+                manipulation, or deliberate or reckless disregard of a 
+                statutory or regulatory requirement.
+                    ``(C) Third tier.--Notwithstanding subparagraphs 
+                (A) and (B), the maximum amount of penalty for each act 
+                or omission described in paragraph (1) shall be 
+                $1,000,000 for a natural person or $2,000,000 for any 
+                other person, if--
+                            ``(i) the act or omission involved fraud, 
+                        deceit, manipulation, or deliberate or reckless 
+                        disregard of a statutory or regulatory 
+                        requirement; and
+                            ``(ii) such act or omission directly or 
+                        indirectly resulted in substantial losses or 
+                        created a significant risk of substantial 
+                        losses to other persons or resulted in 
+                        substantial pecuniary gain to the person who 
+                        committed the act or omission.
+            ``(3) Evidence concerning ability to pay.--In any 
+        proceeding in which the Commission or the appropriate 
+        regulatory agency may impose a penalty under this section, a 
+        respondent may present evidence of the ability of the 
+        respondent to pay such penalty. The Commission or the 
+        appropriate regulatory agency may, in its discretion, consider 
+        such evidence in determining whether the penalty is in the 
+        public interest. Such evidence may relate to the extent of the 
+        person's ability to continue in business and the collectability 
+        of a penalty, taking into account any other claims of the 
+        United States or third parties upon the assets of that person 
+        and the amount of the assets of that person.''.
+            (2) Securities exchange act of 1934.--Section 21B(a) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78u-2(a)) is 
+        amended--
+                    (A) in paragraph (4), by striking ``supervision;'' 
+                and all that follows through the end of the subsection 
+                and inserting ``supervision.'';
+                    (B) by redesignating paragraphs (1) through (4) as 
+                subparagraphs (A) through (D), respectively, and moving 
+                the margins 2 ems to the right;
+                    (C) by inserting ``that such penalty is in the 
+                public interest and'' after ``hearing,'';
+                    (D) by striking ``In any proceeding'' and inserting 
+                the following:
+            ``(1) In general.--In any proceeding''; and
+                    (E) by adding at the end the following:
+            ``(2) Other money penalties.--In any proceeding under 
+        section 21C against any person, the Commission may impose a 
+        civil monetary penalty if it finds, on the record after notice 
+        and opportunity for hearing, that such person is violating, has 
+        violated, or is or was a cause of the violation of, any 
+        provision of this title or any rule or regulation thereunder, 
+        and that such penalty is in the public interest.''.
+            (3) Investment company act of 1940.--Section 9(d)(1) of the 
+        Investment Company Act of 1940 (15 U.S.C. 80a-9(d)(1)) is 
+        amended--
+                    (A) in subparagraph (C), by striking ``therein;'' 
+                and all that follows through the end of the paragraph 
+                and inserting ``supervision.'';
+                    (B) by redesignating subparagraphs (A) through (C) 
+                as clauses (i) through (iii), respectively, and moving 
+                the margins 2 ems to the right;
+                    (C) by inserting ``that such penalty is in the 
+                public interest and'' after ``hearing,'';
+                    (D) by striking ``In any proceeding'' and inserting 
+                the following:
+            ``(A) In general.--In any proceeding''; and
+                    (E) by adding at the end the following:
+                    ``(B) Other money penalties.--In any proceeding 
+                under subsection (f) against any person, the Commission 
+                may impose a civil monetary penalty if it finds, on the 
+record after notice and opportunity for hearing, that such person is 
+violating, has violated, or is or was a cause of the violation of, any 
+provision of this title or any rule or regulation thereunder, and that 
+such penalty is in the public interest.''.
+            (4) Investment advisers act of 1940.--Section 203(i)(1) of 
+        the Investment Advisers Act of 1940 (15 U.S.C. 80b-3(i)(1)) is 
+        amended--
+                    (A) in subparagraph (D), by striking 
+                ``supervision;'' and all that follows through the end 
+                of the paragraph and inserting ``supervision.'';
+                    (B) by redesignating subparagraphs (A) through (D) 
+                as clauses (i) through (iv), respectively, and moving 
+                the margins 2 ems to the right;
+                    (C) by inserting ``that such penalty is in the 
+                public interest and'' after ``hearing,'';
+                    (D) by striking ``In any proceeding'' and inserting 
+                the following:
+            ``(A) In general.--In any proceeding''; and
+                    (E) by adding at the end the following:
+                    ``(B) Other money penalties.--In any proceeding 
+                under subsection (k) against any person, the Commission 
+                may impose a civil monetary penalty if it finds, on the 
+                record after notice and opportunity for hearing, that 
+                such person is violating, has violated, or is or was a 
+                cause of the violation of, any provision of this title 
+                or any rule or regulation thereunder, and that such 
+                penalty is in the public interest.''.
+    (b) Increased Maximum Civil Money Penalties.--
+            (1) Securities act of 1933.--Section 20(d)(2) of the 
+        Securities Act of 1933 (15 U.S.C. 77t(d)(2)) is amended--
+                    (A) in subparagraph (A)(i)--
+                            (i) by striking ``$5,000'' and inserting 
+                        ``$100,000''; and
+                            (ii) by striking ``$50,000'' and inserting 
+                        ``$250,000'';
+                    (B) in subparagraph (B)(i)--
+                            (i) by striking ``$50,000'' and inserting 
+                        ``$500,000''; and
+                            (ii) by striking ``$250,000'' and inserting 
+                        ``$1,000,000''; and
+                    (C) in subparagraph (C)(i)--
+                            (i) by striking ``$100,000'' and inserting 
+                        ``$1,000,000''; and
+                            (ii) by striking ``$500,000'' and inserting 
+                        ``$2,000,000''.
+            (2) Securities exchange act of 1934.--
+                    (A) Penalties.--Section 32 of the Securities 
+                Exchange Act of 1934 (15 U.S.C. 78ff) is amended--
+                            (i) in subsection (b), by striking ``$100'' 
+                        and inserting ``$10,000''; and
+                            (ii) in subsection (c)--
+                                    (I) in paragraph (1)(B), by 
+                                striking ``$10,000'' and inserting 
+                                ``$500,000''; and
+                                    (II) in paragraph (2)(B), by 
+                                striking ``$10,000'' and inserting 
+                                ``$500,000''.
+                    (B) Insider trading.--Section 21A(a)(3) of the 
+                Securities Exchange Act of 1934 (15 U.S.C. 78u-1(a)(3)) 
+                is amended by striking ``$1,000,000'' and inserting 
+                ``$2,000,000''.
+                    (C) Administrative proceedings.--Section 21B(b) of 
+                the Securities Exchange Act of 1934 (15 U.S.C. 78u-
+                2(b)) is amended--
+                            (i) in paragraph (1)--
+                                    (I) by striking ``$5,000'' and 
+                                inserting ``$100,000''; and
+                                    (II) by striking ``$50,000'' and 
+                                inserting ``$250,000'';
+                            (ii) in paragraph (2)--
+                                    (I) by striking ``$50,000'' and 
+                                inserting ``$500,000''; and
+                                    (II) by striking ``$250,000'' and 
+                                inserting ``$1,000,000''; and
+                            (iii) in paragraph (3)--
+                                    (I) by striking ``$100,000'' and 
+                                inserting ``$1,000,000''; and
+                                    (II) by striking ``$500,000'' and 
+                                inserting ``$2,000,000''.
+                    (D) Civil actions.--Section 21(d)(3)(B) of the 
+                Securities Exchange Act of 1934 (15 U.S.C. 
+                78u(d)(3)(B)) is amended--
+                            (i) in clause (i)--
+                                    (I) by striking ``$5,000'' and 
+                                inserting ``$100,000''; and
+                                    (II) by striking ``$50,000'' and 
+                                inserting ``$250,000'';
+                            (ii) in clause (ii)--
+                                    (I) by striking ``$50,000'' and 
+                                inserting ``$500,000''; and
+                                    (II) by striking ``$250,000'' and 
+                                inserting ``$1,000,000''; and
+                            (iii) in clause (iii)--
+                                    (I) by striking ``$100,000'' and 
+                                inserting ``$1,000,000''; and
+                                    (II) by striking ``$500,000'' and 
+                                inserting ``$2,000,000''.
+            (3) Investment company act of 1940.--
+                    (A) Ineligibility.--Section 9(d)(2) of the 
+                Investment Company Act of 1940 (15 U.S.C. 80a-9(d)(2)) 
+                is amended--
+                            (i) in subparagraph (A)--
+                                    (I) by striking ``$5,000'' and 
+                                inserting ``$100,000''; and
+                                    (II) by striking ``$50,000'' and 
+                                inserting ``$250,000'';
+                            (ii) in subparagraph (B)--
+                                    (I) by striking ``$50,000'' and 
+                                inserting ``$500,000''; and
+                                    (II) by striking ``$250,000'' and 
+                                inserting ``$1,000,000''; and
+                            (iii) in subparagraph (C)--
+                                    (I) by striking ``$100,000'' and 
+                                inserting ``$1,000,000''; and
+                                    (II) by striking ``$500,000'' and 
+                                inserting ``$2,000,000''.
+                    (B) Enforcement of investment company act.--Section 
+                42(e)(2) of the Investment Company Act of 1940 (15 
+                U.S.C. 80a-41(e)(2)) is amended--
+                            (i) in subparagraph (A)--
+                                    (I) by striking ``$5,000'' and 
+                                inserting ``$100,000''; and
+                                    (II) by striking ``$50,000'' and 
+                                inserting ``$250,000'';
+                            (ii) in subparagraph (B)--
+                                    (I) by striking ``$50,000'' and 
+                                inserting ``$500,000''; and
+                                    (II) by striking ``$250,000'' and 
+                                inserting ``$1,000,000''; and
+                            (iii) in subparagraph (C)--
+                                    (I) by striking ``$100,000'' and 
+                                inserting ``$1,000,000''; and
+                                    (II) by striking ``$500,000'' and 
+                                inserting ``$2,000,000''.
+            (4) Investment advisers act of 1940.--
+                    (A) Registration.--Section 203(i)(2) of the 
+                Investment advisers Act of 1940 (15 U.S.C. 80b-3(i)(2)) 
+                is amended--
+                            (i) in subparagraph (A)--
+                                    (I) by striking ``$5,000'' and 
+                                inserting ``$100,000''; and
+                                    (II) by striking ``$50,000'' and 
+                                inserting ``$250,000'';
+                            (ii) in subparagraph (B)--
+                                    (I) by striking ``$50,000'' and 
+                                inserting ``$500,000''; and
+                                    (II) by striking ``$250,000'' and 
+                                inserting ``$1,000,000''; and
+                            (iii) in subparagraph (C)--
+                                    (I) by striking ``$100,000'' and 
+                                inserting ``$1,000,000''; and
+                                    (II) by striking ``$500,000'' and 
+                                inserting ``$2,000,000''.
+                    (B) Enforcement of investment advisers act.--
+                Section 209(e)(2) of the Investment advisers Act of 
+                1940 (15 U.S.C. 80b-9(e)(2)) is amended--
+                            (i) in subparagraph (A)--
+                                    (I) by striking ``$5,000'' and 
+                                inserting ``$100,000''; and
+                                    (II) by striking ``$50,000'' and 
+                                inserting ``$250,000'';
+                            (ii) in subparagraph (B)--
+                                    (I) by striking ``$50,000'' and 
+                                inserting ``$500,000''; and
+                                    (II) by striking ``$250,000'' and 
+                                inserting ``$1,000,000''; and
+                            (iii) in subparagraph (C)--
+                                    (I) by striking ``$100,000'' and 
+                                inserting ``$1,000,000''; and
+                                    (II) by striking ``$500,000'' and 
+                                inserting ``$2,000,000''.
+    (c) Authority To Obtain Financial Records.--Section 21(h) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78u(h)) is amended--
+            (1) by striking paragraphs (2) through (8);
+            (2) in paragraph (9), by striking ``(9)(A)'' and all that 
+        follows through ``(B) The'' and inserting ``(3) The'';
+            (3) by inserting after paragraph (1), the following:
+            ``(2) Access to financial records.--
+                    ``(A) In general.--Notwithstanding section 1105 or 
+                1107 of the Right to Financial Privacy Act of 1978, the 
+                Commission may obtain access to and copies of, or the 
+                information contained in, financial records of any 
+                person held by a financial institution, including the 
+                financial records of a customer, without notice to that 
+                person, when it acts pursuant to a subpoena authorized 
+                by a formal order of investigation of the Commission 
+                and issued under the securities laws or pursuant to an 
+                administrative or judicial subpoena issued in a 
+                proceeding or action to enforce the securities laws.
+                    ``(B) Nondisclosure of requests.--If the Commission 
+                so directs in its subpoena, no financial institution, 
+                or officer, director, partner, employee, shareholder, 
+                representative or agent of such financial institution, 
+                shall, directly or indirectly, disclose that records 
+                have been requested or provided in accordance with 
+                subparagraph (A), if the Commission finds reason to 
+                believe that such disclosure may--
+                            ``(i) result in the transfer of assets or 
+                        records outside the territorial limits of the 
+                        United States;
+                            ``(ii) result in improper conversion of 
+                        investor assets;
+                            ``(iii) impede the ability of the 
+                        Commission to identify, trace, or freeze funds 
+                        involved in any securities transaction;
+                            ``(iv) endanger the life or physical safety 
+                        of an individual;
+                            ``(v) result in flight from prosecution;
+                            ``(vi) result in destruction of or 
+                        tampering with evidence;
+                            ``(vii) result in intimidation of potential 
+                        witnesses; or
+                            ``(viii) otherwise seriously jeopardize an 
+                        investigation or unduly delay a trial.
+                    ``(C) Transfer of records to government 
+                authorities.--The Commission may transfer financial 
+                records or the information contained therein to any 
+                government authority, if the Commission proceeds as a 
+                transferring agency in accordance with section 1112 of 
+                the Right to Financial Privacy Act of 1978 (12 U.S.C. 
+                3412), except that a customer notice shall not be 
+                required under subsection (b) or (c) of that section 
+                1112, if the Commission determines that there is reason 
+                to believe that such notification may result in or lead 
+                to any of the factors identified under clauses (i) 
+                through (viii) of subparagraph (B) of this 
+                paragraph.'';
+            (4) by striking paragraph (10); and
+            (5) by redesignating paragraphs (11), (12), and (13) as 
+        paragraphs (4), (5), and (6), respectively.
+                                 <all>
+

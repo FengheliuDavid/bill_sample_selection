@@ -1,0 +1,909 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[S. 386 Engrossed in Senate (ES)]
+
+111th CONGRESS
+  1st Session
+                                 S. 386
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To improve enforcement of mortgage fraud, securities fraud, financial 
+ institution fraud, and other frauds related to federal assistance and 
+ relief programs, for the recovery of funds lost to these frauds, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+          TITLE I--FRAUD ENFORCEMENT AND RECOVERY ACT OF 2009
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Fraud Enforcement and Recovery Act 
+of 2009'' or ``FERA''.
+
+SEC. 2. AMENDMENTS TO IMPROVE MORTGAGE, SECURITIES, AND FINANCIAL FRAUD 
+              RECOVERY AND ENFORCEMENT.
+
+    (a) Definition of Financial Institution Amended To Include Mortgage 
+Lending Business.--Section 20 of title 18, United States Code, is 
+amended--
+            (1) in paragraph (8), by striking ``or'' after the 
+        semicolon;
+            (2) in paragraph (9), by striking the period and inserting 
+        ``; or''; and
+            (3) by inserting at the end the following:
+            ``(10) a mortgage lending business (as defined in section 
+        27 of this title) or any person or entity that makes in whole 
+        or in part a federally related mortgage loan as defined in 12 
+        U.S.C. 2602(1).''.
+    (b) Mortgage Lending Business Defined.--
+            (1) In general.--Chapter 1 of title 18, United States Code, 
+        is amended by inserting after section 26 the following:
+``Sec. 27. Mortgage lending business defined
+    ``In this title, the term `mortgage lending business' means an 
+organization which finances or refinances any debt secured by an 
+interest in real estate, including private mortgage companies and any 
+subsidiaries of such organizations, and whose activities affect 
+interstate or foreign commerce.''.
+            (2) Chapter analysis.--The chapter analysis for chapter 1 
+        of title 18, United States Code, is amended by adding at the 
+        end the following:
+
+``27. Mortgage lending business defined.''.
+    (c) False Statements in Mortgage Applications Amended To Include 
+False Statements by Mortgage Brokers and Agents of Mortgage Lending 
+Businesses.--Section 1014 of title 18, United States Code, is amended 
+by--
+            (1) striking ``or'' after ``the International Banking Act 
+        of 1978),''; and
+            (2) inserting after ``section 25(a) of the Federal Reserve 
+        Act'' the following: ``or a mortgage lending business whose 
+        activities affect interstate or foreign commerce, or any person 
+        or entity that makes in whole or in part a federally related 
+        mortgage loan as defined in 12 U.S.C. 2602(1)''.
+    (d) Major Fraud Against the Government Amended To Include Economic 
+Relief and Troubled Asset Relief Program Funds.--Section 1031(a) of 
+title 18, United States Code, is amended by--
+            (1) inserting after ``or promises, in'' the following: 
+        ``any grant, contract, subcontract, subsidy, loan, guarantee, 
+        insurance or other form of Federal assistance, including 
+        through the Troubled Assets Relief Program, an economic 
+        stimulus, recovery or rescue plan provided by the Government, 
+        or the Government's purchase of any troubled asset as defined 
+        in the Emergency Economic Stabilization Act of 2008, or in'';
+            (2) striking ``the contract, subcontract'' and inserting 
+        ``such grant, contract, subcontract, subsidy, loan, guarantee, 
+        insurance or other form of Federal assistance,''; and
+            (3) striking ``for such property or services''.
+    (e) Securities Fraud Amended To Include Fraud Involving Options and 
+Futures in Commodities.--
+            (1) In general.--Section 1348 of title 18, United States 
+        Code, is amended--
+                    (A) in the caption, by inserting ``and 
+                commodities'' after ``Securities'';
+                    (B) by inserting ``any commodity for future 
+                delivery, or any option on a commodity for future 
+                delivery, or'' after ``any person in connection with''; 
+                and
+                    (C) by inserting ``any commodity for future 
+                delivery, or any option on a commodity for future 
+                delivery, or'' after ``in connection with the purchase 
+                or sale of''.
+            (2) Chapter analysis.--The item for section 1348 in the 
+        chapter analysis for chapter 63 of title 18, United States 
+        Code, is amended by inserting ``and commodities'' after 
+        ``Securities''.
+    (f) Money Laundering Amended To Define Proceeds of Specified 
+Unlawful Activity.--
+            (1) Money laundering.--Section 1956(c) of title 18, United 
+        States Code, is amended--
+                    (A) in paragraph (8), by striking the period and 
+                inserting ``; and''; and
+                    (B) by inserting at the end the following:
+            ``(9) the term `proceeds' means any property derived from 
+        or obtained or retained, directly or indirectly, through some 
+        form of unlawful activity, including the gross receipts of such 
+        activity.''.
+            (2) Monetary transactions.--Section 1957(f) of title 18, 
+        United States Code, is amended by striking paragraph (3) and 
+        inserting the following:
+            ``(3) the terms `specified unlawful activity' and 
+        `proceeds' shall have the meaning given those terms in section 
+        1956 of this title.''.
+    (g) Making the International Money Laundering Statute Apply to Tax 
+Evasion.--Section 1956(a)(2)(A) of title 18, United States Code, is 
+amended by--
+            (1) inserting ``(i)'' before ``with the intent to 
+        promote''; and
+            (2) adding at the end the following:
+                            ``(ii) with the intent to engage in conduct 
+                        constituting a violation of section 7201 or 
+                        7206 of the Internal Revenue Code of 1986; 
+                        or''.
+
+SEC. 3. ADDITIONAL FUNDING FOR INVESTIGATORS AND PROSECUTORS FOR 
+              MORTGAGE FRAUD, SECURITIES FRAUD, AND OTHER CASES 
+              INVOLVING FEDERAL ECONOMIC ASSISTANCE.
+
+    (a) In General.--
+            (1) Authorization.--There is authorized to be appropriated 
+        to the Attorney General, to remain available until expended, 
+        $165,000,000 for each of the fiscal years 2010 and 2011, for 
+        the purposes of investigations, prosecutions, and civil 
+        proceedings involving Federal assistance programs and financial 
+        institutions, including financial institutions to which this 
+        Act and amendments made by this Act apply.
+            (2) Allocations.--With respect to fiscal years 2010 and 
+        2011, the amount authorized to be appropriated under paragraph 
+        (1) shall be allocated as follows:
+                    (A) Federal Bureau of Investigation: $75,000,000 
+                for fiscal year 2010 and $65,000,000 for fiscal year 
+                2011.
+                    (B) The offices of the United States Attorneys: 
+                $50,000,000.
+                    (C) The criminal division of the Department of 
+                Justice: $20,000,000.
+                    (D) The civil division of the Department of 
+                Justice: $15,000,000.
+                    (E) The tax division of the Department of Justice: 
+                $5,000,000.
+    (b) Additional Appropriations for the Postal Inspection Service.--
+There is authorized to be appropriated to the Postal Inspection Service 
+of the United States Postal Service, $30,000,000 for each of the fiscal 
+years 2010 and 2011 for investigations involving Federal assistance 
+programs and financial institutions, including financial institutions 
+to which this Act and amendments made by this Act apply.
+    (c) Additional Appropriations for the Inspector General for the 
+Department of Housing and Urban Development.--There is authorized to be 
+appropriated to the Inspector General of the Department of Housing and 
+Urban Development, $30,000,000 for each of the fiscal years 2010 and 
+2011 for investigations involving Federal assistance programs and 
+financial institutions, including financial institutions to which this 
+Act and amendments made by this Act apply.
+    (d) Additional Appropriations for the United States Secret 
+Service.--There is authorized to be appropriated to the United States 
+Secret Service of the Department of Homeland Security, $20,000,000 for 
+each of the fiscal years 2010 and 2011 for investigations involving 
+Federal assistance programs and financial institutions, including 
+financial institutions to which this Act and amendments made by this 
+Act apply.
+    (e) Use of Funds.--The funds authorized to be appropriated under 
+subsections (a), (b), (c), and (d) shall be limited to cover the costs 
+of each listed agency or department for investigating possible 
+criminal, civil, or administrative violations and for prosecuting 
+criminal, civil, or administrative proceedings involving financial 
+crimes and crimes against Federal assistance programs, including 
+mortgage fraud, securities fraud, financial institution fraud, and 
+other frauds related to Federal assistance and relief programs.
+    (f) Report to Congress.--Following the final expenditure of all 
+funds appropriated under this section that were authorized by 
+subsections (a), (b), (c), and (d) the Attorney General, in 
+consultation with the United States Postal Inspection Service, the 
+Inspector General for the Department of Housing and Urban Development, 
+and the Secretary of Homeland Security, shall submit a joint report to 
+Congress identifying--
+            (1) the amounts expended under subsections (a), (b), (c), 
+        and (d) and a certification of compliance with the requirements 
+        listed in subsection (e); and
+            (2) the amounts recovered as a result of criminal or civil 
+        restitution, fines, penalties, and other monetary recoveries 
+        resulting from criminal, civil, or administrative proceedings 
+        and settlements undertaken with funds authorized by this Act.
+    (g) Additional Appropriations for the Securities and Exchange 
+Commission.--
+            (1) In general.--There is authorized to be appropriated to 
+        the Securities and Exchange Commission, $20,000,000 for each of 
+        the fiscal years 2010 and 2011 for investigations and 
+        enforcement proceedings involving financial institutions, 
+        including financial institutions to which this Act and 
+        amendments made by this Act apply.
+            (2) Inspector general.--There is authorized to be 
+        appropriated to the Securities and Exchange Commission, 
+        $1,000,000 for each of the fiscal years 2010 and 2011 for the 
+        salaries and expenses of the Office of the Inspector General of 
+        the Securities and Exchange Commission.
+
+SEC. 4. CLARIFICATIONS TO THE FALSE CLAIMS ACT TO REFLECT THE ORIGINAL 
+              INTENT OF THE LAW.
+
+    (a) Clarification of the False Claims Act.--Section 3729 of title 
+31, United States Code, is amended--
+            (1) by striking subsection (a) and inserting the following:
+    ``(a) Liability for Certain Acts.--
+            ``(1) In general.--Subject to paragraph (2), any person 
+        who--
+                    ``(A) knowingly presents, or causes to be 
+                presented, a false or fraudulent claim for payment or 
+                approval;
+                    ``(B) knowingly makes, uses, or causes to be made 
+                or used, a false record or statement material to a 
+                false or fraudulent claim;
+                    ``(C) conspires to commit a violation of 
+                subparagraph (A), (B), (D), (E), (F), or (G);
+                    ``(D) has possession, custody, or control of 
+                property or money used, or to be used, by the 
+                Government and knowingly delivers, or causes to be 
+                delivered, less than all of that money or property;
+                    ``(E) is authorized to make or deliver a document 
+                certifying receipt of property used, or to be used, by 
+                the Government and, intending to defraud the 
+                Government, makes or delivers the receipt without 
+                completely knowing that the information on the receipt 
+                is true;
+                    ``(F) knowingly buys, or receives as a pledge of an 
+                obligation or debt, public property from an officer or 
+                employee of the Government, or a member of the Armed 
+                Forces, who lawfully may not sell or pledge property; 
+                or
+                    ``(G) knowingly makes, uses, or causes to be made 
+                or used, a false record or statement material to an 
+                obligation to pay or transmit money or property to the 
+                Government, or knowingly conceals or knowingly and 
+                improperly avoids or decreases an obligation to pay or 
+                transmit money or property to the Government,
+        is liable to the United States Government for a civil penalty 
+        of not less than $5,000 and not more than $10,000, as adjusted 
+        by the Federal Civil Penalties Inflation Adjustment Act of 1990 
+        (28 U.S.C. 2461 note; Public Law 104-410), plus 3 times the 
+        amount of damages which the Government sustains because of the 
+        act of that person.
+            ``(2) Reduced damages.--If the court finds that--
+                    ``(A) the person committing the violation of this 
+                subsection furnished officials of the United States 
+                responsible for investigating false claims violations 
+                with all information known to such person about the 
+                violation within 30 days after the date on which the 
+                defendant first obtained the information;
+                    ``(B) such person fully cooperated with any 
+                Government investigation of such violation; and
+                    ``(C) at the time such person furnished the United 
+                States with the information about the violation, no 
+                criminal prosecution, civil action, or administrative 
+                action had commenced under this title with respect to 
+                such violation, and the person did not have actual 
+                knowledge of the existence of an investigation into 
+                such violation,
+        the court may assess not less than 2 times the amount of 
+        damages which the Government sustains because of the act of 
+        that person.
+            ``(3) Costs of civil actions.--A person violating this 
+        subsection shall also be liable to the United States Government 
+        for the costs of a civil action brought to recover any such 
+        penalty or damages.'';
+            (2) by striking subsections (b) and (c) and inserting the 
+        following:
+    ``(b) Definitions.--For purposes of this section--
+            ``(1) the terms `knowing' and `knowingly'--
+                    ``(A) mean that a person, with respect to 
+                information--
+                            ``(i) has actual knowledge of the 
+                        information;
+                            ``(ii) acts in deliberate ignorance of the 
+                        truth or falsity of the information; or
+                            ``(iii) acts in reckless disregard of the 
+                        truth or falsity of the information; and
+                    ``(B) require no proof of specific intent to 
+                defraud;
+            ``(2) the term `claim'--
+                    ``(A) means any request or demand, whether under a 
+                contract or otherwise, for money or property and 
+                whether or not the United States has title to the money 
+                or property, that--
+                            ``(i) is presented to an officer, employee, 
+                        or agent of the United States; or
+                            ``(ii) is made to a contractor, grantee, or 
+                        other recipient, if the money or property is to 
+                        be spent or used on the Government's behalf or 
+                        to advance a Government program or interest, 
+                        and if the United States Government--
+                                    ``(I) provides or has provided any 
+                                portion of the money or property 
+                                requested or demanded; or
+                                    ``(II) will reimburse such 
+                                contractor, grantee, or other recipient 
+                                for any portion of the money or 
+                                property which is requested or 
+                                demanded; and
+                    ``(B) does not include requests or demands for 
+                money or property that the Government has paid to an 
+                individual as compensation for Federal employment or as 
+                an income subsidy with no restrictions on that 
+                individual's use of the money or property;
+            ``(3) the term `obligation' means an established duty, 
+        whether or not fixed, arising from an express or implied 
+        contractual, grantor-grantee, or licensor-licensee 
+        relationship, from a fee-based or similar relationship, from 
+        statute or regulation, or from the retention of any 
+        overpayment; and
+            ``(4) the term `material' means having a natural tendency 
+        to influence, or be capable of influencing, the payment or 
+        receipt of money or property.'';
+            (3) by redesignating subsections (d) and (e) as subsections 
+        (c) and (d), respectively; and
+            (4) in subsection (c), as redesignated, by striking 
+        ``subparagraphs (A) through (C) of subsection (a)'' and 
+        inserting ``subsection (a)(2)''.
+    (b) Effective Date and Application.--The amendments made by this 
+section shall take effect on the date of enactment of this Act and 
+shall apply to conduct on or after the date of enactment, except that 
+subparagraph (B) of section 3729(a)(1) of title 31, United States Code, 
+as added by subsection (a)(1), shall take effect as if enacted on June 
+7, 2008, and apply to all claims under the False Claims Act (31 U.S.C. 
+3729 et seq.) that are pending on or after that date.
+
+SEC. 5. FINANCIAL MARKETS COMMISSION.
+
+    (a) Establishment of Commission.--There is established in the 
+legislative branch the Financial Markets Commission (in this section 
+referred to as the ``Commission'') to examine all causes, domestic and 
+global, of the current financial and economic crisis in the United 
+States.
+    (b) Composition of the Commission.--
+            (1) Members.--The Commission shall be composed of 10 
+        members, of whom--
+                    (A) 2 members shall be appointed by the majority 
+                leader of the Senate;
+                    (B) 2 members shall be appointed by the Speaker of 
+                the House of Representatives;
+                    (C) 1 member shall be appointed by the minority 
+                leader of the Senate;
+                    (D) 1 member shall be appointed by the minority 
+                leader of the House of Representatives;
+                    (E) 1 member shall be appointed by the Chairman of 
+                the Committee on Banking, Housing, and Urban Affairs of 
+                the Senate;
+                    (F) 1 member shall be appointed by the ranking 
+                member of the Committee on Banking, Housing, and Urban 
+                Affairs of the Senate;
+                    (G) 1 member shall be appointed by the chairman of 
+                the Committee on Financial Services of the House of 
+                Representatives; and
+                    (H) 1 member shall be appointed by the ranking 
+                member of the Committee on Financial Services of the 
+                House of Representatives.
+            (2) Qualifications; limitation.--
+                    (A) In general.--Individuals appointed to the 
+                Commission shall be United States citizens having 
+                significant experience in such fields as banking, 
+                regulation of markets, taxation, finance, economics and 
+                housing.
+                    (B) Limitation.--No person who is a member of 
+                Congress or an officer or employee of the Federal 
+                Government or any State or local government may serve 
+                as a member of the Commission.
+            (3) Chairperson; vice chairperson.--
+                    (A) In general.--Subject to the requirements of 
+                subparagraph (B), the Chairperson of the Commission 
+                shall be selected jointly by the Majority Leader of the 
+                Senate and the Speaker of the House of Representatives, 
+                and the Vice Chairperson shall be selected jointly by 
+                the Minority Leader of the Senate and the Minority 
+                Leader of the House of Representatives.
+                    (B) Political party affiliation.--The Chairperson 
+                and Vice Chairperson of the Commission may not be from 
+                the same political party.
+            (4) Initial meeting.--If, 45 days after the date of 
+        enactment of this Act, 4 or more members of the Commission have 
+        been appointed, those members who have been appointed may meet 
+        and, if necessary, select a temporary Chairperson and Vice 
+        Chairperson, who may begin the operations of the Commission, 
+        including the hiring of staff.
+            (5) Quorum; vacancies.--After the initial meeting of the 
+        Commission, the Commission shall meet upon the call of the 
+        Chairperson or a majority of its members. Six members of the 
+        Commission shall constitute a quorum. Any vacancy on the 
+        Commission shall not affect its powers, but shall be filled in 
+        the same manner in which the original appointment was made.
+    (c) Functions of the Commission.--The functions of the Commission 
+are--
+            (1) to examine the causes of the current financial and 
+        economic crisis in the United States, including the role, if 
+        any, of--
+                    (A) fraud and abuse in the financial sector;
+                    (B) Federal and State financial regulators, 
+                including the extent to which they enforced, or failed 
+                to enforce statutory, regulatory, or supervisory 
+                requirements;
+                    (C) the global imbalance of savings, international 
+                capital flows, and fiscal imbalances of various 
+                governments;
+                    (D) monetary policy and the availability and terms 
+                of credit;
+                    (E) accounting practices, including, mark-to-market 
+                and fair value rules, and treatment of off-balance 
+                sheet vehicles;
+                    (F) tax treatment of financial products and 
+                investments;
+                    (G) capital requirements and regulations on 
+                leverage and liquidity, including the capital 
+                structures of regulated and non-regulated financial 
+                entities;
+                    (H) credit rating agencies;
+                    (I) lending practices and securitization, including 
+                the originate-to-distribute model for extending credit 
+                and transferring risk;
+                    (J) affiliations between insured depository 
+                institutions and securities, insurance, and other types 
+                of nonbanking companies;
+                    (K) market participant expectations that certain 
+                institutions were ``too-big-to-fail'';
+                    (L) corporate governance, including the impact of 
+                company conversions from partnerships to corporations;
+                    (M) compensation structures;
+                    (N) changes in compensation for employees of 
+                financial companies, as compared to compensation for 
+                others with similar skill sets in the labor market;
+                    (O) Federal housing policy;
+                    (P) derivatives and unregulated financial products 
+                and practices;
+                    (Q) short-selling;
+                    (R) financial institution reliance on numerical 
+                models, including risk models and credit ratings;
+                    (S) the legal and regulatory structure governing 
+                financial institutions;
+                    (T) the legal and regulatory structure governing 
+                investor protection;
+                    (U) financial institutions and government-sponsored 
+                enterprises;
+                    (V) the reliance on credit ratings by Federal 
+                financial regulators, and the use of credit ratings in 
+                financial regulation; and
+                    (W) the quality of due diligence undertaken by 
+                financial institutions;
+            (2) to examine the causes of the collapse of each major 
+        financial institution that failed (including institutions that 
+        were acquired to prevent their failure) or was likely to have 
+        failed if not for the receipt of exceptional Government 
+        assistance from the Department of the Treasury during the 
+        period beginning in August 2007 through April 2009;
+            (3) to submit a report under subsection (g);
+            (4) to refer to the Attorney General of the United States 
+        and any appropriate State attorney general any person that the 
+        Commission finds may have violated the laws of the United 
+        States in relation to such crisis; and
+            (5) to review and build upon the record of the Committee on 
+        Banking, Housing, and Urban Affairs of the Senate, the 
+        Committee on Financial Services of the House of 
+        Representatives, other Congressional committees, the Government 
+        Accountability Office, and other legislative panels with 
+        respect to the current financial and economic crisis.
+    (d) Powers of the Commission.--
+            (1) Hearings and evidence.--The Commission may, for 
+        purposes of carrying out this section--
+                    (A) hold hearings, sit and act at times and places, 
+                take testimony, receive evidence, and administer oaths; 
+                and
+                    (B) require, by subpoena or otherwise, the 
+                attendance and testimony of witnesses and the 
+                production of books, records, correspondence, 
+                memoranda, papers, and documents.
+            (2) Subpoenas.--
+                    (A) Service.--Subpoenas issued under paragraph 
+                (1)(B) may be served by any person designated by the 
+                Commission.
+                    (B) Enforcement.--
+                            (i) In general.--In the case of contumacy 
+                        or failure to obey a subpoena issued under 
+                        paragraph (1)(B), the United States district 
+                        court for the judicial district in which the 
+                        subpoenaed person resides, is served, or may be 
+                        found, or where the subpoena is returnable, may 
+                        issue an order requiring such person to appear 
+                        at any designated place to testify or to 
+                        produce documentary or other evidence. Any 
+                        failure to obey the order of the court may be 
+                        punished by the court as a contempt of that 
+                        court.
+                            (ii) Additional enforcement.--Sections 102 
+                        through 104 of the Revised Statutes of the 
+                        United States (2 U.S.C. 192 through 194) shall 
+                        apply in the case of any failure of any witness 
+                        to comply with any subpoena or to testify when 
+                        summoned under the authority of this section.
+            (3) Contracting.--The Commission may enter into contracts 
+        to enable the Commission to discharge its duties under this 
+        section.
+            (4) Information from federal agencies and other entities.--
+                    (A) In general.--The Commission may secure directly 
+                from any department, agency, or instrumentality of the 
+                United States any information related to any inquiry of 
+                the Commission conducted under this section, including 
+                information of a confidential nature (which the 
+                Commission shall maintain in a secure manner). Each 
+                such department, agency, or instrumentality shall 
+                furnish such information directly to the Commission 
+                upon request.
+                    (B) Other entities.--It is the sense of the 
+                Congress that the Commission should seek testimony or 
+                information from principals and other representatives 
+                of government agencies and private entities that were 
+                significant participants in the United States and 
+                global financial and housing markets during the time 
+                period examined by the Commission.
+            (5) Funding.--The Secretary of the Treasury shall provide, 
+        out of money previously appropriated, $5,000,000 to the 
+        Commission to carry out this section, to remain available until 
+        expended or until termination of the Commission under 
+        subsection (h).
+            (6) Donations of goods and services.--The Commission may 
+        accept, use, and dispose of gifts or donations of services or 
+        property.
+            (7) Postal services.--The Commission may use the United 
+        States mails in the same manner and under the same conditions 
+        as departments and agencies of the United States.
+            (8) Powers of subcommittees, members, and agents.--Any 
+        subcommittee, member, or agent of the Commission may, if 
+        authorized by the Commission, take any action which the 
+        Commission is authorized to take by this section.
+    (e) Staff of the Commission.--
+            (1) Director.--The Commission shall have a Director who 
+        shall be appointed by the Chairperson and the Vice Chairperson, 
+        acting jointly.
+            (2) Staff.--The Chairperson and the Vice Chairperson may 
+        jointly appoint additional personnel, as may be necessary, to 
+        enable the Commission to carry out its functions.
+            (3) Applicability of certain civil service laws.--The 
+        Director and staff of the Commission may be appointed without 
+        regard to the provisions of title 5, United States Code, 
+        governing appointments in the competitive service, and may be 
+        paid without regard to the provisions of chapter 51 and 
+        subchapter III of chapter 53 of such title relating to 
+        classification and General Schedule pay rates, except that no 
+        rate of pay fixed under this paragraph may exceed the 
+        equivalent of that payable for a position at level V of the 
+        Executive Schedule under section 5316 of title 5, United States 
+        Code. Any individual appointed under paragraph (1) or (2) shall 
+        be treated as an employee for purposes of chapters 63, 81, 83, 
+        84, 85, 87, 89, 89A, 89B, and 90 of that title.
+            (4) Detailees.--Any Federal Government employee may be 
+        detailed to the Commission without reimbursement from the 
+        Commission, and such detailee shall retain the rights, status, 
+        and privileges of his or her regular employment without 
+        interruption.
+            (5) Consultant services.--The Commission is authorized to 
+        procure the services of experts and consultants in accordance 
+        with section 3109 of title 5, United States Code, but at rates 
+        not to exceed the daily rate paid a person occupying a position 
+        at level IV of the Executive Schedule under section 5315 of 
+        title 5, United States Code.
+    (f) Compensation and Travel Expenses.--
+            (1) Compensation.--Each member of the Commission may be 
+        compensated at a rate not to exceed the daily equivalent of the 
+        annual rate of basic pay in effect for a position at level IV 
+        of the Executive Schedule under section 5315 of title 5, United 
+        States Code, for each day during which that member is engaged 
+        in the actual performance of the duties of the Commission.
+            (2) Travel expenses.--While away from their homes or 
+        regular places of business in the performance of services for 
+        the Commission, members of the Commission shall be allowed 
+        travel expenses, including per diem in lieu of subsistence, in 
+        the same manner as persons employed intermittently in the 
+        Government service are allowed expenses under section 5703(b) 
+        of title 5, United States Code.
+    (g) Report of the Commission; Appearance Before and Consultations 
+With Congress.--
+            (1) Report.--On December 15, 2010, the Commission shall 
+        submit to the President and to Congress a report containing the 
+        findings and conclusions of the Commission on the causes of the 
+        current financial and economic crisis in the United States.
+            (2) Institution-specific reports authorized.--At the 
+        discretion of the chairperson of the Commission, the report 
+        under paragraph (1) may include reports or specific findings on 
+        any financial institution examined by the Commission under 
+        subsection (c)(2).
+            (3) Appearance before congress.--The chairperson of the 
+        Commission shall, not later than 120 days after the date of 
+        submission of the final reports under paragraph (1), appear 
+        before the Committee on Banking, Housing, and Urban Affairs of 
+        the Senate and the Committee on Financial Services of the House 
+        of Representatives regarding such reports and the findings of 
+        the Commission.
+            (4) Consultations with congress.--The Commission shall 
+        consult with the Committee on Banking, Housing, and Urban 
+        Affairs of the Senate and the Committee on Financial Services 
+        of the House of Representatives, and may consult with other 
+        Committees of Congress, for purposes of informing Congress on 
+        the work of the Commission.
+    (h) Termination of Commission.--
+            (1) In general.--The Commission, and all the authorities of 
+        this section, shall terminate 60 days after the date on which 
+        the final report is submitted under subsection (g).
+            (2) Administrative activities before termination.--The 
+        Commission may use the 60-day period referred to in paragraph 
+        (1) for the purpose of concluding its activities, including 
+        providing testimony to committees of Congress concerning its 
+        reports and disseminating the final report submitted under 
+        subsection (g).
+
+   TITLE II--SELECT COMMITTEE ON INVESTIGATION OF THE ECONOMIC CRISIS
+
+SEC. 201. FINDINGS.
+
+    The Senate finds the following:
+            (1) The United States is currently facing an unprecedented 
+        economic crisis, with massive losses of jobs in the United 
+        States and an alarming contraction of economic activity in the 
+        United States.
+            (2) The United States Government has pledged, committed, or 
+        loaned more than $9,000,000,000,000 as of February 2009 in an 
+        attempt to mitigate and resolve the economic crisis and 
+        trillions of dollars more may well be necessary before the 
+        crisis is over.
+            (3) The economic crisis reaches into, and has impacted, 
+        almost every aspect of the United States economy and 
+        significant parts of the international economy.
+            (4) Any thorough and complete study and investigation of 
+        this complex and far-reaching economic crisis will require 
+        sustained and singular focus for many months.
+            (5) A study and investigation of this size and scope 
+        implicates the jurisdiction of several Standing Committees of 
+        the Senate and, if it is to be done correctly and timely, will 
+        require a degree of undivided attention and resources beyond 
+        the capacity of the Standing Committees of the Senate, which 
+        are already over-burdened.
+            (6) Adding such a significant study and investigation to 
+        the duties of the existing Standing Committees of the Senate 
+        would make it difficult for such committees to get their 
+        regular required work accomplished, particularly when so much 
+        attention and so many resources are appropriately devoted to 
+        responding to the ongoing economic crisis.
+            (7) Dozens of important investigations have been conducted 
+        with the creation of a select committee of the Senate for a 
+        specific purpose and a set time.
+            (8) The American public has a right to get straight answers 
+        on how this economic crisis developed and what steps should be 
+        taken to make sure that nothing like it happens again.
+
+SEC. 202. SELECT COMMITTEE ON INVESTIGATION OF THE ECONOMIC CRISIS.
+
+    There is established a select committee of the Senate to be known 
+as the Select Committee on Investigation of the Economic Crisis 
+(hereafter in this title referred to as the ``Select Committee'').
+
+SEC. 203. PURPOSE AND DUTIES.
+
+    (a) Purpose.--The purpose of the Select Committee is to study and 
+investigate the facts and circumstances giving rise to the current 
+economic crisis facing the United States and to recommend actions to be 
+taken to prevent a future recurrence of such a crisis.
+    (b) Duties.--The Select Committee is authorized and directed to do 
+everything necessary or appropriate to conduct the study and 
+investigation specified in subsection (a). Without restricting in any 
+way the authority conferred on the Select Committee by the preceding 
+sentence, the Senate further expressly authorizes and directs the 
+Select Committee to examine the facts and circumstances giving rise to 
+the current economic crisis facing the United States, and report on 
+such examination, regarding the following:
+            (1) The causes of the current economic crisis.
+            (2) Lessons learned from the current economic crisis.
+            (3) Actions to prevent a recurrence of an economic crisis 
+        such as the current economic crisis.
+
+SEC. 204. COMPOSITION OF SELECT COMMITTEE.
+
+    (a) Membership.--
+            (1) In general.--The Select Committee shall consist of 7 
+        members of the Senate of whom--
+                    (A) 4 members shall be appointed by the majority 
+                leader of the Senate; and
+                    (B) 3 members shall be appointed by the minority 
+                leader of the Senate.
+            (2) Date.--The appointments of the members of the Select 
+        Committee shall be made not later than 30 days after the date 
+        of enactment of this title.
+    (b) Vacancies.--Any vacancy in the Select Committee shall not 
+affect its powers, but shall be filled in the same manner as the 
+original appointment.
+    (c) Service.--Service of a Senator as a member, Chair, or Vice 
+Chair of the Select Committee shall not be taken into account for the 
+purposes of paragraph (4) of rule XXV of the Standing Rules of the 
+Senate.
+    (d) Chair and Vice Chair.--The Chair of the Select Committee shall 
+be designated by the majority leader of the Senate, and the Vice Chair 
+of the Select Committee shall be designated by the minority leader of 
+the Senate.
+    (e) Quorum.--
+            (1) Reports and recommendations.--A majority of the members 
+        of the Select Committee shall constitute a quorum for the 
+        purpose of reporting a matter or recommendation to the Senate.
+            (2) Testimony.--One member of the Select Committee shall 
+        constitute a quorum for the purpose of taking testimony.
+            (3) Other business.--A majority of the members of the 
+        Select Committee, or \1/3\ of the members of the Select 
+        Committee if at least one member of the minority party is 
+        present, shall constitute a quorum for the purpose of 
+        conducting any other business of the Select Committee.
+
+SEC. 205. RULES AND PROCEDURES.
+
+    (a) Governance Under Standing Rules of Senate.--Except as otherwise 
+specifically provided in this title, the investigation, study, and 
+hearings conducted by the Select Committee shall be governed by the 
+Standing Rules of the Senate.
+    (b) Additional Rules and Procedures.--In addition to the provisions 
+of section 208(h), the Select Committee may adopt additional rules or 
+procedures if the Chair and the Vice Chair of the Select Committee 
+agree, or if the Select Committee by majority vote so decides, that 
+such additional rules or procedures are necessary or advisable to 
+enable the Select Committee to conduct the investigation, study, and 
+hearings authorized by this title. Any such additional rules and 
+procedures--
+            (1) shall not be inconsistent with this title or the 
+        Standing Rules of the Senate; and
+            (2) shall become effective upon publication in the 
+        Congressional Record.
+
+SEC. 206. AUTHORITY OF SELECT COMMITTEE.
+
+    (a) In General.--The Select Committee may exercise all of the 
+powers and responsibilities of a committee under rule XXVI of the 
+Standing Rules of the Senate.
+    (b) Powers.--The Select Committee or, at its direction, any 
+subcommittee or member of the Select Committee, may, for the purpose of 
+carrying out this title--
+            (1) hold hearings;
+            (2) administer oaths;
+            (3) sit and act at any time or place during the sessions, 
+        recess, and adjournment periods of the Senate;
+            (4) authorize and require, by issuance of subpoena or 
+        otherwise, the attendance and testimony of witnesses and the 
+        preservation and production of books, records, correspondence, 
+        memoranda, papers, documents, tapes, and any other materials in 
+        whatever form the Select Committee considers advisable;
+            (5) take testimony, orally, by sworn statement, by sworn 
+        written interrogatory, or by deposition, and authorize staff 
+        members to do the same; and
+            (6) issue letters rogatory and requests, through 
+        appropriate channels, for any other means of international 
+        assistance.
+    (c) Authorization, Issuance, and Enforcement of Subpoenas.--
+            (1) Authorization and issuance.--Subpoenas authorized and 
+        issued under this section--
+                    (A) may be done only with the joint concurrence of 
+                the Chair and the Vice Chair of the Select Committee;
+                    (B) shall bear the signature of the Chair or the 
+                designee of the Chair; and
+                    (C) shall be served by any person or class of 
+                persons designated by the Chair for that purpose 
+                anywhere within or without the borders of the United 
+                States to the full extent provided by law.
+            (2) Enforcement.--The Select Committee may make to the 
+        Senate by report or resolution any recommendation, including a 
+        recommendation for criminal or civil enforcement, that the 
+        Select Committee considers appropriate with respect to--
+                    (A) the failure or refusal of any person to appear 
+                at a hearing or deposition or to produce or preserve 
+                documents or materials described in subsection (b)(4) 
+                in obedience to a subpoena or order of the Select 
+                Committee;
+                    (B) the failure or refusal of any person to answer 
+                questions truthfully and completely during the person's 
+                appearance as a witness at a hearing or deposition of 
+                the Select Committee; or
+                    (C) the failure or refusal of any person to comply 
+                with any subpoena or order issued under the authority 
+                of subsection (b).
+    (d) Avoidance of Duplication.--
+            (1) In general.--To expedite the study and investigation, 
+        avoid duplication, and promote efficiency under this title, the 
+        Select Committee shall seek to--
+                    (A) confer with other investigations into the 
+                matters set forth in section 203(a); and
+                    (B) access all information and materials acquired 
+                or developed in such other investigations.
+            (2) Access to information and materials.--The Select 
+        Committee shall have, to the fullest extent permitted by law, 
+        access to any such information or materials obtained by any 
+        other governmental department, agency, or body investigating 
+        the matters set forth in section 203(a).
+
+SEC. 207. REPORTS.
+
+    (a) Initial Report.--The Select Committee shall submit to the 
+Senate a report on the study and investigation conducted pursuant to 
+section 203 not later than one year after the appointment of all of the 
+members of the Select Committee.
+    (b) Updated Report.--The Select Committee shall submit an updated 
+report on such investigation not later than 180 days after the 
+submittal of the report under subsection (a).
+    (c) Final Report.--The Select Committee shall submit a final report 
+on such investigation not later than two years after the appointment of 
+all of the members of the Select Committee.
+    (d) Additional Reports.--The Select Committee may submit any 
+additional report or reports that the Select Committee considers 
+appropriate.
+    (e) Findings and Recommendations.--The reports under this section 
+shall include findings and recommendations of the Select Committee 
+regarding the matters considered under section 203.
+    (f) Disposition of Reports.--All reports made by the Select 
+Committee shall be submitted to the Secretary of the Senate. All 
+reports made by the Select Committee shall be referred to the committee 
+or committees that have jurisdiction over the subject matter of the 
+report.
+
+SEC. 208. ADMINISTRATIVE PROVISIONS.
+
+    (a) Staff.--
+            (1) In general.--The Select Committee may employ in 
+        accordance with paragraph (2) a staff composed of such 
+        clerical, investigatory, legal, technical, and other personnel 
+        as the Select Committee, or the Chair and the Vice Chair of the 
+        Select Committee considers necessary or appropriate.
+            (2) Appointment of staff.--The staff of the Select 
+        Committee shall consist of such personnel as the Chair and the 
+        Vice Chair shall jointly appoint. Such staff may be removed 
+        jointly by the Chair and the Vice Chair, and shall work under 
+        the joint general supervision and direction of the Chair and 
+        the Vice Chair.
+    (b) Compensation.--The Chair and the Vice Chair of the Select 
+Committee shall jointly fix the compensation of all personnel of the 
+staff of the Select Committee.
+    (c) Reimbursement of Expenses.--The Select Committee may reimburse 
+the members of its staff for travel, subsistence, and other necessary 
+expenses incurred by such staff members in the performance of their 
+functions for the Select Committee.
+    (d) Services of Senate Staff.--The Select Committee may use, with 
+the prior consent of the chair of any other committee of the Senate or 
+the chair of any subcommittee of any committee of the Senate, the 
+facilities of any other committee of the Senate, or the services of any 
+members of the staff of such committee or subcommittee, whenever the 
+Select Committee or the Chair of the Select Committee considers that 
+such action is necessary or appropriate to enable the Select Committee 
+to carry out its responsibilities, duties, or functions under this 
+title.
+    (e) Detail of Employees.--The Select Committee may use on a 
+reimbursable basis, with the prior consent of the head of the 
+department or agency of Government concerned and the approval of the 
+Committee on Rules and Administration of the Senate, the services of 
+personnel of such department or agency.
+    (f) Temporary and Intermittent Services.--The Select Committee may 
+procure the temporary or intermittent services of individual 
+consultants, or organizations thereof.
+    (g) Payment of Expenses.--There shall be paid out of the applicable 
+accounts of the Senate such sums as may be necessary for the expenses 
+of the Select Committee. Such payments shall be made on vouchers signed 
+by the Chair of the Select Committee and approved in the manner 
+directed by the Committee on Rules and Administration of the Senate. 
+Amounts made available under this subsection shall be expended in 
+accordance with regulations prescribed by the Committee on Rules and 
+Administration of the Senate.
+    (h) Conflicts of Interest.--The Select Committee shall issue rules 
+to prohibit or minimize any conflicts of interest involving its 
+members, staff, detailed personnel, consultants, and any others 
+providing assistance to the Select Committee. Such rules shall not be 
+inconsistent with the Code of Official Conduct of the Senate or 
+applicable Federal law.
+
+SEC. 209. EFFECTIVE DATE; TERMINATION.
+
+    (a) Effective Date.--This title shall take effect on the date of 
+enactment of this title.
+    (b) Termination.--The Select Committee shall terminate three months 
+after the submittal of the report required by section 207(c).
+
+            Passed the Senate April 28, 2009.
+
+            Attest:
+
+                                                             Secretary.
+111th CONGRESS
+
+  1st Session
+
+                                 S. 386
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To improve enforcement of mortgage fraud, securities fraud, financial 
+ institution fraud, and other frauds related to federal assistance and 
+ relief programs, for the recovery of funds lost to these frauds, and 
+                          for other purposes.
+

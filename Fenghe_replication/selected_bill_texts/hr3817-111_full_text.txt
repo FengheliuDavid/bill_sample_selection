@@ -1,0 +1,2611 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3817 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 3817
+
+   To provide the Securities and Exchange Commission with additional 
+  authorities to protect investors from violations of the securities 
+                     laws, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 15, 2009
+
+Mr. Kanjorski introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To provide the Securities and Exchange Commission with additional 
+  authorities to protect investors from violations of the securities 
+                     laws, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Investor Protection Act of 2009.''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+                          TITLE I--DISCLOSURE
+
+Sec. 101. Investor Advisory Committee established.
+Sec. 102. Clarification of the commission's authority to engage in 
+                            consumer testing.
+Sec. 103. Establishment of a fiduciary duty for brokers, dealers, and 
+                            investment advisers, and harmonization of 
+                            regulation.
+Sec. 104. Clarification of commission authority to require investor 
+                            disclosures before purchase of investment 
+                            company shares.
+Sec. 105. Beneficial ownership and short-swing profit reporting.
+Sec. 106. Revision to recordkeeping rules.
+                   TITLE II--ENFORCEMENT AND REMEDIES
+
+Sec. 201. Authority to restrict mandatory pre-dispute arbitration.
+Sec. 202. Whistleblower protection.
+Sec. 203. Conforming amendments for whistleblower protection.
+Sec. 204. Implementation and transition provisions for whistleblower 
+                            protections.
+Sec. 205. Collateral bars.
+Sec. 206. Aiding and abetting authority under the Securities Act and 
+                            the Investment Company Act.
+Sec. 207. Authority to impose penalties for aiding and abetting 
+                            violations of the Investment Advisers Act.
+Sec. 208. Deadline for completing examinations, inspections and 
+                            enforcement actions.
+Sec. 209. Nationwide service of subpoenas.
+Sec. 210. Authority to impose civil penalties in cease and desist 
+                            proceedings.
+Sec. 211. Formerly associated persons.
+Sec. 212. Sharing privileged information with other authorities.
+Sec. 213. Expanded access to grand jury material.
+Sec. 214. Aiding and abetting standard of knowledge satisfied by 
+                            recklessness.
+Sec. 215. Extraterritorial jurisdiction of the antifraud provisions of 
+                            the Federal securities laws.
+Sec. 216. Fidelity bonding.
+Sec. 217. Enhanced SEC authority to conduct surveillance and risk 
+                            assessment.
+Sec. 218. Investment company examinations.
+Sec. 219. Control person liability under the Securities Exchange Act.
+Sec. 220. Enhanced application of anti-fraud provisions.
+             TITLE III--COMMISSION FUNDING AND ORGANIZATION
+
+Sec. 301. Authorization of appropriations.
+Sec. 302. Investment adviser regulation funding.
+Sec. 303. Amendments to section 31 of the Securities Exchange Act of 
+                            1934.
+Sec. 304. Commission organizational study and reform.
+                TITLE IV--ADDITIONAL COMMISSION REFORMS
+
+Sec. 401. Regulation of securities lending.
+Sec. 402. Lost and stolen securities.
+Sec. 403. Fingerprinting.
+Sec. 404. Equal treatment of self-regulatory organization rules.
+Sec. 405. Clarification that section 205 of the Investment Advisers Act 
+                            of 1940 does not apply to State-registered 
+                            advisers.
+Sec. 406. Conforming amendments for the repeal of the Public Utility 
+                            Holding Company Act of 1935.
+Sec. 407. Promoting transparency in financial reporting.
+Sec. 408. Unlawful margin lending.
+Sec. 409. Protecting confidentiality of materials submitted to the 
+                            Commission.
+Sec. 410. Technical corrections.
+Sec. 411. Municipal securities.
+Sec. 412. Interested person definition.
+Sec. 413. Rulemaking authority to protect redeeming investors.
+         TITLE V--SECURITIES INVESTOR PROTECTION ACT AMENDMENTS
+
+Sec. 501. Increasing the minimum assessment paid by SIPC members.
+Sec. 502. Increasing the borrowing limit on treasury loans.
+Sec. 503. Increasing the cash limit of protection.
+Sec. 504. SIPC as trustee in SIPA liquidation proceedings.
+Sec. 505. Insiders ineligible for SIPC advances.
+Sec. 506. Eligibility for direct payment procedure.
+Sec. 507. Increasing the fine for prohibited acts under SIPA.
+Sec. 508. Penalty for misrepresentation of SIPC membership or 
+                            protection.
+Sec. 509. Limitations on customer status.
+Sec. 510. Futures held in a portfolio margin securities account 
+                            protection.
+Sec. 511. Risk-based premiums.
+Sec. 512. Budgetary treatment of Commission loans to SIPC.
+                TITLE VI--SARBANES-OXLEY ACT AMENDMENTS
+
+Sec. 601. Public Company Accounting Oversight Board oversight of 
+                            auditors of non-public brokers and dealers.
+Sec. 602. Foreign regulatory information sharing.
+Sec. 603. Expansion of audit information to be produced and exchanged 
+                            with foreign counterparts.
+Sec. 604. Fair fund amendments.
+Sec. 605. Whistleblower protection against retaliation by a subsidiary 
+                            of an issuer.
+
+                          TITLE I--DISCLOSURE
+
+SEC. 101. INVESTOR ADVISORY COMMITTEE ESTABLISHED.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by adding after section 4C the following new section:
+
+``SEC. 4D. INVESTOR ADVISORY COMMITTEE.
+
+    ``(a) Establishment and Purpose.--There is established an Investor 
+Advisory Committee (in this section referred to as the `Committee') to 
+advise and consult with the Commission on--
+            ``(1) regulatory priorities and issues regarding new 
+        products, trading strategies, fee structures and the 
+        effectiveness of disclosures;
+            ``(2) initiatives to protect investor interest; and
+            ``(3) initiatives to promote investor confidence in the 
+        integrity of the marketplace.
+    ``(b) Membership.--
+            ``(1) Appointment.--The Chairman of the Commission shall 
+        appoint the members of the Committee, which members shall--
+                    ``(A) represent the interests of individual 
+                investors;
+                    ``(B) represent the interests of institutional 
+                investors; and
+                    ``(C) use a wide range of investment approaches.
+            ``(2) Members not commission employees.--Members shall not 
+        be considered employees or agents of the Commission solely 
+        because of membership on the Committee.
+    ``(c) Meetings.--The Committee shall meet from time to time at the 
+call of the Commission, but, at a minimum, shall meet at least twice 
+each year.
+    ``(d) Compensation and Travel Expenses.--Members of the Committee 
+who are not full-time employees of the United States shall--
+            ``(1) be entitled to receive compensation at a rate fixed 
+        by the Commission while attending meetings of the Committee, 
+        including travel time; and
+            ``(2) be allowed travel expenses, including transportation 
+        and subsistence, while away from their homes or regular places 
+        of business.
+    ``(e) Committee Findings.--Nothing in this section requires the 
+Commission to accept, agree, or act upon the findings or 
+recommendations of the Committee.
+    ``(f) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Commission such sums as are necessary for the 
+activities of the Committee.''.
+
+SEC. 102. CLARIFICATION OF THE COMMISSION'S AUTHORITY TO ENGAGE IN 
+              CONSUMER TESTING.
+
+    (a) Amendment to Securities Act of 1933.--Section 19 of the 
+Securities Act of 1933 (15 U.S.C. 77s) is amended by adding at the end 
+the following new subsection:
+    ``(e) For the purposes of evaluating its rules and programs and for 
+considering, proposing, adopting, or engaging in rules or programs, the 
+Commission is authorized to gather information, communicate with 
+investors or other members of the public, and engage in such temporary 
+or experimental programs as the Commission in its discretion determines 
+is in the public interest or for the protection of investors. The 
+Commission may delegate to its staff some or all of the authority 
+conferred by this subsection.''.
+    (b) Amendment to Securities Exchange Act of 1934.--Section 23 of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by 
+redesignating subsections (b), (c), and (d) as subsections (c), (d), 
+and (e), respectively, and inserting after subsection (a) the 
+following:
+    ``(b) For the purposes of evaluating its rules and programs and for 
+considering proposing, adopting, or engaging in rules or programs, the 
+Commission is authorized to gather information, communicate with 
+investors or other members of the public, and engage in such temporary 
+or experimental programs as the Commission in its discretion determines 
+is in the public interest or for the protection of investors. The 
+Commission may delegate to its staff some or all of the authority 
+conferred by this subsection.''.
+    (c) Amendment to Investment Company Act of 1940.--Section 38 of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-38) is amended by adding 
+at the end the following new subsection:
+    ``(d) Gathering Information.--For the purposes of evaluating its 
+rules and programs and for considering proposing, adopting, or engaging 
+in rules or programs, the Commission is authorized to gather 
+information, communicate with investors or other members of the public, 
+and engage in such temporary or experimental programs as the Commission 
+in its discretion determines is in the public interest or for the 
+protection of investors. The Commission may delegate to its staff some 
+or all of the authority conferred by this subsection.''.
+    (d) Amendment to the Investment Advisers Act of 1940.--Section 211 
+of the Investment Advisers Act of 1940 (15 U.S.C. 80b-11) is amended by 
+adding at the end the following new subsection:
+    ``(e) For the purposes of evaluating its rules and programs and for 
+considering proposing, adopting, or engaging in rules or programs, the 
+Commission is authorized to gather information, communicate with 
+investors or other members of the public, and engage in such temporary 
+or experimental programs as the Commission in its discretion determines 
+is in the public interest or for the protection of investors. The 
+Commission may delegate to its staff some or all of the authority 
+conferred by this subsection.''.
+
+SEC. 103. ESTABLISHMENT OF A FIDUCIARY DUTY FOR BROKERS, DEALERS, AND 
+              INVESTMENT ADVISERS, AND HARMONIZATION OF REGULATION.
+
+    (a) In General.--
+            (1) Securities exchange act of 1934.--Section 15 of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78o) is amended--
+                    (A) by redesignating the second subsection (i) as 
+                subsection (j); and
+                    (B) by adding at the end the following new 
+                subsections:
+    ``(k) Standards of Conduct.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        this Act or the Investment Advisers Act of 1940, the Commission 
+        shall promulgate rules to provide that, with respect to a 
+        broker or dealer that is providing investment advice to a 
+        retail customer (and such other customers as the Commission may 
+        by rule provide), the standard of conduct for such broker or 
+        dealer with respect to such customer shall be the same as the 
+        standard of conduct applicable to an investment adviser under 
+        the Investment Advisers Act of 1940. The receipt of 
+        compensation based on commission shall not, in and of itself, 
+        be considered a violation of such standard applied to a broker 
+        or dealer.
+            ``(2) Retail customer defined.--For purposes of this 
+        subsection, the term `retail customer' means an individual, or 
+        the legal representative of such individual, who--
+                    ``(A) receives personalized investment advice from 
+                a broker or dealer; and
+                    ``(B) uses such advice primarily for personal, 
+                family, or household purposes.
+    ``(l) Other Matters.--The Commission shall--
+            ``(1) facilitate the provision of simple and clear 
+        disclosures to investors regarding the terms of their 
+        relationships with brokers, dealers, and investment advisers; 
+        and
+            ``(2) examine and, where appropriate, promulgate rules 
+        prohibiting sales practices, conflicts of interest, and 
+        compensation schemes for financial intermediaries (including 
+        brokers, dealers, and investment advisers) that it deems 
+        contrary to the public interest and the interests of 
+        investors.''.
+            (2) Investment advisers act of 1940.--Section 211 of the 
+        Investment Advisers Act of 1940, as amended by section 102(d), 
+        is further amended by adding at the end the following new 
+        subsection:
+    ``(f) Standards of Conduct.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        this Act or the Securities Exchange Act of 1934, the Commission 
+        shall promulgate rules to provide that the standards of conduct 
+        for all brokers, dealers, and investment advisers, in providing 
+        investment advice to retail customers (and such other customers 
+        as the Commission may by rule provide), shall be to act in the 
+        best interest of the customer without regard to the financial 
+        or other interest of the broker, dealer, or investment adviser 
+        providing the advice.
+            ``(2) Retail customer defined.--For purposes of this 
+        subsection, the term `retail customer' means an individual, or 
+        the legal representative of such individual, who--
+                    ``(A) receives personalized investment advice from 
+                a broker, dealer, or investment adviser; and
+                    ``(B) uses such advice primarily for personal, 
+                family, or household purposes.
+    ``(g) Other Matters.--The Commission shall--
+            ``(1) facilitate the provision of simple and clear 
+        disclosures to investors regarding the terms of their 
+        relationships with brokers, dealers, and investment advisers; 
+        and
+            ``(2) examine and, where appropriate, promulgate rules 
+        prohibiting sales practices, conflicts of interest, and 
+        compensation schemes for financial intermediaries (including 
+        brokers, dealers, and investment advisers) that it deems 
+        contrary to the public interest and the interests of 
+        investors.''.
+    (b) Harmonization of Enforcement and Remedy Regulations.--Section 
+15 of the Securities Exchange Act of 1934, as amended by subsection 
+(a), is further amended by adding at the end the following new 
+subsection:
+    ``(m) Harmonization of Enforcement and Remedy Regulations.--The 
+Commission shall issue regulations to ensure, to the extent 
+practicable, that the enforcement options and remedies available for 
+violations of the standard of conduct applicable to a broker or dealer 
+providing investment advice to a retail customer are commensurate with 
+those enforcement options and remedies available for violations of the 
+standard of conduct applicable to investment advisers under the 
+Investment Advisers Act of 1940.''.
+
+SEC. 104. CLARIFICATION OF COMMISSION AUTHORITY TO REQUIRE INVESTOR 
+              DISCLOSURES BEFORE PURCHASE OF INVESTMENT COMPANY SHARES.
+
+    Section 24 of the Investment Company Act of 1940 (15 U.S.C. 80a-24) 
+is amended by adding at the end the following new subsection:
+    ``(h) Timing of Disclosure.--Notwithstanding any other provision of 
+this Act or the Securities Act of 1933, the Commission is authorized to 
+promulgate rules designating documents or information that must precede 
+a sale to a purchaser of securities issued by a registered investment 
+company.''.
+
+SEC. 105. BENEFICIAL OWNERSHIP AND SHORT-SWING PROFIT REPORTING.
+
+    (a) Beneficial Ownership Reporting.--Section 13 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78m) is amended--
+            (1) in subsection (d)(1)--
+                    (A) by inserting after ``within ten days after such 
+                acquisition'' the following: ``or within such shorter 
+                time as the Commission may establish by rule''; and
+                    (B) by striking ``send to the issuer of the 
+                security at its principal executive office, by 
+                registered or certified mail, send to each exchange 
+                where the security is traded, and'';
+            (2) in subsection (d)(2)--
+                    (A) by striking ``in the statements to the issuer 
+                and the exchange, and''; and
+                    (B) by striking ``shall be transmitted to the 
+                issuer and the exchange and'';
+            (3) in subsection (g)(1), by striking ``shall send to the 
+        issuer of the security and''; and
+            (4) in subsection (g)(2)--
+                    (A) by striking ``sent to the issuer and''; and
+                    (B) by striking ``shall be transmitted to the 
+                issuer and''.
+    (b) Short-swing Profit Reporting.--Section 16(a) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78p(a)) is amended--
+            (1) in paragraph (1), by striking ``(and, if such security 
+        is registered on a national securities exchange, also with the 
+        exchange)''; and
+            (2) in paragraph (2)(B), by inserting after ``officer'' the 
+        following: ``, or within such shorter time as the Commission 
+        may establish by rule''.
+
+SEC. 106. REVISION TO RECORDKEEPING RULES.
+
+    (a) Investment Company Act of 1940 Amendments.--Section 31 of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-30) is amended--
+            (1) in subsection (a)(1), by adding at the end the 
+        following: ``Each person with custody or use of a registered 
+        investment company's securities, deposits, or credits shall 
+        maintain and preserve all records that relate to the person's 
+        custody or use of the registered investment company's 
+        securities, deposits, or credits for such period or periods as 
+        the Commission, by rules and regulations, may prescribe as 
+        necessary or appropriate in the public interest or for the 
+        protection of investors.''; and
+            (2) in subsection (b), by adding at the end the following 
+        new paragraph:
+            ``(4) Records of persons with custody or use.--
+                    ``(A) In general.--Notwithstanding paragraph (1), 
+                records of persons with custody or use of a registered 
+                investment company's securities, deposits, or credits, 
+                that relate to such custody or use, are subject at any 
+                time, or from time to time, to such reasonable 
+                periodic, special, or other examinations and other 
+                information and document requests by representatives of 
+                the Commission as the Commission deems necessary or 
+                appropriate in the public interest or for the 
+                protection of investors.
+                    ``(B) Certain persons subject to other 
+                regulation.--Persons subject to regulation and 
+                examination by a Federal financial institution 
+                regulatory agency (as such term is defined under 
+                section 212(c)(2) of title 18, United States Code) may 
+                satisfy any examination request, information request, 
+                or document request described under subparagraph (A), 
+                by providing the Commission with a detailed listing, in 
+                writing, of the registered investment company's 
+                securities, deposits, or credits within such person's 
+                custody or use.''.
+    (b) Investment Advisers Act of 1940 Amendment.--Section 204 of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-4) is amended by adding 
+at the end the following new subsection:
+    ``(d) Records of Persons With Custody or Use.--
+            ``(1) In general.--Records of persons with custody or use 
+        of a client's securities, deposits, or credits, that relate to 
+        such custody or use, are subject at any time, or from time to 
+        time, to such reasonable periodic, special, or other 
+        examinations and other information and document requests by 
+        representatives of the Commission as the Commission deems 
+        necessary or appropriate in the public interest or for the 
+        protection of investors.
+            ``(2) Certain persons subject to other regulation.--Persons 
+        subject to regulation and examination by a Federal financial 
+        institution regulatory agency (as such term is defined under 
+        section 212(c)(2) of title 18, United States Code) may satisfy 
+        any examination request, information request, or document 
+        request described under paragraph (1), by providing the 
+        Commission with a detailed listing, in writing, of the client's 
+        securities, deposits, or credits within such person's custody 
+        or use.''.
+
+                   TITLE II--ENFORCEMENT AND REMEDIES
+
+SEC. 201. AUTHORITY TO RESTRICT MANDATORY PRE-DISPUTE ARBITRATION.
+
+    (a) Amendment to Securities Exchange Act of 1934.--Section 15 of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78o), as amended by 
+section 103) is further amended by adding at the end the following new 
+subsection:
+    ``(m) Authority To Restrict Mandatory Pre-dispute Arbitration.--The 
+Commission, by rule, may prohibit, or impose conditions or limitations 
+on the use of, agreements that require customers or clients of any 
+broker, dealer, or municipal securities dealer to arbitrate any future 
+dispute between them arising under the Federal securities laws or the 
+rules of a self-regulatory organization if it finds that such 
+prohibition, imposition of conditions, or limitations are in the public 
+interest and for the protection of investors.''.
+    (b) Amendment To Investment Advisers Act of 1940.--Section 205 of 
+the Investment Advisers Act of 1940 (15 U.S.C. 80b-5) is amended by 
+adding at the end the following new subsection:
+    ``(f) Authority To Restrict Mandatory Pre-dispute Arbitration.--The 
+Commission, by rule, may prohibit, or impose conditions or limitations 
+on the use of, agreements that require customers or clients of any 
+investment adviser to arbitrate any future dispute between them arising 
+under the Federal securities laws or the rules of a self-regulatory 
+organization if it finds that such prohibition, imposition of 
+conditions, or limitations are in the public interest and for the 
+protection of investors.''.
+
+SEC. 202. WHISTLEBLOWER PROTECTION.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by adding after section 21E the following new section:
+
+``SEC. 21F. SECURITIES WHISTLEBLOWER INCENTIVES AND PROTECTION.
+
+    ``(a) In General.--In any judicial or administrative action brought 
+by the Commission under the securities laws that results in monetary 
+sanctions exceeding $1,000,000, the Commission, under regulations 
+prescribed by the Commission and subject to subsection (b), may pay an 
+award or awards not exceeding an amount equal to 30 percent, in total, 
+of the monetary sanctions imposed in the action or related actions to 
+one or more whistleblowers who voluntarily provided original 
+information to the Commission that led to the successful enforcement of 
+the action. Any amount payable under the preceding sentence shall be 
+paid from the fund described in subsection (f).
+    ``(b) Determination of Amount of Award; Denial of Award.--
+            ``(1) Determination of amount of award.--The determination 
+        of the amount of an award, within the limit specified in 
+        subsection (a), shall be in the sole discretion of the 
+        Commission. The Commission may take into account the 
+        significance of the whistleblower's information to the success 
+        of the judicial or administrative action described in 
+        subsection (a), the degree of assistance provided by the 
+        whistleblower and any legal representative of the whistleblower 
+        in such action, the Commission's programmatic interest in 
+        deterring violations of the securities laws by making awards to 
+        whistleblowers who provide information that leads to the 
+        successful enforcement of such laws, and such additional 
+        factors as the Commission may establish by rules or 
+        regulations.
+            ``(2) Denial of award.--No award under subsection (a) shall 
+        be made--
+                    ``(A) to any whistleblower who is, or was at the 
+                time he or she acquired the original information 
+                submitted to the Commission, a member, officer, or 
+                employee of any appropriate regulatory agency, the 
+                Department of Justice, or a self-regulatory 
+                organization;
+                    ``(B) to any whistleblower who is convicted of a 
+                criminal violation related to the judicial or 
+                administrative action for which the whistleblower 
+                otherwise could receive an award under this section; or
+                    ``(C) to any whistleblower who fails to submit 
+                information to the Commission in such form as the 
+                Commission may, by rule, require.
+    ``(c) Representation.--
+            ``(1) Permitted representation.--Any whistleblower who 
+        makes a claim for an award under subsection (a) may be 
+        represented by counsel.
+            ``(2) Required representation.--Any whistleblower who makes 
+        a claim for an award under subsection (a) must be represented 
+        by counsel if the whistleblower submits the information upon 
+        which the claim is based anonymously. Prior to the payment of 
+        an award, the whistleblower must disclose his or her identity 
+        and provide such other information as the Commission may 
+        require.
+    ``(d) No Contract Necessary.--No contract with the Commission is 
+necessary for any whistleblower to receive an award under subsection 
+(a), unless the Commission, by rule or regulation, so requires.
+    ``(e) Appeals.--Any determinations under this section, including 
+whether, to whom, or in what amounts to make awards, shall be in the 
+sole discretion of the Commission, and any such determinations shall be 
+final and not subject to judicial review.
+    ``(f) Investor Protection Fund.--
+            ``(1) Fund established.--There is established in the 
+        Treasury of the United States a fund to be known as the 
+        `Securities and Exchange Commission Investor Protection Fund' 
+        (referred to in this section as the `Fund').
+            ``(2) Use of fund.--The Fund shall be available to the 
+        Commission, without further appropriation or fiscal year 
+        limitation, for the following purposes:
+                    ``(A) Paying awards to whistleblowers as provided 
+                in subsection (a).
+                    ``(B) Funding investor education initiatives 
+                designed to help investors protect themselves against 
+                securities fraud or other violations of the securities 
+                laws, or the rules and regulations thereunder.
+            ``(3) Deposits and credits.--There shall be deposited into 
+        or credited to the Fund--
+                    ``(A) any monetary sanction collected by the 
+                Commission in any judicial or administrative action 
+                brought by the Commission under the securities laws 
+                that is not added to a disgorgement fund pursuant to 
+                section 308 of the Sarbanes-Oxley Act of 2002 or other 
+                fund or otherwise distributed to victims of a violation 
+                of the securities laws, or the rules and regulations 
+                thereunder, underlying such action, unless the balance 
+                of the Fund at the time the monetary sanction is 
+                collected exceeds $100,000,000;
+                    ``(B) any monetary sanction added to a disgorgement 
+                fund pursuant to section 308 of the Sarbanes-Oxley Act 
+                of 2002 or other fund that is not distributed to the 
+                victims for whom the disgorgement fund was established, 
+                unless the balance of the Fund at the time the 
+                determination is made not to distribute the monetary 
+                sanction to such victims exceeds $100,000,000; and
+                    ``(C) all income from investments made under 
+                paragraph (4).
+            ``(4) Investments.--
+                    ``(A) Amounts in fund may be invested.--The 
+                Commission may request the Secretary of the Treasury to 
+                invest the portion of the Fund that is not, in the 
+                Commission's judgment, required to meet the current 
+                needs of the Fund.
+                    ``(B) Eligible investments.--Investments shall be 
+                made by the Secretary of the Treasury in obligations of 
+                the United States or obligations that are guaranteed as 
+                to principal and interest by the United States, with 
+                maturities suitable to the needs of the Fund as 
+                determined by the Commission.
+                    ``(C) Interest and proceeds credited.--The interest 
+                on, and the proceeds from the sale or redemption of, 
+                any obligations held in the Fund shall be credited to, 
+                and form a part of, the Fund.
+            ``(5) Reports to congress.--Not later than October 30 of 
+        each year, the Commission shall transmit to the Committee on 
+        Banking, Housing, and Urban Affairs of the Senate, and the 
+        Committee on Financial Services of the House of Representatives 
+        a report on--
+                    ``(A) the Commission's whistleblower award program 
+                under this section, including a description of the 
+                number of awards granted and the types of cases in 
+                which awards granted during the preceding fiscal year;
+                    ``(B) investor education initiatives described in 
+                paragraph (2)(B) that were funded by the Fund during 
+                the preceding fiscal year;
+                    ``(C) the balance of the Fund at the beginning of 
+                the preceding fiscal year;
+                    ``(D) the amounts deposited into or credited to the 
+                Fund during the preceding fiscal year;
+                    ``(E) the amount of earnings on investments of 
+                amounts in the Fund during the preceding fiscal year;
+                    ``(F) the amount paid from the Fund during the 
+                preceding fiscal year to whistleblowers pursuant to 
+                subsection (a);
+                    ``(G) the amount paid from the Fund during the 
+                preceding fiscal year for investor education 
+                initiatives described in paragraph (1)(B);
+                    ``(H) the balance of the Fund at the end of the 
+                preceding fiscal year; and
+                    ``(I) a complete set of audited financial 
+                statements, including a balance sheet, income 
+                statement, and cash flow analysis.
+    ``(g) Protection of Whistleblowers.--
+            ``(1) Prohibition against retaliation.--
+                    ``(A) In general.--No employer may discharge, 
+                demote, suspend, threaten, harass, or in any other 
+                manner discriminate against an employee, contractor, or 
+                agent in the terms and conditions of employment because 
+                of any lawful act done by the employee, contractor, or 
+                agent in providing information to the Commission in 
+                accordance with subsection (a), or in assisting in any 
+                investigation or judicial or administrative action of 
+                the Commission based upon or related to such 
+                information.
+                    ``(B) Enforcement.--
+                            ``(i) Cause of action.--An individual who 
+                        alleges discharge or other discrimination in 
+                        violation of subparagraph (A) may bring an 
+                        action under this subsection in the appropriate 
+                        district court of the United States for the 
+                        relief provided in subparagraph (C).
+                            ``(i) Subpoenas.--A subpoena requiring the 
+                        attendance of a witness at a trial or hearing 
+                        conducted under this section may be served at 
+                        any place in the United States.
+                            ``(ii) Statute of limitations.--An action 
+                        under this subsection may not be brought more 
+                        than 6 years after the date on which the 
+                        violation of subparagraph (A) occurred, or more 
+                        than 3 years after the date when facts material 
+                        to the right of action are known or reasonably 
+                        should have been known by the employee alleging 
+                        a violation of subparagraph (A), but in no 
+                        event after 10 years after the date on which 
+                        the violation occurs.
+                    ``(C) Relief.--An employee, contractor, or agent 
+                prevailing in any action brought under subparagraph (B) 
+                shall be entitled to all relief necessary to make that 
+                employee, contractor, or agent whole, including 
+                reinstatement with the same seniority status that the 
+                employee, contractor, or agent would have had, but for 
+                the discrimination, 2 times the amount of back pay, 
+                with interest, and compensation for any special damages 
+                sustained as a result of the discrimination, including 
+                litigation costs, expert witness fees, and reasonable 
+                attorneys' fees.
+            ``(2) Confidentiality.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), all information provided to the 
+                Commission by a whistleblower shall be confidential and 
+                privileged as an evidentiary matter (and shall not be 
+                subject to civil discovery or other legal process) in 
+                any proceeding in any Federal or State court or 
+                administrative agency, and shall be exempt from 
+                disclosure, in the hands of an agency or establishment 
+                of the Federal Government, under the Freedom of 
+                Information Act (5 U.S.C. 552), or otherwise, unless 
+                and until required to be disclosed to a defendant or 
+                respondent in connection with a public proceeding 
+                instituted by the Commission or any entity described in 
+                subparagraph (B). For purposes of section 552 of title 
+                5, United States Code, this paragraph shall be 
+                considered a statute described in subsection (b)(3)(B) 
+                of such section 552. Nothing herein is intended to 
+                limit the Attorney General's ability to present such 
+                evidence to a grand jury or to share such evidence with 
+                potential witnesses or defendants in the course of an 
+                ongoing criminal investigation.
+                    ``(B) Availability to government agencies.--Without 
+                the loss of its status as confidential and privileged 
+                in the hands of the Commission, all information 
+                referred to in subparagraph (A) may, in the discretion 
+                of the Commission, when determined by the Commission to 
+                be necessary to accomplish the purposes of this Act and 
+                protect investors, be made available to--
+                            ``(i) the Attorney General of the United 
+                        States,
+                            ``(ii) an appropriate regulatory authority,
+                            ``(iii) a self-regulatory organization,
+                            ``(iv) State attorneys general in 
+                        connection with any criminal investigation, and
+                            ``(v) any appropriate State regulatory 
+                        authority,
+                each of which shall maintain such information as 
+                confidential and privileged, in accordance with the 
+                requirements in subparagraph (A).
+            ``(3) Rights retained.--Nothing in this section shall be 
+        deemed to diminish the rights, privileges, or remedies of any 
+        whistleblower under any Federal or State law, or under any 
+        collective bargaining agreement.
+    ``(h) Rulemaking Authority.--The Commission shall have the 
+authority to issue such rules and regulations as may be necessary or 
+appropriate to implement the provisions of this section.
+    ``(i) Definitions.--For purposes of this section, the following 
+terms have the following meanings:
+            ``(1) Original information.--The term `original 
+        information' means information that--
+                    ``(A) is based on the direct and independent 
+                knowledge or analysis of a whistleblower;
+                    ``(B) is not known to the Commission from any other 
+                source; and
+                    ``(C) is not based on allegations in a judicial or 
+                administrative hearing, in a governmental report, 
+                hearing, audit, or investigation, or from the news 
+                media, unless the whistleblower is the initial source 
+                of the information that resulted in the judicial or 
+                administrative hearing, governmental report, hearing, 
+                audit, or investigation, or the news media's report on 
+                the allegations.
+            ``(2) Monetary sanctions.--The term `monetary sanctions,' 
+        when used with respect to any judicial or administrative 
+        action, means any monies, including but not limited to 
+        penalties, disgorgement, and interest, ordered to be paid, and 
+        any monies deposited into a disgorgement fund pursuant to 
+        section 308(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
+        7246(b)), as a result of such action or any settlement of such 
+        action.
+            ``(3) Related action.--The term `related action,' when used 
+        with respect to any judicial or administrative action brought 
+        by the Commission under the securities laws, means any judicial 
+        or administrative action brought by an entity described in 
+        subsection (g)(2)(B) that is based upon the same original 
+        information provided by a whistleblower pursuant to subsection 
+        (a) that led to the successful enforcement of the Commission 
+        action.
+            ``(4) Whistleblower.--The term `whistleblower' means an 
+        individual, or two or more individuals acting jointly, who 
+        submit information to the Commission as provided in this 
+        section.''.
+
+SEC. 203. CONFORMING AMENDMENTS FOR WHISTLEBLOWER PROTECTION.
+
+    (a) In General.--Each of the following provisions is amended by 
+inserting ``and section 21F of the Securities Exchange Act of 1934'' 
+after ``the Sarbanes-Oxley Act of 2002'':
+            (1) Section 20(d)(3)(A) of the Securities Act of 1933 (15 
+        U.S.C. 77t(d)(3)(A)).
+            (2) Section 42(e)(3)(A) of the Investment Company Act of 
+        1940 (15 U.S.C. 80a-41(e)(3)(A)).
+            (3) Section 209(e)(3)(A) of the Investment Advisers Act of 
+        1940 (15 U.S.C. 80b-9(e)(3)(A)).
+    (b) Securities Exchange Act.--The Securities Exchange Act of 1934 
+(15 U.S.C. 78a et seq.) is amended--
+            (1) in section 21(d)(3)(C)(i) (15 U.S.C. 78u(d)(3)(C)(i)), 
+        by inserting ``and section 21F of this title'' after ``the 
+        Sarbanes-Oxley Act of 2002'';
+            (2) in section 21A(d)(1) (15 U.S.C. 78u-1(d)(1))--
+                    (A) by striking ``(subject to subsection (e))''; 
+                and
+                    (B) by inserting ``and section 21F of this title'' 
+                after ``the Sarbanes-Oxley Act of 2002''; and
+            (3) in section 21A, by striking subsection (e) and 
+        redesignating subsections (f) and (g) as subsection (e) and 
+        (f), respectively.
+
+SEC. 204. IMPLEMENTATION AND TRANSITION PROVISIONS FOR WHISTLEBLOWER 
+              PROTECTIONS.
+
+    (a) Implementing Rules.--The Securities and Exchange Commission 
+shall issue final regulations implementing the provisions of section 
+21F of the Securities Exchange Act of 1934, as added by this title, no 
+later than 270 days after the date of enactment of this Act.
+    (b) Original Information.--Information submitted to the Commission 
+by a whistleblower in accordance with regulations implementing the 
+provisions of section 21F of the Securities Exchange Act of 1934, as 
+added by this title, shall not lose its status as original information, 
+as defined in subsection (i)(1) of such section, solely because the 
+whistleblower submitted such information prior to the effective date of 
+such regulations, provided such information was submitted after the 
+date of enactment of this Act, or related to insider trading violations 
+for which a bounty could have been paid at the time such information 
+was submitted.
+    (c) Awards.--A whistleblower may receive an award pursuant to 
+section 21F of the Securities Exchange Act of 1934, as added by this 
+title, regardless of whether any violation of a provision of the 
+securities laws, or a rule or regulation thereunder, underlying the 
+judicial or administrative action upon which the award is based 
+occurred prior to the date of enactment of this Act.
+
+SEC. 205. COLLATERAL BARS.
+
+    (a) Section 15 of the Securities Exchange Act of 1934.--Section 
+15(b)(6)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o(b)(6)(A)) is amended by striking ``12 months, or bar such person 
+from being associated with a broker or dealer,'' and inserting ``12 
+months, or bar any such person from being associated with a broker, 
+dealer, investment adviser, municipal securities dealer, transfer 
+agent, or nationally recognized statistical rating organization,''.
+    (b) Section 15B of the Securities Exchange Act of 1934.--Section 
+15B(c)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-
+4(c)(4)) is amended by striking ``twelve months or bar any such person 
+from being associated with a municipal securities dealer,'' and 
+inserting ``12 months or bar any such person from being associated with 
+a broker, dealer, investment adviser, municipal securities dealer, 
+transfer agent, or nationally recognized statistical rating 
+organization,''.
+    (c) Section 17A of the Securities Exchange Act of 1934.--Section 
+17A(c)(4)(C) of the Securities Exchange Act of 1934 (15 U.S.C. 78q-
+1(c)(4)(C)) is amended by striking ``twelve months or bar any such 
+person from being associated with the transfer agent,'' and inserting 
+``12 months or bar any such person from being associated with any 
+transfer agent, broker, dealer, investment adviser, municipal 
+securities dealer, or nationally recognized statistical rating 
+organization,''.
+    (d) Section 203 of the Investment Advisers Act of 1940.--Section 
+203(f) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3(f)) is 
+amended by striking ``twelve months or bar any such person from being 
+associated with an investment adviser,'' and inserting ``12 months or 
+bar any such person from being associated with an investment adviser, 
+broker, dealer, municipal securities dealer, transfer agent, or 
+nationally recognized statistical rating organization,''.
+
+SEC. 206. AIDING AND ABETTING AUTHORITY UNDER THE SECURITIES ACT AND 
+              THE INVESTMENT COMPANY ACT.
+
+    (a) Under the Securities Act of 1933.--Section 15 of the Securities 
+Act of 1933 (15 U.S.C. 77o) is amended--
+            (1) by striking ``Every person who'' and inserting ``(a) 
+        Controlling Persons.--Every person who''; and
+            (2) by adding at the end the following:
+    ``(b) Prosecution of Persons Who Aid and Abet Violations.--For 
+purposes of any action brought by the Commission under subparagraph (b) 
+or (d) of section 20, any person that knowingly or recklessly provides 
+substantial assistance to another person in violation of a provision of 
+this Act, or of any rule or regulation issued under this Act, shall be 
+deemed to be in violation of such provision to the same extent as the 
+person to whom such assistance is provided.''.
+    (c) Under the Investment Company Act of 1940.--Section 48 of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-48) is amended by 
+redesignating subsection (b) as subsection (c) and inserting after 
+subsection (a) the following:
+    ``(b) For purposes of any action brought by the Commission under 
+subsection (d) or (e) of section 42, any person that knowingly or 
+recklessly provides substantial assistance to another person in 
+violation of a provision of this Act, or of any rule or regulation 
+issued under this Act, shall be deemed to be in violation of such 
+provision to the same extent as the person to whom such assistance is 
+provided.''.
+
+SEC. 207. AUTHORITY TO IMPOSE PENALTIES FOR AIDING AND ABETTING 
+              VIOLATIONS OF THE INVESTMENT ADVISERS ACT.
+
+    Section 209 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+9) is amended by inserting at the end the following new subsection:
+    ``(f) Aiding and Abetting.--For purposes of any action brought by 
+the Commission under subsection (e), any person that knowingly or 
+recklessly has aided, abetted, counseled, commanded, induced, or 
+procured a violation of any provision of this Act, or of any rule, 
+regulation, or order hereunder, shall be deemed to be in violation of 
+such provision, rule, regulation, or order to the same extent as the 
+person that committed such violation.''.
+
+SEC. 208. DEADLINE FOR COMPLETING EXAMINATIONS, INSPECTIONS AND 
+              ENFORCEMENT ACTIONS.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by inserting after section 4D (as added by section 101) the 
+following new section:
+
+``SEC. 4E. DEADLINE FOR COMPLETING EXAMINATIONS, INVESTIGATIONS AND 
+              ENFORCEMENT ACTIONS.
+
+    ``(a) In General.--The Commission shall complete any examination, 
+investigations, or enforcement action initiated by the Commission not 
+later than 180 days after the date on which such examination, 
+inspection, or enforcement action is commenced.
+    ``(b) Exception for Certain Complex Actions.--Notwithstanding 
+subsection (a), if the head of any division or office within the 
+Commission determines that a particular examination, investigation, or 
+enforcement action is sufficiently complex that it cannot be completed 
+within the deadline provided under subsection (a), such head may, after 
+providing notice to the Chairman of the Commission, extend such 
+deadline by an additional 180 days.''.
+
+SEC. 209. NATIONWIDE SERVICE OF SUBPOENAS.
+
+    (a) Securities Act of 1933.--Section 22(a) of the Securities Act of 
+1933 (15 U.S.C. 77v(a)) is amended by inserting after the second 
+sentence the following: ``In any action or proceeding instituted by the 
+Commission under this title in a United States district court for any 
+judicial district, subpoenas issued by or on behalf of such court to 
+compel the attendance of witnesses or the production of documents or 
+tangible things (or both) may be served in any other district. Such 
+subpoenas may be served and enforced without application to the court 
+or a showing of cause, notwithstanding the provisions of rule 45(b)(2), 
+(c)(3)(A)(ii), and (c)(3)(B)(iii) of the Federal Rules of Civil 
+Procedure.''.
+    (b) Securities Exchange Act of 1934.--Section 27 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78aa) is amended by inserting after the 
+third sentence the following: ``In any action or proceeding instituted 
+by the Commission under this title in a United States district court 
+for any judicial district, subpoenas issued by or on behalf of such 
+court to compel the attendance of witnesses or the production of 
+documents or tangible things (or both) may be served in any other 
+district. Such subpoenas may be served and enforced without application 
+to the court or a showing of cause, notwithstanding the provisions of 
+rule 45(b)(2), (c)(3)(A)(ii), and (c)(3)(B)(iii) of the Federal Rules 
+of Civil Procedure.''.
+    (c) Investment Company Act of 1940.--Section 44 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-43) is amended by inserting after 
+the fourth sentence the following: ``In any action or proceeding 
+instituted by the Commission under this title in a United States 
+district court for any judicial district, subpoenas issued by or on 
+behalf of such court to compel the attendance of witnesses or the 
+production of documents or tangible things (or both) may be served in 
+any other district. Such subpoenas may be served and enforced without 
+application to the court or a showing of cause, notwithstanding the 
+provisions of rule 45(b)(2), (c)(3)(A)(ii), and (c)(3)(B)(iii) of the 
+Federal Rules of Civil Procedure.''.
+    (d) Investment Advisers Act of 1940.--Section 214 of the Investment 
+Advisers Act of 1940 (15 U.S.C. 80b-14) is amended by inserting after 
+the third sentence the following: ``In any action or proceeding 
+instituted by the Commission under this title in a United States 
+district court for any judicial district, subpoenas issued by or on 
+behalf of such court to compel the attendance of witnesses or the 
+production of documents or tangible things (or both) may be served in 
+any other district. Such subpoenas may be served and enforced without 
+application to the court or a showing of cause, notwithstanding the 
+provisions of rule 45(b)(2), (c)(3)(A)(ii), and (c)(3)(B)(iii) of the 
+Federal Rules of Civil Procedure.''.
+
+SEC. 210. AUTHORITY TO IMPOSE CIVIL PENALTIES IN CEASE AND DESIST 
+              PROCEEDINGS.
+
+    (a) Under the Securities Act of 1933.--Section 8A of the Securities 
+Act of 1933 (15 U.S.C. 77h-1) is amended by adding at the end the 
+following new subsection:
+    ``(g) Authority To Impose Money Penalties.--
+            ``(1) Grounds for imposing.--In any cease-and-desist 
+        proceeding under subsection (a), the Commission may impose a 
+        civil penalty on a person if it finds, on the record after 
+        notice and opportunity for hearing, that--
+                    ``(A) such person--
+                            ``(i) is violating or has violated any 
+                        provision of this title, or any rule or 
+                        regulation thereunder; or
+                            ``(ii) is or was a cause of the violation 
+                        of any provision of this title, or any rule or 
+                        regulation thereunder; and
+                    ``(B) such penalty is in the public interest.
+            ``(2) Maximum amount of penalty.--
+                    ``(A) First tier.--The maximum amount of penalty 
+                for each act or omission described in paragraph (1) 
+                shall be $7,500 for a natural person or $75,000 for any 
+                other person.
+                    ``(B) Second tier.--Notwithstanding paragraph (A), 
+                the maximum amount of penalty for each such act or 
+                omission shall be $75,000 for a natural person or 
+                $375,000 for any other person if the act or omission 
+                described in paragraph (1) involved fraud, deceit, 
+                manipulation, or deliberate or reckless disregard of a 
+                regulatory requirement.
+                    ``(C) Third tier.--Notwithstanding paragraphs (A) 
+                and (B), the maximum amount of penalty for each such 
+                act or omission shall be $150,000 for a natural person 
+                or $725,000 for any other person if--
+                            ``(i) the act or omission described in 
+                        paragraph (1) involved fraud, deceit, 
+                        manipulation, or deliberate or reckless 
+                        disregard of a regulatory requirement; and
+                            ``(ii) such act or omission directly or 
+                        indirectly resulted in substantial losses or 
+                        created a significant risk of substantial 
+                        losses to other persons or resulted in 
+                        substantial pecuniary gain to the person who 
+                        committed the act or omission.
+            ``(3) Evidence concerning ability to pay.--In any 
+        proceeding in which the Commission may impose a penalty under 
+        this section, a respondent may present evidence of the 
+        respondent's ability to pay such penalty. The Commission may, 
+        in its discretion, consider such evidence in determining 
+        whether such penalty is in the public interest. Such evidence 
+        may relate to the extent of such person's ability to continue 
+        in business and the collectability of a penalty, taking into 
+        account any other claims of the United States or third parties 
+        upon such person's assets and the amount of such person's 
+        assets.''.
+    (b) Under the Securities Exchange Act of 1934.--Subsection (a) of 
+section 21B of the Securities Exchange Act of 1934 (15 U.S.C. 78u-2(a)) 
+is amended--
+            (1) by striking ``(a) Commission Authority To Assess Money 
+        Penalties.--In any proceeding'' and inserting the following:
+    ``(a) Commission Authority To Assess Money Penalties.--
+            ``(1) In general.--In any proceeding'';
+            (2) by redesignating paragraphs (1) through (4) of such 
+        subsection as subparagraphs (A) through (D), respectively, and 
+        moving such redesignated subparagraphs and the matter following 
+        such subparagraphs 2 ems to the right; and
+            (3) by adding at the end of such subsection the following 
+        new paragraph:
+            ``(2) Cease-and-desist proceedings.--In any proceeding 
+        instituted pursuant to section 21C of this title against any 
+        person, the Commission may impose a civil penalty if it finds, 
+        on the record after notice and opportunity for hearing, that 
+        such person--
+                    ``(A) is violating or has violated any provision of 
+                this title, or any rule or regulation thereunder; or
+                    ``(B) is or was a cause of the violation of any 
+                provision of this title, or any rule or regulation 
+                thereunder.''.
+    (c) Under the Investment Company Act of 1940.--Paragraph (1) of 
+section 9(d) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+9(d)(1)) is amended--
+            (1) by striking ``(1) Authority of commission.--In any 
+        proceeding'' and inserting the following:
+            ``(1) Authority of commission.--
+                    ``(A) In general.--In any proceeding'';
+            (2) by redesignating subparagraphs (A) through (C) of such 
+        paragraph as clauses (i) through (iii), respectively, and by 
+        moving such redesignated clauses and the matter following such 
+        subparagraphs 2 ems to the right; and
+            (3) by adding at the end of such paragraph the following 
+        new subparagraph:
+                    ``(B) Cease-and-desist proceedings.--In any 
+                proceeding instituted pursuant to subsection (f) 
+                against any person, the Commission may impose a civil 
+                penalty if it finds, on the record after notice and 
+                opportunity for hearing, that such person--
+                            ``(i) is violating or has violated any 
+                        provision of this title, or any rule or 
+                        regulation thereunder; or
+                            ``(ii) is or was a cause of the violation 
+                        of any provision of this title, or any rule or 
+                        regulation thereunder.''.
+    (d) Under the Investment Advisers Act of 1940.--Paragraph (1) of 
+section 203(i) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+3(i)(1)) is amended--
+            (1) by striking ``(1) Authority of commission.--In any 
+        proceeding'' and inserting the following:
+            ``(1) Authority of commission.--
+                    ``(A) In general.--In any proceeding'';
+            (2) by redesignating subparagraphs (A) through (D) of such 
+        paragraph as clauses (i) through (iv), respectively, and moving 
+        such redesignated clauses and the matter following such 
+        subparagraphs 2 ems to the right; and
+            (3) by adding at the end of such paragraph the following 
+        new subparagraph:
+                    ``(B) Cease-and-desist proceedings.--In any 
+                proceeding instituted pursuant to subsection (k) 
+                against any person, the Commission may impose a civil 
+                penalty if it finds, on the record after notice and 
+                opportunity for hearing, that such person--
+                            ``(i) is violating or has violated any 
+                        provision of this title, or any rule or 
+                        regulation thereunder; or
+                            ``(ii) is or was a cause of the violation 
+                        of any provision of this title, or any rule or 
+                        regulation thereunder.''.
+
+SEC. 211. FORMERLY ASSOCIATED PERSONS.
+
+    (a) Member or Employee of the Municipal Securities Rulemaking 
+Board.--Section 15B(c)(8) of the Securities Exchange Act of 1934 (15 
+U.S.C. 78o-4(c)(8)) is amended by striking ``any member or employee'' 
+and inserting ``any person who is, or at the time of the alleged 
+misconduct was, a member or employee''.
+    (b) Person Associated With a Government Securities Broker or 
+Dealer.--Section 15C of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o-5) is amended--
+            (1) in subsection (c)(1)(C), by striking ``or seeking to 
+        become associated,'' and inserting ``seeking to become 
+        associated, or, at the time of the alleged misconduct, 
+        associated or seeking to become associated'';
+            (2) in subsection (c)(2)(A), by inserting ``, seeking to 
+        become associated, or, at the time of the alleged misconduct, 
+        associated or seeking to become associated'' after ``any person 
+        associated''; and
+            (3) in subsection (c)(2)(B), by inserting ``, seeking to 
+        become associated, or, at the time of the alleged misconduct, 
+        associated or seeking to become associated'' after ``any person 
+        associated''.
+    (c) Person Associated With a Member of a National Securities 
+Exchange or Registered Securities Association.--Section 21(a)(1) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78u(a)(1)) is amended by 
+inserting ``, or, as to any act or practice, or omission to act, while 
+associated with a member, formerly associated'' after ``member or a 
+person associated''.
+    (d) Participant of a Registered Clearing Agency.--Section 21(a)(1) 
+of the Securities Exchange Act of 1934 (15 U.S.C. 78u(a)(1)) is amended 
+by inserting ``or, as to any act or practice, or omission to act, while 
+a participant, was a participant,'' after ``in which such person is a 
+participant,''.
+    (e) Officer or Director of a Self-regulatory Organization.--Section 
+19(h)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(h)(4)) 
+is amended--
+            (1) by striking ``any officer or director'' and inserting 
+        ``any person who is, or at the time of the alleged misconduct 
+        was, an officer or director''; and
+            (2) by striking ``such officer or director'' and inserting 
+        ``such person''.
+    (f) Officer or Director of an Investment Company.--Section 36(a) of 
+the Investment Company Act of 1940 (15 U.S.C. 80a-35(a)) is amended--
+            (1) by striking ``a person serving or acting'' and 
+        inserting ``a person who is, or at the time of the alleged 
+        misconduct was, serving or acting''; and
+            (2) by striking ``such person so serves or acts'' and 
+        inserting ``such person so serves or acts, or at the time of 
+        the alleged misconduct, so served or acted''.
+    (g) Person Associated With a Public Accounting Firm.--
+            (1) Sarbanes-oxley act of 2002 amendment.--Section 2(a)(9) 
+        of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(9)) is 
+        amended by adding at the end the following new subparagraph:
+                    ``(C) Investigative and enforcement authority.--For 
+                purposes of the provisions of sections 3(c), 101(c), 
+                105, and 107(c) and Board or Commission rules 
+                thereunder, except to the extent specifically excepted 
+                by such rules, the terms defined in subparagraph (A) 
+                shall include any person associated, seeking to become 
+                associated, or formerly associated with a public 
+                accounting firm, except--
+                            ``(i) the authority to conduct an 
+                        investigation of such person under section 
+                        105(b) shall apply only with respect to any act 
+                        or practice, or omission to act, while such 
+                        person was associated or seeking to become 
+                        associated with that firm; and
+                            ``(ii) the authority to commence a 
+                        disciplinary proceeding under section 
+                        105(c)(1), or impose disciplinary sanctions 
+                        under section 105(c)(4), against such person 
+                        shall apply only on--
+                                    ``(I) the basis of misconduct 
+                                occurring while such person was 
+                                associated or seeking to become 
+                                associated with that firm; or
+                                    ``(II) on a violation of section 
+                                105(b).''.
+            (2) Securities exchange act of 1934 amendment.--Section 
+        21(a)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 
+        78u(a)(1)) is amended by striking ``or a person associated with 
+        such a firm'' and inserting ``, a person associated with such a 
+        firm, or, as to any act, practice, or omission to act, while 
+        associated with such firm, a person formerly associated with 
+        such a firm''.
+    (h) Supervisory Personnel of an Audit Firm.--Section 105(c)(6) of 
+the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(6)) is amended--
+            (1) in subparagraph (A), by striking ``the supervisory 
+        personnel'' and inserting ``any person who is, or at the time 
+        of the alleged failure reasonably to supervise was, a 
+        supervisory person'';
+            (2) in subparagraph (A)(i), by inserting after ``failed 
+        reasonably to supervise'' the following: ``any person who is, 
+        or at the time of the alleged failure, was'';
+            (3) in subparagraph (A)(ii), by striking ``associated'';
+            (4) in subparagraph (B)--
+                    (A) by striking ``No associated person'' and 
+                inserting ``No current or former supervisory person''; 
+                and
+                    (B) by striking ``any other person'' and inserting 
+                ``any current or former associated person''; and
+            (5) in subparagraph (B)(i), by striking ``associated''.
+    (i) Member of the Public Company Accounting Oversight Board.--
+Section 107(d)(3) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
+7217(d)(3)) is amended by striking ``any member'' and inserting ``any 
+person who is, or at the time of the alleged misconduct was, a 
+member''.
+
+SEC. 212. SHARING PRIVILEGED INFORMATION WITH OTHER AUTHORITIES.
+
+    Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x) 
+is amended--
+            (1) by redesignating subsections (d) and (e) as subsections 
+        (e) and (f), respectively;
+            (2) in subsection (e), as redesignated, by striking ``as 
+        provided in subsection (e)'' and inserting ``as provided in 
+        subsection (f)''; and
+            (3) by inserting after subsection (c) the following new 
+        subsection (d)--
+    ``(d) Sharing Privileged Information With Other Authorities.--
+            ``(1) Privileged information provided by the commission.--
+        The Commission shall not be deemed to have waived any privilege 
+        applicable to any information by transferring that information 
+        to or permitting that information to be used by--
+                    ``(A) any agency (as defined in section 6 of title 
+                18, United States Code);
+                    ``(B) any foreign securities authority;
+                    ``(C) any foreign law enforcement authority; or
+                    ``(D) any State securities or law enforcement 
+                authority.
+            ``(2) Non-disclosure of privileged information provided to 
+        the commission.--Except as provided in subsection (f), the 
+        Commission shall not be compelled to disclose privileged 
+        information obtained from any foreign securities authority, or 
+        foreign law enforcement authority, if the authority has in good 
+        faith determined and represented to the Commission that the 
+        information is privileged.
+            ``(3) Non-waiver of privileged information provided to the 
+        commission.--No Federal agency or State securities or law 
+        enforcement authority shall be deemed to have waived any 
+        privilege applicable to any information by transferring that 
+        information to or permitting that information to be used by the 
+        Commission.
+            ``(4) Definitions.--For purposes of this subsection:
+                    ``(A) The term `privilege' includes any work-
+                product privilege, attorney-client privilege, 
+                governmental privilege, or other privilege recognized 
+                under Federal, foreign, or State law.
+                    ``(B) The term `foreign law enforcement authority' 
+                means any foreign authority that is empowered under 
+                foreign law to detect, investigate or prosecute 
+                potential violations of law.
+                    ``(C) The term `State securities or law enforcement 
+                authority' means the authority of any State or 
+                territory that is empowered under State or territory 
+                law to detect, investigate or prosecute potential 
+                violations of law.''.
+
+SEC. 213. EXPANDED ACCESS TO GRAND JURY MATERIAL.
+
+    (a) In General.--Title VI of the Sarbanes-Oxley Act of 2002 is 
+amended by adding at the end the following new section:
+
+``SEC. 605. ACCESS TO GRAND JURY INFORMATION.
+
+    ``(a) Disclosure.--
+            ``(1) In general.--Upon motion of an attorney for the 
+        government, a court may direct disclosure of matters occurring 
+        before a grand jury during an investigation of conduct that may 
+        constitute a violation of any provision of the securities laws 
+        to the Commission for use in relation to any matter within the 
+        jurisdiction of the Commission.
+            ``(2) Substantial need required.--A court may issue an 
+        order under paragraph (1) only upon a finding of a substantial 
+        need in the public interest.
+    ``(b) Use of Matter.--A person to whom a matter has been disclosed 
+under this section shall not use such matter other than for the purpose 
+for which such disclosure was authorized.
+    ``(c) Definitions.--As used in this section, the terms `attorney 
+for the government' and `grand jury information' have the meanings 
+given to those terms in section 3322 of title 18, United States 
+Code.''.
+    (b) Conforming Amendment.--The table of contents in section 1(b) of 
+the Sarbanes-Oxley Act of 2002 is amended by inserting after the item 
+relating to section 604 the following:
+
+``Sec. 605. Access to grand jury information.''.
+
+SEC. 214. AIDING AND ABETTING STANDARD OF KNOWLEDGE SATISFIED BY 
+              RECKLESSNESS.
+
+    Section 20(e) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78t(e)) is amended by inserting ``or recklessly'' after ``knowingly''.
+
+SEC. 215. EXTRATERRITORIAL JURISDICTION OF THE ANTIFRAUD PROVISIONS OF 
+              THE FEDERAL SECURITIES LAWS.
+
+    (a) Under the Securities Act of 1933.--Section 22 of the Securities 
+Act of 1933 (15 U.S.C. 77v(a)) is amended by adding at the end the 
+following new subsection:
+    ``(c) Extraterritorial Jurisdiction.--The jurisdiction of the 
+district courts of the United States and the United States courts of 
+any Territory described under subsection (a) includes violations of 
+section 17(a), and all suits in equity and actions at law under that 
+section, involving--
+            ``(1) conduct within the United States that constitutes 
+        significant steps in furtherance of the violation, even if the 
+        securities transaction occurs outside the United States and 
+        involves only foreign investors; or
+            ``(2) conduct occurring outside the United States that has 
+        a foreseeable substantial effect within the United States.''.
+    (b) Under the Securities Exchange Act of 1934.--Section 27 of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78aa) is amended--
+            (1) by striking ``The district'' and inserting the 
+        following:
+    ``(a) In General.--The district''; and
+            (2) by inserting at the end the following new subsection:
+    ``(b) Extraterritorial Jurisdiction.--The jurisdiction of the 
+district courts of the United States and the United States courts of 
+any Territory or other place subject to the jurisdiction of the United 
+States described under subsection (a) includes violations of the 
+antifraud provisions of this title, and all suits in equity and actions 
+at law under those provisions, involving--
+            ``(1) conduct within the United States that constitutes 
+        significant steps in furtherance of the violation, even if the 
+        securities transaction occurs outside the United States and 
+        involves only foreign investors; or
+            ``(2) conduct occurring outside the United States that has 
+        a foreseeable substantial effect within the United States.''.
+    (c) Under the Investment Advisers Act of 1940.--Section 214 of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-14) is amended--
+            (1) by striking ``The district'' and inserting the 
+        following:
+    ``(a) In General.--The district''; and
+            (2) by inserting at the end the following new subsection:
+    ``(b) Extraterritorial Jurisdiction.--The jurisdiction of the 
+district courts of the United States and the United States courts of 
+any Territory or other place subject to the jurisdiction of the United 
+States described under subsection (a) includes violations of section 
+206, and all suits in equity and actions at law under that section, 
+involving--
+            ``(1) conduct within the United States that constitutes 
+        significant steps in furtherance of the violation, even if the 
+        securities transaction occurs outside the United States and 
+        involves only foreign investors; or
+            ``(2) conduct occurring outside the United States that has 
+        a foreseeable substantial effect within the United States.''.
+
+SEC. 216. FIDELITY BONDING.
+
+    Section 17(g) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+17(g)) is amended to read as follows:
+    ``(g) Fidelity Bonding.--
+            ``(1) In general.--The Commission is authorized to require 
+        that a registered management investment company provide and 
+        maintain a bond against loss caused by any fraudulent act or 
+        theft committed by any officer or employee of the company, 
+        either alone or in collusion with others, in such form and 
+        amount as the Commission may prescribe by rule, regulation, or 
+        order for the protection of investors.
+            ``(2) Definitions.--For purposes of this subsection, the 
+        term `officer or employee' shall include the officers and 
+        employees of the depositor, trustee, investment adviser, or any 
+        other manager of the registered investment company, and any 
+        affiliated person of any such person.''.
+
+SEC. 217. ENHANCED SEC AUTHORITY TO CONDUCT SURVEILLANCE AND RISK 
+              ASSESSMENT.
+
+    (a) Securities Exchange Act of 1934 Amendments.--Section 17(b) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78q(b)) is amended by 
+adding at the end the following new paragraph:
+            ``(5) Surveillance and risk assessment.--All persons 
+        described in subsection (a) of this section are subject at any 
+        time, or from time to time, to such reasonable periodic, 
+        special, or other information and document requests by 
+        representatives of the Commission as the Commission by rule or 
+        order deems necessary or appropriate to conduct surveillance or 
+        risk assessments of the securities markets, persons registered 
+        with the Commission under this title, or otherwise in 
+        furtherance of the purposes of this title.''.
+    (b) Investment Company Act of 1940 Amendments.--Section 31(b) of 
+the Investment Company Act of 1940 (15 U.S.C. 80a-30(b)) is amended by 
+adding at the end the following new paragraph:
+            ``(4) Surveillance and risk assessment.--All persons 
+        described in paragraph (1) are subject at any time, or from 
+        time to time, to such reasonable periodic, special, or other 
+        information and document requests by representatives of the 
+        Commission as the Commission by rule or order deems necessary 
+        or appropriate to conduct surveillance or risk assessments of 
+        the securities markets, persons registered with the Commission 
+        under this title, or otherwise in furtherance of the purposes 
+        of this title.''.
+    (c) Investment Advisers Act of 1940 Amendments.--Section 204 of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-4) is amended by adding 
+at the end the following new subsection:
+    ``(d) Surveillance and Risk Assessment.--All persons described in 
+subsection (a) are subject at any time, or from time to time, to such 
+reasonable periodic, special, or other information and document 
+requests by representatives of the Commission as the Commission by rule 
+or order deems necessary or appropriate to conduct surveillance or risk 
+assessments of the securities markets, persons registered with the 
+Commission under this title, or otherwise in furtherance of the 
+purposes of this title.''.
+
+SEC. 218. INVESTMENT COMPANY EXAMINATIONS.
+
+    Section 31(b)(1) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-30) is amended to read as follows:
+            ``(1) In general.--All records of each registered 
+        investment company, and each underwriter, broker, dealer, or 
+        investment adviser that is a majority-owned subsidiary of such 
+        a company, shall be subject at any time, or from time to time, 
+        to such reasonable periodic, special, or other examinations by 
+        representatives of the Commission as the Commission deems 
+        necessary or appropriate in the public interest or for the 
+        protection of investors.''.
+
+SEC. 219. CONTROL PERSON LIABILITY UNDER THE SECURITIES EXCHANGE ACT.
+
+    Section 20(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78t(a)) is amended by inserting after ``controlled person is liable'' 
+the following: ``including to the Commission in any action brought 
+under paragraph (1) or (3) of section 21(d),''.
+
+SEC. 220. ENHANCED APPLICATION OF ANTI-FRAUD PROVISIONS.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended--
+            (1) in section 9--
+                    (A) by striking ``registered on a national 
+                securities exchange'' each place it appears and 
+                inserting ``other than a government security'';
+                    (B) in subsection (b), by striking ``by use of any 
+                facility of a national securities exchange,''; and
+                    (C) in subsection (c), by inserting after 
+                ``unlawful for any'' the following: ``broker, dealer, 
+                or'';
+            (2) in section 10(a)(1), by striking ``registered on a 
+        national securities exchange'' each place it appears and 
+        inserting ``other than a government security''; and
+            (3) in section 15(c)(1)(A), by striking ``otherwise than on 
+        a national securities exchange of which it is a member''.
+
+             TITLE III--COMMISSION FUNDING AND ORGANIZATION
+
+SEC. 301. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 35 of the Securities Exchange Act of 1934 (15 U.S.C. 78kk) 
+is amended to read as follows:
+
+``SEC. 35. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``In addition to any other funds authorized to be appropriated to 
+the Commission, there are authorized to be appropriated to carry out 
+the functions, powers, and duties of the Commission--
+            ``(1) for fiscal year 2010, $1,115,000,000;
+            ``(2) for fiscal year 2011, $1,300,000,000;
+            ``(3) for fiscal year 2012, $1,500,000,000;
+            ``(4) for fiscal year 2013, $1,750,000,000;
+            ``(5) for fiscal year 2014, $2,000,000,000; and
+            ``(6) for fiscal year 2015, $2,250,000,000.''.
+
+SEC. 302. INVESTMENT ADVISER REGULATION FUNDING.
+
+    Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+3) is amended by adding at the end the following new subsection:
+    ``(l) Annual Assessment.--
+            ``(1) In general.--The Commission shall, in accordance with 
+        this subsection, collect from investment advisers required to 
+        register with the Commission under this title, fees designed to 
+        help recover the cost of inspections and examinations of 
+        registered investment advisers conducted by the Commission 
+        pursuant to this title.
+            ``(2) Fee payment required.--An investment adviser shall, 
+        at the time of registration with the Commission, and each 
+        fiscal year thereafter during which such adviser is so 
+        registered, pay to the Commission a fair and reasonable fee 
+        determined by the Commission. In determining such fee, the 
+        Commission shall consider--
+                    ``(A) the investment adviser's size;
+                    ``(B) the risk profile of the investment adviser;
+                    ``(C) the types of clients of the investment 
+                adviser; and
+                    ``(D) such other relevant factors as the Commission 
+                determines to be appropriate.
+            ``(3) Amount and use of fees.--
+                    ``(A) Minimum aggregate amount.--The aggregate 
+                amount of fees determined by the Commission under this 
+                subsection for any fiscal year shall be greater than 
+                the amount the Commission spent on inspections and 
+                examinations of registered investment advisers during 
+                the 2009 fiscal year.
+                    ``(B) Excess fees.--The Commission may retain any 
+                excess fees collected under this subsection during a 
+                fiscal year for application towards the costs of 
+                inspections and examinations of investment advisers in 
+                future fiscal years.
+            ``(4) Review and adjustment of fees.--The Commission may 
+        review fee rates established pursuant to this section before 
+        the end of any fiscal year and make any appropriate adjustments 
+        prior to collecting any such fee in the following fiscal year.
+            ``(5) Penalty fee.--The Commission shall prescribe by rule 
+        or regulation an additional fee to be assessed as a penalty for 
+        late payment of fees required by this subsection.
+            ``(6) Judicial review.--Increases or decreases in fees made 
+        pursuant to this section shall not be subject to judicial 
+        review.''.
+
+SEC. 303. AMENDMENTS TO SECTION 31 OF THE SECURITIES EXCHANGE ACT OF 
+              1934.
+
+    Section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee) 
+is amended--
+            (1) in subsection (e)(2), by striking ``September 30'' and 
+        inserting ``September 25'';
+            (2) in subsection (g), by striking ``April 30'' and 
+        inserting ``August 31''; and
+            (3) in subsection (j)--
+                    (A) by striking ``5 months'' and inserting ``4 
+                months''; and
+                    (B) by striking ``(including fees collected during 
+                such 5-month period and assessments collected under 
+                subsection (d) of this section)'' and inserting 
+                ``(including fees estimated to be collected under 
+                subsections (b) and (c) prior to the effective date of 
+                the uniform adjusted rate and assessments estimated to 
+                be collected under subsection (d))''.
+
+SEC. 304. COMMISSION ORGANIZATIONAL STUDY AND REFORM.
+
+    (a) Study Required.--
+            (1) In general.--Not later than the end of the 60-day 
+        period beginning on the date of the enactment of this Act, the 
+        Securities and Exchange Commission (hereinafter in this section 
+        referred to as the ``SEC'') shall hire an independent 
+        consultant of high caliber and with expertise in organizational 
+        restructuring to examine the internal operations, structure, 
+        funding, and need for comprehensive reform of the SEC, self-
+        regulatory organizations, and other entities relevant to the 
+        regulation of securities and the protection of securities 
+        investors.
+            (2) Specific areas for study.--The study required under 
+        paragraph (1) shall, at a minimum, include the study of--
+                    (A) the possible elimination of unnecessary or 
+                redundant units at the SEC;
+                    (B) improving communications between SEC offices 
+                and divisions;
+                    (C) the need to put in place a clear chain of 
+                command structure, particularly for enforcement 
+                examinations and compliance inspections;
+                    (D) the SEC's hiring policies and personal 
+                practices, including--
+                            (i) whether there is a need to further 
+                        streamline hiring authorities for those who are 
+                        not lawyers, accountants, compliance examiners, 
+                        or economists;
+                            (ii) whether there is a need for further 
+                        pay reforms;
+                            (iii) the experiential mix of SEC employees 
+                        and whether such mix efficiently and 
+                        effectively permits the SEC to protect 
+                        investors; and
+                            (iv) the application of civil service laws 
+                        by the SEC; and
+                    (E) the present self-regulatory organizational 
+                structure and a determination of whether the present 
+                reliance on self-regulatory organizations promotes 
+                efficient and effective governance for the securities 
+                markets.
+    (b) Consultant Report.--Not later than the end of the 180-day 
+period beginning on the date of the enactment of this Act, the 
+independent consultant hired pursuant to subsection (a)(1) shall issue 
+a report to the SEC and the Congress containing--
+            (1) a detailed description of any findings and conclusions 
+        made while carrying out the study required under subsection 
+        (a)(1);
+            (2) recommendations for legislative, regulatory, or 
+        administrative action that the consultant determines 
+        appropriate to enable the SEC and other entities on which it 
+        reports to perform their statutorily or otherwise mandated 
+        missions.
+    (c) SEC Report.--Not later than the end of the 6-month period 
+beginning on the date the consultant issues the report under subsection 
+(b), and every 6-months thereafter during the 2-year period following 
+the date on which the consultant issues such report, the SEC shall 
+issue a report to the Committee on Financial Services of the House of 
+Representatives and the Committee on Banking, Housing, and Urban 
+Affairs of the Senate describing the SEC's implementation of the 
+regulatory and administrative recommendations contained in the 
+consultant's report.
+
+                TITLE IV--ADDITIONAL COMMISSION REFORMS
+
+SEC. 401. REGULATION OF SECURITIES LENDING.
+
+    Section 10 of the Securities Exchange Act of 1934 (15 U.S.C. 78j) 
+is amended by adding at the end the following new subsection:
+    ``(c) To effect or accept a transaction involving the loan or 
+borrowing of securities in contravention of such rules and regulations 
+as the Commission may prescribe as necessary or appropriate in the 
+public interest or for the protection of investors.''.
+
+SEC. 402. LOST AND STOLEN SECURITIES.
+
+    Section 17(f)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78q(f)(1)) is amended--
+            (1) in subparagraph (A), by striking ``missing, lost, 
+        counterfeit, or stolen securities'' and inserting ``securities 
+        that are missing, lost, counterfeit, stolen, cancelled, or any 
+        other category of securities as the Commission, by rule, may 
+        prescribe''; and
+            (2) in subparagraph (B), by striking ``or stolen'' and 
+        inserting ``stolen, cancelled, or reported in such other manner 
+        as the Commission, by rule, may prescribe''.
+
+SEC. 403. FINGERPRINTING.
+
+    Section 17(f)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78q(f)(2)) is amended--
+            (1) by striking ``and registered clearing agency,'' and 
+        inserting ``registered clearing agency, registered securities 
+        information processor, national securities exchange, and 
+        national securities association''; and
+            (2) by striking ``or clearing agency,'' and inserting 
+        ``clearing agency, securities information processor, national 
+        securities exchange, or national securities association,''.
+
+SEC. 404. EQUAL TREATMENT OF SELF-REGULATORY ORGANIZATION RULES.
+
+    Section 29(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78cc(a)) is amended by striking ``an exchange required thereby'' and 
+inserting ``a self-regulatory organization,''.
+
+SEC. 405. CLARIFICATION THAT SECTION 205 OF THE INVESTMENT ADVISERS ACT 
+              OF 1940 DOES NOT APPLY TO STATE-REGISTERED ADVISERS.
+
+    Section 205(a) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-5(a)) is amended--
+            (1) by striking ``, unless exempt from registration 
+        pursuant to section 203(b),'' and inserting ``registered or 
+        required to be registered with the Commission'';
+            (2) by striking ``make use of the mails or any means or 
+        instrumentality of interstate commerce, directly or indirectly, 
+        to''; and
+            (3) by striking ``to'' after ``in any way''.
+
+SEC. 406. CONFORMING AMENDMENTS FOR THE REPEAL OF THE PUBLIC UTILITY 
+              HOLDING COMPANY ACT OF 1935.
+
+    (a) Securities Exchange Act of 1934.--The Securities Exchange Act 
+of 1934 (15 U.S.C. 78 et seq.) is amended--
+            (1) in section 3(a)(47) (15 U.S.C. 78c(a)(47)), by striking 
+        ``the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a 
+        et seq.),''; and
+            (2) in section 12(k) (15 U.S.C. 78l(k)), by amending 
+        paragraph (7) to read as follows:   
+            ``(7) Definition.--For purposes of this subsection, the 
+        term `emergency' means--
+                    ``(A) a major market disturbance characterized by 
+                or constituting--
+                            ``(i) sudden and excessive fluctuations of 
+                        securities prices generally, or a substantial 
+                        threat thereof, that threaten fair and orderly 
+                        markets; or
+                            ``(ii) a substantial disruption of the safe 
+                        or efficient operation of the national system 
+                        for clearance and settlement of transactions in 
+                        securities, or a substantial threat thereof; or
+                    ``(B) a major disturbance that substantially 
+                disrupts, or threatens to substantially disrupt--
+                            ``(i) the functioning of securities 
+                        markets, investment companies, or any other 
+                        significant portion or segment of the 
+                        securities markets; or
+                            ``(ii) the transmission or processing of 
+                        securities transactions.''.
+            (3) in section 21(h)(2) (15 U.S.C. 78u(h)(2)), by striking 
+        ``section 18(c) of the Public Utility Holding Company Act of 
+        1935,''.
+    (b) Trust Indenture Act of 1939.--The Trust Indenture Act of 1939 
+(15 U.S.C. 77aaa et seq.) is amended--
+            (1) in section 303 (15 U.S.C. 77ccc), by amending paragraph 
+        (17) to read as follows:
+            ``(17) The terms `Securities Act of 1933' and `Securities 
+        Exchange Act of 1934' shall be deemed to refer, respectively, 
+        to such Acts, as amended, whether amended prior to or after the 
+        enactment of this title.'';
+            (2) in section 308 (15 U.S.C. 77hhh), by striking 
+        ``Securities Act of 1933, the Securities Exchange Act of 1934, 
+        or the Public Utility Holding Company Act of 1935'' each place 
+        it appears and inserting ``Securities Act of 1933 or the 
+        Securities Exchange Act of 1934'';
+            (3) in section 310 (15 U.S.C. 77jjj), by striking 
+        subsection (c) (including the preceding heading);
+            (4) in section 311 (15 U.S.C. 77kkk) by striking subsection 
+        (c);
+            (5) in section 323(b) (15 U.S.C. 77www(b)), by striking 
+        ``Securities Act of 1933, or the Securities Exchange Act of 
+        1934, or the Public Utility Holding Company Act of 1935'' and 
+        inserting ``Securities Act of 1933 or the Securities Exchange 
+        Act of 1934''; and
+            (6) in section 326 (15 U.S.C. 77zzz), by striking 
+        ``Securities Act of 1933, or the Securities Exchange Act of 
+        1934, or the Public Utility Holding Company Act of 1935,'' and 
+        inserting ``Securities Act of 1933 or the Securities Exchange 
+        Act of 1934''.
+    (c) Investment Company Act of 1940.--The Investment Company Act of 
+1940 (15 U.S.C. 80a-1 et seq.) is amended--
+            (1) in section 2(a)(44) (15 U.S.C. 80a-2(a)(44)), by 
+        striking ```Public Utility Holding Company Act of 1935','';
+            (2) in section 3(c) (15 U.S.C. 80a-3(c)), by amending 
+        paragraph (8) to read as follows:
+            ``(8) [Repealed]'';
+            (3) in section 38(b) (15 U.S.C. 80a-37(b)), by striking 
+        ``the Public Utility Holding Company Act of 1935,''; and
+            (4) in section 50 (15 U.S.C. 80a-49), by striking ``the 
+        Public Utility Holding Company Act of 1935,''.
+    (d) Investment Advisers Act of 1940.--Section 202(a)(21) of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)(21)) is amended by 
+striking ```Public Utility Holding Company Act of 1935',''.
+
+SEC. 407. PROMOTING TRANSPARENCY IN FINANCIAL REPORTING.
+
+    (a) Findings.--Congress finds the following:
+            (1) Transparent and clear financial reporting is integral 
+        to the continued growth and strength of our capital markets and 
+        the confidence of investors.
+            (2) The increasing detail and volume of accounting, 
+        auditing, and reporting guidance pose a major challenge.
+            (3) The complexity of accounting and auditing standards in 
+        the United States has added to the costs and effort involved in 
+        financial reporting.
+    (b) Testimony Required on Reducing Complexity in Financial 
+Reporting.--The Securities and Exchange Commission, the Financial 
+Accounting Standards Board, and the Public Company Accounting Oversight 
+Board shall annually provide oral testimony by their respective 
+Chairpersons or a designee of the Chairperson, beginning in 2010, and 
+for 5 years thereafter, to the Committee on Financial Services of the 
+House of Representatives on their efforts to reduce the complexity in 
+financial reporting to provide more accurate and clear financial 
+information to investors, including--
+            (1) reassessing complex and outdated accounting standards;
+            (2) improving the understandability, consistency, and 
+        overall usability of the existing accounting and auditing 
+        literature;
+            (3) developing principles-based accounting standards;
+            (4) encouraging the use and acceptance of interactive data; 
+        and
+            (5) promoting disclosures in ``plain English''.
+
+SEC. 408. UNLAWFUL MARGIN LENDING.
+
+    Section 7(c)(1)(A) of the Securities Exchange Act of 1934 (15 
+U.S.C. 78g(c)(1)(A)) is amended by striking ``; and'' and inserting ``; 
+or''.
+
+SEC. 409. PROTECTING CONFIDENTIALITY OF MATERIALS SUBMITTED TO THE 
+              COMMISSION.
+
+    (a) Securities Exchange Act of 1934.--Section 17(j) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78q(j)) is amended to read 
+as follows:
+    ``(j) Authority To Limit Disclosure of Information.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, the Commission shall not be compelled to disclose any 
+        information, documents, records, or reports that relate to an 
+        examination of a person subject to or described in this 
+        section, including subsection (i)(5)(A), or the financial or 
+        operational condition of such persons, or any information 
+        supplied to the Commission by any domestic or foreign 
+        regulatory agency that relates to the financial or operational 
+        condition of such persons, of any associated person of such 
+        persons, or any affiliate of an investment bank holding 
+        company.
+            ``(2) Certain exceptions.--Nothing in this subsection shall 
+        authorize the Commission to withhold information from the 
+        Congress, prevent the Commission from complying with a request 
+        for information from any other Federal department or agency or 
+        any self-regulatory organization requesting the information for 
+        purposes within the scope of its jurisdiction, or prevent the 
+        Commission from complying with an order of a court of the 
+        United States in an action brought by the United States or the 
+        Commission against a person subject to or described in this 
+        section to produce information, documents, records, or reports 
+        relating directly to the examination of that person or the 
+        financial or operational condition of that person or an 
+        associated or affiliated person of that person.
+            ``(3) Treatment under section 552 of title 5, united states 
+        code.--For purposes of section 552 of title 5, United States 
+        Code, this subsection shall be considered a statute described 
+        in subsection (b)(3)(B) of that section.
+            ``(4) Certain information to be confidential.--In 
+        prescribing regulations to carry out the requirements of this 
+        subsection, the Commission shall designate information 
+        described in or obtained pursuant to subparagraphs (A), (B), 
+        and (C) of subsection (i)(3) as confidential information for 
+        purposes of section 24(b)(2) of this title.''.
+    (b) Investment Company Act of 1940.--Section 31(b) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-30(b)) is amended by 
+adding at the end the following new paragraph:
+            ``(4) Confidentiality.--
+                    ``(A) In general.--Notwithstanding any other 
+                provision of law, the Commission shall not be compelled 
+                to disclose any information, documents, records, or 
+                reports that relate to an examination of a person 
+                subject to or described in this section.
+                    ``(B) Certain exceptions.--Nothing in this 
+                subsection shall authorize the Commission to withhold 
+                information from the Congress, prevent the Commission 
+                from complying with a request for information from any 
+                other Federal department or agency requesting the 
+                information for purposes within the scope of its 
+                jurisdiction, or prevent the Commission from complying 
+                with an order of a court of the United States in an 
+                action brought by the United States or the Commission 
+                against a person subject to or described in this 
+                section to produce information, documents, records, or 
+                reports relating directly to the examination of that 
+                person or the financial or operational condition of 
+                that person or an associated or affiliated person of 
+                that person.
+                    ``(C) Treatment under section 552 of title 5, 
+                united states code.--For purposes of section 552 of 
+                title 5, United States Code, this subsection shall be 
+                considered a statute described in subsection (b)(3)(B) 
+                of that section.''.
+    (c) Investment Advisers Act of 1940.--Section 204 of the Investment 
+Advisers Act of 1940 (15 U.S.C. 80b-4) is amended by adding at the end 
+the following new subsection:
+    ``(d) Confidentiality.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, the Commission shall not be compelled to disclose any 
+        information, documents, records, or reports that relate to an 
+        examination of a person subject to or described in this 
+        section.
+            ``(2) Certain exceptions.--Nothing in this subsection shall 
+        authorize the Commission to withhold information from Congress, 
+        prevent the Commission from complying with a request for 
+        information from any other Federal department or agency 
+        requesting the information for purposes within the scope of its 
+        jurisdiction, or prevent the Commission from complying with an 
+        order of a court of the United States in an action brought by 
+        the United States or the Commission against a person subject to 
+        or described in this section to produce information, documents, 
+        records, or reports relating directly to the examination of 
+        that person or the financial or operational condition of that 
+        person or an associated or affiliated person of that person.
+            ``(3) Treatment under section 552 of title 5, united states 
+        code.--For purposes of section 552 of title 5, United States 
+        Code, this subsection shall be considered a statute described 
+        in subsection (b)(3)(B) of that section.''.
+
+SEC. 410. TECHNICAL CORRECTIONS.
+
+    (a) Securities Act of 1933.--The Securities Act of 1933 (15 U.S.C. 
+77a et seq.) is amended--
+            (1) in section 3(a)(4) (15 U.S.C. 77c(a)(4)), by striking 
+        ``individual;'' and inserting ``individual,'';
+            (2) in section 18(b)(1)(C) (15 U.S.C. 77r(b)(1)(C)), by 
+        striking ``is a security'' and inserting ``a security'';
+            (3) in section 18(c)(2)(B)(i) (15 U.S.C. 77r(c)(2)(B)(i)), 
+        by striking ``State, or'' and inserting ``State or'';
+            (4) in section 19(d)(6)(A) (15 U.S.C. 77s(d)(6)(A)), by 
+        striking ``in paragraph (1) of (3)'' and inserting ``in 
+        paragraph (1) or (3)''; and
+            (5) in section 27A(c)(1)(B)(ii) (15 U.S.C. 77z-
+        2(c)(1)(B)(ii)), by striking ``business entity;'' and inserting 
+        ``business entity,''.
+    (b) Securities Exchange Act of 1934.--The Securities Exchange Act 
+of 1934 (15 U.S.C. 78 et seq.) is amended--
+            (1) in section 2(1)(a) (15 U.S.C. 78b(1)(a)), by striking 
+        ``affected'' and inserting ``effected'';
+            (2) in section 3(a)(55)(A) (15 U.S.C. 78c(a)(55)(A)), by 
+        striking ``section 3(a)(12) of the Securities Exchange Act of 
+        1934'' and inserting ``section 3(a)(12) of this Act'';
+            (3) in section 3(g) (15 U.S.C. 78c(g)), by striking 
+        ``company, account person, or entity'' and inserting ``company, 
+        account, person, or entity'';
+            (4) in section 10A(i)(1)(B)(i) (15 U.S.C. 78j-
+        1(i)(1)(B)(i)), by striking ``nonaudit'' and inserting ``non-
+        audit'';
+            (5) in section 13(b)(1) (15 U.S.C. 78m(b)(1)), by striking 
+        ``earning statement'' and inserting ``earnings statement'';
+            (6) in section 15(b)(1) (15 U.S.C. 78o(b)(1))--
+                    (A) by striking the sentence beginning ``The order 
+                granting'' and ending ``from such membership.'' in 
+                subparagraph (B); and
+                    (B) by inserting such sentence in the matter 
+                following such subparagraph after ``are satisfied.'';
+            (7) in section 15 (15 U.S.C. 78o), by redesignating 
+        subsection (i), as added by section 303(f) of the Commodity 
+        Futures Modernization Act of 2000 (114 Stat. 2763A-455), as 
+        subsection (j);
+            (8) in section 15C(a)(2) (15 U.S.C. 78o-5(a)(2))--
+                    (A) by redesignating clauses (i) and (ii) as 
+                subparagraphs (A) and (B), respectively;
+                    (B) by striking the sentence beginning ``The order 
+                granting'' and ending ``from such membership.'' in such 
+                subparagraph (B), as redesignated; and
+                    (C) by inserting such sentence in the matter 
+                following such redesignated subparagraph after ``are 
+                satisfied.'';
+            (9) in section 16(a)(2)(C) (15 U.S.C. 78p(a)(2)(C)), by 
+        striking ``section 206(b)'' and inserting ``section 206B'';
+            (10) in section 17(b)(1)(B) (15 U.S.C. 78q(b)(1)(B)), by 
+        striking ``15A(k) gives'' and inserting ``15A(k), give''; and
+            (11) in section 21C(c)(2) (15 U.S.C. 78u-3(c)(2)), by 
+        striking ``paragraph (1) subsection'' and inserting ``Paragraph 
+        (1)''.
+    (c) Trust Indenture Act of 1939.--The Trust Indenture Act of 1939 
+(15 U.S.C. 77aaa et seq.) is amended--
+            (1) in section 304(b) (15 U.S.C. 77ddd(b)), by striking 
+        ``section 2 of such Act'' and inserting ``section 2(a) of such 
+        Act'';
+            (2) in section 313(a)(4) (15 U.S.C. 77mmm(a)(4)) by 
+        striking ``subsection 311'' and inserting ``section 311(b)''; 
+        and
+            (3) in section 317(a)(1) (15 U.S.C. 77qqq(a)(1)), by 
+        striking ``(1),'' and inserting ``(1)''.
+    (d) Investment Company Act of 1940.--The Investment Company Act of 
+1940 (15 U.S.C. 80a-1 et seq.) is amended--
+            (1) in section 2(a)(19) (15 U.S.C. 80a-2(a)(19)) by 
+        striking ``clause (vi)'' both places it appears in the last two 
+        sentences and inserting ``clause (vii)'';
+            (2) in section 9(b)(4)(B) (15 U.S.C. 80a-9(b)(4)(B)), by 
+        inserting ``or'' after the semicolon at the end;
+            (3) in section 12(d)(1)(J) (15 U.S.C. 80a-12(d)(1)(J)), by 
+        striking ``any provision of this subsection'' and inserting 
+        ``any provision of this paragraph'';
+            (4) in section 13(a)(3) (15 U.S.C. 80a-13(a)(3)), by 
+        inserting ``or'' after the semicolon at the end;
+            (5) in section 17(f)(4) (15 U.S.C. 80a-17(f)(4)), by 
+        striking ``No such member'' and inserting ``No member of a 
+        national securities exchange'';
+            (6) in section 17(f)(6) (15 U.S.C. 80a-17(f)(6)), by 
+        striking ``company may serve'' and inserting ``company, may 
+        serve''; and
+            (7) in section 61(a)(3)(B)(iii) (15 U.S.C. 80a-
+        60(a)(3)(B)(iii))--
+                    (A) by striking ``paragraph (1) of section 205'' 
+                and inserting ``section 205(a)(1)''; and
+                    (B) by striking ``clause (A) or (B) of that 
+                section'' and inserting ``section 205(b)(1) or (2)''.
+    (e) Investment Advisers Act of 1940.--The Investment Advisers Act 
+of 1940 (15 U.S.C. 80b-1 et seq.) is amended--
+            (1) in each of the following sections, by striking 
+        ``principal business office'' or ``principal place of 
+        business'' (whichever and wherever it appears) and inserting 
+        ``principal office and place of business'': sections 
+        203(c)(1)(A), 203(k)(4)(B), 213(a), 222(b), and 222(c) (15 
+        U.S.C. 80b-3(c)(1)(A), 80b-3(k)(4)(B), 80b-13(a), 80b-18a(b), 
+        and 80b-18a(c)); and
+            (2) in section 206(3) (15 U.S.C. 80b-6(3)), by inserting 
+        ``or'' after the semicolon at the end.
+
+SEC. 411. MUNICIPAL SECURITIES.
+
+    Section 15B(b) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o-4(b)) is amended--
+            (1) by amending paragraph (1) to read as follows:
+            ``(1) Composition of the municipal securities rulemaking 
+        board.--Not later than the end of the 120-day period beginning 
+        on the date of the enactment of this paragraph, the Municipal 
+        Securities Rulemaking Board (hereinafter in this section 
+        referred to as the `Board'), shall be composed of members which 
+        shall perform the duties set forth in this section and shall 
+        consist of--
+                    ``(A) a majority of public representatives, at 
+                least one of whom shall be representative of investors 
+                in municipal securities and at least one of whom shall 
+                be representative of issuers of municipal securities 
+                (which members are hereinafter referred to as `public 
+                representatives');
+                    ``(B) at least one individual who is representative 
+                of municipal securities brokers and municipal 
+                securities dealers which are not banks or subsidiaries 
+                or departments or divisions of banks (which members are 
+                hereinafter referred to as `broker-dealer 
+                representatives'); and
+                    ``(C) at least one individual who is representative 
+                of municipal securities dealers which are banks or 
+                subsidiaries or departments or divisions of banks 
+                (which members are hereinafter referred to as `bank 
+                representatives')''; and
+            (2) by amending paragraph (2)(B) to read as follows:
+                    ``(B) Establish fair procedures for the nomination 
+                and election of members of the Board and assure fair 
+                representation in such nominations and elections. Such 
+                rules--
+                            ``(i) shall establish requirements 
+                        regarding the independence of public 
+                        representatives;
+                            ``(ii) shall provide that the number of 
+                        public representatives of the Board shall at 
+                        all times exceed the total number of broker-
+                        dealer representatives and bank 
+                        representatives;
+                            ``(iii) shall specify the term members 
+                        shall serve; and
+                            ``(iv) may increase or decrease the number 
+                        of members which shall constitute the whole 
+                        Board, but in no case may such number be an 
+                        even number.''.
+
+SEC. 412. INTERESTED PERSON DEFINITION.
+
+    Section 2(a)(19)(A) of the Investment Company Act of 1940 (15 
+U.S.C. 80a-2(a)(19)(A)) is amended--
+            (1) by striking clauses (v) and (vi);
+            (2) by inserting after clause (iv) the following new 
+        clause:
+                            ``(v) any natural person who is a member of 
+                        a class of persons who the Commission, by rule 
+                        or regulation, determines are unlikely to 
+                        exercise an appropriate degree of independence 
+                        as a result of--
+                                    ``(I) a material business or 
+                                professional relationship with such 
+                                company or any affiliated person of 
+                                such company; or
+                                    ``(II) a close familial 
+                                relationship with any natural person 
+                                who is an affiliated person of such 
+                                company;'';
+            (3) by redesignating clause (vii) as clause (vi); and
+            (4) in clause (vi), as redesignated, by striking ``two 
+        completed fiscal years'' and inserting ``five completed fiscal 
+        years''.
+
+SEC. 413. RULEMAKING AUTHORITY TO PROTECT REDEEMING INVESTORS.
+
+    Section 22(e) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+22(e)) is amended by adding at the end the following: ``The Commission 
+may, by rules and regulations, limit the extent to which a registered 
+open-end investment company may own, hold, or invest in illiquid 
+securities or other illiquid property.''.
+
+         TITLE V--SECURITIES INVESTOR PROTECTION ACT AMENDMENTS
+
+SEC. 501. INCREASING THE MINIMUM ASSESSMENT PAID BY SIPC MEMBERS.
+
+    Section 4(d)(1)(C) of the Securities Investor Protection Act of 
+1970 (15 U.S.C. 78ddd(d)(1)(C)) is amended by striking ``$150 per 
+annum'' and inserting the following: ``0.02 percent of the gross 
+revenues of such member of SIPC''.
+
+SEC. 502. INCREASING THE BORROWING LIMIT ON TREASURY LOANS.
+
+    Section 4(h) of the Securities Investor Protection Act of 1970 (15 
+U.S.C. 78ddd(h)) is amended by striking ``of not to exceed 
+$1,000,000,000'' and inserting ``not to exceed $2,500,000,000''.
+
+SEC. 503. INCREASING THE CASH LIMIT OF PROTECTION.
+
+    Section 9 of the Securities Investor Protection Act of 1970 (15 
+U.S.C. 78fff-3) is amended--
+            (1) in subsection (a)(1), by striking ``$100,000 for each 
+        such customer'' and inserting ``the standard maximum cash 
+        advance amount for each such customer, as determined in 
+        accordance with subsection (d)''; and
+            (2) by adding the following new subsections:
+    ``(d) Standard Maximum Cash Advance Amount Defined.--For purposes 
+of this section, the term `standard maximum cash advance amount' means 
+$250,000, as such amount may be adjusted after March 31, 2010, as 
+provided under subsection (e).
+    ``(e) Inflation Adjustment.--
+            ``(1) In general.--No later than April 1, 2010, and every 5 
+        years thereafter, and subject to the approval of the Commission 
+        as provided under section 3(e)(2), the Board of Directors of 
+        SIPC shall determine whether an inflation adjustment to the 
+        standard maximum cash advance amount is appropriate. If the 
+        Board of Directors of SIPC determines such an adjustment is 
+        appropriate, then the standard maximum cash advance amount 
+        shall be an amount equal to--
+                    ``(A) $250,000 multiplied by,
+                    ``(B) the ratio of the annual value of the Personal 
+                Consumption Expenditures Chain-Type Price Index (or any 
+                successor index thereto), published by the Department 
+                of Commerce, for the calendar year preceding the year 
+                in which such determination is made, to the published 
+                annual value of such index for the calendar year 
+                preceding the year in which this subsection was 
+                enacted.
+        The index values used in calculations under this paragraph 
+        shall be, as of the date of the calculation, the values most 
+        recently published by the Department of Commerce.
+            ``(2) Rounding.--If the standard maximum cash advance 
+        amount determined under paragraph (1) for any period is not a 
+        multiple of $10,000, the amount so determined shall be rounded 
+        down to the nearest $10,000.
+            ``(3) Publication and report to the congress.--Not later 
+        than April 5 of any calendar year in which a determination is 
+        required to be made under paragraph (1)--
+                    ``(A) the Commission shall publish in the Federal 
+                Register the standard maximum cash advance amount; and
+                    ``(B) the Board of Directors of SIPC shall submit a 
+                report to the Congress containing stating the standard 
+                maximum cash advance amount.
+            ``(4) Implementation period.--Any adjustment to the 
+        standard maximum cash advance amount shall take effect on 
+        January 1 of the year immediately succeeding the calendar year 
+        in which such adjustment is made.
+            ``(5) Inflation adjustment considerations.--In making any 
+        determination under paragraph (1) to increase the standard 
+        maximum cash advance amount, the Board of Directors of SIPC 
+        shall consider--
+                    ``(A) the overall state of the fund and the 
+                economic conditions affecting members of SIPC;
+                    ``(B) the potential problems affecting members of 
+                SIPC; and
+                    ``(C) such other factors as the Board of Directors 
+                of SIPC may determine appropriate.''.
+
+SEC. 504. SIPC AS TRUSTEE IN SIPA LIQUIDATION PROCEEDINGS.
+
+    Section 5(b)(3) of the Securities Investor Protection Act of 1970 
+(15 U.S.C. 78eee(b)(3)) is amended--
+            (1) by striking ``SIPC has determined that the liabilities 
+        of the debtor to unsecured general creditors and to 
+        subordinated lenders appear to aggregate less than $750,000 and 
+        that''; and
+            (2) by striking ``five hundred'' and inserting ``five 
+        thousand''.
+
+SEC. 505. INSIDERS INELIGIBLE FOR SIPC ADVANCES.
+
+    Section 9(a)(4) of the Securities Investor Protection Act of 1970 
+(15 U.S.C. 78fff-3(a)(4)) is amended by inserting ``an insider (as such 
+term is defined under section 101(31) of title 11, United States 
+Code),'' after ``or net profits of the debtor,''.
+
+SEC. 506. ELIGIBILITY FOR DIRECT PAYMENT PROCEDURE.
+
+    Section 10(a)(4) of the Securities Investor Protection Act of 1970 
+(15 U.S.C. 78fff-4(a)(4)) is amended by striking ``$250,000'' and 
+inserting ``$850,000''.
+
+SEC. 507. INCREASING THE FINE FOR PROHIBITED ACTS UNDER SIPA.
+
+    Section 14(c) of the Securities Investor Protection Act of 1970 (15 
+U.S.C. 78jjj(c)) is amended--
+            (1) in paragraph (1), by striking ``$50,000'' and inserting 
+        ``$250,000''; and
+            (2) in paragraph (2), by striking ``$50,000'' and inserting 
+        ``$250,000''.
+
+SEC. 508. PENALTY FOR MISREPRESENTATION OF SIPC MEMBERSHIP OR 
+              PROTECTION.
+
+    Section 14 of the Securities Investor Protection Act of 1970 (15 
+U.S.C. 78jjj) is amended by adding at the end the following new 
+subsection:
+    ``(d) Misrepresentation of SIPC Membership or Protection.--
+            ``(1) In general.--Any person who falsely represents by any 
+        means (including, without limitation, through the Internet or 
+        any other medium of mass communication), with actual knowledge 
+        of the falsity of the representation and with an intent to 
+        deceive or cause injury to another, that such person, or 
+        another person, is a member of SIPC or that any person or 
+        account is protected or is eligible for protection under this 
+        Act or by SIPC, shall be liable for any damages caused thereby 
+        and shall be fined not more than $250,000 or imprisoned for not 
+        more than five years.
+            ``(2) Internet service providers.--Any Internet service 
+        provider that, on or through a system or network controlled or 
+        operated by the Internet service provider, transmits, routes, 
+        provides connections for, or stores any material containing any 
+        misrepresentation of the kind prohibited in paragraph (1) shall 
+        be liable for any damages caused thereby, including damages 
+        suffered by SIPC, if the Internet service provider--
+                    ``(A) has actual knowledge that the material 
+                contains a misrepresentation of the kind prohibited in 
+                paragraph (1), or
+                    ``(B) in the absence of actual knowledge, is aware 
+                of facts or circumstances from which it is apparent 
+                that the material contains a misrepresentation of the 
+                kind prohibited in paragraph (1), and
+        upon obtaining such knowledge or awareness, fails to act 
+        expeditiously to remove, or disable access to, the material.
+            ``(3) Injunctions.--Any court having jurisdiction of a 
+        civil action arising under this Act may grant temporary 
+        injunctions and final injunctions on such terms as the court 
+        deems reasonable to prevent or restrain any violation of 
+        paragraph (1) or (2). Any such injunction may be served 
+        anywhere in the United States on the person enjoined, shall be 
+        operative throughout the United States, and shall be 
+        enforceable, by proceedings in contempt or otherwise, by any 
+        United States court having jurisdiction over that person. The 
+        clerk of the court granting the injunction shall, when 
+        requested by any other court in which enforcement of the 
+        injunction is sought, transmit promptly to the other court a 
+        certified copy of all papers in the case on file in such 
+        clerk's office.''.
+
+SEC. 509. LIMITATIONS ON CUSTOMER STATUS.
+
+    Section 16(2) of the Securities Investor Protection Act of 1970 (15 
+U.S.C. 78lll(2)) is amended--
+            (1) in subparagraph (A), by striking ``or'';
+            (2) in subparagraph (B), by striking the period at the end 
+        and inserting ``; or''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(C) any person to the extent such person has a 
+                claim for cash or securities arising out of a 
+                repurchase agreement or reverse repurchase agreement 
+                (as such terms are defined under section 47 of title 
+                11, United States Code).''.
+
+SEC. 510. FUTURES HELD IN A PORTFOLIO MARGIN SECURITIES ACCOUNT 
+              PROTECTION.
+
+    (a) SIPC Advances.--Section 9(a)(1) of the Securities Investor 
+Protection Act of 1970 (15 U.S.C. 78fff-3(a)(1)) is amended by 
+inserting ``or options on commodity futures contracts'' after ``claim 
+for securities''.
+    (b) Definitions.--Section 16 of such Act (15 U.S.C. 78lll) is 
+amended--
+            (1) by amending paragraph (2) to read as follows:
+            ``(2) Customer.--
+                    ``(A) In general.--The term `customer' of a debtor 
+                means any person (including any person with whom the 
+                debtor deals as principal or agent) who has a claim on 
+                account of securities received, acquired, or held by 
+                the debtor in the ordinary course of its business as a 
+                broker or dealer from or for the securities accounts of 
+                such person for safekeeping, with a view to sale, to 
+                cover consummated sales, pursuant to purchases, as 
+                collateral, security, or for purposes of effecting 
+                transfer.
+                    ``(B) Included persons.--The term `customer' 
+                includes--
+                            ``(i) any person who has deposited cash 
+                        with the debtor for the purpose of purchasing 
+                        securities; and
+                            ``(ii) any person who has a claim against 
+                        the debtor for, or a claim against the debtor 
+                        arising out of sales or conversions of, cash, 
+                        securities, futures contracts, or options on 
+                        futures contracts received, acquired, or held 
+                        in a portfolio margining account carried as a 
+                        securities account pursuant to a portfolio 
+                        margining program approved by the Commission.
+                    ``(C) Excluded persons.--The term `customer' does 
+                not include--
+                            ``(i) any person to the extent that the 
+                        claim of such person arises out of transactions 
+                        with a foreign subsidiary of a member of SIPC; 
+                        or
+                            ``(ii) any person to the extent that such 
+                        person has a claim for cash or securities which 
+                        by contract, agreement, or understanding, or by 
+                        operation of law, is part of the capital of the 
+                        debtor, or is subordinated to the claims of any 
+                        or all creditors of the debtor, notwithstanding 
+                        that some ground exists for declaring such 
+                        contract, agreement, or understanding void or 
+                        voidable in a suit between the claimant and the 
+                        debtor.'';
+            (2) in paragraph (4), by inserting after the first sentence 
+        the following new sentence: ``In the case of portfolio 
+        margining accounts of customers that are carried as securities 
+        accounts pursuant to a portfolio margining program approved by 
+        the Commission, such term shall also include futures contracts 
+        and options on futures contracts received, acquired, or held by 
+        or for the account of a debtor from or for such accounts, and 
+        the proceeds thereof.'';
+            (3) in paragraph (9), by inserting before ``Such term'' in 
+        the matter following subparagraph (L) the following: ``The term 
+        includes revenues earned by a broker or dealer in connection 
+        with transactions in customers' portfolio margining accounts 
+        carried as securities accounts pursuant to a portfolio 
+        margining program approved by the Commission.''; and
+            (4) in paragraph (11)--
+                    (A) by amending subparagraph (A) to read as 
+                follows:
+                    ``(A) calculating the sum which would have been 
+                owed by the debtor to such customer if the debtor had 
+                liquidated, by sale or purchase on the filing date--
+                            ``(i) all securities positions of such 
+                        customer (other than customer name securities 
+                        reclaimed by such customer); and
+                            ``(ii) all positions in futures contracts 
+                        and options on futures contracts held in a 
+                        portfolio margining account carried as a 
+                        securities account pursuant to a portfolio 
+                        margining program approved by the Commission; 
+                        minus''; and
+                    (B) by inserting before ``In determining'' in the 
+                matter following subparagraph (C) the following: ``A 
+                claim for a commodity futures contract received, 
+                acquired, or held in a portfolio margining account 
+                pursuant to a portfolio margining program approved by 
+                the Commission, or a claim for a security futures 
+                contract, shall be deemed to be a claim for the mark-
+                to-market (variation) payments due with respect to such 
+                contract as of the filing date, and such claim shall be 
+                treated as a claim for cash.''.
+
+SEC. 511. RISK-BASED PREMIUMS.
+
+    Section 4(c) of the Securities Investor Protection Act of 1970 (15 
+U.S.C. 78ddd(c)) is amended by adding at the end the following new 
+paragraph:
+            ``(4) Risk-based assessment system.--
+                    ``(A) In general.--Assessments made pursuant to 
+                paragraph (2) shall made using a risk-based assessment 
+                system.
+                    ``(B) Risk-based assessment system defined.--For 
+                purposes of this paragraph, the term `risk-based 
+                assessment system' means a system for calculating a 
+                member's assessment based on--
+                            ``(i) the probability that the fund will 
+                        incur a loss with respect to the member, taking 
+                        into consideration the risks attributable to--
+                                    ``(I) the size of the member;
+                                    ``(II) the number of enforcement 
+                                and compliance actions taken against 
+                                such member during the previous 5-year 
+                                period by SIPC, the Commission, State 
+                                securities regulators, and other 
+                                Federal and State financial regulators;
+                                    ``(III) the number of years such 
+                                member has been in operation; and
+                                    ``(IV) any other factors SIPC 
+                                determines are relevant to assessing 
+                                such probability;
+                            ``(ii) the likely amount of any such loss; 
+                        and
+                            ``(iii) the revenue needs of the fund.
+                    ``(C) Separate assessment systems.--SIPC may 
+                establish separate risk-based assessment systems for 
+                large and small members of SIPC.
+                    ``(D) Modifications to the risk-based assessment 
+                system allowed only after notice and comment.--In 
+                revising or modifying the risk-based assessment system 
+                at any time after the date of the enactment of this 
+                paragraph, SIPC may implement such revisions or 
+                modification in final form only after notice and 
+                opportunity for comment.''.
+
+SEC. 512. BUDGETARY TREATMENT OF COMMISSION LOANS TO SIPC.
+
+    Section 4(g) of the Securities Investor Protection Act of 1970 (15 
+U.S.C. 78ddd(g)) is amended by adding at the end the following: ``Any 
+loan made by the Commission to SIPC under this subsection shall not be 
+considered to result in a new direct loan obligation or a new loan 
+guarantee commitment for purposes of section 504 of the Federal Credit 
+Reform Act of 1990.''
+
+                TITLE VI--SARBANES-OXLEY ACT AMENDMENTS
+
+SEC. 601. PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD OVERSIGHT OF 
+              AUDITORS OF NON-PUBLIC BROKERS AND DEALERS.
+
+    (a) Definitions.--Title I of the Sarbanes-Oxley Act of 2002 is 
+amended by adding at the end the following new section:
+
+``SEC. 110. DEFINITIONS.
+
+    ``For the purposes of this title, and notwithstanding section 2:
+            ``(1) Audit.--The term `audit' means an examination of the 
+        financial statements, reports, documents, or notices, of any 
+        issuer, broker, or dealer by an independent public accounting 
+        firm in accordance with the rules of the Board or the 
+        Commission (or, for the period preceding the adoption of 
+        applicable rules of the Board under section 103, in accordance 
+        with then-applicable generally accepted auditing and related 
+        standards for such purposes), for the purpose of expressing an 
+        opinion on such financial statements, reports, documents, or 
+        notices.
+            ``(2) Audit report.--The term `audit report' means a 
+        document, report, notice, or other record--
+                    ``(A) prepared following an audit performed for 
+                purposes of compliance by an issuer, broker, or dealer 
+                with the requirements of the securities laws; and
+                    ``(B) in which a public accounting firm either--
+                            ``(i) sets forth the opinion of that firm 
+                        regarding a financial statement, report, 
+                        notice, other document, procedures, or 
+                        controls; or
+                            ``(ii) asserts that no such opinion can be 
+                        expressed.
+            ``(3) Professional standards.--The term `professional 
+        standards' means--
+                    ``(A) accounting principles that are--
+                            ``(i) established by the standard setting 
+                        body described in section 19(b) of the 
+                        Securities Act of 1933, as amended by this Act, 
+                        or prescribed by the Commission under section 
+                        19(a) of that Act (15 U.S.C. 17a(s)) or section 
+                        13(b) of the Securities Exchange Act of 1934 
+                        (15 U.S.C. 78a(m)); and
+                            ``(ii) relevant to audit reports for 
+                        particular issuers, brokers, or dealers, or 
+                        dealt with in the quality control system of a 
+                        particular registered public accounting firm; 
+                        and
+                    ``(B) auditing standards, standards for attestation 
+                engagements, quality control policies and procedures, 
+                ethical and competency standards, and independence 
+                standards (including rules implementing title II) that 
+                the Board or the Commission determines--
+                            ``(i) relate to the preparation or issuance 
+                        of audit reports for issuers, brokers, or 
+                        dealers; and
+                            ``(ii) are established or adopted by the 
+                        Board under section 103(a), or are promulgated 
+                        as rules of the Commission.
+            ``(4) Broker.--The term `broker' means a broker (as such 
+        term is defined in section 3(a)(4) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78c(a)(4))) that is required to file a 
+        balance sheet, income statement, or other financial statement 
+        under section 17(e)(1)(A) of such Act (15 U.S.C. 78q(e)(1)(A)), 
+        where such balance sheet, income statement, or financial 
+        statement is required to be certified by a registered public 
+        accounting firm.
+            ``(5) Dealer.--The term `dealer' means a dealer (as such 
+        term is defined in section 3(a)(5) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78c(a)(5))) that is required to file a 
+        balance sheet, income statement, or other financial statement 
+        under section 17(e)(1)(A) of such Act (15 U.S.C. 78q(e)(1)(A)), 
+        where such balance sheet, income statement, or financial 
+        statement is required to be certified by a registered public 
+        accounting firm.
+            ``(6) Self-regulatory organization.--The term `self-
+        regulatory organization' has the same meaning as in section 
+        3(a)(26) of the Securities Exchange Act of 1934 (15 U.S.C. 
+        78c(a)(26)).''.
+    (b) Establishment and Administration of the Public Company 
+Accounting Oversight Board.--Section 101 of such Act is amended--
+            (1) by striking ``issuers'' each place it appears and 
+        inserting ``issuers, brokers, and dealers'';
+            (2) in subsection (a), by striking ``public companies'' and 
+        inserting ``companies''; and
+            (3) in subsection (a), by striking ``for companies the 
+        securities of which are sold to, and held by and for, public 
+        investors''.
+    (c) Registration With the Board.--Section 102 of such Act is 
+amended--
+            (1) by striking ``Beginning 180 days after the date of the 
+        determination of the Commission under section 101(d), it'' and 
+        inserting ``It'';
+            (2) in subsections (a) and (b)(2)(G), by striking 
+        ``issuer'' each place it appears and inserting ``issuer, 
+        broker, or dealer''; and
+            (3) by striking ``issuers'' and inserting ``issuers, 
+        brokers, and dealers''.
+    (d) Auditing and Independence.--Section 103(a) of such Act is 
+amended--
+            (1) in paragraph (1), by striking ``and such ethics 
+        standards'' and inserting ``such ethics standards, and such 
+        independence standards'';
+            (2) in paragraph (2)(A)(iii), by striking ``describe in 
+        each audit report'' and inserting ``in each audit report for an 
+        issuer, describe''; and
+            (3) in paragraph (2)(B)(i), by striking ``issuers'' and 
+        inserting ``issuers, brokers, and dealers''.
+    (e) Inspections of Registered Public Accounting Firms.--Section 104 
+of such Act is amended--
+            (1) in subsection (a), by striking ``issuers'' and 
+        inserting ``issuers, brokers, and dealers'';
+            (2) in subsection (b)(1)(A)--
+                    (A) by striking ``audit reports'' and inserting 
+                ``audit reports on annual financial statements''; and
+                    (B) by striking ``and'';
+            (3) in subsection (b)(1)(B)--
+                    (A) by striking ``audit reports'' and inserting 
+                ``audit reports on annual financial statements''; and
+                    (B) by striking the period on the end and inserting 
+                ``; and''; and
+            (4) by adding at the end of subsection (b)(1) the following 
+        new subparagraph:
+                    ``(C) with respect to each registered public 
+                accounting firm that regularly provides audit reports 
+                and is not described under subparagraph (A) or (B), on 
+                a basis to be determined by the Board, by rule, 
+                consistent with the public interest and protection of 
+                investors.''.
+    (f) Investigations and Disciplinary Proceedings.--Section 
+105(c)(7)(B) of such Act is amended--
+            (1) by striking ``any issuer'' each place it appears and 
+        inserting ``any issuer, broker, or dealer''; and
+            (2) by striking ``an issuer under this subsection'' and 
+        inserting ``a registered public accounting firm under this 
+        subsection''.
+    (g) Foreign Public Accounting Firms.--Section 106 of such Act is 
+amended--
+            (1) by striking ``issuer'' and inserting ``issuer, broker, 
+        or dealer''; and
+            (2) by striking ``issuers'' and inserting ``issuers, 
+        brokers, or dealers''.
+    (h) Funding.--Section 109 of such Act is amended--
+            (1) in subsection (c)(2), by striking ``subsection (i)'' 
+        and inserting ``subsection (j)'';
+            (2) in subsection (d)(2), by striking ``allowing for 
+        differentiation among classes of issuers, as appropriate'' and 
+        inserting ``and among brokers and dealers that are not issuers, 
+        in accordance with subsection (h), and allowing for 
+        differentiation among classes of issuers and brokers and 
+        dealers, as appropriate'';
+            (3) in subsection (d), by inserting at the end the 
+        following new paragraph:
+            ``(3) Brokers and dealers.--The rules of the Board under 
+        paragraph (1) shall provide that the allocation, assessment, 
+        and collection by the Board (or an agent appointed by the 
+        Board) of the fee established under paragraph (1) with respect 
+        to brokers and dealers shall not begin until the first day of 
+        the first full fiscal year beginning after the date of the 
+        enactment of this paragraph.'';
+            (4) by redesignating subsections (h), (i), and (j) as 
+        subsections (i), (j), and (k), respectively; and
+            (5) by inserting after subsection (g) the following new 
+        subsection:
+    ``(h) Allocation of Accounting Support Fees Among Brokers and 
+Dealers.--
+            ``(1) In general.--Any amount due from brokers and dealers 
+        that are not issuers (or a particular class of such brokers and 
+        dealers) under this section to fund the budget of the Board 
+        shall be allocated among and payable by such brokers and 
+        dealers (or such brokers and dealers in a particular class, as 
+        applicable). A broker or dealer's allocation shall be in 
+        proportion to the broker or dealer's net capital compared to 
+        the total net capital of all brokers and dealers that are not 
+        issuers, in accordance with the rules of the Board.
+            ``(2) Obligation to pay.--Every broker or dealer shall pay 
+        the share of a reasonable annual accounting support fee or fees 
+        allocated to such broker or dealer under this section.''.
+    (i) Referral of Investigations to a Self-regulatory Organization.--
+Section 105(b)(4)(B) of the Sarbanes-Oxley Act of 2002 is amended--
+            (1) by redesignating clauses (ii) and (iii) as clauses 
+        (iii) and (iv), respectively; and
+            (2) by inserting after clause (i) the following new clause:
+                            ``(ii) to a self-regulatory organization, 
+                        in the case of an investigation that concerns 
+                        an audit report for a broker or dealer that is 
+                        subject to the jurisdiction of such self-
+                        regulatory organization;''.
+    (j) Use of Documents Related to an Inspection or Investigation.--
+Section 105(b)(5)(B)(ii) of such Act is amended--
+            (1) in subclause (III), by striking ``and'';
+            (2) in subclause (IV), by striking the comma and inserting 
+        ``; and''; and
+            (3) by inserting after subclause (IV) the following new 
+        subclause:
+                                    ``(V) a self-regulatory 
+                                organization, with respect to an audit 
+                                report for a broker or dealer that is 
+                                subject to the jurisdiction of such 
+                                self-regulatory organization,''.
+
+SEC. 602. FOREIGN REGULATORY INFORMATION SHARING.
+
+    (a) Definition.--Section 2(a) of the Sarbanes-Oxley Act of 2002 (15 
+U.S.C. 7201(a)) is amended by inserting after paragraph (16) the 
+following:
+            ``(17) Foreign auditor oversight authority.--The term 
+        `foreign auditor oversight authority' means any governmental 
+        body or other entity empowered by a foreign government to 
+        conduct inspections of public accounting firms or otherwise to 
+        administer or enforce laws related to the regulation of public 
+        accounting firms.''.
+    (b) Availability To Share Information.--Section 105(b)(5) of the 
+Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)) is amended by adding 
+at the end the following:
+                    ``(C) Availability to foreign oversight 
+                authorities.--When in the Board's discretion it is 
+                necessary to accomplish the purposes of this Act or to 
+                protect investors, and without the loss of its status 
+                as confidential and privileged in the hands of the 
+                Board, all information referred to in subparagraph (A) 
+                that relates to a public accounting firm within the 
+                inspection authority, or other regulatory or law 
+                enforcement jurisdiction, of a foreign auditor 
+                oversight authority may be made available to the 
+                foreign auditor oversight authority if the foreign 
+                auditor oversight authority provides such assurances of 
+                confidentiality as the Board determines appropriate.''.
+    (c) Conforming Amendment.--Section 105(b)(5)(A) of the Sarbanes-
+Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(A)) is amended by striking 
+``subparagraph (B)'' and inserting ``subparagraphs (B) and (C)''.
+
+SEC. 603. EXPANSION OF AUDIT INFORMATION TO BE PRODUCED AND EXCHANGED 
+              WITH FOREIGN COUNTERPARTS.
+
+    Section 106 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216) is 
+amended--
+            (1) by amending subsection (b) to read as follows:
+    ``(b) Production of Documents.--
+            ``(1) Production by foreign firms.--If a foreign public 
+        accounting firm issues an audit report, performs audit work, 
+        conducts interim reviews, or performs material services, with 
+        respect to any issuer or its subsidiaries, the foreign public 
+        accounting firm shall produce its audit documentation and all 
+        other documents related to any such audit work or interim 
+        review to the Commission or the Board when requested by the 
+        Commission or the Board in connection with any investigation 
+        and the foreign public accounting firm shall be subject to the 
+        jurisdiction of the courts of the United States for purposes of 
+        enforcement of any request of such documents.
+            ``(2) Other production.--Any registered public accounting 
+        firm that relies, in whole or in part, on the work of a foreign 
+        public accounting firm in issuing an audit report, performing 
+        audit work, conducting an interim review, or performing 
+        material services, with respect to any issuer or its 
+        subsidiaries, shall--
+                    ``(A) produce the foreign public accounting firm's 
+                audit documentation and all other documents related to 
+                any such work in response to a request for production 
+                by the Commission or the Board; and
+                    ``(B) secure the agreement of any foreign public 
+                accounting firm to such production, as a condition of 
+                its reliance on the work of that foreign public 
+                accounting firm.'';
+            (2) by redesignating subsection (d) as subsection (f); and
+            (3) by inserting after subsection (c) the following new 
+        subsections:
+    ``(d) Service of Requests or Process.--Any foreign public 
+accounting firm that performs work for a domestic registered public 
+accounting firm shall furnish to the domestic firm a written 
+irrevocable consent and power of attorney that designates the domestic 
+firm as an agent upon whom may be served any process, pleadings, or 
+other papers in any action brought to enforce this section. Any foreign 
+firm that issues an audit report, performs audit work, performs interim 
+reviews, or performs material services, shall designate to the 
+Commission or the Board an agent in the United States upon whom may be 
+served any process, pleading, or other papers in any action brought to 
+enforce this section or any request by the Commission or the Board 
+under this section.
+    ``(e) Sanctions.--A willful refusal to comply, in whole in or in 
+part, with any request by the Commission or the Board under this 
+section, shall be a violation of this Act.''.
+
+SEC. 604. FAIR FUND AMENDMENTS.
+
+    Section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(a)) 
+is amended--
+            (1) by amending subsection (a) to read as follows:
+    ``(a) Civil Penalties To Be Used for the Relief of Victims.--If in 
+any judicial or administrative action brought by the Commission under 
+the securities laws (as such term is defined in section 3(a)(47) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47)), the Commission 
+obtains a civil penalty against any person for a violation of such laws 
+or the rules and regulations thereunder, the amount of such civil 
+penalty shall, on the motion or at the direction of the Commission, be 
+added to and become part of a disgorgement fund or other fund 
+established for the benefit of the victims of such violation.'';
+            (2) in subsection (b), by--
+                    (A) striking ``for a disgorgement fund described in 
+                subsection (a)'' and inserting ``for a disgorgement 
+                fund or other fund described in subsection (a)''; and
+                    (B) striking ``in the disgorgement fund'' and 
+                inserting ``in such fund''; and
+            (3) by striking subsection (e).
+
+SEC. 605. WHISTLEBLOWER PROTECTION AGAINST RETALIATION BY A SUBSIDIARY 
+              OF AN ISSUER.
+
+    Section 1514A of title 18, United States Code, is amended by 
+inserting ``including any subsidiary or affiliate whose financial 
+information is included in the consolidated financial statements of 
+such company,'' after ``(15 U.S.C. 78o(d)),''.
+                                 <all>
+

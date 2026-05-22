@@ -1,0 +1,1860 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1409 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 1409
+
+    To reform the regulation of certain housing-related Government-
+             sponsored enterprises, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 4, 2001
+
+  Mr. Baker introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To reform the regulation of certain housing-related Government-
+             sponsored enterprises, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Secondary Mortgage 
+Market Enterprises Regulatory Improvement Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title and table of contents.
+      TITLE I--REFORM OF REGULATION OF FANNIE MAE AND FREDDIE MAC
+
+                 Subtitle A--Improvement of Supervision
+
+Sec. 101. Transfer of authority to regulate safety and soundness of 
+                            enterprises to Board of Governors of 
+                            Federal Reserve System.
+Sec. 102. Duties and authorities of Board.
+Sec. 103. Regulations.
+Sec. 104. Assessments.
+Sec. 105. Termination of general regulatory authority of HUD.
+Sec. 106. Approval of Board for new activities.
+Sec. 107. Limitation on nonmission-related assets.
+Sec. 108. Conforming loan limits.
+Sec. 109. Registration of securities.
+Sec. 110. Treasury line of credit.
+Sec. 111. Public disclosure of information.
+Sec. 112. Risk-based capital test for enterprises.
+Sec. 113. Minimum and critical capital levels.
+Sec. 114. Definitions.
+                  Subtitle B--Prompt Corrective Action
+
+Sec. 131. Capital classifications.
+Sec. 132. Supervisory actions applicable to undercapitalized 
+                            enterprises.
+Sec. 133. Supervisory actions applicable to significantly 
+                            undercapitalized enterprises.
+Sec. 134. Receivership.
+                    Subtitle C--Enforcement Actions
+
+Sec. 151. Cease-and-desist proceedings.
+Sec. 152. Temporary cease-and-desist proceedings.
+Sec. 153. Removal and prohibition authority.
+Sec. 154. Enforcement and jurisdiction.
+Sec. 155. Civil money penalties.
+Sec. 156. Criminal penalty.
+              Subtitle D--Reporting Regarding Enterprises
+
+Sec. 161. Reporting regarding enterprises.
+                     Subtitle E--General Provisions
+
+Sec. 171. Conforming and technical amendments.
+Sec. 172. Effective date.
+        TITLE II--TRANSFER OF FUNCTIONS, PERSONNEL, AND PROPERTY
+
+Sec. 201. Abolishment of OFHEO.
+Sec. 202. Continuation and coordination of certain regulations.
+Sec. 203. Transfer and rights of employees of OFHEO.
+Sec. 204. Transfer of property and facilities.
+
+      TITLE I--REFORM OF REGULATION OF FANNIE MAE AND FREDDIE MAC
+
+                 Subtitle A--Improvement of Supervision
+
+SEC. 101. TRANSFER OF AUTHORITY TO REGULATE SAFETY AND SOUNDNESS OF 
+              ENTERPRISES TO BOARD OF GOVERNORS OF FEDERAL RESERVE 
+              SYSTEM.
+
+    Part 1 of subtitle A of title XIII of the Housing and Community 
+Development Act of 1992 is amended by striking sections 1311 and 1312 
+(12 U.S.C. 4511, 4512) and inserting the following new section:
+
+``SEC. 1311. SUPERVISION AND REGULATION BY FEDERAL RESERVE BOARD.
+
+    ``(a) In General.--The enterprises shall, to the extent provided in 
+this title, be subject to the supervision and regulation of the Board 
+of Governors of the Federal Reserve System. The Board shall succeed to 
+the authority of the Director of the Office of Federal Housing 
+Enterprise Oversight of the Department of Housing and Urban Development 
+and the general regulatory and any other authority of the Secretary of 
+Housing and Urban Development with respect to the enterprises (except 
+as specifically provided otherwise in this Act, the Federal National 
+Mortgage Association Charter Act, the Federal Home Loan Mortgage 
+Corporation Act, and any other provision of Federal law).
+    ``(b) Delegation of Authority.--Pursuant to section 11(k) of the 
+Federal Reserve Act, the Board of Governors of the Federal Reserve 
+System may carry out any of its responsibilities for ongoing 
+supervision and examination of the enterprises through one or more of 
+the Federal Reserve banks. The Board may not delegate any rulemaking or 
+policymaking responsibilities.
+    ``(c) Savings Provision.--The authority of the Board to take 
+actions under subtitles B and C does not in any way limit the general 
+supervisory and regulatory authority granted to the Board under 
+subsection (a).''.
+
+SEC. 102. DUTIES AND AUTHORITIES OF BOARD.
+
+    Section 1313 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4513) is amended to read as follows:
+
+``SEC. 1313. DUTIES AND AUTHORITIES OF BOARD.
+
+    ``(a) Duties.--
+            ``(1) Principal duties.--The principal duties under this 
+        title of the Board shall be to ensure that the enterprises--
+                    ``(A) operate in a financially safe and sound 
+                manner;
+                    ``(B) carry out their missions only through 
+                activities that are authorized under, and consistent 
+                with the purposes of, the provisions of Federal law 
+                that charter the enterprises; and
+                    ``(C) remain adequately capitalized.
+            ``(2) Other duties.--To the extent consistent with 
+        paragraph (1), the duty of the Board shall be to exercise 
+        general supervisory and regulatory authority over the 
+        enterprises, in accordance with this title, the Federal 
+        National Mortgage Association Charter Act, the Federal Home 
+        Loan Mortgage Corporation Act, and any other provisions of law.
+    ``(b) Delegation of Authority.--The Board may delegate to officers 
+and employees of the Board any of the functions, powers, and duties of 
+the Board, with respect to supervision and regulation of the 
+enterprises, as the Board considers appropriate.''.
+
+SEC. 103. REGULATIONS.
+
+    Section 1319G of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4526) is amended--
+            (1) by striking subsection (a) and inserting the following 
+        new subsection:
+    ``(a) Authority.--The Board shall issue any regulations and orders 
+necessary to carry out the duties of the Board, with respect to 
+supervision and regulation of the enterprises, under this title, the 
+Federal National Mortgage Association Charter Act, and the Federal Home 
+Loan Mortgage Corporation Act, and to ensure that the purposes of this 
+title and such Acts are accomplished.''; and
+            (2) in subsection (c), by striking ``Committee on Banking, 
+        Finance and Urban Affairs'' and inserting ``Committee on 
+        Financial Services''.
+
+SEC. 104. ASSESSMENTS.
+
+    Section 1316 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4516) is amended--
+            (1) by striking subsection (a) and inserting the following 
+        new subsection:
+    ``(a) Annual Assessments.--The Board shall establish and collect 
+from the enterprises annual assessments in an amount not exceeding the 
+sum of--
+            ``(1) the amount sufficient to provide for reasonable costs 
+        and expenses of the Board, with respect to regulation and 
+        supervision of the enterprises, including the expenses of any 
+        examinations under section 1317; and
+            ``(2) the amount sufficient to provide for reasonable costs 
+        and expenses of the Department of Housing and Urban Development 
+        in carrying out section 1325 and subparts B and C of this 
+        subtitle.'';
+            (2) in subsection (c), by adding at the end the following 
+        new sentence: ``The Board may adjust the amounts of any 
+        semiannual assessments to be paid pursuant to subsection (b) by 
+        the enterprises, as necessary in the discretion of the Board, 
+        to ensure that the costs of enforcement activities under 
+        subtitles B and C for an enterprise are borne only by that 
+        enterprise.'';
+            (3) by striking subsection (e) and inserting the following 
+        new subsection:
+    ``(e) Payment to HUD for Costs Relating to Housing Goals.--The 
+Board shall, on a fiscal year basis, transfer from the Federal Housing 
+Enterprises Oversight Fund established under subsection (f) to the 
+Secretary of Housing and Urban Development an amount equal to the 
+amount determined under subsection (a)(2) for such fiscal year.'';
+            (4) in subsection (f), by striking the last sentence and 
+        inserting the following new sentence: ``Notwithstanding any 
+        other provision of law, any assessments collected pursuant to 
+        this section and any amounts in the Fund shall not be construed 
+        to be Government or public funds or appropriated money, shall 
+        not be subject to apportionment for purposes of chapter 15 of 
+        title 31, United States Code, or under any other authority, and 
+        shall be available without fiscal year limitation for carrying 
+        out the supervisory and regulatory responsibilities of the 
+        Board with respect to the enterprises, including any necessary 
+        administrative and nonadministrative expenses of the Board in 
+        carrying out the purposes of this title, the Federal National 
+        Mortgage Association Charter Act, and the Federal Home Loan 
+        Mortgage Corporation Act, and for annual payments under 
+        subsection (e).''; and
+            (5) in subsection (g)--
+                    (A) by striking paragraphs (1) and (2) and 
+                inserting the following new paragraphs:
+            ``(1) Financial operating plans and forecasts.--Before the 
+        beginning of each fiscal year--
+                    ``(A) the Board shall submit a copy of the 
+                financial operating plans and forecasts for the Board, 
+                with respect to regulation and supervision of the 
+                enterprises, to the Director of the Office of 
+                Management and Budget; and
+                    ``(B) the Secretary of Housing and Urban 
+                Development shall submit a copy of the financial 
+                operating plans and forecasts for the Department of 
+                Housing and Urban Development, with respect to 
+                responsibilities and activities under section 1325 and 
+                subtitles B and C of this title, to the Board.
+            ``(2) Reports of operations.--As soon as practicable after 
+        the end of each fiscal year and each quarter thereof--
+                    ``(A) the Board shall submit a copy of the report 
+                of the results of the operations of the Board, with 
+                respect to regulation and supervision of the 
+                enterprises, during such period to the Director of the 
+                Office of Management and Budget; and
+                    ``(B) the Secretary of Housing and Urban 
+                Development shall submit a report of the results of the 
+                operations of the Department of Housing and Urban 
+                Development, with respect to responsibilities and 
+                activities under section 1325 and subtitles B and C of 
+                this title, to the Board.''; and
+                    (B) in paragraph (3)--
+                            (i) by striking ``(A)''; and
+                            (ii) by striking ``, and (B)'' and 
+                        inserting the following: ``. The annual plans, 
+                        forecasts, and reports required under 
+                        paragraphs (1)(B) and (2)(B) shall be 
+                        included''.
+
+SEC. 105. TERMINATION OF GENERAL REGULATORY AUTHORITY OF HUD.
+
+    (a) In General.--Part 2 of subtitle A of title XIII of the Housing 
+and Community Development Act of 1992 is amended--
+            (1) by striking the heading for the part and the heading 
+        for subpart A and inserting the following:
+
+    ``PART 2--NEW ACTIVITIES, HOUSING INFORMATION, AND HOUSING GOALS
+
+         ``Subpart A--New Activities and Housing Information'';
+
+        and
+            (2) by striking section 1321 (12 U.S.C. 4541).
+    (b) Retention of Fair Housing Responsibilities.--Section 1325 of 
+the Housing and Community Development Act of 1992 (12 U.S.C. 4545) is 
+amended, in the matter preceding paragraph (1), by inserting ``of 
+Housing and Urban Development'' after ``The Secretary''.
+    (c) Retention of Authority to Establish and Enforce Housing 
+Goals.--Part 2 of subtitle A of the Housing and Community Development 
+Act of 1992 is amended--
+            (1) by inserting ``of Housing and Urban Development (in 
+        this subpart referred to as the `Secretary')'' after ``The 
+        Secretary'', each place such term appears in--
+                    (A) the first sentence of section 1331(a) (12 
+                U.S.C. 4561(a)); and
+                    (B) section 1341(a) (12 U.S.C. 4581(a));
+            (2) in section 1332 (12 U.S.C. 4562), by striking 
+        subsection (d);
+            (3) in section 1333 (12 U.S.C. 4563), by striking 
+        subsection (d);
+            (4) in section 1334 (12 U.S.C. 4564), by striking 
+        subsection (d);
+            (5) in section 1336 (12 U.S.C. 4566)--
+                    (A) in subsection (b)(3)(C), by inserting ``the 
+                Board,'' after ``notice to the enterprise,''; and
+                    (B) in subsection (c)(5), by inserting ``, and to 
+                the Board,'' after ``housing plan'';
+            (6) by striking sections 1337 and 1338 (12 U.S.C. 4567, 
+        4562 note);
+            (7) in section 1341(b)(1) (12 U.S.C. 4581(b)(1)), by 
+        inserting after the period at the end the following new 
+        sentence: ``Immediately upon issuing and serving a notice of 
+        charges under this section, the Secretary shall submit a copy 
+        of such notice to the Board.'';
+            (8) in section 1345 (12 U.S.C. 4585)--
+                    (A) in subsection (c)(1)(A), by inserting ``and the 
+                Board'' after ``enterprise''; and
+                    (B) in subsection (d), by inserting ``, upon 
+                notification to the Board,'' after ``1343''; and
+            (9) in section 1346(a) (12 U.S.C. 4586(a)), in the matter 
+        preceding paragraph (1), by inserting ``and to the Board'' 
+        after ``the public''.
+    (d) Authority of Board Over Determinations by HUD.--Section 1331 of 
+the Housing and Community Development Act of 1992 (12 U.S.C. 4561) is 
+amended--
+            (1) in the section heading by inserting ``and authority of 
+        board'' before the period at the end; and
+            (2) by adding at the end the following new subsection:
+    ``(d) Authority of Board.--The Board may review any action of the 
+Secretary of Housing and Urban Development made in carrying out the 
+Secretary's responsibilities under this subtitle as the Board considers 
+necessary to ensure that the enterprises comply with section 
+1313(a)(1).''.
+
+SEC. 106. APPROVAL OF BOARD FOR NEW ACTIVITIES.
+
+    (a) In General.--Section 1322 of the Housing and Community 
+Development Act of 1992 (12 U.S.C. 4542) is amended to read as follows:
+
+``SEC. 1322. PRIOR APPROVAL AUTHORITY FOR NEW ACTIVITIES.
+
+    ``(a) Authority.--The Board shall have the authority to approve all 
+new activities, and to review all ongoing activities, of an enterprise 
+to ensure compliance with the Federal National Mortgage Association 
+Charter Act or the Federal Home Loan Mortgage Corporation Act, as 
+applicable.
+    ``(b) Requirement for Prior Approval.--An enterprise may not 
+commence any new activity before obtaining the approval of the Board 
+for the new activity, in accordance with this section.
+    ``(c) Standard for Approval.--The Board may approve a new activity 
+of an enterprise only if--
+            ``(1) the new activity is authorized--
+                    ``(A) with respect to the Federal National Mortgage 
+                Association, under the Federal National Mortgage 
+                Association Charter Act or other Federal law; and
+                    ``(B) with respect to the Federal Home Loan 
+                Mortgage Corporation, under the Federal Home Loan 
+                Mortgage Corporation Act or other Federal law;
+            ``(2) the Board determines that the enterprise can conduct 
+        the new activity in a safe and sound manner; and
+            ``(3) the Board determines that the new activity is in the 
+        public interest.
+    ``(d) Procedure for Approval.--The Board shall, by regulation, 
+establish procedures for the enterprises to obtain the approval of the 
+Board for purposes of subsection (b).''.
+    (b) Definition of New Activity.--Paragraph (13) of section 1303 of 
+the Housing and Community Development Act of 1992 (12 U.S.C. 4502(13)) 
+is amended to read as follows:
+            ``(13) New activity.--The term `new activity' means, with 
+        respect to the enterprises, any program, activity, business 
+        process, or investment that directly or indirectly provides 
+        financing or other services related to conventional mortgages 
+        (including purchasing, servicing, selling, and lending on the 
+        security of such mortgages) that--
+                    ``(A) is significantly different from programs, 
+                activities, business processes, or investments that (i) 
+                have been approved under this Act, or (ii) were 
+                approved or engaged in by an enterprise before the date 
+                of the enactment of the Housing and Community 
+                Development Act of 1992; or
+                    ``(B) represents an expansion, in terms of the 
+                dollar volume or number of mortgages or securities 
+                involved, of programs above limits expressly contained 
+                in any prior approval.''.
+    (c) Conforming Amendments.--
+            (1) Fannie mae.--Section 302(b)(6) of the Federal National 
+        Mortgage Association Charter Act (12 U.S.C. 1717(b)(6)) is 
+        amended--
+                    (A) by striking ``program'' and inserting 
+                ``activity''; and
+                    (B) by striking ``Secretary'' and inserting ``Board 
+                of Governors of the Federal Reserve System''.
+            (2) Freddie mac.--Section 305(c) of the Federal Home Loan 
+        Mortgage Corporation Act (12 U.S.C. 1454(c)) is amended--
+                    (A) by striking ``program'' and inserting 
+                ``activity''; and
+                    (B) by striking ``Secretary'' and inserting ``Board 
+                of Governors of the Federal Reserve System''.
+            (3) 1992 act.--Section 1369C(a)(4) of the Housing and 
+        Community Development Act of 1992 (12 U.S.C. 4622(a)(4)) is 
+        amended by striking ``programs'' and inserting ``activities''.
+
+SEC. 107. LIMITATION ON NONMISSION-RELATED ASSETS.
+
+    Subtitle B of title XIII of the Housing and Community Development 
+Act of 1992 (12 U.S.C. 4611 et seq.) is amended--
+            (1) by striking the subtitle designation and heading and 
+        inserting the following:
+
+    ``Subtitle B--Required Capital Levels for Enterprises, Special 
+   Enforcement Powers, and Limitation on Nonmission-Related Assets'';
+
+        and
+            (2) by adding at the end the following new section:
+
+``SEC. 1369E. LIMITATION ON NONMISSION-RELATED ASSETS.
+
+    ``(a) In General.--The Board shall, by regulation, limit the 
+nonmission-related assets that an enterprise may hold at any time. The 
+Board shall define the term `nonmission-related asset' for purposes of 
+this section.
+    ``(b) Rule of Construction.--Subsection (a) may not be construed to 
+authorize an enterprise to engage in any new activity (as such term is 
+defined in section 1303) relating to any nonmission-related asset 
+without obtaining the prior approval of the Board in accordance with 
+section 1322.''.
+
+SEC. 108. CONFORMING LOAN LIMITS.
+
+    (a) Fannie Mae.--Section 302(b)(2) of the Federal National Mortgage 
+Association Charter Act (12 U.S.C. 1717(b)(2)) is amended by striking 
+the 7th and 8th sentences and inserting the following new sentences: 
+``Such limitations shall not exceed $275,000 for a mortgage secured by 
+a single-family residence, $351,950 for a mortgage secured by a 2-
+family residence, $425,400 for a mortgage secured by a 3-family 
+residence, and $528,700 for a mortgage secured by a 4-family residence, 
+except that such maximum limitations shall be adjusted effective 
+January 1 of each year beginning with 2002, subject to the limitations 
+in this paragraph. Each adjustment shall be made by adding to each such 
+amount (as it may have been previously adjusted) a percentage thereof 
+equal to the percentage increase during the 12-month period ending with 
+the previous October in the housing price index maintained by the Board 
+of Governors of the Federal Reserve System (pursuant to section 1321 of 
+the Housing and Community Development Act of 1992 (12 U.S.C. 4541)). 
+If, upon the conclusion of such 12-month period, the level of the 
+housing price index does not exceed the highest level attained by such 
+index upon the conclusion of the previous such 12-month periods, no 
+such adjustment may be made for the January 1 first occurring 
+thereafter.''.
+    (b) Freddie Mac.--Section 305(a)(2) of the Federal National 
+Mortgage Association Charter Act (12 U.S.C. 1454(a)(2)) is amended by 
+striking the 6th and 7th sentences and inserting the following new 
+sentences: ``Such limitations shall not exceed $275,000 for a mortgage 
+secured by a single-family residence, $351,950 for a mortgage secured 
+by a 2-family residence, $425,400 for a mortgage secured by a 3-family 
+residence, and $528,700 for a mortgage secured by a 4-family residence, 
+except that such maximum limitations shall be adjusted effective 
+January 1 of each year beginning with 2002, subject to the limitations 
+in this paragraph. Each adjustment shall be made by adding to each such 
+amount (as it may have been previously adjusted) a percentage thereof 
+equal to the percentage increase during the 12-month period ending with 
+the previous October in the housing price index maintained by the Board 
+of Governors of the Federal Reserve System (pursuant to section 1321 of 
+the Housing and Community Development Act of 1992 (12 U.S.C. 4541)). 
+If, upon the conclusion of such 12-month period, the level of the 
+housing price index does not exceed the highest level attained by such 
+index upon the conclusion of the previous such 12-month periods, no 
+such adjustment may be made for the January 1 first occurring 
+thereafter.''.
+    (c) Housing Price Index.--Subpart A of part 2 of subtitle A of 
+title XIII of the Housing and Community Development Act of 1992 (as 
+amended by the preceding provisions of this Act) is amended by 
+inserting before section 1322 (12 U.S.C. 4542) the following new 
+section:
+
+``SEC. 1321. HOUSING PRICE INDEX.
+
+    ``The Board shall establish and maintain a method of assessing the 
+national average 1-family house price for use for adjusting the 
+conforming loan limitations of the enterprises (as such term is defined 
+in section 1303 of Federal Housing Enterprises Financial Safety and 
+Soundness Act of 1992). In establishing such method, the Board shall 
+take into consideration the monthly survey of all major lenders 
+conducted by the Federal Housing Finance Board to determine the 
+national average 1-family house price, the House Price Index maintained 
+by the Office of Federal Housing Enterprise Oversight of the Department 
+of Housing and Urban Development before the effective date of the 
+Secondary Mortgage Market Enterprises Regulatory Improvement Act, any 
+appropriate house price indexes of the Bureau of the Census of the 
+Department of Commerce, and any other indexes or measures that the 
+Board considers appropriate.''.
+
+SEC. 109. REGISTRATION OF SECURITIES.
+
+    (a) Fannie Mae.--
+            (1) Mortgage-backed securities.--Section 304(d) of the 
+        Federal National Mortgage Association Charter Act (12 U.S.C. 
+        1719(d)) is amended by striking the fourth sentence and 
+        inserting the following new sentence: ``Securities issued by 
+        the corporation under this subsection shall not be exempt 
+        securities within the meaning of the laws administered by the 
+        Securities and Exchange Commission, but such securities shall 
+        not be subject to fees under section 6(b) of the Securities Act 
+        of 1933 or under section 13(e) or 14(g) of the Securities 
+        Exchange Act of 1934.''.
+            (2) Subordinate obligations.--Section 304(e) of the Federal 
+        National Mortgage Association Charter Act (12 U.S.C. 1719(e)) 
+        is amended by striking the fourth sentence and inserting the 
+        following new sentence: ``Securities issued by the corporation 
+        under this subsection shall not be exempt securities within the 
+meaning of the laws administered by the Securities and Exchange 
+Commission, but such securities shall not be subject to fees under 
+section 6(b) of the Securities Act of 1933 or under section 13(e) or 
+14(g) of the Securities Exchange Act of 1934.''.
+            (3) Securities.--Section 311 of the Federal National 
+        Mortgage Association Charter Act (12 U.S.C. 1723c) is amended--
+                    (A) in the second sentence, by inserting ``by the 
+                Association'' after ``issued''; and
+                    (B) by adding at the end the following new 
+                sentence: ``Any stock, obligations, securities, 
+                participations, or other instruments issued by the 
+                corporation pursuant to this title shall not be exempt 
+                securities within the meaning of the laws administered 
+                by the Securities and Exchange Commission, but such 
+                stock, obligations, securities, participations, or 
+                other instruments shall not be subject to fees under 
+                section 6(b) of the Securities Act of 1933 or under 
+                section 13(e) or 14(g) of the Securities Exchange Act 
+                of 1934.''.
+    (b) Freddie Mac.--Subsection (g) of section 306 of the Federal Home 
+Loan Mortgage Corporation Act (12 U.S.C. 1455(g)) is amended to read as 
+follows:
+    ``(g) Any securities issued or guaranteed by the Corporation shall 
+not be exempt securities within the meaning of the laws administered by 
+the Securities and Exchange Commission, but such securities shall not 
+be subject to fees under section 6(b) of the Securities Act of 1933 or 
+under section 13(e) or 14(g) of the Securities Exchange Act of 1934.''.
+
+SEC. 110. TREASURY LINE OF CREDIT.
+
+    (a) Fannie Mae.--The first sentence of section 304(c) of the 
+Federal National Mortgage Association Charter Act (12 U.S.C. 1719(c)) 
+is amended by striking ``The'' and inserting ``Upon a request by the 
+Board of Governors of the Federal Reserve System, the''.
+    (b) Freddie Mac.--The first sentence of paragraph (1) of section 
+306(c) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 
+1455(c)(1)) is amended by striking ``The'' and inserting ``Upon a 
+request by the Board of Governors of the Federal Reserve System, the''.
+
+SEC. 111. PUBLIC DISCLOSURE OF INFORMATION.
+
+    Section 1314 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4514) is amended--
+            (1) in the section heading by striking ``by enterprises'' 
+        and inserting ``and information''; and
+            (2) by adding at the end the following new subsection:
+    ``(c) Public Disclosure of Information.--The Board shall, by 
+regulation, require each enterprise to disclose to the public, on not 
+less than an annual basis, such financial, business, and other 
+information that the Board determines would be in the public 
+interest.''.
+
+SEC. 112. RISK-BASED CAPITAL TEST FOR ENTERPRISES.
+
+    Section 1361 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4611) is amended--
+            (1) in subsection (a)(2)(A), by inserting ``or change in 
+        such other manner as the Board considers appropriate,'' after 
+        ``subparagraph (C),'';
+            (2) in subsection (b)(1), by inserting after the period at 
+        the end the following: ``Notwithstanding subsection (a), the 
+        Board may, in the sole discretion of the Board, make any 
+        assumptions that the Board considers appropriate regarding 
+        interest rates, home prices, and new business.''; and
+            (3) in subsection (c)(2), by inserting ``or such other 
+        percentage as the Board considers appropriate'' before the 
+        period at the end.
+
+SEC. 113. MINIMUM AND CRITICAL CAPITAL LEVELS.
+
+    (a) Minimum Capital Level.--Section 1362 of the Housing and 
+Community Development Act of 1992 (12 U.S.C. 4612) is amended--
+            (1) by striking subsection (b);
+            (2) by striking ``(a) In General.--''; and
+            (3) in the matter preceding paragraph (1), by inserting 
+        before ``the sum of'' the following: ``the amount established 
+        by the Board, by regulation or order, as such amount may be 
+        adjusted from time-to-time by the Board to achieve the purposes 
+        of this title, that is not less than''.
+    (b) Critical Capital Level.--Section 1363 of the Housing and 
+Community Development Act of 1992 (12 U.S.C. 4613) is amended, in the 
+matter preceding paragraph (1), by inserting before ``the sum of'' the 
+following: ``the amount established by the Board, by regulation or 
+order, as such amount may be adjusted from time-to-time by the Board to 
+achieve the purposes of this title, that is not less than''.
+
+SEC. 114. DEFINITIONS.
+
+    Section 1303 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4502) is amended--
+            (1) in paragraphs (8), (9), (10), and (19), by inserting 
+        ``of Housing and Urban Development'' after ``Secretary'' each 
+        place such term appears;
+            (2) by striking paragraphs (5), (14), and (15);
+            (3) by redesignating paragraphs (7) through (13) (as 
+        amended by the preceding provisions of this Act) as paragraphs 
+        (8) through (14), respectively;
+            (4) by redesignating paragraphs (16) through (19) as 
+        paragraphs (15) through (18), respectively;
+            (5) by inserting after paragraph (6) the following new 
+        paragraph:
+            ``(7) Enterprise-affiliated party.--The term `enterprise-
+        affiliated party' means--
+                    ``(A) any director, officer, employee, or 
+                controlling stockholder of, or agent for, an 
+                enterprise;
+                    ``(B) any shareholder, consultant, joint venture 
+                partner, and any other person as determined by the 
+                Board (by regulation or case-by-case) who participates 
+                in the conduct of the affairs of an enterprise; and
+                    ``(C) any independent contractor (including any 
+                attorney, appraiser, or accountant) who knowingly or 
+                recklessly participates in--
+                            ``(i) any violation of any law or 
+                        regulation;
+                            ``(ii) any breach of fiduciary duty; or
+                            ``(iii) any unsafe or unsound practice,
+                which caused or is likely to cause more than a minimal 
+                financial loss to, or a significant adverse effect on, 
+                the enterprise.'';
+            (6) by redesignating paragraphs (2), (3), (4) as paragraphs 
+        (3), (4), and (5), respectively; and
+            (7) by inserting after paragraph (1) the following new 
+        paragraph:
+            ``(2) Board.--The term `Board' means the Board of Governors 
+        of the Federal Reserve System.''.
+
+                  Subtitle B--Prompt Corrective Action
+
+SEC. 131. CAPITAL CLASSIFICATIONS.
+
+    Section 1364 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4614) is amended--
+            (1) by striking subsection (b) and inserting the following 
+        new subsection:
+    ``(b) Discretionary Classification.--
+            ``(1) Grounds for reclassification.--The Board may 
+        reclassify an enterprise under paragraph (2) if--
+                    ``(A) at any time, the Board determines in writing 
+                that an enterprise is engaging in conduct not approved 
+                by the Board that could result in a rapid depletion of 
+                core capital or that the value of the property subject 
+                to mortgages held or securitized by the enterprise has 
+                decreased significantly;
+                    ``(B) after notice and an opportunity for hearing, 
+                the Board determines that an enterprise is in an unsafe 
+                or unsound condition; or
+                    ``(C) pursuant to section 1371(b), the Board deems 
+                an enterprise to be engaging in an unsafe or unsound 
+                practice.
+            ``(2) Reclassification.--In addition to any other action 
+        authorized under this title, including the reclassification of 
+        an enterprise for any reason not specified in this subsection, 
+        if the Board takes any action described in paragraph (1) the 
+        Board may classify an enterprise--
+                    ``(A) as undercapitalized, if the enterprise is 
+                otherwise classified as adequately capitalized;
+                    ``(B) as significantly undercapitalized, if the 
+                enterprise is otherwise classified as undercapitalized; 
+                and
+                    ``(C) as critically undercapitalized, if the 
+                enterprise is otherwise classified as significantly 
+                undercapitalized.'';
+            (2) by redesignating subsection (d) as subsection (e); and
+            (3) by inserting after subsection (c) the following new 
+        subsection:
+    ``(d) Restriction on Capital Distributions.--
+            ``(1) In general.--An enterprise shall make no capital 
+        distribution if, after making the distribution, the enterprise 
+        would be undercapitalized.
+            ``(2) Exception.--Notwithstanding paragraph (1), the Board 
+        may permit an enterprise to repurchase, redeem, retire, or 
+        otherwise acquire shares or ownership interests if the 
+        repurchase, redemption, retirement, or other acquisition--
+                    ``(A) is made in connection with the issuance of 
+                additional shares or obligations of the enterprise in 
+                at least an equivalent amount; and
+                    ``(B) will reduce the financial obligations of the 
+                enterprise or otherwise improve the financial condition 
+                of the enterprise.''.
+
+SEC. 132. SUPERVISORY ACTIONS APPLICABLE TO UNDERCAPITALIZED 
+              ENTERPRISES.
+
+    (a) Effective Date for Supervisory Actions.--Section 1365(c) of the 
+Housing and Community Development Act of 1992 (12 U.S.C. 4615(c)) is 
+amended by striking ``1-year'' and inserting ``6-month''.
+    (b) Supervisory Actions.--Section 1365 of the Housing and Community 
+Development Act of 1992 (12 U.S.C. 4615) is amended--
+            (1) in subsection (a)--
+                    (A) by redesignating paragraphs (1) and (2) as 
+                paragraphs (2) and (3), respectively;
+                    (B) by inserting before paragraph (2) the following 
+                paragraph:
+            ``(1) Required monitoring.--The Board shall--
+                    ``(A) closely monitor the condition of any 
+                undercapitalized enterprise;
+                    ``(B) closely monitor compliance with the capital 
+                restoration plan, restrictions, and requirements 
+                imposed under this section; and
+                    ``(C) periodically review the plan, restrictions, 
+                and requirements applicable to the undercapitalized 
+                enterprise to determine whether the plan, restrictions, 
+                and requirements are achieving the purpose of this 
+                section.''; and
+                    (C) by inserting at the end the following new 
+                paragraphs:
+            ``(4) Restriction of asset growth.--An undercapitalized 
+        enterprise shall not permit its average total assets during any 
+        calendar quarter to exceed its average total assets during the 
+        preceding calendar quarter unless--
+                    ``(A) the Board has accepted the enterprise's 
+                capital restoration plan;
+                    ``(B) any increase in total assets is consistent 
+                with the plan; and
+                    ``(C) the enterprise's ratio of tangible equity to 
+                assets increases during the calendar quarter at a rate 
+                sufficient to enable the enterprise to become 
+                adequately capitalized within a reasonable time.
+            ``(5) Prior approval of acquisitions and issuance of new 
+        products.--An undercapitalized enterprise shall not, directly 
+        or indirectly, acquire any interest in any entity or issue a 
+        new product unless--
+                    ``(A) the Board has accepted the enterprise's 
+                capital restoration plan, the enterprise is 
+                implementing the plan, and the Board determines that 
+                the proposed action is consistent with and will further 
+                the achievement of the plan; or
+                    ``(B) the Board determines that the proposed action 
+                will further the purpose of this section.''; and
+            (2) in the subsection heading for subsection (b), by 
+        striking ``From Undercapitalized to Significantly 
+        Undercapitalized'';
+            (3) by redesignating subsection (c) (as amended by 
+        subsection (a) of this section) as subsection (d); and
+            (4) by inserting after subsection (b) the following new 
+        subsection:
+    ``(c) Other Discretionary Safeguards.--The Board may take, with 
+respect to an undercapitalized enterprise, any of the actions 
+authorized to be taken under section 1366 with respect to a 
+significantly undercapitalized enterprise, if the Board determines that 
+such actions are necessary to carry out the purpose of this 
+subtitle.''.
+
+SEC. 133. SUPERVISORY ACTIONS APPLICABLE TO SIGNIFICANTLY 
+              UNDERCAPITALIZED ENTERPRISES.
+
+    Section 1366 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4616) is amended--
+            (1) in subsection (b)--
+                    (A) in the subsection heading, by striking 
+                ``Discretionary Supervisory Actions'' and inserting 
+                ``Specific Actions'';
+                    (B) in the matter preceding paragraph (1), by 
+                striking ``may, at any time, take any'' and inserting 
+                ``shall carry out this section by taking, at any time, 
+                1 or more'';
+                    (C) by redesignating paragraphs (5) and (6) as 
+                paragraphs (6) and (7), respectively;
+                    (D) by inserting after paragraph (4) the following 
+                new paragraph:
+            ``(5) Improvement of management.--Take one or more of the 
+        following actions:
+                    ``(A) New election of board.--Order a new election 
+                for the board of directors of the enterprise.
+                    ``(B) Dismissal of directors or executive 
+                officers.--Require the enterprise to dismiss from 
+                office any director or executive officer who had held 
+                office for more than 180 days immediately before the 
+                enterprise became undercapitalized. Dismissal under 
+                this subparagraph shall not be construed to be a 
+                removal pursuant to the Board's enforcement powers 
+                provided in section 1377.
+                    ``(C) Employ qualified executive officers.--Require 
+                the enterprise to employ qualified executive officers 
+                (who, if the Board so specifies, shall be subject to 
+                approval by the Board).''; and
+                    (E) by inserting at the end the following new 
+                paragraph:
+            ``(8) Other action.--Require the enterprise to take any 
+        other action that the Board determines will better carry out 
+        the purpose of this section than any of the actions specified 
+        in this paragraph.'';
+            (2) by redesignating subsection (c) as subsection (d); and
+            (3) by inserting after subsection (b) the following new 
+        subsection:
+    ``(c) Restriction on Compensation of Executive officers.--An 
+enterprise that is classified as significantly undercapitalized may 
+not, without prior written approval by the Board--
+                    ``(A) pay any bonus to any executive officer; or
+                    ``(B) provide compensation to any executive officer 
+                at a rate exceeding that officer's average rate of 
+                compensation (excluding bonuses, stock options, and 
+                profit sharing) during the 12 calendar months preceding 
+                the calendar month in which the enterprise became 
+                undercapitalized.''.
+
+SEC. 134. RECEIVERSHIP.
+
+    Section 1368 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4618) is amended to read as follows:
+
+``SEC. 1368. APPOINTMENT OF RECEIVERS
+
+    ``(a) Appointment.--
+            ``(1) Authority.--Upon a determination that an enterprise 
+        is critically undercapitalized and a determination that the 
+        enterprise meets such other conditions for taking action 
+        pursuant to this subsection as the Board shall by regulation 
+        establish, the Board may, notwithstanding section 1367(a)(1), 
+        appoint a receiver for the enterprise in accordance with this 
+        section and in lieu of appointment of a conservator pursuant to 
+        section 1367. If the Board takes action pursuant to this 
+        subsection, the Board shall appoint the receiver not later than 
+        30 days after providing notice under paragraph (2) of this 
+        subsection.
+            ``(2) Notice.--Upon making a determination under paragraph 
+        (1) to appoint a receiver for an enterprise, the Board shall 
+        provide written notice to the enterprise, the Committee on 
+        Financial Services of the House of Representatives, and the 
+        Committee on Banking, Housing, and Urban Affairs of the 
+        Senate--
+                    ``(A) that a receiver will be appointed for the 
+                enterprise;
+                    ``(B) stating the reasons for the appointment of 
+                the receiver; and
+                    ``(C) identifying the person or governmental agency 
+                that the Board intends to appoint as a receiver.
+            ``(3) Qualifications.--The receiver shall be--
+                    ``(A) the Board or any other governmental agency; 
+                or
+                    ``(B) any person that--
+                            ``(i) has no claim against, or financial 
+                        interest in, the enterprise or other basis for 
+                        a conflict of interest; and
+                            ``(ii) has the financial and management 
+                        expertise necessary to carry out the duties 
+                        under subsection (c).
+    ``(b) Judicial Review.--The provisions of section 1369(b) shall 
+apply to the appointment of a receiver pursuant to this section to the 
+same extent that such provisions apply to the appointment of a 
+conservator pursuant to this subtitle.
+    ``(c) Duties.--A receiver appointed pursuant to this section shall 
+be appointed for the purpose, and shall have the duty, of liquidating 
+or winding up the affairs of the enterprise, in accordance with such 
+regulations as the Board may issue.
+    ``(d) Replacement, Powers, Liability Protection.--The provisions of 
+subsections (c) and (d) of section 1369, section 1369A, and section 
+1369B shall apply to a receiver appointed pursuant to this section to 
+the same extent that such provisions apply to a conservator appointed 
+pursuant to this subtitle. In addition to any powers under section 
+1369A, a receiver appointed pursuant to this section shall have such 
+powers with respect to an enterprise, as the Board may by regulation 
+provide, that the Federal Deposit Insurance Corporation has under 
+section 11 of the Federal Deposit Insurance Act (12 U.S.C. 1821) with 
+respect to a insured depository institution when acting as a receiver 
+under such section.''.
+
+                    Subtitle C--Enforcement Actions
+
+SEC. 151. CEASE-AND-DESIST PROCEEDINGS.
+
+    Section 1371 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4631) is amended--
+            (1) by striking subsections (a) and (b) and inserting the 
+        following new subsections:
+    ``(a) Issuance for Unsafe or Unsound Practices and Violations of 
+Rules or Laws.--If, in the opinion of the Board, an enterprise or any 
+enterprise-affiliated party is engaging or has engaged, or the Board 
+has reasonable cause to believe that the enterprise or any enterprise-
+affiliated party is about to engage, in an unsafe or unsound practice 
+in conducting the business of the enterprise or is violating or has 
+violated, or the Board has reasonable cause to believe that the 
+enterprise or any enterprise-affiliated party is about to violate, a 
+law, rule, or regulation, or any condition imposed in writing by the 
+Board in connection with the granting of any application or other 
+request by the enterprise or any written agreement entered into with 
+the Board, the Board may issue and serve upon the enterprise or such 
+party a notice of charges in respect thereof. The Board may not enforce 
+compliance with any housing goal established under subpart B of part 2 
+of subtitle A of this title, with section 1336 or 1337 of this title, 
+with subsection (m) or (n) of section 309 of the Federal National 
+Mortgage Association Charter Act (12 U.S.C. 1723a(m), (n)), or with 
+subsection (e) or (f) of section 307 of the Federal Home Loan Mortgage 
+Corporation Act (12 U.S.C. 1456(e), (f)).
+    ``(b) Issuance for Unsatisfactory Rating.--If an enterprise 
+receives, in its most recent report of examination, a less-than-
+satisfactory rating for asset quality, management, earnings, or 
+liquidity, the Board may (if the deficiency is not corrected) deem the 
+enterprise to be engaging in an unsafe or unsound practice for purposes 
+of this subsection.''; and
+            (2) in subsection (c)(2), by striking ``or director'' and 
+        inserting ``director, or enterprise-affiliated party''.
+
+SEC. 152. TEMPORARY CEASE-AND-DESIST PROCEEDINGS.
+
+    Section 1372 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4632) is amended--
+            (1) by striking subsection (a) and inserting the following 
+        new subsection:
+    ``(a) Grounds for Issuance.--Whenever the Board determines that the 
+violation or threatened violation or the unsafe or unsound practice or 
+practices specified in the notice of charges served upon the enterprise 
+or any enterprise-affiliated party pursuant to section 1371(a), or the 
+continuation thereof, is likely to cause insolvency or significant 
+dissipation of assets or earnings of the enterprise, or is likely to 
+weaken the condition of the enterprise prior to the completion of the 
+proceedings conducted pursuant to sections 1371 and 1373, the Board may 
+issue a temporary order requiring the enterprise or such party to cease 
+and desist from any such violation or practice and to take affirmative 
+action to prevent or remedy such insolvency, dissipation, condition, or 
+prejudice pending completion of such proceedings. Such order may 
+include any requirement authorized under subsection 1371(d).'';
+            (2) in subsection (b), by striking ``or director'' and 
+        inserting ``director, or enterprise-affiliated party'';
+            (3) in subsection (d), striking ``or director'' and 
+        inserting ``director, or enterprise-affiliated party''; and
+            (4) by striking subsection (e) and in inserting the 
+        following new subsection:
+    ``(e) Enforcement.--In the case of violation or threatened 
+violation of, or failure to obey, a temporary cease-and-desist order 
+issued pursuant to this section, the Board may apply to the United 
+States District Court for the District of Columbia or the United States 
+district court within the jurisdiction of which the headquarters of the 
+enterprise is located, for an injunction to enforce such order, and, if 
+the court determines that there has been such violation or threatened 
+violation or failure to obey, it shall be the duty of the court to 
+issue such injunction.''.
+
+SEC. 153. REMOVAL AND PROHIBITION AUTHORITY.
+
+    (a) In General.--Subtitle C of title XIII of the Housing and 
+Community Development Act of 1992 is amended--
+            (1) by redesignating sections 1377 through 1379B (12 U.S.C. 
+        4637-41) as sections 1379 through 1379D, respectively; and
+            (2) by inserting after section 1376 (12 U.S.C. 4636) the 
+        following new section:
+
+``SEC. 1377. REMOVAL AND PROHIBITION AUTHORITY.
+
+    ``(a) Authority to Issue Order.--Whenever the Board determines 
+that--
+            ``(1) any enterprise-affiliated party has, directly or 
+        indirectly--
+                    ``(A) violated--
+                            ``(i) any law or regulation;
+                            ``(ii) any cease-and-desist order which has 
+                        become final;
+                            ``(iii) any condition imposed in writing by 
+                        the Board in connection with the grant of any 
+                        application or other request by such 
+                        enterprise; or
+                            ``(iv) any written agreement between such 
+                        enterprise and the Board;
+                    ``(B) engaged or participated in any unsafe or 
+                unsound practice in connection with any enterprise; or
+                    ``(C) committed or engaged in any act, omission, or 
+                practice which constitutes a breach of such party's 
+                fiduciary duty;
+            ``(2) by reason of the violation, practice, or breach 
+        described in any subparagraph of paragraph (1)--
+                    ``(A) such enterprise has suffered or will probably 
+                suffer financial loss or other damage; or
+                    ``(B) such party has received financial gain or 
+                other benefit by reason of such violation, practice, or 
+                breach; and
+            ``(3) such violation, practice, or breach--
+                    ``(A) involves personal dishonesty on the part of 
+                such party; or
+                    ``(B) demonstrates willful or continuing disregard 
+                by such party for the safety or soundness of such 
+                enterprise,
+the Board may serve upon such party a written notice of the Board's 
+intention to remove such party from office or to prohibit any further 
+participation by such party, in any manner, in the conduct of the 
+affairs of any enterprise.
+    ``(b) Suspension Order.--
+            ``(1) Suspension or prohibition authority.--If the Board 
+        serves written notice under subsection (a) to any enterprise-
+        affiliated party of the Board's intention to issue an order 
+        under such subsection, the Board may suspend such party from 
+        office or prohibit such party from further participation in any 
+        manner in the conduct of the affairs of the enterprise, if the 
+        Board--
+                    ``(A) determines that such action is necessary for 
+                the protection of the enterprise; and
+                    ``(B) serves such party with written notice of the 
+                suspension order.
+            ``(2) Effective period.--Any suspension order issued under 
+        subsection (a)--
+                    ``(A) shall become effective upon service; and
+                    ``(B) unless a court issues a stay of such order 
+                under subsection (g) of this section, shall remain in 
+                effect and enforceable until--
+                            ``(i) the date the Board dismisses the 
+                        charges contained in the notice served under 
+                        subsection (a) with respect to such party; or
+                            ``(ii) the effective date of an order 
+                        issued by the Board to such party under 
+                        subsection (a).
+            ``(3) Copy of order.--If the Board issues a suspension 
+        order under subsection (a) to any enterprise-affiliated party, 
+        the Board shall serve a copy of such order on any enterprise 
+        with which such party is affiliated at the time such order is 
+        issued.
+    ``(c) Notice, Hearing, and Order.--A notice of intention to remove 
+an enterprise-affiliated party from office or to prohibit such party 
+from participating in the conduct of the affairs of an enterprise shall 
+contain a statement of the facts constituting grounds for such action, 
+and shall fix a time and place at which a hearing will be held on such 
+action. Such hearing shall be fixed for a date not earlier than 30 days 
+nor later than 60 days after the date of service of such notice, unless 
+an earlier or a later date is set by the Board at the request of (1) 
+such party, and for good cause shown, or (2) the Attorney General of 
+the United States. Unless such party shall appear at the hearing in 
+person or by a duly authorized representative, such party shall be 
+deemed to have consented to the issuance of an order of such removal or 
+prohibition. In the event of such consent, or if upon the record made 
+at any such hearing the Board shall find that any of the grounds 
+specified in such notice have been established, the Board may issue 
+such orders of suspension or removal from office, or prohibition from 
+participation in the conduct of the affairs of the enterprise, as it 
+may deem appropriate. Any such order shall become effective at the 
+expiration of 30 days after service upon such enterprise and such party 
+(except in the case of an order issued upon consent, which shall become 
+effective at the time specified therein). Such order shall remain 
+effective and enforceable except to such extent as it is stayed, 
+modified, terminated, or set aside by action of the Board or a 
+reviewing court.
+    ``(d) Prohibition of Certain Specific Activities.--Any person 
+subject to an order issued under this section shall not--
+            ``(1) participate in any manner in the conduct of the 
+        affairs of any enterprise;
+            ``(2) solicit, procure, transfer, attempt to transfer, 
+        vote, or attempt to vote any proxy, consent, or authorization 
+        with respect to any voting rights in any enterprise;
+            ``(3) violate any voting agreement previously approved by 
+        the Board; or
+            ``(4) vote for a director, or serve or act as an 
+        enterprise-affiliated party.
+    ``(e) Industry-Wide Prohibition.--
+            ``(1) In general.--Except as provided in subparagraph (2), 
+        any person who, pursuant to an order issued under subsection 
+        (h), has been removed or suspended from office in an enterprise 
+or prohibited from participating in the conduct of the affairs of an 
+enterprise may not, while such order is in effect, continue or commence 
+to hold any office in, or participate in any manner in the conduct of 
+the affairs of any enterprise.
+            ``(2) Exception if board provides written consent.--If, on 
+        or after the date an order is issued under this section which 
+        removes or suspends from office any enterprise-affiliated party 
+        or prohibits such party from participating in the conduct of 
+        the affairs of an enterprise, such party receives the written 
+        consent of the Board, the order shall, to the extent of such 
+        consent, cease to apply to such party with respect to the 
+        enterprise described in the written consent. If the Board 
+        grants such a written consent, it shall publicly disclose such 
+        consent.
+            ``(3) Violation of paragraph (1) treated as violation of 
+        order.--Any violation of paragraph (1) by any person who is 
+        subject to an order described in such subsection shall be 
+        treated as a violation of the order.
+    ``(f) Applicability.--This section shall only apply to a person who 
+is an individual, unless the Board specifically finds that it should 
+apply to a corporation, firm, or other business enterprise.
+    ``(g) Stay of Suspension and Prohibition of Enterprise-Affiliated 
+Party.--Within 10 days after any enterprise-affiliated party has been 
+suspended from office and/or prohibited from participation in the 
+conduct of the affairs of an enterprise under this section, such party 
+may apply to the United States District Court for the District of 
+Columbia, or the United States district court for the judicial district 
+in which the headquarters of the enterprise is located, for a stay of 
+such suspension and/or prohibition pending the completion of the 
+administrative proceedings pursuant to the notice served upon such 
+party under this section, and such court shall have jurisdiction to 
+stay such suspension and/or prohibition.
+    ``(h) Suspension or Removal of Enterprise-Affiliated Party Charged 
+With Felony.--
+            ``(1) Suspension or prohibition.--
+                    ``(A) In general.--Whenever any enterprise-
+                affiliated party is charged in any information, 
+                indictment, or complaint, with the commission of or 
+                participation in a crime involving dishonesty or breach 
+                of trust which is punishable by imprisonment for a term 
+                exceeding one year under State or Federal law, the 
+                Board may, if continued service or participation by 
+                such party may pose a threat to the enterprise or 
+                impair public confidence in the enterprise, by written 
+                notice served upon such party, suspend such party from 
+                office or prohibit such party from further 
+                participation in any manner in the conduct of the 
+                affairs of any enterprise.
+                    ``(B) Provisions applicable to notice.--
+                            ``(i) Copy.--A copy of any notice under 
+                        paragraph (1)(A) shall also be served upon the 
+                        enterprise.
+                            ``(ii) Effective period.--A suspension or 
+                        prohibition under subparagraph (A) shall remain 
+                        in effect until the information, indictment, or 
+                        complaint referred to in such subparagraph is 
+                        finally disposed of or until terminated by the 
+                        Board.
+            ``(2) Removal or prohibition.--
+                    ``(A) In general.--If a judgment of conviction or 
+                an agreement to enter a pretrial diversion or other 
+                similar program is entered against an enterprise-
+                affiliated party in connection with a crime described 
+                in paragraph (1)(A), at such time as such judgment is 
+                not subject to further appellate review, the Board may, 
+                if continued service or participation by such party may 
+                pose a threat to the enterprise or impair public 
+                confidence in the enterprise, issue and serve upon such 
+                party an order removing such party from office or 
+                prohibiting such party from further participation in 
+                any manner in the conduct of the affairs of the 
+                enterprise without the prior written consent of the 
+                Board.
+                    ``(B) Provisions applicable to order.--
+                            ``(i) Copy.--A copy of any order under 
+                        paragraph (2)(A) shall also be served upon the 
+                        enterprise, whereupon the enterprise-affiliated 
+                        party who is subject to the order (if a 
+                        director or an officer) shall cease to be a 
+                        director or officer of such enterprise.
+                            ``(ii) Effect of acquittal.--A finding of 
+                        not guilty or other disposition of the charge 
+                        shall not preclude the Board from instituting 
+                        proceedings after such finding or disposition 
+                        to remove such party from office or to prohibit 
+                        further participation in enterprise affairs 
+                        pursuant to subsections (a), (d), or (e) of 
+                        this section.
+                            ``(iii) Effective period.--Any notice of 
+                        suspension or order of removal issued under 
+                        this subsection shall remain effective and 
+                        outstanding until the completion of any hearing 
+                        or appeal authorized under paragraph (4) unless 
+                        terminated by the Board.
+            ``(3) Authority of remaining board members.--If at any 
+        time, because of the suspension of one or more directors 
+        pursuant to this section, there shall be on the board of 
+        directors of an enterprise less than a quorum of directors not 
+        so suspended, all powers and functions vested in or exercisable 
+        by such board shall vest in and be exercisable by the director 
+        or directors on the board not so suspended, until such time as 
+        there shall be a quorum of the board of directors. In the event 
+        all of the directors of an enterprise are suspended pursuant to 
+        this section, the Board shall appoint persons to serve 
+        temporarily as directors in their place and stead pending the 
+        termination of such suspensions, or until such time as those 
+        who have been suspended, cease to be directors of the 
+enterprise and their respective successors take office.
+            ``(4) Hearing regarding continued participation.--Within 30 
+        days from service of any notice of suspension or order of 
+        removal issued pursuant to paragraph (1) or (2) of this 
+        subsection, the enterprise-affiliated party concerned may 
+        request in writing an opportunity to appear before the Board to 
+        show that the continued service to or participation in the 
+        conduct of the affairs of the enterprise by such party does 
+        not, or is not likely to, pose a threat to the interests of the 
+        enterprise or threaten to impair public confidence in the 
+        enterprise. Upon receipt of any such request, the Board shall 
+        fix a time (not more than 30 days after receipt of such 
+        request, unless extended at the request of such party) and 
+        place at which such party may appear, personally or through 
+        counsel, before one or more members of the Board designated 
+        employees of the Board to submit written materials (or, at the 
+        discretion of the Board, oral testimony) and oral argument. 
+        Within 60 days of such hearing, the Board shall notify such 
+        party whether the suspension or prohibition from participation 
+        in any manner in the conduct of the affairs of the enterprise 
+        will be continued, terminated, or otherwise modified, or 
+        whether the order removing such party from office or 
+        prohibiting such party from further participation in any manner 
+        in the conduct of the affairs of the enterprise will be 
+        rescinded or otherwise modified. Such notification shall 
+        contain a statement of the basis for the Board's decision, if 
+        adverse to such party. The Board is authorized to prescribe 
+        such rules as may be necessary to effectuate the purposes of 
+        this subsection.
+    ``(i) Hearings and Judicial Review.--
+            ``(1) Venue and procedure.--Any hearing provided for in 
+        this section shall be held in the District of Columbia or in 
+        the Federal judicial district in which the headquarters of the 
+        enterprise is located, unless the party afforded the hearing 
+        consents to another place, and shall be conducted in accordance 
+        with the provisions of chapter 5 of title 5, United States 
+        Code. After such hearing, and within 90 days after the Board 
+        has notified the parties that the case has been submitted to it 
+        for final decision, it shall render its decision (which shall 
+        include findings of fact upon which its decision is predicated) 
+        and shall issue and serve upon each party to the proceeding an 
+        order or orders consistent with the provisions of this section. 
+        Judicial review of any such order shall be exclusively as 
+        provided in this subsection. Unless a petition for review is 
+        timely filed in a court of appeals of the United States, as 
+        provided in paragraph (2), and thereafter until the record in 
+        the proceeding has been filed as so provided, the Board may at 
+        any time, upon such notice and in such manner as it shall deem 
+        proper, modify, terminate, or set aside any such order. Upon 
+        such filing of the record, the Board may modify, terminate, or 
+        set aside any such order with permission of the court.
+            ``(2) Review of order.--Any party to any proceeding under 
+        paragraph (1) may obtain a review of any order served pursuant 
+        to paragraph (1) (other than an order issued with the consent 
+        of the enterprise or the enterprise-affiliated party concerned, 
+        or an order issued under subsection (h) of this section) by the 
+        filing in the United States Court of Appeals for the District 
+        of Columbia Circuit or court of appeals of the United States 
+        for the circuit in which the headquarters of the enterprise is 
+        located, within 30 days after the date of service of such 
+        order, a written petition praying that the order of the Board 
+        be modified, terminated, or set aside. A copy of such petition 
+        shall be forthwith transmitted by the clerk of the court to the 
+        Board, and thereupon the Board shall file in the court the 
+        record in the proceeding, as provided in section 2112 of title 
+        28, United States Code. Upon the filing of such petition, such 
+        court shall have jurisdiction, which upon the filing of the 
+        record shall (except as provided in the last sentence of 
+        paragraph (1)) be exclusive, to affirm, modify, terminate, or 
+        set aside, in whole or in part, the order of the Board. Review 
+        of such proceedings shall be had as provided in chapter 7 of 
+        title 5, United States Code. The judgment and decree of the 
+        court shall be final, except that the same shall be subject to 
+        review by the Supreme Court upon certiorari, as provided in 
+        section 1254 of title 28, United States Code.
+            ``(3) Proceedings not treated as stay.--The commencement of 
+        proceedings for judicial review under paragraph (2) shall not, 
+        unless specifically ordered by the court, operate as a stay of 
+        any order issued by the Board.''.
+    (b) Conforming Amendment.--Section 1317(f) of the Housing and 
+Community Development Act of 1992 (12 U.S.C. 4517(f)) is amended by 
+striking ``section 1379B'' and inserting ``section 1379D''.
+
+SEC. 154. ENFORCEMENT AND JURISDICTION.
+
+    Section 1375 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4635) is amended--
+            (1) by striking subsection (a) and inserting the following 
+        new subsection:
+    ``(a) Enforcement.--The Board may in its discretion apply to the 
+United States District Court for the District of Columbia, or the 
+United States district court within the jurisdiction of which the 
+headquarters of the enterprise is located, for the enforcement of any 
+effective and outstanding notice or order issued under this subtitle or 
+subtitle B, or request that the Attorney General of the United States 
+bring such an action. Such court shall have jurisdiction and power to 
+order and require compliance with such notice or order.''; and
+            (2) in subsection (b), by striking ``or 1376'' and 
+        inserting ``1376, or 1377''
+
+SEC. 155. CIVIL MONEY PENALTIES.
+
+    Section 1376 of the Housing and Community Development Act of 1992 
+(12 U.S.C. 4636) is amended--
+            (1) in subsection (a), in the matter preceding paragraph 
+        (1), by striking ``or any executive officer or'' and inserting 
+        ``any executive officer of an enterprise, any enterprise-
+        affiliated party, or any'';
+            (2) by striking subsection (b) and inserting the following 
+        new subsection:
+    ``(b) Amount of Penalty.--
+            ``(1) First tier.--Any enterprise which, or any enterprise-
+        affiliated party who--
+                    ``(A) violates any provision of this title, the 
+                Federal National Mortgage Association Charter Act (12 
+                U.S.C. 1716 et seq.), the Federal Home Loan Mortgage 
+                Corporation Act (12 U.S.C. 1451 et seq.), or any order, 
+                condition, rule, or regulation under any such title or 
+                Act, except that the Board may not enforce compliance 
+                with any housing goal established under subpart B of 
+                part 2 of subtitle A of this title, with section 1336 
+                or 1337 of this title, with subsection (m) or (n) of 
+                section 309 of the Federal National Mortgage 
+                Association Charter Act (12 U.S.C. 1723a(m), (n)), or 
+                with subsection (e) or (f) of section 307 of the 
+                Federal Home Loan Mortgage Corporation Act (12 U.S.C. 
+                1456(e), (f));
+                    ``(B) violates any final or temporary order or 
+                notice issued pursuant to this title;
+                    ``(C) violates any condition imposed in writing by 
+                the Board in connection with the grant of any 
+                application or other request by such enterprise;
+                    ``(D) violates any written agreement between the 
+                enterprise and the Board; or
+                    ``(E) engages in any conduct the Board determines 
+                to be an unsafe or unsound practice,
+        shall forfeit and pay a civil penalty of not more than $5,000 
+        for each day during which such violation continues.
+            ``(2) Second tier.--Notwithstanding paragraph (1)--
+                    ``(A) if an enterprise, or an enterprise-affiliated 
+                party--
+                            ``(i) commits any violation described in 
+                        any subparagraph of paragraph (1);
+                            ``(ii) recklessly engages in an unsafe or 
+                        unsound practice in conducting the affairs of 
+                        such enterprise; or
+                            ``(iii) breaches any fiduciary duty which 
+                        violation, practice, or breach; and
+                    ``(B) the violation, practice, or breach--
+                            ``(i) is part of a pattern of misconduct;
+                            ``(ii) causes or is likely to cause more 
+                        than a minimal loss to such enterprise; or
+                            ``(iii) results in pecuniary gain or other 
+                        benefit to such party,
+        the enterprise or enterprise-affiliated party shall forfeit and 
+        pay a civil penalty of not more than $25,000 for each day 
+        during which such violation, practice, or breach continues.
+            ``(3) Third tier.--Notwithstanding paragraphs (1) and (2), 
+        any enterprise which, or any enterprise-affiliated party who--
+                    ``(A) knowingly--
+                            ``(i) commits any violation described in 
+                        any subparagraph of paragraph (1);
+                            ``(ii) engages in any unsafe or unsound 
+                        practice in conducting the affairs of such 
+                        enterprise; or
+                            ``(iii) breaches any fiduciary duty; and
+                    ``(B) knowingly or recklessly causes a substantial 
+                loss to such enterprise or a substantial pecuniary gain 
+                or other benefit to such party by reason of such 
+                violation, practice, or breach,
+        shall forfeit and pay a civil penalty in an amount not to 
+        exceed the applicable maximum amount determined under paragraph 
+        (4) for each day during which such violation, practice, or 
+        breach continues.
+            ``(4) Maximum amounts of penalties for any violation 
+        described in paragraph (3).--The maximum daily amount of any 
+        civil penalty which may be assessed pursuant to paragraph (3) 
+        for any violation, practice, or breach described in such 
+        paragraph is--
+                    ``(A) in the case of any person other than an 
+                enterprise, an amount not to exceed $1,000,000; and
+                    ``(B) in the case of any enterprise, $1,000,000.''; 
+                and
+            (3) in subsection (d)--
+                    (A) by striking ``or director'' each place such 
+                term appears and inserting ``director, or enterprise-
+                affiliated party'';
+                    (B) by striking ``request the Attorney General of 
+                the United States to'';
+                    (C) by inserting ``, or the United States district 
+                court within the jurisdiction of which the headquarters 
+                of the enterprise is located,'' after ``District of 
+                Columbia''; and
+                    (D) by striking ``, or may, under the direction and 
+                control of the Attorney General, bring such an 
+                action''.
+
+SEC. 156. CRIMINAL PENALTY.
+
+    Subtitle C of title XIII of the Housing and Community Development 
+Act of 1992 (12 U.S.C. 4631 et seq.) is amended by inserting after 
+section 1377 (as added by the preceding provisions of this Act) the 
+following new section:
+
+``SEC. 1378. CRIMINAL PENALTY.
+
+    ``Whoever, being subject to an order in effect under section 1377, 
+without the prior written approval of the Board, knowingly 
+participates, directly or indirectly, in any manner (including by 
+engaging in an activity specifically prohibited in such an order) in 
+the conduct of the affairs of any enterprise shall, notwithstanding 
+section 3571 of title 18, be fined not more than $1,000,000, imprisoned 
+for not more than 5 years, or both.''.
+
+              Subtitle D--Reporting Regarding Enterprises
+
+SEC. 161. REPORTING REGARDING ENTERPRISES.
+
+    Part 3 of subtitle A of the Housing and Community Development Act 
+of 1992 is amended--
+            (1) by striking sections 1351, 1352, and 1353 (Public Law 
+        102-550; 106 Stat. 3969), except the provisions of law amended 
+        by such sections repealed shall not be affected by such repeal; 
+        and
+            (2) by striking sections 1354, 1355, and 1356 (12 U.S.C. 
+        4601-3) and inserting the following new section:
+
+``SEC. 1351. REPORTS REGARDING ENTERPRISE ISSUES AND ACTIVITIES.
+
+    ``(a) Insured Depository Institution Holdings of Enterprise Debt 
+and Mortgage-Backed Securities.--Not later than 180 days after the date 
+of the enactment of the Secondary Mortgage Market Enterprises 
+Regulatory Improvement Act, the Secretary of the Treasury shall submit 
+a report to the Congress regarding--
+            ``(1) the extent to which obligations issued or guaranteed 
+        by the enterprises (including mortgage-backed securities) are 
+        held by federally insured depository institutions, including 
+        such extent by type of institution and such extent relative to 
+        the institutions' capital;
+            ``(2) the extent to which the unlimited holdings by 
+        federally insured depository institutions of the obligations of 
+        the enterprises could produce systemic risk issues, 
+        particularly for the safety and soundness of the banking system 
+        in the United States, in the event of default or failure by an 
+        enterprise; and
+            ``(3) the effects on the enterprises, the banking industry, 
+        and mortgage markets, if prudent limits on the holdings of 
+        enterprise obligations were placed on federally insured 
+        depository institutions.
+    ``(b) Portfolio Operations, Risk Management, and Mission.--Not 
+later than one year after the date of the enactment of the Secondary 
+Mortgage Market Enterprises Regulatory Improvement Act, the Board shall 
+submit a report to the Congress--
+            ``(1) describing the holdings of the enterprises in 
+        retained mortgages and repurchased mortgage-backed securities 
+        and the use of derivatives for hedging purposes;
+            ``(2) describing the extent of such holdings relative to 
+        other assets and the risk implications of such holdings;
+            ``(3) containing an analysis of such holdings for safety 
+        and soundness and/or mission compliance purposes; and
+            ``(4) containing an assessment of whether such holdings and 
+        other assets of the enterprises fulfill the mission purposes of 
+        the enterprises under the Federal National Mortgage Association 
+        Charter Act and the Federal Home Loan Mortgage Corporation Act.
+The Board shall consult with the Comptroller General of the United 
+States in preparing the report under this subsection and in conducting 
+any research, analyses, and assessments for the report.
+    ``(c) Debt Issuances.--Not later than 270 days after the date of 
+the enactment of the Secondary Mortgage Market Enterprises Regulatory 
+Improvement Act, the Secretary of the Treasury shall submit a report to 
+the Congress regarding--
+            ``(1) the extent of outstanding obligations of the 
+        enterprises and the rate of growth of such obligations; and
+            ``(2) an analysis of whether debt issuances should be 
+        limited or reduced if an enterprise is not operating in a safe 
+        and sound manner and/or not complying with its mission, or if 
+        an enterprise fails to maintain a certain credit rating and/or 
+        debt rating.
+    ``(d) Treasury Line of Credit.--Not later than one year after the 
+date of the enactment of the Secondary Mortgage Market Enterprises 
+Regulatory Improvement Act, the Secretary of the Treasury shall submit 
+a report to the Congress regarding the purposes of the authority of the 
+Secretary of the Treasury to purchase the debt obligations of the 
+enterprises. The report shall assess the desirability of limiting such 
+authority in certain circumstances or eliminating such authority.
+    ``(e) Voluntary Agreement.--The Board shall submit a report to the 
+Congress annually, on fiscal year basis, regarding the progress in 
+implementing the commitments announced by the enterprises on October 
+19, 2000, regarding capitalization, disclosure, and market discipline, 
+namely--
+            ``(1) to issue subordinated debt;
+            ``(2) to obtain and disclose an annual credit rating;
+            ``(3) to disclose interest rate risk;
+            ``(4) to disclose credit risk;
+            ``(5) to maintain greater liquidity; and
+            ``(6) to perform and disclose an interim risk-based capital 
+        stress test.
+The report shall determine whether the intended purposes of this 
+agreement, particularly to reduce systemic risk, have been achieved, 
+whether changes should be made to the agreement, and whether any action 
+should be taken to ensure compliance with the agreement by the 
+enterprises. Each report under this subsection for a fiscal year shall 
+be submitted not later than the December 31 first occurring after the 
+conclusion of such fiscal year.
+    ``(f) Recommendations.--Each report submitted pursuant to this 
+section shall include specific recommendations of appropriate policies, 
+limitations, regulations, legislation, or other actions to deal 
+appropriately and effectively with the issues addressed by such 
+report.''.
+
+                     Subtitle E--General Provisions
+
+SEC. 171. CONFORMING AND TECHNICAL AMENDMENTS.
+
+    (a) Amendments to 1992 Act.--Title XIII of the Housing and 
+Community Development Act of 1992 (12 U.S.C. 4501 et seq.), as amended 
+by the preceding provisions of this Act, is further amended--
+            (1) in section 1315 (12 U.S.C. 4515)--
+                    (A) in subsection (a)--
+                            (i) in the subsection heading, by striking 
+                        ``Office Personnel'' and inserting ``In 
+                        General'';
+                            (ii) by striking ``The'' and inserting 
+                        ``Subject to title II of the Secondary Mortgage 
+                        Market Enterprises Regulatory Improvement Act, 
+                        the''; and
+                            (iii) by striking ``Director and the 
+                        Office. Officers'' and inserting ``Board, with 
+                        respect to regulation and supervision of the 
+                        enterprises. Such officers'';
+                    (B) in subsection (b)--
+                            (i) by striking ``the Board of Governors of 
+                        the Federal Reserve System,'' and
+                            (ii) by inserting ``, and with compensation 
+                        of other officers and employees of the Board of 
+Governors of the Federal Reserve System'' before the period at the end;
+                    (C) in subsection (c), by inserting ``, with 
+                respect to regulation and supervision of the 
+                enterprises'' before the first comma;
+                    (D) in subsection (d), by striking ``Office'' and 
+                inserting ``Secretary pursuant to subpart B of part 2 
+                of this subtitle, subsections (m) and (n) of section 
+                309 of the Federal National Mortgage Association 
+                Charter Act, and subsections (e) and (f) of section 307 
+                of the Federal Home Loan Mortgage Corporation Act;
+                    (E) in subsection (e), by inserting ``, with 
+                respect to regulation and supervision of the 
+                enterprises'' before the period at the end; and
+                    (F) by striking subsection (f);
+            (2) in section 1317(c) (12 U.S.C. 4517(c)), by striking 
+        ``the Board of Governors of the Federal Reserve System,'';
+            (3) in section 1319A (12 U.S.C. 4520)--
+                    (A) by striking ``(a) In General.--''; and
+                    (B) by striking subsection (b);
+            (4) in section 1319C (12 U.S.C. 4522)--
+                    (A) in subsection (a)(1), by inserting ``under this 
+                title'' after ``redressed''; and
+                    (B) in subsection (b), by inserting ``under this 
+                title'' after ``issued'';
+            (5) in section 1319D (12 U.S.C. 4523), by inserting ``to 
+        conduct duties relating to the regulation and supervision of 
+        the enterprises'' before the second comma;
+            (6) in section 1319E (12 U.S.C. 4524)--
+                    (A) by inserting ``relating to regulation and 
+                supervision of the enterprises'' before ``in accordance 
+                with''; and
+                    (B) by inserting ``in functions relating to the 
+                regulation and supervision of the enterprises'' before 
+                ``shall be made available'';
+            (7) in section 1319F (12 U.S.C. 4525), by striking ``Code'' 
+        and all that follows through ``agencies'' and inserting ``Code, 
+        the Board, to the extent only of its functions, activities, and 
+        employees involved in the regulation and supervision of the 
+        enterprises, shall be considered an agency'';
+            (8) in the section heading for section 1328, by striking 
+        ``secretary'' and inserting ``board of governors'';
+            (9) in section 1361 (12 U.S.C. 4611)--
+                    (A) in subsection (e)--
+                            (i) in paragraph (1), by striking the first 
+                        sentence and inserting the following new 
+                        sentence: ``The Board shall establish the risk-
+                        based capital test under this section by 
+                        regulation.''; and
+                            (ii) in paragraph (2), by striking 
+                        ``individual other than the Director to apply 
+                        the test in the same manner as the Director'' 
+                        and inserting ``individual (who is not a member 
+                        of the Board) to apply the test in the same 
+                        manner as the Board''; and
+                    (B) in subsection (f), by striking ``the Secretary, 
+                the Board of Governors of the Federal Reserve System''; 
+                and
+            (10) in section 1364(c) (12 U.S.C. 4614(c)), by striking 
+        the last sentence;
+            (11) in section 1367(a)(2) (12 U.S.C. 4617(a)(2)), by 
+        striking ``with the written concurrence of the Secretary of the 
+        Treasury,'';
+            (12) in section 1369A (12 U.S.C. 4620)--
+                    (A) in the subsection heading for subsection (c) by 
+                striking ``Director'' and inserting ``Board''; and
+                    (B) in subsection (i), by inserting ``having duties 
+                relating to regulation and supervision of the 
+                enterprises'' before the period at the end;
+            (13) in the section heading for section 1369D (12 U.S.C. 
+        4623), by striking ``director'' and inserting ``board'';
+            (14) in the subsection heading for subsection (e) of 
+        section 1376 (12 U.S.C. 4636(e)), by striking ``Director'' and 
+        inserting ``Board'';
+            (15) by striking section 1383;
+            (16) by striking ``Director'' each place such term appears 
+        (except the second place such term appears in each of 
+        paragraphs (1) and (2) of section 1316(g), the third place such 
+        term appears in section 1317(c), in section 1361(a)(3)(C), and 
+        the second and third places such term appears in subsection (f) 
+        of section 1361) and inserting ``Board'';
+            (17) by striking ``Director's'' each place such term 
+        appears and inserting ``Board's'';
+            (18) by striking ``Office'' each place such term appears 
+        (except each place such term appears in section 1315(b), in 
+        section 1316(g)(1), the second place such term appears in 
+        section 1316(g)(2), in section 1317(c), in section 1334(d)(3), 
+        in section 1361(a)(3)(C), and each place such term appears in 
+        section 1361(f)) and inserting ``Board'';
+            (19) by striking ``Committee on Banking, Finance and Urban 
+        Affairs'' and inserting ``Committee on Financial Services'' 
+        each place such term appears in sections 1319B, 1319G(c), 
+        1328(a), 1336(b)(3)(C), 1337, and 1369(a)(3); and
+            (20) by striking ``Secretary'' and inserting ``Board'' each 
+        place such term appears in --
+                    (A) part 1 of subtitle A;
+                    (B) subpart A of part 2 of subtitle A (except in 
+                sections 1324 and 1325);
+                    (C) subtitle B (except in section 1361(d)(1)); and
+                    (D) subtitle C.
+    (b) Amendments to Fannie Mae Charter Act.--The Federal National 
+Mortgage Association Charter Act (12 U.S.C. 1716 et seq.) is amended--
+            (1) by striking ``Director of the Office of Federal Housing 
+        Enterprise Oversight of the Department of Housing and Urban 
+        Development'' each place such term appears, and inserting 
+        ``Board of Governors of the Federal Reserve System'', in--
+                    (A) section 303(c)(2) (12 U.S.C. 1718(c)(2));
+                    (B) section 309(d)(3)(B) (12 U.S.C. 
+                1723a(d)(3)(B)); and
+                    (C) section 309(k)(1);
+            (2) in section 309 (12 U.S.C. 1723a)--
+                    (A) in the second sentence of subsection (d)(3)(B), 
+                by striking ``Director'' each place such term appears 
+                and inserting ``Board of Governors'';
+                    (B) in subsection (k)--
+                            (i) in paragraph (1), by striking 
+                        ``Director shall'' and inserting ``Board of 
+                        Governors shall''; and
+                            (ii) in paragraphs (2) and (3), by striking 
+                        ``Director'' each place such term appears and 
+                        inserting ``Board of Governors of the Federal 
+                        Reserve System''; and
+                    (C) in subsection (l)(2), by striking ``Director'' 
+                and inserting ``Board of Governors of the Federal 
+                Reserve System''; and
+            (3) in section 309(n)--
+                    (A) in paragraph (1), by inserting ``the Board of 
+                Governors of the Federal Reserve System,'' after 
+                ``House of Representatives,''; and
+                    (B) in paragraph (3)(B), by striking ``Secretary'' 
+                and inserting ``Board of Governors of the Federal 
+                Reserve System''.
+    (c) Amendments to Freddie Mac Act.--The Federal Home Loan Mortgage 
+Corporation Act is amended--
+            (1) by striking ``Director of the Office of Federal Housing 
+        Enterprise Oversight of the Department of Housing and Urban 
+        Development'' each place such term appears, and inserting 
+        ``Board of Governors of the Federal Reserve System'', in--
+                    (A) section 303(b)(2) (12 U.S.C. 1452(b)(2));
+                    (B) section 303(h)(2) (12 U.S.C. 1452(h)(2)); and
+                    (C) section 307(c)(1) (12 U.S.C. 1456(c)(1));
+            (2) in the second sentence of section 303(h)(2) (12 U.S.C. 
+        1452(h)(2)), by striking ``Director'' each place such term 
+        appears and inserting ``Board of Governors'';
+            (3) in section 306(i) (12 U.S.C. 1455(i))--
+                    (A) by striking ``section 1316(c)'' and inserting 
+                ``section 306(c)''; and
+                    (B) by striking ``section 106'' and inserting 
+                ``section 1316''; and
+            (4) in section 307 (12 U.S.C. 1456)--
+                    (A) in subsection (c)(1), by striking ``Director 
+                shall'' and inserting ``Board of Governors shall'';
+                    (B) in subsection (c), in paragraphs (2) and (3), 
+                by striking ``Director'' each place such term appears 
+                and inserting ``Board of Governors of the Federal 
+                Reserve System'';
+                    (C) in subsection (d)(2), by striking ``Director'' 
+                and inserting ``Board of Governors of the Federal 
+                Reserve System''; and
+                    (D) in subsection (f)--
+                            (i) in paragraph (1), by inserting ``the 
+                        Board of Governors of the Federal Reserve 
+                        System,'' after ``House of Representatives,'';
+                            (ii) in paragraph (3)(B), by striking 
+                        ``Secretary'' and inserting ``Board of 
+                        Governors of the Federal Reserve System''.
+    (d) Amendment to Title 18, United States Code.--Section 1905 of 
+title 18, United States Code, is amended by striking ``Office of 
+Federal Housing Enterprise Oversight'' and inserting ``Board of 
+Governors of the Federal Reserve System in its capacity under title 
+XIII of the Housing and Community Development Act of 1992''.
+    (e) Amendments to Flood Disaster Protection Act of 1973.--Section 
+102(f)(3)(A) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 
+4012a(f)(3)(A)) is amended--
+            (1) by striking ``Director of the Office of Federal Housing 
+        Enterprise Oversight of the Department of Housing and Urban 
+        Development'' and inserting ``Board of Governors of the Federal 
+        Reserve System''; and
+            (2) by striking ``Director of such Office'' and inserting 
+        ``Board''.
+    (f) Amendment to Department of Housing and Urban Development Act.--
+Section 5 of the Department of Housing and Urban Development Act (42 
+U.S.C. 3534) is amended by striking subsection (d).
+    (g) Amendments to Title 5, United States Code.--
+            (1) Executive schedule pay rate.--Section 5315 of title 5, 
+        United States Code, is amended by striking the item relating to 
+        the Director of the Office of Federal Housing Enterprise 
+        Oversight, Department of Housing and Urban Development.
+            (2) Definition of agency.--Section 3132(a)(1)(D) of title 
+        5, United States Code, is amended by striking ``the Office of 
+        Federal Housing Enterprise Oversight of the Department of 
+        Housing and Urban Development'' and inserting ``the Board of 
+        Governors of the Federal Reserve System, to the extent of the 
+        duties of such Board relating to regulation and supervision of 
+        the Federal National Mortgage Association and the Federal Home 
+        Loan Mortgage Corporation''.
+
+SEC. 172. EFFECTIVE DATE.
+
+    Except as specifically provided otherwise in this title, the 
+amendments made by this title shall take effect on, and shall apply 
+beginning on, the expiration of the 1-year period beginning on the date 
+of the enactment of this Act.
+
+        TITLE II--TRANSFER OF FUNCTIONS, PERSONNEL, AND PROPERTY
+
+SEC. 201. ABOLISHMENT OF OFHEO.
+
+    (a) In General.--Effective at the end of the 1-year period 
+beginning on the date of the enactment of this Act, the Office of 
+Federal Housing Enterprise Oversight of the Department of Housing and 
+Urban Development and the positions of the Director and Deputy Director 
+of such Office are abolished.
+    (b) Disposition of Affairs.--During the 1-year period beginning on 
+the date of the enactment of this Act, the Director of the Office of 
+Federal Housing Enterprise Oversight shall, solely for the purpose of 
+winding up the affairs of the Office of Federal Housing Enterprise 
+Oversight--
+            (1) manage the employees of such Office and provide for the 
+        payment of the compensation and benefits of any such employee 
+        which accrue before the effective date of the transfer of such 
+        employee pursuant to section 203; and
+            (2) may take any other action necessary for the purpose of 
+        winding up the affairs of the Office.
+    (c) Status of Employees Before Transfer.--The amendments made by 
+title I and the abolishment of the Office of Federal Housing Enterprise 
+Oversight under subsection (a) of this section may not be construed to 
+affect the status of any employee of such Office as employees of an 
+agency of the United States for purposes of any other provision of law 
+before the effective date of the transfer of any such employee pursuant 
+to section 203.
+    (d) Use of Property and Services.--
+            (1) Property.--The Chairman of the Board of Governors of 
+        the Federal Reserve System may use the property of the Office 
+        of Federal Housing Enterprise Oversight to perform functions 
+        which have been transferred to the Board of Governors of the 
+        Federal Reserve System for such time as is reasonable to 
+        facilitate the orderly transfer of functions transferred 
+        pursuant to any other provision of this Act or any amendment 
+        made by this Act to any other provision of law.
+            (2) Agency services.--Any agency, department, or other 
+        instrumentality of the United States, and any successor to any 
+        such agency, department, or instrumentality, which was 
+        providing supporting services to the Office of Federal Housing 
+        Enterprise Oversight before the expiration of the period under 
+        subsection (a) in connection with functions that are 
+        transferred to the Board of Governors of the Federal Reserve 
+        System shall--
+                    (A) continue to provide such services, on a 
+                reimbursable basis, until the transfer of such 
+                functions is complete; and
+                    (B) consult with any such agency to coordinate and 
+                facilitate a prompt and reasonable transition.
+    (e) Savings Provisions.--
+            (1) Existing rights, duties, and obligations not 
+        affected.--Subsection (a) shall not affect the validity of any 
+        right, duty, or obligation of the United States, the Director 
+        of the Office of Federal Housing Enterprise Oversight, or any 
+        other person, which--
+                    (A) arises under or pursuant to the title XIII of 
+                the Housing and Community Development Act of 1992, the 
+                Federal National Mortgage Association Charter Act, the 
+                Federal Home Loan Mortgage Corporation Act, or any 
+                other provision of law applicable with respect to such 
+                Office; and
+                    (B) existed on the day before the abolishment under 
+                subsection (a) of this section.
+            (2) Continuation of suits.--No action or other proceeding 
+        commenced by or against the Director of the Office of Federal 
+        Housing Enterprise Oversight shall abate by reason of the 
+        enactment of this Act, except that the Board of Governors of 
+        the Federal Reserve System shall be substituted for the 
+        Director as a party to any such action or proceeding.
+
+SEC. 202. CONTINUATION AND COORDINATION OF CERTAIN REGULATIONS.
+
+    All regulations, orders, determinations, and resolutions that--
+            (1) were issued, made, prescribed, or allowed to become 
+        effective by--
+                    (A) the Office of Federal Housing Enterprise 
+                Oversight;
+                    (B) the Secretary of Housing and Urban Development 
+                and that relate to the Secretary's authority under--
+                            (i) title XIII of the Housing and Community 
+                        Development Act of 1992;
+                            (ii) under the Federal National Mortgage 
+                        Association Charter Act, with respect to the 
+                        Federal National Mortgage Association; or
+                            (iii) the Federal Home Loan Mortgage 
+                        Corporation Act; or
+                    (C) a court of competent jurisdiction and that 
+                relate to functions transferred by this Act; and
+            (2) are in effect on the date of the abolishment under 
+        section 201(a) of this Act,
+shall remain in effect according to the terms of such regulations, 
+orders, determinations, and resolutions and shall be enforceable by or 
+against the Board of Governors of the Federal Reserve System until 
+modified, terminated, set aside, or superseded in accordance with 
+applicable law by such Board, any court of competent jurisdiction, or 
+operation of law.
+
+SEC. 203. TRANSFER AND RIGHTS OF EMPLOYEES OF OFHEO.
+
+    (a) Transfer.--Each employee of the Office of Federal Housing 
+Enterprise Oversight shall be transferred to the Board of Governors of 
+the Federal Reserve System for employment no later than the date of the 
+abolishment under section 201(a) of this Act and such transfer shall be 
+deemed a transfer of function for the purpose of section 3503 of title 
+5, United States Code.
+    (b) Guaranteed Positions.--Each employee transferred under 
+subsection (a) shall be guaranteed a position with the same status, 
+tenure, grade, and pay as that held on the day immediately preceding 
+the transfer. Each such employee holding a permanent position shall not 
+be involuntarily separated or reduced in grade or compensation for 18 
+months after the date of transfer, except for cause or, if the employee 
+is a temporary employee, separated in accordance with the terms of the 
+appointment.
+    (c) Appointment Authority for Excepted and Senior Executive Service 
+Employees.--
+            (1) In general.--In the case of employees occupying 
+        positions in the excepted service or the Senior Executive 
+        Service, any appointment authority established pursuant to law 
+        or regulations of the Office of Personnel Management for 
+        filling such positions shall be transferred, subject to 
+        paragraph (2).
+            (2) Decline of transfer.--The Board of Governors of the 
+        Federal Reserve System may decline a transfer of authority 
+        under paragraph (1) (and the employees appointed pursuant 
+        thereto) to the extent that such authority relates to positions 
+        excepted from the competitive service because of their 
+        confidential, policy-making, policy-determining, or policy-
+        advocating character, and noncareer positions in the Senior 
+        Executive Service (within the meaning of section 3132(a)(7) of 
+        title 5, United States Code).
+    (d) Reorganization.--If the Board of Governors of the Federal 
+Reserve System determines, after the end of the 1-year period beginning 
+on the date the transfer of functions to the Board is completed, that a 
+reorganization of the combined work force is required, that 
+reorganization shall be deemed a major reorganization for purposes of 
+affording affected employees retirement under section 8336(d)(2) or 
+8414(b)(1)(B) of title 5, United States Code.
+    (e) Employee Benefit Programs.--Any employee accepting employment 
+with the Board of Governors of the Federal Reserve System as a result 
+of such transfer may retain for 18 months after the date such transfer 
+occurs membership in any employee benefit program of the Board of 
+Governors of the Federal Reserve System or the Office of Federal 
+Housing Enterprise Oversight, as applicable, including insurance, to 
+which such employee belongs on the date of the abolishment under 
+section 201(a) if--
+            (1) the employee does not elect to give up the benefit or 
+        membership in the program; and
+            (2) the benefit or program is continued by the Board of 
+        Governors of the Federal Reserve System.
+The difference in the costs between the benefits which would have been 
+provided by such agency and those provided by this section shall be 
+paid by the Board of Governors of the Federal Reserve System. If any 
+employee elects to give up membership in a health insurance program or 
+the health insurance program is not continued by such Board, the 
+employee shall be permitted to select an alternate Federal health 
+insurance program within 30 days of such election or notice, without 
+regard to any other regularly scheduled open season.
+    (f) Senior Executive Service Employees.--A transferring employee in 
+the Senior Executive Service shall be placed in a comparable position 
+at the agency or entity to which such employee is transferred.
+    (g) Notice of Positions.--Transferring employees shall receive 
+notice of their position assignments not later than 120 days after the 
+effective date of their transfer.
+
+SEC. 204. TRANSFER OF PROPERTY AND FACILITIES.
+
+    Upon the abolishment under section 201(a), all property of the 
+Office of Federal Housing Enterprise Oversight shall transfer to the 
+Board of Governors of the Federal Reserve System.
+                                 <all>
+

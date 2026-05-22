@@ -1,0 +1,90 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4071 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 4071
+
+ To extend the registration and reporting requirements of the Federal 
+    securities laws to certain housing-related Government-sponsored 
+                  enterprises, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 20, 2002
+
+    Mr. Shays (for himself, Mr. Markey, and Mr. Ryan of Wisconsin) 
+ introduced the following bill; which was referred to the Committee on 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To extend the registration and reporting requirements of the Federal 
+    securities laws to certain housing-related Government-sponsored 
+                  enterprises, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Uniform Securities Disclosure Act''.
+
+SEC. 2. REGISTRATION OF SECURITIES.
+
+    (a) Fannie Mae.--
+            (1) Mortgage-backed securities.--Section 304(d) of the 
+        Federal National Mortgage Association Charter Act (12 U.S.C. 
+        1719(d)) is amended by striking the fourth sentence and 
+        inserting the following new sentence: ``Securities issued by 
+        the corporation under this subsection shall not be exempt 
+        securities within the meaning of the laws administered by the 
+        Securities and Exchange Commission.''.
+            (2) Subordinate obligations.--Section 304(e) of the Federal 
+        National Mortgage Association Charter Act (12 U.S.C. 1719(e)) 
+        is amended by striking the fourth sentence and inserting the 
+        following new sentence: ``Obligations issued by the corporation 
+        under this subsection shall not be exempt securities within the 
+        meaning of the laws administered by the Securities and Exchange 
+        Commission.''.
+            (3) Securities.--Section 311 of the Federal National 
+        Mortgage Association Charter Act (12 U.S.C. 1723c) is amended--
+                    (A) in the second sentence, by inserting ``by the 
+                Association'' after ``issued''; and
+                    (B) by adding at the end the following new 
+                sentence: ``Any stock, obligations, securities, 
+                participations, or other instruments issued by the 
+                corporation pursuant to this title shall not be exempt 
+                securities within the meaning of the laws administered 
+                by the Securities and Exchange Commission.''.
+    (b) Freddie Mac.--Subsection (g) of section 306 of the Federal Home 
+Loan Mortgage Corporation Act (12 U.S.C. 1455(g)) is amended to read as 
+follows:
+    ``(g) Any securities issued or guaranteed by the Corporation shall 
+not be exempt securities within the meaning of the laws administered by 
+the Securities and Exchange Commission.''.
+
+SEC. 3. EFFECTIVE DATE.
+
+    The amendments under section 2 shall be made upon the expiration of 
+the 180-day period beginning on the date of the enactment of this Act, 
+but shall apply only with respect to fiscal years of the Federal 
+National Mortgage Association and the Federal Home Loan Mortgage 
+Corporation that begin after the expiration of such 180-day period.
+                                 <all>
+

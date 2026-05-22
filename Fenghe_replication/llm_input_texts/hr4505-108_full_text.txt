@@ -1,0 +1,1179 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4505 Introduced in House (IH)]
+
+
+
+
+
+
+108th CONGRESS
+  2d Session
+                                H. R. 4505
+
+  To improve the governance and regulation of mutual funds under the 
+                securities laws, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              June 3, 2004
+
+ Mr. Gillmor introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To improve the governance and regulation of mutual funds under the 
+                securities laws, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Mutual Fund Reform 
+Act of 2004''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Rulemaking.
+                        TITLE I--FUND GOVERNANCE
+
+Sec. 101. Independent directors.
+Sec. 102. Study of director compensation and independence.
+Sec. 103. Fiduciary duties of directors.
+Sec. 104. Fiduciary duty of investment adviser.
+Sec. 105. Termination of fund advisers.
+Sec. 106. Independent accounting and auditing.
+Sec. 107. Prevention of fraud; internal compliance and control 
+                            procedures.
+                      TITLE II--FUND TRANSPARENCY
+
+Sec. 201. Cost consolidation and clarity.
+Sec. 202. Advisor compensation and ownership of fund shares.
+Sec. 203. Point of sale and additional disclosure of broker 
+                            compensation.
+Sec. 204. Breakpoint discounts.
+Sec. 205. Portfolio turnover ratio.
+Sec. 206. Proxy voting policies and record.
+Sec. 207. Customer information from account intermediaries.
+Sec. 208. Advertising.
+                TITLE III--FUND REGULATION AND OVERSIGHT
+
+Sec. 301. Prohibition of asset-based distribution expenses.
+Sec. 302. Prohibition on revenue sharing, directed brokerage, and soft 
+                            dollar arrangements.
+Sec. 303. Market timing.
+Sec. 304. Elimination of stale prices.
+Sec. 305. Prohibition of short term trading; mandatory redemption fees.
+Sec. 306. Prevention of after-hours trading.
+Sec. 307. Ban on joint management of mutual funds and hedge funds.
+Sec. 308. Selective disclosures.
+                           TITLE IV--STUDIES
+
+Sec. 401. Study of adviser conflict of interest.
+Sec. 402. Study of coordination of enforcement efforts.
+Sec. 403. Study of Commission organizational structure.
+Sec. 404. Trends in arbitration clauses.
+Sec. 405. Hedge fund regulation.
+Sec. 406. Investor education and the Internet.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act, the following definitions shall apply:
+            (1) Commission.--The term ``Commission'' means the 
+        Securities and Exchange Commission.
+            (2) Investment adviser.--The term ``investment adviser'' 
+        has the same meaning as in section 2(a)(20) of the Investment 
+        Company Act of 1940 (15 U.S.C. 80a-2(a)(20)).
+            (3) Investment company.--The term ``investment company'' 
+        has the same meaning as in section 3 of the Investment Company 
+        Act of 1940 (15 U.S.C. 80-3).
+            (4) Registered investment company.--The term ``registered 
+        investment company'' means an investment company that is 
+        registered under section 8 of the Investment Company Act of 
+        1940 (15 U.S.C. 80a-8).
+
+SEC. 3. RULEMAKING.
+
+    (a) Timing.--Unless otherwise specified in this Act or the 
+amendments made by this Act, the Commission shall issue, in final form, 
+all rules and regulations required by this Act and the amendments made 
+by this Act not later than 180 days after the date of enactment of this 
+Act.
+    (b) Authority to Define Terms.--The Commission may, in issuing 
+rules and regulations under this Act or the amendments made by this 
+Act, define any term used in this Act or such amendments that is not 
+otherwise defined for purposes of this Act or such amendment, as the 
+Commission determines necessary and appropriate.
+    (c) Exemption Authority.--The Commission may, in issuing rules and 
+regulations under this Act or the amendments made by this Act, exempt 
+any investment company or other person from the application of such 
+rules, as the Commission determines is necessary and appropriate, in 
+the public interest or for the protection of investors.
+
+                        TITLE I--FUND GOVERNANCE
+
+SEC. 101. INDEPENDENT DIRECTORS.
+
+    (a) Independent Fund Boards.--Section 10(a) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-10(a)) is amended--
+            (1) by striking ``shall have'' and inserting the following: 
+        ``shall--
+            ``(1) have'';
+            (2) by striking ``60 per centum'' and inserting ``25 
+        percent'';
+            (3) by striking the period at the end and inserting a 
+        semicolon; and
+            (4) by adding at the end the following:
+            ``(2) have as chairman of its board of directors an 
+        interested person of such registered company; or
+            ``(3) have as a member of its board of directors any person 
+        that is not an interested person of such registered investment 
+        company--
+                    ``(A) who has served without being approved or 
+                elected by the shareholders of such registered 
+                investment company at least once every 5 years; and
+                    ``(B) unless such director has been found, on an 
+                annual basis, by a majority of the directors who are 
+                not interested persons, after reasonable inquiry by 
+                such directors, not to have any material business or 
+                familial relationship with the registered investment 
+                company, a significant service provider to the company, 
+                or any entity controlling, controlled by, or under 
+                common control with such service provider, that is 
+                likely to impair the independence of the director.''.
+    (b) Action by Independent Directors.--Section 10 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-10) is amended by adding at the end 
+the following:
+    ``(i) Independent Committee.--
+            ``(1) In general.--The members of the board of directors of 
+        a registered investment company who are not interested persons 
+        of such registered investment company shall establish a 
+        committee comprised solely of such members, which committee 
+        shall be responsible for--
+                    ``(A) selecting persons to be nominated for 
+                election to the board of directors;
+                    ``(B) adopting qualification standards for the 
+                nomination of directors; and
+                    ``(C) determining the compensation to be paid to 
+                directors.
+            ``(2) Disclosure.--The standards developed under paragraph 
+        (1)(B) shall be disclosed in the registration statement of the 
+        registered investment company.''.
+    (c) Definition of Interested Person.--Section 2(a)(19) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-2) is amended--
+            (1) in subparagraph (A)--
+                    (A) in clause (iv), by striking ``two'' and 
+                inserting ``5''; and
+                    (B) by striking clause (vii) and inserting the 
+                following:
+                            ``(vii) any natural person who has served 
+                        as an officer or director, or as an employee 
+                        within the preceding 10 fiscal years, of an 
+                        investment adviser or principal underwriter to 
+                        such registered investment company, or of any 
+                        entity controlling, controlled by, or under 
+                        common control with such investment adviser or 
+                        principal underwriter;
+                            ``(viii) any natural person who has served 
+                        as an officer or director, or as an employee 
+                        within the preceding 10 fiscal years, of any 
+                        entity that has within the preceding 5 fiscal 
+                        years acted as a significant service provider 
+                        to such registered investment company, or of 
+                        any entity controlling, controlled by, or under 
+                        the common control with such service provider;
+                            ``(ix) any natural person who is a member 
+                        of a class of persons that the Commission, by 
+                        rule or regulation, determines is unlikely to 
+                        exercise an appropriate degree of independence 
+                        as a result of--
+                                    ``(I) a material business 
+                                relationship with the investment 
+                                company or an affiliated person of such 
+                                investment company;
+                                    ``(II) a close familial 
+                                relationship with any natural person 
+                                who is an affiliated person of such 
+                                investment company; or
+                                    ``(III) any other reason determined 
+                                by the Commission.'';
+            (2) in subparagraph (B)--
+                    (A) in clause (iv), by striking ``two'' and 
+                inserting ``5''; and
+                    (B) by striking clause (vii) and inserting the 
+                following:
+                            ``(vii) any natural person who is a member 
+                        of a class of persons that the Commission, by 
+                        rule or regulation, determines is unlikely to 
+                        exercise an appropriate degree of independence 
+                        as a result of--
+                                    ``(I) a material business 
+                                relationship with such investment 
+                                adviser or principal underwriter or 
+                                affiliated person of such investment 
+                                adviser or principal underwriter;
+                                    ``(II) a close familial 
+                                relationship with any natural person 
+                                who is an affiliated person of such 
+                                investment adviser or principal 
+                                underwriter; or
+                                    ``(III) any other reason as 
+                                determined by the Commission.''.
+    (d) Definition of Significant Service Provider.--Section 2(a) of 
+the Investment Company Act of 1940 is amended by adding at the end the 
+following:
+            ``(53) Significant service provider.--
+                    ``(A) In general.--Not later than 270 days after 
+                the date of enactment of the Mutual Fund Reform Act of 
+                2004, the Commission shall issue final rules defining 
+                the term `significant service provider'.
+                    ``(B) Requirements.--The definition developed under 
+                paragraph (1) shall include, at a minimum, the 
+                investment adviser and principal underwriter of a 
+                registered investment company for purposes of paragraph 
+                (19).''.
+
+SEC. 102. STUDY OF DIRECTOR COMPENSATION AND INDEPENDENCE.
+
+    (a) In General.--The Commission shall conduct a study of--
+            (1) whether any limits should be placed upon the amount of 
+        compensation paid by a registered investment company or any 
+        affiliate of such company to a director thereof; and
+            (2) whether a director of a registered investment company 
+        who is otherwise not an interested person of a registered 
+        investment company, as defined in section 2(a)(19) of the 
+        Investment Company Act of 1940, as amended by this Act, but 
+        serves as a director of multiple registered investment 
+        companies, or receives substantial compensation from the 
+        investment adviser of any such company, should be considered an 
+        ``interested person'' for purposes of section 2 of the 
+        Investment Company Act of 1940.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Commission shall submit a report regarding the study 
+conducted under subsection (a) to--
+            (1) the Committee on Banking, Housing, and Urban Affairs of 
+        the Senate; and
+            (2) the Committee on Financial Services of the House of 
+        Representatives.
+
+SEC. 103. FIDUCIARY DUTIES OF DIRECTORS.
+
+    Section 10 of the Investment Company Act of 1940 (15 U.S.C. 80a-
+10), as amended by this Act, is amended by adding at the end the 
+following:
+    ``(j) Fiduciary Duty of Directors.--
+            ``(1) In general.--The members of the board of directors of 
+        a registered investment company shall have a fiduciary duty to 
+        act with loyalty and care, in the best interests of the 
+        shareholders.
+            ``(2) Rulemaking.--The Commission shall promulgate rules to 
+        clarify the scope of the fiduciary duty under paragraph (1), 
+        which rules shall, at a minimum, require the directors of a 
+        registered investment company to--
+                    ``(A) determine the extent to which independent and 
+                reliable sources of information are sufficient to 
+                discharge director responsibilities;
+                    ``(B) negotiate management and advisory fees with 
+                due regard for the actual cost of such services, 
+                including economies of scale;
+                    ``(C) evaluate the totality of fees with reference 
+                to the interests of shareholders;
+                    ``(D) evaluate the quality of the management of the 
+                company and potentially superior alternatives;
+                    ``(E) evaluate the quality, comprehensiveness, and 
+                clarity of disclosures to shareholders regarding costs;
+                    ``(F) evaluate any distribution or marketing plan 
+                of the company, including its costs and benefits;
+                    ``(G) evaluate the size of the portfolio of the 
+                company and its suitability to the interests of 
+                shareholders;
+                    ``(H) implement and monitor policies to ensure 
+                compliance with applicable securities laws; and
+                    ``(I) implement and monitor policies with respect 
+                to predatory trading practices.''.
+
+SEC. 104. FIDUCIARY DUTY OF INVESTMENT ADVISER.
+
+    Section 36 of the Investment Company Act of 1940 (15 U.S.C. 80a-
+35(b)) is amended--
+            (1) by redesignating subsection (c) as subsection (d); and
+            (2) by inserting after subsection (b) the following:
+    ``(c) Duties With Respect to Compensation and Provision of 
+Information.--For purposes of subsections (a) and (b), the fiduciary 
+duty of an investment adviser--
+            ``(1) with respect to any compensation received, may 
+        require reasonable reference to the actual costs of the adviser 
+        and economies of scale; and
+            ``(2) shall include a duty to supply such material 
+        information as is necessary for the independent directors of a 
+        registered investment company with whom the adviser is employed 
+        to review and govern such company.''.
+
+SEC. 105. TERMINATION OF FUND ADVISER.
+
+    The Commission shall promulgate such rules as it determines 
+necessary in the public interest or for the protection of investors to 
+facilitate the process through which the independent directors of a 
+registered investment company may terminate the services of the 
+investment adviser of such company in the good faith exercise of their 
+fiduciary duties, without undue exposure to financial or litigation 
+risk.
+
+SEC. 106. INDEPENDENT ACCOUNTING AND AUDITING.
+
+    (a) Amendments.--Section 32 of the Investment Company Act of 1940 
+(15 U.S.C. 80a-31) is amended--
+            (1) in subsection (a)--
+                    (A) by striking paragraphs (1) and (2) and 
+                inserting the following:
+            ``(1) such accountant shall have been selected at a meeting 
+        held within 30 days before or after the beginning of the fiscal 
+        year or before the annual meeting of stockholders in that year 
+        by the vote, cast in person, of a majority of the members of 
+        the audit committee of such registered investment company;
+            ``(2) such selection shall have been submitted for 
+        ratification or rejection at the next succeeding annual meeting 
+        of stockholders if such meeting be held, except that any 
+        vacancy occurring between annual meetings, due to the death or 
+        resignation of the accountant, may be filled by the vote of a 
+        majority of the members of the audit committee of such 
+        registered company, cast in person at a meeting called for the 
+        purpose of voting on such action;''; and
+                    (B) by adding at the end the following: ``The 
+                Commission, by rule, regulation, or order, may exempt a 
+                registered management company or registered face-amount 
+                certificate company otherwise subject to this 
+                subsection from the requirement in paragraph (1) that 
+                the votes by the members of the audit committee be cast 
+                at a meeting in person, when such a requirement is 
+                impracticable, subject to such conditions as the 
+                Commission may require.''; and
+            (2) by adding at the end the following:
+    ``(d) Audit Committee Requirements.--
+            ``(1) Requirements as prerequisite to filing financial 
+        statements.--Any registered management company or registered 
+        face-amount certificate company that files with the Commission 
+        any financial statement signed or certified by an independent 
+        public accountant shall comply with the requirements of 
+        paragraphs (2) through (6) of this subsection and any rule or 
+        regulation of the Commission issued thereunder.
+            ``(2) Responsibility relating to independent public 
+        accountants.--The audit committee of the registered investment 
+        company, in its capacity as a committee of the board of 
+        directors, shall be directly responsible for the appointment, 
+        compensation, and oversight of the work of any independent 
+        public accountant employed by the registered investment company 
+        (including resolution of disagreements between management and 
+        the auditor regarding financial reporting) for the purpose of 
+        preparing or issuing the audit report or related work, and each 
+        such independent public accountant shall report directly to the 
+        audit committee.
+            ``(3) Independence.--
+                    ``(A) In general.--Each member of the audit 
+                committee of the registered investment company shall be 
+                a member of the board of directors of the company, and 
+                shall otherwise be independent.
+                    ``(B) Criteria.--In order to be considered to be 
+                independent for purposes of this paragraph, a member of 
+                an audit committee of a registered investment company 
+                may not, other than in his or her capacity as a member 
+                of the audit committee, the board of directors, or any 
+                other board committee--
+                            ``(i) accept any consulting, advisory, or 
+                        other compensatory fee from the registered 
+                        investment company or the investment adviser or 
+                        principal underwriter of the registered 
+                        investment company; or
+                            ``(ii) be an interested person of the 
+                        registered investment company.
+            ``(4) Complaints.--The audit committee of the registered 
+        investment company shall establish procedures for--
+                    ``(A) the receipt, retention, and treatment of 
+                complaints received by the registered investment 
+                company regarding accounting, internal accounting 
+                controls, or auditing matters; and
+                    ``(B) the confidential, anonymous submission by 
+                employees of the registered investment company and its 
+                investment adviser or principal underwriter of concerns 
+                regarding questionable accounting or auditing matters.
+            ``(5) Authority to engage advisers.--The audit committee of 
+        the registered investment company shall have the authority to 
+        engage independent counsel and other advisers, as it determines 
+        necessary to carry out its duties.
+            ``(6) Funding.--The registered investment company shall 
+        provide appropriate funding, as determined by the audit 
+        committee, in its capacity as a committee of the board of 
+        directors, for payment of compensation--
+                    ``(A) to the independent public accountant employed 
+                by the registered investment company for the purpose of 
+                rendering or issuing the audit report; and
+                    ``(B) to any advisers employed by the audit 
+                committee under paragraph (5).
+            ``(7) Audit committee.--For purposes of this subsection, 
+        the term `audit committee' means--
+                    ``(A) a committee (or equivalent body) established 
+                by and amongst the board of directors of a registered 
+                investment company for the purpose of overseeing the 
+                accounting and financial reporting processes of the 
+                company and audits of the financial statements of the 
+                company; and
+                    ``(B) if no such committee exists with respect to a 
+                registered investment company, the entire board of 
+                directors of the company.''.
+    (b) Conforming Amendment.--Section 10A(m) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78j-1(m)) is amended by adding at the 
+end the following:
+            ``(7) Exemption for investment companies.--Effective one 
+        year after the date of enactment of the Mutual Fund Reform Act 
+        of 2004, for purposes of this subsection, the term `issuer' 
+        shall not include any investment company that is registered 
+        under section 8 of the Investment Company Act of 1940.''.
+    (c) Implementation.--The Commission shall issue final regulations 
+to carry out section 32(d) of the Investment Company Act of 1940, as 
+added by subsection (a) of this section.
+
+SEC. 107. PREVENTION OF FRAUD; INTERNAL COMPLIANCE AND CONTROL 
+              PROCEDURES.
+
+    (a) Detection and Prevention of Fraud.--Section 17(j) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-17(j)) is amended to read 
+as follows:
+    ``(j) Detection and Prevention of Fraud.--
+            ``(1) Commission rules to prohibit fraud, deception, and 
+        manipulation.--It shall be unlawful for any affiliated person 
+        of or principal underwriter for a registered investment company 
+        or any affiliated person of an investment adviser of or 
+        principal underwriter for a registered investment company, to 
+        engage in any act, practice, or course of business in 
+        connection with the purchase or sale, directly or indirectly, 
+        by such person of any security held or to be acquired by such 
+        registered investment company, or any security issued by such 
+        registered investment company or by an affiliated registered 
+        investment company, in contravention of such rules as the 
+        Commission may adopt to define, and prescribe means reasonably 
+        necessary to prevent, such acts, practices, or courses of 
+        business as are fraudulent, deceptive or manipulative.
+            ``(2) Codes of ethics.--The rules adopted under paragraph 
+        (1) shall include requirements for the adoption of codes of 
+        ethics by a registered investment company and investment 
+        advisers of, and principal underwriters for, such investment 
+        companies establishing such standards as are reasonably 
+        necessary to prevent such acts, practices, or courses of 
+        business. Such rules and regulations shall require each such 
+        registered investment company to disclose such codes of ethics 
+        (and any changes therein) in the periodic report to 
+        shareholders of such company, and to disclose such code of 
+        ethics and any waivers and material violations thereof on a 
+        readily accessible electronic public information facility of 
+        such company and in such additional form and manner as the 
+        Commission shall require by rule or regulation.
+            ``(3) Additional compliance procedures.--The rules adopted 
+        under paragraph (1) shall--
+                    ``(A) require each registered investment company 
+                and investment adviser to adopt and implement general 
+                policies and procedures reasonably designed to prevent 
+                violations of this title, the Securities Act of 1933 
+                (15 U.S.C. 78a et seq.), the Securities Exchange Act of 
+                1934 (15 U.S.C. 78a et seq.), the Sarbanes-Oxley Act of 
+                2002 (15 U.S.C. 7201 et seq.) and amendments made by 
+                that Act, the Trust Indenture Act of 1939 (15 U.S.C. 
+                77aaa et seq.), the Investment Advisers Act of 1940 (15 
+                U.S.C. 80b et seq.), the Securities Investor Protection 
+                Act of 1970 (15 U.S.C. 78aaa et seq.), subchapter II of 
+                chapter 53 of title 31, United States Code, chapter 2 
+                of title I of Public Law 91-508 (12 U.S.C. 1951 et 
+                seq.), or section 21 of the Federal Deposit Insurance 
+                Act (12 U.S.C. 1829b);
+                    ``(B) require each registered investment company 
+                and registered investment adviser to review such 
+                policies and procedures annually for their adequacy and 
+                the effectiveness of their implementation; and
+                    ``(C) require each registered investment company to 
+                appoint a chief compliance officer to be responsible 
+                for overseeing such policies and procedures--
+                            ``(i) whose compensation shall be approved 
+                        by the members of the board of directors of the 
+                        company who are not interested persons of the 
+                        company;
+                            ``(ii) who shall report directly to the 
+                        members of the board of directors of the 
+                        company who are not interested persons of such 
+                        company, privately as such members request, but 
+                        not less frequently than annually; and
+                            ``(iii) whose report to such members shall 
+                        include any violations or waivers of, and any 
+                        other significant issues arising under, such 
+                        policies and procedures.
+            ``(4) Certifications.--The rules adopted under paragraph 
+        (1) shall require each senior executive officer, or such 
+        officers designated by the Commission, of an investment adviser 
+        of a registered investment company to certify in each periodic 
+        report to shareholders, or other appropriate disclosure 
+        document, that--
+                    ``(A) procedures are in place for verifying that 
+                the determination of current net asset value of any 
+                redeemable security issued by the company used in 
+                computing periodically the current price for the 
+                purpose of purchase, redemption, and sale complies with 
+                the requirements of this title and the rules and 
+                regulations issued under this title, and the company is 
+                in compliance with such procedures;
+                    ``(B) procedures are in place to ensure that, if 
+                the shares of the company are offered as different 
+                classes of shares, such classes are designed in the 
+                interests of shareholders, and could reasonably be an 
+                appropriate investment option for a shareholder;
+                    ``(C) procedures are in place to ensure that 
+                information about the portfolio securities of the 
+                company is not disclosed in violation of the securities 
+                laws or the code of ethics of the company;
+                    ``(D) the members of the board of directors who are 
+                not interested persons of the company have reviewed and 
+                approved the compensation of the portfolio manager of 
+                the company in connection with their consideration of 
+                the investment advisory contract under section 15(c); 
+                and
+                    ``(E) the company has established and enforces a 
+                code of ethics, as required by paragraph (2).''.
+    (b) Whistleblower Protection.--Section 1514A(a) of title 18, United 
+States Code, is amended by striking the matter preceding paragraph (1) 
+and inserting the following:
+    ``(a) Whistleblower Protection for Employees of Publicly Traded 
+Companies and Registered Investment Companies.--No company with a class 
+of securities registered under section 12 of the Securities Exchange 
+Act of 1934 (15 U.S.C. 78l), or that is required to file reports under 
+section 15(d) of the Securities and Exchange Act of 1934 (15 U.S.C. 
+78o(d)), or that is an investment adviser, principal underwriter, or 
+significant service provider (as such terms are defined under section 
+2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)) of an 
+investment company which is registered under section 8 of the 
+Investment Company Act of 1940, or any officer, employee, contractor, 
+subcontractor, or agent of such company, may discharge, demote, 
+suspend, threaten, harass, or in any other manner discriminate against 
+an employee in the terms and conditions of employment because of any 
+lawful act done by the employee--''.
+
+                      TITLE II--FUND TRANSPARENCY
+
+SEC. 201. COST CONSOLIDATION AND CLARITY.
+
+    (a) Expense Ratio Computation.--
+            (1) In general.--The Commission shall, by rule, develop a 
+        standardized method of calculating the expense ratio of a 
+        registered investment company that accounts for as many 
+        operating costs to shareholders of such companies as is 
+        practicable.
+            (2) Separate disclosures.--In developing the method of 
+        calculation required under paragraph (1), if the Commission 
+        determines that the inclusion of certain costs in such 
+        calculation will lead to a significant risk of confusing or 
+        misleading shareholders, the Commission shall develop separate 
+        standardized methods for the calculation and disclosure of such 
+        costs.
+    (b) Transaction Cost Ratio.--The Commission shall, by rule, develop 
+a standardized method of computing the transaction cost ratio of a 
+registered investment company that practicably and fairly accounts for 
+actual transaction costs to shareholders, including, at a minimum, 
+brokerage commissions and bid-ask spread costs. Such computation, if 
+necessary for ease of administration, may be based upon a fair method 
+of estimation or a standardized derivation from easily ascertainable 
+information.
+    (c) Disclosure of Expense Ratio and Transaction Cost Ratio.--The 
+Commission shall, by rule, require the prominent disclosure of the 
+expense ratio and the transaction cost ratio of a registered company, 
+both separately and as a total investment cost ratio, in--
+            (1) each annual report of the registered investment 
+        company;
+            (2) any prospectus of the registered investment company, as 
+        part of a fee table; and
+            (3) such other filings with the Commission as the 
+        Commission determines appropriate.
+    (d) Actual Cost Disclosure.--The Commission shall, by rule, 
+require, on at least an annual basis, the prominent disclosure in the 
+shareholder account statement of a registered investment company of the 
+actual dollar amount of the projected annual costs of each shareholder 
+of the company, based upon the asset value of the shareholder at the 
+time of the disclosure.
+    (e) Definition of Fees and Expenses.--
+            (1) In general.--The Commission shall, by rule, define all 
+        specific allowable types or categories of fees and expenses 
+        that may be borne by the shareholders of a registered 
+        investment company.
+            (2) New fees and expenses.--No new fee or expense, other 
+        than any defined under paragraph (1), shall be borne by the 
+        shareholders of a registered investment company, unless the 
+        Commission finds that such new fee or expense fairly reflects 
+        the services provided to, or is in the best interests of the 
+        shareholders of--
+                    (A) a particular registered investment company;
+                    (B) specific types or categories of registered 
+                investment companies; or
+                    (C) registered investment companies in general.
+    (f) Cost Structures.--The Commission shall promulgate such rules or 
+regulations as are necessary--
+            (1) to promote the standardization and simplification of 
+        the disclosure of the cost structures of registered investment 
+        companies; and
+            (2) to ensure that the shareholders of such registered 
+        investment companies receive all material information regarding 
+        such costs--
+                    (A) in a nonmisleading manner; and
+                    (B) in such form and prominence as to facilitate, 
+                to the extent practicable, ease of comprehension and 
+                comparison of such costs.
+    (g) Descriptions of Fees, Expenses, and Costs.--The Commission 
+shall, by rule, require--
+            (1) the disclosure, in any annual or periodic report filed 
+        with the Commission or any prospectus delivered to the 
+        shareholders of a registered investment company, of all types 
+        of fees, expenses, or costs borne by shareholders;
+            (2) a clear definition of each such fee, expense, or cost; 
+        and
+            (3) information as to where shareholders may find out more 
+        information concerning such fees, expenses, or costs.
+
+SEC. 202. ADVISOR COMPENSATION AND OWNERSHIP OF FUND SHARES.
+
+    (a) Compensation of Investment Adviser.--The Commission shall, by 
+rule, require--
+            (1) the disclosure to the shareholders of a registered 
+        investment company of--
+                    (A) the amount and structure of, or the method used 
+                to determine, the compensation paid by the registered 
+                investment company to the portfolio manager or 
+                portfolio management team of the investment adviser; 
+                and
+                    (B) the ownership interest in such company of the 
+                portfolio manager or portfolio management team; and
+            (2) the disclosure to the board of directors of the 
+        registered investment company of all transactions in the 
+        securities of the company by the portfolio manager or 
+        management team of the investment adviser of such company.
+    (b) Form of Disclosure.--The disclosures required under 
+subparagraphs (A) and (B) of subsection (a)(1) shall be made by a 
+registered investment company in--
+            (1) the registration statement of the company; and
+            (2) any other filings with the Commission that the 
+        Commission determines appropriate.
+
+SEC. 203. POINT OF SALE AND ADDITIONAL DISCLOSURE OF BROKER 
+              COMPENSATION.
+
+    Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o(b)) is amended by adding at the end the following:
+            ``(11) Broker disclosures in mutual fund transactions.--
+                    ``(A) In general.--Each broker shall disclose in 
+                writing to each person that purchases the shares of an 
+                investment company registered under section 8 of the 
+                Investment Company Act of 1940 (15 U.S.C. 80a-8)--
+                            ``(i) the source and amount of any 
+                        compensation received or to be received by the 
+                        broker in connection with such transaction; and
+                            ``(ii) such other information as the 
+                        Commission determines appropriate.
+                    ``(B) Timing of disclosure.--The disclosures 
+                required under subparagraph (A) shall be made at or 
+                before the time of the purchase transaction.
+                    ``(C) Limitation.--The disclosures required under 
+                subparagraph (A) may not be made exclusively in--
+                            ``(i) a registration statement or 
+                        prospectus of the registered investment 
+                        company; or
+                            ``(ii) any other filing of a registered 
+                        investment company with the Commission.''.
+
+SEC. 204. BREAKPOINT DISCOUNTS.
+
+    The Commission, by rule, shall require the disclosure by any 
+registered investment company, in any quarterly or other periodic 
+report filed with the Commission, information concerning discounts on 
+front-end sales loads for which shareholders may be eligible, including 
+the minimum purchase amounts required for such discounts.
+
+SEC. 205. PORTFOLIO TURNOVER RATIO.
+
+    The Commission, by rule, shall require the disclosure, by any 
+registered investment company, in any quarterly or periodic report 
+filed with the Commission, and in any prospectus delivered to the 
+shareholders of such company, of the portfolio turnover ratio of the 
+company, and an explanation of its meaning and implications for cost 
+and performance. Such rules shall require the disclosures to be 
+prominently displayed within the appropriate document.
+
+SEC. 206. PROXY VOTING POLICIES AND RECORD.
+
+    Section 30 of the Investment Company Act of 1940 (15 U.S.C. 80a-29) 
+is amended by adding at the end the following:
+    ``(k) Proxy Voting Disclosure.--
+            ``(1) In general.--Each registered investment company, 
+        other than a small business investment company, shall file with 
+        the Commission, not later than August 31 of each year, an 
+        annual report, on a form prescribed by the Commission by rule, 
+        containing the proxy voting record of the registrant and 
+        policies of the company with respect to the voting of such 
+        proxies for the most recent 12-month period ending on June 30.
+            ``(2) Notice in financial statements.--The financial 
+        statements of each registered investment company shall state 
+        that information regarding how the company voted proxies and 
+        proxy voting policies relating to portfolio securities during 
+        the most recent 12-month period ending on June 30 is 
+        available--
+                    ``(A) without charge, upon request, by calling a 
+                specified toll-free (or collect) telephone number; or 
+                on or through the company's website at a specified 
+                Internet address, or both; and
+                    ``(B) on the website of the Commission.''.
+
+SEC. 207. CUSTOMER INFORMATION FROM ACCOUNT INTERMEDIARIES.
+
+    (a) In General.--The Commission shall, by rule, require that each 
+account intermediary of a registered investment company provide to such 
+company, with respect to each account serviced by the intermediary, 
+such information as is necessary for the company to enforce its 
+investment, trading, and fee policies.
+    (b) Requirements.--The information provided by a registered 
+investment company under subsection (a) shall include, at a minimum--
+            (1) the name under which the account is opened with the 
+        intermediary;
+            (2) the taxpayer identification number of such person;
+            (3) the mailing address of such person; and
+            (4) individual transaction data for all purchases, 
+        redemptions, transfers, and exchanges by or on behalf of such 
+        person.
+    (c) Privacy of Information.--The information provided under 
+subsection (a), and the use thereof, shall be subject to all Federal 
+and State laws with regard to privacy and proprietary information.
+
+SEC. 208. ADVERTISING.
+
+    (a) Performance Advertising.--The Commission shall promulgate such 
+rules as the Commission determines necessary with respect to the 
+advertising of a registered investment company regarding--
+            (1) unrepresentative short-term performance;
+            (2) performance based upon an undisclosed or improbable 
+        event; and
+            (3) performance based upon incomplete or misleading data.
+    (b) Dollar and Time-Weighted Returns.--
+            (1) In general.--Subject to paragraph (2), the Commission 
+        shall, by rule, require each registered investment company to 
+        disclose, in its annual report and any prospectus delivered to 
+        shareholders, dollar-weighted returns and time-weighted returns 
+        for each of--
+                    (A) the preceding fiscal year;
+                    (B) the preceding 5 fiscal years;
+                    (C) the preceding 10 fiscal years; and
+                    (D) the life of the company.
+            (2) Exception.--The Commission may omit or require 
+        additional disclosures required under paragraph (1) for such 
+        time periods as the Commission determines necessary.
+            (3) Commission use of benchmarks.--The Commission may 
+        require, in the interest of facilitating non-misleading 
+        disclosures, that any performance-related advertising by a 
+        registered investment company be accompanied by such benchmarks 
+        as the Commission may deem appropriate.
+    (c) Subsidized Yields.--The Commission shall, by rule, require that 
+any registered investment company that discloses in any publication a 
+subsidized yield to disclose in the same publication the amount and 
+duration of such subsidy.
+
+                TITLE III--FUND REGULATION AND OVERSIGHT
+
+SEC. 301. PROHIBITION OF ASSET-BASED DISTRIBUTION EXPENSES.
+
+    (a) Repeal of Rule 12b-1.--
+            (1) In general.--Beginning 180 days after the date of 
+        enactment of this Act (or such earlier time as the Commission 
+        may elect), as in effect on the date of enactment of this Act, 
+        section 270.12b-1 of chapter II of title 17 of the Code of 
+        Federal Regulations, promulgated under section 12 of the 
+        Investment Company Act of 1940 (15 U.S.C. 80a-12), is repealed, 
+        and shall have no force or effect.
+            (2) Preservation of actions.--Paragraph (1) shall have no 
+        effect on any case pending or penalty imposed under section 
+        270.12b-1 of the Code of Federal Regulations prior to the date 
+        of repeal under paragraph (1).
+    (b) Payment of Distribution Expenses From Management Fee.--Section 
+12 of the Investment Company Act of 1940 (15 U.S.C. 80a-12) is amended 
+by adding at the end the following:
+    ``(h) Payment of Distribution Expenses.--Notwithstanding any 
+provision of subsection (b), or any rule or regulation promulgated 
+thereunder, distribution expenses incurred by an investment adviser may 
+be paid out of the management fee received by the investment 
+adviser.''.
+    (c) Sums Expended Promoting Sale of Securities.--The Commission 
+shall, by rule--
+            (1) require that any sums expended by the investment 
+        adviser of a registered investment company to promote or 
+        facilitate the sale of the securities of such company be 
+        disclosed to the board of directors of the company;
+            (2) require that such sums be accounted for and identified 
+        in the expense ratio of any such company; and
+            (3) authorize the board of directors of any such company to 
+        prohibit its investment adviser from using any compensation 
+        received from the company for distribution expenses that the 
+        board determines not to be in the best interest of the 
+        shareholders of the company.
+    (d) Prohibition of Asset-Based Fees.--Section 12 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-12), as amended by subsection (a), 
+is amended by adding at the end the following:
+    ``(i) Asset-Based Fees.--
+            ``(1) In general.--It shall be unlawful for any registered 
+        investment company to pay asset-based fees to any broker or 
+        dealer in connection with the offer or sale of the securities 
+        of such investment company.
+            ``(2) Definition of asset-based fees.--The Commission 
+        shall, by rule, define the term `asset-based fees' for purposes 
+        of this subsection.''.
+
+SEC. 302. PROHIBITION ON REVENUE SHARING, DIRECTED BROKERAGE, AND SOFT 
+              DOLLAR ARRANGEMENTS.
+
+    (a) In General.--The Investment Company Act of 1940 (15 U.S.C. 80a-
+1 et seq.) is amended by inserting after section 12 the following:
+
+``SEC. 12A. PROHIBITION ON REVENUE SHARING, DIRECTED BROKERAGE, AND 
+              SOFT DOLLAR ARRANGEMENTS.
+
+    ``(a) Revenue Sharing Arrangements.--It shall be unlawful for any 
+investment adviser to enter into a revenue sharing arrangement with any 
+broker or dealer with respect to the securities of a registered 
+investment company.
+    ``(b) Directed Brokerage Arrangements.--It shall be unlawful for 
+any registered investment company, or any affiliate of such company, to 
+enter into a directed brokerage arrangement with a broker or dealer.
+    ``(c) Soft-Dollar Arrangements.--It shall be unlawful for any 
+registered investment company or registered investment adviser to enter 
+into a soft-dollar arrangement with any broker or dealer.
+    ``(d) Regulations Respecting Section 28(e) of the Securities 
+Exchange Act of 1934.--The Commission shall, by rule, narrow the soft-
+dollar safe harbor under section 28(e) of the Securities Exchange Act 
+of 1934 (15 U.S.C. 78bb(e)(1)) to promote such parity as the Commission 
+determines appropriate, and in the best interests of shareholders of a 
+registered investment company, between registered investment companies 
+governed by section 12A, and companies not covered by section 12A.
+    ``(e) Definitions.--
+            ``(1) In general.--In this section--
+                    ``(A) the term `directed brokerage arrangement' 
+                means the direction of discretionary brokerage by an 
+                investment company or an affiliate of that company, to 
+                a broker or dealer in exchange for services other than 
+                trade executions;
+                    ``(B) the term `revenue sharing arrangement' means 
+                any direct or indirect payment made by an investment 
+                adviser (or any affiliate of an investment adviser) to 
+                a broker or dealer for the purpose of promoting the 
+                sales of securities of a registered investment company, 
+                other than any payment made directly by a shareholder 
+                as a commission for the purchase of such securities;
+                    ``(C) the term `soft-dollar arrangement' means 
+                payments to a broker or dealer for best trade 
+                executions in exchange for, or which generate credits 
+                for, services or products other than trade executions; 
+                and
+                    ``(D) the term `trade executions' has the meaning 
+                given that term by the Commission, by rule;
+            ``(2) Regulations.--The Commission may, by rule, refine the 
+        definitions under paragraph (1), define such other terms as the 
+        Commission determines necessary, and otherwise tailor the 
+        proscriptions set forth under this section to achieve the 
+        purposes of--
+                    ``(A) protecting the best interests of shareholders 
+                of a registered investment company;
+                    ``(B) minimizing or eliminating conflicts with the 
+                best interests of shareholders of a registered 
+                investment company;
+                    ``(C) enhancing market negotiation for and price 
+                competition in trade execution services, and products 
+                and services previously obtained under arrangements 
+                prohibited by this section;
+                    ``(D) ensuring the transparency of transactions for 
+                trade executions, and products and services previously 
+                obtained under arrangements prohibited by this section, 
+                and disclosure to shareholders of costs associated with 
+                trade executions, and products and services previously 
+                obtained under arrangements prohibited by this section, 
+                that is simplified, clear, and comprehensible; and
+                    ``(E) providing reasonable safe harbors for conduct 
+                otherwise consistent with such purposes.''.
+    (b) Technical and Conforming Amendment.--Section 28(e)(1) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78bb(e)(1)) is amended by 
+striking ``This section is exclusive'' and inserting ``Except as 
+provided under section 12A of the Investment Company Act of 1940, this 
+section is exclusive''.
+
+SEC. 303. MARKET TIMING.
+
+    (a) In General.--The Commission shall, by rule, require--
+            (1) the disclosure in any registration statement filed with 
+        the Commission by a registered investment company of the market 
+        timing policies of that company and the procedures adopted to 
+        enforce such policies; and
+            (2) that any registered investment company that declines to 
+        adopt restrictions on market timing disclose such fact in the 
+        registration statement of the company, and in any advertising 
+        or other publicly available documents, as the Commission 
+        determines necessary.
+    (b) Fundamental Investment Policy.--The policies required to be 
+disclosed under paragraph (1) shall be deemed ``fundamental investment 
+policies'' for purposes of sections 8(b)(3) and 13(a)(3) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-8(b)(3) and 80a-
+13(a)(3)).
+
+SEC. 304. ELIMINATION OF STALE PRICES.
+
+    (a) In General.--Not later than 90 days after the date of enactment 
+of this Act, the Commission shall prescribe, by rule or regulation, 
+standards concerning the obligation of registered investment companies 
+under the Investment Company Act of 1940, to apply and use fair value 
+methods of determination of net asset value when market quotations are 
+unavailable or do not accurately reflect the fair market value of the 
+portfolio securities of such a company, in order to prevent dilution of 
+the interests of long-term shareholders or as necessary in the public 
+interest or for the protection of shareholders.
+    (b) Content.--The rule or regulation prescribed under subsection 
+(a) shall identify, in addition to significant events, the conditions 
+or circumstances from which such an obligation will arise, such as the 
+need to value securities traded on foreign exchanges, and the methods 
+by which fair value methods shall be applied in such events, 
+conditions, and circumstances.
+
+SEC. 305. PROHIBITION OF SHORT TERM TRADING; MANDATORY REDEMPTION FEES.
+
+    (a) Short-Term Trading Prohibited.--Section 17 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-17) is amended by adding at the end 
+the following:
+    ``(k) Short-Term Trading Prohibited.--
+            ``(1) Prohibition.--It shall be unlawful for any officer, 
+        director, partner, or employee of a registered investment 
+        company, any affiliated person, investment adviser, or 
+        principal underwriter of such company, or any officer, 
+        director, partner, or employee of such an affiliated person, 
+        investment adviser, or principal underwriter, to engage in any 
+        short-term transaction, in any securities issued by such 
+        company, or any affiliate of such company.
+            ``(2) Limitation.--This subsection does not prohibit any 
+        transaction in a money market fund, or in funds, the investment 
+        policy of which expressly permits short-term transactions, or 
+        such other category of registered investment company as the 
+        Commission shall specify, by rule.
+            ``(3) Definition.--For purposes of this subsection, the 
+        term `short-term transaction' has the meaning given that term 
+        by the Commission, by rule.''.
+    (b) Mandatory Redemption Fees.--The Commission shall, by rule, 
+require any registered investment company that does not allow for 
+market timing practices to charge a redemption fee upon the short-term 
+redemption of any securities of such company. In determining the 
+application of mandatory redemption fees, shares shall be considered in 
+the reverse order of their purchase.
+    (c) Increased Redemption Fees Permitted for Short-Term Trading.--
+Not later than 90 days after the date of enactment of this Act, the 
+Commission shall permit a registered investment company to charge 
+redemption fees in excess of 2 percent upon the redemption of any 
+securities of such company that are redeemed within such period after 
+their purchase as the Commission specifies in such rule to deter short 
+term trading that is unfair to the shareholders of such company.
+    (d) Deadline for Rules.--The Commission shall prescribe rules to 
+implement section 17(k) of the Investment Company Act of 1940, as added 
+by subsection (a) of this section, not later than 90 days after the 
+date of enactment of this Act.
+
+SEC. 306. PREVENTION OF AFTER-HOURS TRADING.
+
+    (a) Additional Rules Required.--The Commission shall issue rules to 
+prevent transactions in the securities of any registered investment 
+company in violation of section 22 of the Investment Company Act of 
+1940 (15 U.S.C. 80a-22), including after-hours trades that are executed 
+at a price based on a net asset value that was determined as of a time 
+prior to the actual execution of the transaction.
+    (b) Trades Collected by Intermediaries.--The Commission shall 
+determine the circumstances under which to permit, subject to rules of 
+the Commission and an annual independent audit of such trades, the 
+execution of after-hours trades that are provided to a registered 
+investment company by a broker, dealer, retirement plan administrator, 
+insurance company, or other intermediary, after the time as of which 
+the net asset value was determined.
+
+SEC. 307. BAN ON JOINT MANAGEMENT OF MUTUAL FUNDS AND HEDGE FUNDS.
+
+    (a) Amendment.--Section 15 of the Investment Company Act of 1940 
+(15 U.S.C. 80a-15) is amended by adding at the end the following:
+    ``(h) Ban on Joint Management of Mutual Funds and Hedge Funds.--
+            ``(1) Prohibition of joint management.--It shall be 
+        unlawful for any individual to serve or act as the portfolio 
+        manager or investment adviser of a registered open-end 
+        investment company if such individual also serves or acts as 
+        the portfolio manager or investment adviser of an investment 
+        company that is not registered or of such other categories of 
+        companies as the Commission shall prescribe by rule in order to 
+        prohibit conflicts of interest, such as conflicts in the 
+        selection of the portfolio securities.
+            ``(2) Exceptions.--Notwithstanding paragraph (1), the 
+        Commission may, by rule, regulation, or order, permit joint 
+        management by a portfolio manager in exceptional circumstances 
+        when necessary to protect the interest of shareholders, 
+        provided that such rule, regulation, or order requires--
+                    ``(A) enhanced disclosure by the registered open-
+                end investment company to shareholders of any conflicts 
+                of interest raised by such joint management; and
+                    ``(B) fair and equitable policies and procedures 
+                for the allocation of securities to the portfolios of 
+                the jointly managed companies, and certification by the 
+                members of the board of directors who are not 
+                interested persons of such registered open-end 
+                investment company, in the periodic report to 
+                shareholders, or other appropriate disclosure document, 
+                that such policies and procedures of such company are 
+                fair and equitable.
+            ``(3) Definition.--For purposes of this subsection, the 
+        term `portfolio manager' means the individual or individuals 
+        who are designated as responsible for decision-making in 
+        connection with the securities purchased and sold on behalf of 
+        a registered open-end investment company, but shall not include 
+        individuals who participate only in making research 
+        recommendations or executing transactions on behalf of such 
+        company.''.
+    (b) Deadline for Rules.--The Commission shall prescribe rules to 
+implement section 15(h) of the Investment Company Act of 1940, as added 
+by subsection (a) of this section, not later than 90 days after the 
+date of enactment of this Act.
+
+SEC. 308. SELECTIVE DISCLOSURES.
+
+    (a) In General.--The Commission shall promulgate such rules as the 
+Commission determines necessary to prevent the selective disclosure by 
+a registered investment company of material information relating to the 
+portfolio of securities held by such company.
+    (b) Requirements.--The rules promulgated under subsection (a) shall 
+treat selective disclosures of material information by a registered 
+investment company in substantially the same manner as selective 
+disclosures by issuers of securities registered under section 12 of the 
+Securities Exchange Act of 1934 under the rules of the Commission.
+
+                           TITLE IV--STUDIES
+
+SEC. 401. STUDY OF ADVISER CONFLICT OF INTEREST.
+
+    (a) In General.--The Commission shall conduct a study of--
+            (1) the consequences of the inherent conflicts of interest 
+        confronting investment advisers employed by registered 
+        investment companies;
+            (2) the extent to which legislative or regulatory measures 
+        could minimize such conflicts of interest; and
+            (3) the extent to which legislative or regulatory measures 
+        could incentivize internal management of a registered 
+        investment company.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Commission shall submit a report on the results of the 
+study required under subsection (a) to--
+            (1) the Committee on Banking, Housing, and Urban Affairs of 
+        the Senate; and
+            (2) the Committee on Financial Services of the House of 
+        Representatives.
+
+SEC. 402. STUDY OF COORDINATION OF ENFORCEMENT EFFORTS.
+
+    (a) In General.--The Comptroller General of the United States, with 
+the cooperation of the Commission, shall conduct a study of the 
+coordination of enforcement efforts between--
+            (1) the headquarters of the Commission;
+            (2) the regional offices of the Commission; and
+            (3) State regulatory and law enforcement agencies.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Commission shall submit a report on the results of the 
+study required under subsection (a) to--
+            (1) the Committee on Banking, Housing, and Urban Affairs of 
+        the Senate; and
+            (2) the Committee on Financial Services of the House of 
+        Representatives.
+
+SEC. 403. STUDY OF COMMISSION ORGANIZATIONAL STRUCTURE.
+
+    (a) In General.--The Comptroller General of the United States, with 
+the cooperation of the Commission, shall conduct a study of--
+            (1) the current organizational structure of the Commission 
+        with respect to the regulation of investment companies;
+            (2) whether the organizational structure and resources of 
+        the Commission sufficiently credit the importance of oversight 
+        of investment companies to the 95 million investors in such 
+        companies within the United States;
+            (3) whether certain organizational features of that 
+        structure, such as the separation of regulatory and enforcement 
+        functions, are sufficient to promote the optimal understanding 
+        of the current practices of investment companies; and
+            (4) whether a separate regulatory entity would improve or 
+        impair effective oversight.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Comptroller General shall submit a report on the results 
+of the study required under subsection (a) to--
+            (1) the Committee on Banking, Housing, and Urban Affairs of 
+        the Senate; and
+            (2) the Committee on Financial Services of the House of 
+        Representatives.
+
+SEC. 404. TRENDS IN ARBITRATION CLAUSES.
+
+    (a) In General.--The Commission shall conduct a study on the trends 
+in arbitration clauses between brokers, dealers, and investors since 
+December 31, 1995, and alternative means to avert the filing of claims 
+in Federal or State courts.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Commission shall submit a report on the results of the 
+study required under subsection (a) to--
+            (1) the Committee on Banking, Housing, and Urban Affairs of 
+        the Senate; and
+            (2) the Committee on Financial Services of the House of 
+        Representatives.
+
+SEC. 405. HEDGE FUND REGULATION.
+
+    (a) In General.--The Commission shall conduct a study of whether 
+additional regulation of alternative investment vehicles, such as hedge 
+funds, is appropriate to deter the recurrence of trading abuses, 
+manipulation of registered investment companies by unregistered 
+investment companies, or other distortions that may harm investors in 
+registered investment companies.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Commission shall submit a report on the results of the 
+study required under subsection (a) to--
+            (1) the Committee on Banking, Housing, and Urban Affairs of 
+        the Senate; and
+            (2) the Committee on Financial Services of the House of 
+        Representatives.
+
+SEC. 406. INVESTOR EDUCATION AND THE INTERNET.
+
+    (a) In General.--The Commission shall conduct a study of--
+            (1) the means of enhancing the role of the Internet in 
+        educating investors and providing timely information regarding 
+        laws, regulations, enforcement proceedings, and individual 
+        registered investment companies;
+            (2) the feasibility of mandating that each registered 
+        investment company maintain a website on which shall be posted 
+        filings of the registered investment company with the 
+        Commission and any other material information related to the 
+        registered investment company; and
+            (3) the means of ensuring that the EDGAR database 
+        maintained by the Commission is user-friendly and contains a 
+        search engine that facilitates the expeditious location of 
+        material information.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Commission shall submit a report on the results of the 
+study required under subsection (a) to--
+            (1) the Committee on Banking, Housing, and Urban Affairs of 
+        the Senate; and
+            (2) the Committee on Financial Services of the House of 
+        Representatives.
+                                 <all>
+

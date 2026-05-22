@@ -1,0 +1,557 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 578 Introduced in House (IH)]
+
+103d CONGRESS
+  1st Session
+                                H. R. 578
+
+   To provide for recovery of costs of supervision and regulation of 
+   investment advisers and their activities, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 26, 1993
+
+Mr. Boucher (for himself, Mr. Markey, Mr. Dingell, Mr. Fields of Texas, 
+   Mr. Cooper, Mr. Wyden, Mr. Lehman, and Mr. Synar) introduced the 
+   following bill; which was referred to the Committee on Energy and 
+                                Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To provide for recovery of costs of supervision and regulation of 
+   investment advisers and their activities, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Investment Adviser Regulatory 
+Enhancement and Disclosure Act of 1993''.
+
+SEC. 2. ADDITIONAL RESOURCES FOR INVESTMENT ADVISER SUPERVISION.
+
+    (a) Amendment.--The Investment Advisers Act of 1940 (15 U.S.C. 80b-
+1 et seq.) is amended by inserting after section 203 the following new 
+section:
+
+                 ``fees for registrants and applicants
+
+    ``Sec. 203A. (a) In General.--The Commission is authorized, in 
+accordance with this section, to collect fees to recover the costs of 
+registration, supervision, and regulation of investment advisers and 
+their activities. Such fees shall be collected, and shall be available, 
+only to the extent provided in advance in appropriations Acts. No 
+appropriation Act may authorize fees to be collected under this section 
+during any fiscal year unless the amount appropriated by such Act for 
+such costs for such fiscal year equals or exceeds the aggregate amount 
+that may reasonably be expected to be collected by such fees. Such fees 
+shall be deposited as an offsetting collection to the Commission's 
+appropriation and may remain available for such purposes for the 
+succeeding fiscal year. The costs covered by such fees shall be limited 
+to the costs of Commission expenses for registration, examinations, and 
+surveys of persons registered or required to register under this Act.
+    ``(b) Time for Payment.--
+            ``(1) New registrants.--At the time of filing an 
+        application for registration under this title, the applicant 
+        shall pay to the Commission the fee specified in subsection 
+        (c). No part of such fee shall be refunded to the applicant. 
+        The filing of an application for registration under this title 
+        shall not be deemed to have occurred unless the application is 
+        accompanied by the fee required under this section.
+            ``(2) Ongoing registrants.--Each investment adviser whose 
+        registration is effective on the last day of its fiscal year 
+        shall pay to the Commission the fee specified in subsection 
+        (c). Such payment shall be made not later than 90 days after 
+        the end of its fiscal year, or at such other time as the 
+        Commission, by rule, shall determine, unless its registration 
+        has been withdrawn, canceled, or revoked prior to that date. No 
+        part of such fee shall be refunded to the investment adviser.
+    ``(c) Cost-Based Schedule of Fees.--For any fiscal year for which 
+fees are authorized to be collected by an appropriation Act, the amount 
+of fees due from investment advisers in accordance with paragraphs (1) 
+and (2) of subsection (b) shall be determined according to the 
+following schedule:
+
+``Assets under management                                      Fee due:
+    Less than $10,000,000.........................                 $300
+    $10,000,000 or more, but less than $25,000,000                 $500
+    $25,000,000 or more, but less than $50,000,000               $1,000
+    $50,000,000 or more, but less than                           $2,500
+        $100,000,000.
+    $100,000,000 or more, but less than                          $4,000
+        $250,000,000.
+    $250,000,000 or more, but less than                          $5,000
+        $500,000,000.
+    $500,000,000 or more..........................              $7,000.
+    ``(d) Suspension for Failure To Pay.--The Commission, by order, may 
+suspend the registration of any investment adviser if it finds, after 
+notice, that such investment adviser has failed to pay when due any fee 
+required by this section. The Commission shall reinstate such 
+registration upon payment of the fee (and any penalty due), if such 
+suspension was based solely on the failure to pay the fee.
+    ``(e) Rulemaking.--The Commission may adopt such rules as are 
+necessary to carry out this section.
+    ``(f) Definition of Assets Under Management.--As used in this 
+section, the term `assets under management' means the client assets 
+with respect to which an investment adviser provides continuous and 
+regular supervisory or management services.''.
+    (b) Effective Date.--This section shall become effective upon the 
+adoption by the Commission of implementing rules, under section 203A(f) 
+of the Investment Advisers Act of 1940, as added by subsection (a).
+
+SEC. 3. EXAMINATIONS AND SURVEYS.
+
+    The Investment Advisers Act of 1940 is amended by inserting after 
+section 222 (15 U.S.C. 80b-22) the following new section:
+
+                       ``examinations and surveys
+
+    ``Sec. 223. (a) Periodic Examinations.--The Commission shall 
+establish and periodically revise a schedule for the regular 
+examination of investment advisers. Such schedule shall provide for 
+more frequent examinations of certain investment advisers based on 
+factors that the Commission determines increase the need for 
+examination of those investment advisers, which shall include (at a 
+minimum) each of the following:
+            ``(1) the frequency of customer complaints;
+            ``(2) the risks associated with newly registered investment 
+        advisers;
+            ``(3) custody of funds and the authority to exercise 
+        investment discretion;
+            ``(4) the existence of deficiencies detected during an 
+        examination under this title that may continue to present high 
+        risks to clients; and
+            ``(5) the receipt of commissions for the sale of 
+        investments recommended to clients.
+    ``(b) Surveys of Unregistered Persons.--The Commission shall, 
+within 3 years after the date of enactment of this section and 
+periodically thereafter, provide for the conduct of a survey to 
+determine the extent of, and reasons for, the failure of persons to 
+register as required by this Act. The Commission shall, on the basis of 
+such survey results, establish objectives for the reduction or 
+elimination of such failures and shall include in annual reports to 
+Congress (under section 23(b) of the Securities Exchange Act of 1934) 
+submitted after completion of the first survey, a statement of such 
+objectives, an evaluation of the success in attaining those objectives 
+during the preceding year, and such recommendations as the Commission 
+considers appropriate to assist in the attainment of those objectives. 
+If the survey identifies any pattern of noncompliance with the 
+registration requirements of the title and the rules thereunder, the 
+Commission's objectives shall include such rulemaking proceedings as 
+may be required to correct such noncompliance.
+    ``(c) Provisions Not Limitation.--The provisions of this section 
+shall not be construed to limit the authority of the Commission to 
+prescribe rules under this Act or to conduct an examination or 
+investigation at any time or to institute proceedings under this title 
+or any other title.''.
+
+SEC. 4. DESIGNATION OF SELF-REGULATORY ORGANIZATIONS.
+
+    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is 
+amended by inserting after section 223 (as added by section 3 of this 
+Act) the following new section:
+
+             ``designation of self-regulatory organizations
+
+    ``Sec. 224. (a) Designation To Conduct Examinations.--The 
+Commission, by rule, consistent with the public interest, the 
+protection of investors, and the purposes of this title, may designate 
+one or more self-regulatory organizations registered with the 
+Commission under sections 6 or 15A of the Securities Exchange Act of 
+1934, to conduct periodic examinations of its members and affiliates of 
+members that are registered or required to register under this title to 
+determine compliance with applicable provisions of this title and the 
+rules and regulations thereunder. Such rules shall specify the minimum 
+scope and frequency for such examinations and shall, to the extent 
+consistent with the protection of investors, be designed to avoid 
+unnecessary regulatory duplication or undue regulatory burdens. Such 
+self-regulatory organization may discipline such members and affiliates 
+of members for violations of the applicable provisions of this title 
+and the rules and regulations thereunder pursuant to the standards and 
+procedures set forth in sections 6, 15A, and 19 of the Securities 
+Exchange Act of 1934. The penalties imposed by a self-regulatory 
+organization for violations of this title shall not exceed those 
+contained in subsections (e), (f), and (i) of section 203.
+    ``(b) Limitation.--The Commission shall not exercise the 
+designation authority contained in subsection (a) for members or 
+affiliates of members if the primary business of the member or its 
+affiliates is investment advisory activities. The Commission, by rule, 
+may establish criteria for defining the term `primary business'.
+    ``(c) Authority To Impose Fees.--
+            ``(1) In general.--Any self-regulatory organization 
+        designated by the Commission to perform the examinations 
+        specified in subsection (a) shall have the authority to collect 
+        fees in accordance with this subsection.
+            ``(2) Limitation.--The total fee paid by a registered 
+        investment adviser under this subsection shall not exceed an 
+        amount determined in accordance with rules prescribed by the 
+        Commission. Such rules shall require that the fees collected by 
+        a self-regulatory organization under this subsection--
+                    ``(A) cover only the costs of the self-regulatory 
+                organization's expenses for examinations conducted 
+                pursuant to subsection (a);
+                    ``(B) as to any investment adviser, bear a 
+                reasonable relationship to the costs of conducting an 
+                examination of that adviser pursuant to subsection (a); 
+                and
+                    ``(C) not exceed such portion of the fee authorized 
+                under section 203A as the Commission determines is 
+                allocable to the Commission's expenses for conducting 
+                such an examination.
+            ``(3) Reduction of section 203a fees.--The amount of any 
+        fee that a registered investment adviser is required to pay 
+        under section 203A with respect to any fiscal year shall be 
+        reduced by the amount paid to a self-regulatory organization in 
+        accordance with this subsection with respect to such fiscal 
+        year.
+    ``(d) Effective Date of Rule.--A rule prescribed by the Commission 
+under this section shall not be effective until 90 days after the date 
+on which the Commission submits to each House of Congress a report--
+            ``(1) containing the text of the proposed rule and the 
+        reasons therefor;
+            ``(2) describing the procedures to be used to coordinate 
+        the collection of fees by the Commission under section 203A and 
+        by a self-regulatory organization under the rule; and
+            ``(3) containing such other information as may be necessary 
+        to describe the implementation and enforcement of the rule.
+    ``(e) Definition.--For purposes of this section, the term 
+`affiliate' shall mean any person directly or indirectly controlling, 
+controlled by, or under common control with a member.''.
+
+SEC. 5. SUITABILITY AND OTHER ADVISER OBLIGATIONS.
+
+    (a) Amendment.--Section 206 of the Investment Advisers Act of 1940 
+(15 U.S.C. 80b-6) is amended to read as follows:
+
+            ``prohibited transactions by investment advisers
+
+    ``Sec. 206. (a) Prohibited Conduct.--It shall be unlawful for any 
+investment adviser or any person associated with an investment adviser, 
+by use of the mails or any means or instrumentality of interstate 
+commerce, directly or indirectly--
+            ``(1) to employ any device, scheme, or artifice to defraud 
+        any client or prospective client;
+            ``(2) to engage in any transaction, practice, or course of 
+        business which operates as a fraud or deceit upon any client or 
+        prospective client;
+            ``(3) acting as principal for his own account, knowingly to 
+        sell any security to or purchase any security from a client, or 
+        acting as broker for a person other than such client, knowingly 
+        to effect any sale or purchase of any security for the account 
+        of such client, without disclosing to such client in writing 
+        before the completion of such transaction the capacity in which 
+        he is acting and obtaining the consent of the client to such 
+        transaction;
+            ``(4) to engage in any act, practice, or course of business 
+        which is fraudulent, deceptive, or manipulative;
+            ``(5) to provide investment advice to any client, other 
+        than in connection with impersonal advisory services, unless 
+        the adviser--
+                    ``(A) prior to providing any investment advice, and 
+                as appropriate thereafter, makes a reasonable inquiry 
+                into the client's financial situation, investment 
+                experience, and investment objectives;
+                    ``(B) reasonably determines that the investment 
+                advice is suitable for the client; and
+                    ``(C) maintains reasonable records, in accordance 
+                with such rules as the Commission shall prescribe, of 
+                the information obtained from the inquiries the adviser 
+                made in complying with this paragraph; or
+            ``(6) to guarantee a client that a specific result will be 
+        achieved as a result of the investment advisory services.
+    ``(b) Exemptions and Special Rules.--
+            ``(1) Exemption.--The prohibitions of subsection (a)(3) 
+        shall not apply to any transaction with a customer of a broker 
+        or dealer if such broker or dealer is not acting as an 
+        investment adviser in relation to such transaction.
+            ``(2) Authority to define and prescribe.--The Commission 
+        shall, for the purposes of subsection (a)(4), by rules define, 
+        and prescribe means reasonably designed to prevent, such acts, 
+        practices, and courses of business as are fraudulent, 
+        deceptive, or manipulative.
+            ``(3) Definition of impersonal advisory services.--As used 
+        in subsection (a)(5), the term `impersonal advisory services' 
+        means any investment advisory services provided--
+                    ``(A) by means of written material or oral 
+                statements which do not purport to meet the objectives 
+                or needs of specific individuals or accounts;
+                    ``(B) through the issuance of statistical 
+                information containing no expression of opinion as to 
+                the investment merits of a particular security; or
+                    ``(C) by any combination of the foregoing 
+                services.''.
+    (b) Rulemaking Required.--The Commission shall prescribe rules for 
+purposes of paragraph (5)(C) of section 206(a) of the Investment 
+Advisers Act of 1940 (as added by subsection (a) of this section) 
+within one year after the date of enactment of this Act.
+
+SEC. 6. ADDITIONAL DISCLOSURE OBLIGATIONS OF INVESTMENT ADVISERS.
+
+    (a) Additional Obligations.--Section 204 of the Investment Advisers 
+Act of 1940 (15 U.S.C. 80b-4) is amended--
+            (1) by striking the heading of such section and inserting 
+        the following:
+
+        ``periodic reports and other disclosure requirements'';
+
+            (2) by inserting ``(a) Periodic and Other Reports.--'' 
+        after ``Sec. 204.''; and
+            (3) by adding at the end the following new subsections:
+    ``(b) Brochure Required.--
+            ``(1) In general.--Each person registered under section 203 
+        of this title shall disseminate to each client or prospective 
+        client a document disclosing material facts concerning matters 
+        listed in paragraphs (2) and (3) and such other matters as the 
+        Commission shall prescribe. In order to provide for timely and 
+        effective disclosure of such facts and matters to clients, the 
+        Commission shall by rule prescribe the format of the document 
+        and the timing of its dissemination.
+            ``(2) Contents of brochure.--The document required by 
+        paragraph (1) shall include information concerning--
+                    ``(A) the education and business background of such 
+                person and of any associated person providing 
+                significant investment advisory services to the client,
+                    ``(B) compensation arrangements between the client 
+                and the investment adviser,
+                    ``(C) the nature of services offered,
+                    ``(D) business practices,
+                    ``(E) methods for obtaining information on the 
+                disciplinary history and registration of the investment 
+                adviser and persons associated with the investment 
+                adviser, and
+                    ``(F) conflicts of interest which could reasonably 
+                be expected to impair the rendering of disinterested 
+                advice.
+            ``(3) Prominent disclosures.--Such document shall also 
+        prominently disclose--
+                    ``(A) that--
+                            ``(i) the registered person receives or may 
+                        receive, directly or indirectly, sales 
+                        commissions or other fees in connection with a 
+                        purchase or sale effected on behalf of a 
+                        client; or
+                            ``(ii) the registered person will not 
+                        receive, directly or indirectly, any sales 
+                        commission or other fees in connection with 
+                        such purchase or sale, but the client may be 
+                        charged a sales commission or other fee by 
+                        another person in connection with such purchase 
+                        or sale; and
+                    ``(B) that remedies may be available to the client 
+                with respect to disputes arising out of the advisory 
+                relationship.
+            ``(4) Definition.--The Commission shall define `associated 
+        person providing significant investment advisory services to 
+        the client' by rule for purposes of this subsection.
+    ``(c) Transaction Reports.--
+            ``(1) Initial disclosure.--Before a purchase or sale is 
+        effected on behalf of any client, each registered investment 
+        adviser shall, in accordance with rules prescribed by the 
+        Commission, disclose to the client the total amount of 
+        commissions, fees, or other charges that may reasonably be 
+        expected to be charged in connection with the transaction (or, 
+        in the case of payments from third parties, that a payment will 
+        be received) and that the adviser or a related person will 
+        receive a portion of the commission, fee, charge, or payment. 
+        Such initial disclosure shall be in writing if the purchase or 
+        sale was recommended in writing.
+            ``(2) Confirmation.--After a purchase or sale is effected, 
+        each registered investment adviser shall transmit to each 
+        client a written statement that discloses the amount of 
+        commissions, fees, or other charges charged in connection with 
+        the transaction (or, in the case of payments from third 
+        parties, that a payment has been or will be received). Such 
+        written statement shall be in such form and contain such 
+        information, and be provided in accordance with such rules, as 
+        the Commission shall prescribe. Such rules shall, to the extent 
+        consistent with the protection of investors, permit delivery of 
+        a confirmation statement of a broker or a dealer that includes 
+        information that meets the requirements of this subsection (and 
+        the rules adopted thereunder) in order to satisfy such 
+        requirements.
+            ``(3) Waiver.--The Commission may, by rule, permit an 
+        investment adviser to omit disclosure required by this 
+        subsection with the knowing written consent of the client.
+            ``(4) Exceptions.--This subsection shall not apply--
+                    ``(A) with respect to any purchase or sale for 
+                which the registered person, and any person associated 
+                or under common control with the registered person, 
+                will not receive any portion of the amount charged or 
+                deducted in connection with the purchase or sale, and 
+                will not receive any payment from a third party 
+                required to be disclosed under paragraph (1);
+                    ``(B) with respect to accounts for which the person 
+                is authorized to exercise investment discretion; or
+                    ``(C) with respect to any account for which the 
+                person is not acting as an investment adviser.
+            ``(5) Special rule.--The provisions of this subsection 
+        shall also apply to persons associated with an investment 
+        adviser effecting transactions for advisory clients through a 
+        broker or dealer with which the person is associated.
+    ``(d) Periodic Reports.--
+            ``(1) In general.--Each registered investment adviser shall 
+        periodically provide to each client a written statement of--
+                    ``(A) all commissions, fees, or other charges paid 
+                by the client during the period for services provided 
+                by the registered person and any person associated or 
+                under common control with the registered person;
+                    ``(B) all compensation directly or indirectly 
+                received during the period by the registered person, or 
+                any person associated or under common control with the 
+                registered person, from any third party with respect to 
+                any recommended transaction;
+                    ``(C) in the case of a client account for which the 
+                adviser provides investment supervisory services, all 
+                securities positions held in the account at the 
+                beginning and at the end of the period; and
+                    ``(D) such other matters as the Commission shall 
+                prescribe.
+            ``(2) Commission rules.--The Commission shall prescribe by 
+        rule the format of the statement and timing of its delivery. 
+        Such rule shall require that the format and timing of delivery 
+        be designed to present the required information in a manner 
+        that readily permits clients to compare the costs charged by 
+        the investment adviser with the costs charged by other 
+        advisers. In adopting such rule, the Commission shall require 
+        an investment adviser whose clients purchase or sell investment 
+        products through persons other than such adviser, or persons 
+        associated or under common control with such adviser, to 
+        disclose to its clients that such information concerning costs 
+        charged does not include commissions or other fees paid in 
+        connection with such purchases or sales. Such rule shall, to 
+        the extent consistent with the protection of investors, permit 
+        delivery of a report of a broker or dealer that includes 
+        information that meets the requirements of this subsection (and 
+        the rules adopted thereunder) in order to satisfy such 
+        requirements.
+            ``(3) Waiver.--The Commission may, by rule, permit an 
+        investment adviser to provide the statement required by 
+        paragraph (1) no more frequently than annually if the client 
+        knowingly waives, in writing, the right to obtain such 
+        statement more frequently than annually.
+            ``(4) Exception.--This subsection shall not apply with 
+        respect to any account for which the person is not acting as an 
+        investment adviser.
+    ``(e) Facilities for Filing Records and Reports.--The Commission, 
+by rule, may require any investment adviser--
+            ``(1) to file with the Commission any fee, application, 
+        report, or notice required by this title or by the rules issued 
+        under this title through any person designated by the 
+        Commission for that purpose; and
+            ``(2) to pay the reasonable costs associated with such 
+        filing.''.
+    (b) Rulemaking Required.--The Commission shall prescribe rules for 
+purposes of subsections (b), (c), and (d) of section 204 of the 
+Investment Advisers Act of 1940 (as added by subsection (a) of this 
+section) within one year after the date of enactment of this Act.
+
+SEC. 7. BOND REQUIREMENT.
+
+    Section 208 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+8) is amended by adding at the end the following:
+    ``(e) Bond Requirement.--
+            ``(1) In general.--The Commission shall, by rules for the 
+        protection of investors, require that any investment adviser 
+        registered under section 203 who--
+                    ``(A) is authorized to exercise investment 
+                discretion, as defined in section 3(a)(35) of the 
+                Securities Exchange Act of 1934, with respect to an 
+                account,
+                    ``(B) has access to the securities or funds of a 
+                client, or
+                    ``(C) is an investment adviser of an investment 
+                company, as defined in section 2(a)(20) of the 
+                Investment Company Act of 1940,
+        shall obtain a bond from a reputable fidelity insurance company 
+        against larceny and embezzlement in such reasonable amounts and 
+        covering such officers, partners, directors, and employees of 
+        the investment adviser as the Commission may prescribe.
+            ``(2) Considerations in rulemaking.--In implementing 
+        paragraph (1), the Commission shall consider--
+                    ``(A) the degree of risk to client assets that is 
+                involved;
+                    ``(B) the cost and availability of fidelity bonds;
+                    ``(C) existing fidelity bonding requirements; and
+                    ``(D) any alternative means to protect client 
+                assets.
+            ``(3) Exemption authority.--The Commission by rule may 
+        exempt any person or class of persons, under such terms and 
+        conditions and for such periods as the Commission shall provide 
+        in such rule, from the requirements of this subsection and the 
+        rules thereunder.
+
+SEC. 8. DISQUALIFYING CONDUCT.
+
+    (a) Amendment.--Section 203(e) of the Investment Advisers Act of 
+1940 (15 U.S.C. 80b-3(e)) is amended--
+            (1) by redesignating paragraphs (3) through (7) as 
+        paragraphs (4) through (8); and
+            (2) by inserting after paragraph (2) the following new 
+        paragraph:
+            ``(3) has been convicted within ten years preceding the 
+        filing of any application for registration or at any time 
+        thereafter of any crime that is punishable by imprisonment for 
+        one or more years and that is not described in paragraph (2) of 
+        this subsection or of a substantially equivalent crime by a 
+        foreign court of competent jurisdiction.''.
+    (b) Conforming Amendments.--Section 203 of such Act is further 
+amended--
+            (1) in subsection (e)(6) (as redesignated by subsection (a) 
+        of this section, by striking ``this paragraph (5)'' and 
+        inserting ``this paragraph (6)'';
+            (2) in subsection (f)--
+                    (A) by striking ``paragraph (1), (4), (5), or (7)'' 
+                and inserting ``paragraph (1), (5), (6), or (8)''; and
+                    (B) by striking ``paragraph (3)'' and inserting 
+                ``paragraph (4)''; and
+            (3) in subsection (i)(1)(D), by striking ``section 
+        203(e)(5) of this title'' and inserting ``subsection (e)(6) of 
+        this section''.
+
+SEC. 9. CONFIDENTIALITY.
+
+    Section 208 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+8), as amended by section 7, is further amended by adding at the end 
+the following new subsection:
+    ``(f) Disclosure of Client Information Prohibited.--
+            ``(1) Adviser disclosure.--It shall be unlawful for any 
+        investment adviser to disclose any personally identifiable 
+        financial information with respect to any client unless 
+        required by law to do so, or unless--
+                    ``(A) the client has been adequately informed of 
+                the proposed information disclosure, in accordance with 
+                rules prescribed by the Commission, and (i) has been 
+                afforded the opportunity, in accordance with such 
+                rules, to object to the disclosure, and (ii) has not 
+                objected or has affirmatively consented;
+                    ``(B) the information disclosed is necessary and 
+                appropriate in order to establish an advisory or 
+                brokerage account or to effect or attempt to effect a 
+                transaction for the client;
+                    ``(C) the information (i) is requested by 
+                representatives of the Commission, a State agency whose 
+                primary assignment is the regulation of the securities 
+                business, or a self-regulatory organization, or (ii) is 
+                requested by subpoena; or
+                    ``(D) the information is requested by the client's 
+                auditors or accountants.
+            ``(2) Secondary disclosure.--It is unlawful for any person 
+        to whom information is disclosed for the purpose described in 
+        paragraph (1)(B) to use such information for any purpose other 
+        than the effectuation of the client's transaction.''.
+
+                                 <all>
+
+HR 578 IH----2 
+

@@ -1,0 +1,792 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2666 Introduced in House (IH)]
+
+103d CONGRESS
+  1st Session
+                                H. R. 2666
+
+  To facilitate the establishment of community development financial 
+                             institutions.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 19, 1993
+
+Mr. Gonzalez (by request) (for himself, Mr. Neal of North Carolina, Mr. 
+   LaFalce, Mr. Vento, Mr. Schumer, Mr. Frank of Massachusetts, Mr. 
+    Kanjorski, Mr. Kennedy, Ms. Waters, Mr. LaRocco, Mr. Bacchus of 
+Florida, Mr. Klein, Mrs. Maloney, Mr. Deutsch, Mr. Gutierrez, Mr. Rush, 
+ Ms. Roybal-Allard, Ms. Velazquez, Mr. Wynn, Mr. Fields of Louisiana, 
+ Mr. Watt, Mr. Hinchey, and Mr. Klink) introduced the following bill; 
+   which was referred to the Committee on Banking, Finance and Urban 
+                                Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To facilitate the establishment of community development financial 
+                             institutions.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Community Development Banking and 
+Financial Institutions Act of 1993''.
+
+SEC. 2. FINDINGS AND PURPOSE.
+
+    (a) Findings.--The Congress finds that--
+            (1) many of the Nation's urban and rural communities and 
+        Indian reservations face critical social and economic problems 
+        arising in part from the lack of economic growth, people living 
+        in poverty, and the lack of employment and other opportunities;
+            (2) the restoration and maintenance of the economies of 
+        these communities will require coordinated development 
+        strategies, intensive supportive services, and increased access 
+        to capital and credit for development activities, including 
+        investment in businesses, housing, commercial real estate, 
+        human development, and other activities that promote the long-
+        term economic and social viability of the community;
+            (3) in many urban and rural communities, low- and moderate-
+        income neighborhoods, and Indian reservations, there is a 
+        shortage of capital and credit for business and affordable 
+        housing;
+            (4) access to capital and credit is essential to unleash 
+        the untapped entrepreneurial energy of America's poorest 
+        communities and to empower individuals and communities to 
+        become self-sufficient; and
+            (5) community development financial institutions have 
+        proven their ability to identify and respond to community needs 
+        for capital, credit, and development services in the absence 
+        of, or as a complement to, services provided by other lenders.
+    (b) Purpose.--The purpose of this Act is to create a Community 
+Development Banking and Financial Institutions Fund that will support a 
+program of investment in and assistance to community development 
+financial institutions. The Community Development Banking and Financial 
+Institutions Fund will provide financial and technical assistance, 
+including training, to community development financial institutions, 
+serve as a national information clearinghouse, and be an institutional 
+voice for community development. The community development financial 
+institutions that the Community Development Banking and Financial 
+Institutions Fund supports will provide capital, credit, and 
+development services to targeted investment areas or populations, and 
+will promote economic revitalization and community development.
+
+SEC. 3. DEFINITIONS.
+
+    (a) Appropriate Federal Banking Agency.--The term ``appropriate 
+Federal banking agency'' has the same meaning given such term in 
+section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)).
+    (b) Community Development Financial Institution.--The term 
+``community development financial institution'' means any bank, savings 
+association, depository institution holding company, credit union, 
+micro-enterprise loan fund, community development corporation, 
+community development revolving loan fund, minority-owned or other 
+insured depository institution, or non-depository organization that--
+            (1) has as its primary mission the promotion of community 
+        development through the provision of capital, credit, or 
+        development services in its investment areas or to targeted 
+        populations; and
+            (2) encourages, through representation on its governing 
+        board or otherwise, the input of residents in the investment 
+        area or the targeted populations.
+A depository institution holding company may qualify as a community 
+development financial institution only if the holding company and its 
+subsidiaries collectively satisfy the requirements of paragraphs (1) 
+and (2). No subsidiary of a depository institution holding company may 
+qualify as a community development financial institution if the holding 
+company and its subsidiaries collectively do not meet the requirements 
+of paragraphs (1) and (2). The term ``community development financial 
+institution'' does not include an agency or instrumentality of the 
+United States or an agency or instrumentality of any State or political 
+subdivision thereof.
+    (c) Depository Institution Holding Company.--The term ``depository 
+institution holding company'' has the same meaning given such term in 
+section 3(w) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)).
+    (d) Development Services.--The term ``development services'' means 
+activities conducted by a community development financial institution 
+that promote community development by developing, supporting, and 
+strengthening the lending, investment, and capacity-building activities 
+undertaken by institutions, including, but not limited to--
+            (1) business planning services;
+            (2) financial and credit counseling services;
+            (3) marketing and management assistance; and
+            (4) administrative activities associated with lending or 
+        investment.
+    (e) Insured Community Development Financial Institution.--The term 
+``insured community development financial institution'' means any 
+community development financial institution that is an insured 
+depository institution. The term also includes an insured credit union 
+which has been designated as low-income by the National Credit Union 
+Administration.
+    (f) Insured Credit Union.--The term ``insured credit union'' has 
+the same meaning given such term in section 101(7) of the Federal 
+Credit Union Act (12 U.S.C. 1752(7)).
+    (g) Insured Depository Institution.--The term ``insured depository 
+institution'' has the same meaning given such term in section 3(c) of 
+the Federal Deposit Insurance Act (12 U.S.C. 1813(c)).
+    (h) Investment Area.--The term ``investment area'' means an 
+identifiable community that--
+            (1) meets objective criteria of distress, including the 
+        number of low-income families, the extent of poverty, the 
+        extent of unemployment, the extend of unmet credit needs, the 
+        degree of availability of basic financial services, the degree 
+        of limited access to capital and credit provided by existing 
+        financial institutions, and other factors that the Fund 
+        determines to be appropriate; or
+            (2) is located in an empowerment zone or enterprise 
+        community designated under section 1391 of the Internal Revenue 
+        Code of 1986.
+    (i) Qualified Community Development Financial Institution.--The 
+term ``qualified community development financial institution'' means a 
+community development financial institution that meets the requirements 
+of sections 5(b) (2) through (8) of this Act.
+    (j) Targeted Population.--The term ``targeted population'' means an 
+identifiable group of low-income or disadvantaged persons that are 
+underserved by existing financial institutions.
+
+SEC. 4. ESTABLISHMENT OF NATIONAL FUND FOR COMMUNITY DEVELOPMENT 
+              BANKING.
+
+    (a) In General.--There is created and chartered a body corporate to 
+be known as the Community Development Banking and Financial 
+Institutions Fund (referred to in this Act as the ``Fund'') that shall 
+have the powers and responsibilities specified by this Act. The Fund 
+shall have succession until dissolved. The charter of the Fund may be 
+revised, amended, or modified by Congress at any time. The offices of 
+the Fund shall be in Washington, D.C.
+    (b) Board of Directors.--
+            (1) In general.--The powers and management of the Fund 
+        shall be vested in a Board of Directors (referred to in this 
+        Act as the ``Board''), which shall have nine members.
+            (2) Members.--The members of the Board shall consist of the 
+        following:
+                    (A) The Secretary of Agriculture.
+                    (B) The Secretary of Commerce.
+                    (C) The Secretary of Housing and Urban Development.
+                    (D) The Secretary of the Treasury.
+                    (E) The Administrator of the Small Business 
+                Administration.
+                    (F) Four private citizens, appointed by the 
+                President with the advice and consent of the Senate, 
+                that collectively--
+                            (i) represent community groups whose 
+                        constituencies include low-income persons or 
+                        residents of investment areas,
+                            (ii) have expertise in the operations and 
+                        activities of insured depository institutions, 
+                        and
+                            (iii) have expertise in community 
+                        development and lending; provided that there 
+                        should not be less than one member from each of 
+                        the three categories described in clauses (i) 
+                        through (iii) of this subparagraph.
+            (3) Chairperson.--The President shall appoint from among 
+        the members of the Board specified in paragraph (2)(F) a 
+        chairperson of the Board, who shall serve at the pleasure of 
+        the President for a term of two years.
+            (4) Vice-chairperson.--The President shall appoint from 
+        among the members specified in paragraph (2) a vice-chairperson 
+        who will serve as chairperson in the absence, disability, or 
+        recusal of the chairperson. The vice-chairperson shall serve at 
+        the pleasure of the President for a term of two years.
+            (5) Terms of appointed members.--
+                    (A) In general.--Each member appointed pursuant to 
+                paragraph (2)(F) shall serve at the pleasure of the 
+                President for a term of four years, except as provided 
+                in paragraph (5)(C).
+                    (B) Vacancies.--Any member appointed to fill a 
+                vacancy occurring prior to the expiration of the term 
+                for which the previous member was appointed shall be 
+                appointed for the remainder of such term. Appointed 
+                members may continue to serve following the expiration 
+                of their terms until a successor is appointed and 
+                qualified.
+                    (C) Terms.--The terms of the initial appointed 
+                members shall be for four years and shall begin on the 
+                date each member is appointed, except that two of the 
+                members initially appointed pursuant to paragraph 
+                (2)(F) shall be designated to serve at the pleasure of 
+                the President for five years.
+            (6) Acting officials.--In the event of a vacancy or absence 
+        of the individual in any of the offices described in paragraphs 
+        (2) (A) through (E), the official acting in that office shall 
+        be a member of the Board.
+            (7) Authority to delegate.--Each member of the Board 
+        specified in paragraphs (2) (A) through (E) may designate 
+        another official who has been appointed by the President with 
+        the advice and consent of the Senate within the same agency to 
+        serve as a member in his or her stead.
+            (8) Compensation.--Members of the Board who are otherwise 
+        officers or employees of the United States shall serve without 
+        additional compensation for their duties as members, but shall 
+        be reimbursed by the Fund for travel, per diem, and other 
+        necessary expenses incurred in the performance of their duties, 
+        in accordance with sections 5702 and 5703 of title 5, United 
+        States Code. The appointed members of the Board shall be 
+        entitled to receive compensation at the daily equivalent of the 
+        rate for a position under Level IV of the Executive Schedule 
+        under section 5315 of title 5, United States Code, and shall be 
+        reimbursed by the Fund for travel, per diem, and other 
+        necessary expenses incurred in the performance of their duties, 
+        in accordance with sections 5702 and 5703 of title 5, United 
+        States Code.
+            (9) Meetings.--The Board shall hold meetings at least 
+        quarterly. Special meetings of the Board may be called by the 
+        Chairperson or on the written request of three members of the 
+        Board. A majority of the members of the Board in office shall 
+        constitute a quorum.
+    (c) Officers and Employees.--The Board shall appoint a Chief 
+Executive Officer who will be responsible for the management of the 
+Fund and such other duties deemed appropriate by the Board. The Board 
+shall appoint a Chief Financial Officer who shall oversee all of the 
+financial management activities of the Fund. The Board shall also 
+appoint an Inspector General. The Board may appoint such other officers 
+and employees of the Fund as the Board determines to be necessary or 
+appropriate. The Chief Executive Officer, Chief Financial Officer, and 
+up to 3 other officers of the Fund may be appointed without regard to 
+the provisions of title 5 of the United States Code governing 
+appointments in the Federal service and compensated without regard to 
+chapter 51 and subchapter III of chapter 53 of title 5 of the United 
+States Code, except that the rate of pay for the Chief Executive 
+Officer shall not exceed the rate for a position under Level II of the 
+Executive Schedule under section 5313 of title 5 of the United States 
+Code and the rate of pay for the remaining four officers shall not 
+exceed the rate for a position under Level IV of the Executive Schedule 
+under section 5315 of title 5 of the United States Code.
+    (d) General Powers.--In carrying out its powers and duties, the 
+Fund--
+            (1) shall have all necessary and proper powers to carry out 
+        its authority under this Act;
+            (2) may adopt, alter, and use a corporate seal, which shall 
+        be judicially noticed;
+            (3) may sue and be sued in its corporate name and complain 
+        and defend in any court of competent jurisdiction;
+            (4) may adopt, amend, and repeal bylaws, rules, and 
+        regulations governing the manner in which its business may be 
+        conducted and shall have power to make such rules and 
+        regulations as may be necessary or appropriate to implement the 
+        provisions of this Act;
+            (5) may enter into and perform such agreements, contracts, 
+        and transactions as may be deemed necessary or appropriate to 
+        the conduct of activities authorized under this Act;
+            (6) may determine the character of and necessity for its 
+        expenditures and the manner in which they shall be incurred, 
+        allowed, and paid;
+            (7) may utilize or employ the services of personnel of any 
+        agency or instrumentality of the United States with the consent 
+        of the agency or instrumentality concerned on a reimbursable or 
+        nonreimbursable basis; and
+            (8) may execute all instruments necessary or appropriate in 
+        the exercise of any of its functions under this Act and may 
+        delegate to the members of the Board, to the Chief Executive 
+        Officer, or the officers of the Fund such of its powers and 
+        responsibilities as it deems necessary or appropriate for the 
+        administration of the Fund.
+    (e) Wholly-Owned Government Corporation.--
+            (1) The Fund shall be a wholly-owned Government corporation 
+        in the Executive branch and shall be treated in all respects as 
+        an agency of the United States, except to the extent this Act 
+        provides otherwise.
+            (2) Section 9101(3) of title 31, United States Code (the 
+        Government Corporation Control Act), is amended--
+                    (A) by redesignating paragraphs (B) through (M) as 
+                paragraphs (C) through (N), respectively; and
+                    (B) by inserting after paragraph (A) the following:
+            ``(B) the Community Development Banking and Financial 
+        Institutions Fund.''; and
+            (3) Section 9107(b) of title 31, United States Code (the 
+        Government Corporation Control Act), shall not apply to 
+        deposits of the Fund made pursuant to section 7 of this Act.
+    (f) Limitation of Fund and Federal Liability.--The liability of the 
+Fund and of the United States Government arising out of any investment 
+in a community development financial institution in accordance with 
+this Act shall be limited to the amount of the investment and the Fund 
+shall be exempt from any assessments and other liabilities that may be 
+imposed on controlling or principal shareholders by any Federal law or 
+the law of any State, Territory, or the District of Columbia. A 
+community development financial institution that receives assistance 
+pursuant to this Act shall not be deemed to be an agency, department, 
+or instrumentality of the United States.
+    (g) Prohibition of Issuance of Securities.--The Fund may not issue 
+stock, bonds, debentures, notes, or other securities.
+
+SEC. 5. APPLICATIONS FOR ASSISTANCE.
+
+    (a) Form and Procedures.--An application for assistance under this 
+Act shall be submitted by an applicant in such form and in accordance 
+with such procedures as the Board shall establish. The Board shall 
+publish regulations with respect to application requirements and 
+procedures not later than 210 days after enactment of this Act.
+    (b) Minimum Requirements.--The Board shall require that the 
+application--
+            (1) demonstrate to the satisfaction of the Board that the 
+        applicant is, or upon the receipt of a charter will be, a 
+        community development financial institution as defined in 
+        section 3(a) of this Act;
+            (2) demonstrate that the applicant will serve--
+                    (A) a targeted population; or
+                    (B) an area which is an investment area;
+            (3) in the case of an applicant that has previously 
+        received assistance under this Act, demonstrate that the 
+        applicant--
+                    (A) has successfully carried out its 
+                responsibilities under this Act;
+                    (B) has become or is about to become an entity that 
+                will not be dependent upon assistance from the Fund for 
+                continued viability; and
+                    (C) will expand its operations into a new 
+                investment area, offer new services, or will increase 
+                the volume of its current business;
+            (4) in the case of a community development financial 
+        institution with existing operations, demonstrate a record of 
+        success of serving investment areas or targeted populations;
+            (5) include a detailed and comprehensive strategic plan for 
+        the organization that contains--
+                    (A) a business plan of at least five years that 
+                demonstrates the applicant is properly managed and has 
+                the capacity to form and operate a community 
+                development financial institution that is, or will 
+                become, an entity that will not be dependent upon 
+                assistance from the Fund for continued viability;
+                    (B) a statement that the applicant has, or will 
+                have, in its charter or other governing documents a 
+                primary commitment to community development, or other 
+                evidence of a prior history and a continuing 
+                affirmation of a primary commitment of community 
+                development;
+                    (C) an analysis of the needs of the investment area 
+                or targeted populations and a strategy for how the 
+                applicant will attempt to meet those needs;
+                    (D) a plan to coordinate use of assistance from the 
+                Fund with existing Federal, government-sponsored 
+                enterprise, and State and local assistance programs, 
+                and private sector financial services;
+                    (E) a statement that the proposed activities of the 
+                applicant are consistent with existing economic, 
+                community and housing development plans adopted by or 
+                applicable to the investment area;
+                    (F) a description of how the applicant will 
+                affiliate, network, or otherwise coordinate with a full 
+                range of community organizations and financial 
+                institutions which provide, or will provide, capital, 
+                credit, or secondary markets in order to assure that 
+                banking, economic development, investment, affordable 
+                housing, and other related services will be available 
+                within the investment area or to targeted populations; 
+                and
+                    (G) such other information as the Board deems 
+                appropriate for inclusion in the strategic plan;
+            (6) demonstrate that the applicant will carry on its 
+        activities consistent with the purposes of this Act within the 
+        investment area or with respect to a targeted population;
+            (7) include a detailed and specific statement of 
+        applicant's plans and likely sources of funds to match the 
+        amount of assistance from the Fund with funds from private 
+        sources in accordance with the requirements of section 7(d) of 
+        this Act; and
+            (8) include such other information as the Board may 
+        require.
+    (c) Pre-Application Outreach Program.--The Fund shall provide for 
+an outreach program to identify and provide information to potential 
+applicants and to increase the capacity of potential applicants to meet 
+the application and other requirements of this Act.
+
+SEC. 6. SELECTION OF INSTITUTIONS.
+
+    (a) Selection Criteria.--The Board shall, in its discretion, select 
+applications that meet the requirements of section 5 of this Act and 
+award assistance from the Fund in accordance with section 7 of this 
+Act. In selecting applications, the Board shall consider applications 
+based on, but not limited to--
+            (1) the likelihood of success of the applicant in forming 
+        and operating a community development financial institution;
+            (2) the range and comprehensiveness of the capital, credit, 
+        and development services to be provided by the applicant;
+            (3) the extent of the need, as measured by objective 
+        criteria of distress, within the investment areas or targeted 
+        populations for the types of activities proposed by the 
+        applicant;
+            (4) the likelihood that the proposed activities will 
+        benefit a significant portion of the investment areas or 
+        targeted populations or, in the case of a community development 
+        financial institution with existing operations, evidence of a 
+        record of success in serving investment areas or targeted 
+        populations;
+            (5) the extent to which the applicant will concentrate its 
+        activities on serving low and very low-income families;
+            (6) the evidence of the extent of a broad cross-section of 
+        support from the investment areas or targeted populations;
+            (7) the experience and background of the proposed 
+        management team;
+            (8) the amount of legally enforceable commitments available 
+        at the time of application to meet or exceed the matching 
+        requirements under section 7(d) of this Act and the strength of 
+        the plan for raising the balance of the match;
+            (9) in the case of applicants that have previously received 
+        assistance pursuant to this Act, the extent to which they have 
+        met or exceeded their performance goals;
+            (10) the extent to which the proposed activities will 
+        expand the employment base within the investment areas or the 
+        targeted populations;
+            (11) the extent to which the applicant is, or will be, 
+        community-owned or community-governed;
+            (12) whether the applicant is, or will become, an insured 
+        community development financial institution;
+            (13) whether the applicant is, or will be located, in an 
+        empowerment zone or enterprise community designated under 
+        section 1391 of the Internal Revenue Code of 1986;
+            (14) in the case of an institution that is not an insured 
+        community development financial institution, the extent to 
+        which the institution has or will have the ability to increase 
+        its resources through affiliation with a secondary market, 
+        insured depository institution, or other financial intermediary 
+        in order to multiply the amount of capital or credit available 
+        for community development;
+            (15) in the case of an insured depository institution or 
+        insured credit union applicant, whether the institution--
+                    (A) has or will have a substantial affiliation with 
+                an entity or network of entities that are community 
+                development financial institutions; and
+                    (B) has a comprehensive plan for providing 
+                meaningful financial assistance to such an entity or 
+                network of entities; and
+            (16) other factors deemed appropriate by the Board.
+    (b) Geographic Diversity.--In addition to the above, in making its 
+selections the Board shall seek to fund a geographically diverse group 
+of applicants, which shall include applicants from nonmetropolitan and 
+rural areas.
+    (c) Publication Requirement.--The Board shall publish regulations 
+with respect to its selection criteria not later than 210 days after 
+the date of enactment of this Act.
+
+SEC. 7. ASSISTANCE PROVIDED BY THE FUND.
+
+    (a) Purpose of Assistance.--
+            (1) The Fund shall work to promote an environment 
+        hospitable to business information, economic growth, community 
+        development, and affordable housing in distressed communities. 
+        The Fund shall coordinate its activities with existing Federal 
+        and other community and economic development programs.
+            (2) Assistance may be provided to an existing qualified 
+        community development financial institution to expand its 
+        activities to serve investment areas or targeted populations 
+        not currently served by another qualified community development 
+        financial institution receiving assistance under this section 
+        or to expand the volume of its activities consistent with the 
+        purposes of this Act, or to form a new entity to undertake 
+        activities consistent with the purposes of this Act, or to 
+        assist an existing entity to modify its structure or activities 
+        in order to undertake activities consistent with the purposes 
+        of this Act.
+    (b) Types of Assistance.--
+            (1) In general.--The Fund may provide financial assistance 
+        to qualified community development financial institutions 
+        through equity investments, loans, deposits, membership shares, 
+        and grants. The Fund may also provide technical assistance, 
+        including training, and grants for technical assistance to 
+        qualified community development financial institutions. The 
+        allocation of awards of assistance between insured and 
+        uninsured community development financial institutions shall be 
+        in the discretion of the Board: Provided, That due 
+        consideration shall be given to the allocation of funds to 
+        insured community development financial institutions.
+            (2) Financial assistance.--The Fund shall structure 
+        financial assistance to a qualified community development 
+        financial institution in such a manner that it does not own 
+        more than 50 percent of the equity of such institution and does 
+        not control the operations of such institution. The Fund will 
+        not be deemed to control such institution for the purposes of 
+        applicable laws. With respect to equity investments, the Fund 
+        shall hold only transferable, nonvoting investments. Such 
+        equity investments may provide for convertibility to voting 
+        stock upon transfer by the Fund.
+            (3) Deposits.--Notwithstanding any other provision of law, 
+        deposits made pursuant to this section in qualified insured 
+        community development financial institutions shall not be 
+        subject to any requirement for collateral or security.
+            (4) Limitations on obligations.--Direct loan obligations 
+        may be incurred only to the extent that appropriations of 
+        budget authority to cover their costs, as defined in section 
+        502 of the Congressional Budget Act of 1974, are made in 
+        advance.
+    (c) Purpose of Financial Assistance.--Financial assistance made 
+available under this Act may be used by assisted institutions to 
+develop or support--
+            (1) commercial facilities that enhance revitalization, 
+        community stability, or job creation and retention efforts;
+            (2) business creation and expansion efforts that--
+                    (A) create or retain jobs for low-income people;
+                    (B) enhance the availability of products and 
+                services to low-income people; or
+                    (C) create or retain businesses owned by low-income 
+                people or residents of a targeted area;
+            (3) community facilities that provide benefits to low-
+        income people or enhance community stability;
+            (4) the provision of basic financial services to low-income 
+        people or residents of a targeted area;
+            (5) the provision of development services;
+            (6) home ownership opportunities that are affordable to 
+        low-income households;
+            (7) rental housing that is principally affordable to low-
+        income households; and
+            (8) other activities deemed appropriate by the Fund.
+    (d) Amount of Assistance.--The Fund may provide up to $5,000,000 of 
+assistance per application to any one qualified insured community 
+development financial institution and up to $2,000,000 per application 
+to any other qualified community development financial institution. The 
+Fund shall have the authority to set minimum amounts of assistance per 
+institution.
+    (e) Matching Requirements.--
+            (1) Assistance provided to qualified insured community 
+        development financial institutions, other than deposits or 
+        membership shares of $100,000 or less, technical assistance, or 
+        grants for technical assistance, shall be matched by no less 
+        than one dollar of equity, deposits or membership shares for 
+        each dollar provided by the Fund. The Fund shall require a 
+        match for all other assistance, the amount and form of which 
+        shall be in the discretion of the Fund: Provided, That the Fund 
+        shall in no event require assistance provided in the form of 
+        deposits or membership shares of $100,000 or less, technical 
+        assistance, or grants for technical assistance to be matched. 
+        The Fund shall provide no assistance except technical 
+        assistance or grants for technical assistance until a qualified 
+        community development financial institution has secured legally 
+        enforceable commitments for the entire match required. 
+        Assistance may be provided in one lump sum, or over a period of 
+        time, as determined by the Fund.
+            (2) Assistance shall be matched with funds from sources 
+        other than the Federal Government.
+    (f) Terms and Conditions.--
+            (1) In general.--The Fund shall provide assistance 
+        authorized under this Act in such form and subject to such 
+        restrictions as are necessary to ensure that to the maximum 
+        extent practicable--
+                    (A) all assistance granted is used by the qualified 
+                community development financial institution in a manner 
+                consistent with the purposes of this Act;
+                    (B) qualified community development financial 
+                institutions receiving assistance that are not 
+                otherwise regulated by the Federal Government or by a 
+                State government are financially and managerially 
+                sound;
+                    (C) assistance results in a net increase, both 
+                nationally and in the local communities in which 
+                assistance is provided, in capital, credit, and 
+                development services; and
+                    (D) assistance is provided in a manner that 
+                encourages affiliations and partnerships between 
+                insured depository institutions, secondary markets or 
+                other sources of credit or leverage and local 
+                organizations dedicated to community development.
+            (2) Consultation with banking regulators.--Prior to 
+        providing assistance to a qualified insured community 
+        development financial institution, the Board should consult 
+        with the appropriate Federal banking agency or, in the case of 
+        an insured credit union, the National Credit Union 
+        Administration.
+            (3) Assistance agreement.--
+                    (A) The Board shall impose restrictions on the use 
+                of assistance through a stock purchase agreement, share 
+                purchase agreement, or through a contract entered into 
+                in consideration for the provision of assistance.
+                    (B) Such agreement or contract shall require 
+                institutions assisted under this Act to comply with 
+                performance goals. The performance goals shall be 
+                negotiated between the Board and each qualified 
+                community development financial institution receiving 
+                assistance based upon the strategic plan submitted 
+                pursuant to section 5(b)(5) of this Act. The 
+                performance goals may be renegotiated jointly as 
+                necessary or appropriate, subject to subparagraph (C) 
+                of this section. Activity levels for insured community 
+                development financial institutions should be determined 
+                by the Board in consultation with the appropriate 
+                Federal banking agency or, in the case of an insured 
+                credit union, with the National Credit Union 
+                Administration.
+                    (C) The agreement or contract shall specify 
+                sanctions available to the Board, in its discretion, in 
+                the event of noncompliance with the purposes of this 
+                Act or the terms of the agreement. The sanctions may 
+                include revocation of approval of the application, 
+                terminating or reducing future assistance, requiring 
+                repayment of assistance, and requiring changes to the 
+                performance goals imposed pursuant to subparagraph (B) 
+                or to the strategic plan submitted pursuant to section 
+                5(b)(5) of this Act. In the case of an insured 
+                community development financial institution, the Board 
+                shall consult with the appropriate Federal banking 
+                agency or, in the case of an insured credit union, the 
+                National Credit Union Administration, before imposing 
+                sanctions pursuant to this paragraph.
+            (4) Review.--At least annually, the Board shall review the 
+        performance of each assisted qualified community development 
+        financial institution in carrying out its strategic plan and 
+        performance goals.
+            (5) Reporting.--The Board shall require each qualified 
+        community development financial institution receiving 
+        assistance to submit an annual report to the Fund on its 
+        activities, its financial condition, its success in meeting 
+        performance goals, and its compliance with other requirements 
+        of this Act.
+    (g) Authority To Sell Equity Investments and Loans.--The Board 
+shall have the authority at any time to sell its investments and loans 
+and may, in its discretion, retain the power to enforce limitations on 
+assistance entered into in accordance with the requirements of this 
+Act.
+    (h) No Authority To Limit Supervision and Regulation.--Nothing in 
+this Act shall affect any authority of the appropriate Federal banking 
+agency or, in the case of an insured credit union, the National Credit 
+Union Administration, to supervise and regulate an insured community 
+development financial institution.
+
+SEC. 8. ENCOURAGEMENT OF PRIVATE ENTITIES.
+
+    The Board may cause to be incorporated, or encourage the 
+incorporation of, private non-profit and for-profit entities that will 
+complement the activities of the Fund in carrying out the purposes of 
+this Act. The purposes of any such entities shall be limited to 
+investing in and assisting community development financial institutions 
+in a manner similar to the activities of the Fund under this Act. Any 
+such entities shall be managed exclusively by private individuals who 
+are selected in accordance with the laws of the jurisdiction of 
+incorporation.
+
+SEC. 9. CLEARINGHOUSE FUNCTION.
+
+    The Fund shall establish and maintain an information clearinghouse 
+in coordination with the Departments of Agriculture, Commerce, and 
+Housing and Urban Development, the Small Business Administration, other 
+Federal agencies, and community development financial institutions--
+            (1) to cause to be collected, compiled, and analyzed 
+        information pertinent to community development financial 
+        institutions that will assist in creating, developing, 
+        expanding, and preserving these institutions; and
+            (2) to cause to be established a service center for 
+        comprehensive information on financial, technical, and 
+        management assistance, case studies of the activities of 
+        community development financial institutions, regulations, and 
+        other information that may promote the purposes of this Act.
+
+SEC. 10. RECORDKEEPING, REPORTS, AND AUDITS.
+
+    (a) Recordkeeping.--
+            (1) A qualified community development financial institution 
+        receiving assistance from the Fund shall keep such records as 
+        may be reasonably necessary to disclose the disposition of any 
+        assistance under this Act and to ensure compliance with the 
+        requirements of this Act.
+            (2) The Fund shall have access, for the purpose of 
+        determining compliance with this Act, to any books, documents, 
+        papers, and records of a qualified community development 
+        financial institution receiving assistance from the Fund that 
+        are pertinent to assistance received under this Act.
+    (b) Reports.--
+            (1) Annual report.--The Fund shall conduct an annual 
+        evaluation of the activities carried out pursuant to this Act 
+        and shall submit a report of its findings to the President 
+        within 120 days of the end of each fiscal year of the Fund. The 
+        report shall include financial statements audited in accordance 
+        with subsection (c).
+            (2) Institutional voice for community development.--
+                    (A) Ongoing study.--The Fund shall conduct, or 
+                cause to be conducted, an ongoing study to identify and 
+                evaluate the most effective and financially sound 
+                policies and practices for encouraging investment in 
+                distressed communities, including small business and 
+                commercial lending, business formation and expansion, 
+                community and economic development, commercial real 
+                estate and multi-family housing, and home mortgages. In 
+                addition, the Fund may study, or cause to be studied, 
+                related matters, such as identification of sources of 
+                and access to capital and loans for community 
+                investment; development of secondary markets for 
+                economic and community development, small business and 
+                commercial loans, and home mortgage loans and 
+                investments; and methods to involve all segments of the 
+                financial services industry in community development.
+                    (B) Consultation.--In the conduct of the study, the 
+                Fund shall consult, or cause consultation with, the 
+                Office of the Comptroller of the Currency, the Federal 
+                Deposit Insurance Corporation, the Board of Governors 
+                of the Federal Reserve System, the Federal Housing 
+                Finance Board, the Farm Credit Administration, the 
+                Office of Thrift Supervision, the National Credit Union 
+                Administration, community reinvestment, civil rights, 
+                consumer and financial organizations, and such 
+                representatives of agencies or other persons as the 
+                Fund may determine.
+                    (C) Reports.--Within 270 days after the date of 
+                enactment of this Act, the Fund shall report to the 
+                President its initial findings and recommendations 
+                regarding the matters set forth in subparagraph (A). 
+                Thereafter, the Fund shall report its findings and 
+                recommendations to the President with the annual report 
+                required by paragraph (b)(1).
+            (3) Investment, governance, and role of fund.--Six years 
+        following the date of enactment of this Act, the Fund, in 
+        accordance with the procedures described in paragraphs (2)(A) 
+        and (B), shall conduct a study evaluating the structure, 
+        governance, and performance of the Fund. The study shall be 
+        submitted to the President. Such study shall include an 
+        evaluation of the overall performance of the Fund in meeting 
+        the purposes of this Act and any recommendations of the Fund 
+        for restructuring the Board, altering procedures under which 
+        the Fund is governed, the future role of the Fund in addressing 
+        community development, and the ability of the Fund to become a 
+        private, self-sustaining entity capable of fulfilling the 
+        purposes of this Act.
+    (c) Examination and Audit.--The financial statements of the Fund 
+shall be audited in accordance with section 9105 of title 31, United 
+States Code, except that audits required by section 9105(a) of that 
+title shall be performed annually.
+
+SEC. 11. INVESTMENT OF RECEIPTS AND PROCEEDS.
+
+    Any dividends on equity investments and proceeds from the 
+disposition of investments, deposits, or membership shares that are 
+received by the Fund as a result of assistance provided pursuant to 
+section 7 of this Act shall be deposited and accredited to an account 
+of the Fund established to carry out the authorized purposes of this 
+Act. Upon request of the Chief Executive Officer, the Secretary of the 
+Treasury shall invest amounts deposited in such account in public debt 
+securities with maturities suitable to the needs of the Fund, as 
+determined by the Chief Executive Officer, and bearing interest at 
+rates determined by the Secretary of the Treasury, taking into 
+consideration current market yields on outstanding marketable 
+obligations of the United States of comparable maturities. Amounts 
+deposited into the account and interest earned on such amounts pursuant 
+to this section shall be available to the Fund until expended.
+
+SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) In General.--There are authorized to be appropriated to the 
+Fund, to remain available until expended, $60,000,000 for fiscal year 
+1994, $104,000,000 for fiscal year 1995, $107,000,000 for fiscal year 
+1996, and $111,000,000 for fiscal year 1997, or such greater sums as 
+may be appropriated, to carry out the purposes of the Act.
+    (b) Administrative Expenses.--The Fund may set aside up to 
+$10,000,000 each fiscal year to pay administrative costs and expenses.
+
+SEC. 13. CONFORMING AMENDMENT.
+
+    Section 8E(a)(2) of the Inspector General Act of 1978 (5 U.S.C. 
+app. 3, 8E(a)(2)) is amended by inserting ``the Community Development 
+Banking and Financial Institutions Fund,'' immediately following ``the 
+Commodity Futures Trading Commission.''.
+
+                                 <all>
+
+HR 2666 IH----2
+

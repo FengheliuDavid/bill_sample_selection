@@ -1,0 +1,347 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1173 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 1173
+
+  To amend title 18, United States Code, to combat, deter, and punish 
+ individuals and enterprises engaged nationally and internationally in 
+organized crime involving theft and interstate fencing of stolen retail 
+                  merchandise, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 25, 2009
+
+   Mr. Ellsworth (for himself and Mr. Jordan of Ohio) introduced the 
+  following bill; which was referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend title 18, United States Code, to combat, deter, and punish 
+ individuals and enterprises engaged nationally and internationally in 
+organized crime involving theft and interstate fencing of stolen retail 
+                  merchandise, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Organized Retail Crime Act of 
+2009''.
+
+SEC. 2. FINDINGS AND STATEMENT OF PURPOSE.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) Organized retail crime involving the obtaining by fraud 
+        and theft of retail merchandise from entities engaged in 
+        interstate commerce is a nationwide problem of an increasing 
+        scale and is expected to cost American companies and consumers 
+        more than $30,000,000,000 annually.
+            (2) The increasing losses by retailers as a result of 
+        organized retail crime make certain goods and products less 
+        available and accessible to American consumers.
+            (3) The uncontrolled redistribution and unsafe storage of 
+        stolen and fraudulently obtained consumer products such as baby 
+        formula, over-the-counter drugs, and other products by persons 
+        engaged in such organized retail crime is a health and safety 
+        hazard to American consumers.
+            (4) The unregulated black-market sales of such fraudulently 
+        obtained and stolen merchandise results in an estimated 
+        $1,600,000,000 annual loss in much needed sales and income tax 
+        revenues to State and local governments.
+            (5) The illegal income from the expanding theft and resale 
+        of stolen retail goods is reasonably believed to benefit 
+        persons and organizations engaged in other forms of criminal 
+        activity such as drug trafficking, gang activity, and 
+        terrorism.
+            (6) Organized retail crime rings often obtain retail 
+        merchandise through the use of checks for which there are 
+        insufficient funds or that are forged or stolen, frequently 
+        returning the merchandise to fraudulently obtain refunds. Such 
+        practices create major problems for the retail industry and the 
+        national banking system.
+            (7) Organized retail crime rings are increasingly using 
+        counterfeit, forged, misappropriated, and improperly 
+        transferred Universal Product Code labels and other devices 
+        employed to identify articles for sale as a method for 
+        achieving their ends.
+            (8) The dramatic growth of organized retail crime and the 
+        unfettered resale of such stolen and fraudulently obtained 
+        goods in national and international Internet-based marketplaces 
+        has resulted in effective evasion by such resellers of State 
+        and local regulations on secondhand goods and article resellers 
+        which had traditionally been used to control the possession, 
+        resale, and transfer of stolen goods.
+            (9) The unrestricted expansion of anonymous Internet-based 
+        marketplaces for stolen and fraudulently obtained goods has 
+        resulted in a dramatic increase in the deployment of organized 
+        retail crime rings seeking to sell stolen goods in Internet-
+        based marketplaces.
+            (10) Conduct constituting organized retail crime and 
+        conduct facilitating organized retail crime both substantially 
+        affect interstate commerce.
+    (b) Statement of Purpose.--In light of the above findings, the 
+purposes of this Act are as follows:
+            (1) To protect consumers, retailers, the national banking 
+        system, and State and local governments from the more than 
+        $30,000,000,000 annual problem of organized retail crime as 
+        well as the related adverse health and safety risks it creates.
+            (2) To continue to allow legitimate transactions to occur 
+        on online marketplaces while addressing the growing problem of 
+        fencing stolen merchandise over the Internet (``e-fencing'') 
+        that facilitates organized retail crime.
+
+SEC. 3. ORGANIZED RETAIL CRIME.
+
+    (a) Definitions.--Section 2311 of title 18, United States Code, is 
+amended--
+            (1) by inserting after the fifth paragraph (relating to the 
+        definition of ``motor vehicle'') the following:
+            ```Organized retail crime' means--
+                    ``(1) the stealing, embezzlement, or obtaining by 
+                fraud, false pretenses, or other illegal means, of 
+                retail merchandise in quantities that would not 
+                normally be purchased for personal use or consumption 
+                for the purpose of reselling or otherwise reentering 
+                such retail merchandise in commerce; or
+                    ``(2) the recruitment of persons to undertake, or 
+                the coordination, organization, or facilitation of, 
+                such stealing, embezzlement, or obtaining by fraud, 
+                false pretenses, or other illegal means;'';
+            (2) by inserting before the paragraph inserted by 
+        subsection (a)(1) of this section, the following:
+            ```Online marketplace' means--
+            ``(1) an Internet site where persons other than the 
+        operator of the Internet site can enter into transactions for 
+        the sale of goods or services and in which--
+                    ``(A) such goods or services are promoted through 
+                inclusion in search results displayed within the 
+                Internet site; and
+                    ``(B) the operator of the Internet site--
+                            ``(i) has the contractual right to 
+                        supervise the activities of the person with 
+                        respect to such goods or services; or
+                            ``(ii) has a financial interest in the sale 
+                        of such goods or services;'';
+            (3) by inserting after the second paragraph, relating to 
+        the definition of ``cattle'', the following new paragraph:
+            ```Internet site' means a location on the Internet 
+        accessible at a specific Internet domain name, is accessible at 
+        a specific address under the Internet Protocol (or any 
+        successor protocol), or is identified by a uniform resource 
+        locator;''; and
+            (4) by inserting before the paragraph inserted by paragraph 
+        (3) of this subsection, the following new paragraph:
+            ```High-volume seller' means a seller on an online 
+        marketplace who in the past 12 months has made or offered to 
+        make discrete transactions aggregating at least $12,000;''.
+    (b) Transportation of Stolen Goods.--The first paragraph of section 
+2314 of title 18, United States Code, is amended by inserting ``or 
+engages in organized retail crime involving the transporting, 
+transmitting, or transferring in interstate or foreign commerce any 
+goods, wares, or merchandise,'' after ``$5,000 or more,''.
+    (c) Sale or Receipt of Stolen Goods.--The first paragraph of 
+section 2315 of title 18, United States Code, is amended by inserting 
+``or engages in organized retail crime involving receiving, possessing, 
+concealing, storing, bartering, selling, or disposing of any goods, 
+wares, or merchandise,'' after ``$5,000 or more,''.
+    (d) Fraud in Connection With Access Devices.--Section 1029(e)(1) of 
+title 18, United States Code, is amended--
+            (1) by inserting ``(including gift card)'' after ``card'';
+            (2) by inserting ``(including a Universal Product Code 
+        label)'' after ``code''; and
+            (3) by inserting ``(including a radio frequency 
+        identification transponder)'' after ``identifier''.
+    (e) Facilitation of Organized Retail Crime.--
+            (1) In general.--The first paragraph of section 2315 of 
+        title 18, United States Code, as amended by subsection (c) of 
+        this section, is further amended by inserting ``, or 
+        facilitates such organized retail crime, including, but not 
+        limited to, facilitation through the operation of an online 
+        marketplace for the sale of goods and services, knowing or 
+        having reasonable cause to know that such organized retail 
+        crime is facilitated by such operation'' before ``; or'' at the 
+        end of the paragraph.
+            (2) Operator of an online marketplace.--Section 2315 of 
+        title 18, United States Code, is further amended by inserting 
+        before the last paragraph the following:
+    ``It is unlawful for an operator of an online marketplace to fail 
+to--
+            ``(1) expeditiously investigate when credible evidence of 
+        sales of goods or services acquired through organized retail 
+        crime on its online marketplace comes to its attention, and 
+        remove from the online marketplace or disable access to 
+        material from the online marketplace of sellers offering goods 
+        or services when the result of the investigation provides 
+        knowledge or a reasonable cause to know that the goods or 
+        services were acquired through organized retail crime, and 
+        maintain a record of all investigations for a minimum of three 
+        years;
+            ``(2) require the seller of property whose merchandise 
+        packaging identifies the property as being available from a 
+        particular or exclusive retail source, to post such identifying 
+        information conspicuously on the Internet site where other 
+        information about the property is posted; and
+            ``(3) in the case of each high volume seller--
+                    ``(A) maintain the following information for three 
+                years--
+                            ``(i) the name, telephone number, e-mail 
+                        address, legitimate physical address, any user 
+                        identification, and company name of the high-
+                        volume seller; and
+                            ``(ii) all transactions conducted by each 
+                        high-volume seller on the online marketplace 
+                        for the most recent three-year period; and
+                    ``(B) require any high-volume seller to--
+                            ``(i) conspicuously post its name, 
+                        telephone number, and legitimate address on the 
+                        Internet site where other information about the 
+                        property being sold by the high-volume seller 
+                        is posted; or
+                            ``(ii) provide, upon request of any 
+                        business that has a reasonable suspicion that 
+                        goods or services at the site were acquired 
+                        through organized retail crime, its name, 
+                        telephone number, and legitimate physical 
+                        address.''.
+    (f) Review and Amendment of Federal Sentencing Guidelines Related 
+to Organized Retail Crime.--
+            (1) Review and amendment.--The United States Sentencing 
+        Commission, pursuant to its authority under section 994 of 
+        title 28, United States Code, and in accordance with this 
+        section, shall review and, if appropriate, amend the Federal 
+        sentencing guidelines (including its policy statements) 
+        applicable to persons convicted of offenses involving organized 
+        retail crime under--
+                    (A) sections 1029, 2314, and 2315 of title 18, 
+                United States Code; and
+                    (B) any other relevant provision of the United 
+                States Code.
+            (2) Requirements.--In carrying out the requirements of this 
+        section, the United States Sentencing Commission shall--
+                    (A) ensure that the Federal sentencing guidelines 
+                (including its policy statements) reflect--
+                            (i) the serious nature of the offenses and 
+                        penalties referred to in this Act;
+                            (ii) the magnitude of organized retail 
+                        crime; and
+                            (iii) the need to deter, prevent, and 
+                        punish such offense;
+                    (B) consider the extent to which the Federal 
+                sentencing guidelines (including its policy statements) 
+                adequately address violations of the sections amended 
+                by this Act to sufficiently deter and punish such 
+                offenses;
+                    (C) maintain reasonable consistency with other 
+                relevant directives and sentencing guidelines;
+                    (D) account for any additional aggravating or 
+                mitigating circumstances that might justify exceptions 
+                to the generally applicable sentencing ranges; and
+                    (E) consider whether to provide a sentencing 
+                enhancement for those convicted of conduct proscribed 
+                by this Act, where such conduct involves--
+                            (i) organized retail crime;
+                            (ii) sale or resale of a product in an 
+                        online marketplace;
+                            (iii) a threat to public health and safety, 
+                        including but not limited to alteration of an 
+                        expiration date or of product ingredients;
+                            (iv) theft, conversion, alteration, or 
+                        removal of a product label;
+                            (v) alteration, transfer, theft, 
+                        conversion, counterfeiting, or reproduction of 
+                        a Universal Product Code label; and
+                            (vi) use of a fire or emergency exit.
+    (g) Civil Forfeiture.--
+            (1) Section 2315 of title 18, United States Code, is 
+        further amended by inserting before the last paragraph the 
+        following:
+    ``This section shall have the following civil forfeiture 
+provisions:
+            ``(1) Any property used, in any manner or part, to commit 
+        organized retail crime or the facilitation of organized retail 
+        crime shall be subject to forfeiture to the United States.
+            ``(2) The provisions of chapter 46 of this title relating 
+        to civil forfeitures, including section 983 of this title, 
+        shall extend to any seizure or civil forfeiture under this 
+        section. At the conclusion of the forfeiture proceedings, the 
+        court, unless otherwise requested by an agency of the United 
+        States, shall order that any forfeited article be returned to 
+        the rightful owner or otherwise disposed of according to law.
+            ``(3)(A) The court, in imposing sentence on a person 
+        convicted of an offense under this section, shall order, in 
+        addition to any other sentence imposed, that the person forfeit 
+        to the United States--
+                            ``(i) any property constituting or derived 
+                        from any proceeds the person obtained, directly 
+                        or indirectly, as the result of the offense of 
+                        organized retail crime or the facilitation of 
+                        organized retail crime; and
+                            ``(ii) any of the person's property used, 
+                        or intended to be used, in any manner or part, 
+                        to commit, facilitate, aid, or abet the 
+                        commission of either such offense.
+            ``(B) The forfeiture of property under subparagraph (A), 
+        including any seizure and disposition of the property and any 
+        related judicial or administrative proceeding, shall be 
+        governed by the procedures set forth in section 413 of the 
+        Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 
+        U.S.C. 853), other than subsection (d) of that section. 
+        Notwithstanding section 413(h) of that Act, at the conclusion 
+        of the forfeiture proceedings, the court shall order that any 
+        forfeited article or component of an article bearing or 
+        consisting of a counterfeit mark be destroyed.
+            ``(4) When a person is convicted of an offense under this 
+        section, the court, pursuant to sections 3556, 3663A, and 3664, 
+        shall order the person to pay restitution to the owner of the 
+        property and any other victim of the offense as an offense 
+        against property referred to in section 3663A(c)(1)(A)(ii).
+            ``(5) The term `victim', as used in paragraph (4), has the 
+        meaning given that term in section 3663A(a)(2).''.
+
+SEC. 4. ACTIONS AGAINST AN OPERATOR OF AN ONLINE MARKETPLACE.
+
+    (a) In General.--Any business whose goods or services were sold or 
+otherwise used in the facilitation of organized retail crime through 
+the operation of an online marketplace may bring a civil action against 
+the operator of the online marketplace for violations of section 3(e) 
+with respect to such goods and services in any district court of the 
+United States to enjoin further violation of this Act by the person or 
+entity and to recover damages for any loss resulting from such 
+violation.
+    (b) Subsequent Actions.--A final judgment or decree rendered in 
+favor of the United States in any criminal proceeding brought by the 
+United States under this Act shall stop the defendant from denying the 
+essential allegations of the criminal offense in any subsequent civil 
+proceeding brought by any business whose goods or services were sold or 
+otherwise used in an act of organized retail crime.
+
+SEC. 5. NO PREEMPTION OF STATE LAW.
+
+    No provision of this Act, including any amendment made by this Act, 
+shall be construed as indicating an intent on the part of Congress to 
+occupy the field in which that provision or amendment operates, 
+including criminal penalties, to the exclusion of any State law on the 
+same subject matter that would otherwise be within the authority of the 
+State, unless there is a positive conflict between that provision or 
+amendment and that State law so that the two cannot consistently stand 
+together.
+
+SEC. 6. EFFECTIVE DATE.
+
+    The amendments made by this Act take effect 120 days after the date 
+of the enactment of this Act.
+                                 <all>
+

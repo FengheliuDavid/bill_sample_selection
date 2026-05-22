@@ -1,0 +1,580 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3375 Introduced in House (IH)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 3375
+
+To amend the Fair Credit Reporting Act to provide for secure financial 
+                     data, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 21, 2005
+
+ Ms. Pryce of Ohio (for herself, Mr. Castle, and Mr. Moore of Kansas) 
+ introduced the following bill; which was referred to the Committee on 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Fair Credit Reporting Act to provide for secure financial 
+                     data, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Financial Data Security Act of 
+2005''.
+
+SEC. 2. DATA SECURITY SAFEGUARDS.
+
+    (a) In General.--The Fair Credit Reporting Act (15 U.S.C. 1681) is 
+amended by adding at the end the following new section:
+``Sec. 630. Data security safeguards
+    ``(a) Security Policies and Procedures.--Each consumer reporter 
+shall have an affirmative and continuing obligation to maintain 
+reasonable policies and procedures to protect the security and 
+confidentiality of sensitive financial account information and 
+sensitive financial identity information of any consumer that is 
+maintained or received by or on behalf of such consumer reporter 
+against any unauthorized use that is reasonably likely to result in 
+substantial inconvenience or substantial harm to such consumer.
+    ``(b) Investigation Requirements.--
+            ``(1) Protecting against identity theft.--
+                    ``(A) Investigation required.--If a consumer 
+                reporter is aware that a breach of data security has 
+                occurred, or is reasonably likely to have occurred, 
+                with respect to sensitive financial identity 
+                information maintained by or on behalf of the consumer 
+                reporter, the consumer reporter shall conduct an 
+                investigation to determine the likelihood that such 
+                information will be misused against any consumer to 
+                whom any of such information relates in a manner that 
+                would cause substantial inconvenience or substantial 
+                harm to any such consumer.
+                    ``(B) Scope of investigation.--An investigation 
+                conducted under subparagraph (A) shall be commensurate 
+                with the nature and the amount of the sensitive 
+                financial identity information that is subject to the 
+                breach of data security.
+                    ``(C) Factors to be considered.--In determining the 
+                likelihood that sensitive financial identity 
+                information that was the subject of a breach of data 
+                security has been or will be misused, the consumer 
+                reporter shall consider all available relevant facts, 
+                including whether the information that was subject to 
+                the breach was unencrypted or unredacted, or required 
+                technology to use that is not generally commercially 
+                available.
+            ``(2) Protecting against fraudulent transactions.--
+                    ``(A) Investigation required.--If a consumer 
+                reporter is aware that a breach of data security has 
+                occurred or is reasonably likely to have occurred with 
+                respect to sensitive financial account information, 
+                maintained by or on behalf of the consumer reporter, 
+                the consumer reporter shall conduct an investigation to 
+                determine the likelihood that such information will be 
+                misused against any consumer to whom any of such 
+                information relates to make 1 or more fraudulent 
+                transactions on a financial account to which the 
+                sensitive financial account information relates in a 
+                manner that would cause substantial inconvenience or 
+                substantial harm to such consumer.
+                    ``(B) Scope of investigation.--An investigation 
+                conducted under subparagraph (A) shall be commensurate 
+                with the nature and the amount of the sensitive 
+                financial account information that is subject to the 
+                breach of data security.
+                    ``(C) Factors to be considered.--In determining the 
+                likelihood that the sensitive financial account 
+                information that was the subject of a breach of data 
+                security has been or will be misused, the consumer 
+                reporter shall consider all available relevant facts, 
+                including whether--
+                            ``(i) the information that was subject to 
+                        the breach was unencrypted, unredacted, or 
+                        required technology to use that is not 
+                        generally commercially available; and
+                            ``(ii) on an ongoing basis, any security 
+                        programs used by, or on behalf of, the consumer 
+                        reporter have detected, or are likely to 
+                        detect, fraudulent transactions resulting from 
+                        the breach of data security.
+    ``(c) Notice Requirement.--
+            ``(1) Notice of potential identity theft risk.--In the case 
+        of any actual or reasonably likely breach of data security with 
+        respect to sensitive financial identity information for which 
+        an investigation is required under subsection (b)(1)(A), unless 
+        the consumer reporter determines (after conducting a reasonable 
+        investigation that meets the requirements of such subsection) 
+        that it is not reasonably likely that such information will be 
+        misused to commit financial fraud against any consumer to whom 
+        such sensitive financial identity information relates in a 
+        manner that would cause substantial inconvenience or 
+        substantial harm to such consumer, the consumer reporter shall 
+        provide notice, in the manner provided in subsection (e), to--
+                    ``(A) any appropriate law enforcement agency;
+                    ``(B) the appropriate functional regulatory agency 
+                for the consumer reporter;
+                    ``(C) if the information relates to a financial 
+                account provided to, maintained for, or serviced for 
+                any consumer by a person other than the consumer 
+                reporter, the person that provides, maintains, or 
+                services the financial account for the consumer;
+                    ``(D) if the consumer reporter determines that it 
+                is likely to be providing notice under this paragraph 
+                to 1,000 or more consumers for any breach of data 
+                security--
+                            ``(i) each nationwide consumer reporting 
+                        agency; and
+                            ``(ii) any other consumer reporting agency 
+                        that the consumer reporter identifies, or 
+                        expects to identify, in the notice provided to 
+                        the consumer under subparagraph (E);
+                    ``(E) any consumer to whom the sensitive financial 
+                identity information relates; and
+                    ``(F) if the sensitive financial identity 
+                information concerning any consumer is provided to, 
+                maintained by, or serviced by a person other than the 
+                consumer reporter, that person.
+            ``(2) Notice of potential fraudulent transaction risk.--In 
+        the case of any actual or reasonably likely breach of data 
+        security with respect to sensitive financial account 
+        information for which an investigation is required under 
+        subsection (b)(2)(A), unless the consumer reporter determines 
+        (after conducting a reasonable investigation that meets the 
+        requirements of such subparagraph) that it is not reasonably 
+        likely that such information will be misused against the 
+        consumers to whom such sensitive financial account information 
+        relates to make 1 or more fraudulent transactions on a 
+        financial account to which such information relates in a manner 
+        that would cause substantial inconvenience or substantial harm 
+        to any such consumer, the consumer reporter shall provide 
+        notice, in the manner provided in subsection (e), to--
+                    ``(A) an appropriate law enforcement agency;
+                    ``(B) the appropriate functional regulatory agency 
+                for the consumer reporter;
+                    ``(C) if the information relates to a financial 
+                account provided to, maintained for, or serviced for 
+                any consumer by a person other than the consumer 
+                reporter, the person that provides, maintains, or 
+                services the financial account for the consumer; and
+                    ``(D) subject to subsections (d)(2) and (e), any 
+                consumer to whom the sensitive financial account 
+                information relates.
+    ``(d) Investigation and Notice Requirements for Third Party 
+Agreements.--
+            ``(1) Contractual obligation required.--No consumer 
+        reporter may provide sensitive financial identity information 
+        or sensitive financial account information to a third party to 
+        receive, maintain, or service on behalf of the consumer 
+        reporter, unless such third party agrees that whenever the 
+        third party becomes aware that a breach of data security has 
+        occurred or is reasonably likely to have occurred with respect 
+        to such information received, maintained, or serviced by such 
+        third party, the third party shall be obligated--
+                    ``(A) to provide notice of the breach to the 
+                consumer reporter;
+                    ``(B) to conduct a joint investigation with the 
+                consumer reporter to determine the likelihood that such 
+                information will be misused against the consumers to 
+                whom the information relates in a manner that would 
+                cause substantial inconvenience or substantial harm to 
+                any such consumers; and
+                    ``(C) unless the consumer reporter and third party 
+                determine, after conducting a reasonable investigation, 
+                that it is not reasonably likely that such information 
+                will be misused to commit financial fraud against any 
+                consumer to whom any of such sensitive personal 
+                information relates in a manner that would cause 
+                substantial inconvenience or substantial harm to such 
+                consumer, to provide joint notice with the consumer 
+                reporter under paragraph (2).
+            ``(2) Joint notice requirement under certain 
+        circumstances.--In the case of any breach of data security 
+        involving a third party referred to in paragraph (1) for which 
+        a notice is required to be provided by a consumer reporter to a 
+        consumer under subsection (c)--
+                    ``(A) both the consumer reporter and any person 
+                that provides or maintains the financial account for 
+                the consumer shall be responsible for providing the 
+                notice under such subsection to the consumer jointly;
+                    ``(B) the notice shall--
+                            ``(i) clearly indicate on its face (such as 
+                        the envelope for mailed notices) the identity 
+                        of a person or consumer reporter that has the 
+                        direct relationship with the consumer; and
+                            ``(ii) clearly identify the consumer 
+                        reporter that directly suffered the breach of 
+                        data security and indicate the notice is being 
+                        provided to the consumer on account of such 
+                        breach; and
+                    ``(C) the consumer reporter shall be responsible 
+                for the reasonable actual costs of such notice, except 
+                as otherwise established by agreement.
+    ``(e) Time and Manner of Notices.--
+            ``(1) Prompt notice required.--Except as provided in 
+        paragraph (2), any notice required under subsection (c), 
+        including any joint notice in accordance with subsection 
+        (d)(2)(A), shall be made promptly following completion of 
+        reasonable measures undertaken to determine the scope of the 
+        breach of data security.
+            ``(2) Delay of notice for law enforcement purposes.--If a 
+        consumer reporter receives a written request from an 
+        appropriate law enforcement agency that is approved by a court 
+        of competent jurisdiction indicating that providing a 
+        particular notice to any consumer under this section would 
+        impede a criminal or civil investigation by that law 
+        enforcement agency, or an oral request from an appropriate law 
+        enforcement agency indicating that such a written request will 
+        be provided, the consumer reporter shall delay, or in the case 
+        of a foreign law enforcement agency may delay, providing such 
+        notice until--
+                    ``(A) the law enforcement agency informs the 
+                consumer reporter that such notice will no longer 
+                impede the investigation; or
+                    ``(B) the law enforcement agency fails to--
+                            ``(i) confirm that a continued delay is 
+                        necessary to avoid impeding such investigation; 
+                        or
+                            ``(ii) provide a written request within a 
+                        reasonable time following an oral request for 
+                        such delay.
+            ``(3) Order of notice.--The notices required under 
+        subsection (c), including any joint notice in accordance with 
+        subsection (d)(2)(A), shall be made in the order of the 
+        subparagraphs in paragraph (1) or (2) of subsection (c), as the 
+        case may be.
+            ``(4) Content of consumer notice.--Any notice required to 
+        be provided to a consumer under paragraph (1) or (2) of 
+        subsection (c), including any joint notice in accordance with 
+        subsection (d)(2)(A), shall include--
+                    ``(A) a clear and conspicuous heading or notice 
+                title on the envelope or transmission title indicating 
+                the nature of the notice, such as `LEGAL NOTICE OF DATA 
+                SECURITY BREACH';
+                    ``(B) a brief description of the breach of data 
+                security, including a statement of the types of 
+                sensitive financial account and sensitive financial 
+                identity information involved in such breach;
+                    ``(C) appropriate instructions to the consumer to 
+                mitigate against financial fraud; and
+                    ``(D) appropriate contact information that the 
+                consumer may use to obtain additional information.
+            ``(5) No duplicative notices required.--A consumer 
+        reporter, whether acting directly or jointly with a third party 
+        under subsection (d), shall not be required to provide more 
+        than 1 notice with respect to any breach of data security to 
+        any affected consumer, so long as such notice meets all the 
+        applicable requirements of this section.
+    ``(f) Financial Fraud Mitigation.--
+            ``(1) Free file monitoring.--Any consumer reporter that is 
+        required to provide notice to a consumer under subsection 
+        (c)(1), or that is deemed to be in compliance with such 
+        requirement by operation of subsection (g), shall offer and 
+        make available to the consumer, free of charge, a service that 
+        monitors nationwide credit activity regarding a consumer from a 
+        consumer reporting agency described in section 603(p).
+            ``(2) Joint rulemaking for safe harbor.--The Secretary of 
+        the Treasury, the Board of Governors of the Federal Reserve 
+        System, and the Commission shall jointly develop regulations, 
+        which shall be prescribed by all functional regulatory 
+        agencies, that, in any case in which--
+                    ``(A) free file monitoring is offered under 
+                paragraph (1) to a consumer;
+                    ``(B) subsequent to the offer, another party 
+                misuses sensitive financial identity information on the 
+                consumer obtained through the breach of data security 
+                (that gave rise to such offer) to commit identity theft 
+                against the consumer; and
+                    ``(C) at the time of such breach the consumer 
+                reporter maintained reasonable policies and procedures 
+                to comply with subsection (a),
+        exempts the consumer reporter from any liability under State 
+        common law for any loss or harm to the consumer occurring after 
+        the date of such offer, other than any direct pecuniary loss 
+        provided under such law, resulting from such misuse.
+    ``(g) Compliance With GLBA.--
+            ``(1) In general.--For the purposes of this section, any 
+        person subject to section 501(b) of title V of the Gramm-Leach-
+        Bliley Act shall be deemed to be in compliance with--
+                    ``(A) subsection (a) of this section, if the person 
+                is required to implement appropriate safeguards 
+                pursuant to regulations, guidelines, or guidance 
+                prescribed by or issued by an agency or authority in 
+                accordance with such subsection of the Gramm-Leach-
+                Bliley Act;
+                    ``(B) subsection (b) of this section, if the person 
+                is required to conduct investigations of breaches of 
+                information security pursuant to regulations, 
+                guidelines, or guidance prescribed by or issued by an 
+                agency or authority in accordance with such subsection 
+                of the Gramm-Leach-Bliley Act; and
+                    ``(C) subsection (c) of this section, if the person 
+                is required to implement a consumer notification 
+                program after breaches of such data safeguards pursuant 
+                to regulations, guidelines, or guidance prescribed by 
+                or issued by an agency or authority in accordance with 
+                section 501 of the Gramm-Leach-Bliley Act.
+            ``(2) Reciprocal compliance arrangements.--If, with respect 
+        to any person, or any agent of a person, who is subject to 
+        section 501(b) of the Gramm-Leach-Bliley Act, the regulations, 
+        guidelines, or guidance prescribed or issued pursuant to such 
+        section by the agencies or authorities described in section 509 
+        of the Gramm-Leach-Bliley Act, allow--
+                    ``(A) any requirement that such person comply with 
+                such section to be satisfied by the person's agent; or
+                    ``(B) any requirement that a person's agent comply 
+                with such section to be satisfied by the person,
+        such reciprocal compliance treatment for such person and agent 
+        shall also apply under subsections (a), (b), and (c) of this 
+        section in the same manner and to the same extent such 
+        treatment applies for purposes of such section 501(b), except 
+        as otherwise provided by any such agency or authority.
+    ``(h) Uniform Security Regulations.--
+            ``(1) Uniform standards.--The Secretary of the Treasury, 
+        the Board of Governors of the Federal Reserve System, and the 
+        Commission shall jointly--
+                    ``(A) develop appropriate standards and guidelines 
+                in furtherance of the policy of this section; and
+                    ``(B) prescribe regulations requiring each consumer 
+                reporter to establish reasonable policies and 
+                procedures implementing such standards and guidelines, 
+                consistent, as appropriate, with section 501(b) of 
+                title V of the Gramm-Leach-Bliley Act.
+            ``(2) Enforcement regulations.--Each of the functional 
+        regulatory agencies shall prescribe such regulations as may be 
+        necessary, consistent with the standards in paragraph (1), to 
+        carry out the purposes of this section with respect to the 
+        persons subject to the jurisdiction of such agency under 
+        subsection (i).
+            ``(3) Procedures and deadline.--
+                    ``(A) Procedures.--Regulations prescribed under 
+                this subsection shall be prescribed in accordance with 
+                applicable requirements of title 5, United States Code.
+                    ``(B) Deadline for initial regulations.--The 
+                regulations required to be prescribed under paragraph 
+                (1) shall be published in final form before the end of 
+                the 12-month period beginning on the date of the 
+                enactment of the Financial Data Security Act of 2005.
+                    ``(C) Deadline for enforcement regulations.--The 
+                regulations required to be prescribed under paragraph 
+                (2) shall be published in final form before the end of 
+                the 6-month period beginning on the date regulations 
+                described in subparagraph (B) are published in final 
+                form.
+                    ``(D) Authority to grant exceptions.--The 
+                regulations prescribed under paragraph (2) may include 
+                such additional exceptions to this section as are 
+                deemed by the functional regulatory agencies to be 
+                consistent with the purposes of this section.
+                    ``(E) Consultation and coordination.--The Secretary 
+                of the Treasury, the Board of Governors of the Federal 
+                Reserve System, and the Commission shall consult and 
+                coordinate with the other functional regulatory 
+                agencies to the extent appropriate in prescribing 
+                regulations under this subsection.
+            ``(4) Appropriate exemptions.--The Secretary of the 
+        Treasury, the Board, and the Commission, in consultation with 
+        the Administrator of the Small Business Administration, shall 
+        provide appropriate exemptions from requirements of this 
+        section relating to sensitive financial identity information 
+        for consumer reporter collectors that are small businesses.
+    ``(i) Administrative Enforcement.--Notwithstanding section 616, 
+617, or 621, this section and the regulations prescribed under this 
+section shall be enforced exclusively by the functional regulatory 
+agencies with respect to financial institutions and other persons 
+subject to jurisdiction of each such agency under applicable law, as 
+follows:
+            ``(1) Under section 8 of the Federal Deposit Insurance Act, 
+        in the case of--
+                    ``(A) national banks, Federal branches and Federal 
+                agencies of foreign banks, and any subsidiaries of such 
+                entities (except brokers, dealers, persons providing 
+                insurance, investment companies, and investment 
+                advisers), by the Comptroller of the Currency;
+                    ``(B) member banks of the Federal Reserve System 
+                (other than national banks), branches and agencies of 
+                foreign banks (other than Federal branches, Federal 
+                agencies, and insured State branches of foreign banks), 
+                commercial lending companies owned or controlled by 
+                foreign banks, organizations operating under section 25 
+                or 25A of the Federal Reserve Act, and bank holding 
+                companies and their nonbank subsidiaries or affiliates 
+                (except brokers, dealers, persons providing insurance, 
+                investment companies, and investment advisers), by the 
+                Board of Governors of the Federal Reserve System;
+                    ``(C) banks insured by the Federal Deposit 
+                Insurance Corporation (other than members of the 
+                Federal Reserve System), insured State branches of 
+                foreign banks, and any subsidiaries of such entities 
+                (except brokers, dealers, persons providing insurance, 
+                investment companies, and investment advisers), by the 
+                Board of Directors of the Federal Deposit Insurance 
+                Corporation; and
+                    ``(D) savings associations the deposits of which 
+                are insured by the Federal Deposit Insurance 
+                Corporation, and any subsidiaries of such savings 
+                associations (except brokers, dealers, persons 
+                providing insurance, investment companies, and 
+                investment advisers), by the Director of the Office of 
+                Thrift Supervision.
+            ``(2) Under the Federal Credit Union Act, by the Board of 
+        the National Credit Union Administration with respect to any 
+        federally insured credit union, and any subsidiaries of such an 
+        entity.
+            ``(3) Under the Securities Exchange Act of 1934, by the 
+        Securities and Exchange Commission with respect to any broker 
+        or dealer.
+            ``(4) Under the Investment Company Act of 1940, by the 
+        Securities and Exchange Commission with respect to investment 
+        companies.
+            ``(5) Under the Investment Advisers Act of 1940, by the 
+        Securities and Exchange Commission with respect to investment 
+        advisers registered with the Commission under such Act.
+            ``(6) Under State insurance law, in the case of any person 
+        engaged in the business of insurance, by the applicable State 
+        insurance authority of the State in which the person is 
+        domiciled.
+            ``(7) Under the Federal Trade Commission Act, by the 
+        Federal Trade Commission for any other person that is not 
+        subject to the jurisdiction of any agency or authority under 
+        paragraphs (1) through (6) of this subsection.
+    ``(j) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Breach of data security.--The term `breach of data 
+        security' means, with respect to sensitive financial account 
+        information or sensitive financial identity information that is 
+        maintained, received, serviced, or communicated by or on behalf 
+        of any financial institution--
+                    ``(A) an unauthorized acquisition of such 
+                information that could be used to commit financial 
+                fraud (such as identity theft or fraudulent 
+                transactions made on financial accounts); or
+                    ``(B) an unusual pattern of misuse of such 
+                information to commit financial fraud.
+            ``(2) Consumer reporter and related terms.--
+                    ``(A) Consumer report.--The term `consumer report' 
+                includes any written, oral, or other communication of 
+                any information by a consumer reporter bearing on a 
+                consumer's credit worthiness, credit standing, credit 
+                capacity, character, general reputation, personal 
+                characteristics, personal identifiers, financial 
+                account information, or mode of living.
+                    ``(B) Consumer reporting broker.--The term 
+                `consumer reporting broker' means any person which, for 
+                monetary fees, dues, or on a cooperative nonprofit 
+                basis, regularly engages in whole or in part in the 
+                practice of assembling or evaluating consumer credit 
+                information or other information on consumers for the 
+                purpose of furnishing consumer reports to third 
+                parties, and which uses any means or facility of 
+                interstate commerce for the purpose of preparing or 
+                furnishing consumer reports.
+                    ``(C) Consumer reporting collector.--The term 
+                `consumer reporting collector' means any person (other 
+                than a consumer reporting agency or a consumer 
+                reporting broker) which, for monetary fees, dues, or on 
+                a cooperative nonprofit basis, or otherwise, regularly 
+                engages in whole or in part in the practice of 
+                assembling or evaluating consumer reports or other 
+                information on consumers to provide or market or 
+                collect payment for products or services, and which 
+                uses any means or facility of interstate commerce for 
+                the purpose of preparing or using consumer reports.
+                    ``(D) Consumer reporter.--The term `consumer 
+                reporter' means any consumer reporting agency, consumer 
+                reporting broker, or consumer reporting collector.
+            ``(3) Financial institution.--The term `financial 
+        institution' means any consumer reporter who maintains, 
+        receives, services, or communicates sensitive financial account 
+        information or sensitive financial identity information on an 
+        ongoing basis for the purposes of engaging in interstate 
+        commerce.
+            ``(4) Functional regulatory agency.--The term `functional 
+        regulatory agency' means any agency described in subsection (i) 
+        with respect to the financial institutions and other persons 
+        subject to the jurisdiction of such agency.
+            ``(5) Nationwide consumer reporting agency.--The term 
+        `nationwide consumer reporting agency' means--
+                    ``(A) a consumer reporting agency described in 
+                section 603(p);
+                    ``(B) any person who notifies the Commission that 
+                the person reasonably expects to become a consumer 
+                reporting agency described in subsection (p) of section 
+                603 within a reasonable time; and
+                    ``(C) a consumer reporting agency described in 
+                section 603(w) that notifies the Commission that the 
+                person wishes to receive breach of data security 
+                notices under this section that involve information of 
+                the type maintained by such agency.
+            ``(6) Sensitive financial account information.--The term 
+        `sensitive financial account information' means a financial 
+        account number of a consumer, such as credit card number or 
+        debit card number, in combination with any security code, 
+        access code, password, or other personal identification 
+        information that would allow access to the consumer's financial 
+        account.
+            ``(7) Sensitive financial identity information.--The term 
+        `sensitive financial identity information' means the first and 
+        last name, the address, or the telephone number of a consumer, 
+        in combination with any of the following of the consumer:
+                    ``(A) Social Security number.
+                    ``(B) Driver's license number or equivalent State 
+                identification number.
+                    ``(C) Taxpayer identification number.''.
+    (b) Clerical Amendment.--The table of sections for the Fair Credit 
+Reporting Act is amended by inserting after the item relating to 
+section 629 the following new item:
+
+``630. Data security safeguards.''.
+    (c) Effective Date.--The provisions of section 630 of the Fair 
+Credit Reporting Act (as added by this section), other than subsection 
+(h) of such section, shall take effect on the earlier of--
+            (1) the date of publication of the regulations required 
+        under paragraph (3) of such subsection, with respect to any 
+        person under the jurisdiction of each regulatory agency 
+        publishing such regulations; or
+            (2) the end of the 24-month period beginning on the date of 
+        the enactment of this Act.
+
+SEC. 3. RELATION TO STATE LAWS.
+
+    Subsection (b) of section 625 of the Fair Credit Reporting Act (15 
+U.S.C. 1681t) is amended--
+            (1) by redesignating paragraphs (3), (4), and (5) as 
+        paragraphs (4), (5), and (6), respectively; and
+            (2) by inserting after paragraph (2) the following new 
+        paragraph:
+            ``(3) with respect to the responsibilities of any person--
+                    ``(A) to protect the security or confidentiality of 
+                information on consumers maintained by or on behalf of 
+                the person;
+                    ``(B) to safeguard such information from potential 
+                misuse;
+                    ``(C) to investigate and provide notices to 
+                consumers of any unauthorized access to information 
+                concerning the consumer, or the potential misuse of 
+                such information, for fraudulent purposes; and
+                    ``(D) to mitigate any loss or harm resulting from 
+                such unauthorized access or misuse.''.
+                                 <all>
+

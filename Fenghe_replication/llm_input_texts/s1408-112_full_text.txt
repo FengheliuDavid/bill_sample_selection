@@ -1,0 +1,1304 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1408 Reported in Senate (RS)]
+
+                                                       Calendar No. 310
+112th CONGRESS
+  2d Session
+                                S. 1408
+
+    To require Federal agencies, and persons engaged in interstate 
+    commerce, in possession of data containing sensitive personally 
+ identifiable information, to disclose any breach of such information.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 22, 2011
+
+Mrs. Feinstein introduced the following bill; which was read twice and 
+               referred to the Committee on the Judiciary
+
+                            February 6, 2012
+
+                Reported by Mr. Leahy, with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To require Federal agencies, and persons engaged in interstate 
+    commerce, in possession of data containing sensitive personally 
+ identifiable information, to disclose any breach of such information.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+<DELETED>SECTION 1. SHORT TITLE.</DELETED>
+
+<DELETED>    This Act may be cited as the ``Data Breach Notification 
+Act of 2011''.</DELETED>
+
+<DELETED>SEC. 2. NOTICE TO INDIVIDUALS.</DELETED>
+
+<DELETED>    (a) In General.--Any agency, or business entity engaged in 
+interstate commerce, that uses, accesses, transmits, stores, disposes 
+of or collects sensitive personally identifiable information shall, 
+following the discovery of a security breach of such information notify 
+any resident of the United States whose sensitive personally 
+identifiable information has been, or is reasonably believed to have 
+been, accessed, or acquired.</DELETED>
+<DELETED>    (b) Obligation of Owner or Licensee.--</DELETED>
+        <DELETED>    (1) Notice to owner or licensee.--Any agency, or 
+        business entity engaged in interstate commerce, that uses, 
+        accesses, transmits, stores, disposes of, or collects sensitive 
+        personally identifiable information that the agency or business 
+        entity does not own or license shall notify the owner or 
+        licensee of the information following the discovery of a 
+        security breach involving such information.</DELETED>
+        <DELETED>    (2) Notice by owner, licensee or other designated 
+        third party.--Nothing in this Act shall prevent or abrogate an 
+        agreement between an agency or business entity required to give 
+        notice under this section and a designated third party, 
+        including an owner or licensee of the sensitive personally 
+        identifiable information subject to the security breach, to 
+        provide the notifications required under subsection 
+        (a).</DELETED>
+        <DELETED>    (3) Business entity relieved from giving notice.--
+        A business entity obligated to give notice under subsection (a) 
+        shall be relieved of such obligation if an owner or licensee of 
+        the sensitive personally identifiable information subject to 
+        the security breach, or other designated third party, provides 
+        such notification.</DELETED>
+<DELETED>    (c) Timeliness of Notification.--</DELETED>
+        <DELETED>    (1) In general.--All notifications required under 
+        this section shall be made without unreasonable delay following 
+        the discovery by the agency or business entity of a security 
+        breach.</DELETED>
+        <DELETED>    (2) Reasonable delay.--Reasonable delay under this 
+        subsection may include any time necessary to determine the 
+        scope of the security breach, prevent further disclosures, and 
+        restore the reasonable integrity of the data system and provide 
+        notice to law enforcement when required.</DELETED>
+        <DELETED>    (3) Burden of proof.--The agency, business entity, 
+        owner, or licensee required to provide notification under this 
+        section shall have the burden of demonstrating that all 
+        notifications were made as required under this Act, including 
+        evidence demonstrating the reasons for any delay.</DELETED>
+<DELETED>    (d) Delay of Notification Authorized for Law Enforcement 
+Purposes.--</DELETED>
+        <DELETED>    (1) In general.--If a Federal law enforcement 
+        agency determines that the notification required under this 
+        section would impede a criminal investigation, such 
+        notification shall be delayed upon written notice from such 
+        Federal law enforcement agency to the agency or business entity 
+        that experienced the breach.</DELETED>
+        <DELETED>    (2) Extended delay of notification.--If the 
+        notification required under subsection (a) is delayed pursuant 
+        to paragraph (1), an agency or business entity shall give 
+        notice 30 days after the day such law enforcement delay was 
+        invoked unless a Federal law enforcement agency provides 
+        written notification that further delay is necessary.</DELETED>
+        <DELETED>    (3) Law enforcement immunity.--No cause of action 
+        shall lie in any court against any law enforcement agency for 
+        acts relating to the delay of notification for law enforcement 
+        purposes under this Act.</DELETED>
+
+<DELETED>SEC. 3. EXEMPTIONS.</DELETED>
+
+<DELETED>    (a) Exemption for National Security and Law Enforcement.--
+</DELETED>
+        <DELETED>    (1) In general.--Section 2 shall not apply to an 
+        agency or business entity if the agency or business entity 
+        certifies, in writing, that notification of the security breach 
+        as required by section 2 reasonably could be expected to--
+        </DELETED>
+                <DELETED>    (A) cause damage to the national security; 
+                or</DELETED>
+                <DELETED>    (B) hinder a law enforcement investigation 
+                or the ability of the agency to conduct law enforcement 
+                investigations.</DELETED>
+        <DELETED>    (2) Limits on certifications.--An agency or 
+        business entity may not execute a certification under paragraph 
+        (1) to--</DELETED>
+                <DELETED>    (A) conceal violations of law, 
+                inefficiency, or administrative error;</DELETED>
+                <DELETED>    (B) prevent embarrassment to a business 
+                entity, organization, or agency; or</DELETED>
+                <DELETED>    (C) restrain competition.</DELETED>
+        <DELETED>    (3) Notice.--In every case in which an agency or 
+        business entity issues a certification under paragraph (1), the 
+        certification, accompanied by a description of the factual 
+        basis for the certification, shall be immediately provided to 
+        the United States Secret Service.</DELETED>
+        <DELETED>    (4) Secret service review of certifications.--
+        </DELETED>
+                <DELETED>    (A) In general.--The United States Secret 
+                Service may review a certification provided by an 
+                agency under paragraph (3), and shall review a 
+                certification provided by a business entity under 
+                paragraph (3), to determine whether an exemption under 
+                paragraph (1) is merited. Such review shall be 
+                completed not later than 10 business days after the 
+                date of receipt of the certification, except as 
+                provided in paragraph (5)(C).</DELETED>
+                <DELETED>    (B) Notice.--Upon completing a review 
+                under subparagraph (A) the United States Secret Service 
+                shall immediately notify the agency or business entity, 
+                in writing, of its determination of whether an 
+                exemption under paragraph (1) is merited.</DELETED>
+                <DELETED>    (C) Exemption.--The exemption under 
+                paragraph (1) shall not apply if the United States 
+                Secret Service determines under this paragraph that the 
+                exemption is not merited.</DELETED>
+        <DELETED>    (5) Additional authority of the secret service.--
+        </DELETED>
+                <DELETED>    (A) In general.--In determining under 
+                paragraph (4) whether an exemption under paragraph (1) 
+                is merited, the United States Secret Service may 
+                request additional information from the agency or 
+                business entity regarding the basis for the claimed 
+                exemption, if such additional information is necessary 
+                to determine whether the exemption is 
+                merited.</DELETED>
+                <DELETED>    (B) Required compliance.--Any agency or 
+                business entity that receives a request for additional 
+                information under subparagraph (A) shall cooperate with 
+                any such request.</DELETED>
+                <DELETED>    (C) Timing.--If the United States Secret 
+                Service requests additional information under 
+                subparagraph (A), the United States Secret Service 
+                shall notify the agency or business entity not later 
+                than 10 business days after the date of receipt of the 
+                additional information whether an exemption under 
+                paragraph (1) is merited.</DELETED>
+<DELETED>    (b) Safe Harbor.--</DELETED>
+        <DELETED>    (1) In general.--An agency or business entity 
+        shall be exempt from the notice requirements under section 2, 
+        if--</DELETED>
+                <DELETED>    (A) a risk assessment concludes that there 
+                is no significant risk that a security breach has 
+                resulted in, or will result in, harm to the individual 
+                whose sensitive personally identifiable information was 
+                subject to the security breach;</DELETED>
+                <DELETED>    (B) without unreasonable delay, but not 
+                later than 45 days after the discovery of a security 
+                breach (unless extended by the United States Secret 
+                Service), the agency or business entity notifies the 
+                United States Secret Service, in writing, of--
+                </DELETED>
+                        <DELETED>    (i) the results of the risk 
+                        assessment; and</DELETED>
+                        <DELETED>    (ii) its decision to invoke the 
+                        risk assessment exemption; and</DELETED>
+                <DELETED>    (C) the United States Secret Service does 
+                not indicate, in writing, and not later than 10 
+                business days after the date of receipt of the decision 
+                described in subparagraph (B)(ii), that notice should 
+                be given.</DELETED>
+        <DELETED>    (2) Presumptions.--There shall be a presumption 
+        that no significant risk of harm to the individual whose 
+        sensitive personally identifiable information was subject to a 
+        security breach if such information--</DELETED>
+                <DELETED>    (A) was encrypted; or</DELETED>
+                <DELETED>    (B) was rendered indecipherable through 
+                the use of best practices or methods, such as 
+                redaction, access controls, or other such mechanisms, 
+                that are widely accepted as an effective industry 
+                practice, or an effective industry standard.</DELETED>
+<DELETED>    (c) Financial Fraud Prevention Exemption.--</DELETED>
+        <DELETED>    (1) In general.--A business entity will be exempt 
+        from the notice requirement under section 2 if the business 
+        entity utilizes or participates in a security program that--
+        </DELETED>
+                <DELETED>    (A) is designed to block the use of the 
+                sensitive personally identifiable information to 
+                initiate unauthorized financial transactions before 
+                they are charged to the account of the individual; 
+                and</DELETED>
+                <DELETED>    (B) provides for notice to affected 
+                individuals after a security breach that has resulted 
+                in fraud or unauthorized transactions.</DELETED>
+        <DELETED>    (2) Limitation.--The exemption by this subsection 
+        does not apply if--</DELETED>
+                <DELETED>    (A) the information subject to the 
+                security breach includes sensitive personally 
+                identifiable information, other than a credit card 
+                number or credit card security code, of any type; 
+                or</DELETED>
+                <DELETED>    (B) the information subject to the 
+                security breach includes both the individual's credit 
+                card number and the individual's first and last 
+                name.</DELETED>
+
+<DELETED>SEC. 4. METHODS OF NOTICE.</DELETED>
+
+<DELETED>    An agency, or business entity shall be in compliance with 
+section 2 if it provides both:</DELETED>
+        <DELETED>    (1) Individual notice.--</DELETED>
+                <DELETED>    (A) Written notification to the last known 
+                home mailing address of the individual in the records 
+                of the agency or business entity;</DELETED>
+                <DELETED>    (B) telephone notice to the individual 
+                personally; or</DELETED>
+                <DELETED>    (C) e-mail notice, if the individual has 
+                consented to receive such notice and the notice is 
+                consistent with the provisions permitting electronic 
+                transmission of notices under section 101 of the 
+                Electronic Signatures in Global and National Commerce 
+                Act (15 U.S.C. 7001).</DELETED>
+        <DELETED>    (2) Media notice.--Notice to major media outlets 
+        serving a State or jurisdiction, if the number of residents of 
+        such State whose sensitive personally identifiable information 
+        was, or is reasonably believed to have been, acquired by an 
+        unauthorized person exceeds 5,000.</DELETED>
+
+<DELETED>SEC. 5. CONTENT OF NOTIFICATION.</DELETED>
+
+<DELETED>    (a) In General.--Regardless of the method by which notice 
+is provided to individuals under section 4, such notice shall include, 
+to the extent possible--</DELETED>
+        <DELETED>    (1) a description of the categories of sensitive 
+        personally identifiable information that was, or is reasonably 
+        believed to have been, acquired by an unauthorized 
+        person;</DELETED>
+        <DELETED>    (2) a toll-free number--</DELETED>
+                <DELETED>    (A) that the individual may use to contact 
+                the agency or business entity, or the agent of the 
+                agency or business entity; and</DELETED>
+                <DELETED>    (B) from which the individual may learn 
+                what types of sensitive personally identifiable 
+                information the agency or business entity maintained 
+                about that individual; and</DELETED>
+        <DELETED>    (3) the toll-free contact telephone numbers and 
+        addresses for the major credit reporting agencies.</DELETED>
+<DELETED>    (b) Additional Content.--Notwithstanding section 10, a 
+State may require that a notice under subsection (a) shall also include 
+information regarding victim protection assistance provided for by that 
+State.</DELETED>
+
+<DELETED>SEC. 6. COORDINATION OF NOTIFICATION WITH CREDIT REPORTING 
+              AGENCIES.</DELETED>
+
+<DELETED>    If an agency or business entity is required to provide 
+notification to more than 5,000 individuals under section 2(a), the 
+agency or business entity shall also notify all consumer reporting 
+agencies that compile and maintain files on consumers on a nationwide 
+basis (as defined in section 603(p) of the Fair Credit Reporting Act 
+(15 U.S.C. 1681a(p))) of the timing and distribution of the notices. 
+Such notice shall be given to the consumer credit reporting agencies 
+without unreasonable delay and, if it will not delay notice to the 
+affected individuals, prior to the distribution of notices to the 
+affected individuals.</DELETED>
+
+<DELETED>SEC. 7. NOTICE TO LAW ENFORCEMENT.</DELETED>
+
+<DELETED>    (a) Secret Service.--Any business entity or agency shall 
+notify the United States Secret Service of the fact that a security 
+breach has occurred if--</DELETED>
+        <DELETED>    (1) the number of individuals whose sensitive 
+        personally identifying information was, or is reasonably 
+        believed to have been acquired by an unauthorized person 
+        exceeds 10,000;</DELETED>
+        <DELETED>    (2) the security breach involves a database, 
+        networked or integrated databases, or other data system 
+        containing the sensitive personally identifiable information of 
+        more than 1,000,000 individuals nationwide;</DELETED>
+        <DELETED>    (3) the security breach involves databases owned 
+        by the Federal Government; or</DELETED>
+        <DELETED>    (4) the security breach involves primarily 
+        sensitive personally identifiable information of individuals 
+        known to the agency or business entity to be employees and 
+        contractors of the Federal Government involved in national 
+        security or law enforcement.</DELETED>
+<DELETED>    (b) Notice to Other Law Enforcement Agencies.--The United 
+States Secret Service shall be responsible for notifying--</DELETED>
+        <DELETED>    (1) the Federal Bureau of Investigation, if the 
+        security breach involves espionage, foreign 
+        counterintelligence, information protected against unauthorized 
+        disclosure for reasons of national defense or foreign 
+        relations, or Restricted Data (as that term is defined in 
+        section 11y of the Atomic Energy Act of 1954 (42 U.S.C. 
+        2014(y))), except for offenses affecting the duties of the 
+        United States Secret Service under section 3056(a) of title 18, 
+        United States Code;</DELETED>
+        <DELETED>    (2) the United States Postal Inspection Service, 
+        if the security breach involves mail fraud; and</DELETED>
+        <DELETED>    (3) the attorney general of each State affected by 
+        the security breach.</DELETED>
+<DELETED>    (c) Timing of Notices.--The notices required under this 
+section shall be delivered as follows:</DELETED>
+        <DELETED>    (1) Notice under subsection (a) shall be delivered 
+        as promptly as possible, but not later than 14 days after 
+        discovery of the events requiring notice.</DELETED>
+        <DELETED>    (2) Notice under subsection (b) shall be delivered 
+        not later than 14 days after the United States Secret Service 
+        receives notice of a security breach from an agency or business 
+        entity.</DELETED>
+
+<DELETED>SEC. 8. ENFORCEMENT.</DELETED>
+
+<DELETED>    (a) Civil Actions by the Attorney General.--The Attorney 
+General may bring a civil action in the appropriate United States 
+district court against any business entity that engages in conduct 
+constituting a violation of this Act and, upon proof of such conduct by 
+a preponderance of the evidence, such business entity shall be subject 
+to a civil penalty of not more than $1,000 per day per individual whose 
+sensitive personally identifiable information was, or is reasonably 
+believed to have been, accessed or acquired by an unauthorized person, 
+up to a maximum of $1,000,000 per violation, unless such conduct is 
+found to be willful or intentional.</DELETED>
+<DELETED>    (b) Injunctive Actions by the Attorney General.--
+</DELETED>
+        <DELETED>    (1) In general.--If it appears that a business 
+        entity has engaged, or is engaged, in any act or practice 
+        constituting a violation of this Act, the Attorney General may 
+        petition an appropriate district court of the United States for 
+        an order--</DELETED>
+                <DELETED>    (A) enjoining such act or practice; 
+                or</DELETED>
+                <DELETED>    (B) enforcing compliance with this 
+                Act.</DELETED>
+        <DELETED>    (2) Issuance of order.--A court may issue an order 
+        under paragraph (1), if the court finds that the conduct in 
+        question constitutes a violation of this Act.</DELETED>
+<DELETED>    (c) Other Rights and Remedies.--The rights and remedies 
+available under this Act are cumulative and shall not affect any other 
+rights and remedies available under law.</DELETED>
+<DELETED>    (d) Fraud Alert.--Section 605A(b)(1) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681c-1(b)(1)) is amended by inserting ``, or 
+evidence that the consumer has received notice that the consumer's 
+financial information has or may have been compromised,'' after 
+``identity theft report''.</DELETED>
+
+<DELETED>SEC. 9. ENFORCEMENT BY STATE ATTORNEYS GENERAL.</DELETED>
+
+<DELETED>    (a) In General.--</DELETED>
+        <DELETED>    (1) Civil actions.--In any case in which the 
+        attorney general of a State or any State or local law 
+        enforcement agency authorized by the State attorney general or 
+        by State statute to prosecute violations of consumer protection 
+        law, has reason to believe that an interest of the residents of 
+        that State has been or is threatened or adversely affected by 
+        the engagement of a business entity in a practice that is 
+        prohibited under this Act, the State or the State or local law 
+        enforcement agency on behalf of the residents of the agency's 
+        jurisdiction, may bring a civil action on behalf of the 
+        residents of the State or jurisdiction in a district court of 
+        the United States of appropriate jurisdiction or any other 
+        court of competent jurisdiction, including a State court, to--
+        </DELETED>
+                <DELETED>    (A) enjoin that practice;</DELETED>
+                <DELETED>    (B) enforce compliance with this Act; 
+                or</DELETED>
+                <DELETED>    (C) obtain civil penalties of not more 
+                than $1,000 per day per individual whose sensitive 
+                personally identifiable information was, or is 
+                reasonably believed to have been, accessed or acquired 
+                by an unauthorized person, up to a maximum of 
+                $1,000,000 per violation, unless such conduct is found 
+                to be willful or intentional.</DELETED>
+        <DELETED>    (2) Notice.--</DELETED>
+                <DELETED>    (A) In general.--Before filing an action 
+                under paragraph (1), the attorney general of the State 
+                involved shall provide to the Attorney General of the 
+                United States--</DELETED>
+                        <DELETED>    (i) written notice of the action; 
+                        and</DELETED>
+                        <DELETED>    (ii) a copy of the complaint for 
+                        the action.</DELETED>
+                <DELETED>    (B) Exemption.--</DELETED>
+                        <DELETED>    (i) In general.--Subparagraph (A) 
+                        shall not apply with respect to the filing of 
+                        an action by an attorney general of a State 
+                        under this Act, if the State attorney general 
+                        determines that it is not feasible to provide 
+                        the notice described in such subparagraph 
+                        before the filing of the action.</DELETED>
+                        <DELETED>    (ii) Notification.--In an action 
+                        described in clause (i), the attorney general 
+                        of a State shall provide notice and a copy of 
+                        the complaint to the Attorney General at the 
+                        time the State attorney general files the 
+                        action.</DELETED>
+<DELETED>    (b) Federal Proceedings.--Upon receiving notice under 
+subsection (a)(2), the Attorney General shall have the right to--
+</DELETED>
+        <DELETED>    (1) move to stay the action, pending the final 
+        disposition of a pending Federal proceeding or 
+        action;</DELETED>
+        <DELETED>    (2) initiate an action in the appropriate United 
+        States district court under section 8 and move to consolidate 
+        all pending actions, including State actions, in such 
+        court;</DELETED>
+        <DELETED>    (3) intervene in an action brought under 
+        subsection (a)(2); and</DELETED>
+        <DELETED>    (4) file petitions for appeal.</DELETED>
+<DELETED>    (c) Pending Proceedings.--If the Attorney General has 
+instituted a proceeding or action for a violation of this Act or any 
+regulations thereunder, no attorney general of a State may, during the 
+pendency of such proceeding or action, bring an action under this Act 
+against any defendant named in such criminal proceeding or civil action 
+for any violation that is alleged in that proceeding or 
+action.</DELETED>
+<DELETED>    (d) Rule of Construction.--For purposes of bringing any 
+civil action under subsection (a), nothing in this Act regarding 
+notification shall be construed to prevent an attorney general of a 
+State from exercising the powers conferred on such attorney general by 
+the laws of that State to--</DELETED>
+        <DELETED>    (1) conduct investigations;</DELETED>
+        <DELETED>    (2) administer oaths or affirmations; or</DELETED>
+        <DELETED>    (3) compel the attendance of witnesses or the 
+        production of documentary and other evidence.</DELETED>
+<DELETED>    (e) Venue; Service of Process.--</DELETED>
+        <DELETED>    (1) Venue.--Any action brought under subsection 
+        (a) may be brought in--</DELETED>
+                <DELETED>    (A) the district court of the United 
+                States that meets applicable requirements relating to 
+                venue under section 1391 of title 28, United States 
+                Code; or</DELETED>
+                <DELETED>    (B) another court of competent 
+                jurisdiction.</DELETED>
+        <DELETED>    (2) Service of process.--In an action brought 
+        under subsection (a), process may be served in any district in 
+        which the defendant--</DELETED>
+                <DELETED>    (A) is an inhabitant; or</DELETED>
+                <DELETED>    (B) may be found.</DELETED>
+<DELETED>    (f) No Private Cause of Action.--Nothing in this Act 
+establishes a private cause of action against a business entity for 
+violation of any provision of this Act.</DELETED>
+
+<DELETED>SEC. 10. EFFECT ON FEDERAL AND STATE LAW.</DELETED>
+
+<DELETED>    The provisions of this Act shall supersede any other 
+provision of Federal law or any provision of law of any State relating 
+to notification by a business entity engaged in interstate commerce or 
+an agency of a security breach, except as provided in section 
+5(b).</DELETED>
+
+<DELETED>SEC. 11. AUTHORIZATION OF APPROPRIATIONS.</DELETED>
+
+<DELETED>    There are authorized to be appropriated such sums as may 
+be necessary to cover the costs incurred by the United States Secret 
+Service to carry out investigations and risk assessments of security 
+breaches as required under this Act.</DELETED>
+
+<DELETED>SEC. 12. REPORTING ON RISK ASSESSMENT EXEMPTIONS.</DELETED>
+
+<DELETED>    (a) In General.--The United States Secret Service shall 
+report to Congress not later than 18 months after the date of enactment 
+of this Act, and upon the request by Congress thereafter, on--
+</DELETED>
+        <DELETED>    (1) the number and nature of the security breaches 
+        described in the notices filed by those business entities 
+        invoking the risk assessment exemption under section 3(b) of 
+        this Act and the response of the United States Secret Service 
+        to such notices; and</DELETED>
+        <DELETED>    (2) the number and nature of security breaches 
+        subject to the national security and law enforcement exemptions 
+        under section 3(a) of this Act.</DELETED>
+<DELETED>    (b) Report.--Any report submitted under subsection (a) 
+shall not disclose the contents of any risk assessment provided to the 
+United States Secret Service under this Act.</DELETED>
+
+<DELETED>SEC. 13. DEFINITIONS.</DELETED>
+
+<DELETED>    In this Act, the following definitions shall 
+apply:</DELETED>
+        <DELETED>    (1) Agency.--The term ``agency'' has the same 
+        meaning given such term in section 551 of title 5, United 
+        States Code.</DELETED>
+        <DELETED>    (2) Affiliate.--The term ``affiliate'' means 
+        persons related by common ownership or by corporate 
+        control.</DELETED>
+        <DELETED>    (3) Business entity.--The term ``business entity'' 
+        means any organization, corporation, trust, partnership, sole 
+        proprietorship, unincorporated association, venture established 
+        to make a profit, or nonprofit, and any contractor, 
+        subcontractor, affiliate, or licensee thereof engaged in 
+        interstate commerce.</DELETED>
+        <DELETED>    (4) Encrypted.--The term ``encrypted''--</DELETED>
+                <DELETED>    (A) means the protection of data in 
+                electronic form, in storage or in transit, using an 
+                encryption technology that has been adopted by an 
+                established standards setting body which renders such 
+                data indecipherable in the absence of associated 
+                cryptographic keys necessary to enable decryption of 
+                such data; and</DELETED>
+                <DELETED>    (B) includes appropriate management and 
+                safeguards of such cryptographic keys so as to protect 
+                the integrity of the encryption.</DELETED>
+        <DELETED>    (5) Personally identifiable information.--The term 
+        ``personally identifiable information'' means any information, 
+        or compilation of information, in electronic or digital form 
+        serving as a means of identification, as defined by section 
+        1028(d)(7) of title 18, United State Code.</DELETED>
+        <DELETED>    (6) Security breach.--</DELETED>
+                <DELETED>    (A) In general.--The term ``security 
+                breach'' means compromise of the security, 
+                confidentiality, or integrity of computerized data 
+                through misrepresentation or actions that result in, or 
+                there is a reasonable basis to conclude has resulted 
+                in, acquisition of or access to sensitive personally 
+                identifiable information that is unauthorized or in 
+                excess of authorization.</DELETED>
+                <DELETED>    (B) Exclusion.--The term ``security 
+                breach'' does not include--</DELETED>
+                        <DELETED>    (i) a good faith acquisition of 
+                        sensitive personally identifiable information 
+                        by a business entity or agency, or an employee 
+                        or agent of a business entity or agency, if the 
+                        sensitive personally identifiable information 
+                        is not subject to further unauthorized 
+                        disclosure; or</DELETED>
+                        <DELETED>    (ii) the release of a public 
+                        record not otherwise subject to confidentiality 
+                        or nondisclosure requirements.</DELETED>
+        <DELETED>    (7) Sensitive personally identifiable 
+        information.--The term ``sensitive personally identifiable 
+        information'' means any information or compilation of 
+        information, in electronic or digital form that includes--
+        </DELETED>
+                <DELETED>    (A) an individual's first and last name or 
+                first initial and last name in combination with any 1 
+                of the following data elements:</DELETED>
+                        <DELETED>    (i) A non-truncated Social 
+                        Security number, driver's license number, 
+                        passport number, or alien registration 
+                        number.</DELETED>
+                        <DELETED>    (ii) Any 2 of the 
+                        following:</DELETED>
+                                <DELETED>    (I) Home address or 
+                                telephone number.</DELETED>
+                                <DELETED>    (II) Mother's maiden name, 
+                                if identified as such.</DELETED>
+                                <DELETED>    (III) Month, day, and year 
+                                of birth.</DELETED>
+                        <DELETED>    (iii) Unique biometric data such 
+                        as a finger print, voice print, a retina or 
+                        iris image, or any other unique physical 
+                        representation.</DELETED>
+                        <DELETED>    (iv) A unique account identifier, 
+                        electronic identification number, user name, or 
+                        routing code in combination with any associated 
+                        security code, access code, or password that is 
+                        required for an individual to obtain money, 
+                        goods, services or any other thing of value; 
+                        or</DELETED>
+                <DELETED>    (B) a financial account number or credit 
+                or debit card number in combination with any security 
+                code, access code or password that is required for an 
+                individual to obtain credit, withdraw funds, or engage 
+                in a financial transaction.</DELETED>
+
+<DELETED>SEC. 14. EFFECTIVE DATE.</DELETED>
+
+<DELETED>    This Act shall take effect on the expiration of the date 
+which is 90 days after the date of enactment of this Act.</DELETED>
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the Data Breach Notification Act of 2011.
+
+SEC. 2. NOTICE TO INDIVIDUALS.
+
+    (a) In General.--Any agency, or business entity engaged in 
+interstate commerce, that uses, accesses, transmits, stores, disposes 
+of or collects sensitive personally identifiable information shall, 
+following the discovery of a security breach of such information notify 
+any resident of the United States whose sensitive personally 
+identifiable information has been, or is reasonably believed to have 
+been, accessed, or acquired.
+    (b) Obligation of Owner or Licensee.--
+            (1) Notice to owner or licensee.--Any agency, or business 
+        entity engaged in interstate commerce, that uses, accesses, 
+        transmits, stores, disposes of, or collects sensitive 
+        personally identifiable information that the agency or business 
+        entity does not own or license shall notify the owner or 
+        licensee of the information following the discovery of a 
+        security breach involving such information.
+            (2) Notice by owner, licensee or other designated third 
+        party.--Nothing in this Act shall prevent or abrogate an 
+        agreement between an agency or business entity required to give 
+        notice under this section and a designated third party, 
+        including an owner or licensee of the sensitive personally 
+        identifiable information subject to the security breach, to 
+        provide the notifications required under subsection (a).
+            (3) Business entity relieved from giving notice.--A 
+        business entity obligated to give notice under subsection (a) 
+        shall be relieved of such obligation if an owner or licensee of 
+        the sensitive personally identifiable information subject to 
+        the security breach, or other designated third party, provides 
+        such notification.
+    (c) Timeliness of Notification.--
+            (1) In general.--All notifications required under this 
+        section shall be made without unreasonable delay following the 
+        discovery by the agency or business entity of a security 
+        breach.
+            (2) Reasonable delay.--
+                    (A) In general.--Reasonable delay under this 
+                subsection may include any time necessary to determine 
+                the scope of the security breach, prevent further 
+                disclosures, conduct the risk assessment described in 
+                section 3(b)(1), and restore the reasonable integrity 
+                of the data system and provide notice to law 
+                enforcement when required.
+                    (B) Exception.--
+                            (i) In general.--Except as provided in 
+                        section 3, delay of notification shall not 
+                        exceed 60 days following the discovery of the 
+                        security breach, unless--
+                                    (I) the business entity or agency 
+                                requests an extension of time from the 
+                                Federal Trade Commission; and
+                                    (II) the Federal Trade Commission 
+                                determines that the additional time 
+                                requested under subclause (II) is 
+                                reasonably necessary.
+                            (ii) Additional time.--If a request for 
+                        delay is approved under clause (i), the agency 
+                        or business entity that requested the delay may 
+                        delay the time period for notification for an 
+                        additional period of 30 days. Successive 
+                        requests for delay are not prohibited.
+            (3) Burden of proof.--The agency, business entity, owner, 
+        or licensee required to provide notification under this section 
+        shall have the burden of demonstrating that all notifications 
+        were made as required under this Act, including evidence 
+        demonstrating the reasons for any delay.
+    (d) Delay of Notification Authorized for Law Enforcement or 
+National Security Purposes.--
+            (1) In general.--If the United States Secret Service or the 
+        Federal Bureau of Investigation determines that a notification 
+        required under this section would impede a criminal 
+        investigation, or national security activity, such notification 
+        shall be delayed upon written notice from the United States 
+        Secret Service or the Federal Bureau of Investigation to the 
+        agency or business entity that experienced the security breach. 
+        The notification from the United States Secret Service or the 
+        Federal Bureau of Investigation shall specify in writing the 
+        period of delay requested for law enforcement or national 
+        security purposes.
+            (2) Extended delay of notification.--
+                    (A) In general.--If the notification required under 
+                subsection (a) is delayed pursuant to paragraph (1), an 
+                agency or business entity shall give notice 30 days 
+                after the day such law enforcement delay was invoked 
+                unless a Federal law enforcement or intelligence agency 
+                provides written notification that further delay is 
+                necessary.
+                    (B) Written justification requirements.--
+                            (i) United states secret service.--If the 
+                        United States Secret Service instructs the 
+                        agency or business entity to delay notification 
+                        under this section longer than 30 days, the 
+                        United States Secret Service shall submit 
+                        written justification for such delay to the 
+                        Secretary of Homeland Security before such 
+                        delay takes place.
+                            (ii) Federal bureau of investigation.--If 
+                        the Federal Bureau of Investigation instructs 
+                        the agency or business entity to delay 
+                        notification under this section longer than 30 
+                        days, the Federal Bureau of Investigation shall 
+                        submit written justification for such delay to 
+                        the Attorney General before such delay takes 
+                        place.
+            (3) Law enforcement immunity.--No cause of action shall lie 
+        in any court against any agency for acts relating to the delay 
+        of notification for law enforcement or national security 
+        purposes under this Act.
+
+SEC. 3. EXEMPTIONS.
+
+    (a) Exemption for National Security and Law Enforcement.--
+            (1) In general.--Section 2 shall not apply to an agency or 
+        business entity if--
+                    (A) the United States Secret Service or the Federal 
+                Bureau of Investigation determines that notification of 
+                the security breach could be expected to reveal 
+                sensitive sources and methods or similarly impede the 
+                ability of the Government to conduct law enforcement or 
+                intelligence investigations; or
+                    (B) the Federal Bureau of Investigation determines 
+                that notification of the security breach could be 
+                expected to cause damage to the national security.
+            (2) Written justification requirements.--
+                    (A) United states secret service.--If the United 
+                States Secret Service invokes the exemption in this 
+                section, the United States Secret Service shall submit 
+                written justification for such exemption to the 
+                Secretary of Homeland Security before such exemption is 
+                invoked.
+                    (B) Federal bureau of investigation.--If the 
+                Federal Bureau of Investigation invokes the exemption 
+                in this section, the Federal Bureau of Investigation 
+                shall submit written justification for such exemption 
+                to the Attorney General before such exemption is 
+                invoked.
+            (3) Immunity.--No cause of action shall lie in any court 
+        against any Federal agency for acts relating to the exemption 
+        from notification for law enforcement or national security 
+        purposes under this title.
+    (b) Safe Harbor.--
+            (1) In general.--An agency or business entity shall be 
+        exempt from the notice requirements under section 2, if--
+                    (A) a risk assessment concludes that there is no 
+                significant risk that a security breach has resulted 
+                in, or will result in, identity theft, economic loss or 
+                harm, or physical harm to the individuals whose 
+                sensitive personally identifiable information was 
+                subject to the security breach;
+                    (B) without unreasonable delay, but not later than 
+                45 days after the discovery of a security breach 
+                (unless extended by the Federal Trade Commission), the 
+                agency or business entity notifies the Federal Trade 
+                Commission, in writing, of--
+                            (i) the results of the risk assessment; and
+                            (ii) its decision to invoke the risk 
+                        assessment exemption; and
+                    (C) the Federal Trade Commission does not indicate, 
+                in writing, and not later than 10 business days after 
+                the date of receipt of the decision described in 
+                subparagraph (B)(ii), that notice should be given.
+            (2) Presumptions.--There shall be a presumption that no 
+        significant risk of harm to the individual whose sensitive 
+        personally identifiable information was subject to a security 
+        breach if such information--
+                    (A) was encrypted; or
+                    (B) was otherwise rendered unusable, unreadable, or 
+                indecipherable through the use of data security 
+                technology that is generally accepted by experts in the 
+                field of information security as an effective 
+                information security practice.
+    (c) Financial Fraud Prevention Exemption.--
+            (1) In general.--A business entity will be exempt from the 
+        notice requirement under section 2 if the business entity 
+        utilizes or participates in a security program that--
+                    (A) effectively blocks the use of the sensitive 
+                personally identifiable information to initiate 
+                unauthorized financial transactions before they are 
+                charged to the account of the individual; and
+                    (B) provides for notice to affected individuals 
+                after a security breach that has resulted in fraud or 
+                unauthorized transactions.
+            (2) Limitation.--The exemption by this subsection does not 
+        apply if--
+                    (A) the information subject to the security breach 
+                includes sensitive personally identifiable information, 
+                other than a credit card number or credit card security 
+                code, of any type; or
+                    (B) the information subject to the security breach 
+                includes both the individual's credit card number and 
+                the individual's first and last name.
+    (d) Limitations.--
+            (1) Definitions.--In this subsection--
+                    (A) the term ``covered financial institution'' 
+                means a financial institution that is subject to--
+                            (i) the data security requirements of the 
+                        Gramm-Leach-Bliley Act (15 U.S.C. 6801 et 
+                        seq.);
+                            (ii) any implementing regulations issued 
+                        under that Act; and
+                            (iii) the jurisdiction of a Federal 
+                        functional regulator under that Act; and
+                    (B) the terms ``Federal functional regulator'' and 
+                ``financial institution'' have the meaning given those 
+                terms in section 509 of the Gramm-Leach-Bliley Act (15 
+                U.S.C. 6809).
+            (2) Financial institutions regulated by federal functional 
+        regulators.--Nothing in this Act shall apply to a covered 
+        financial institution if the Federal functional regulator with 
+        jurisdiction over the covered financial institution has issued 
+        a regulation under title V of the Gramm-Leach-Bliley Act (15 
+        U.S.C. 6801 et seq.) that--
+                    (A) requires financial institutions within its 
+                jurisdiction to provide notification to individuals 
+                following a breach of security; and
+                    (B) provides protections substantially similar to, 
+                or greater than, those required under this Act.
+
+SEC. 4. METHODS OF NOTICE.
+
+    An agency or business entity shall be in compliance with section 2 
+if it provides both:
+            (1) Individual notice.--
+                    (A) Written notification to the last known home 
+                mailing address of the individual in the records of the 
+                agency or business entity;
+                    (B) telephone notice to the individual personally; 
+                or
+                    (C) e-mail notice, if the individual has consented 
+                to receive such notice and the notice is consistent 
+                with the provisions permitting electronic transmission 
+                of notices under section 101 of the Electronic 
+                Signatures in Global and National Commerce Act (15 
+                U.S.C. 7001).
+            (2) Media notice.--Notice to major media outlets serving a 
+        State or jurisdiction, if the number of residents of such State 
+        whose sensitive personally identifiable information was, or is 
+        reasonably believed to have been, acquired by an unauthorized 
+        person exceeds 5,000.
+
+SEC. 5. CONTENT OF NOTIFICATION.
+
+    (a) In General.--Regardless of the method by which notice is 
+provided to individuals under section 4, such notice shall include, to 
+the extent possible--
+            (1) a description of the categories of sensitive personally 
+        identifiable information that was, or is reasonably believed to 
+        have been, acquired by an unauthorized person;
+            (2) a toll-free number--
+                    (A) that the individual may use to contact the 
+                agency or business entity, or the agent of the agency 
+                or business entity; and
+                    (B) from which the individual may learn what types 
+                of sensitive personally identifiable information the 
+                agency or business entity maintained about that 
+                individual; and
+            (3) the toll-free contact telephone numbers and addresses 
+        for the major credit reporting agencies.
+    (b) Additional Content.--Notwithstanding section 11, a State may 
+require that a notice under subsection (a) shall also include 
+information regarding victim protection assistance provided for by that 
+State.
+
+SEC. 6. COORDINATION OF NOTIFICATION WITH CREDIT REPORTING AGENCIES.
+
+    If an agency or business entity is required to provide notification 
+to more than 5,000 individuals under section 2(a), the agency or 
+business entity shall also notify all consumer reporting agencies that 
+compile and maintain files on consumers on a nationwide basis (as 
+defined in section 603(p) of the Fair Credit Reporting Act (15 U.S.C. 
+1681a(p)) of the timing and distribution of the notices. Such notice 
+shall be given to the consumer credit reporting agencies without 
+unreasonable delay and, if it will not delay notice to the affected 
+individuals, prior to the distribution of notices to the affected 
+individuals.
+
+SEC. 7. NOTICE TO LAW ENFORCEMENT.
+
+    (a) Designation of Government Entity to Receive Notice.--
+            (1) In general.--Not later than 60 days after the date of 
+        enactment of this Act, the Secretary of the Department of 
+        Homeland Security shall designate a Federal Government entity 
+        to receive the notices required under this section.
+            (2) Responsibilities of the designated entity.--The 
+        designated entity shall promptly provide the notices and other 
+        information it receives under this section to--
+                    (A) the United States Secret Service;
+                    (B) the Federal Bureau of Investigation;
+                    (C) the Federal Trade Commission;
+                    (D) the United States Postal Inspection Service, if 
+                the security breach involves mail fraud;
+                    (E) the attorney general of each State affected by 
+                the security breach; and
+                    (F) as appropriate, to other Federal agencies for 
+                law enforcement, national security, or data security 
+                purposes.
+    (b) Notice.--Any business entity or agency shall notify the 
+designated entity of the fact that a security breach has occurred if--
+            (1) the number of individuals whose sensitive personally 
+        identifying information was, or is reasonably believed to have 
+        been, accessed, or acquired by an unauthorized person exceeds 
+        10,000;
+            (2) the security breach involves a database, networked or 
+        integrated databases, or other data system containing the 
+        sensitive personally identifiable information of more than 
+        1,000,000 individuals nationwide;
+            (3) the security breach involves databases owned by the 
+        Federal Government; or
+            (4) the security breach involves primarily sensitive 
+        personally identifiable information of individuals known to the 
+        agency or business entity to be employees or contractors of the 
+        Federal Government involved in national security or law 
+        enforcement.
+    (c) Timing of Notices.--The notices required under this section 
+shall be delivered as follows:
+            (1) Notice under subsection (b) shall be delivered as 
+        promptly as possible, but must occur not more than 72 hours 
+        before notification of an individual pursuant to section 2, or 
+        within 10 days after discovery of the events requiring notice, 
+        whichever occurs first.
+            (2) Notice under subsection (a)(2) shall be delivered as 
+        promptly as possible after the designated entity receives 
+        notice of a security breach from an agency or business entity.
+
+SEC. 8. ENFORCEMENT.
+
+    (a) Civil Actions by the Attorney General.--The Attorney General 
+may bring a civil action in the appropriate United States district 
+court against any business entity that engages in conduct constituting 
+a violation of this Act and, upon proof of such conduct by a 
+preponderance of the evidence, such business entity shall be subject to 
+a civil penalty of not more than $11,000 per day per security breach.
+    (b) Penalty Limitations.--
+            (1) In general.--Notwithstanding any other provision of 
+        law, the total amount of the civil penalty assessed against a 
+        business entity for conduct involving the same or related acts 
+        or omissions that results in a violation of this Act may not 
+        exceed $1,000,000, unless the violation was willful or 
+        intentional.
+            (2) Willful or intentional violation.--If a violation of 
+        this Act is found to be willful or intentional, an additional 
+        civil penalty up to a maximum of $1,000,000 may be imposed.
+    (c) Injunctive Actions by the Attorney General.--
+            (1) In general.--If it appears that a business entity has 
+        engaged, or is engaged, in any act or practice constituting a 
+        violation of this Act, the Attorney General may petition an 
+        appropriate district court of the United States for an order--
+                    (A) enjoining such act or practice; or
+                    (B) enforcing compliance with this Act.
+            (2) Issuance of order.--A court may issue an order under 
+        paragraph (1), if the court finds that the conduct in question 
+        constitutes a violation of this Act.
+    (d) Other Rights and Remedies.--The rights and remedies available 
+under this Act are cumulative and shall not affect any other rights and 
+remedies available under law.
+    (e) Fraud Alert.--Section 605A(b)(1) of the Fair Credit Reporting 
+Act (15 U.S.C. 1681c-1(b)(1)) is amended by inserting ``, or evidence 
+that the consumer has received notice that the consumer's financial 
+information has or may have been compromised,'' after ``identity theft 
+report''.
+
+SEC. 9. ENFORCEMENT BY STATE ATTORNEYS GENERAL.
+
+    (a) In General.--
+            (1) Civil actions.--In any case in which the attorney 
+        general of a State or any State or local law enforcement agency 
+        authorized by the State attorney general or by State statute to 
+        prosecute violations of State consumer protection law, has 
+        reason to believe that an interest of the residents of that 
+        State has been or is threatened or adversely affected by the 
+        engagement of a business entity in a practice that constitutes 
+        a violation of this Act, the State or the State or local law 
+        enforcement agency on behalf of the residents of the agency's 
+        jurisdiction, may bring a civil action on behalf of the 
+        residents of the State or jurisdiction in a district court of 
+        the United States of appropriate jurisdiction or any other 
+        court of competent jurisdiction, including a State court, to--
+                    (A) enjoin that practice;
+                    (B) enforce compliance with this Act; or
+                    (C) obtain civil penalties of not more than $11,000 
+                per day per security breach.
+            (2) Overall maximum penalty for actions brought by state 
+        attorneys general.--
+                    (A) In general.--If more than 1 civil action is 
+                brought against a business entity under this section 
+                and the civil actions all arose out of the same 
+                security breach--
+                            (i) the business entity may file a motion, 
+                        in any United States district court for the 
+                        district in which not less than 1 of the civil 
+                        actions brought under this section is pending, 
+                        to consolidate the civil actions in such United 
+                        States district court;
+                            (ii) the United States district court in 
+                        which a motion is filed under clause (i) shall 
+                        order that the civil actions be consolidated 
+                        before such court; and
+                            (iii) any civil action subsequently brought 
+                        against the business entity under this section 
+                        that arises out of the same security breach at 
+                        issue in the consolidated actions shall be 
+                        consolidated with the consolidated actions.
+                    (B) Transfer of venue.--If a United States district 
+                court issues an order described in subparagraph 
+                (A)(ii), such court may, at anytime after the order is 
+                issued, consider whether the consolidated actions 
+                should be transferred to another district for the 
+                convenience of the parties and witnesses, in interest 
+                of justice.
+                    (C) Penalty limitations.--
+                            (i) In general.--Notwithstanding any other 
+                        provision of law, the total amount of the civil 
+                        penalty assessed against a business entity for 
+                        conduct involving the same or related acts or 
+                        omissions that results in a violation of this 
+                        Act may not exceed $1,000,000, unless the 
+                        violation was willful or intentional.
+                            (ii) Willful or intentional violation.--If 
+                        a violation of this Act is found to be willful 
+                        or intentional, an additional civil penalty up 
+                        to a maximum of $1,000,000 may be imposed.
+            (3) Notice.--
+                    (A) In general.--Before filing an action under 
+                paragraph (1), the attorney general of the State 
+                involved shall provide to the Attorney General of the 
+                United States--
+                            (i) written notice of the action; and
+                            (ii) a copy of the complaint for the 
+                        action.
+                    (B) Exemption.--
+                            (i) In general.--Subparagraph (A) shall not 
+                        apply with respect to the filing of an action 
+                        by an attorney general of a State under this 
+                        Act, if the State attorney general determines 
+                        that it is not feasible to provide the notice 
+                        described in such subparagraph before the 
+                        filing of the action.
+                            (ii) Notification.--In an action described 
+                        in clause (i), the attorney general of a State 
+                        shall provide notice and a copy of the 
+                        complaint to the Attorney General at the time 
+                        the State attorney general files the action.
+    (b) Federal Proceedings.--Upon receiving notice under subsection 
+(a)(3), the Attorney General shall have the right to--
+            (1) move to stay the action, pending the final disposition 
+        of a pending Federal proceeding or action;
+            (2) initiate an action in the appropriate United States 
+        district court under section 8 and move to consolidate all 
+        pending actions, including State actions, in such court;
+            (3) intervene in an action brought under subsection (a); 
+        and
+            (4) file petitions for appeal.
+    (c) Pending Proceedings.--If the Attorney General has initiated a 
+criminal proceeding or civil action for a violation of this Act, no 
+attorney general of a State or any State or local law enforcement 
+agency authorized by the State attorney general or by State statute to 
+prosecute violations of State consumer protection law may bring an 
+action for a violation of a provision of this Act against a defendant 
+named in the Federal criminal proceeding or civil action.
+    (d) Rule of Construction.--For purposes of bringing any civil 
+action under subsection (a), nothing in this Act regarding notification 
+shall be construed to prevent an attorney general of a State from 
+exercising the powers conferred on such attorney general by the laws of 
+that State to--
+            (1) conduct investigations;
+            (2) administer oaths or affirmations; or
+            (3) compel the attendance of witnesses or the production of 
+        documentary and other evidence.
+    (e) Venue; Service of Process.--
+            (1) Venue.--Any action brought under subsection (a) may be 
+        brought in--
+                    (A) the district court of the United States that 
+                meets applicable requirements relating to venue under 
+                section 1391 of title 28, United States Code; or
+                    (B) another court of competent jurisdiction.
+            (2) Service of process.--In an action brought under 
+        subsection (a), process may be served in any district in which 
+        the defendant--
+                    (A) is an inhabitant; or
+                    (B) may be found.
+    (f) No Private Cause of Action.--Nothing in this Act establishes a 
+private cause of action against a business entity for violation of any 
+provision of this Act.
+
+SEC. 10. CONCEALMENT OF SECURITY BREACH INVOLVING SENSITIVE PERSONALLY 
+              IDENTIFIABLE INFORMATION.
+
+    (a) In General.--Chapter 47 of title 18, United States Code, is 
+amended by adding at the end the following:
+``Sec. 1041. Concealment of security breaches involving sensitive 
+              personally identifiable information
+    ``(a) In General.--Any person who, having knowledge of a security 
+breach and of the fact that notice of such security breach is required 
+under the Data Breach Notification Act of 2011, intentionally and 
+willfully conceals the fact of such security breach, shall, in the 
+event that such security breach results in economic harm to any 
+individual in the amount of $1,000 or more, be fined under this title, 
+imprisoned for not more than 5 years, or both.
+    ``(b) Person Defined.--For purposes of subsection (a), the term 
+`person' has the same meaning as in section 1030(a)(12) of title 18, 
+United States Code.
+    ``(c) Notice Requirement.--Any persons seeking an exemption under 
+section 3(b) of the Data Breach Notification Act of 2011 shall be 
+immune from prosecution under this section if the Federal Trade 
+Commission does not indicate, in writing, that notice be given under 
+such Act.
+    ``(d) Enforcement Authority.--
+            ``(1) In general.--The United States Secret Service and the 
+        Federal Bureau of Investigation shall have the authority to 
+        investigate offenses under this section.
+            ``(2) Nonexclusivity.--The authority granted in paragraph 
+        (1) shall not be exclusive of any existing authority held by 
+        any other Federal agency.''.
+    (b) Conforming and Technical Amendments.--The table of sections for 
+chapter 47 of title 18, United States Code, is amended by adding at the 
+end the following:
+
+``1041. Concealment of security breaches involving sensitive personally 
+                            identifiable information''.
+
+SEC. 11. EFFECT ON FEDERAL AND STATE LAW.
+
+    (a) In General.--The provisions of this Act shall supersede any 
+other provision of Federal law or any provision of law of any State 
+relating to notification by a business entity engaged in interstate 
+commerce or an agency of a security breach, except as provided in 
+section 5(b).
+    (b) Limitations.--
+            (1) Gramm-Leach-Bliley act.--Nothing in this Act shall 
+        supersede the data security requirements of the Gramm-Leach-
+        Bliley Act (15 U.S.C. 6801 et seq.), or implementing 
+        regulations issued under that Act.
+            (2) Health privacy.--
+                    (A) To the extent that a business entity acts as a 
+                covered entity or a business associate under the Health 
+                Information Technology for Economic and Clinical Health 
+                Act (42 U.S.C. 17932), and has the obligation to 
+                provide breach notification under that Act or its 
+                implementing regulations, the requirements of this Act 
+                shall not apply;
+                    (B) To the extent that a business entity acts as a 
+                vendor of personal health records, a third party 
+                service provider, or other entity subject to the Health 
+                Information Technology for Economical and Clinical 
+                Health Act (42 U.S.C. 17937), and has the obligation to 
+                provide breach notification under that Act or its 
+                implementing regulations, the requirements of this Act 
+                shall not apply.
+
+SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated such sums as may be 
+necessary to cover the costs incurred by agencies to carry out 
+investigations, risk assessments, and civil actions relating to 
+security breaches under this Act.
+
+SEC. 13. REPORTING ON EXEMPTIONS.
+
+    (a) FTC Reports.--
+            (1) In general.--Not later than 18 months after the date of 
+        enactment of this Act, and upon the request by Congress 
+        thereafter, the Federal Trade Commission shall submit to 
+        Congress a report on the number and nature of the security 
+        breaches described in the notices filed by those business 
+        entities invoking the risk assessment exemption under section 
+        3(b) of this Act and the response of the Federal Trade 
+        Commission to such notices.
+            (2) Prohibited disclosure.--Any report submitted under 
+        paragraph (1) shall not disclose the contents of any risk 
+        assessment provided to the Federal Trade Commission under this 
+        Act.
+    (b) Law Enforcement Reports.--Not later than 18 months after the 
+date of enactment of this Act, and upon request by Congress thereafter, 
+the United States Secret Service and Federal Bureau of Investigation 
+shall submit to Congress a report on the number and nature of security 
+breaches subject to the national security and law enforcement 
+exemptions under section 3(a) of this Act.
+
+SEC. 14. DEFINITIONS.
+
+    In this Act, the following definitions shall apply:
+            (1) Agency.--The term ``agency'' has the same meaning given 
+        such term in section 551 of title 5, United States Code.
+            (2) Affiliate.--The term ``affiliate'' means persons 
+        related by common ownership or by corporate control.
+            (3) Business entity.--The term ``business entity'' means 
+        any organization, corporation, trust, partnership, sole 
+        proprietorship, unincorporated association, venture established 
+        to make a profit, or nonprofit, and any contractor, 
+        subcontractor, affiliate, or licensee thereof engaged in 
+        interstate commerce.
+            (4) Designated entity.--The term ``designated entity'' 
+        means the Federal Government entity designated by the Secretary 
+        of Homeland Security under section 7.
+            (5) Encrypted.--The term ``encrypted''--
+                    (A) means the protection of data in electronic 
+                form, in storage or in transit, using an encryption 
+                technology that is generally accepted by experts in the 
+                field of information security which renders such data 
+                indecipherable in the absence of associated 
+                cryptographic keys necessary to enable decryption of 
+                such data; and
+                    (B) includes appropriate management and safeguards 
+                of such cryptographic keys so as to protect the 
+                integrity of the encryption.
+            (6) Personally identifiable information.--The term 
+        ``personally identifiable information'' means any information, 
+        or compilation of information, in electronic or digital form 
+        serving as a means of identification, as defined by section 
+        1028(d)(7) of title 18, United State Code.
+            (7) Security breach.--
+                    (A) In general.--The term ``security breach'' means 
+                compromise of the security, confidentiality, or 
+                integrity of, or the loss of, computerized data that 
+                results in, or there is a reasonable basis to conclude 
+                has resulted in, acquisition of or access to sensitive 
+                personally identifiable information that is 
+                unauthorized or in excess of authorization.
+                    (B) Exclusion.--The term ``security breach'' does 
+                not include--
+                            (i) a good faith acquisition of sensitive 
+                        personally identifiable information by a 
+                        business entity or agency, or an employee or 
+                        agent of a business entity or agency, if the 
+                        sensitive personally identifiable information 
+                        is not subject to further unauthorized 
+                        disclosure;
+                            (ii) any lawfully authorized investigative, 
+                        protective, or intelligence activity of a law 
+                        enforcement or intelligence agency of the 
+                        United States, a State, or a political 
+                        subdivision of a State; or
+                            (iii) the release of a public record not 
+                        otherwise subject to confidentiality or 
+                        nondisclosure requirements.
+            (8) Sensitive personally identifiable information.--The 
+        term ``sensitive personally identifiable information'' means 
+        any information or compilation of information, in electronic or 
+        digital form that includes--
+                    (A) an individual's first and last name or first 
+                initial and last name in combination with any 1 of the 
+                following data elements:
+                            (i) A non-truncated social security number, 
+                        driver's license number, passport number, or 
+                        alien registration number.
+                            (ii) Any 2 of the following:
+                                    (I) Home address or telephone 
+                                number.
+                                    (II) Mother's maiden name, if 
+                                identified as such.
+                                    (III) Month, day, and year of 
+                                birth.
+                            (iii) Unique biometric data such as a 
+                        finger print, voice print, a retina or iris 
+                        image, or any other unique physical 
+                        representation.
+                            (iv) A unique account identifier, 
+                        electronic identification number, user name, or 
+                        routing code in combination with any associated 
+                        security code, access code, or password that is 
+                        required for an individual to obtain money, 
+                        goods, services, or any other thing of value; 
+                        or
+                    (B) a financial account number or credit or debit 
+                card number in combination with any security code, 
+                access code, or password that is required for an 
+                individual to obtain credit, withdraw funds, or engage 
+                in a financial transaction.
+
+SEC. 15. EFFECTIVE DATE.
+
+    This Act shall take effect on the expiration of the date which is 
+90 days after the date of enactment of this Act.
+                                                       Calendar No. 310
+
+112th CONGRESS
+
+  2d Session
+
+                                S. 1408
+
+_______________________________________________________________________
+
+                                 A BILL
+
+    To require Federal agencies, and persons engaged in interstate 
+    commerce, in possession of data containing sensitive personally 
+ identifiable information, to disclose any breach of such information.
+
+_______________________________________________________________________
+
+                            February 6, 2012
+
+                       Reported with an amendment
+

@@ -1,0 +1,1229 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1124 Introduced in Senate (IS)]
+
+103d CONGRESS
+  1st Session
+                                S. 1124
+
+  To enhance credit availability by streamlining Federal regulations 
+     applicable to financial institutions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                June 17 (legislative day, June 15), 1993
+
+   Mr. D'Amato (for himself, Mr. Bond, Mr. Shelby, Mr. Bennett, Mr. 
+ Domenici, and Mr. Mack) introduced the following bill; which was read 
+  twice and referred to the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To enhance credit availability by streamlining Federal regulations 
+     applicable to financial institutions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Depository 
+Institutions Regulatory Improvements Act of 1993''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Incorporated definitions.
+                    TITLE I--REGULATORY IMPROVEMENTS
+
+              Subtitle A--Reduction of Regulatory Burdens
+
+Sec. 101. Regulation of real estate lending.
+Sec. 102. Real estate appraisal amendment.
+Sec. 103. Public deposits.
+Sec. 104. Transition periods for new regulations.
+Sec. 105. Annual examinations.
+Sec. 106. Coordinated examinations.
+Sec. 107. Reduction of reports of condition burdens.
+Sec. 108. Branch closures.
+Sec. 109. Bank Secrecy Act.
+Sec. 110. Minimizing regulatory burdens.
+Sec. 111. Repeal of outdated statutory provision.
+Sec. 112. Elimination of duplicative disclosures for home equity loans.
+Sec. 113. Unauthorized electronic fund transfers.
+Sec. 114. Homeownership debt counseling notification.
+Sec. 115. Clarification of disclosure requirements.
+Sec. 116. Exemption of business loans.
+Sec. 117. Effective date for inter-affiliate transactions.
+                    Subtitle B--Studies and Reports
+
+Sec. 151. Report on capital standards and their impact on the economy.
+Sec. 152. Sterile reserves studies.
+Sec. 153. Paperwork reduction review.
+Sec. 154. Regulatory review of capital compliance burden.
+Sec. 155. Streamlined lending process for consumer benefit.
+TITLE II--ENHANCED CREDIT AVAILABILITY AND DEPOSIT INSURANCE PROTECTION
+
+Sec. 201. Enhanced credit availability and deposit insurance 
+                            protection.
+             TITLE III--TECHNICAL AND CONFORMING AMENDMENTS
+
+Sec. 301. Transferred deposits.
+Sec. 302. Technical amendment.
+Sec. 303. Certified statements.
+Sec. 304. Cross reference correction.
+Sec. 305. Court costs; bonds; filing fees.
+Sec. 306. Deletion of obsolete provision.
+Sec. 307. Federal Reserve Act amendment.
+Sec. 308. Annual report of Appraisal Subcommittee.
+Sec. 309. Insurance of bridge banks.
+Sec. 310. Additional technical amendments to the Federal banking and 
+                            housing laws.
+
+SEC. 2. INCORPORATED DEFINITIONS.
+
+    Unless otherwise specifically provided in title I of this Act, for 
+purposes of title I of this Act--
+            (1) the terms ``appropriate Federal banking agency'', 
+        ``Federal banking agencies'', and ``insured depository 
+        institution'' have the same meanings as in section 3 of the 
+        Federal Deposit Insurance Act; and
+            (2) the term ``insured credit union'' has the same meaning 
+        as in section 101 of the Federal Credit Union Act.
+
+                    TITLE I--REGULATORY IMPROVEMENTS
+
+              Subtitle A--Reduction of Regulatory Burdens
+
+SEC. 101. REGULATION OF REAL ESTATE LENDING.
+
+    Section 18(o) of the Federal Deposit Insurance Act (12 U.S.C. 
+1828(o)) is amended--
+            (1) by redesignating paragraph (4) as paragraph (5); and
+            (2) by inserting after paragraph (3) the following new 
+        paragraph:
+            ``(4) Consideration of particular impact.--In prescribing 
+        standards under paragraph (1), each appropriate Federal banking 
+        agency shall--
+                    ``(A) consider the impact that such standards have 
+                on the availability of credit for small business, 
+                residential, and agricultural purposes, and on low- and 
+                moderate-income communities; and
+                    ``(B) to the extent possible, consistent with 
+                safety and soundness principles, seek to minimize the 
+                effect that such standards have in reducing the 
+                availability of credit for such purposes and in such 
+                areas.''.
+
+SEC. 102. REAL ESTATE APPRAISAL AMENDMENT.
+
+    Section 1122 of the Financial Institutions Reform, Recovery, and 
+Enforcement Act of 1989 (12 U.S.C. 3351) is amended--
+            (1) by redesignating subsections (b) through (e) as 
+        subsections (c) through (f), respectively;
+            (2) by inserting after subsection (a) the following new 
+        subsection:
+    ``(b) Reciprocity.--The Appraisal Subcommittee shall encourage the 
+States to develop reciprocity agreements so as to readily authorize 
+appraisers that are licensed or certified in one State (and that are in 
+good standing with their State appraiser certifying or licensing 
+regulatory body) to perform appraisals in other States.''; and
+            (3) in subsection (a)--
+                    (A) by redesignating paragraphs (1) through (3) as 
+                subparagraphs (A) through (C);
+                    (B) by striking ``A State'' and inserting the 
+                following:
+            ``(1) In general.--A State''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(2) Fees for temporary practice.--A State appraiser 
+        certifying or licensing regulatory body shall not impose 
+        excessive fees or burdensome requirements for temporary 
+        practice under this subsection, as determined by the Appraisal 
+        Subcommittee.''.
+
+SEC. 103. PUBLIC DEPOSITS.
+
+    Section 13(e) of the Federal Deposit Insurance Act (12 U.S.C. 
+1823(e)) is amended--
+            (1) by redesignating paragraphs (1) through (4) as 
+        subparagraphs (A) through (D), respectively;
+            (2) by striking ``No agreement'' and inserting the 
+        following:
+            ``(1) In general.--No agreement''; and
+            (3) by adding at the end the following new paragraph:
+            ``(2) Exception.--Agreements to provide for the 
+        collateralization of or security for deposits made by Federal, 
+        State, or local governmental entities shall not be deemed 
+        invalid under paragraph (1) solely because the agreements were 
+        not made contemporaneously with the acceptance of the 
+        deposit.''.
+
+SEC. 104. TRANSITION PERIODS FOR NEW REGULATIONS.
+
+    In determining the effective date for regulations that impose 
+additional reporting, disclosure, or other requirements on insured 
+depository institutions, each Federal banking agency shall consider--
+            (1) the administrative burden that will be placed on the 
+        depository institution;
+            (2) the ability of depository institutions of different 
+        sizes to meet the requirements imposed by the new regulations, 
+        giving particular consideration to the more limited resources 
+        of smaller depository institutions; and
+            (3) the time needed by the depository institutions to 
+        generate new computer forms or systems, set up new internal 
+        systems, and hire or train personnel to comply with the new 
+        regulation.
+
+SEC. 105. ANNUAL EXAMINATIONS.
+
+    Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 
+1820(d)) is amended--
+            (1) by striking paragraphs (3) and (4) and inserting the 
+        following:
+            ``(3) State examinations acceptable.--The examinations 
+        required by paragraph (1) may be satisfied by an examination of 
+        the insured depository institution conducted by the State 
+        during the 12-month period, if the appropriate Federal banking 
+        agency determines that the State examination carries out the 
+        purposes of this subsection.
+            ``(4) 2-year rule for certain small institutions.--
+                    ``(A) In general.--Paragraphs (1), (2), and (3) 
+                shall apply with `24-month' substituted for `12-month' 
+                if--
+                            ``(i) the insured depository institution 
+                        has total assets of less than $250,000,000;
+                            ``(ii) the institution is well capitalized, 
+                        as defined in section 38;
+                            ``(iii) when the institution was most 
+                        recently examined, it was found to be well 
+                        managed, and its composite condition was found 
+                        to be outstanding;
+                            ``(iv) the insured depository institution 
+                        is not currently subject to a formal 
+                        enforcement proceeding or order by the 
+                        Corporation or the appropriate Federal banking 
+                        agency; and
+                            ``(v) no person acquired control of the 
+                        institution during the 12-month period in which 
+                        a full-scope, onsite examination would be 
+                        required, but for this paragraph.
+                    ``(B) Adjustment required.--The dollar amount 
+                referred to in subparagraph (A)(i) shall be adjusted 
+                annually after December 31, 1993, by the annual 
+                percentage increase in the Consumer Price Index for 
+                Urban Wage Earners and Clerical Workers published by 
+                the Bureau of Labor Statistics.''; and
+            (2) by adding at the end the following new paragraph:
+            ``(6) Certain institutions within depository institution 
+        holding companies.--At the discretion of the appropriate 
+        Federal banking agency, an insured depository institution 
+        controlled by a depository institution holding company shall be 
+        exempt from the requirements of this subsection if--
+                    ``(A) the agency is satisfied that adequate 
+                internal controls and examination procedures exist 
+                within the holding company structure; or
+                    ``(B) the insured depository institutions 
+                controlled by the holding company which represent a 
+                substantial majority of the total assets of all of the 
+                insured depository institution assets controlled by 
+                that holding company have been examined pursuant to the 
+                requirements of this subsection.''.
+
+SEC. 106. COORDINATED EXAMINATIONS.
+
+    (a) Coordinated Federal and State Examinations.--Section 10(d) of 
+the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) is amended by 
+adding at the end the following new paragraph:
+            ``(7) Coordinated examinations.--To minimize the disruptive 
+        effects of examinations on the operations of depository 
+        institutions, each appropriate Federal banking agency shall, to 
+        the extent practicable--
+                    ``(A) coordinate all examinations to be conducted 
+                by that agency at an insured depository institution; 
+                and
+                    ``(B) work with other appropriate Federal banking 
+                agencies and appropriate State bank supervisors to 
+                coordinate examinations.''.
+    (b) Technical and Conforming Amendment.--Section 3(r) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1813(r)) is amended to read as 
+follows:
+    ``(r) State Bank Supervisor.--The term `State bank supervisor' 
+means any officer, agency, or other entity of any State that has 
+primary regulatory authority over State banks or State savings 
+associations in such State.''.
+
+SEC. 107. REDUCTION OF REPORTS OF CONDITION BURDENS.
+
+    (a) Regulatory Review of Call Report Burdens.--
+            (1) In general.--Not later than 180 days after the date of 
+        enactment of this Act, the Federal Financial Institutions 
+        Examination Council shall review the regulatory burden and 
+        costs incurred by insured depository institutions and insured 
+        credit unions in preparing reports of condition.
+            (2) Factors to be considered.--In conducting its review, 
+        each appropriate Federal banking agency shall consider all 
+        relevant factors that it deems necessary to correctly determine 
+        the extent of the burden and costs, including--
+                    (A) the dollar cost to insured depository 
+                institutions and insured credit unions in preparing 
+                such reports;
+                    (B) the time and resources expended to meet 
+                regulatory directives;
+                    (C) the frequency with which the agency has 
+                modified the type of information required to be 
+                reported in such reports and the costs and burdens 
+                associated with complying with such modifications; and
+                    (D) the extent to which such costs and burdens, 
+                viewed within the overall context of the total 
+                regulatory costs incurred by the institution, impact 
+                upon the availability of credit.
+            (3) Corrective measures.--After conducting its review under 
+        paragraph (1), each appropriate Federal banking agency shall, 
+        consistent with safety and soundness principles, revise its 
+        call report requirements to remove any unnecessary burdens and 
+        costs.
+    (b) Repeal of Publication Requirements.--
+            (1) National banks.--Section 5211 of the Revised Statutes 
+        (12 U.S.C. 161) is amended--
+                    (A) in the fifth sentence of subsection (a), by 
+                striking ``; and the statement of resources and 
+                liabilities'' and all that follows through ``required 
+                by the Comptroller''; and
+                    (B) in subsection (c), by striking the fourth 
+                sentence.
+            (2) State non-member insured banks.--Section 7(a)(1) of the 
+        Federal Deposit Insurance Act (12 U.S.C. 1817(a)(1)) is amended 
+        by striking the fourth sentence.
+            (3) Federal reserve banks.--The last sentence of the sixth 
+        undesignated paragraph of section 9 of the Federal Reserve Act 
+        (12 U.S.C. 324) is amended by striking ``and shall be 
+        published'' and all that follows through ``may prescribe''.
+    (c) Change in Form of Report of Condition.--
+            (1) National banks.--Section 5211(a) of the Revised 
+        Statutes (12 U.S.C. 161(a)) is amended by adding at the end the 
+        following: ``In determining the effective date for regulations 
+        issued under this subsection, the Comptroller of the Currency 
+        shall consider the administrative burden that will be placed on 
+        the association, the ability of associations of different sizes 
+        to meet the requirements of the new regulations, giving 
+        particular consideration to the more limited resources of 
+        smaller associations, and the time required for the association 
+        to generate new computer forms or systems, set up new internal 
+        systems, and hire or train personnel to comply with the new 
+        regulations.''.
+            (2) State non-member insured banks.--Section 7(a) of the 
+        Federal Deposit Insurance Act (12 U.S.C. 1817(a)) is amended by 
+        adding at the end the following new paragraph:
+            ``(11) Change in form of report of condition.--In 
+        determining the effective date for regulations issued under 
+        this subsection, the Board of Directors shall consider--
+                    ``(A) the administrative burden that will be placed 
+                on the insured depository institution;
+                    ``(B) the ability of depository institutions of 
+                different sizes to meet the requirements of the new 
+                regulations, giving particular consideration to the 
+                more limited resources of smaller depository 
+                institutions; and
+                    ``(C) the time required for the depository 
+                institution to generate new computer forms or systems, 
+                set up new internal systems, and hire or train 
+                personnel to comply with the new regulations.''.
+            (3) State member banks.--The sixth undesignated paragraph 
+        of section 9 of the Federal Reserve Act (12 U.S.C. 324) is 
+        amended by adding at the end the following: ``In determining 
+        the effective date for regulations issued under this 
+        subsection, the Board of Governors of the Federal Reserve 
+        System shall consider the administrative burden that will be 
+        placed on the bank, the ability of banks of different sizes to 
+        meet the requirements of the new regulations, giving particular 
+        consideration to the more limited resources of smaller banks, 
+        and the time required for the bank to generate new computer 
+        forms or systems, set up new internal systems, and hire or 
+        train personnel to comply with the new regulations.''.
+            (4) Savings associations.--Section 5(v) of the Home Owners' 
+        Loan Act (12 U.S.C. 1464(v)) is amended by adding at the end 
+        the following new paragraph:
+            ``(9) Changes in form of report of condition.--In 
+        determining the effective date for regulations issued under 
+        this subsection, the Director shall consider--
+                    ``(A) the administrative burden that will be placed 
+                on the savings association;
+                    ``(B) the ability of savings associations of 
+                different sizes to meet the requirements of the new 
+                regulations, giving particular consideration to the 
+                more limited resources of smaller savings associations; 
+                and
+                    ``(C) the time required for the savings association 
+                to generate new computer forms or systems, set up new 
+                internal systems, and hire or train personnel to comply 
+                with the new regulations.''.
+
+SEC. 108. BRANCH CLOSURES.
+
+    (a) Definition of ``Branch''.--Section 42 of the Federal Deposit 
+Insurance Act (12 U.S.C. 1831r-1) is amended by adding at the end the 
+following new subsection:
+    ``(d) Definitions.--For purposes of this section, the term `branch' 
+does not include--
+            ``(1) an automated teller machine;
+            ``(2) a branch acquired through merger, consolidation, 
+        purchase, assumption, or similar method, if such branch is 
+        located in a local market area currently served by another 
+        branch of the acquiring institution;
+            ``(3) a branch that is closed and reopened in another 
+        location within the same local market area that would continue 
+        to provide banking services to substantially all of the 
+        customers served by the branch that is closed; or
+            ``(4) a branch that is closed in connection with--
+                    ``(A) the sale of an insured depository institution 
+                in default, for which the Corporation or the Resolution 
+                Trust Corporation has been appointed as receiver;
+                    ``(B) an emergency acquisition under--
+                            ``(i) section 11(n); or
+                            ``(ii) subsections (f) or (k) of section 
+                        13; or
+                    ``(C) any assistance provided by the Corporation 
+                under section 13(c).''.
+    (b) Effective Date.--The amendments made by this section shall have 
+the same effective date as section 42 of the Federal Deposit Insurance 
+Act.
+
+SEC. 109. BANK SECRECY ACT.
+
+    (a) Staff Commentaries.--Chapter 53 of title 31, United States 
+Code, is amended by adding at the end the following new section:
+
+``SEC. 5329. STAFF COMMENTARIES.
+
+    ``The Secretary of the Treasury shall review all regulations 
+promulgated under this subchapter on an annual basis and seek comment 
+from the public pursuant to this review. The Secretary shall publish, 
+on an annual basis, all written rulings interpreting this subchapter, 
+as well as a staff commentary to the regulations issued under this 
+subchapter.''.
+    (b) Exemption Process.--Section 5318(a)(5) of title 31, United 
+States Code, is amended--
+            (1) by inserting ``or exception'' after ``an appropriate 
+        exemption''; and
+            (2) by inserting the following before the first period: 
+        ``after receiving comments from the entities covered by this 
+        subchapter. The Secretary shall take into account the effect 
+        that changes to the exemption or exception process will have on 
+        the cost and efficiency of the reporting process''.
+    (c) Inflation Adjustments on CTR Amounts.--Section 5313(a) of title 
+31, United States Code, is amended by adding at the end the following: 
+``The Secretary shall review the reporting requirements of this 
+subsection not later than September 1 of each year to determine if the 
+reporting amount prescribed by the Secretary should be adjusted to 
+account for inflation, the cost effectiveness of the requirement, or 
+the usefulness of the requirement for law enforcement purposes. The 
+Secretary shall submit a written report to the Congress in each year 
+during which a change is made, disclosing how the reporting threshold 
+decision was reached. The report shall include an analysis of how the 
+change will affect domestic financial institutions.''.
+
+SEC. 110. MINIMIZING REGULATORY BURDENS.
+
+    Section 7(a) of the Federal Deposit Insurance Act (12 U.S.C. 
+1817(a)) is amended by adding at the end the following new paragraph:
+            ``(12) Minimizing regulatory burdens.--In prescribing 
+        reporting and other requirements pursuant to this subsection, 
+        the Federal banking agencies shall minimize the regulatory 
+        burden imposed upon insured depository institutions, consistent 
+        with safety and soundness principles.''.
+
+SEC. 111. REPEAL OF OUTDATED STATUTORY PROVISION.
+
+    Section 5204 of the Revised Statutes (12 U.S.C. 56) is amended--
+            (1) in the second sentence, by striking ``deducting 
+        therefrom its losses and bad debts'' and inserting ``subject to 
+        other provisions of law''; and
+            (2) by striking the third sentence.
+
+SEC. 112. ELIMINATION OF DUPLICATIVE DISCLOSURES FOR HOME EQUITY LOANS.
+
+    Section 4(a) of the Real Estate Settlement Procedures Act (12 
+U.S.C. 2603(a)) is amended by adding at the end the following: 
+``Disclosures made under section 127A(a) of the Truth in Lending Act 
+may be used in lieu of the standard real estate settlement form 
+otherwise required under this section in the case of federally related 
+mortgage loans secured by a subordinate lien on residential 
+property.''.
+
+SEC. 113. UNAUTHORIZED ELECTRONIC FUND TRANSFERS.
+
+    Section 909(a)(1) of Electronic Fund Transfer Act (15 U.S.C. 
+1693g(a)(1)) is amended to read as follows:
+            ``(1) $50, or in cases where the cardholder has 
+        substantially contributed to the unauthorized use by writing a 
+        personal identification or other security code on the card, 
+        $500; or''.
+
+SEC. 114. HOMEOWNERSHIP DEBT COUNSELING NOTIFICATION.
+
+    Section 106(c)(5)(B) of the Housing and Urban Development Act of 
+1968 (12 U.S.C. 1701x(c)(5)(B)) is amended--
+            (1) by redesignating clauses (i) and (ii) as subclauses (I) 
+        and (II), respectively;
+            (2) by striking ``The notification'' and inserting the 
+        following:
+                            ``(i) In general.--The notification''; and
+            (3) by adding at the end the following:
+                            ``(ii) Once yearly requirement for 
+                        creditors.--Creditors shall not be required to 
+                        provide the notification required under 
+                        subparagraph (A) more than once annually.''.
+
+SEC. 115. CLARIFICATION OF DISCLOSURE REQUIREMENTS.
+
+    Section 6(a) of the Real Estate Settlement Procedures Act of 1974 
+(12 U.S.C. 2605(a)) is amended--
+            (1) in paragraph (1)(B)--
+                    (A) by redesignating clauses (i) and (ii) as 
+                subclauses (I) and (II), respectively;
+                    (B) by striking ``and'' at the end of subclause 
+                (II), as so redesignated, and inserting ``or'';
+                    (C) by striking ``for each'' and inserting the 
+                following: ``at the option of the person making the 
+                federally related mortgage loan--
+                            ``(i) for each''; and
+                    (D) by adding at the end the following new clause:
+                            ``(ii) a statement that the person making 
+                        the loan has previously assigned, sold, or 
+                        transferred the servicing of federally related 
+                        mortgage loans; and''; and
+            (2) in paragraph (2), by adding at the end the following: 
+        ``The Secretary shall permit the person originating the loan, 
+        at the option of such person, to provide a statement that the 
+        servicing may be assigned, sold, or transferred during the 12-
+        month period beginning upon origination in lieu of the 
+        percentage estimates otherwise required to be disclosed under 
+        this paragraph.''.
+
+SEC. 116. EXEMPTION OF BUSINESS LOANS.
+
+    The Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 
+et seq.) is amended by inserting after section 6 the following new 
+section:
+
+``SEC. 7. EXEMPTED TRANSACTIONS.
+
+    ``This title does not apply to credit transactions involving 
+extensions of credit--
+            ``(1) primarily for business, commercial, or agricultural 
+        purposes; or
+            ``(2) to government or governmental agencies or 
+        instrumentalities.''.
+
+SEC. 117. EFFECTIVE DATE FOR INTER-AFFILIATE TRANSACTIONS.
+
+    Section 11(a)(2) of the Home Owners' Loan Act (12 U.S.C. 
+1468(a)(2)) is amended by adding at the end the following new 
+subparagraphs:
+                    ``(C) Transition rule for well capitalized savings 
+                associations.--
+                            ``(i) In general.--A savings association 
+                        that is well capitalized (as defined in section 
+                        38 of the Federal Deposit Insurance Act), as 
+                        determined without including goodwill in 
+                        calculating core capital, shall be treated as a 
+                        bank for purposes of section 23A(d)(1) and 
+                        section 23B of the Federal Reserve Act.
+                            ``(ii) Liability of commonly controlled 
+                        depository institutions.--Any savings 
+                        association that engages under clause (i) in a 
+                        transaction that would not otherwise be 
+                        permissible under this subsection, and any 
+                        affiliated insured bank that is commonly 
+                        controlled (as defined in section 5(e)(9) of 
+                        the Federal Deposit Insurance Act), shall be 
+                        subject to subsection (e) of section 5 of the 
+                        Federal Deposit Insurance Act as if paragraph 
+                        (6) of that subsection did not apply.''.
+
+                    Subtitle B--Studies and Reports
+
+SEC. 151. REPORT ON CAPITAL STANDARDS AND THEIR IMPACT ON THE ECONOMY.
+
+    (a) In General.--Not later than 180 days after the date of 
+enactment of this Act, the Secretary of the Treasury, after 
+consultation with the Federal banking agencies, shall report to the 
+Committee on Banking, Housing, and Urban Affairs of the Senate and the 
+Committee on Banking, Finance and Urban Affairs of the House of 
+Representatives on the effect of the implementation of risk based 
+capital standards on--
+            (1) the safety and soundness of insured depository 
+        institutions; and
+            (2) the availability of credit, particularly to consumers 
+        and small business concerns.
+    (b) Recommendations.--The report required by subsection (a) shall 
+contain any recommendations that the Secretary of the Treasury 
+considers relevant.
+
+SEC. 152. STERILE RESERVES STUDIES.
+
+    (a) Federal Reserve Study.--Not later than 180 days after the date 
+of enactment of this Act, the Board of Governors of the Federal Reserve 
+System, in consultation with the Chairperson of the Federal Deposit 
+Insurance Corporation, shall conduct a study and report to Congress 
+on--
+            (1) the necessity, for monetary policy purposes, of 
+        continuing to require insured depository institutions to 
+        maintain sterile reserves;
+            (2) the appropriateness of paying a market rate of interest 
+        to insured depository institutions on sterile reserves or, in 
+        the alternative, providing payment of this interest into the 
+        appropriate deposit insurance fund;
+            (3) the monetary impact that the failure to pay interest on 
+        sterile reserves has had on insured depository institutions, 
+        including an estimate of the total dollar amount of interest 
+        and potential income lost by insured depository institutions; 
+        and
+            (4) the impact that failure to pay interest on sterile 
+        reserves has had on the ability of the banking industry to 
+        compete with nonbanking providers of financial services and 
+        with foreign banks.
+    (b) Budgetary Impact Study.--Not later than 180 days after the date 
+of enactment of this Act, the Director of the Office of Management and 
+Budget and the Congressional Budget Office, in consultation with the 
+Committees on the Budget of the Senate and the House of 
+Representatives, shall jointly conduct a study and report to the 
+Congress on the budgetary impact of--
+            (1) paying a market rate of interest to insured depository 
+        institutions on sterile reserves; and
+            (2) paying such interest into the respective deposit 
+        insurance funds.
+
+SEC. 153. PAPERWORK REDUCTION REVIEW.
+
+    Each appropriate Federal banking agency, in consultation with 
+insured depository institutions and other interested parties, shall--
+            (1) not later than 180 days after the date of enactment of 
+        this Act, conduct a review of the extent to which current 
+        regulations require insured depository institutions to produce 
+        unnecessary internal written policies; and
+            (2) take prompt steps to eliminate such requirements, where 
+        appropriate.
+
+SEC. 154. REGULATORY REVIEW OF CAPITAL COMPLIANCE BURDEN.
+
+    Not later than 180 days after the date of enactment of this Act, 
+the Federal Financial Institutions Examination Council, in consultation 
+with insured depository institutions and other interested parties, 
+shall--
+            (1) review the extent to which current compliance 
+        requirements associated with risk-based capital rules have an 
+        unnecessarily costly and burdensome effect on community banks; 
+        and
+            (2) where appropriate, reduce such costs and burdens.
+
+SEC. 155. STREAMLINED LENDING PROCESS FOR CONSUMER BENEFIT.
+
+    (a) Federal Reserve Study.--Not later than 12 months after the date 
+of enactment of this Act, the Board of Governors of the Federal Reserve 
+System (hereafter in this section referred to as the `Board'), in 
+consultation with the Secretary of Housing and Urban Development, shall 
+conduct a study and report to the Congress on ways to streamline the 
+credit-granting process.
+    (b) Focus.--In carrying out subsection (a), the Board shall--
+            (1) identify ways to streamline the home mortgage, small 
+        business, and consumer lending processes to--
+                    (A) reduce consumer inconvenience, cost, and time 
+                delays; and
+                    (B) minimize cost and burdens on insured depository 
+                institutions and credit unions;
+            (2) take such regulatory action as appropriate, consistent 
+        with safety and soundness principles, to meet the objectives of 
+        paragraph (1); and
+            (3) provide to the Congress legislative recommendations on 
+        changes necessary to carry out this section.
+    (c) Comment.--In carrying out this section, the Board shall solicit 
+comments from other Federal banking agencies, consumer groups, insured 
+depository institutions, credit unions, and other interested parties.
+
+TITLE II--ENHANCED CREDIT AVAILABILITY AND DEPOSIT INSURANCE PROTECTION
+
+SEC. 201. ENHANCED CREDIT AVAILABILITY AND DEPOSIT INSURANCE 
+              PROTECTION.
+
+    (a) CERCLA Amendment.--The Comprehensive Environmental Response, 
+Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) is 
+amended by inserting after section 126 the following new section:
+
+``SEC. 127. INSURED DEPOSITORY INSTITUTION AND OTHER LENDER LIABILITY.
+
+    ``(a) Liability Limitations.--
+            ``(1) In general.--The liability of an insured depository 
+        institution or other lender under this Act or subtitle I of the 
+        Solid Waste Disposal Act for the release or threatened release 
+        of petroleum or a hazardous substance at, from, or in 
+        connection with property--
+                    ``(A) acquired through foreclosure;
+                    ``(B) held, directly or indirectly, in a fiduciary 
+                capacity;
+                    ``(C) held by a lessor pursuant to the terms of an 
+                extension of credit; or
+                    ``(D) subject to financial control or financial 
+                oversight pursuant to the terms of an extension of 
+                credit,
+        shall be limited to the actual benefit conferred on such 
+        institution or lender by a removal, remedial, or other response 
+        action undertaken by another party.
+            ``(2) Safe harbor.--An insured depository institution or 
+        other lender shall not be liable under this Act or subtitle I 
+        of the Solid Waste Disposal Act and shall not be deemed to have 
+        participated in management, as described in section 101(20)(A) 
+        of this Act or section 9003(h)(9) of the Solid Waste Disposal 
+        Act, based solely on the fact that the institution or lender--
+                    ``(A) holds a security interest or abandons or 
+                releases its security interest in the property before 
+                foreclosure;
+                    ``(B) has the unexercised capacity to influence 
+                operations at or on property in which it has a security 
+                interest;
+                    ``(C) includes in the terms of an extension of 
+                credit (or in the contract relating thereto), 
+                covenants, warranties, or other terms and conditions 
+                that relate to compliance with environmental laws;
+                    ``(D) monitors or enforces the terms and conditions 
+                of the extension of credit;
+                    ``(E) monitors or undertakes one or more 
+                inspections of the property;
+                    ``(F) requires cleanup of the property prior to, 
+                during, or upon the expiration of the term of the 
+                extension of credit;
+                    ``(G) provides financial or other advice or 
+                counseling in an effort to mitigate, prevent, or cure 
+                default or diminution in the value of the property;
+                    ``(H) restructures, renegotiates, or otherwise 
+                agrees to alter the terms and conditions of the 
+                extension of credit;
+                    ``(I) exercises whatever other remedies that may be 
+                available under applicable law for the breach of any 
+                term or condition of the extension of credit; or
+                    ``(J) declines to take any of the actions described 
+                in this paragraph.
+    ``(b) Actual Benefit.--For purposes of this section, the actual 
+benefit conferred on an institution or lender by a removal, remedial, 
+or other response action shall be equal to the net gain, if any, 
+realized by such institution or lender due to such action. For purposes 
+of this subsection, the `net gain' shall not exceed the amount realized 
+by the institution or lender on the sale of property.
+    ``(c) Exclusion.--Notwithstanding subsection (a), but subject to 
+the provisions of section 107(d), a depository institution or lender 
+that causes or significantly and materially contributes to the release 
+of petroleum or a hazardous substance that forms the basis for 
+liability described in subsection (a), may be liable for removal, 
+remedial, or other response action pertaining to that release.
+    ``(d) Environmental Assessments.--
+            ``(1) Depository institutions.--The Federal Deposit 
+        Insurance Corporation, in consultation with the Administrator 
+        of the Environmental Protection Agency, shall promulgate 
+        regulations to implement this section. Such regulations shall 
+        include requirements for insured depository institutions to 
+        develop and implement adequate procedures to evaluate actual 
+        and potential environmental risks that may arise from or at 
+        property prior to making an extension of credit secured by such 
+        property. The regulations may provide for different types of 
+        environmental assessments as may be appropriate under the 
+        circumstances, in order to account for the levels of risk that 
+        may be posed by different classes of collateral. Failure to 
+        comply with the environmental assessment regulations 
+        promulgated under this subsection shall be deemed to be a 
+        violation of a regulation promulgated under the Federal Deposit 
+        Insurance Act.
+            ``(2) Lenders.--The Federal Deposit Insurance Corporation, 
+        in consultation with the Administrator of the Environmental 
+        Protection Agency, shall promulgate regulations that are 
+        substantially similar to those promulgated under paragraph (1) 
+        to assure that lenders develop and implement procedures to 
+        evaluate actual and potential environmental risks that may 
+        arise from or at property prior to making an extension of 
+        credit secured by such property. The regulations may provide 
+        for exclusions or different types of environmental assessments 
+        in order to take into account the level of risk that may be 
+        posed by particular classes of collateral.
+            ``(3) Final regulations.--Final regulations required to be 
+        promulgated pursuant to paragraphs (1) and (2) shall be issued 
+        not later than 180 days after the date of enactment of this 
+        section.
+    ``(e) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Property acquired through foreclosure.--The term 
+        `property acquired through foreclosure' or `acquires property 
+        through foreclosure' means property acquired, or the act of 
+        acquiring property, from a nonaffiliated party by an insured 
+        depository institution or other lender--
+                    ``(A) through purchase at sales under judgment or 
+                decree, power of sales, nonjudicial foreclosure sales, 
+                or from a trustee, deed in lieu of foreclosure, or 
+                similar conveyance, or through repossession, if such 
+                property was security for an extension of credit 
+                previously contracted;
+                    ``(B) through conveyance pursuant to an extension 
+                of credit previously contracted, including the 
+                termination of a lease agreement; or
+                    ``(C) through any other formal or informal manner 
+                by which the insured depository institution or other 
+                lender temporarily acquires, for subsequent 
+                disposition, possession of collateral in order to 
+                protect its interest.
+        Property is not acquired through foreclosure if the insured 
+        depository institution or lender does not seek to sell or 
+        otherwise divest such property at the earliest practical, 
+        commercially reasonable time, taking into account market 
+        conditions and legal and regulatory requirements.
+            ``(2) Lender.--The term `lender' means--
+                    ``(A) a person (other than an insured depository 
+                institution) that--
+                            ``(i) makes a bona fide extension of credit 
+                        to a nonaffiliated party; and
+                            ``(ii) substantially and materially 
+                        complies with the environmental assessment 
+                        requirements imposed under subsection (d), 
+                        after final regulations under that subsection 
+                        become effective;
+                and the successors and assigns of such person;
+                    ``(B) the Federal National Mortgage Association, 
+                the Federal Home Loan Mortgage Corporation, the Federal 
+                Agricultural Mortgage Corporation, or other entity that 
+                in a bona fide manner is engaged in the business of 
+                buying or selling loans or interests therein, if such 
+                Association, Corporation, or entity requires 
+                institutions from which it purchases loans (or other 
+                obligations) to comply substantially and materially 
+                with the requirements of subsection (d), after final 
+                regulations under that subsection become effective; and
+                    ``(C) any person regularly engaged in the business 
+                of insuring or guaranteeing against a default in the 
+                repayment of an extension of credit, or acting as a 
+                surety with respect to an extension of credit, to 
+                nonaffiliated parties.
+            ``(3) Fiduciary capacity.--The term `fiduciary capacity' 
+        means acting for the benefit of a nonaffiliated person as a 
+        bona fide--
+                    ``(A) trustee;
+                    ``(B) executor;
+                    ``(C) administrator;
+                    ``(D) custodian;
+                    ``(E) guardian of estates;
+                    ``(F) receiver;
+                    ``(G) conservator;
+                    ``(H) committee of estates of lunatics; or
+                    ``(I) any similar capacity.
+            ``(4) Extension of credit.--The term `extension of credit' 
+        includes a lease finance transaction--
+                    ``(A) in which the lessor does not initially select 
+                the leased property and does not during the lease term 
+                control the daily operations or maintenance of the 
+                property; or
+                    ``(B) which conforms with regulations issued by the 
+                appropriate Federal banking agency (as defined in 
+                section 3 of the Federal Deposit Insurance Act) or the 
+                appropriate State banking regulatory authority.
+            ``(5) Insured depository institution.--The term `insured 
+        depository institution' has the same meaning as in section 3(c) 
+        of the Federal Deposit Insurance Act, and shall also include--
+                    ``(A) a federally insured credit union;
+                    ``(B) a bank or association chartered under the 
+                Farm Credit Act of 1971; and
+                    ``(C) a leasing or trust company that is an 
+                affiliate of an insured depository institution (as such 
+                term is defined in this paragraph).
+            ``(6) Release.--The term `release' has the same meaning as 
+        in section 101(22), and also includes the threatened release, 
+        use, storage, disposal, treatment, generation, or 
+        transportation of a hazardous substance.
+            ``(7) Hazardous substance.--The term `hazardous substance' 
+        has the same meaning as in section 101(14).
+            ``(8) Security interest.--The term `security interest' 
+        includes rights under a mortgage, deed of trust, assignment, 
+        judgment lien, pledge, security agreement, factoring agreement, 
+        lease, or any other right accruing to a person to secure the 
+        repayment of money, the performance of a duty, or some other 
+        obligation.
+    ``(f) Savings Clause.--Nothing in this section shall affect the 
+rights or immunities or other defenses that are available under this 
+Act or other applicable law to any party subject to the provisions of 
+this section. Nothing in this section shall be construed to create any 
+liability for any party. Nothing in this section shall create a private 
+right of action against a depository institution or lender or against a 
+Federal banking or lending agency.
+    ``(g) Effective Date.--This section shall become effective upon the 
+date of its enactment.''.
+    (b) Federal Deposit Insurance Act Amendment.--The Federal Deposit 
+Insurance Act (12 U.S.C. 1811 et seq.) is amended by adding at the end 
+the following new section:
+
+``SEC. 44. FEDERAL BANKING AND LENDING AGENCY LIABILITY.
+
+    ``(a) Governmental Entities.--
+            ``(1) Banking and lending agencies.--Except as provided in 
+        paragraph (2), a Federal banking or lending agency shall not be 
+        liable under any law imposing strict liability for the release 
+        or threatened release of petroleum or a hazardous substance at 
+        or from property (including any right or interest therein) 
+        acquired--
+                    ``(A) in connection with the exercise of 
+                receivership or conservatorship authority, or the 
+                liquidation or winding up of the affairs of an insured 
+                depository institution, including any of its 
+                subsidiaries;
+                    ``(B) in connection with the provision of loans, 
+                discounts, advances, guarantees, insurance or other 
+                financial assistance; or
+                    ``(C) in connection with property received in any 
+                civil or criminal proceeding, or administrative 
+                enforcement action, whether by settlement or order.
+            ``(2) Application of state law.--Nothing in this section 
+        shall be construed as preempting, affecting, applying to, or 
+        modifying any State law, or any rights, actions, cause of 
+        action, or obligations under State law, except that liability 
+        under State law shall not exceed the value of the agency's 
+        interest in the asset giving rise to such liability. Nothing in 
+        this section shall be construed to prevent a Federal banking or 
+        lending agency from agreeing with a State to transfer property 
+        to such State in lieu of any liability that might otherwise be 
+        imposed under State law.
+            ``(3) Limitation.--Notwithstanding paragraph (1), and 
+        subject to section 107(d) of the Comprehensive Environmental 
+        Response, Compensation, and Liability Act of 1980, a Federal 
+        banking or lending agency that causes or significantly and 
+        materially contributes to the release of petroleum or a 
+        hazardous substance that forms the basis for liability 
+        described in paragraph (1), may be liable for removal, 
+        remedial, or other response action pertaining to that release.
+            ``(4) Subsequent purchaser.--The immunity provided by 
+        paragraph (1) shall extend to the first subsequent purchaser of 
+        property described in such paragraph from a Federal banking or 
+        lending agency, unless such purchaser--
+                    ``(A) would otherwise be liable or potentially 
+                liable for all or part of the costs of the removal, 
+                remedial, or other response action due to a prior 
+                relationship with the property;
+                    ``(B) is or was affiliated with or related to a 
+                party described in subparagraph (A);
+                    ``(C) fails to agree to take reasonable steps 
+                necessary to remedy the release or threatened release 
+                in a manner consistent with the purposes of applicable 
+                environmental laws; or
+                    ``(D) causes or materially and significantly 
+                contributes to any additional release or threatened 
+                release on the property.
+            ``(5) Federal or state action.--Notwithstanding paragraph 
+        (4), if a Federal agency or State environmental agency is 
+        required to take remedial action due to the failure of a 
+        subsequent purchaser to carry out, in good faith, the agreement 
+        described in paragraph (4)(C), such subsequent purchaser shall 
+        reimburse the Federal or State environmental agency for the 
+        costs of such remedial action. However, any such reimbursement 
+        shall not exceed the full fair market value of the property 
+        following completion of the remedial action.
+    ``(b) Lien Exemption.--Notwithstanding any other provision of law, 
+any property held by a subsequent purchaser referred to in subsection 
+(a)(4) or held by a Federal banking or lending agency shall not be 
+subject to any lien for costs or damages associated with the release or 
+threatened release of petroleum or a hazardous substance known to exist 
+at the time of the transfer.
+    ``(c) Exemption From Covenants To Remediate.--A Federal banking or 
+lending agency shall be exempt from any law requiring such agency to 
+grant covenants warranting that a removal, remedial, or other response 
+action has been, or will in the future be, taken with respect to 
+property acquired in the manner described in subsection (a)(1).
+    ``(d) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Federal banking or lending agency.--The term `Federal 
+        banking or lending agency' means the Corporation, the 
+        Resolution Trust Corporation, the Board of Governors of the 
+        Federal Reserve System, a Federal Reserve Bank, a Federal Home 
+        Loan Bank, the Office of the Comptroller of the Currency, the 
+        Office of Thrift Supervision, the National Credit Union 
+        Administration Board, the Farm Credit Administration, the Farm 
+        Credit System Insurance Corporation, the Farm Credit System 
+        Assistance Board, the Farmers Home Administration, the Rural 
+        Electrification Administration, and the Small Business 
+        Administration, in any of their capacities, and their agents.
+            ``(2) Hazardous substance.--The term `hazardous substance' 
+        has the same meaning as in section 101(14) of the Comprehensive 
+        Environmental Response, Compensation, and Liability Act of 
+        1980.
+            ``(3) Release.--The term `release' has the same meaning as 
+        in section 101(22) of the Comprehensive Environmental Response, 
+        Compensation, and Liability Act of 1980, and also includes the 
+        threatened release, use, storage, disposal, treatment, 
+        generation, or transportation of a hazardous substance.
+    ``(e) Savings Clause.--Nothing in this section shall affect the 
+rights or immunities or other defenses that are available under this 
+Act or other applicable law to any party subject to the provisions of 
+this section. Nothing in this section shall be construed to create any 
+liability for any party. Nothing in this section shall create a private 
+right of action against a depository institution or lender or against a 
+Federal banking or lending agency.''.
+
+             TITLE III--TECHNICAL AND CONFORMING AMENDMENTS
+
+SEC. 301. TRANSFERRED DEPOSITS.
+
+    Section 3(n) of the Federal Deposit Insurance Act (12 U.S.C. 
+1813(n)) is amended by striking ``and assumed'' and inserting ``or 
+assumed''.
+
+SEC. 302. TECHNICAL AMENDMENT.
+
+    Section 3(q)(2)(E) of the Federal Deposit Insurance Act (12 U.S.C. 
+1813(q)(2)(E)) is amended by striking ``Depository'' and inserting 
+``Financial''.
+
+SEC. 303. CERTIFIED STATEMENTS.
+
+    Section 7(a)(3) of the Federal Deposit Insurance Act (12 U.S.C. 
+1817(a)(3)) is amended by striking the third sentence and inserting the 
+following new sentence: ``Two dates shall be selected within the 
+semiannual period of January to June inclusive, and two dates shall be 
+selected within the semiannual period of July to December inclusive.''.
+
+SEC. 304. CROSS REFERENCE CORRECTION.
+
+    Section 8(o) of the Federal Deposit Insurance Act (12 U.S.C. 
+1818(o)) is amended in the second sentence by striking ``subsection 
+(b)'' and inserting ``subsection (d)''.
+
+SEC. 305. COURT COSTS; BONDS; FILING FEES.
+
+    Section 9(b)(4) of the Federal Deposit Insurance Act (12 U.S.C. 
+1819(b)(4)) is amended to read as follows:
+            ``(4) Bonds or fees.--The Corporation shall not be required 
+        to--
+                    ``(A) post any bond or security to--
+                            ``(i) initiate or respond to any action for 
+                        a temporary restraining order or an injunction; 
+                        or
+                            ``(ii) pursue any appeal;
+                    ``(B) pay any filing fees in United States district 
+                courts, bankruptcy courts, or courts of appeal; or
+                    ``(C) pay any fees for service of process by the 
+                United States Marshal.''.
+
+SEC. 306. DELETION OF OBSOLETE PROVISION.
+
+    Section 18(g)(1) of the Federal Deposit Insurance Act (12 U.S.C. 
+1828(g)(1)) is amended by striking out everything beginning with 
+``During the period commencing on October 15, 1968,'' through the 
+period at the end.
+
+SEC. 307. FEDERAL RESERVE ACT AMENDMENT.
+
+    Section 2 of the Federal Reserve Act (12 U.S.C. 222) is amended in 
+the sixth sentence of the first paragraph by inserting ``, after 
+receiving approval from the Board of Directors of the Federal Deposit 
+Insurance Corporation pursuant to section 5(a) of the Federal Deposit 
+Insurance Act,'' before ``thereupon''.
+
+SEC. 308. ANNUAL REPORT OF APPRAISAL SUBCOMMITTEE.
+
+    Section 1103(a)(4) of the Federal Financial Institutions 
+Examination Council Act of 1978 (12 U.S.C. 3332(a)(4)) is amended by 
+striking ``January'' and inserting ``March''.
+
+SEC. 309. INSURANCE OF BRIDGE BANKS.
+
+    Section 5(a)(3) of the Federal Deposit Insurance Act (12 U.S.C. 
+1815(a)(3)) is amended--
+            (1) by amending the heading to read as follows: 
+        ``Application and approval not required in certain cases.--''; 
+        and
+            (2) by inserting ``any bridge bank or'' before ``any 
+        depository institution''.
+
+SEC. 310. ADDITIONAL TECHNICAL AMENDMENTS TO THE FEDERAL BANKING AND 
+              HOUSING LAWS.
+
+    (a) Federal Deposit Insurance Act Amendments.--The Federal Deposit 
+Insurance Act (12 U.S.C. 1811 et seq.) is amended--
+            (1) in section 3--
+                    (A) in subsection (i)(1), by striking ``(11)(h)'' 
+                and inserting ``(11)(m)''; and
+                    (B) in subsection (l)(4), by striking ``bank's'' 
+                and inserting ``a bank's'';
+            (2) in section 5(b)(5), by striking the semicolon at the 
+        end and inserting a comma;
+            (3) in section 5(e)(4), by redesignating clauses (i) and 
+        (ii) as subparagraphs (A) and (B);
+            (4) in section 7(a)(3), by striking ``Chairman of the'' 
+        before ``Director of the Office of Thrift Supervision'';
+            (5) in section 7(j)(2)(A), in the third sentence--
+                    (A) by striking ``this section (j)(2)'' and 
+                inserting ``the preceding 2 sentences''; and
+                    (B) by striking ``this subsection (j)(2)'' and 
+                inserting ``the preceding 2 sentences'';
+            (6) in section 7(j)(7)(A), by striking ``monoplize'' and 
+        inserting ``monopolize'';
+            (7) in section 7(l)(7), by striking ``the ratio of the 
+        value of'' and inserting ``the ratio of'';
+            (8) in section 7(m)(5)(A) by striking ``savings association 
+        institution'' and inserting ``institution'';
+            (9) in section 7(m)(7), by inserting ``the'' before 
+        ``Federal'';
+            (10) in section 8(a)(3), by striking ``subparagraph (B)'' 
+        and inserting ``paragraph (2)(B)'';
+            (11) in section 8(a)(7)--
+                    (A) by inserting a comma after ``Board of 
+                Directors''; and
+                    (B) by striking ``the period the period'' and 
+                inserting ``the period'';
+            (12) in section 8(b)(4), by striking ``subparagraph (3) of 
+        this subsection'' and inserting ``paragraph (3)'';
+            (13) in section 8(b)(6)(F), by inserting ``appropriate 
+        Federal'' before ``banking agency'';
+            (14) in section 8(c)(2), by striking ``injuction'' and 
+        inserting ``injunction'';
+            (15) in section 8(g)(2), by striking ``depository 
+        institution'' each place it appears and inserting ``bank'';
+            (16) in section 8(o), by striking ``board of directors'' 
+        each place it appears and inserting ``Board of Directors'';
+            (17) in section 8(p), by striking ``banking'' each place it 
+        appears and inserting ``depository'';
+            (18) in section 8(r)(2), by striking ``therof'' and 
+        inserting ``thereof'';
+            (19) in section 10(b)(1), by striking ``claim'' and 
+        inserting ``claims'';
+            (20) in section 10(b)(2)(B), by inserting ``and'' at the 
+        end;
+            (21) in section 11(d)(2)(B)(iii), by striking ``is'' and 
+        inserting ``are'';
+            (22) in section 11(d)(8)(B)(ii), by inserting ``provide'' 
+        before ``a statement'';
+            (23) in section 11(d)(14)(B), by striking ``statute of 
+        limitation'' and inserting ``statute of limitations'';
+            (24) in section 11(d)(16)(B)(iv), by striking 
+        ``dispositions'' and inserting ``disposition'';
+            (25) in section 11(e)(8)(D)(v)(I), by inserting a closing 
+        parenthesis after ``1934'';
+            (26) in section 11(e)(12)(B), by striking ``directors or 
+        officers'' and inserting ``director's or officer's'';
+            (27) in section 11(f)(3)(A), by striking ``to'' in the 
+        heading and inserting ``with'';
+            (28) in section 11(i)(3)(A), by striking ``other claimant 
+        or category or claimants'' and inserting ``other claimant or 
+        category of claimants'';
+            (29) in section 11(n)(4)(E)(i), by inserting ``and'' at the 
+        end;
+            (30) in section 11(n)(12)(A), by striking ``subparagraphs'' 
+        and inserting ``subparagraph'';
+            (31) in the second sentence of section 11(q)(1), by 
+        striking ``decided'' and inserting ``held'';
+            (32) in section 13(c)(1)(B), by striking ``a in default 
+        insured bank'' and inserting ``an insured bank in default'';
+            (33) in section 13(c)(2)(A)--
+                    (A) by striking ``another'' and inserting ``an'';
+                    (B) by striking ``with an insured institution'' and 
+                inserting ``with another insured depository 
+                institution''; and
+                    (C) by striking ``by an insured institution'' and 
+                inserting ``by another insured depository 
+                institution'';
+            (34) in section 13(f)(2)(B)(i), by striking ``the in 
+        default insured bank'' and inserting ``the insured bank in 
+        default'';
+            (35) in section 13(f)(2)(B)(iii), by striking ``of of'' and 
+        inserting ``of'';
+            (36) in section 13(f)(3), by striking ``closing'' in the 
+        heading and inserting ``Default'';
+            (37) in section 13(f)(6)(A), by striking ``bank that has in 
+        default'' and inserting ``bank that is in default'';
+            (38) in section 13(f)(6)(B)(i), by striking the semicolon 
+        at the end and inserting a period;
+            (39) in section 13(f)(7)--
+                    (A) in subparagraph (A), by striking ``or'' at the 
+                end; and
+                    (B) in subparagraph (B), by striking the period at 
+                the end and inserting ``; or'';
+            (40) in section 13(f)(12)(A), by striking ``is less than'' 
+        and inserting ``are less than'';
+            (41) in section 15(c)(1), by striking ``obligations 
+        liabilities'' in the heading and inserting ``obligations, 
+        guarantees, and liabilities'';
+            (42) in section 18(b), by striking ``if such bank'' and 
+        inserting ``if such insured depository institution'';
+            (43) in section 18(c)(1)(B), by inserting ``or'' at the 
+        end;
+            (44) in section 18(c)(4), by striking ``other two banking 
+        agencies'' each place it appears and inserting ``other Federal 
+        banking agencies'';
+            (45) in section 18(c)(6), by striking ``other two banking 
+        agencies'' and inserting ``other banking agencies'';
+            (46) in section 18(c)(9), by striking ``with the following 
+        information:'' and inserting ``with--'';
+            (47) in section 18(f)--
+                    (A) by striking ``such bank'' and inserting ``such 
+                insured depository institution''; and
+                    (B) by striking ``the bank'' and inserting ``the 
+                insured depository institution'';
+            (48) in section 18(k)(4)(A)(ii)(II), by striking ``or'' at 
+        the end;
+            (49) in section 20(a)(3), by inserting ``or'' at the end;
+            (50) in section 21(c), by striking ``the bank'' and 
+        inserting ``the insured depository institution'';
+            (51) in section 21(d)(2), by striking ``the bank'' and 
+        inserting ``the insured depository institution'';
+            (52) in section 21(e), by striking ``the bank'' and 
+        inserting ``the insured depository institution'';
+            (53) in section 25(a), by striking ``the bank'' each place 
+        it appears and inserting ``the depository institution, insured 
+        branch, or bank'';
+            (54) in section 28(c)(2)(A)(i) by striking ``, or'' and 
+        inserting ``; or'';
+            (55) in section 28(d)(4)(C), by striking ``subparagraphs'' 
+        and inserting ``subparagraph'';
+            (56) in section 28(e)(4), ``any other'' and inserting ``and 
+        any other'';
+            (57) in section 30(e)(1)(A), by striking ``venders'' and 
+        inserting ``vendors'';
+            (58) in section 31(b)(1), by striking ``Board of 
+        Directors'' and inserting ``board of directors'';
+            (59) in section 33(c)(1), by striking the comma at the end 
+        and inserting a semicolon;
+            (60) in section 34(a)(1)(A)(iii), by striking ``and'' and 
+        inserting ``or'';
+            (61) in section 34(a)(2), by inserting the period at the 
+        end;
+            (62) in section 38(f)(6), by striking ``Commisssion'' and 
+        inserting ``Commission'';
+            (63) in section 40(c)(4)(A), by striking ``subsections 
+        (p)(12)(B) and (C)'' and inserting ``subparagraphs (B) and (C) 
+        of subsection (p)(12)''; and
+            (64) in section 40(d)(8)(A), by striking ``meeting'' and 
+        inserting ``meeting the''.
+    (b) Federal Home Loan Bank Act.--Section 21A of the Federal Home 
+Loan Bank Act (12 U.S.C. 1441a) is amended--
+            (1) in subsection (a), by inserting in the heading ``Thrift 
+        Depositor Protection'' before ``Oversight Board'';
+            (2) in subsection (a)(6)(C), by inserting a period at the 
+        end;
+            (3) in subsection (a)(11), by striking ``United States 
+        District Court'' and inserting ``United States district 
+        court'';
+            (4) in subsection (b)(11)(B)(iii), by striking the comma 
+        after ``chapter 5'';
+            (5) in subsection (b)(11)(E)(iv)(II), by striking 
+        ``knowledgable'' and inserting ``knowledgeable'';
+            (6) in subsection (b)(11)(G), by inserting ``Advisory 
+        personnel.--'' before ``The Corporation shall'';
+
+                                 <all>
+
+S 1124 IS----2
+S 1124 IS----3
+S 1124 IS----4
+S 1124 IS----5
+

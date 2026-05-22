@@ -1,0 +1,123 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1543 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 1543
+
+To amend the Fair Credit Reporting Act to exempt certain communications 
+    from the definition of consumer report, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 24, 2001
+
+Mr. Sessions (for himself and Ms. Jackson-Lee of Texas) introduced the 
+   following bill; which was referred to the Committee on Financial 
+                                Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Fair Credit Reporting Act to exempt certain communications 
+    from the definition of consumer report, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; FINDINGS.
+
+    (a) Short Title.--This Act may be cited as the ``Civil Rights and 
+Employee Investigation Clarification Act''.
+    (b) Findings.--The Congress finds as follows:
+            (1) The Fair Credit Reporting Act, as interpreted by the 
+        Federal Trade Commission, impedes investigations of workplace 
+        misconduct.
+            (2) The Fair Credit Reporting Act undermines the ability of 
+        employers to use experienced outside organizations or 
+        individuals to investigate allegations of drug use or sales, 
+        violence, sexual harassment, other types of harassment, 
+        employment discrimination, job safety and health violations, as 
+        well as criminal activity, including theft, fraud, 
+        embezzlement, sabotage or arson, patient or elder abuse, child 
+        abuse, and other types of misconduct related to employment.
+            (3) Employers have been advised by agencies and the courts 
+        to utilize such experienced outside organizations and 
+        individuals in many cases to assure compliance with civil 
+        rights laws and other laws, as well as written workplace 
+        policies.
+            (4) Employees and consumers are put at risk because the 
+        Fair Credit Reporting Act frustrates or impedes employers in 
+        their efforts to maintain a safe and productive workforce.
+            (5) The Fair Credit Reporting Act should not chill the use 
+        of experienced outside organizations or individuals to assist 
+        employers in their investigations of workplace misconduct or 
+        misbehavior by potentially subjecting those employers to 
+        additional liabilities or damages.
+
+SEC. 2. CERTAIN COMMUNICATIONS EXCLUDED FROM DEFINITION OF CONSUMER 
+              REPORT.
+
+    (a) Amendment to Definition of Consumer Report.--Section 
+603(d)(2)(D) of the Fair Credit Reporting Act (15 U.S.C. 
+1681a(d)(2)(D)) is amended by inserting ``or (q)'' after ``subsection 
+(o)''.
+    (b) Amendment Relating to Employment Investigation Reports.--
+Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is 
+amended by adding at the end the following new subsection:
+    ``(q) Exclusion of Certain Communications.--
+            ``(1) Self-regulatory organization defined.--For purposes 
+        of this subsection, the term `self-regulatory organization' 
+        includes a self-regulatory organization (as defined in section 
+        3(a)(26) of the Securities Exchange Act of 1934), a board of 
+        trade designated by the Commodity Futures Trading Commission, 
+        and a futures association registered with such Commission.
+            ``(2) Communications described in this subsection.--A 
+        communication is described in this subsection if--
+                    ``(A) but for subsection (d)(2)(D), the 
+                communication would be a consumer report;
+                    ``(B) the communication is made to an employer in 
+                connection with an investigation of--
+                            ``(i) suspected misconduct relating to 
+                        employment; or
+                            ``(ii) compliance with Federal, State, or 
+                        local laws and regulations, the rules of a 
+                        self-regulatory organization, or any 
+                        preexisting written policies of the employer;
+                    ``(C) the communication is not made for the purpose 
+                of investigating a consumer's credit worthiness, credit 
+                standing, or credit capacity; and
+                    ``(D) the communication is not provided to any 
+                person except--
+                            ``(i) to the employer or an agent of the 
+                        employer;
+                            ``(ii) to any Federal or State officer, 
+                        agency, or department, or any officer, agency, 
+                        or department of a unit of general local 
+                        government;
+                            ``(iii) to any self-regulatory organization 
+                        with regulatory authority over the activities 
+                        of the employer or employee;
+                            ``(iv) as otherwise required by law; or
+                            ``(v) pursuant to section 608.
+            ``(3) Subsequent disclosure.--After taking any adverse 
+        action based in whole or in part on a communication described 
+        in paragraph (2), the employer shall disclose to the consumer a 
+        summary containing the nature and substance of the 
+        communication upon which the adverse action is based.''.
+                                 <all>
+

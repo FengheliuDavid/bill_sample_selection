@@ -1,0 +1,86 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4253 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                H. R. 4253
+
+To amend the Electronic Fund Transfer Act to establish a maximum amount 
+ limitation on the exchange rates used in international wire transfers 
+                   originating in the United States.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 16, 1998
+
+Mr. Gutierrez introduced the following bill; which was referred to the 
+              Committee on Banking and Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Electronic Fund Transfer Act to establish a maximum amount 
+ limitation on the exchange rates used in international wire transfers 
+                   originating in the United States.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Wire Transfer Equity Act of 1998''.
+
+SEC. 2. MAXIMUM AMOUNT LIMITATION ON EXCHANGE RATES FOR INTERNATIONAL 
+              WIRE TRANSFERS.
+
+    (a) In General.--The Electronic Fund Transfer Act (15 U.S.C. 1693 
+et seq.) is amended--
+            (1) by redesignating sections 918, 919, 920, and 921 as 
+        sections 919, 920, 921, and 922, respectively; and
+            (2) by inserting after section 917 the following new 
+        section:
+
+``SEC. 918. MAXIMUM AMOUNT LIMITATION ON EXCHANGE RATES FOR 
+              INTERNATIONAL WIRE TRANSFERS.
+
+    ``(a) In General.--In the case of a financial institution or money 
+transmitting business which initiates an international money transfer 
+on behalf of a consumer (whether or not the consumer maintains an 
+account at such institution or business), the exchange rate used by 
+such institution or business for the currency of the country to which 
+the transfer is made may not exceed by more than 5 percent the New York 
+foreign exchange selling rate for such currency, as published in the 
+Wall Street Journal on the last business day preceding the date of the 
+transaction.
+    ``(b) Definitions.--
+            ``(1) International money transfer.--The term 
+        `international money transfer' means any money transmitting 
+        service involving an international transaction which is 
+        provided by a financial institution or a money transmitting 
+        business.
+            ``(2) Money transmitting service.--The term `money 
+        transmitting service' has the meaning given to such term in 
+        section 5330(d)(2) of title 31, United States Code.
+            ``(3) Money transmitting business.--The term `money 
+        transmitting business' has the meaning given to such term in 
+        section 5330(d)(1) of title 31, United States Code (other than 
+        subparagraph (B) of such section).''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect at the end of the 3-month period beginning on the date of 
+the enactment of this Act.
+                                 <all>
+

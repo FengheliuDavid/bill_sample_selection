@@ -1,0 +1,104 @@
+[Congressional Bills 115th Congress]
+[From the U.S. Government Publishing Office]
+[S. 350 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+115th CONGRESS
+  1st Session
+                                 S. 350
+
+  To amend the Securities Exchange Act of 1934 to prohibit Members of 
+Congress from receiving a discounted price in certain private offerings 
+                             of securities.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            February 9, 2017
+
+ Mr. Franken (for himself, Mr. Sanders, and Mr. Wyden) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                  Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Securities Exchange Act of 1934 to prohibit Members of 
+Congress from receiving a discounted price in certain private offerings 
+                             of securities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``End Congressional Stock Market Abuse 
+Act of 2017''.
+
+SEC. 2. PARTICIPATION IN SECURITIES TRANSACTIONS BY PUBLIC OFFICIALS.
+
+    Section 21A of the Securities Exchange Act of 1934 (15 U.S.C. 78u-
+1) is amended by adding at the end the following:
+    ``(j) Participation in Securities Transactions by Members of 
+Congress.--
+            ``(1) Definitions.--In this subsection--
+                    ``(A) the term `covered security'--
+                            ``(i) means any security that is regularly 
+                        traded on a United States or foreign securities 
+                        exchange; and
+                            ``(ii) includes any comparable economic 
+                        interest acquired through synthetic means such 
+                        as the use of a derivative or short selling any 
+                        publicly traded security;
+                    ``(B) the term `price'--
+                            ``(i) means--
+                                    ``(I) in the case of a purchase, 
+                                the national best offer, as defined in 
+                                section 242.600(c) of title 17, Code of 
+                                Federal Regulations;
+                                    ``(II) in the case of a sale, the 
+                                national best bid, as defined in 
+                                section 242.600(c) of title 17, Code of 
+                                Federal Regulations; or
+                                    ``(III) any other value, as 
+                                determined by the Commission; and
+                            ``(ii) does not include any commission or 
+                        fee paid to a broker or third party; and
+                    ``(C) the term `United States or foreign securities 
+                exchange' means--
+                            ``(i) a national exchange described in 
+                        section 6; and
+                            ``(ii) a designated offshore securities 
+                        market, as defined in section 230.92 of title 
+                        17, Code of Federal Regulations.
+            ``(2) Prohibition.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), a Member of Congress may not--
+                            ``(i) purchase a covered security for less 
+                        than the price available on a United States or 
+                        foreign exchange; or
+                            ``(ii) sell a covered security for more 
+                        than the price available on a United States or 
+                        foreign exchange.
+                    ``(B) Exception.--Subparagraph (A) shall not apply 
+                if a Member of Congress reasonably believes that--
+                            ``(i) in the case of a purchase of a 
+                        covered security, the discount was obtained in 
+                        a manner generally available to the public; or
+                            ``(ii) in the case of a sale of a covered 
+                        security, the premium was obtained in a manner 
+                        generally available to the public.''.
+                                 <all>
+

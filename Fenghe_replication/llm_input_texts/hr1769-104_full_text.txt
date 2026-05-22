@@ -1,0 +1,899 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1769 Introduced in House (IH)]
+
+
+
+
+
+
+
+104th CONGRESS
+  1st Session
+                                H. R. 1769
+
+   To provide for adequate funding for the Financing Corporation, to 
+  provide for the merger of the deposit insurance funds, to merge the 
+positions of Comptroller of the Currency and Director of the Office of 
+     Thrift Supervision, to provide for the conversion of savings 
+            associations into banks, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              June 7, 1995
+
+ Mr. McCollum introduced the following bill; which was referred to the 
+              Committee on Banking and Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To provide for adequate funding for the Financing Corporation, to 
+  provide for the merger of the deposit insurance funds, to merge the 
+positions of Comptroller of the Currency and Director of the Office of 
+     Thrift Supervision, to provide for the conversion of savings 
+            associations into banks, and for other purposes.
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Federal Deposit Insurance Amendments 
+Act of 1995''.
+
+  TITLE I--BANK INSURANCE FUND AND SAVINGS ASSOCIATION INSURANCE FUND
+
+SEC. 101. REFUND OF AMOUNTS IN BIF AND SAIF IN EXCESS OF DESIGNATED 
+              RESERVE AMOUNT.
+
+    Subsection (e) of section 7 of the Federal Deposit Insurance Act 
+(12 U.S.C. 1817(e)) is amended to read as follows:
+    ``(e) Refunds.--
+            ``(1) Overpayments.--In the case of any payment of an 
+        assessment by an insured depository institution in excess of 
+        the amount due to the Corporation, the Corporation may--
+                    ``(A) refund the amount of the excess payment to 
+                the insured depository institution; or
+                    ``(B) credit such excess amount toward the payment 
+                of subsequent semiannual assessments until such credit 
+                is exhausted.
+            ``(2) Balance in insurance fund in excess of designated 
+        reserve.--The amount by which the actual reserves in any 
+        insurance fund exceed the balance required to meet the 
+        designated reserve applicable with respect to such fund shall 
+        be refunded to members of the fund by the Corporation on such 
+        basis as the Board of Directors determines to be appropriate, 
+        taking into account the factors considered under the risk-based 
+        assessment system.''.
+
+SEC. 102. PAYMENT OF FICO CARRYING COSTS FROM INTEREST EARNED ON 
+              DEPOSIT INSURANCE FUNDS.
+
+    (a) In General.--Section 11(a) of the Federal Deposit Insurance Act 
+(12 U.S.C. 1821(a)) is amended by adding at the end the following new 
+paragraph:
+            ``(9) Availability of interest for fico carrying costs.--
+                    ``(A) In general.--Interest earned on the balance 
+                in any deposit insurance fund maintained by the 
+                Corporation (other than the FSLIC Resolution Fund) 
+                shall be available for transfer to the Financing 
+                Corporation for purposes of section 21(f)(1) of the 
+                Federal Home Loan Bank Act.
+                    ``(B) Amount of interest proportional to amount of 
+                insured deposits.--The amount of interest paid to the 
+                Financing Corporation from any insurance fund pursuant 
+                to subparagraph (A) shall bear the same proportion to 
+                the total amount of interest paid pursuant to such 
+                subparagraph as the amount of deposits insured by such 
+                insurance fund bears to the total amount of insured 
+                deposits, as determined by the Corporation on the basis 
+                of the most recent certified statements submitted to 
+                the Corporation pursuant to section 7(c)(1) and such 
+                other information as the Corporation may consider 
+                appropriate.
+                    ``(C) Payment by corporation.--Upon receiving 
+                notice from the Financing Corporation of the amount 
+                needed for purposes of section 21(f) of the Federal 
+                Home Loan Bank Act, the Corporation shall pay such 
+                amount from the interest earned on the balances in the 
+                deposit insurance funds in accordance with subparagraph 
+                (B).''.
+    (b) Conforming Amendment to Federal Home Loan Bank Act.--Section 
+21(f)(1) of the Federal Home Loan Bank Act (12 U.S.C. 1441(f)(1)) is 
+amended to read as follows:
+            ``(1) Interest earned on insured deposit funds.--The 
+        interest earned on the balance in any deposit insurance fund 
+        maintained by the Federal Deposit Insurance Corporation (other 
+        than the FSLIC Resolution Fund) as provided in section 11(a)(9) 
+        of the Federal Deposit Insurance Act.''.
+    (c) Assessment Authority to Cover Interest Shortfall.--Section 
+21(f)(2) of the Federal Home Loan Bank Act (12 U.S.C. 1441(f)(2)) is 
+amended to read as follows:
+            ``(2) Assessment authority.--
+                    ``(A) In general.--If the amount of interest earned 
+                on the balance in any deposit insurance fund referred 
+                to in paragraph (1) is less than such insurance fund's 
+                proportional share of the amount of interest payments, 
+                issuance costs, and custodial fees under section 
+                11(a)(9)(B) of the Federal Deposit Insurance Act, the 
+                Financing Corporation, with the approval of the Board 
+                of Directors of the Federal Deposit Insurance 
+                Corporation, shall assess against each member of such 
+                fund an assessment (in the same manner as assessments 
+                are assessed against such members by the Federal 
+                Deposit Insurance Corporation under section 7 of the 
+                Federal Deposit Insurance Act).
+                    ``(B) Maximum amount of assessment.--No assessment 
+                under subparagraph (A) with respect to members of a 
+                deposit insurance fund maintained by the Federal 
+                Deposit Insurance Corporation may exceed the amount 
+                authorized to be assessed against members Savings 
+                Association Insurance Fund members pursuant to section 
+                7 of the Federal Deposit Insurance Act.
+                    ``(C) Priority.--The Financing Corporation shall 
+                have first priority to make the assessment authorized 
+                under subparagraph (A).''.
+    (d) Technical and Conforming Amendment to the Federal Deposit 
+Insurance Act.--Section 7(b)(2)(D) of the Federal Deposit Insurance Act 
+(12 U.S.C. 1817(b)(2)(D)) is amended by striking ``Savings Association 
+Insurance Fund members'' and inserting ``members of a deposit insurance 
+fund''.
+
+SEC. 103. REPEAL OF CERTAIN CERTIFICATION REQUIREMENTS RELATING TO RTC 
+              FUNDS.
+
+    Subparagraph (F) of section 11(a)(6) of the Federal Deposit 
+Insurance Act (12 U.S.C. 1821(a)(6)) is amended--
+            (1) by striking ``At any time'' and all that follows 
+        through ``Resolution Trust Corporation,'' (the 1st place such 
+        term appears) and inserting ``At any time before the on the 
+        date of publication in the Federal Register of the notice of 
+        the merger of the Bank Insurance Fund and the Savings 
+        Association Insurance Fund into 1 deposit insurance fund under 
+        section 104(a) of the Federal Deposit Insurance Amendments Act 
+        of 1995,'';
+            (2) by inserting ``to pay for losses which have been 
+        incurred or can reasonably be expected to be incurred by the 
+        Fund'' after ``are needed by the Fund''; and
+            (3) by striking ``Corporation, if the Chairperson'' and all 
+        that follows through the end of such subparagraph and inserting 
+        ``Corporation.''.
+
+SEC. 104. MERGER OF BIF AND SAIF AFTER RECAPITALIZATION.
+
+    (a) In General.--Effective at the end of first calendar year during 
+which the Bank Insurance Fund and the Savings Association Insurance 
+Fund have each been determined by the Federal Deposit Insurance 
+Corporation to have achieved the designated reserve ratio applicable 
+with respect to each such fund under section 7(b) of the Federal 
+Deposit Insurance Act, the Corporation shall--
+            (1) merge the 2 insurance funds into 1 deposit insurance 
+        fund; and
+            (2) publish a notice of such merger in the Federal Register 
+        at the time such merger becomes effective.
+    (b) Technical and Conforming Amendments.--
+            (1) Section 11(a)(5) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1821(a)(5)) is amended to read as follows:
+            ``(5) Deposit insurance fund.--
+                    ``(A) Establishment.--There is established a fund 
+                to be known as the deposit insurance fund which shall--
+                            ``(i) be maintained and administered by the 
+                        Corporation; and
+                            ``(ii) initially consist of the assets and 
+                        liabilities of the Bank Insurance Fund and 
+                        Savings Association Insurance Fund which have 
+                        been merged by the Corporation into the deposit 
+                        insurance fund pursuant to section 5(a) of the 
+                        Federal Deposit Insurance Amendments Act of 
+                        1995.
+                    ``(B) Uses.--The deposit insurance fund shall be 
+                available to the Corporation for use with respect to 
+                insured depository institutions.
+                    ``(C) Deposits.--All amounts assessed against 
+                insured depository institutions by the Corporation 
+                shall be deposited into the deposit insurance fund.''.
+            (2) Section 11(a) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1821(a)) is amended by striking paragraphs 4(A), (6), 
+        and (7).
+            (3) Section 7 of the Federal Deposit Insurance Act (12 
+        U.S.C. 1817) is amended by striking subsection (l).
+            (4) Section 7(b)(2) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1817(b)(2)) is amended--
+                    (A) by striking subparagraphs (B), (F), and (G);
+                    (B) in clauses (i) and (iv) of subparagraph (A), by 
+                striking ``each deposit insurance fund'' and inserting 
+                ``the deposit insurance fund'';
+                    (C) in subparagraph (A)(iii), by striking ``a 
+                deposit insurance fund'' and inserting ``the deposit 
+                insurance fund''; and
+                    (D) by inserting after subparagraph (E) the 
+                following new subparagraph:
+                    ``(F) Reserve ratio defined.--For purposes of this 
+                subsection, the term `reserve ratio' means the ratio of 
+                the net worth of the deposit insurance fund to the 
+                value of the aggregate estimated insured deposits held 
+                in all insured depository institutions.''.
+            (5) Section 7(b)(3) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1817(b)(3)) is amended--
+                    (A) in subparagraph (A) by striking ``any deposit 
+                insurance fund'' and inserting ``the deposit insurance 
+                fund''; and
+                    (B) by striking subparagraphs (C) and (D).
+            (6) Section 7(b)(6) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1817(b)(6)) is amended--
+                    (A) in subparagraph (A)--
+                            (i) by inserting ``or'' after the semicolon 
+                        at the end of clause (i);
+                            (ii) by striking clause (ii); and
+                            (iii) by striking ``; and'' at the end of 
+                        clause (iii) and inserting a period; and
+                    (B) by striking subparagraph (B).
+            (7) Section 7 of the Federal Deposit Insurance Act (12 
+        U.S.C. 1817) is amended by striking subsection (l).
+            (8) Section 11(a)(4)(B) of the Federal Deposit Insurance 
+        Act (12 U.S.C. 1821(a)(4)(B)) is amended by striking ``Bank 
+        Insurance Fund and the Savings Association Insurance Fund'' and 
+        inserting ``deposit insurance fund''.
+            (9) Paragraph (1) of section 11(f) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1821(f)) is amended by striking 
+        ``depositor, except that--'' and all that follows through the 
+        period at the end of the paragraph and inserting 
+        ``depositor.''.
+            (10) Section 11(i)(3) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1821(i)(3)) is amended--
+                    (A) by striking subparagraph (B); and
+                    (B) in subparagraph (C), by striking 
+                ``subparagraphs (A) and (B)'' and inserting 
+                ``subparagraph (A)''.
+            (11) Section 11A(a)(3) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1821a(a)(3)) is amended by striking ``Bank Insurance 
+        Fund, the Savings Association Insurance Fund,'' and inserting 
+        ``deposit insurance fund''.
+            (12) Section 11A(f) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1821a(f)) is amended by striking ``Savings 
+        Association Insurance Fund'' and inserting ``deposit insurance 
+        fund''.
+            (13) Section 13(a)(1) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1823(a)(1)) is amended by striking ``Bank Insurance 
+        Fund, Savings Association Insurance Fund,'' and inserting 
+        ``deposit insurance fund''.
+            (14) Section 13(c)(4)(G) of the Federal Deposit Insurance 
+        Act (12 U.S.C. 1823(c)(4)(G)) is amended--
+                    (A) in clause (ii)--
+                            (i) by striking ``appropriate insurance 
+                        fund'' and inserting ``depository insurance 
+                        fund'';
+                            (ii) by striking ``the members of the 
+                        insurance fund (of which such institution is a 
+                        member)'' and inserting ``insured depository 
+                        institutions'';
+                            (iii) by striking ``each member's'' and 
+                        inserting ``each insured depository 
+                        institution's''; and
+                            (iv) by striking ``the member's'' and 
+                        inserting ``the institution's''.
+            (15) Section 13(c) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1823(c)) is amended by striking paragraph (11).
+            (16) Section 13(h) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1823(h)) is amended by striking ``Bank Insurance Fund'' 
+        and inserting ``deposit insurance fund''.
+            (17) Section 13(k)(4)(B)(i) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1823(k)(4)(B)(i)) is amended by 
+        striking ``Savings Association Insurance Fund member'' and 
+        inserting ``savings association''.
+            (18) Section 13(k)(5)(A) of the Federal Deposit Insurance 
+        Act (12 U.S.C. 1823(k)(5)(A)) is amended by striking ``Savings 
+        Association Insurance Fund members'' and inserting ``savings 
+        associations''.
+            (19) Section 14(a) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1824(a)) is amended by striking ``Bank Insurance Fund or 
+        the Savings Association Insurance Fund'' and inserting 
+        ``depository institution fund''.
+            (20) Section 14(b) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1824(b)) is amended by striking ``Bank Insurance Fund or 
+        Savings Association Insurance Fund'' and inserting ``deposit 
+        insurance fund''.
+            (21) Section 14(c) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1824(c)) is amended by striking paragraph (3).
+            (22) Section 14 of the Federal Deposit Insurance Act (12 
+        U.S.C. 1824) is amended by striking subsection (d).
+            (23) Section 15(c)(5) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1825(c)(5)) is amended--
+                    (A) by striking ``Bank Insurance Fund or Savings 
+                Association Insurance Fund, respectively,'' and 
+                inserting ``deposit insurance fund'';
+                    (B) by striking ``Bank Insurance Fund or Savings 
+                Association Insurance Fund, respectively;'' and 
+                inserting ``deposit insurance fund;''; and
+                    (C) by striking ``Bank Insurance Fund or the 
+                Savings Association Insurance Fund, respectively,'' and 
+                inserting ``deposit insurance fund,''.
+            (24) Section 17(a)(1) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1827(a)(1)) is amended by striking ``Bank Insurance 
+        Fund, the Savings Association Insurance Fund,'' each place such 
+        term appears and inserting ``deposit insurance fund''.
+            (25) Section 17(d) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1827(d)) is amended by striking ``Bank Insurance Fund, 
+        the Savings Association Insurance Fund,'' each place such term 
+        appears and inserting ``deposit insurance fund''.
+            (26) The heading for section 17(a) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1827(a)) is amended by striking ``BIF, 
+        SAIF,'' and inserting ``the Deposit Insurance Fund''.
+            (27) Section 18(m)(3) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1828(m)(3)) is amended--
+                    (A) in subparagraph (A)--
+                            (i) by striking ``Savings Association 
+                        Insurance Fund.'' and inserting ``deposit 
+                        insurance fund.''; and
+                            (ii) by striking ``Savings Association 
+                        Insurance Fund member'' and inserting ``savings 
+                        association''; and
+                    (B) in subparagraph (C), by striking ``Savings 
+                Association Insurance Fund or the Bank Insurance Fund'' 
+                and inserting ``deposit insurance fund''.
+            (28) Subsections (a)(1) and (d)(1)(A) of section 24 of the 
+        Federal Deposit Insurance Act (12 U.S.C. 1831a) are each 
+        amended by striking ``appropriate''.
+            (29) Section 24(e)(2) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1831a(e)(2)) is amended--
+                    (A) in subparagraph (A), by striking ``of which 
+                such banks are members''; and
+                    (B) in subparagraph (B)(ii), by striking ``of which 
+                such bank is a member''.
+            (30) Section 24(f)(6)(B) of the Federal Deposit Insurance 
+        Act (12 U.S.C. 1831a(f)(6)(B)) is amended by striking ``of 
+        which such bank is a member''.
+            (31) Section 28 of the Federal Deposit Insurance Act (12 
+        U.S.C. 1831e) is amended by striking ``affected deposit 
+        insurance fund'' each place such term appears and inserting 
+        ``deposit insurance fund''.
+            (32) Section 31(a) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1831h(a)) is amended by striking ``Insurance Fund''.
+            (33) The heading for section 31 of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1831h) is amended by striking 
+        ``insurance fund''.
+            (34) Section 31(b)(1) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1831h(b)(1)) is amended by striking ``insured 
+        depository institutions that are Savings Association Insurance 
+        Fund members'' and inserting ``savings associations''.
+            (35) Section 31(f)(1) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1831h(f)(1)) is amended by striking ``insured 
+        financial institutions that are members of the Savings 
+        Association Insurance Fund'' and inserting ``savings 
+        associations''.
+            (36) Section 36(i)(3) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1831m(i)(3)) is amended by striking ``affected''.
+            (37) Section 38(o)(1) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1831o(o)(1)) is amended by striking ``Savings 
+        Association Insurance Fund'' and inserting ``deposit insurance 
+        fund''.
+    (c) Effective Date of Amendments.--The amendments made by 
+subsection (b) shall take effect as of the date of publication in the 
+Federal Register of the notice required under subsection (a)(2).
+                    TITLE II--MERGER OF OCC AND OTS
+
+                    Subtitle A--Federal Bank Agency
+
+SEC. 201. ESTABLISHMENT.
+
+    (a) Establishment of the Agency.--Effective January 1, 1996, there 
+is established the Federal Bank Agency which shall be an independent 
+establishment.
+    (b) Definitions.--For purposes of this subtitle, the following 
+definitions shall apply:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Federal Bank Agency.
+            (2) Agency.--The term ``Agency'' means the Federal Bank 
+        Agency.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Treasury.
+
+SEC. 202. ADMINISTRATOR OF THE FEDERAL BANK AGENCY.
+
+    (a) In General.--The Agency shall have an Administrator who shall 
+be the head of the Agency.
+    (b) Appointment.--The Administrator shall be appointed by the 
+President, by and with the advice and consent of the Senate, from among 
+individuals who are citizens of the United States.
+    (c) Term.--The Administrator shall be appointed for a term of 5 
+years.
+    (d) Vacancy.--A vacancy in the position of Administrator which 
+occurs before expiration of the term for which an Administrator was 
+appointed shall be filled in the manner established in subsection (b), 
+and the Administrator appointed to fill such vacancy shall be appointed 
+only for the remainder of said term.
+    (e) Service After End of Term.--An individual may serve as 
+Administrator after the expiration of the term for which appointed 
+until a successor Administrator has been appointed.
+    (f) Deputy Administrators.--
+            (1) Deputy administrator for national banks.--
+                    (A) In general.--The Agency shall have a Deputy 
+                Administrator for National Banks who shall be appointed 
+                by the President, by and with the advice and consent of 
+                the Senate.
+                    (B) Duties and powers.--The Deputy Administrator 
+                for National Banks shall--
+                            (i) perform such duties and exercise such 
+                        powers as the Administrator may prescribe; and
+                            (ii) perform the functions which are 
+                        transferred to the agency from the Comptroller 
+                        of the Currency until the Administrator 
+                        provides otherwise.
+            (2) Deputy administrator for savings associations.--
+                    (A) In general.--The Agency shall have a Deputy 
+                Administrator for Savings Associations who shall be 
+                appointed by the President, by and with the advice and 
+                consent of the Senate.
+                    (B) Duties and powers.--The Deputy Administrator 
+                for Savings Associations shall--
+                            (i) perform such duties and exercise such 
+                        powers as the Administrator may prescribe; and
+                            (ii) perform the functions which are 
+                        transferred to the agency from the Director of 
+                        the Office of Thrift Supervision until the 
+                        Administrator provides otherwise.
+    (g) Effective Date.--This section shall take effect on January 1, 
+1996.
+
+SEC. 203. AUTHORITY OF THE ADMINISTRATOR.
+
+    (a) Delegation of Authority.--The Administrator may delegate to any 
+employee, representative, or agent of the Agency any authority of the 
+Administrator.
+    (b) Effective Date.--This section shall take effect on January 1, 
+1996.
+SEC. 204. PERSONNEL.
+
+    (a) In General.--The Administrator shall fix the number and 
+compensation of, and appoint and direct, all employees of the Agency.
+    (b) Effective Date.--This section shall take effect on January 1, 
+1997.
+
+SEC. 205. REGULATIONS AND ORDERS.
+
+    The Administrator may prescribe such regulations and issue such 
+orders as the Administrator may determine to be necessary or 
+appropriate for carrying out any law within the Administrator's 
+jurisdiction.
+
+SEC. 206. FUNDING.
+
+    (a) Authority To Impose and Collect Assessments, Fees, and Other 
+Charges.--
+            (1) In general.--The Administrator may impose and collect 
+        such assessments, fees, and other charges on any institution or 
+        entity (including any affiliates of any such institution or 
+        entity) for which the Administrator is the appropriate Federal 
+        banking agency, as defined in section 3(q)(1) of the Federal 
+        Deposit Insurance Act, as the Administrator determines to be 
+        necessary or appropriate to carry out the responsibilities of 
+        the Agency.
+            (2) No net cost to government.--The amount of any 
+        assessment, fee, or other charge shall be not less than the 
+        amount necessary to meet the full cost to the Federal 
+        Government of the service provided by the Agency.
+    (b) Use of Funds.--The Administrator may use the funds obtained 
+through assessments, fees, and other charges imposed pursuant to this 
+subtitle to pay the full cost to the Federal Government of the services 
+provided by the Agency.
+    (c) Agency Not Subject to Apportionment of Funds.--Notwithstanding 
+any other provision of law, amounts received by the Agency pursuant to 
+any assessment, fee, or other charge imposed under this Act or any 
+other provision of law and any other money received by the Agency shall 
+not be subject to apportionment for the purpose of chapter 15 of title 
+31, United States Code, or under any other authority.
+    (d) Technical and Conforming Amendment Relating to Sequestration.--
+Paragraph (1) of section 255(g) of the Balanced Budget and Emergency 
+Deficit Control Act of 1985 is amended--
+            (1) by striking the items relating to the Comptroller of 
+        the Currency and the Director of the Office of Thrift 
+        Supervision; and
+            (2) by inserting after the item relating to the Farm Credit 
+        System Financial Assistance Corporation, interest payment (20-
+        1850-0-1-351) the following new item:
+                    ``Federal Bank Agency;''.
+    (e) Effective Date.--This section and the amendments made by this 
+section shall take effect on Jan- uary 1, 1997.
+ Subtitle B--Interim Provisions; Transfer of Functions, Personnel, and 
+                                Property
+
+SEC. 211. INTERIM PROVISIONS FOR THE FEDERAL BANK AGENCY.
+
+    (a) Interim Authority of the Administrator.--Prior to the date upon 
+which the functions of the Office of the Comptroller of the Currency 
+and the Office of Thrift Supervision are transferred to the 
+Administrator pursuant to this Act, the Administrator shall--
+            (1) consult and cooperate with the Director of the Office 
+        of Thrift Supervision and the Comptroller of the Currency to 
+        facilitate the orderly transfer of functions to the Office; and
+            (2) take such actions as may be necessary to provide for 
+        the establishment of the Agency and for the orderly 
+        implementation of this subtitle.
+    (b) Interim Staff.--Prior to the date upon which the Office of the 
+Comptroller of the Currency and the Office of Thrift Supervision are 
+abolished, each such Office shall detail to the Agency such personnel 
+as the Administrator deems appropriate to assist the Administrator in 
+carrying out the duties of subtitle A.
+    (c) Interim Administrative Services.--The Secretary may provide all 
+administrative services necessary to support the Agency prior to the 
+date upon which the Office of the Comptroller of the Currency and the 
+Office of Thrift Supervision are abolished, and obtain reimbursement 
+for the cost of such services pursuant to subsection (d).
+    (d) Interim Funding.--Prior to the date upon which the Office of 
+the Comptroller of the Currency and the Office of Thrift Supervision 
+are abolished, each such Office shall pay to the Secretary one-half of 
+the total amount determined by the Secretary to be necessary to fund 
+all direct and indirect salary and administrative expenses of the 
+Agency, including the salary of the Administrator, through January 1, 
+1997, from the funds obtained by such Offices through assessments, 
+fees, and other charges which they are authorized to impose by law. The 
+Secretary may credit to an appropriation and spend amounts received 
+pursuant to this subsection. Upon the appointment of the Administrator, 
+the amounts paid to the Secretary under this subsection shall be paid 
+by the Secretary to the Administrator.
+    (e) Interim Authority of the Secretary.--The Secretary is 
+authorized to perform the functions of the Administrator under this 
+section until the Administrator is appointed.
+    (f) Merger of Transferred Employees.--The Administrator shall, to 
+the maximum extent practicable, merge and consolidate the work force 
+structures of the Office of the Comptroller of the Currency and the 
+Office of Thrift Supervision. In merging the work forces, the 
+Administrator shall establish procedures which take into account the 
+job experience of, and the compensation and benefits provided to, the 
+transferred employees at the prior agency.
+    (g) Effective Date.--This section shall take effect on January 1, 
+1996.
+
+SEC. 212. OFFICE OF THRIFT SUPERVISION ABOLISHED.
+
+    (a) Office of Thrift Supervision Abolished.--Effective January 1, 
+1997, the Office of Thrift Supervision and the position of Director of 
+the Office of Thrift Supervision are hereby abolished.
+    (b) Disposition of Affairs.--
+            (1) In general.--In winding up the affairs of the Office of 
+        Thrift Supervision, the Director of the Office of Thrift 
+        Supervision shall consult and cooperate with the Administrator 
+        of the Agency, the Comptroller of the Currency, and, with 
+        respect to savings and loan holding companies, the Board of 
+        Governors of the Federal Reserve System to facilitate the 
+        orderly transfer of the functions to the
+         Agency or such Board. Any matter not resolved pursuant to such 
+consultation and cooperation shall be resolved by the Secretary.
+            (2) Continuing authority of director of the office of 
+        thrift supervision.--Except as provided in paragraph (1) and 
+        section 211, no provision of this subtitle shall be construed 
+        as affecting the authority vested in the Director of the Office 
+        of Thrift Supervision before the date of enactment of this Act 
+        which is necessary to carry out the duties of the position 
+        until the date upon which the position of Director of the 
+        Office of Thrift Supervision is abolished.
+            (3) Continuation of agency services.--Any agency, 
+        department, or other instrumentality of the United States, or 
+        any successor to any such agency, department, or 
+        instrumentality, which was providing support services to the 
+        Office of Thrift Supervision on the day before the date the 
+        Office of Thrift Supervision is abolished shall--
+                    (A) continue to provide such services on a 
+                reimbursable basis, in accordance with the terms of the 
+                arrangement pursuant to which such services were 
+                provided until the arrangement is modified or 
+                terminated in accordance with such terms, except that 
+                effective Jan- uary 1, 1997, the Agency shall be 
+                substituted for the Office of Thrift Supervision as a 
+                party to the arrangement; and
+                    (B) consult with the Administrator to coordinate 
+                and facilitate a prompt and reasonable transition.
+    (c) Savings Provisions.--
+            (1) Existing rights, duties, and obligations not 
+        affected.--No provision of this subtitle shall be construed as 
+        affecting the validity of any right, duty, or obligation of the 
+        United States, the Office of Thrift Supervision, or any person, 
+        which existed on the day before the date upon which the Office 
+        of Thrift Supervision is abolished.
+            (2) Continuation of suits.--No action or other proceeding 
+        commenced by or against the Office of Thrift Supervision shall 
+        abate by reason of enactment of this Act, except that, 
+        effective January 1, 1997, the Administrator shall be 
+        substituted as a party to any such action or proceeding.
+            (3) Continuation of administrative rules.--All orders, 
+        resolutions, determinations, regulations, interpretative rules, 
+        other interpretations, guidelines, procedures, and other 
+        advisory material which--
+                    (A) have been issued, made, prescribed, or 
+                permitted to become effective by the Office of Thrift 
+                Supervision, and
+                    (B) are in effect on December 31, 1996, (or become 
+                effective after such date pursuant to the terms of the 
+                order, resolution, determination, rule, other 
+                interpretation, guideline, procedure, and other 
+                advisory material, as in effect on such date), shall--
+                            (i) continue in effect according to the 
+                        terms of such orders, resolutions, 
+                        determinations, regulations, interpretative 
+                        rules, other interpretations, guidelines, 
+                        procedures, or other advisory material;
+                            (ii) be administered by the Administrator 
+                        or, in the case of a savings and loan holding 
+                        company or a subsidiary of such holding company 
+                        (other than a depository institution), the 
+                        Board of Governors of the Federal Reserve 
+                        System; and
+                            (iii) be enforceable by or against the 
+                        Administrator or such Board until modified, 
+                        terminated, set aside, or superseded in 
+                        accordance with applicable law by the 
+                        Administrator or Board, by any court of 
+                        competent jurisdiction, or by operation of law.
+    (d) Transfer of Property.--Effective January 1, 1997, all property 
+of the Office of Thrift Supervision shall be transferred to the Agency.
+
+SEC. 213. OFFICE OF THE COMPTROLLER OF THE CURRENCY ABOLISHED.
+
+    (a) Office of the Comptroller of the Currency Abolished.--Effective 
+January 1, 1997, the Office of the Comptroller of the Currency and the 
+position of the Comptroller of the Currency are abolished.
+    (b) Disposition of Affairs.--
+            (1) In general.--In winding up the affairs of the Office of 
+        the Comptroller of the Currency, the Comptroller of the 
+        Currency shall consult and cooperate with the Administrator of 
+        the Federal Bank Agency and the Director of the Office of 
+        Thrift Supervision to facilitate the orderly transfer of 
+        functions to the Agency. Any matter not resolved pursuant to 
+        such consultation and cooperation shall be resolved by the 
+        Secretary.
+            (2) Continuing authority of the comptroller of the 
+        currency.--Except as provided
+         in paragraph (1) and section 211, no provision of this Act 
+shall be construed as affecting the authority vested in the Comptroller 
+of the Currency before the date of enactment of this Act which is 
+necessary to carry out the duties of the position until the date upon 
+which the position of Comptroller is abolished.
+            (3) Continuation of agency services.--Any agency, 
+        department, or other instrumentality of the United States, or 
+        any successor to any such agency, department, or 
+        instrumentality, which was providing support services to the 
+        Office of the Comptroller of the Currency on the day before the 
+        date the Office of the Comptroller of the Currency is abolished 
+        shall--
+                    (A) continue to provide such services, on a 
+                reimbursable basis, in accordance with the terms of the 
+                arrangement pursuant to which such services were 
+                provided until the arrangement is modified or 
+                terminated in accordance with such terms, except that 
+                effective Jan- uary 1, 1997, the Agency shall be 
+                substituted for the Office of the Comptroller of the 
+                Currency as a party to the arrangement; and
+                    (B) consult with the Administrator to coordinate 
+                and facilitate a prompt and reasonable transition.
+    (c) Savings Provisions.--
+            (1) Existing rights, duties, and obligations not 
+        affected.--No provision of this subtitle shall be construed as 
+        affecting the validity of any right, duty, or obligation of the 
+        United States, the Office of the Comptroller of the Currency, 
+        or any person, which existed on the day before the date upon 
+        which the Office of the Comptroller of the Currency is 
+        abolished by this subtitle.
+            (2) Continuation of suits.--No action or other proceeding 
+        commenced by or against the Comptroller of the Currency or the 
+        Office of the Comptroller of the Currency shall abate by reason 
+        of enactment of this Act, except that effective Jan- uary 1, 
+        1997, the Administrator shall be substituted as a party to any 
+        such action or proceeding.
+            (3) Continuation of administrative rules.--All orders, 
+        resolutions, determinations, regulations, interpretative rules, 
+        other interpretations, guidelines, procedures, and other 
+        advisory material which--
+                    (A) have been issued, made, prescribed, or 
+                permitted to become effective by the Comptroller of the 
+                Currency; and
+                    (B) are in effect on December 31, 1996, (or become 
+                effective after such date pursuant to the terms of the 
+                order, resolution, determination, rule, other 
+                interpretation, guideline, procedure, and other 
+                advisory material, as in effect on such date) shall--
+                            (i) continue in effect according to the 
+                        terms of such orders, resolutions, 
+                        determinations, regulations, interpretative 
+                        rules, guidelines, procedures or other advisory 
+                        material;
+                            (ii) be administered by the Administrator; 
+                        and
+                            (iii) be enforceable by or against the 
+                        Administrator until modified, terminated, set 
+                        aside, or superseded in accordance with 
+                        applicable law by the Administrator, by any 
+                        court of competent jurisdiction, or by 
+                        operation of law.
+    (d) Transfer of Property.--Effective January 1, 1997, all property 
+of the Office of the Comptroller of the Currency shall be transferred 
+to the Agency.
+
+SEC. 214. REFERENCES IN FEDERAL LAW TO FEDERAL BANKING AGENCIES.
+
+    Any reference in any Federal law to the Comptroller of the 
+Currency, the Office of the Comptroller of the Currency, the Director 
+of the Office of Thrift Supervision, or the Office of Thrift 
+Supervision shall be deemed to be a reference to the appropriate 
+Federal banking agency (as defined in section 3(q) of the Federal 
+Deposit Insurance Act).
+
+         Subtitle C--Regulatory and Supervisory Responsibility
+
+SEC. 221. TRANSFER OF POWERS AND DUTIES.
+
+    (a) Director of the Office of Thrift Supervision.--Effective 
+January 1, 1997, all powers and duties which were vested in the 
+Director of the Office of Thrift Supervision on December 31, 1996, are 
+transferred to the Administrator, except as otherwise provided in this 
+Act.
+    (b) Comptroller of the Currency.--Effective January 1, 1997, all 
+powers and duties which were vested in the Comptroller of the Currency 
+on December 31, 1996, are transferred to the Administrator, except as 
+otherwise provided in this Act.
+SEC. 222. TRANSFER OF REGULATION OF SAVINGS AND LOAN HOLDING COMPANIES 
+              TO FEDERAL RESERVE BOARD.
+
+    The Bank Holding Company Act of 1956 (12 U.S.C. 1441 et seq.) is 
+amended--
+            (1) by redesignating sections 11 and 12 as sections 13 and 
+        14, respectively; and
+            (2) by transferring section 10 of the Home Owners' Loan Act 
+        from such Act and inserting such section after section 10 of 
+        the Bank Holding Company Act of 1956;
+            (3) by redesignating the section transferred and inserted 
+        after section 10 by paragraph (2) of this section as section 
+        11; and
+            (4) by striking ``Director'' each place such term appears 
+        in section 11 (as so redesignated by paragraph (3) of this 
+        section) and inserting ``Board''.
+
+SEC. 223. APPROPRIATE FEDERAL BANKING AGENCY.
+
+    (a) In General.--Effective January 1, 1997, section 3(q) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1813(q)) is amended to read as 
+follows:
+    ``(q) Appropriate Federal Banking Agency.--The term `appropriate 
+Federal banking agency' means--
+            ``(1) the Administrator of the Federal Bank Agency in the 
+        case of any national banking association, any savings 
+        association, any District bank, or any Federal branch or agency 
+        of a foreign bank;
+            (2) the Board of Governors of the Federal Reserve System, 
+        in the case of--
+                    (A) any State member insured bank (except a 
+                District bank),
+                    (B) any branch or agency of a foreign bank with 
+                respect to any provision of the Federal Reserve Act 
+                which is made applicable under the International 
+                Banking Act of 1978,
+                    (C) any foreign bank which does not operate an 
+                insured branch,
+                    (D) any agency or commercial lending company other 
+                than a Federal agency,
+                    (E) supervisory or regulatory proceedings arising 
+                from the authority given to the Board of Governors 
+                under section 7(c)(1) of the International Banking Act 
+                of 1978, including such proceedings under the Financial 
+                Institutions Supervisory Act of 1966, and
+                    (F) any depository institution holding company and 
+                any subsidiary of a depository institution holding 
+                company (other than a depository institution); and
+            (3) the Federal Deposit Insurance Corporation in the case 
+        of a State nonmember insured bank (except a District bank), or 
+        a foreign bank having an insured branch.
+Under the rule set forth in this subsection, more than one agency may 
+be an appropriate Federal banking agency with respect to any given 
+institution.''.
+    (b) Responsible Agency.--Section 18(c)(2) of the Federal Deposit 
+Insurance Act (12 U.S.C. 1828(c)(2)) is amended--
+            (1) in subparagraph (A)--
+                    (A) by striking ``Comptroller of the Currency'' and 
+                inserting ``Federal Banking Agency'';
+                    (B) by striking ``resulting bank'' and inserting 
+                ``resulting institution''; and
+                    (C) by striking ``or a District bank'' and 
+                inserting ``District bank, or savings association'';
+            (2) by inserting ``and'' after the semicolon at the end of 
+        subparagraph (B);
+            (3) by striking ``; and'' at the end of subparagraph (C) 
+        and inserting a period; and
+            (4) by striking subparagraph (D).
+
+         Subtitle D--Reorganization of FDIC Board of Directors
+
+SEC. 241. FEDERAL DEPOSIT INSURANCE CORPORATION.
+
+    (a) Reorganization.--Section 2(a) of the Federal Deposit Insurance 
+Act (12 U.S.C. 1812) is amended to read as follows:
+    ``(a) Board of Directors.--
+            ``(1) In general.--The management of the Corporation shall 
+        be vested in a Board of Directors consisting of 3 members 
+        appointed by the President, by and with the advice and consent 
+        of the Senate, from among individuals who are citizens of the 
+        United States.
+            ``(2) Political affiliation.--Not more than 2 of the 
+        members of the Board of Directors may be members of the same 
+        political party.
+
+             TITLE III--MERGER OF BANK AND THRIFT CHARTERS
+
+SEC. 301. TREASURY STUDY ON MERGER OF CHARTERS.
+
+    (a) Study Required.--Before the end of the 12-month period 
+beginning on the date of the enactment of this Act, the Secretary of 
+the Treasury shall--
+            (1) conduct a study on--
+                    (A) the consolidation of national bank and savings 
+                association charters into a unified charter for 
+                depository institutions; and
+                    (B) the most feasible means for the conversion of 
+                national banks and savings associations into depository 
+                institutions with a unified charter; and
+            (2) identify any difficulties or problems which may arise 
+        in connection with such conversions.
+    (b) Factors To Be Considered.--In conducting the study under 
+subsection (a) with respect to the conversion of national banks and 
+savings associations into depository institutions with a unified 
+charter, the Secretary shall consider and make recommendations with 
+respect to the following issues:
+            (1) The tax consequences of any such conversion.
+            (2) Membership in Federal home loan banks.
+            (3) The regulation of holding companies.
+            (4) The continuation of the mutual form of ownership of 
+        depository institutions following any conversion to a unified 
+        charter.
+            (5) Any other issue with respect to such conversions which 
+        the Secretary considers appropriate, especially any issue 
+        relating to any adverse or unanticipated consequence of any 
+        such conversion.
+    (c) Report to Congress.--
+            (1) Report required.--Before the end of the 12-month period 
+        described in subsection (a), the Secretary of the Treasury 
+        shall submit a report to the Congress on the findings and 
+        conclusions of the Secretary with respect to the study 
+        conducted in accordance with subsection (a).
+            (2) Contents.--The report submitted to the Congress 
+        pursuant to paragraph (1) shall contain such recommendations 
+        for legislative or administrative action as the Secretary of 
+        the Treasury may determine to be appropriate.
+            (3) Legislative recommendations.--Any legislative 
+        recommendation included in the report under paragraph (2) shall 
+        be accompanied by draft legislative language which, if enacted 
+        by the Congress, would carry out such recommendation.
+
+SEC. 302. CONVERSION OF SAVINGS ASSOCIATIONS TO BANKS AFTER MERGER OF 
+              BIF AND SAIF.
+
+    (a) In General.--Before the end of the 12-month period beginning on 
+the date of publication in the Federal Register of the notice of the 
+merger of the Bank Insurance Fund and the Savings Association Insurance 
+Fund into 1 deposit insurance fund under section 104(a), each Federal 
+savings association shall surrender the saving association charter of 
+such association and obtain a bank charter in accordance with 
+applicable law.
+    (b) Termination of Deposit Insurance of Savings Associations.--
+Section 8(a) of the Federal Deposit Insurance Act (12 U.S.C. 1818(a)) 
+is amended by adding at the end the following new paragraph:
+            ``(11) Termination of insurance of savings association.--
+        Before the end of the 12-month period beginning on the date of 
+        publication in the Federal Register of the notice of the merger 
+        of the Bank Insurance Fund and the Savings Association 
+        Insurance Fund into 1 deposit insurance fund under section 
+        104(a) of the Federal Deposit Insurance Amendments Act of 1995, 
+        the Corporation shall terminate, in accordance with this 
+        subsection, the insured status of any insured depository 
+        institution which is not a bank.''.
+    (c) Repeal of Home Owners' Loan Act.--Effective as of the end of 
+the 12-month period described in subsection (a), the Home Owners' Loan 
+Act (12 U.S.C. 1461 et seq.) is hereby repealed.
+                                 <all>
+HR 1769 IH----2
+HR 1769 IH----3
+HR 1769 IH----4
+

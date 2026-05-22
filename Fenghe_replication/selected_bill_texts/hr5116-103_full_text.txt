@@ -1,0 +1,2580 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5116 Enrolled Bill (ENR)]
+
+        H.R.5116
+
+                       One Hundred Third Congress
+
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+ the twenty-fifth day of January, one thousand nine hundred and ninety-
+                                  four
+
+
+                                 An Act
+
+  
+ 
+  To amend title 11 of the United States Code.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    (a) Short Title.--This Act may be cited as the ``Bankruptcy Reform 
+Act of 1994''.
+    (b) Table of Contents.--The table of contents is as follows:
+Sec. 1. Short title.
+
+               TITLE I--IMPROVED BANKRUPTCY ADMINISTRATION
+
+Sec. 101. Expedited hearing on automatic stay.
+Sec. 102. Jurisdiction to review interlocutory orders increasing or 
+          reducing certain time periods for filing plan.
+Sec. 103. Expedited procedure for reaffirmation of debts.
+Sec. 104. Powers of bankruptcy courts.
+Sec. 105. Participation by bankruptcy administrator at meetings of 
+          creditors and equity security holders.
+Sec. 106. Definition relating to eligibility to serve on chapter 11 
+          committees.
+Sec. 107. Increased incentive compensation for trustees.
+Sec. 108. Dollar adjustments.
+Sec. 109. Premerger notification.
+Sec. 110. Allowance of creditor committee expenses.
+Sec. 111. Supplemental injunctions.
+Sec. 112. Authority of bankruptcy judges to conduct jury trials in civil 
+          proceedings.
+Sec. 113. Sovereign immunity.
+Sec. 114. Service of process in bankruptcy proceedings on an insured 
+          depository Pinstitution.
+Sec. 115. Meetings of creditors and equity security holders.
+Sec. 116. Tax assessment.
+Sec. 117. Additional trustee compensation.
+
+                 TITLE II--COMMERCIAL BANKRUPTCY ISSUES
+
+Sec. 201. Aircraft equipment and vessels; rolling stock equipment.
+Sec. 202. Limitation on liability of non-insider transferee for avoided 
+          transfer.
+Sec. 203. Perfection of purchase-money security interest.
+Sec. 204. Continued perfection.
+Sec. 205. Rejection of unexpired leases of real property or timeshare 
+          interests.
+Sec. 206. Contents of plan.
+Sec. 207. Priority for independent sales representatives.
+Sec. 208. Exclusion from the estate of interests in liquid and gaseous 
+          hydrocarbons transferred by the debtor pursuant to production 
+          payment agreements.
+Sec. 209. Seller's right to reclaim goods.
+Sec. 210. Investment of money of the estate.
+Sec. 211. Election of trustee under chapter 11.
+Sec. 212. Rights of partnership trustee against general partners.
+Sec. 213. Impairment of claims and interests.
+Sec. 214. Protection of security interest in post-petition rents and 
+          lodging payments.
+Sec. 215. Amendment to definition of swap agreement.
+Sec. 216. Limitation on avoiding powers.
+Sec. 217. Small businesses.
+Sec. 218. Single asset real estate.
+Sec. 219. Leases of personal property.
+Sec. 220. Exemption for small business investment companies.
+Sec. 221. Payment of taxes with borrowed funds.
+Sec. 222. Return of goods.
+Sec. 223. Proceeds of money order agreements.
+Sec. 224. Trustee duties; professional fees.
+Sec. 225. Notices to creditors.
+
+                  TITLE III--CONSUMER BANKRUPTCY ISSUES
+
+Sec. 301. Period for curing default relating to principal residence.
+Sec. 302. Nondischargeability of fine under chapter 13.
+Sec. 303. Impairment of exemptions.
+Sec. 304. Protection of child support and alimony.
+Sec. 305. Interest on interest.
+Sec. 306. Exception to discharge.
+Sec. 307. Payments under chapter 13.
+Sec. 308. Bankruptcy petition preparers.
+Sec. 309. Fairness to condominium and cooperative owners.
+Sec. 310. Nonavoidability of fixing of lien on tools and implements of 
+          trade, animals, and crops.
+Sec. 311. Conversion of case under chapter 13.
+Sec. 312. Bankruptcy fraud.
+Sec. 313. Protection against discriminatory treatment of applications 
+          for student loans.
+
+                TITLE IV--GOVERNMENTAL BANKRUPTCY ISSUES
+
+Sec. 401. Exception from automatic stay for post-petition property 
+          taxes.
+Sec. 402. Municipal bankruptcy.
+
+                     TITLE V--TECHNICAL CORRECTIONS
+
+Sec. 501. Amendments to bankruptcy definitions, necessitated by 
+          enactment of Public Law 101-647.
+Sec. 502. Title 28 of the United States Code.
+
+                 TITLE VI--BANKRUPTCY REVIEW COMMISSION
+
+Sec. 601. Short title.
+Sec. 602. Establishment.
+Sec. 603. Duties of the Commission.
+Sec. 604. Membership.
+Sec. 605. Compensation of the Commission.
+Sec. 606. Staff of Commission; experts and consultants.
+Sec. 607. Powers of the Commission.
+Sec. 608. Report.
+Sec. 609. Termination.
+Sec. 610. Authorization of appropriations.
+
+   TITLE VII--SEVERABILITY; EFFECTIVE DATE; APPLICATION OF AMENDMENTS.
+
+Sec. 701. Severability.
+Sec. 702. Effective date; application of amendments.
+
+              TITLE I--IMPROVED BANKRUPTCY ADMINISTRATION
+
+    SEC. 101. EXPEDITED HEARING ON AUTOMATIC STAY.
+    The last sentence of section 362(e) of title 11, United States 
+Code, is amended--
+        (1) by striking ``commenced'' and inserting ``concluded'', and
+        (2) by inserting before the period at the end the following:
+``, unless the 30-day period is extended with the consent of the 
+parties in interest or for a specific time which the court finds is 
+required by compelling circumstances''.
+    SEC. 102. JURISDICTION TO REVIEW INTERLOCUTORY ORDERS INCREASING OR 
+      REDUCING CERTAIN TIME PERIODS FOR FILING PLAN.
+    Section 158(a) of title 28, United States Code, is amended by 
+striking ``from'' the first place it appears and all that follows 
+through ``decrees,'', and inserting the following:
+        ``(1) from final judgments, orders, and decrees;
+        ``(2) from interlocutory orders and decrees issued under 
+    section 1121(d) of title 11 increasing or reducing the time periods 
+    referred to in section 1121 of such title; and
+        ``(3) with leave of the court, from other interlocutory orders 
+    and decrees;''.
+    SEC. 103. EXPEDITED PROCEDURE FOR REAFFIRMATION OF DEBTS.
+    (a) Reaffirmation.--Section 524(c) of title 11, United States Code, 
+is amended--
+        (1) in paragraph (2)--
+            (A) by inserting ``(A)'' after ``(2)'',
+            (B) by adding ``and'' at the end, and
+            (C) by inserting after subparagraph (A), as so designated, 
+        the following:
+            ``(B) such agreement contains a clear and conspicuous 
+        statement which advises the debtor that such agreement is not 
+        required under this title, under nonbankruptcy law, or under 
+        any agreement not in accordance with the provisions of this 
+        subsection;'', and
+        (2) in paragraph (3)--
+            (A) in the matter preceding subparagraph (A) by striking 
+        ``such agreement'' the last place it appears,
+            (B) in subparagraph (A)--
+                (i) by inserting ``such agreement'' after ``(A)'', and
+                (ii) by striking ``and'' at the end,
+            (C) in subparagraph (B)--
+                (i) by inserting ``such agreement'' after ``(B)'', and
+                (ii) by adding ``and'' at the end, and
+        (3) by adding at the end the following:
+            ``(C) the attorney fully advised the debtor of the legal 
+        effect and consequences of--
+                ``(i) an agreement of the kind specified in this 
+            subsection; and
+                ``(ii) any default under such an agreement;''.
+    (b) Effect of Discharge.--The third sentence of section 524(d) of 
+title 11, United States Code, is amended in the matter preceding 
+paragraph (1) by inserting ``and was not represented by an attorney 
+during the course of negotiating such agreement'' after ``this 
+Psection''.
+
+SEC. 104. POWERS OF BANKRUPTCY COURTS.
+
+    (a) Status Conferences.--Section 105 of title 11, United States 
+Code, is amended by adding at the end the following:
+    ``(d) The court, on its own motion or on the request of a party in 
+interest, may--
+        ``(1) hold a status conference regarding any case or proceeding 
+    under this title after notice to the parties in interest; and
+        ``(2) unless inconsistent with another provision of this title 
+    or with applicable Federal Rules of Bankruptcy Procedure, issue an 
+    order at any such conference prescribing such limitations and 
+    conditions as the court deems appropriate to ensure that the case 
+    is handled expeditiously and economically, including an order 
+    that--
+            ``(A) sets the date by which the trustee must assume or 
+        reject an executory contract or unexpired lease; or
+            ``(B) in a case under chapter 11 of this title--
+                ``(i) sets a date by which the debtor, or trustee if 
+            one has been appointed, shall file a disclosure statement 
+            and plan;
+                ``(ii) sets a date by which the debtor, or trustee if 
+            one has been appointed, shall solicit acceptances of a 
+            plan;
+                ``(iii) sets the date by which a party in interest 
+            other than a debtor may file a plan;
+                ``(iv) sets a date by which a proponent of a plan, 
+            other than the debtor, shall solicit acceptances of such 
+            plan;
+                ``(v) fixes the scope and format of the notice to be 
+            provided regarding the hearing on approval of the 
+            disclosure statement; or
+                ``(vi) provides that the hearing on approval of the 
+            disclosure statement may be combined with the hearing on 
+            confirmation of the plan.''.
+    (b) Abstention.--Section 1334 of title 28, United States Code, is 
+amended--
+        (1) by redesignating subsection (d) as subsection (e), and
+        (2) in the second sentence of subsection (c)(2)--
+            (A) by inserting ``(other than a decision not to abstain in 
+        a proceeding described in subsection (c)(2))'' after 
+        ``subsection'', and
+            (B) by striking ``Any'' and inserting the following:
+    ``(d) Any''.
+    (c) Establishment, Operation, and Termination of Bankruptcy 
+Appellate Panel Service.--Section 158(b) of title 28, United States 
+Code, is amended--
+        (1) by striking paragraphs (3) and (4),
+        (2) by redesignating paragraph (2) as paragraph (4),
+        (3) by striking paragraph (1) and inserting the following:
+    ``(1) The judicial council of a circuit shall establish a 
+bankruptcy appellate panel service composed of bankruptcy judges of the 
+districts in the circuit who are appointed by the judicial council in 
+accordance with paragraph (3), to hear and determine, with the consent 
+of all the parties, appeals under subsection (a) unless the judicial 
+council finds that--
+        ``(A) there are insufficient judicial resources available in 
+    the circuit; or
+        ``(B) establishment of such service would result in undue delay 
+    or increased cost to parties in cases under title 11.
+Not later than 90 days after making the finding, the judicial council 
+shall submit to the Judicial Conference of the United States a report 
+containing the factual basis of such finding.
+    ``(2)(A) A judicial council may reconsider, at any time, the 
+finding described in paragraph (1).
+    ``(B) On the request of a majority of the district judges in a 
+circuit for which a bankruptcy appellate panel service is established 
+under paragraph (1), made after the expiration of theP 1-year period 
+beginning on the date such service is established, the judicial council 
+of the circuit shall determine whether a circumstance specified in 
+subparagraph (A) or (B) of such paragraph exists.
+    ``(C) On its own motion, after the expiration of the 3-year period 
+beginning on the date a bankruptcy appellate panel service is 
+established under paragraph (1), the judicial council of the circuit 
+may determine whether a circumstance specified in subparagraph (A) or 
+(B) of such paragraph exists.
+    ``(D) If the judicial council finds that either of such 
+circumstances exists, the judicial council may provide for the 
+completion of the appeals then pending before such service and the 
+orderly termination of such service.
+    ``(3) Bankruptcy judges appointed under paragraph (1) shall be 
+appointed and may be reappointed under such paragraph.'', and
+        (4) by inserting after paragraph (4), as so redesignated, the 
+    following:
+    ``(5) An appeal to be heard under this subsection shall be heard by 
+a panel of 3 members of the bankruptcy appellate panel service, except 
+that a member of such service may not hear an appeal originating in the 
+district for which such member is appointed or designated under section 
+152 of this title.
+    ``(6) Appeals may not be heard under this subsection by a panel of 
+the bankruptcy appellate panel service unless the district judges for 
+the district in which the appeals occur, by majority vote, have 
+authorized such service to hear and determine appeals originating in 
+such district.''.
+    (d) Appeals To Be Heard by Bankruptcy Appellate Panel Service.--
+Section 158 of title 28, United States Code, is amended--
+        (1) in subsection (c) by striking ``(c)'' and inserting 
+    ``(2)'', and
+        (2) by inserting after subsection (b) the following:
+    ``(c)(1) Subject to subsection (b), each appeal under subsection 
+(a) shall be heard by a 3-judge panel of the bankruptcy appellate panel 
+service established under subsection (b)(1) unless--
+        ``(A) the appellant elects at the time of filing the appeal; or
+        ``(B) any other party elects, not later than 30 days after 
+    service of notice of the appeal;
+to have such appeal heard by the district court.''.
+    (e) Rules of Procedure and Evidence; Method of Prescribing.--
+Section 2073 of title 28, United States Code, is amended--
+        (1) in subsection (a)(2) by striking ``section 2072'' and 
+    inserting ``sections 2072 and 2075'', and
+        (2) in subsections (d) and (e) by inserting ``or 2075'' after 
+    ``2072'' each place it appears.
+    (f) Effective Date of Bankruptcy Rules.--The third undesignated 
+paragraph of section 2075 of title 28, United States Code, is amended 
+to read as follows:
+    ``The Supreme Court shall transmit to Congress not later than May 1 
+of the year in which a rule prescribed under this section is to become 
+effective a copy of the proposed rule. The rule shall take effect no 
+earlier than December 1 of the year in which it is transmitted to 
+Congress unless otherwise provided by law.''.
+    SEC. 105. PARTICIPATION BY BANKRUPTCY ADMINISTRATOR AT MEETINGS OF 
+      CREDITORS AND EQUITY SECURITY HOLDERS.
+    (a) Presiding Officer.--A bankruptcy administrator appointed under 
+section 302(d)(3)(I) of the Bankruptcy Judges, United States Trustees, 
+and Family Farmer Bankruptcy Act of 1986 (28 U.S.C. 581 note; Public 
+Law 99-554; 100 Stat. 3123), as amended by section 317(a) of the 
+Federal Courts Study Committee Implementation Act of 1990 (Public Law 
+101-650; 104 Stat. 5115), or the bankruptcy administrator's designee 
+may preside at the meeting of creditors convened under section 341(a) 
+of title 11, United States Code. The bankruptcy administrator or the 
+bankruptcy administrator's designee may preside at any meeting of 
+equity security holders convened under section 341(b) of title 11, 
+United States Code.
+    (b) Examination of the Debtor.--The bankruptcy administrator or the 
+bankruptcy administrator's designee may examine the debtor at the 
+meeting of creditors and may administer the oath required under section 
+343 of title 11, United States Code.
+    SEC. 106. DEFINITION RELATING TO ELIGIBILITY TO SERVE ON CHAPTER 11 
+      COMMITTEES.
+    Section 101(41) of title 11, United States Code, is amended to read 
+as follows:
+        ``(41) `person' includes individual, partnership, and 
+    corporation, but does not include governmental unit, except that a 
+    governmental unit that--
+            ``(A) acquires an asset from a person--
+                ``(i) as a result of the operation of a loan guarantee 
+            agreement; or
+                ``(ii) as receiver or liquidating agent of a person;
+            ``(B) is a guarantor of a pension benefit payable by or on 
+        behalf of the debtor or an affiliate of the debtor; or
+            ``(C) is the legal or beneficial owner of an asset of--
+                ``(i) an employee pension benefit plan that is a 
+            governmental plan, as defined in section 414(d) of the 
+            Internal Revenue Code of 1986; or
+                ``(ii) an eligible deferred compensation plan, as 
+            defined in section 457(b) of the Internal Revenue Code of 
+            1986;
+    shall be considered, for purposes of section 1102 of this title, to 
+    be a person with respect to such asset or such benefit;''.
+
+SEC. 107. INCREASED INCENTIVE COMPENSATION FOR TRUSTEES.
+
+    Section 326(a) of title 11, United States Code, is amended by 
+striking ``fifteen'' and all that follows through ``$3,000'' the last 
+place it appears, and inserting the following:
+``25 percent on the first $5,000 or less, 10 percent on any amount in 
+excess of $5,000 but not in excess of $50,000, 5 percent on any amount 
+in excess of $50,000 but not in excess of $1,000,000, and reasonable 
+compensation not to exceed 3 percent of such moneys in excess of 
+$1,000,000''.
+
+SEC. 108. DOLLAR ADJUSTMENTS.
+
+    (a) Who May Be a Debtor Under Chapter 13.--Section 109(e) of title 
+11, United States Code, is amended--
+        (1) by striking ``$100,000'' each place it appears and 
+    inserting ``$250,000'', and
+        (2) by striking ``$350,000'' each place it appears and 
+    inserting ``$750,000''.
+    (b) Involuntary Cases.--Section 303(b) of title 11, United States 
+Code, is amended--
+        (1) in paragraph (1) by striking ``$5,000'' and inserting 
+    ``$10,000'', and
+        (2) in paragraph (2) by striking ``$5,000'' and inserting 
+    ``$10,000''.
+    (c) Priorities.--Section 507(a) of title 11, United States Code, is 
+amended--
+        (1) in paragraph (4)(B)(i) by striking ``$2,000'' and inserting 
+    ``$4,000'',
+        (2) in paragraph (5) by striking ``$2,000'' and inserting 
+    ``$4,000'', and
+        (3) in paragraph (6) by striking ``$900'' and inserting 
+    ``$1,800''.
+    (d) Exemptions.--Section 522(d) of title 11, United States Code, is 
+amended--
+        (1) in paragraph (1) by striking ``$7,500'' and inserting 
+    ``$15,000'',
+        (2) in paragraph (2) by striking ``$1,200'' and inserting 
+    ``$2,400'',
+        (3) in paragraph (3)--
+            (A) by striking ``$200'' and inserting ``$400'', and
+            (B) by striking ``$4,000'' and inserting ``$8,000'',
+        (4) in paragraph (4) by striking ``$500'' and inserting 
+    ``$1,000'',
+        (5) in paragraph (5)--
+            (A) by striking ``$400'' and inserting ``$800'', and
+            (B) by striking ``$3,750'' and inserting ``$7,500'',
+        (6) in paragraph (6) by striking ``$750'' and inserting 
+    ``$1,500'',
+        (7) in paragraph (8) by striking ``$4,000'' and inserting 
+    ``$8,000'', and
+        (8) in paragraph (11)(D) by striking ``$7,500'' and inserting 
+    ``$15,000''.
+    (e) Future Adjustments.--Section 104 of title 11, United States 
+Code, is amended--
+        (1) by inserting ``(a)'' before ``The'', and
+        (2) by adding at the end the following:
+    ``(b)(1) On April 1, 1998, and at each 3-year interval ending on 
+April 1 thereafter, each dollar amount in effect under sections 109(e), 
+303(b), 507(a), 522(d), and 523(a)(2)(C) immediately before such April 
+1 shall be adjusted--
+        ``(A) to reflect the change in the Consumer Price Index for All 
+    Urban Consumers, published by the Department of Labor, for the most 
+    recent 3-year period ending immediately before January 1 preceding 
+    such April 1, and
+        ``(B) to round to the nearest $25 the dollar amount that 
+    represents such change.
+    ``(2) Not later than March 1, 1998, and at each 3-year interval 
+ending on March 1 thereafter, the Judicial Conference of the United 
+States shall publish in the Federal Register the dollar amounts that 
+will become effective on such April 1 under sections 109(e), 303(b), 
+507(a), 522(d), and 523(a)(2)(C) of this title.
+    ``(3) Adjustments made in accordance with paragraph (1) shall not 
+apply with respect to cases commenced before the date of such 
+adjustments.''.
+
+SEC. 109. PREMERGER NOTIFICATION.
+
+    Subparagraphs (A) and (B) of section 363(b)(2) of title 11, United 
+States Code, are amended to read as follows:
+            ``(A) notwithstanding subsection (a) of such section, the 
+        notification required by such subsection to be given by the 
+        debtor shall be given by the trustee; and
+            ``(B) notwithstanding subsection (b) of such section, the 
+        required waiting period shall end on the 15th day after the 
+        date of the receipt, by the Federal Trade Commission and the 
+        Assistant Attorney General in charge of the Antitrust Division 
+        of the Department of Justice, of the notification required 
+        under such subsection (a), unless such waiting period is 
+        extended--
+                ``(i) pursuant to subsection (e)(2) of such section, in 
+            the same manner as such subsection (e)(2) applies to a cash 
+            tender offer;
+                ``(ii) pursuant to subsection (g)(2) of such section; 
+            or
+                ``(iii) by the court after notice and a hearing.''.
+
+SEC. 110. ALLOWANCE OF CREDITOR COMMITTEE EXPENSES.
+
+    Section 503(b)(3) of title 11, United States Code, is amended--
+        (1) in subparagraph (D) by striking ``or'' at the end,
+        (2) in subparagraph (E) by inserting ``or'' at the end, and
+        (3) by adding at the end the following:
+            ``(F) a member of a committee appointed under section 1102 
+        of this title, if such expenses are incurred in the performance 
+        of the duties of such committee;''.
+
+SEC. 111. SUPPLEMENTAL INJUNCTIONS.
+
+    (a) Supplemental Injunctions.--Section 524 of title 11, United 
+States Code, is amended by adding at the end the following:
+    ``(g)(1)(A) After notice and hearing, a court that enters an order 
+confirming a plan of reorganization under chapter 11 may issue, in 
+connection with such order, an injunction in accordance with this 
+subsection to supplement the injunctive effect of a discharge under 
+this section.
+    ``(B) An injunction may be issued under subparagraph (A) to enjoin 
+entities from taking legal action for the purpose of directly or 
+indirectly collecting, recovering, or receiving payment or recovery 
+with respect to any claim or demand that, under a plan of 
+reorganization, is to be paid in whole or in part by a trust described 
+in paragraph (2)(B)(i), except such legal actions as are expressly 
+allowed by the injunction, the confirmation order, or the plan of 
+reorganization.
+    ``(2)(A) Subject to subsection (h), if the requirements of 
+subparagraph (B) are met at the time an injunction described in 
+paragraph (1) is entered, then after entry of such injunction, any 
+proceeding that involves the validity, application, construction, or 
+modification of such injunction, or of this subsection with respect to 
+such injunction, may be commenced only in the district court in which 
+such injunction was entered, and such court shall have exclusive 
+jurisdiction over any such proceeding without regard to the amount in 
+controversy.
+    ``(B) The requirements of this subparagraph are that--
+        ``(i) the injunction is to be implemented in connection with a 
+    trust that, pursuant to the plan of reorganization--
+            ``(I) is to assume the liabilities of a debtor which at the 
+        time of entry of the order for relief has been named as a 
+        defendant in personal injury, wrongful death, or property-
+        damage actions seeking recovery for damages allegedly caused by 
+        the presence of, or exposure to, asbestos or asbestos-
+        containing products;
+            ``(II) is to be funded in whole or in part by the 
+        securities of 1 or more debtors involved in such plan and by 
+        the obligation of such debtor or debtors to make future 
+        payments, including dividends;
+            ``(III) is to own, or by the exercise of rights granted 
+        under such plan would be entitled to own if specified 
+        contingencies occur, a majority of the voting shares of--
+                ``(aa) each such debtor;
+                ``(bb) the parent corporation of each such debtor; or
+                ``(cc) a subsidiary of each such debtor that is also a 
+            debtor; and
+            ``(IV) is to use its assets or income to pay claims and 
+        demands; and
+        ``(ii) subject to subsection (h), the court determines that--
+            ``(I) the debtor is likely to be subject to substantial 
+        future demands for payment arising out of the same or similar 
+        conduct or events that gave rise to the claims that are 
+        addressed by the injunction;
+            ``(II) the actual amounts, numbers, and timing of such 
+        future demands cannot be determined;
+            ``(III) pursuit of such demands outside the procedures 
+        prescribed by such plan is likely to threaten the plan's 
+        purpose to deal equitably with claims and future demands;
+            ``(IV) as part of the process of seeking confirmation of 
+        such plan--
+                ``(aa) the terms of the injunction proposed to be 
+            issued under paragraph (1)(A), including any provisions 
+            barring actions against third parties pursuant to paragraph 
+            (4)(A), are set out in such plan and in any disclosure 
+            statement supporting the plan; and
+                ``(bb) a separate class or classes of the claimants 
+            whose claims are to be addressed by a trust described in 
+            clause (i) is established and votes, by at least 75 percent 
+            of those voting, in favor of the plan; and
+            ``(V) subject to subsection (h), pursuant to court orders 
+        or otherwise, the trust will operate through mechanisms such as 
+        structured, periodic, or supplemental payments, pro rata 
+        distributions, matrices, or periodic review of estimates of the 
+        numbers and values of present claims and future demands, or 
+        other comparable mechanisms, that provide reasonable assurance 
+        that the trust will value, and be in a financial position to 
+        pay, present claims and future demands that involve similar 
+        claims in substantially the same manner.
+    ``(3)(A) If the requirements of paragraph (2)(B) are met and the 
+order confirming the plan of reorganization was issued or affirmed by 
+the district court that has jurisdiction over the reorganization case, 
+then after the time for appeal of the order that issues or affirms the 
+plan--
+        ``(i) the injunction shall be valid and enforceable and may not 
+    be revoked or modified by any court except through appeal in 
+    accordance with paragraph (6);
+        ``(ii) no entity that pursuant to such plan or thereafter 
+    becomes a direct or indirect transferee of, or successor to any 
+    assets of, a debtor or trust that is the subject of the injunction 
+    shall be liable with respect to any claim or demand made against 
+    such entity by reason of its becoming such a transferee or 
+    successor; and
+        ``(iii) no entity that pursuant to such plan or thereafter 
+    makes a loan to such a debtor or trust or to such a successor or 
+    transferee shall, by reason of making the loan, be liable with 
+    respect to any claim or demand made against such entity, nor shall 
+    any pledge of assets made in connection with such a loan be upset 
+    or impaired for that reason;
+    ``(B) Subparagraph (A) shall not be construed to--
+        ``(i) imply that an entity described in subparagraph (A) (ii) 
+    or (iii) would, if this paragraph were not applicable, necessarily 
+    be liable to any entity by reason of any of the acts described in 
+    subparagraph (A);
+        ``(ii) relieve any such entity of the duty to comply with, or 
+    of liability under, any Federal or State law regarding the making 
+    of a fraudulent conveyance in a transaction described in 
+    subparagraph (A) (ii) or (iii); or
+        ``(iii) relieve a debtor of the debtor's obligation to comply 
+    with the terms of the plan of reorganization, or affect the power 
+    of the court to exercise its authority under sections 1141 and 1142 
+    to compel the debtor to do so.
+    ``(4)(A)(i) Subject to subparagraph (B), an injunction described in 
+paragraph (1) shall be valid and enforceable against all entities that 
+it addresses.
+    ``(ii) Notwithstanding the provisions of section 524(e), such an 
+injunction may bar any action directed against a third party who is 
+identifiable from the terms of such injunction (by name or as part of 
+an identifiable group) and is alleged to be directly or indirectly 
+liable for the conduct of, claims against, or demands on the debtor to 
+the extent such alleged liability of such third party arises by reason 
+of--
+        ``(I) the third party's ownership of a financial interest in 
+    the debtor, a past or present affiliate of the debtor, or a 
+    predecessor in interest of the debtor;
+        ``(II) the third party's involvement in the management of the 
+    debtor or a predecessor in interest of the debtor, or service as an 
+    officer, director or employee of the debtor or a related party;
+        ``(III) the third party's provision of insurance to the debtor 
+    or a related party; or
+        ``(IV) the third party's involvement in a transaction changing 
+    the corporate structure, or in a loan or other financial 
+    transaction affecting the financial condition, of the debtor or a 
+    related party, including but not limited to--
+            ``(aa) involvement in providing financing (debt or equity), 
+        or advice to an entity involved in such a transaction; or
+            ``(bb) acquiring or selling a financial interest in an 
+        entity as part of such a transaction.
+    ``(iii) As used in this subparagraph, the term `related party' 
+means--
+        ``(I) a past or present affiliate of the debtor;
+        ``(II) a predecessor in interest of the debtor; or
+        ``(III) any entity that owned a financial interest in--
+            ``(aa) the debtor;
+            ``(bb) a past or present affiliate of the debtor; or
+            ``(cc) a predecessor in interest of the debtor.
+    ``(B) Subject to subsection (h), if, under a plan of 
+reorganization, a kind of demand described in such plan is to be paid 
+in whole or in part by a trust described in paragraph (2)(B)(i) in 
+connection with which an injunction described in paragraph (1) is to be 
+implemented, then such injunction shall be valid and enforceable with 
+respect to a demand of such kind made, after such plan is confirmed, 
+against the debtor or debtors involved, or against a third party 
+described in subparagraph (A)(ii), if--
+        ``(i) as part of the proceedings leading to issuance of such 
+    injunction, the court appoints a legal representative for the 
+    purpose of protecting the rights of persons that might subsequently 
+    assert demands of such kind, and
+        ``(ii) the court determines, before entering the order 
+    confirming such plan, that identifying such debtor or debtors, or 
+    such third party (by name or as part of an identifiable group), in 
+    such injunction with respect to such demands for purposes of this 
+    subparagraph is fair and equitable with respect to the persons that 
+    might subsequently assert such demands, in light of the benefits 
+    provided, or to be provided, to such trust on behalf of such debtor 
+    or debtors or such third party.
+    ``(5) In this subsection, the term `demand' means a demand for 
+payment, present or future, that--
+        ``(A) was not a claim during the proceedings leading to the 
+    confirmation of a plan of reorganization;
+        ``(B) arises out of the same or similar conduct or events that 
+    gave rise to the claims addressed by the injunction issued under 
+    paragraph (1); and
+        ``(C) pursuant to the plan, is to be paid by a trust described 
+    in paragraph (2)(B)(i).
+    ``(6) Paragraph (3)(A)(i) does not bar an action taken by or at the 
+direction of an appellate court on appeal of an injunction issued under 
+paragraph (1) or of the order of confirmation that relates to the 
+injunction.
+    ``(7) This subsection does not affect the operation of section 1144 
+or the power of the district court to refer a proceeding under section 
+157 of title 28 or any reference of a proceeding made prior to the date 
+of the enactment of this subsection.
+    ``(h) Application to Existing Injunctions.--For purposes of 
+subsection (g)--
+        ``(1) subject to paragraph (2), if an injunction of the kind 
+    described in subsection (g)(1)(B) was issued before the date of the 
+    enactment of this Act, as part of a plan of reorganization 
+    confirmed by an order entered before such date, then the injunction 
+    shall be considered to meet the requirements of subsection 
+    (g)(2)(B) for purposes of subsection (g)(2)(A), and to satisfy 
+    subsection (g)(4)(A)(ii), if--
+            ``(A) the court determined at the time the plan was 
+        confirmed that the plan was fair and equitable in accordance 
+        with the requirements of section 1129(b);
+            ``(B) as part of the proceedings leading to issuance of 
+        such injunction and confirmation of such plan, the court had 
+        appointed a legal representative for the purpose of protecting 
+        the rights of persons that might subsequently assert demands 
+        described in subsection (g)(4)(B) with respect to such plan; 
+        and
+            ``(C) such legal representative did not object to 
+        confirmation of such plan or issuance of such injunction; and
+        ``(2) for purposes of paragraph (1), if a trust described in 
+    subsection (g)(2)(B)(i) is subject to a court order on the date of 
+    the enactment of this Act staying such trust from settling or 
+    paying further claims--
+            ``(A) the requirements of subsection (g)(2)(B)(ii)(V) shall 
+        not apply with respect to such trust until such stay is lifted 
+        or dissolved; and
+            ``(B) if such trust meets such requirements on the date 
+        such stay is lifted or dissolved, such trust shall be 
+        considered to have met such requirements continuously from the 
+        date of the enactment of this Act.''.
+    (b) Rule of Construction.--Nothing in subsection (a), or in the 
+amendments made by subsection (a), shall be construed to modify, 
+impair, or supersede any other authority the court has to issue 
+injunctions in connection with an order confirming a plan of 
+reorganization.
+    SEC. 112. AUTHORITY OF BANKRUPTCY JUDGES TO CONDUCT JURY TRIALS IN 
+      CIVIL PROCEEDINGS.
+    Section 157 of title 28, United States Code, is amended by adding 
+at the end the following:
+    ``(e) If the right to a jury trial applies in a proceeding that may 
+be heard under this section by a bankruptcy judge, the bankruptcy judge 
+may conduct the jury trial if specially designated to exercise such 
+jurisdiction by the district court and with the express consent of all 
+the parties.''.
+
+SEC. 113. SOVEREIGN IMMUNITY.
+
+    Section 106 of title 11, United States Code, is amended to read as 
+follows:
+
+``Sec. 106. Waiver of sovereign immunity
+
+    ``(a) Notwithstanding an assertion of sovereign immunity, sovereign 
+immunity is abrogated as to a governmental unit to the extent set forth 
+in this section with respect to the following:
+        ``(1) Sections 105, 106, 107, 108, 303, 346, 362, 363, 364, 
+    365, 366, 502, 503, 505, 506, 510, 522, 523, 524, 525, 542, 543, 
+    544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 722, 724, 726, 
+    728, 744, 749, 764, 901, 922, 926, 928, 929, 944, 1107, 1141, 1142, 
+    1143, 1146, 1201, 1203, 1205, 1206, 1227, 1231, 1301, 1303, 1305, 
+    and 1327 of this title.
+        ``(2) The court may hear and determine any issue arising with 
+    respect to the application of such sections to governmental units.
+        ``(3) The court may issue against a governmental unit an order, 
+    process, or judgment under such sections or the Federal Rules of 
+    Bankruptcy Procedure, including an order or judgment awarding a 
+    money recovery, but not including an award of punitive damages. 
+    Such order or judgment for costs or fees under this title or the 
+    Federal Rules of Bankruptcy Procedure against any governmental unit 
+    shall be consistent with the provisions and limitations of section 
+    2412(d)(2)(A) of title 28.
+        ``(4) The enforcement of any such order, process, or judgment 
+    against any governmental unit shall be consistent with appropriate 
+    nonbankruptcy law applicable to such governmental unit and, in the 
+    case of a money judgment against the United States, shall be paid 
+    as if it is a judgment rendered by a district court of the United 
+    States.
+        ``(5) Nothing in this section shall create any substantive 
+    claim for relief or cause of action not otherwise existing under 
+    this title, the Federal Rules of Bankruptcy Procedure, or 
+    nonbankruptcy law.
+    ``(b) A governmental unit that has filed a proof of claim in the 
+case is deemed to have waived sovereign immunity with respect to a 
+claim against such governmental unit that is property of the estate and 
+that arose out of the same transaction or occurrence out of which the 
+claim of such governmental unit arose.
+    ``(c) Notwithstanding any assertion of sovereign immunity by a 
+governmental unit, there shall be offset against a claim or interest of 
+a governmental unit any claim against such governmental unit that is 
+property of the estate.''.
+    SEC. 114. SERVICE OF PROCESS IN BANKRUPTCY PROCEEDINGS ON AN 
+      INSURED DEPOSITORY INSTITUTION.
+    Rule 7004 of the Federal Rules of Bankruptcy Procedure is amended--
+        (1) in subdivision (b) by striking ``In addition'' and 
+    inserting ``Except as provided in subdivision (h), in addition'', 
+    and
+        (2) by adding at the end the following:
+    ``(h) Service of Process on an Insured Depository Institution.--
+Service on an insured depository institution (as defined in section 3 
+of the Federal Deposit Insurance Act) in a contested matter or 
+adversary proceeding shall be made by certified mail addressed to an 
+officer of the institution unless--
+        ``(1) the institution has appeared by its attorney, in which 
+    case the attorney shall be served by first class mail;
+        ``(2) the court orders otherwise after service upon the 
+    institution by certified mail of notice of an application to permit 
+    service on the institution by first class mail sent to an officer 
+    of the institution designated by the institution; or
+        ``(3) the institution has waived in writing its entitlement to 
+    service by certified mail by designating an officer to receive 
+    service.''.
+
+SEC. 115. MEETINGS OF CREDITORS AND EQUITY SECURITY HOLDERS.
+
+    Section 341 of title 11, United States Code, is amended by adding 
+at the end the following:
+    ``(d) Prior to the conclusion of the meeting of creditors or equity 
+security holders, the trustee shall orally examine the debtor to ensure 
+that the debtor in a case under chapter 7 of this title is aware of--
+        ``(1) the potential consequences of seeking a discharge in 
+    bankruptcy, including the effects on credit history;
+        ``(2) the debtor's ability to file a petition under a different 
+    chapter of this title;
+        ``(3) the effect of receiving a discharge of debts under this 
+    title; and
+        ``(4) the effect of reaffirming a debt, including the debtor's 
+    knowledge of the provisions of section 524(d) of this title.''.
+
+SEC. 116. TAX ASSESSMENT.
+
+    Section 362(b)(9) of title 11, United States Code, is amended to 
+read as follows:
+        ``(9) under subsection (a), of--
+            ``(A) an audit by a governmental unit to determine tax 
+        liability;
+            ``(B) the issuance to the debtor by a governmental unit of 
+        a notice of tax deficiency;
+            ``(C) a demand for tax returns; or
+            ``(D) the making of an assessment for any tax and issuance 
+        of a notice and demand for payment of such an assessment (but 
+        any tax lien that would otherwise attach to property of the 
+        estate by reason of such an assessment shall not take effect 
+        unless such tax is a debt of the debtor that will not be 
+        discharged in the case and such property or its proceeds are 
+        transferred out of the estate to, or otherwise revested in, the 
+        debtor).''.
+
+SEC. 117. ADDITIONAL TRUSTEE COMPENSATION.
+
+    Section 330(b) of title 11, United States Code, is amended--
+        (1) by inserting ``(1)'' after ``(b)'', and
+        (2) by adding at the end thereof the following:
+    ``(2) The Judicial Conference of the United States--
+        ``(A) shall prescribe additional fees of the same kind as 
+    prescribed under section 1914(b) of title 28; and
+        ``(B) may prescribe notice of appearance fees and fees charged 
+    against distributions in cases under this title;
+to pay $15 to trustees serving in cases after such trustees' services 
+are rendered. Beginning 1 year after the date of the enactment of the 
+Bankruptcy Reform Act of 1994, such $15 shall be paid in addition to 
+the amount paid under paragraph (1).''.
+
+                 TITLE II--COMMERCIAL BANKRUPTCY ISSUES
+
+    SEC. 201. AIRCRAFT EQUIPMENT AND VESSELS; ROLLING STOCK EQUIPMENT.
+    (a) Amendment of Section 1110.--Section 1110 of title 11, United 
+States Code, is amended to read as follows:
+
+``Sec. 1110. Aircraft equipment and vessels
+
+    ``(a)(1) The right of a secured party with a security interest in 
+equipment described in paragraph (2) or of a lessor or conditional 
+vendor of such equipment to take possession of such equipment in 
+compliance with a security agreement, lease, or conditional sale 
+contract is not affected by section 362, 363, or 1129 or by any power 
+of the court to enjoin the taking of possession unless--
+        ``(A) before the date that is 60 days after the date of the 
+    order for relief under this chapter, the trustee, subject to the 
+    court's approval, agrees to perform all obligations of the debtor 
+    that become due on or after the date of the order under such 
+    security agreement, lease, or conditional sale contract; and
+        ``(B) any default, other than a default of a kind specified in 
+    section 365(b)(2), under such security agreement, lease, or 
+    conditional sale contract--
+            ``(i) that occurs before the date of the order is cured 
+        before the expiration of such 60-day period; and
+            ``(ii) that occurs after the date of the order is cured 
+        before the later of--
+                ``(I) the date that is 30 days after the date of the 
+            default; or
+                ``(II) the expiration of such 60-day period.
+    ``(2) Equipment is described in this paragraph if it is--
+        ``(A) an aircraft, aircraft engine, propeller, appliance, or 
+    spare part (as defined in section 40102 of title 49) that is 
+    subject to a security interest granted by, leased to, or 
+    conditionally sold to a debtor that is a citizen of the United 
+    States (as defined in section 40102 of title 49) holding an air 
+    carrier operating certificate issued by the Secretary of 
+    Transportation pursuant to chapter 447 of title 49 for aircraft 
+    capable of carrying 10 or more individuals or 6,000 pounds or more 
+    of cargo; or
+        ``(B) a documented vessel (as defined in section 30101(1) of 
+    title 46) that is subject to a security interest granted by, leased 
+    to, or conditionally sold to a debtor that is a water carrier that 
+    holds a certificate of public convenience and necessity or permit 
+    issued by the Interstate Commerce Commission.
+    ``(3) Paragraph (1) applies to a secured party, lessor, or 
+conditional vendor acting in its own behalf or acting as trustee or 
+otherwise in behalf of another party.
+    ``(b) The trustee and the secured party, lessor, or conditional 
+vendor whose right to take possession is protected under subsection (a) 
+may agree, subject to the court's approval, to extend theP 60-day 
+period specified in subsection (a)(1).
+    ``(c) With respect to equipment first placed in service on or prior 
+to the date of enactment of this subsection, for purposes of this 
+section--
+        ``(1) the term `lease' includes any written agreement with 
+    respect to which the lessor and the debtor, as lessee, have 
+    expressed in the agreement or in a substantially contemporaneous 
+    writing that the agreement is to be treated as a lease for Federal 
+    income tax purposes; and
+        ``(2) the term `security interest' means a purchase-money 
+    equipment security interest.''.
+    (b) Amendment of Section 1168.--Section 1168 of title 11, United 
+States Code, is amended to read as follows:
+
+``Sec. 1168. Rolling stock equipment
+
+    ``(a)(1) The right of a secured party with a security interest in 
+or of a lessor or conditional vendor of equipment described in 
+paragraph (2) to take possession of such equipment in compliance with 
+an equipment security agreement, lease, or conditional sale contract is 
+not affected by section 362, 363, or 1129 or by any power of the court 
+to enjoin the taking of possession, unless--
+        ``(A) before the date that is 60 days after the date of 
+    commencement of a case under this chapter, the trustee, subject to 
+    the court's approval, agrees to perform all obligations of the 
+    debtor that become due on or after the date of commencement of the 
+    case under such security agreement, lease, or conditional sale 
+    contract; and
+        ``(B) any default, other than a default of a kind described in 
+    section 365(b)(2), under such security agreement, lease, or 
+    conditional sale contract--
+            ``(i) that occurs before the date of commencement of the 
+        case and is an event of default therewith is cured before the 
+        expiration of such 60-day period; and
+            ``(ii) that occurs or becomes an event of default after the 
+        date of commencement of the case is cured before the later of--
+                ``(I) the date that is 30 days after the date of the 
+            default or event of default; or
+                ``(II) the expiration of such 60-day period.
+    ``(2) Equipment is described in this paragraph if it is rolling 
+stock equipment or accessories used on such equipment, including 
+superstructures and racks, that is subject to a security interest 
+granted by, leased to, or conditionally sold to the debtor.
+    ``(3) Paragraph (1) applies to a secured party, lessor, or 
+conditional vendor acting in its own behalf or acting as trustee or 
+otherwise in behalf of another party.
+    ``(b) The trustee and the secured party, lessor, or conditional 
+vendor whose right to take possession is protected under subsection (a) 
+may agree, subject to the court's approval, to extend theP 60-day 
+period specified in subsection (a)(1).
+    ``(c) With respect to equipment first placed in service on or prior 
+to the date of enactment of this subsection, for purposes of this 
+section--
+        ``(1) the term `lease' includes any written agreement with 
+    respect to which the lessor and the debtor, as lessee, have 
+    expressed in the agreement or in a substantially contemporaneous 
+    writing that the agreement is to be treated as a lease for Federal 
+    income tax purposes; and
+        ``(2) the term `security interest' means a purchase-money 
+    equipment security interest.
+    ``(d) With respect to equipment first placed in service after the 
+date of enactment of this subsection, for purposes of this section, the 
+term `rolling stock equipment' includes rolling stock equipment that is 
+substantially rebuilt and accessories used on such equipment.''.
+    SEC. 202. LIMITATION ON LIABILITY OF NON-INSIDER TRANSFEREE FOR 
+      AVOIDED TRANSFER.
+    Section 550 of title 11, United States Code, is amended--
+        (1) by redesignating subsections (c), (d), and (e) as 
+    subsections (d), (e), and (f), respectively, and
+        (2) by inserting after subsection (b) the following:
+    ``(c) If a transfer made between 90 days and one year before the 
+filing of the petition--
+        ``(1) is avoided under section 547(b) of this title; and
+        ``(2) was made for the benefit of a creditor that at the time 
+    of such transfer was an insider;
+the trustee may not recover under subsection (a) from a transferee that 
+is not an insider.''.
+
+SEC. 203. PERFECTION OF PURCHASE-MONEY SECURITY INTEREST.
+
+    Section 547 of title 11, United States Code, is amended--
+        (1) in subsection (c)(3)(B) by striking ``10'' and inserting 
+    ``20'', and
+        (2) in subsection (e)(2)(A) by inserting ``, except as provided 
+    in subsection (c)(3)(B)'' before the semicolon at the end.
+
+SEC. 204. CONTINUED PERFECTION.
+
+    (a) Automatic Stay.--Section 362(b)(3) of title 11, United States 
+Code, is amended by inserting ``, or to maintain or continue the 
+perfection of,'' after ``to perfect''.
+    (b) Limitations on Avoiding Powers.--Section 546(b) of title 11, 
+United States Code, is amended to read as follows:
+    ``(b)(1) The rights and powers of a trustee under sections 544, 
+545, and 549 of this title are subject to any generally applicable law 
+that--
+        ``(A) permits perfection of an interest in property to be 
+    effective against an entity that acquires rights in such property 
+    before the date of perfection; or
+        ``(B) provides for the maintenance or continuation of 
+    perfection of an interest in property to be effective against an 
+    entity that acquires rights in such property before the date on 
+    which action is taken to effect such maintenance or continuation.
+    ``(2) If--
+        ``(A) a law described in paragraph (1) requires seizure of such 
+    property or commencement of an action to accomplish such 
+    perfection, or maintenance or continuation of perfection of an 
+    interest in property; and
+        ``(B) such property has not been seized or such an action has 
+    not been commenced before the date of the filing of the petition;
+such interest in such property shall be perfected, or perfection of 
+such interest shall be maintained or continued, by giving notice within 
+the time fixed by such law for such seizure or such commencement.''.
+    SEC. 205. REJECTION OF UNEXPIRED LEASES OF REAL PROPERTY OR 
+      TIMESHARE INTERESTS.
+    (a) Amendment to Section 365.--Section 365(h) of title 11, United 
+States Code, is amended to read as follows:
+    ``(h)(1)(A) If the trustee rejects an unexpired lease of real 
+property under which the debtor is the lessor and--
+        ``(i) if the rejection by the trustee amounts to such a breach 
+    as would entitle the lessee to treat such lease as terminated by 
+    virtue of its terms, applicable nonbankruptcy law, or any agreement 
+    made by the lessee, then the lessee under such lease may treat such 
+    lease as terminated by the rejection; or
+        ``(ii) if the term of such lease has commenced, the lessee may 
+    retain its rights under such lease (including rights such as those 
+    relating to the amount and timing of payment of rent and other 
+    amounts payable by the lessee and any right of use, possession, 
+    quiet enjoyment, subletting, assignment, or hypothecation) that are 
+    in or appurtenant to the real property for the balance of the term 
+    of such lease and for any renewal or extension of such rights to 
+    the extent that such rights are enforceable under applicable 
+    nonbankruptcy law.
+    ``(B) If the lessee retains its rights under subparagraph (A)(ii), 
+the lessee may offset against the rent reserved under such lease for 
+the balance of the term after the date of the rejection of such lease 
+and for the term of any renewal or extension of such lease, the value 
+of any damage caused by the nonperformance after the date of such 
+rejection, of any obligation of the debtor under such lease, but the 
+lessee shall not have any other right against the estate or the debtor 
+on account of any damage occurring after such date caused by such 
+nonperformance.
+    ``(C) The rejection of a lease of real property in a shopping 
+center with respect to which the lessee elects to retain its rights 
+under subparagraph (A)(ii) does not affect the enforceability under 
+applicable nonbankruptcy law of any provision in the lease pertaining 
+to radius, location, use, exclusivity, or tenant mix or balance.
+    ``(D) In this paragraph, `lessee' includes any successor, assign, 
+or mortgagee permitted under the terms of such lease.
+    ``(2)(A) If the trustee rejects a timeshare interest under a 
+timeshare plan under which the debtor is the timeshare interest seller 
+and--
+        ``(i) if the rejection amounts to such a breach as would 
+    entitle the timeshare interest purchaser to treat the timeshare 
+    plan as terminated under its terms, applicable nonbankruptcy law, 
+    or any agreement made by timeshare interest purchaser, the 
+    timeshare interest purchaser under the timeshare plan may treat the 
+    timeshare plan as terminated by such rejection; or
+        ``(ii) if the term of such timeshare interest has commenced, 
+    then the timeshare interest purchaser may retain its rights in such 
+    timeshare interest for the balance of such term and for any term of 
+    renewal or extension of such timeshare interest to the extent that 
+    such rights are enforceable under applicable nonbankruptcy law.
+    ``(B) If the timeshare interest purchaser retains its rights under 
+subparagraph (A), such timeshare interest purchaser may offset against 
+the moneys due for such timeshare interest for the balance of the term 
+after the date of the rejection of such timeshare interest, and the 
+term of any renewal or extension of such timeshare interest, the value 
+of any damage caused by the nonperformance after the date of such 
+rejection, of any obligation of the debtor under such timeshare plan, 
+but the timeshare interest purchaser shall not have any right against 
+the estate or the debtor on account of any damage occurring after such 
+date caused by such nonperformance.''.
+    (b) Technical Amendment.--Section 553(b)(1) of title 11, United 
+States Code, is amended by striking ``365(h)(2)'' and inserting 
+``365(h)''.
+
+SEC. 206. CONTENTS OF PLAN.
+
+    Section 1123(b) of title 11, United States Code, is amended--
+        (1) in paragraph (4) by striking ``and'' at the end,
+        (2) by redesignating paragraph (5) as paragraph (6), and
+        (3) by inserting after paragraph (4) the following:
+        ``(5) modify the rights of holders of secured claims, other 
+    than a claim secured only by a security interest in real property 
+    that is the debtor's principal residence, or of holders of 
+    unsecured claims, or leave unaffected the rights of holders of any 
+    class of claims; and''.
+
+SEC. 207. PRIORITY FOR INDEPENDENT SALES REPRESENTATIVES.
+
+    Section 507(a)(3) of title 11, United States Code, is amended to 
+read as follows:
+        ``(3) Third, allowed unsecured claims, but only to the extent 
+    of $4,000 for each individual or corporation, as the case may be, 
+    earned within 90 days before the date of the filing of the petition 
+    or the date of the cessation of the debtor's business, whichever 
+    occurs first, for--
+            ``(A) wages, salaries, or commissions, including vacation, 
+        severance, and sick leave pay earned by an individual; or
+            ``(B) sales commissions earned by an individual or by a 
+        corporation with only 1 employee, acting as an independent 
+        contractor in the sale of goods or services for the debtor in 
+        the ordinary course of the debtor's business if, and only if, 
+        during the 12 months preceding that date, at least 75 percent 
+        of the amount that the individual or corporation earned by 
+        acting as an independent contractor in the sale of goods or 
+        services was earned from the debtor;''.
+    SEC. 208. EXCLUSION FROM THE ESTATE OF INTERESTS IN LIQUID AND 
+      GASEOUS HYDROCARBONS TRANSFERRED BY THE DEBTOR PURSUANT TO 
+      PRODUCTION PAYMENT AGREEMENTS.
+    (a) Definition.--Section 101 of title 11, United States Code, is 
+amended--
+        (1) by inserting after paragraph (42) the following:
+        ``(42A) `production payment' means a term overriding royalty 
+    satisfiable in cash or in kind--
+            ``(A) contingent on the production of a liquid or gaseous 
+        hydrocarbon from particular real property; and
+            ``(B) from a specified volume, or a specified value, from 
+        the liquid or gaseous hydrocarbon produced from such property, 
+        and determined without regard to production costs;'', and
+        (2) by inserting after the first paragraph (56) the following:
+        ``(56A) `term overriding royalty' means an interest in liquid 
+    or gaseous hydrocarbons in place or to be produced from particular 
+    real property that entitles the owner thereof to a share of 
+    production, or the value thereof, for a term limited by time, 
+    quantity, or value realized;''.
+    (b) Property of the Estate.--Section 541(b)(4) of title 11, United 
+States Code, is amended--
+        (1) in subparagraph (A) by striking ``(A)'' and inserting 
+    ``(A)(i)'',
+        (2) in subparagraph (B)--
+            (A) by striking ``(B)'' and inserting ``(ii)'',
+            (B) by striking ``such interest'' and inserting ``the 
+        interest referred to in clause (i)'', and
+            (C) by striking the period at the end and inserting ``; 
+        or'', and
+        (3) by adding at the end the following:
+            ``(B)(i) the debtor has transferred such interest pursuant 
+        to a written conveyance of a production payment to an entity 
+        that does not participate in the operation of the property from 
+        which such production payment is transferred; and
+            ``(ii) but for the operation of this paragraph, the estate 
+        could include the interest referred to in clause (i) only by 
+        virtue of section 542 of this title;''.
+
+SEC. 209. SELLER'S RIGHT TO RECLAIM GOODS.
+
+    Section 546(c)(1) of title 11, United States Code, is amended to 
+read as follows:
+        ``(1) such a seller may not reclaim any such goods unless such 
+    seller demands in writing reclamation of such goods--
+            ``(A) before 10 days after receipt of such goods by the 
+        debtor; or
+            ``(B) if such 10-day period expires after the commencement 
+        of the case, before 20 days after receipt of such goods by the 
+        debtor; and''.
+
+SEC. 210. INVESTMENT OF MONEY OF THE ESTATE.
+
+    Section 345(b) of title 11, United States Code, is amended--
+        (1) in paragraph (2) by striking the period at the end and 
+    inserting a semicolon, and
+        (2) by adding at the end the following:
+``unless the court for cause orders otherwise.''.
+
+SEC. 211. ELECTION OF TRUSTEE UNDER CHAPTER 11.
+
+    (a) Election Authorized.--Section 1104 of title 11 of the United 
+States Code is amended--
+        (1) by redesignating subsections (b) and (c) as subsections (c) 
+    and (d), respectively, and
+        (2) by inserting after subsection (a) the following:
+    ``(b) Except as provided in section 1163 of this title, on the 
+request of a party in interest made not later than 30 days after the 
+court orders the appointment of a trustee under subsection (a), the 
+United States trustee shall convene a meeting of creditors for the 
+purpose of electing one disinterested person to serve as trustee in the 
+case. The election of a trustee shall be conducted in the manner 
+provided in subsections (a), (b), and (c) of section 702 of this 
+title.''.
+    (b) Conforming Amendment.--Section 1106(b) of title 11, United 
+States Code, is amended by striking ``1104(c)'' and inserting 
+``1104(d)''.
+    SEC. 212. RIGHTS OF PARTNERSHIP TRUSTEE AGAINST GENERAL PARTNERS.
+    Section 723(a) of title 11, United States Code, is amended by 
+striking ``for the full amount of the deficiency'' and inserting ``to 
+the extent that under applicable nonbankruptcy law such general partner 
+is personally liable for such deficiency''.
+
+SEC. 213. IMPAIRMENT OF CLAIMS AND INTERESTS.
+
+    (a) Objection to Claims Filed Untimely.--Section 502(b) of title 
+11, United States Code, is amended--
+        (1) in paragraph (7) by striking ``or'' at the end,
+        (2) in paragraph (8) by striking the period at the end and 
+    inserting ``; or'', and
+        (3) by adding at the end the following:
+        ``(9) proof of such claim is not timely filed, except to the 
+    extent tardily filed as permitted under paragraph (1), (2), or (3) 
+    of section 726(a) of this title or under the Federal Rules of 
+    Bankruptcy Procedure, except that a claim of a governmental unit 
+    shall be timely filed if it is filed before 180 days after the date 
+    of the order for relief or such later time as the Federal Rules of 
+    Bankruptcy Procedure may provide.''.
+    (b) Tardily Filed Priority Claims.--Section 726(a)(1) of title 11, 
+United States Code, is amended by adding before the semicolon the 
+following: ``, proof of which is timely filed under section 501 of this 
+title or tardily filed before the date on which the trustee commences 
+distribution under this section''.
+    (c) Filing of Request for Administrative Expenses.--Section 503(a) 
+of title 11, United States Code, is amended--
+    (1) by inserting ``timely'' after ``may'', and
+    (2) by inserting ``, or may tardily file such request if permitted 
+by the court for cause'' before the period at the end.
+    (d) Impairment of Claims or Interests.--Section 1124 of title 11, 
+United States Code, is amended--
+        (1) in paragraph (1) by inserting ``or'' at the end,
+        (2) in paragraph (2) by striking ``; or'' at the end and 
+    inserting a period, and
+        (3) by striking paragraph (3).
+    SEC. 214. PROTECTION OF SECURITY INTEREST IN POST-PETITION RENTS 
+      AND LODGING PAYMENTS.
+    (a) Postpetition Effect of Security Interest.--Section 552(b) of 
+title 11, United States Code, is amended--
+        (1) by inserting ``(1)'' after ``(b)'',
+        (2) by striking ``rents,'' each place it appears, and
+        (3) by adding at the end the following:
+    ``(2) Except as provided in sections 363, 506(c), 522, 544, 545, 
+547, and 548 of this title, and notwithstanding section 546(b) of this 
+title, if the debtor and an entity entered into a security agreement 
+before the commencement of the case and if the security interest 
+created by such security agreement extends to property of the debtor 
+acquired before the commencement of the case and to amounts paid as 
+rents of such property or the fees, charges, accounts, or other 
+payments for the use or occupancy of rooms and other public facilities 
+in hotels, motels, or other lodging properties, then such security 
+interest extends to such rents and such fees, charges, accounts, or 
+other payments acquired by the estate after the commencement of the 
+case to the extent provided in such security agreement, except to any 
+extent that the court, after notice and a hearing and based on the 
+equities of the case, orders otherwise.''.
+    (b) Use Sale, or Lease of Property.--Section 363(a) of title 11, 
+United States Code, is amended by inserting: ``and the fees, charges, 
+accounts or other payments for the use or occupancy of rooms and other 
+public facilities in hotels, motels, or other lodging properties'' 
+after ``property''.
+
+SEC. 215. AMENDMENT TO DEFINITION OF SWAP AGREEMENT.
+
+    Subparagraph (A) of the first paragraph (55) of section 101 of 
+title 11, United States Code, is amended by inserting ``spot foreign 
+exchange agreement,'' after ``forward foreign exchange Pagreement,''.
+
+SEC. 216. LIMITATION ON AVOIDING POWERS.
+
+    Section 546(a)(1) of title 11, United States Code, is amended to 
+read as follows:
+        ``(1) the later of--
+            ``(A) 2 years after the entry of the order for relief; or
+            ``(B) 1 year after the appointment or election of the first 
+        trustee under section 702, 1104, 1163, 1202, or 1302 of this 
+        title if such appointment or such election occurs before the 
+        expiration of the period specified in subparagraph (A); or''.
+
+SEC. 217. SMALL BUSINESSES.
+
+    (a) Definition.--Section 101 of title 11, United States Code, is 
+amended by inserting after paragraph (51) the following:
+        ``(51C) `small business' means a person engaged in commercial 
+    or business activities (but does not include a person whose primary 
+    activity is the business of owning or operating real property and 
+    activities incidental thereto) whose aggregate noncontingent 
+    liquidated secured and unsecured debts as of the date of the 
+    petition do not exceed $2,000,000;''.
+    (b) Creditors' Committees.--Section 1102(a) of title 11, United 
+States Code, is amended--
+        (1) in paragraph (1) by striking ``As'' and inserting ``Except 
+    as provided in paragraph (3), as''; and
+        (2) by adding at the end the following:
+    ``(3) On request of a party in interest in a case in which the 
+debtor is a small business and for cause, the court may order that a 
+committee of creditors not be appointed.''.
+    (c) Conversion or Dismissal.--Section 1112(b) of title 11, United 
+States Code, is amended by inserting ``or bankruptcy administrator'' 
+after ``United States trustee''.
+    (d) Who May File a Plan.--Section 1121 of title 11, United States 
+Code, is amended by adding at the end the following:
+    ``(e) In a case in which the debtor is a small business and elects 
+to be considered a small business--
+        ``(1) only the debtor may file a plan until after 100 days 
+    after the date of the order for relief under this chapter;
+        ``(2) all plans shall be filed within 160 days after the date 
+    of the order for relief; and
+        ``(3) on request of a party in interest made within the 
+    respective periods specified in paragraphs (1) and (2) and after 
+    notice and a hearing, the court may--
+            ``(A) reduce the 100-day period or the 160-day period 
+        specified in paragraph (1) or (2) for cause; and
+            ``(B) increase the 100-day period specified in paragraph 
+        (1) if the debtor shows that the need for an increase is caused 
+        by circumstances for which the debtor should not be held 
+        accountable.''.
+    (e) Postpetition Disclosure.--Section 1125 of title 11, United 
+States Code, is amended by adding at the end the following:
+    ``(f) Notwithstanding subsection (b), in a case in which the debtor 
+has elected under section 1121(e) to be considered a small business--
+        ``(1) the court may conditionally approve a disclosure 
+    statement subject to final approval after notice and a hearing;
+        ``(2) acceptances and rejections of a plan may be solicited 
+    based on a conditionally approved disclosure statement as long as 
+    the debtor provides adequate information to each holder of a claim 
+    or interest that is solicited, but a conditionally approved 
+    disclosure statement shall be mailed at least 10 days prior to the 
+    date of the hearing on confirmation of the plan; and
+        ``(3) a hearing on the disclosure statement may be combined 
+    with a hearing on confirmation of a plan.''.
+
+SEC. 218. SINGLE ASSET REAL ESTATE.
+
+    (a) Definition.--Section 101 of title 11, United States Code, is 
+amended by inserting after paragraph (51) the following:
+        ``(51B) `single asset real estate' means real property 
+    constituting a single property or project, other than residential 
+    real property with fewer than 4 residential units, which generates 
+    substantially all of the gross income of a debtor and on which no 
+    substantial business is being conducted by a debtor other than the 
+    business of operating the real property and activities incidental 
+    thereto having aggregate noncontingent, liquidated secured debts in 
+    an amount no more than $4,000,000;''.
+    (b) Automatic Stay.--Section 362(d) of title 11, United States 
+Code, is amended--
+        (1) in paragraph (1) by striking ``or'' at the end,
+        (2) in paragraph (2) by striking the period at the end and 
+    inserting ``; or'', and
+        (3) by adding at the end the following:
+        ``(3) with respect to a stay of an act against single asset 
+    real estate under subsection (a), by a creditor whose claim is 
+    secured by an interest in such real estate, unless, not later than 
+    the date that is 90 days after the entry of the order for relief 
+    (or such later date as the court may determine for cause by order 
+    entered within that 90-day period)--
+            ``(A) the debtor has filed a plan of reorganization that 
+        has a reasonable possibility of being confirmed within a 
+        reasonable time; or
+            ``(B) the debtor has commenced monthly payments to each 
+        creditor whose claim is secured by such real estate (other than 
+        a claim secured by a judgment lien or by an unmatured statutory 
+        lien), which payments are in an amount equal to interest at a 
+        current fair market rate on the value of the creditor's 
+        interest in the real estate.''.
+
+SEC. 219. LEASES OF PERSONAL PROPERTY.
+
+    (a) Assumption.--Section 365(b)(2) of title 11, United States Code, 
+is amended--
+        (1) in subparagraph (B) by striking ``or'' at the end,
+        (2) in subparagraph (C) by striking the period and inserting 
+    ``; or'',
+        (3) by adding at the end the following:
+        ``(D) the satisfaction of any penalty rate or provision 
+    relating to a default arising from any failure by the debtor to 
+    perform nonmonetary obligations under the executory contract or 
+    unexpired lease.''.
+    (b) Performance.--Section 365(d) of title 11, United States Code, 
+is amended by adding at the end the following:
+        ``(10) The trustee shall timely perform all of the obligations 
+    of the debtor, except those specified in section 365(b)(2), first 
+    arising from or after 60 days after the order for relief in a case 
+    under chapter 11 of this title under an unexpired lease of personal 
+    property (other than personal property leased to an individual 
+    primarily for personal, family, or household purposes), until such 
+    lease is assumed or rejected notwithstanding section 503(b)(1) of 
+    this title, unless the court, after notice and a hearing and based 
+    on the equities of the case, orders otherwise with respect to the 
+    obligations or timely performance thereof. This subsection shall 
+    not be deemed to affect the trustee's obligations under the 
+    provisions of subsection (b) or (f). Acceptance of any such 
+    performance does not constitute waiver or relinquishment of the 
+    lessor's rights under such lease or under this title.''.
+    (c) Limitation.--Section 363(e) of title 11, United States Code is 
+amended by adding at the end the following:
+``This subsection also applies to property that is subject to any 
+unexpired lease of personal property (to the exclusion of such property 
+being subject to an order to grant relief from the stay under section 
+362).''.
+    SEC. 220. EXEMPTION FOR SMALL BUSINESS INVESTMENT COMPANIES.
+    Section 109(b)(2) of title 11, United States Code, is amended by 
+inserting after ``homestead association,'' the following: ``a small 
+business investment company licensed by the Small Business 
+Administration under subsection (c) or (d) of section 301 of the Small 
+Business Investment Act of 1958,''.
+
+SEC. 221. PAYMENT OF TAXES WITH BORROWED FUNDS.
+
+    Section 523(a) of title 11, United States Code, is amended--
+        (1) in paragraph (13) by striking the period at the end and 
+    inserting a semicolon, and
+        (2) by adding at the end the following:
+        ``(14) incurred to pay a tax to the United States that would be 
+    nondischargeable pursuant to paragraph (1);''.
+
+SEC. 222. RETURN OF GOODS.
+
+    (a) Limitation on Avoiding Powers.--Section 546 of title 11, United 
+States Code, is amended by adding at the end the following:
+    ``(g) Notwithstanding the rights and powers of a trustee under 
+sections 544(a), 545, 547, 549, and 553, if the court determines on a 
+motion by the trustee made not later than 120 days after the date of 
+the order for relief in a case under chapter 11 of this title and after 
+notice and a hearing, that a return is in the best interests of the 
+estate, the debtor, with the consent of a creditor, may return goods 
+shipped to the debtor by the creditor before the commencement of the 
+case, and the creditor may offset the purchase price of such goods 
+against any claim of the creditor against the debtor that arose before 
+the commencement of the case.''.
+    (b) Setoff.--Section 553(b)(1) is amended by inserting ``546(h),'' 
+after ``365(h),''.
+
+SEC. 223. PROCEEDS OF MONEY ORDER AGREEMENTS.
+
+    Section 541(b) of title 11, United States Code, is amended--
+        (1) in paragraph (3) by striking ``or'' at the end and 
+    inserting a semicolon,
+        (2) in paragraph (4) by striking the period at the end and 
+    inserting ``; or'', and
+        (3) by inserting after paragraph (4) the following:
+        ``(5) any interest in cash or cash equivalents that constitute 
+    proceeds of a sale by the debtor of a money order that is made--
+            ``(A) on or after the date that is 14 days prior to the 
+        date on which the petition is filed; and
+            ``(B) under an agreement with a money order issuer that 
+        prohibits the commingling of such proceeds with property of the 
+        debtor (notwithstanding that, contrary to the agreement, the 
+        proceeds may have been commingled with property of the debtor),
+    unless the money order issuer had not taken action, prior to the 
+    filing of the petition, to require compliance with the 
+    prohibition.''.
+
+SEC. 224. TRUSTEE DUTIES; PROFESSIONAL FEES.
+
+    (a) Trustee's Duties.--Section 586(a)(3)(A) of title 28, United 
+States Code, is amended to read as follows:
+            ``(A)(i) reviewing, in accordance with procedural 
+        guidelines adopted by the Executive Office of the United States 
+        Trustee (which guidelines shall be applied uniformly by the 
+        United States trustee except when circumstances warrant 
+        different treatment), applications filed for compensation and 
+        reimbursement under section 330 of title 11; and
+            ``(ii) filing with the court comments with respect to such 
+        application and, if the United States Trustee considers it to 
+        be appropriate, objections to such application.''.
+    (b)  Professional Fees.--Section 330(a) of title 11, United States 
+Code, is amended to read as follows:
+    ``(a)(1) After notice to the parties in interest and the United 
+States Trustee and a hearing, and subject to sections 326, 328, and 
+329, the court may award to a trustee, an examiner, a professional 
+person employed under section 327 or 1103--
+        ``(A) reasonable compensation for actual, necessary services 
+    rendered by the trustee, examiner, professional person, or attorney 
+    and by any paraprofessional person employed by any such person; and
+        ``(B) reimbursement for actual, necessary expenses.
+    ``(2) The court may, on its own motion or on the motion of the 
+United States Trustee, the United States Trustee for the District or 
+Region, the trustee for the estate, or any other party in interest, 
+award compensation that is less than the amount of compensation that is 
+requested.
+    ``(3)(A) In determining the amount of reasonable compensation to be 
+awarded, the court shall consider the nature, the extent, and the value 
+of such services, taking into account all relevant factors, including--
+        ``(A) the time spent on such services;
+        ``(B) the rates charged for such services;
+        ``(C) whether the services were necessary to the administration 
+    of, or beneficial at the time at which the service was rendered 
+    toward the completion of, a case under this title;
+        ``(D) whether the services were performed within a reasonable 
+    amount of time commensurate with the complexity, importance, and 
+    nature of the problem, issue, or task addressed; and
+        ``(E) whether the compensation is reasonable based on the 
+    customary compensation charged by comparably skilled practitioners 
+    in cases other than cases under this title.
+    ``(4)(A) Except as provided in subparagraph (B), the court shall 
+not allow compensation for--
+        ``(i) unnecessary duplication of services; or
+        ``(ii) services that were not--
+            ``(I) reasonably likely to benefit the debtor's estate; or
+            ``(II) necessary to the administration of the case.
+    ``(B) In a chapter 12 or chapter 13 case in which the debtor is an 
+individual, the court may allow reasonable compensation to the debtor's 
+attorney for representing the interests of the debtor in connection 
+with the bankruptcy case based on a consideration of the benefit and 
+necessity of such services to the debtor and the other factors set 
+forth in this section.
+    ``(5) The court shall reduce the amount of compensation awarded 
+under this section by the amount of any interim compensation awarded 
+under section 331, and, if the amount of such interim compensation 
+exceeds the amount of compensation awarded under this section, may 
+order the return of the excess to the estate.
+    ``(6) Any compensation awarded for the preparation of a fee 
+application shall be based on the level and skill reasonably required 
+to prepare the application.''.
+
+SEC. 225. NOTICES TO CREDITORS.
+
+    Section 342 of title 11, United States Code, is amended by adding 
+at the end the following:
+    ``(c) If notice is required to be given by the debtor to a creditor 
+under this title, any rule, any applicable law, or any order of the 
+court, such notice shall contain the name, address, and taxpayer 
+identification number of the debtor, but the failure of such notice to 
+contain such information shall not invalidate the legal effect of such 
+notice.''.
+
+                 TITLE III--CONSUMER BANKRUPTCY ISSUES
+
+    SEC. 301. PERIOD FOR CURING DEFAULT RELATING TO PRINCIPAL 
+      RESIDENCE.
+    Section 1322 of title 11, United States Code, is amended--
+        (1) by redesignating subsection (c) as subsection (d), and
+        (2) by inserting after subsection (b) the following:
+    ``(c) Notwithstanding subsection (b)(2) and applicable 
+nonbankruptcy law--
+        ``(1) a default with respect to, or that gave rise to, a lien 
+    on the debtor's principal residence may be cured under paragraph 
+    (3) or (5) of subsection (b) until such residence is sold at a 
+    foreclosure sale that is conducted in accordance with applicable 
+    nonbankruptcy law; and
+        ``(2) in a case in which the last payment on the original 
+    payment schedule for a claim secured only by a security interest in 
+    real property that is the debtor's principal residence is due 
+    before the date on which the final payment under the plan is due, 
+    the plan may provide for the payment of the claim as modified 
+    pursuant to section 1325(a)(5) of this title.''.
+    SEC. 302. NONDISCHARGEABILITY OF FINE UNDER CHAPTER 13.
+    Section 1328(a)(3) of title 11, United States Code, is amended by 
+inserting ``, or a criminal fine,'' after ``restitution''.
+
+SEC. 303. IMPAIRMENT OF EXEMPTIONS.
+
+    Section 522(f) of title 11, United States Code, is amended--
+        (1) in paragraph (2)--
+            (A) by redesignating subparagraphs (A), (B), and (C) as 
+        clauses (i), (ii), and (iii), respectively, and
+            (B) by striking ``(2)'' and inserting ``(B)'',
+        (2) by redesignating paragraph (1) as subparagraph (A),
+        (3) by inserting ``(1)'' before ``Notwithstanding'', and
+        (4) by adding at the end the following:
+    ``(2)(A) For the purposes of this subsection, a lien shall be 
+considered to impair an exemption to the extent that the sum of--
+        ``(i) the lien;
+        ``(ii) all other liens on the property; and
+        ``(iii) the amount of the exemption that the debtor could claim 
+    if there were no liens on the property;
+exceeds the value that the debtor's interest in the property would have 
+in the absence of any liens.
+    ``(B) In the case of a property subject to more than 1 lien, a lien 
+that has been avoided shall not be considered in making the calculation 
+under subparagraph (A) with respect to other liens.
+    ``(C) This paragraph shall not apply with respect to a judgment 
+arising out of a mortgage foreclosure.''.
+
+SEC. 304. PROTECTION OF CHILD SUPPORT AND ALIMONY.
+
+    (a) Definition.--Section 101 of title 11, United States Code, is 
+amended by inserting after paragraph (12) the following:
+        ``(12A) `debt for child support' means a debt of a kind 
+    specified in section 523(a)(5) of this title for maintenance or 
+    support of a child of the debtor;''.
+    (b) Relief From Automatic Stay.--Section 362(b)(2) of title 11, 
+United States Code, is amended to read as follows:
+        ``(2) under subsection (a) of this section--
+            ``(A) of the commencement or continuation of an action or 
+        proceeding for--
+                ``(i) the establishment of paternity; or
+                ``(ii) the establishment or modification of an order 
+            for alimony, maintenance, or support; or
+            ``(B) of the collection of alimony, maintenance, or support 
+        from property that is not property of the estate;''.
+    (c) Priority of Claims.--Section 507(a) of title 11, United States 
+Code, is amended--
+        (1) in paragraph (8) by striking ``(8) Eighth'' and inserting 
+    ``(9) Ninth'',
+        (2) in paragraph (7) by striking ``(7) Seventh'' and inserting 
+    ``(8) Eighth'', and
+        (3) by inserting after paragraph (6) the following:
+        ``(7) Seventh, allowed claims for debts to a spouse, former 
+    spouse, or child of the debtor, for alimony to, maintenance for, or 
+    support of such spouse or child, in connection with a separation 
+    agreement, divorce decree or other order of a court of record, 
+    determination made in accordance with State or territorial law by a 
+    governmental unit, or property settlement agreement, but not to the 
+    extent that such debt--
+            ``(A) is assigned to another entity, voluntarily, by 
+        operation of law, or otherwise; or
+            ``(B) includes a liability designated as alimony, 
+        maintenance, or support, unless such liability is actually in 
+        the nature of alimony, maintenance or support.''.
+    (d) Protection of Liens.--Section 522(f)(1)(A) of title 11, United 
+States Code, as amended by section 303, is amended by inserting after 
+``lien'' the following:
+    ``, other than a judicial lien that secures a debt--
+            ``(i) to a spouse, former spouse, or child of the debtor, 
+        for alimony to, maintenance for, or support of such spouse or 
+        child, in connection with a separation agreement, divorce 
+        decree or other order of a court of record, determination made 
+        in accordance with State or territorial law by a governmental 
+        unit, or property settlement agreement; and
+            ``(ii) to the extent that such debt--
+                ``(I) is not assigned to another entity, voluntarily, 
+            by operation of law, or otherwise; and
+                ``(II) includes a liability designated as alimony, 
+            maintenance, or support, unless such liability is actually 
+            in the nature of alimony, maintenance or support.''.
+    (e) Exception to Discharge.--Section 523 of title 11, United States 
+Code, as amended by section 221, is amended by adding at the end the 
+following:
+        ``(15) not of the kind described in paragraph (5) that is 
+    incurred by the debtor in the course of a divorce or separation or 
+    in connection with a separation agreement, divorce decree or other 
+    order of a court of record, a determination made in accordance with 
+    State or territorial law by a governmental unit unless--
+            ``(A) the debtor does not have the ability to pay such debt 
+        from income or property of the debtor not reasonably necessary 
+        to be expended for the maintenance or support of the debtor or 
+        a dependent of the debtor and, if the debtor is engaged in a 
+        business, for the payment of expenditures necessary for the 
+        continuation, preservation, and operation of such business; or
+            ``(B) discharging such debt would result in a benefit to 
+        the debtor that outweighs the detrimental consequences to a 
+        spouse, former spouse, or child of the debtor;'', and
+        (2) in subsection (c)(1) by striking ``or (6)'' each place it 
+    appears and inserting ``(6), or (15)''.
+    (f) Protection Against Trustee Avoidance.--Section 547(c) of title 
+11, United States Code, is amended--
+        (1) in paragraph (6) by striking ``or'' at the end,
+        (2) by redesignating paragraph (7) as paragraph (8), and
+        (3) by inserting after paragraph (6) the following:
+        ``(7) to the extent such transfer was a bona fide payment of a 
+    debt to a spouse, former spouse, or child of the debtor, for 
+    alimony to, maintenance for, or support of such spouse or child, in 
+    connection with a separation agreement, divorce decree or other 
+    order of a court of record, determination made in accordance with 
+    State or territorial law by a governmental unit, or property 
+    settlement agreement, but not to the extent that such debt--
+            ``(A) is assigned to another entity, voluntarily, by 
+        operation of law, or otherwise; or
+            ``(B) includes a liability designated as alimony, 
+        maintenance, or support, unless such liability is actually in 
+        the nature of alimony, maintenance or support; or''.
+    (g) Appearance Before Court.--Child support creditors or their 
+representatives shall be permitted to appear and intervene without 
+charge, and without meeting any special local court rule requirement 
+for attorney appearances, in any bankruptcy case or proceeding in any 
+bankruptcy court or district court of the United States if such 
+creditors or representatives file a form in such court that contains 
+information detailing the child support debt, its status, and other 
+characteristics.
+    (h) Conforming Amendments.--Title 11 of the United States Code is 
+amended--
+        (1) in section 502(i) by striking ``507(a)(7)'' and inserting 
+    ``507(a)(8)'',
+        (2) in section 503(b)(1)(B)(i) by striking ``507(a)(7)'' and 
+    inserting ``507(a)(8)'',
+        (3) in section 523(a)(1)(A) by striking ``507(a)(7)'' and 
+    inserting ``507(a)(8)'',
+        (4) in section 724(b)(2) by striking ``or 507(a)(6)'' and 
+    inserting ``507(a)(6), or 507(a)(7)'',
+        (5) in section 726(b) by striking ``or (7)'' and inserting ``, 
+    (7), or (8)'',
+        (6) in section 1123(a)(1) by striking ``507(a)(7)'' and 
+    inserting ``507(a)(8)'',
+        (7) in section 1129(a)(9)--
+            (i) in subparagraph (B) by striking ``or 507(a)(6)'' and 
+        inserting ``, 507(a)(6), or 507(a)(7)'', and
+            (ii) in subparagraph (C) by striking ``507(a)(7)'' and 
+        inserting ``507(a)(8)''.
+
+SEC. 305. INTEREST ON INTEREST.
+
+    (a) Chapter 11.--Section 1123 of title 11, United States Code, is 
+amended by adding at the end the following:
+    ``(d) Notwithstanding subsection (a) of this section and sections 
+506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a 
+plan to cure a default the amount necessary to cure the default shall 
+be determined in accordance with the underlying agreement and 
+applicable nonbankruptcy law.''.
+    (b) Chapter 12.--Section 1222 of title 11, United States Code, is 
+amended by adding at the end the following:
+    ``(d) Notwithstanding subsection (b)(2) of this section and 
+sections 506(b) and 1225(a)(5) of this title, if it is proposed in a 
+plan to cure a default, the amount necessary to cure the default, shall 
+be determined in accordance with the underlying agreement and 
+applicable nonbankruptcy law.''.
+    (c) Chapter 13.--Section 1322 of title 11, United States Code, is 
+amended by adding at the end the following:
+    ``(e) Notwithstanding subsection (b)(2) of this section and 
+sections 506(b) and 1325(a)(5) of this title, if it is proposed in a 
+plan to cure a default, the amount necessary to cure the default, shall 
+be determined in accordance with the underlying agreement and 
+applicable nonbankruptcy law.''.
+
+SEC. 306. EXCEPTION TO DISCHARGE.
+
+    Section 523(a)(2)(C) of title 11, United States Code, is Pamended--
+        (1) by striking ``$500'' and inserting ``$1,000'',
+        (2) by striking ``forty'' and inserting ``60'', and
+        (3) by striking ``twenty'' and inserting ``60''.
+
+SEC. 307. PAYMENTS UNDER CHAPTER 13.
+
+    Section 1326(a)(2) of title 11, United States Code, is amended in 
+the second sentence by striking the period and inserting ``as soon as 
+practicable.''.
+
+SEC. 308. BANKRUPTCY PETITION PREPARERS.
+
+    (a) Amendment of Chapter 1.--Chapter 1 of title 11, United States 
+Code, is amended by adding at the end the following:
+``Sec. 110. Penalty for persons who negligently or fraudulently prepare 
+   bankruptcy petitions
+    ``(a) In this section--
+        ``(1) `bankruptcy petition preparer' means a person, other than 
+    an attorney or an employee of an attorney, who prepares for 
+    compensation a document for filing; and
+        ``(2) `document for filing' means a petition or any other 
+    document prepared for filing by a debtor in a United States 
+    bankruptcy court or a United States district court in connection 
+    with a case under this title.
+    ``(b)(1) A bankruptcy petition preparer who prepares a document for 
+filing shall sign the document and print on the document the preparer's 
+name and address.
+    ``(2) A bankruptcy petition preparer who fails to comply with 
+paragraph (1) may be fined not more than $500 for each such failure 
+unless the failure is due to reasonable cause.
+    ``(c)(1) A bankruptcy petition preparer who prepares a document for 
+filing shall place on the document, after the preparer's signature, an 
+identifying number that identifies individuals who prepared the 
+document.
+    ``(2) For purposes of this section, the identifying number of a 
+bankruptcy petition preparer shall be the Social Security account 
+number of each individual who prepared the document or assisted in its 
+preparation.
+    ``(3) A bankruptcy petition preparer who fails to comply with 
+paragraph (1) may be fined not more than $500 for each such failure 
+unless the failure is due to reasonable cause.
+    ``(d)(1) A bankruptcy petition preparer shall, not later than the 
+time at which a document for filing is presented for the debtor's 
+signature, furnish to the debtor a copy of the document.
+    ``(2) A bankruptcy petition preparer who fails to comply with 
+paragraph (1) may be fined not more than $500 for each such failure 
+unless the failure is due to reasonable cause.
+    ``(e)(1) A bankruptcy petition preparer shall not execute any 
+document on behalf of a debtor.
+    ``(2) A bankruptcy petition preparer may be fined not more than 
+$500 for each document executed in violation of paragraph (1).
+    ``(f)(1) A bankruptcy petition preparer shall not use the word 
+`legal' or any similar term in any advertisements, or advertise under 
+any category that includes the word `legal' or any similar term.
+    ``(2) A bankruptcy petition preparer shall be fined not more than 
+$500 for each violation of paragraph (1).
+    ``(g)(1) A bankruptcy petition preparer shall not collect or 
+receive any payment from the debtor or on behalf of the debtor for the 
+court fees in connection with filing the petition.
+    ``(2) A bankruptcy petition preparer shall be fined not more than 
+$500 for each violation of paragraph (1).
+    ``(h)(1) Within 10 days after the date of the filing of a petition, 
+a bankruptcy petition preparer shall file a declaration under penalty 
+of perjury disclosing any fee received from or on behalf of the debtor 
+within 12 months immediately prior to the filing of the case, and any 
+unpaid fee charged to the debtor.
+    ``(2) The court shall disallow and order the immediate turnover to 
+the bankruptcy trustee of any fee referred to in paragraph (1) found to 
+be in excess of the value of services rendered for the documents 
+prepared. An individual debtor may exempt any funds so recovered under 
+section 522(b).
+    ``(3) The debtor, the trustee, a creditor, or the United States 
+trustee may file a motion for an order under paragraph (2).
+    ``(4) A bankruptcy petition preparer shall be fined not more than 
+$500 for each failure to comply with a court order to turn over funds 
+within 30 days of service of such order.
+    ``(i)(1) If a bankruptcy case or related proceeding is dismissed 
+because of the failure to file bankruptcy papers, including papers 
+specified in section 521(1) of this title, the negligence or 
+intentional disregard of this title or the Federal Rules of Bankruptcy 
+Procedure by a bankruptcy petition preparer, or if a bankruptcy 
+petition preparer violates this section or commits any fraudulent, 
+unfair, or deceptive act, the bankruptcy court shall certify that fact 
+to the district court, and the district court, on motion of the debtor, 
+the trustee, or a creditor and after a hearing, shall order the 
+bankruptcy petition preparer to pay to the debtor--
+        ``(A) the debtor's actual damages;
+        ``(B) the greater of--
+            ``(i) $2,000; or
+            ``(ii) twice the amount paid by the debtor to the 
+        bankruptcy petition preparer for the preparer's services; and
+        ``(C) reasonable attorneys' fees and costs in moving for 
+    damages under this subsection.
+    ``(2) If the trustee or creditor moves for damages on behalf of the 
+debtor under this subsection, the bankruptcy petition preparer shall be 
+ordered to pay the movant the additional amount of $1,000 plus 
+reasonable attorneys' fees and costs incurred.
+    ``(j)(1) A debtor for whom a bankruptcy petition preparer has 
+prepared a document for filing, the trustee, a creditor, or the United 
+States trustee in the district in which the bankruptcy petition 
+preparer resides, has conducted business, or the United States trustee 
+in any other district in which the debtor resides may bring a civil 
+action to enjoin a bankruptcy petition preparer from engaging in any 
+conduct in violation of this section or from further acting as a 
+bankruptcy petition preparer.
+    ``(2)(A) In an action under paragraph (1), if the court finds 
+that--
+        ``(i) a bankruptcy petition preparer has--
+            ``(I) engaged in conduct in violation of this section or of 
+        any provision of this title a violation of which subjects a 
+        person to criminal penalty;
+            ``(II) misrepresented the preparer's experience or 
+        education as a bankruptcy petition preparer; or
+            ``(III) engaged in any other fraudulent, unfair, or 
+        deceptive conduct; and
+        ``(ii) injunctive relief is appropriate to prevent the 
+    recurrence of such conduct,
+the court may enjoin the bankruptcy petition preparer from engaging in 
+such conduct.
+    ``(B) If the court finds that a bankruptcy petition preparer has 
+continually engaged in conduct described in subclause (I), (II), or 
+(III) of clause (i) and that an injunction prohibiting such conduct 
+would not be sufficient to prevent such person's interference with the 
+proper administration of this title, or has not paid a penalty imposed 
+under this section, the court may enjoin the person from acting as a 
+bankruptcy petition preparer.
+    ``(3) The court shall award to a debtor, trustee, or creditor that 
+brings a successful action under this subsection reasonable attorney's 
+fees and costs of the action, to be paid by the bankruptcy petition 
+preparer.
+    ``(k) Nothing in this section shall be construed to permit 
+activities that are otherwise prohibited by law, including rules and 
+laws that prohibit the unauthorized practice of law.''.
+    (b) The chapter analysis for chapter 1 of title 11, United States 
+Code, is amended by adding at the end the following new item:
+``110. Penalty for persons who negligently or fraudulently prepare 
+          bankruptcy petitions.''.
+
+SEC. 309. FAIRNESS TO CONDOMINIUM AND COOPERATIVE OWNERS.
+
+    Section 523(a) of title 11, United States Code, as amended by 
+sections 221 and 304, is amended by adding at the end the following:
+        ``(16) for a fee or assessment that becomes due and payable 
+    after the order for relief to a membership association with respect 
+    to the debtor's interest in a dwelling unit that has condominium 
+    ownership or in a share of a cooperative housing corporation, but 
+    only if such fee or assessment is payable for a period during 
+    which--
+            ``(A) the debtor physically occupied a dwelling unit in the 
+        condominium or cooperative project; or
+            ``(B) the debtor rented the dwelling unit to a tenant and 
+        received payments from the tenant for such period,
+    but nothing in this paragraph shall except from discharge the debt 
+    of a debtor for a membership association fee or assessment for a 
+    period arising before entry of the order for relief in a pending or 
+    subsequent bankruptcy case.''.
+    SEC. 310. NONAVOIDABILITY OF FIXING OF LIEN ON TOOLS AND IMPLEMENTS 
+      OF TRADE, ANIMALS, AND CROPS.
+    Section 522(f) of title 11, United States Code, as amended by 
+sections 303 and 304, is amended--
+        (1) in paragraph (1) by inserting ``but subject to paragraph 
+    (3)'' after ``waiver of exemptions'', and
+        (2) by adding at the end the following:
+    ``(3) In a case in which State law that is applicable to the 
+debtor--
+        ``(A) permits a person to voluntarily waive a right to claim 
+    exemptions under subsection (d) or prohibits a debtor from claiming 
+    exemptions under subsection (d); and
+        ``(B) either permits the debtor to claim exemptions under State 
+    law without limitation in amount, except to the extent that the 
+    debtor has permitted the fixing of a consensual lien on any 
+    property or prohibits avoidance of a consensual lien on property 
+    otherwise eligible to be claimed as exempt property;
+the debtor may not avoid the fixing of a lien on an interest of the 
+debtor or a dependent of the debtor in property if the lien is a 
+nonpossessory, nonpurchase-money security interest in implements, 
+professional books, or tools of the trade of the debtor or a dependent 
+of the debtor or farm animals or crops of the debtor or a dependent of 
+the debtor to the extent the value of such implements, professional 
+books, tools of the trade, animals, and crops exceeds $5,000.''.
+
+SEC. 311. CONVERSION OF CASE UNDER CHAPTER 13.
+
+    Section 348 of title 11, United States Code, is amended by adding 
+at the end the following:
+    ``(f)(1) Except as provided in paragraph (2), when a case under 
+chapter 13 of this title is converted to a case under another chapter 
+under this title--
+        ``(A) property of the estate in the converted case shall 
+    consist of property of the estate, as of the date of filing of the 
+    petition, that remains in the possession of or is under the control 
+    of the debtor on the date of conversion; and
+        ``(B) valuations of property and of allowed secured claims in 
+    the chapter 13 case shall apply in the converted case, with allowed 
+    secured claims reduced to the extent that they have been paid in 
+    accordance with the chapter 13 plan.
+    ``(2) If the debtor converts a case under chapter 13 of this title 
+to a case under another chapter under this title in bad faith, the 
+property in the converted case shall consist of the property of the 
+estate as of the date of conversion.''.
+
+SEC. 312. BANKRUPTCY FRAUD.
+
+    (a) In General.--
+        (1) Offenses.--Chapter 9 of title 18, United States Code, is 
+    amended--
+            (A) by amending sections 152, 153, and 154 to read as 
+        follows:
+
+``Sec. 152. Concealment of assets; false oaths and claims; bribery
+
+    ``A person who--
+        ``(1) knowingly and fraudulently conceals from a custodian, 
+    trustee, marshal, or other officer of the court charged with the 
+    control or custody of property, or, in connection with a case under 
+    title 11, from creditors or the United States Trustee, any property 
+    belonging to the estate of a debtor;
+        ``(2) knowingly and fraudulently makes a false oath or account 
+    in or in relation to any case under title 11;
+        ``(3) knowingly and fraudulently makes a false declaration, 
+    certificate, verification, or statement under penalty of perjury as 
+    permitted under section 1746 of title 28, in or in relation to any 
+    case under title 11;
+        ``(4) knowingly and fraudulently presents any false claim for 
+    proof against the estate of a debtor, or uses any such claim in any 
+    case under title 11, in a personal capacity or as or through an 
+    agent, proxy, or attorney;
+        ``(5) knowingly and fraudulently receives any material amount 
+    of property from a debtor after the filing of a case under title 
+    11, with intent to defeat the provisions of title 11;
+        ``(6) knowingly and fraudulently gives, offers, receives, or 
+    attempts to obtain any money or property, remuneration, 
+    compensation, reward, advantage, or promise thereof for acting or 
+    forbearing to act in any case under title 11;
+        ``(7) in a personal capacity or as an agent or officer of any 
+    person or corporation, in contemplation of a case under title 11 by 
+    or against the person or any other person or corporation, or with 
+    intent to defeat the provisions of title 11, knowingly and 
+    fraudulently transfers or conceals any of his property or the 
+    property of such other person or corporation;
+        ``(8) after the filing of a case under title 11 or in 
+    contemplation thereof, knowingly and fraudulently conceals, 
+    destroys, mutilates, falsifies, or makes a false entry in any 
+    recorded information (including books, documents, records, and 
+    papers) relating to the property or financial affairs of a debtor; 
+    or
+        ``(9) after the filing of a case under title 11, knowingly and 
+    fraudulently withholds from a custodian, trustee, marshal, or other 
+    officer of the court or a United States Trustee entitled to its 
+    possession, any recorded information (including books, documents, 
+    records, and papers) relating to the property or financial affairs 
+    of a debtor,
+shall be fined not more than $5,000, imprisoned not more than 5 years, 
+or both.
+
+``Sec. 153. Embezzlement against estate
+
+    ``(a) Offense.--A person described in subsection (b) who knowingly 
+and fraudulently appropriates to the person's own use, embezzles, 
+spends, or transfers any property or secretes or destroys any document 
+belonging to the estate of a debtor shall be fined not more than 
+$5,000, imprisoned not more than 5 years, or both.
+    ``(b) Person to Whom Section Applies.--A person described in this 
+subsection is one who has access to property or documents belonging to 
+an estate by virtue of the person's participation in the administration 
+of the estate as a trustee, custodian, marshal, attorney, or other 
+officer of the court or as an agent, employee, or other person engaged 
+by such an officer to perform a service with respect to the estate.
+
+``Sec. 154. Adverse interest and conduct of officers
+
+    ``A person who, being a custodian, trustee, marshal, or other 
+officer of the court--
+        ``(1) knowingly purchases, directly or indirectly, any property 
+    of the estate of which the person is such an officer in a case 
+    under title 11;
+        ``(2) knowingly refuses to permit a reasonable opportunity for 
+    the inspection by parties in interest of the documents and accounts 
+    relating to the affairs of estates in the person's charge by 
+    parties when directed by the court to do so; or
+        ``(3) knowingly refuses to permit a reasonable opportunity for 
+    the inspection by the United States Trustee of the documents and 
+    accounts relating to the affairs of an estate in the person's 
+    charge,
+shall be fined not more than $5,000 and shall forfeit the person's 
+office, which shall thereupon become vacant.''; and
+            (B) by adding at the end the following:
+
+``Sec. 156. Knowing disregard of bankruptcy law or rule
+
+    ``(a) Definitions.--In this section--
+        ```bankruptcy petition preparer' means a person, other than the 
+    debtor's attorney or an employee of such an attorney, who prepares 
+    for compensation a document for filing.
+        ```document for filing' means a petition or any other document 
+    prepared for filing by a debtor in a United States bankruptcy court 
+    or a United States district court in connection with a case under 
+    this title.
+    ``(b) Offense.--If a bankruptcy case or related proceeding is 
+dismissed because of a knowing attempt by a bankruptcy petition 
+preparer in any manner to disregard the requirements of title 11, 
+United States Code, or the Federal Rules of Bankruptcy Procedure, the 
+bankruptcy petition preparer shall be fined under this title, 
+imprisoned not more than 1 year, or both.
+
+``Sec. 157. Bankruptcy fraud
+
+    ``A person who, having devised or intending to devise a scheme or 
+artifice to defraud and for the purpose of executing or concealing such 
+a scheme or artifice or attempting to do so--
+        ``(1) files a petition under title 11;
+        ``(2) files a document in a proceeding under title 11; or
+        ``(3) makes a false or fraudulent representation, claim, or 
+    promise concerning or in relation to a proceeding under title 11, 
+    at any time before or after the filing of the petition, or in 
+    relation to a proceeding falsely asserted to be pending under such 
+    title,
+shall be fined under this title, imprisoned not more than 5 years, or 
+both.''.
+        (2) Technical amendments.--The chapter analysis for chapter 9 
+    of title 18, United States Code, is amended--
+            (A) by amending the item relating to section 153 to read as 
+        follows:
+``Sec. 153. Embezzlement against estate.'';
+
+        and
+            (B) by adding at the end the following new items:
+``Sec. 156. Knowing disregard of bankruptcy law or rule.
+``Sec. 157. Bankruptcy fraud.''.
+
+    (b) RICO.--Section 1961(1)(D) of title 18, United States Code, is 
+amended by inserting ``(except a case under section 157 of that 
+title)'' after ``title 11''.
+    SEC. 313. PROTECTION AGAINST DISCRIMINATORY TREATMENT OF 
+      APPLICATIONS FOR STUDENT LOANS.
+    Section 525 of title 11, United States Code, is amended by adding 
+at the end the following:
+    ``(c)(1) A governmental unit that operates a student grant or loan 
+program and a person engaged in a business that includes the making of 
+loans guaranteed or insured under a student loan program may not deny a 
+grant, loan, loan guarantee, or loan insurance to a person that is or 
+has been a debtor under this title or a bankrupt or debtor under the 
+Bankruptcy Act, or another person with whom the debtor or bankrupt has 
+been associated, because the debtor or bankrupt is or has been a debtor 
+under this title or a bankrupt or debtor under the Bankruptcy Act, has 
+been insolvent before the commencement of a case under this title or 
+during the pendency of the case but before the debtor is granted or 
+denied a discharge, or has not paid a debt that is dischargeable in the 
+case under this title or that was discharged under the Bankruptcy Act.
+    ``(2) In this section, `student loan program' means the program 
+operated under part B, D, or E of title IV of the Higher Education Act 
+of 1965 or a similar program operated under State or local law.''.
+
+                TITLE IV--GOVERNMENTAL BANKRUPTCY ISSUES
+
+SEC. 401. EXCEPTION FROM AUTOMATIC STAY FOR POST-PETITION PROPERTY 
+              TAXES.
+
+    Section 362(b) of title 11, United States Code, is amended by 
+inserting after paragraph (16) the following:
+        ``(18) under subsection (a) of the creation or perfection of a 
+    statutory lien for an ad valorem property tax imposed by the 
+    District of Columbia, or a political subdivision of a State, if 
+    such tax comes due after the filing of the petition.''.
+
+SEC. 402. MUNICIPAL BANKRUPTCY.
+
+    Section 109(c)(2) of title 11, United States Code, is amended by 
+striking ``generally authorized'' and inserting ``specifically 
+authorized, in its capacity as a municipality or by name,''.
+
+                     TITLE V--TECHNICAL CORRECTIONS
+
+    SEC. 501. AMENDMENTS TO BANKRUPTCY DEFINITIONS, NECESSITATED BY 
+      ENACTMENT OF PUBLIC LAW 101-647.
+    (a) Alphabetizing and Redesignating Definitions.--Section 101 of 
+title 11 of the United States Code, as amended by sections 208, 217, 
+218, and 304, is amended--
+        (1) by redesignating paragraph (3) as paragraph (21B) and 
+    transferring such paragraph so as to insert it after paragraph 
+    (21A),
+        (2) by redesignating paragraph (39) as paragraph (51A) and 
+    transferring such paragraph so as to insert it after paragraph 
+    (51),
+        (3) by redesignating paragraphs (54) through (57), as so 
+    redesignated by section 2522(e) of Public Law 101-647, as 
+    paragraphs (53A) through (53D), respectively,
+        (4) by redesignating paragraph (56) as in effect immediately 
+    before the enactment of Public Law 101-647, as paragraph (35A) and 
+    transferring such paragraph so as to insert it after paragraph 
+    (35), and
+        (5) by redesignating paragraph (57), as in effect immediately 
+    before the enactment of Public Law 101-647, as paragraph (39) and 
+    transferring such paragraph so as to insert it after paragraph 
+    (38).
+    (b) Conforming and Related Amendments to Title 11 of the United 
+States Code, Based on Redesignated Definitions.--(1) Section 101 of 
+title 11 of the United States Code, as amended by subsection (a), is 
+amended--
+        (A) in paragraph (6) by striking ``section 761(9)'' and 
+    inserting ``section 761'',
+        (B) in paragraph (22) by striking ``section 741(7)'' and 
+    inserting ``section 741'',
+        (C) in paragraph (35)(B) by striking ``paragraphs (3)'' and 
+    inserting ``paragraphs (21B)'',
+        (D) in paragraph (49)(B)(ii) by striking ``section 761(13)'' 
+    and inserting ``section 761'', and
+        (E) in paragraph (53A)(A), as so redesignated, by striking 
+    ``section 741(2)'' and inserting ``section 741''.
+    (2) Section 362(b) of title 11, United States Code, is amended--
+        (A) in paragraph (6)--
+            (i) by striking ``section 761(4)'' and inserting ``section 
+        761'',
+            (ii) by striking ``section 741(7)'' and inserting ``section 
+        741'',
+            (iii) by striking ``section 101(34), 741(5), or 761(15)'' 
+        and inserting ``section 101, 741, or 761'', and
+            (iv) by striking ``section 101(35) or 741(8)'' and 
+        inserting ``section 101 or 741'', and
+        (B) in paragraph (7)--
+            (i) by striking ``section 741(5) or 761(15)'' and inserting 
+        ``section 741 or 761'', and
+            (ii) by striking ``section 741(8)'' and inserting ``section 
+        741''.
+    (3) Section 507(a)(5) of title 11, United States Code, is 
+Pamended--
+        (A) by striking ``section 557(b)(1)'' and inserting ``section 
+    557(b)'', and
+        (B) by striking ``section 557(b)(2)'' and inserting ``section 
+    557(b)''.
+    (4) Section 546 of title 11, United States Code, is amended--
+        (A) in subsection (e)--
+            (i) by striking ``section 101(34), 741(5), or 761(15)'' and 
+        inserting ``section 101, 741, or 761'', and
+            (ii) by striking ``section 101(35) or 741(8)'' and 
+        inserting ``section 101 or 741'', and
+        (B) in subsection (f)--
+            (i) by striking ``section 741(5) or 761(15)'' and inserting 
+        ``section 741 or 761'', and
+            (ii) by striking ``section 741(8)'' and inserting ``section 
+        741''.
+    (5) Section 548(d)(2) of title 11, United States Code, is 
+Pamended--
+        (A) in subparagraph (B)--
+            (i) by striking ``section 101(34), 741(5) or 761(15)'' and 
+        inserting ``section 101, 741, or 761'', and
+            (ii) by striking ``section 101(35) or 741(8)'' and 
+        inserting ``section 101 or 741'', and
+        (B) in subparagraph (C)--
+            (i) by striking ``section 741(5) or 761(15)'' and inserting 
+        ``section 741 or 761'', and
+            (ii) by striking ``section 741(8)'' and inserting ``section 
+        741''.
+    (6) Section 555 of title 11, United States Code, is amended by 
+striking ``section 741(7)'' and inserting ``section 741 of this 
+title''.
+    (7) Section 556 of title 11, United States Code, is amended by 
+striking ``section 761(4)'' and inserting ``section 761 of this 
+title''.
+    (c) Conforming Amendments to Other Laws Based on Redesignated 
+Definitions.--(1) Section 207(c)(8)(D) of the Federal Credit Union Act 
+(12 U.S.C. 1787(c)(8)(D)) is amended--
+        (A) in clause (ii)(I) by striking ``section 741(7)'' and 
+    inserting ``section 741'',
+        (B) in clause (iii) by striking ``section 101(24)'' and 
+    inserting ``section 101'',
+        (C) in clause (iv)(I) by striking ``section 101(41)'' and 
+    inserting ``section 101'', and
+        (D) in clause (v) by striking ``section 101(50)'' and inserting 
+    ``section 101''.
+    (2) Section 11(e)(8)(D) of the Federal Deposit Insurance Act (12 
+U.S.C. 1821(e)(8)(D)) is amended--
+        (A) in clause (ii)(I) by striking ``section 741(7)'' and 
+    inserting ``section 741'',
+        (B) in clause (iii) by striking ``section 761(4)'' and 
+    inserting ``section 761'',
+        (C) in clause (iv) by striking ``section 101(24)'' and 
+    inserting ``section 101'',
+        (D) in clause (v)(I) by striking ``section 101(41)'' and 
+    inserting ``section 101'', and
+        (E) in clause (viii) by striking ``section 101(50)'' and 
+    inserting ``section 101''.
+    (d) Other Technical Amendments.--Title 11 of the United States Code 
+is amended--
+        (1) in section 101--
+            (A) in paragraph (33)--
+                (i) in subparagraph (A) by striking ``(12 U.S.C. 
+            1813(u))'', and
+                (ii) in subparagraph (B) by striking ``(12 U.S.C. 
+            1786(r))'',
+            (B) in paragraph (34) by striking ``(12 U.S.C. 1752(7))'',
+            (C) in paragraph (35)(A) by striking ``(12 U.S.C. 
+        1813(c)(2))'',
+            (D) in paragraph (48)--
+                (i) by striking ``(15 U.S.C. 78q-1)'', and
+                (ii) by striking ``(15 U.S.C. 78c(12))'',
+            (E) in paragraph (49)--
+                (i) in subparagraph (A)(xii)--
+
+                    (I) by striking ``(15 U.S.C. 77a et seq.)'', and
+                    (II) by striking ``(15 U.S.C. 77c(b))'', and
+
+                (ii) in subparagraph (B)(vi) by striking ``(15 U.S.C. 
+            77c(b))'', and
+            (F) in paragraph (53D), as so redesignated by subsection 
+        (a), by striking the period at the end and inserting a 
+        semicolon,
+        (2) in section 109(b)(2) by striking ``(12 U.S.C. 1813(h))'',
+        (3) in section 322(a) by striking ``1302, or 1202'' and 
+    inserting ``1202, or 1302'',
+        (4) in section 346--
+            (A) in subsection (a) by striking ``Internal Revenue Code 
+        of 1954 (26 U.S.C. 1 et seq.)'' and inserting ``Internal 
+        Revenue Code of 1986'', and
+            (B) in subsection (g)(1)(C) by striking ``Internal Revenue 
+        Code of 1954 (26 U.S.C. 371)'' and inserting ``Internal Revenue 
+        Code of 1986'',
+        (5) in section 348--
+            (A) in subsection (b) by striking ``1301(a), 1305(a), 
+        1201(a), 1221, and 1228(a)'' and inserting ``1201(a), 1221, 
+        1228(a), 1301(a), and 1305(a)'', and
+            (B) in subsections (b), (c), (d), and (e) by striking 
+        ``1307, or 1208'' each place it appears and inserting ``1208, 
+        or 1307'',
+        (6) in section 349(a) by striking ``109(f)'' and inserting 
+    ``109(g)'',
+        (7) in section 362--
+            (A) in subsection (a) by striking ``(15 U.S.C. 
+        78eee(a)(3))'', and
+            (B) in subsection (b)--
+                (i) by striking ``(15 U.S.C. 78eee(a)(3))'',
+                (ii) in paragraph (10) by striking ``or'' at the end,
+                (iii) in paragraph (12)--
+
+                    (I) by striking ``the Ship Mortgage Act, 1920 (46 
+                App. U.S.C. 911 et seq.)'' and inserting ``section 
+                31325 of title 46'', and
+                    (II) by striking ``(46 App. U.S.C. 1117 and 1271 et 
+                seq., respectively)'',
+
+                (iv) in paragraph (13)--
+
+                    (I) by striking ``the Ship Mortgage Act, 1920 (46 
+                App. U.S.C. 911 et seq.)'' each place it appears and 
+                inserting ``section 31325 of title 46'',
+                    (II) by striking ``(46 App. U.S.C. 1117 and 1271 et 
+                seq., respectively)'', and
+                    (III) by striking ``or'' at the end,
+
+                (v) in paragraph (15), as added by Public Law 101-508, 
+            by striking ``or'' at the end,
+                (vi) in paragraph (16), as added by Public Law 101-
+            508--
+
+                    (I) by striking ``(20 U.S.C. 1001 et seq.)'', and
+                    (II) by striking the period at the end and 
+                inserting a semicolon, and
+
+                (vii) in paragraph (14), as added by Public Law 101-
+            311--
+
+                    (I) by striking the period at the end and inserting 
+                ``; or'',
+                    (II) by redesignating such paragraph as paragraph 
+                (17), and
+                    (III) by transferring such paragraph so as to 
+                insert such paragraph after paragraph (16),
+
+        (8) in section 363--
+            (A) in subsection (b)(2) by striking ``(15 U.S.C. 18a)'', 
+        and
+            (B) in subsection (c)(1) by striking ``1304, 1203, or 
+        1204'' and inserting ``1203, 1204, or 1304'',
+        (9) in section 364--
+            (A) in subsection (a) by striking ``1304, 1203, or 1204'' 
+        and inserting ``1203, 1204, or 1304'', and
+            (B) in subsection (f)--
+                (i) by striking ``(15 U.S.C. 77e)'', and
+                (ii) by striking ``(15 U.S.C. 77aaa et seq.)'',
+        (10) in section 365--
+            (A) in subsection (d)(6)(C) by striking ``the Federal 
+        Aviation Act of 1958 (49 U.S.C. 1301)'' and inserting ``section 
+        40102 of title 49'',
+            (B) in subparagraphs (A) and (B) of subsection (g)(2) by 
+        striking ``1307, or 1208'' each place it appears and inserting 
+        ``1208, or 1307'',
+            (C) in subsection (n)(1)(B) by striking ``to to'' and 
+        inserting ``to'',
+            (D) in subsection (o) by striking ``the Federal'' the first 
+        place it appears and all that follows through ``successors,'', 
+        and inserting ``a Federal depository institutions regulatory 
+        agency (or predecessor to such agency)'', and
+            (E) by striking subsection (p),
+        (11) in section 507, as amended by section 304--
+            (A) in subsection (a)(9) by striking ``the Federal'' the 
+        first place it appears and all that follows through 
+        ``successors,'', and inserting ``a Federal depository 
+        institutions regulatory agency (or predecessor to such 
+        agency)'', and
+            (B) in subsection (d) by striking ``or (a)(6)'' and 
+        inserting ``(a)(6), (a)(7), (a)(8), or (a)(9)'',
+        (12) in section 522--
+            (A) in subsection (b) by striking ``Bankruptcy Rules'' and 
+        inserting ``Federal Rules of Bankruptcy Procedure'', and
+            (B) in subsection (d)(10)(E)(iii)--
+                (i) by striking ``408, or 409'' the first place it 
+            appears and inserting ``or 408'', and
+                (ii) by striking ``Internal Revenue Code of 1954 (26 
+            U.S.C. 401(a), 403(a), 403(b), 408, or 409)'' and inserting 
+            ``Internal Revenue Code of 1986'',
+        (13) in section 523--
+            (A) in subsection (a)--
+                (i) by striking ``1141,,'' and inserting ``1141,'', and
+                (ii) in paragraph (2)(C) by striking ``(15 U.S.C. 1601 
+            et seq.)'',
+            (B) in subsection (b)--
+                (i) by striking ``(20 U.S.C. 1087-3)'', and
+                (ii) by striking ``(42 U.S.C. 294f)'', and
+            (C) in subsection (e) by striking ``depository institution 
+        or insured credit union'' and inserting ``insured depository 
+        institution'',
+        (14) in section 524--
+            (A) in subsection (a)(3) by striking ``1328(c)(1)'' and 
+        inserting ``1328(a)(1)'',
+            (B) in subsection (c)(4) by striking ``recission'' and 
+        inserting ``rescission'', and
+            (C) in subsection (d)(1)(B)(ii) by adding ``and'' at the 
+        end,
+        (15) in section 525(a)--
+            (A) by striking ``(7 U.S.C. 499a-499s)'',
+            (B) by striking ``(7 U.S.C. 181-229)'', and
+            (C) by striking ``(57 Stat. 422; 7 U.S.C. 204)'',
+        (16) in section 542(e) by striking ``to to'' and inserting 
+    ``to'',
+        (17) in section 543(d)(1) by striking ``section,'' and 
+    inserting ``section'',
+        (18) in section 549(b) inserting ``the trustee may not avoid 
+    under subsection (a) of this section'' after ``involuntary case,'',
+        (19) in section 553--
+            (A) in subsection (a)(1) by striking ``other than under 
+        section 502(b)(3) of this title'', and
+            (B) in subsection (b)(1) by striking ``362(b)(14),,'' and 
+        inserting ``362(b)(14),'',
+        (20) in section 555 by striking ``(15 U.S.C. 78aaa et seq.)'',
+        (21) in section 559 by striking ``(15 U.S.C. 78aaa et seq.)'',
+        (22) in section 706(a) by striking ``1307, or 1208'' and 
+    inserting ``1208, or 1307'',
+        (23) in section 724(d) by striking ``Internal Revenue Code of 
+    1954 (26 U.S.C. 6323)'' and inserting ``Internal Revenue Code of 
+    1986'',
+        (24) in section 726(b)--
+            (A) inserting a comma after ``section 1112'', and
+            (B) by inserting ``1009,'' after ``chapter under section'',
+        (25) in section 741(4)(A)(iii) by striking ``(15 U.S.C. 78a et 
+    seq.)'',
+        (26) in section 742 by striking ``(15 U.S.C. 78aaa et seq.)'',
+        (27) in section 743 by striking ``342(a)'' and inserting 
+    ``342'',
+        (28) in section 745(c) by striking ``Internal Revenue Code of 
+    1954 (26 U.S.C. 1 et seq.)'' and inserting ``Internal Revenue Code 
+    of 1986'',
+        (29) in section 761--
+            (A) in paragraph (1) by striking ``(7 U.S.C. 1 et seq.)'',
+            (B) in paragraph (5) by striking ``(7 U.S.C. 6c(b))'', and
+            (C) in paragraph (13) by striking ``(7 U.S.C. 23)'',
+        (30) in section 1104(d), as redesignated by section 211, 
+    inserting a comma after ``interest'',
+        (31) in section 1123(a)(1) inserting a comma after ``title'' 
+    the last place it appears,
+        (32) in section 1129--
+            (A) in subsection (a)--
+                (i) in paragraph (4) by striking the semicolon at the 
+            end and inserting a period, and
+                (ii) in paragraph (12) inserting ``of title 28'' after 
+            ``section 1930'', and
+            (B) in subsection (d) by striking ``(15 U.S.C. 77e)'',
+        (33) in section 1145--
+            (A) in subsection (a)--
+                (i) by striking ``does'' and inserting ``do'',
+                (ii) by striking ``(15 U.S.C. 77e)'', and
+                (iii) in paragraph (3)(B)(i) by striking ``(15 U.S.C. 
+            78m or 78o(d))'',
+            (B) in subsection (b)(1) by striking ``(15 U.S.C. 
+        77b(11))'', and
+            (C) in subsection (d) by striking ``(15 U.S.C. 77aaa et 
+        seq.)'',
+        (34) in section 1166(2) by striking ``(45 U.S.C. 791(b))'',
+        (35) in section 1167--
+            (A) by striking ``(45 U.S.C. 151 et seq.)'', and
+            (B) by striking ``(45 U.S.C. 156)'',
+        (36) in section 1226(b)(2)--
+            (A) by striking ``1202(d)'' and inserting ``1202(c)'', and
+            (B) by striking ``1202(e)'' and inserting ``1202(d)'',
+        (37) in section 1302(b)(3) by striking ``and'' at the end,
+        (38) in section 1328(a)--
+            (A) in paragraph (2) by striking ``(5) or (8)'' and 
+        inserting ``(5), (8), or (9)'', and
+            (B) by striking the last paragraph (3), and
+        (39) in the table of chapters by striking the item relating to 
+    chapter 15.
+
+SEC. 502. TITLE 28 OF THE UNITED STATES CODE.
+
+    Section 586(a)(3) of title 28, United States Code, is amended in 
+the matter preceding subparagraph (A) by inserting ``12,'' after 
+``11,''.
+
+                 TITLE VI--BANKRUPTCY REVIEW COMMISSION
+
+SEC. 601. SHORT TITLE.
+
+    This title may be cited as the ``National Bankruptcy Review 
+Commission Act''.
+
+SEC. 602. ESTABLISHMENT.
+
+    There is established the National Bankruptcy Review Commission 
+(referred to as the ``Commission'').
+
+SEC. 603. DUTIES OF THE COMMISSION.
+
+    The duties of the Commission are--
+        (1) to investigate and study issues and problems relating to 
+    title 11, United States Code (commonly known as the ``Bankruptcy 
+    Code'');
+        (2) to evaluate the advisability of proposals and current 
+    arrangements with respect to such issues and problems;
+        (3) to prepare and submit to the Congress, the Chief Justice, 
+    and the President a report in accordance with section 608; and
+        (4) to solicit divergent views of all parties concerned with 
+    the operation of the bankruptcy system.
+
+SEC. 604. MEMBERSHIP.
+
+    (a) Number and Appointment.--The Commission shall be composed of 9 
+members as follows:
+        (1) Three members appointed by the President, 1 of whom shall 
+    be designated as chairman by the President.
+        (2) One member shall be appointed by the President pro tempore 
+    of the Senate.
+        (3) One member shall be appointed by the Minority Leader of the 
+    Senate.
+        (4) One member shall be appointed by the Speaker of the House 
+    of Representatives.
+        (5) One member shall be appointed by the Minority Leader of the 
+    House of Representatives.
+        (6) Two members appointed by the Chief Justice.
+Members of Congress, and officers and employees of the executive 
+branch, shall be ineligible for appointment to the Commission.
+    (b) Term.--Members of the Commission shall be appointed for the 
+life of the Commission.
+    (c) Quorum.--Five members of the Commission shall constitute a 
+quorum, but a lesser number may conduct meetings.
+    (d) Appointment Deadline.--The first appointments made under 
+subsection (a) shall be made within 60 days after the date of enactment 
+of this Act.
+    (e) First Meeting.--The first meeting of the Commission shall be 
+called by the chairman and shall be held within 210 days after the date 
+of enactment of this Act.
+    (f) Vacancy.--A vacancy on the Commission resulting from the death 
+or resignation of a member shall not affect its powers and shall be 
+filled in the same manner in which the original appointment was made.
+    (g) Continuation of Membership.--If any member of the Commission 
+who was appointed to the Commission as an officer or employee of a 
+government leaves that office, or if any member of the Commission who 
+was not appointed in such a capacity becomes an officer or employee of 
+a government, the member may continue as a member of the Commission for 
+not longer than the 90-day period beginning on the date the member 
+leaves that office or becomes such an officer or employee, as the case 
+may be.
+    (h) Consultation Prior to Appointment.--Prior to the appointment of 
+members of the Commission, the President, the President pro tempore of 
+the Senate, the Speaker of the House of Representatives, and the Chief 
+Justice shall consult with each other to ensure fair and equitable 
+representation of various points of view in the Commission and its 
+staff.
+
+SEC. 605. COMPENSATION OF THE COMMISSION.
+
+    (a) Pay.--
+        (1) Nongovernment employees.--Each member of the Commission who 
+    is not otherwise employed by the United States Government shall be 
+    entitled to receive the daily equivalent of the annual rate of 
+    basic pay payable for level IV of the Executive Schedule under 
+    section 5315 of title 5, United States Code, for each day 
+    (including travel time) during which he or she is engaged in the 
+    actual performance of duties as a member of the Commission.
+        (2) Government employees.--A member of the Commission who is an 
+    officer or employee of the United States Government shall serve 
+    without additional compensation.
+    (b) Travel.--Members of the Commission shall be reimbursed for 
+travel, subsistence, and other necessary expenses incurred by them in 
+the performance of their duties.
+
+SEC. 606. STAFF OF COMMISSION; EXPERTS AND CONSULTANTS.
+
+    (a) Staff.--
+        (1) Appointment.--The chairman of the Commission may, without 
+    regard to the civil service laws and regulations, appoint, and 
+    terminate an executive director and such other personnel as are 
+    necessary to enable the Commission to perform its duties. The 
+    employment of an executive director shall be subject to 
+    confirmation by the Commission.
+        (2) Compensation.--The chairman of the Commission may fix the 
+    compensation of the executive director and other personnel without 
+    regard to the provisions of chapter 51 and subchapter II of chapter 
+    53 of title 5, United States Code, relating to classification of 
+    positions and General Schedule pay rates, except that the rate of 
+    pay for the executive director and other personnel may not exceed 
+    the rate payable for level V of the Executive Schedule under 
+    section 5316 of that title.
+    (b) Experts and Consultants.--The Commission may procure temporary 
+and intermittent services of experts and consultants under section 
+3109(b) of title 5, United States Code.
+
+SEC. 607. POWERS OF THE COMMISSION.
+
+    (a) Hearings and Meetings.--The Commission or, on authorization of 
+the Commission, a member of the Commission, may hold such hearings, sit 
+and act at such time and places, take such testimony, and receive such 
+evidence, as the Commission considers appropriate. The Commission or a 
+member of the Commission may administer oaths or affirmations to 
+witnesses appearing before it.
+    (b) Official Data.--The Commission may secure directly from any 
+Federal department, agency, or court information necessary to enable it 
+to carry out this title. Upon request of the chairman of the 
+Commission, the head of a Federal department or agency or chief judge 
+of a Federal court shall furnish such information, consistent with law, 
+to the Commission.
+    (c) Facilities and Support Services.--The Administrator of General 
+Services shall provide to the Commission on a reimbursable basis such 
+facilities and support services as the Commission may request. Upon 
+request of the Commission, the head of a Federal department or agency 
+may make any of the facilities or services of the agency available to 
+the Commission to assist the Commission in carrying out its duties 
+under this title.
+    (d) Expenditures and Contracts.--The Commission or, on 
+authorization of the Commission, a member of the Commission may make 
+expenditures and enter into contracts for the procurement of such 
+supplies, services, and property as the Commission or member considers 
+appropriate for the purposes of carrying out the duties of the 
+Commission. Such expenditures and contracts may be made only to such 
+extent or in such amounts as are provided in appropriation Acts.
+    (e) Mails.--The Commission may use the United States mails in the 
+same manner and under the same conditions as other Federal departments 
+and agencies of the United States.
+    (f) Gifts.--The Commission may accept, use, and dispose of gifts or 
+donations of services or property.
+
+SEC. 608. REPORT.
+
+    The Commission shall submit to the Congress, the Chief Justice, and 
+the President a report not later than 2 years after the date of its 
+first meeting. The report shall contain a detailed statement of the 
+findings and conclusions of the Commission, together with its 
+recommendations for such legislative or administrative action as it 
+considers appropriate.
+
+SEC. 609. TERMINATION.
+
+    The Commission shall cease to exist on the date that is 30 days 
+after the date on which it submits its report under section 608.
+
+SEC. 610. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated $1,500,000 to carry out this 
+title.
+
+  TITLE VII--SEVERABILITY; EFFECTIVE DATE; APPLICATION OF AMENDMENTS.
+
+SEC. 701. SEVERABILITY.
+
+    If any provision of this Act or amendment made by this Act or the 
+application of such provision or amendment to any person or 
+circumstance is held to be unconstitutional, the remaining provisions 
+of and amendments made by this Act and the application of such other 
+provisions and amendments to any person or circumstance shall not be 
+affected thereby.
+
+SEC. 702. EFFECTIVE DATE; APPLICATION OF AMENDMENTS.
+
+    (a) Effective Date.--Except as provided in subsection (b), this Act 
+shall take effect on the date of the enactment of this Act.
+    (b) Application of Amendments.--(1) Except as provided in paragraph 
+(2), the amendments made by this Act shall not apply with respect to 
+cases commenced under title 11 of the United States Code before the 
+date of the enactment of this Act.
+    (2)(A) Paragraph (1) shall not apply with respect to the amendment 
+made by section 111.
+    (B) The amendments made by sections 113 and 117 shall apply with 
+respect to cases commenced under title 11 of the United States Code 
+before, on, and after the date of the enactment of this Act.
+    (C) Section 1110 of title 11, United States Code, as amended by 
+section 201 of this Act, shall apply with respect to any lease, as 
+defined in such section 1110(c) as so amended, entered into in 
+connection with a settlement of any proceeding in any case pending 
+under title 11 of the United States Code on the date of the enactment 
+of this Act.
+    (D) The amendments made by section 305 shall apply only to 
+agreements entered into after the date of enactment of this Act.
+
+
+
+
+
+
+
+                               Speaker of the House of Representatives.
+
+
+
+
+
+
+
+                            Vice President of the United States and    
+                                               President of the Senate.
+

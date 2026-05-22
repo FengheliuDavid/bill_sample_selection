@@ -1,0 +1,2534 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 18 Introduced in House (IH)]
+
+
+
+
+
+
+
+104th CONGRESS
+  1st Session
+                                 H. R. 18
+
+To enhance competition in the financial services industry by providing 
+  a prudential framework for the affiliation of banks and securities 
+                                 firms.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 4, 1995
+
+  Mr. Leach introduced the following bill; which was referred to the 
+ Committee on Banking and Financial Services and, in addition, to the 
+ Committee on Commerce, for a period to be subsequently determined by 
+the Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To enhance competition in the financial services industry by providing 
+  a prudential framework for the affiliation of banks and securities 
+                                 firms.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Financial Services Competitiveness 
+Act of 1995''.
+
+          TITLE I--BANK SECURITIES ACTIVITIES AND AFFILIATIONS
+
+                   Subtitle A--Securities Activities
+
+SEC. 101. ANTI-AFFILIATION PROVISION OF GLASS-STEAGALL ACT REPEALED.
+
+    (a) Section 20 Repealed.--Section 20 (12 U.S.C. 377) of the Banking 
+Act of 1933 is repealed.
+    (b) Conforming Amendment to Section 32.--Section 32 (12 U.S.C. 78) 
+of the Banking Act of 1933 is amended by adding at the end the 
+following sentence: ``This section does not prohibit an officer, 
+director, or employee of a securities affiliate (as defined in section 
+2 of the Bank Holding Company Act of 1956) from serving at the same 
+time as an officer, director, or employee of a member bank affiliated 
+with that securities affiliate under section 10 of the Bank Holding 
+Company Act of 1956.''.
+
+SEC. 102. BANK HOLDING COMPANIES AUTHORIZED TO HAVE SECURITIES 
+              AFFILIATES.
+
+    Section 4(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 
+1843(c)) is amended--
+            (1) by striking ``or'' at the end of paragraph (13);
+            (2) by striking the period at the end of paragraph (14) and 
+        inserting ``; or''; and
+            (3) by adding after paragraph (14) the following new 
+        paragraph:
+            ``(15) shares of a securities affiliate in accordance with 
+        section 10.''.
+
+SEC. 103. ESTABLISHMENT AND OPERATIONS OF SECURITIES AFFILIATES.
+
+    (a) In General.--Section 10 of the Bank Holding Company Act of 1956 
+(12 U.S.C. 1841 et seq.) is amended to read as follows:
+
+``SEC. 10. SECURITIES ACTIVITIES.
+
+    ``(a) Activities Permissible for Securities Affiliates.--A 
+securities affiliate may engage in one or more of the following 
+activities:
+            ``(1) Underwrite, deal in, broker, place, or distribute 
+        securities of any type, and engage in other securities 
+        activities as permitted by the Board.
+            ``(2) Sponsor, organize, control, manage, and act as 
+        investment adviser to an investment company.
+            ``(3) Engage in, or acquire the shares of a company engaged 
+        in, any activity if--
+                    ``(A) a provision of section 4(c) permits bank 
+                holding companies generally to engage in that activity 
+                or acquire those shares; and--
+                    ``(B) either--
+                            ``(i) the Board permits the bank holding 
+                        company to engage in that activity or acquire 
+                        those shares through the securities affiliate; 
+                        or
+                            ``(ii) that provision permits the bank 
+                        holding company to engage in that activity or 
+                        acquire those shares without the Board's 
+                        approval.
+    ``(b) Acquiring Interest in Securities Affiliate.--
+            ``(1) Notice required.--A bank holding company shall not, 
+        without complying with and receiving approval pursuant to the 
+        notice procedure in section 4(j), directly or indirectly 
+        acquire or retain more than 5 percent of the voting shares of, 
+        or all or substantially all of the assets of, a securities 
+        affiliate (or a company that would be a securities affiliate if 
+        the Board permitted the bank holding company to acquire that 
+        company).
+            ``(2) Criteria for approval.--The Board shall disapprove a 
+        notice required under paragraph (1) unless the Board determines 
+        that all of the following are satisfied:
+                    ``(A) Capital.--
+                            ``(i) Insured depository institutions.--
+                                    ``(I) The lead insured depository 
+                                institution of the bank holding company 
+                                is well capitalized;
+                                    ``(II) Well capitalized insured 
+                                depository institutions control at 
+                                least 80 percent of the total assets of 
+                                insured depository institutions 
+                                controlled by the bank holding company; 
+                                and
+                                    ``(III) All insured depository 
+                                institutions controlled by the bank 
+                                holding company are well capitalized or 
+                                adequately capitalized.
+                            ``(ii) Bank holding company.--The bank 
+                        holding company is (and immediately after the 
+                        acquisition would continue to be) adequately 
+                        capitalized.
+                            ``(iii) Foreign banks and companies.--The 
+                        Board shall establish and apply comparable 
+                        capital standards for the ownership or control 
+                        of a securities affiliate in the United States 
+                        by a foreign bank (as defined in section 1(b) 
+                        of the International Banking Act of 1978), 
+                        giving due regard to the principle of national 
+                        treatment and equality of competitive 
+                        opportunity in the United States.
+                    ``(B) Managerial resources.--
+                            ``(i) In general.--The bank holding company 
+                        and each of its subsidiary insured depository 
+                        institutions--
+                                    ``(I) are well managed; and
+                                    ``(II) were well managed during the 
+                                preceding 12-month period (but for 
+                                purposes of this subparagraph the Board 
+                                may disregard any insured depository 
+                                institution acquired by the bank 
+                                holding company during that period).
+                            ``(ii) Securities activities.--The bank 
+                        holding company has the managerial resources to 
+                        conduct the proposed securities activities 
+                        safely and soundly.
+                    ``(C) Internal controls.--The bank holding company 
+                has established adequate policies and procedures to 
+                manage financial and operational risks and to provide 
+                reasonable assurance of compliance with this section 
+                and other applicable laws.
+                    ``(D) No detrimental effect on bank holding company 
+                or its subsidiary insured depository institutions.--The 
+                acquisition would not adversely affect the safety and 
+                soundness of--
+                            ``(i) the bank holding company; or
+                            ``(ii) any insured depository institution 
+                        subsidiary of the bank holding company.
+                    ``(E) Concentration of resources.--The acquisition 
+                would not result in an undue concentration of resources 
+                in the commercial banking and investment banking 
+                business.
+            ``(3) Expedited notice procedure for acquisition of 
+        additional securities affiliates.--
+                    ``(A) Additional securities affiliates.--A bank 
+                holding company may, without providing the notice 
+                required under subsection (b), directly or indirectly 
+                acquire the shares or substantially all of the assets 
+                of any company that is engaged predominantly in 
+                activities described in subsection (a) (1) and (2), 
+                if--
+                            ``(i) the bank holding company previously 
+                        received the Board's approval under subsection 
+                        (b) to control a securities affiliate and 
+                        continues to control the securities affiliate 
+                        pursuant to that approval;
+                            ``(ii) the bank holding company is 
+                        adequately capitalized and would continue to be 
+                        adequately capitalized following the 
+                        acquisition; and
+                            ``(iii) all insured depository institutions 
+                        controlled by the bank holding company are well 
+                        capitalized and would continue to be well 
+                        capitalized following the acquisition.
+                    ``(B) Approval required.--
+                            ``(i) Abbreviated notice procedure.--A bank 
+                        holding company may not acquire shares or 
+                        assets under subparagraph (A) unless the 
+                        company has provided the Board at least 30-days 
+                        written notice prior to the transaction and, 
+                        during that period, the Board has not 
+                        disapproved the transaction.
+                            ``(ii) Limited extension of period.--The 
+                        Board may extend the disapproval period 
+                        provided in clause (i) for up to an additional 
+                        15 days.
+                            ``(iii) Standards applied by the board.--In 
+                        reviewing a notice under this paragraph, the 
+                        Board shall consider whether the activities of 
+                        the company to be acquired are authorized under 
+                        section 10 and shall apply the standards 
+                        provided in section 4(j)(2).
+    ``(c) Additional Investment in Securities Affiliate.--
+            ``(1) Prior notice required.--A bank holding company that 
+        has acquired control of a securities affiliate under this 
+        section shall not, directly or indirectly, make any additional 
+        investment in the securities affiliate that is considered 
+        capital for purposes of any capital requirement imposed on the 
+        securities affiliate under the Securities Exchange Act of 1934 
+        (other than an extension of credit under a revolving credit 
+        agreement approved by the Board), unless the bank holding 
+        company gives the Board prior written notice of the proposed 
+        investment and--
+                    ``(A) the Board issues a written statement of its 
+                intent not to disapprove the notice; or
+                    ``(B) the Board does not disapprove the notice 
+                within 30 days after the notice is filed.
+            ``(2) No prior notice required for certain bank holding 
+        companies.--A bank holding company is not required to provide 
+        prior notice under paragraph (1) if after making any investment 
+        described in paragraph (1)--
+                    ``(A) the bank holding company would adequately 
+                capitalized and each of the bank holding company's 
+                subsidiary insured depository institutions would be 
+                well capitalized; and
+                    ``(B) the bank holding company and each of its 
+                subsidiary insured depository institutions are well 
+                managed (but for purposes of this clause the Board may 
+                disregard any insured depository institution acquired 
+                by the bank holding company during the previous 12-
+                month period). A bank holding company that makes an 
+                investment pursuant to this paragraph shall provide 
+                written notice to the Board of the additional 
+                investment within 10 days after making the investment.
+            ``(3) Criteria for disapproving notice.--The Board may 
+        disapprove a notice filed under paragraph (1) if any insured 
+        depository institution affiliate of the securities affiliate is 
+        undercapitalized, or if the Board determines that the bank 
+        holding company would be undercapitalized after making the 
+        investment or that the investment would otherwise be unsafe or 
+        unsound.
+            ``(4) Emergency approval.--Notwithstanding any provision of 
+        this subsection, in the event of adverse market conditions, or 
+        concerns regarding the financial or operational condition of 
+        the securities affiliate, the Board may approve any additional 
+        investment in the securities affiliate on an emergency basis.
+    ``(d) Provisions applicable if Affiliated Insured Depository 
+Institution Ceases to be Well Capitalized.--
+            ``(1) Certain securities activities restricted unless 
+        affiliated institutions are well capitalized.--
+                    ``(A) Applicability.--This paragraph shall apply to 
+                a securities affiliate if--
+                            ``(i) the lead insured depository 
+                        institution of the bank holding company is not 
+                        well capitalized, or
+                            ``(ii) well capitalized insured depository 
+                        institutions do not control at least 80 percent 
+                        of the assets of insured depository 
+                        institutions affiliated with the securities 
+                        affiliate.
+                    ``(B) In general.--Except as provided in 
+                subparagraph (C), the securities affiliate shall not, 
+                beginning 180 days after subparagraph (A) applies, 
+                agree to underwrite or deal in any securities other 
+                than--
+                            ``(i) securities expressly specified by 
+                        section 5136 of the Revised Statutes as 
+                        permissible for a national bank to underwrite 
+                        or deal in;
+                            ``(ii) securities backed by or representing 
+                        interests in notes, drafts, acceptances, loans, 
+                        leases, receivables, other obligations, or 
+                        pools of any such obligations; or
+                            ``(iii) securities issued by an open-end 
+                        investment company registered under the 
+                        Investment Company Act of 1940.
+                    ``(C) Exception.--The Board may permit the 
+                securities affiliate to underwrite or deal in 
+                securities not described in clauses (i) through (iii) 
+                of subparagraph (B) for a period of 1 year from the 
+                date on which subparagraph (A) applies, if--
+                            ``(i) the bank holding company submits a 
+                        capital restoration plan to the Board 
+                        specifying the steps the bank holding company 
+                        will take to meet the requirements of section 
+                        10(b)(2)(A), and containing such other 
+                        information as the Board may require; and
+                            ``(ii) the Board approves the plan.
+                    ``(D) Extension of period.--Upon application by the 
+                bank holding company, the Board may extend, for not 
+                more than 1 year at a time, the period provided in 
+                subparagraph (C), but no such extension shall in the 
+                aggregate exceed 2 years.
+            ``(2) Divestiture.--
+                    ``(A) In general.--The bank holding company shall 
+                divest itself of the securities affiliate if any of the 
+                bank holding company's subsidiary insured depository 
+                institutions has been undercapitalized for more than 24 
+                months.
+                    ``(B) Extending time.--The Board may provide 
+                additional time for divestiture not exceeding 12 months 
+                if the appropriate Federal banking agency has approved 
+                the undercapitalized institution's capital restoration 
+                plan under section 38(e) of the Federal Deposit 
+                Insurance Act, and the Board determines that--
+                            ``(i) the bank holding company has 
+                        attempted in good faith to sell the securities 
+                        affiliate at a realistic price; and
+                            ``(ii) the securities affiliate poses no 
+                        significant risk to any affiliated insured 
+                        depository institution.
+    ``(e) Securities Affiliate Excluded in Determining Whether Bank 
+Holding Company is Adequately Capitalized.--
+            ``(1) In general.--In determining whether a bank holding 
+        company is adequately capitalized--
+                    ``(A) the bank holding company's capital and total 
+                assets shall each be reduced by--
+                            ``(i) an amount equal to the amount of the 
+                        bank holding company's equity investment in any 
+securities affiliate; and
+                            ``(ii) an amount equal to the amount of any 
+                        extensions of credit by the bank holding 
+                        company to any securities affiliate that are 
+                        considered capital for purposes of any capital 
+                        requirement imposed on the securities affiliate 
+                        under section 15(c)(3) of the Securities 
+                        Exchange Act of 1934; and
+                    ``(B) the securities affiliate's assets and 
+                liabilities shall not be consolidated with those of the 
+                bank holding company.
+            ``(2) Exception for nonsecurities activities.--Paragraph 
+        (1) does not apply to the extent that the Board determines by 
+        regulation or order that an item described in that paragraph 
+        relates to activities that are not described in paragraph (1) 
+        or (2) of subsection (a).
+    ``(f) Safeguards Relating to Securities Affiliates.--
+            ``(1) Extension of credit and asset purchases restricted.--
+                    ``(A) In general.--No insured depository 
+                institution affiliated with a securities affiliate 
+                shall, directly or indirectly, do any of the following:
+                            ``(i) Extend credit in any manner to the 
+                        securities affiliate.
+                            ``(ii) Issue a guarantee, acceptance, or 
+                        letter of credit, including an endorsement or a 
+                        standby letter of credit, for the benefit of 
+                        the securities affiliate.
+                            ``(iii) Purchase for its own account 
+                        financial assets of the securities affiliate, 
+                        except to the extent permitted by the Board 
+                        with respect to purchasing at the current 
+                        market value (based on reliable and regularly 
+                        available price quotations)--
+                                    ``(I) securities expressly 
+                                specified by section 5136 of the 
+                                Revised Status as permissible for a 
+                                national bank to underwrite or deal in; 
+                                or
+                                    ``(II) securities that--
+                                            ``(aa) the securities 
+                                        affiliate has been marking to 
+                                        market daily; and
+                                            (bb) are rated investment 
+                                        grade by at least 1 nationally 
+                                        recognized statistical rating 
+                                        organization.
+                    ``(B) Exception for clearing securities.--
+                Subparagraph (A)(i) does not prohibit an extension of 
+                credit by a well capitalized insured depository 
+                institution made to acquire or sell securities if--
+                            ``(i) the extension of credit is incidental 
+                        to clearing transactions in those securities 
+                        through that insured depository institution;
+                            ``(ii) both the principal of and the 
+                        interest on the extension of credit are fully 
+                        secured by those securities;
+                            ``(iii) either--
+                                    ``(I) the extension of credit is to 
+                                be repaid on the same calendar day; or
+                                    ``(II) all of the following 
+                                conditions are satisfied:
+                                            ``(aa) the securities 
+                                        cannot, in the ordinary course 
+                                        of business, be cleared on that 
+                                        calendar day;
+                                            ``(bb) the extension of 
+                                        credit is to be repaid before 
+                                        the close of business on the 
+                                        next calendar day; and
+                                            ``(cc) extensions of credit 
+                                        under this subclause, when 
+                                        aggregated with all other 
+                                        covered transactions between 
+                                        the institution and all 
+                                        affiliated securities 
+                                        affiliates do not exceed 10 
+                                        percent of the institution's 
+                                        capital stock and surplus; and
+                            ``(iv) either--
+                                    ``(I) the securities are securities 
+                                expressly specified by section 5136 of 
+                                the Revised Statutes as permissible for 
+                                a national bank to underwrite or deal 
+                                in; or
+                                    ``(II) to the extent that the Board 
+                                permits transactions under this 
+                                paragraph in securities not described 
+                                in subclause (I), the securities 
+                                affiliate provides the insured 
+                                depository institution such addition 
+                                security or other assurance of 
+                                performance, if any, as the Board shall 
+                                require to prevent such transactions 
+                                from posing any appreciable risk to the 
+                                institution.
+                    ``(C) Other exceptions.--The board may make 
+                exceptions to subparagraph (A) for well capitalized 
+                insured depository institutions if--
+                            ``(i) the transaction is fully secured in 
+                        accordance with section 23A(c) of the Federal 
+                        Reserve Act; and
+                            ``(ii) the aggregate amount of covered 
+                        transactions between the institution and all 
+                        securities affiliates of the bank holding 
+                        company, excluding transactions permitted under 
+                        subparagraph (A)(iii)(I) or (B)(iii)(I), does 
+                        not exceed 10 percent of the institution's 
+                        capital stock and surplus.
+            ``(2) Credit enhancement restricted.--
+                    ``(A) In general.--No insured depository 
+                institution affiliated with a securities affiliate 
+                shall, directly or indirectly, extend credit, or issue 
+                or enter into a standby letter of credit, asset 
+                purchase agreement, indemnity, guarantee, insurance, or 
+                other facility, for the purpose of enhancing the 
+                marketability of a securities issue underwritten by the 
+                securities affiliate.
+                    ``(B) Exceptions.--The Board may make exceptions to 
+                subparagraph (A)--
+                            ``(i) for well capitalized insured 
+                        depository institutions if there is substantial 
+                        participation by other lenders in the extension 
+                        of credit, standby letter of credit, asset 
+                        purchase agreement, indemnity, guarantee, 
+                        insurance or other facility; and
+                            ``(ii) for securities expressly specified 
+                        by section 5136 of the Revised Status as 
+                        permissible for a national bank to underwrite 
+                        or deal in.
+            ``(3) Prohibition on financing purchase of security being 
+        underwritten.--
+                    ``(A) In general.--No bank holding company or 
+                subsidiary of a bank holding company (other than a 
+                securities affiliate) shall knowingly extend or arrange 
+                for the extension of credit, directly or indirectly, 
+                secured by or for the purpose of purchasing any 
+                security while, or for 30 days after, that security is 
+                the subject of a distribution in which a securities 
+                affiliate of that bank holding company participates as 
+                an underwriter or a member of a selling group. For 
+                purposes of this subparagraph, a bank holding company 
+                or subsidiary may rely on an express written 
+                acknowledgement signed by the borrower that the credit 
+                is not secured by or for the purpose of purchasing a 
+                security described in this subparagraph.
+                    ``(B) Exceptions.--The Board may make exceptions to 
+                subparagraph (A)--
+                            ``(i) for extensions of credit if the 
+                        securities are securities expressly specified 
+                        by section 5136 of the Revised Statutes as 
+                        permissible for a national bank to underwrite 
+                        or deal in;
+                            ``(ii) for any other extension of credit, 
+                        after consultation with and considering the 
+                        views of the Securities and Exchange 
+                        Commission, if:
+                                    ``(I) the bank holding company is 
+                                adequately capitalized,
+                                    ``(II) the bank holding company's 
+                                lead insured depository institution is 
+                                well capitalized, and
+                                    ``(III) well capitalized insured 
+                                depository institutions control at 
+                                least 80 percent of the assets of 
+                                insured depository institutions 
+                                controlled by the bank holding company 
+                                and all insured depository institutions 
+                                controlled by the bank holding company 
+                                are well capitalized or adequately 
+                                capitalized.
+                    ``(C) Consistency with the federal securities 
+                laws.--Nothing in this paragraph shall permit a 
+                securities affiliate to extend or maintain credit or 
+                arrange for an extension of credit except in compliance 
+                with applicable provisions of the Securities Exchange 
+                Act of 1934 and the rules and interpretations 
+                thereunder.
+            ``(4) Restriction on extending credit to make payments on 
+        securities.--
+                    ``(A) In general.--No insured depository 
+                institution affiliated with a securities affiliate 
+                shall, directly or indirectly, extend credit to an 
+                issuer of securities underwritten by the securities 
+                affiliate for the purpose of paying the principal of 
+                those securities or interest or dividends on those 
+                securities. This subparagraph does not apply to an 
+                extension of credit for a documented purpose (other 
+                than paying principal, interest, or dividends) if the 
+                timing, maturity, and other terms of the credit, taken 
+                as a whole, are substantially different from those of 
+                the underwritten securities.
+                    ``(B) Exceptions.--The Board may make exceptions to 
+                subparagraph (A) if the insured depository institution 
+                is well capitalized, and--
+                            ``(i) the securities are securities 
+                        expressly specified by section 5136 of the 
+                        Revised Statutes as permissible for a national 
+                        bank to underwrite or deal in; or
+                            ``(ii) there is substantial participation 
+                        by other lenders in the extension of credit.
+            ``(5) Director and senior executive officer interlocks 
+        restricted.--
+                    ``(A) In general.--No director or senior executive 
+                officer of a securities affiliate shall serve at the 
+                same time as a director or senior executive officer of 
+                any affiliated insured depository institution.
+                    ``(B) Exception for small bank holding companies.--
+                Notwithstanding subparagraph (A), a director or senior 
+                executive officer of a securities affiliate may serve 
+                at the same time as a director or senior executive 
+                officer of an affiliated insured depository institution 
+                if that institution and all affiliated insured 
+                depository institutions have, in the aggregate, total 
+                assets of not more than $500,000,000. The dollar 
+                limitation in the preceding sentence shall be adjusted 
+                annually after December 31, 1995, by the annual 
+                percentage increase in the Consumer Price Index for 
+                Urban Wage Earners and Clerical Workers published by 
+                the Bureau of Labor Statistics.
+                    ``(C) Board's authority to make exceptions.--
+                            ``(i) In general.--The Board may, by 
+                        regulation or order, make exceptions to 
+                        subparagraph (A).
+                            ``(ii) Standards.--The Board--
+                                    ``(I) shall, in determining whether 
+                                to make such exceptions, consider the 
+                                size of the bank holding companies, 
+                                insured depository institutions, and 
+                                securities affiliates involved, any 
+                                burdens that may be imposed by 
+                                subparagraph (A), the safety and 
+                                soundness of the insured depository 
+                                institutions and securities affiliates, 
+                                and other appropriate factors, 
+                                including unfair competition in 
+                                securities activities or the improper 
+                                exchange of nonpublic customer 
+                                information; and
+                                    ``(II) shall not permit--
+                                            ``(aa) more than half of 
+                                        the insured depository 
+                                        institution's directors to be 
+                                        directors or senior executive 
+                                        officers of the securities 
+                                        affiliate; or
+                                            ``(bb) more than half of 
+                                        the securities affiliate's 
+                                        directors to be directors or 
+                                        senior executive officers of 
+                                        the insured depository 
+                                        institution.
+                    ``(D) Senior executive officer defined.--For 
+                purposes of this paragraph, the term `senior executive 
+                officer' has the same meaning as the term `executive 
+                officer' has in section 22(h) of the Federal Reserve 
+                Act.
+            ``(6) Disclosure required by securities affiliate.--At the 
+        time a securities account is opened, a securities affiliate 
+        shall conspicuously disclose in writing to each of its 
+        customers that--
+                    ``(A) securities sold, offered, or recommended by 
+                the securities affiliate are not deposits, are not 
+                insured by the Federal Deposit Insurance Corporation, 
+                are not guaranteed by an affiliated insured depository 
+                institution, and are not otherwise an obligation of an 
+                insured depository institution (unless such is the 
+                case);
+                    ``(B) the securities affiliate is not an insured 
+                depository institution, and is a corporation separate 
+                from any insured depository institution; and
+                    ``(C) the securities affiliate may be underwriting 
+                or dealing in the securities being sold, offered or 
+                recommended, and if so, would have a financial interest 
+                in the transaction.
+            ``(7) Disclosure required by insured depository 
+        institutions.--No insured depository institution that is 
+        affiliated with a securities affiliate shall knowingly express 
+        any opinion on the value of, or the advisability of purchasing 
+        or selling, securities being underwritten or dealt in by a 
+        securities affiliate of that bank holding company unless the 
+        insured depository institution conspicuously discloses in 
+        writing to the customer that--
+                    ``(A) the securities affiliate is underwriting or 
+                dealing in the securities and has a financial interest 
+                in the transaction;
+                    ``(B) the securities recommended are not deposits, 
+                are not insured by the Federal Deposit Insurance 
+                Corporation, are not guaranteed by the institution or 
+                any other affiliated insured depository institution, 
+                and are not otherwise an obligation of an insured 
+                depository institution (unless such is the case), and 
+                are subject to investment risks including possible loss 
+                of principal invested; and
+                    ``(C) the securities affiliate is not an insured 
+                depository institution, and is a corporation separate 
+                from any insured depository institution.
+            ``(8) Improper disclosure of confidential customer 
+        information prohibited.--
+                    ``(A) In general.--No insured depository 
+                institution subsidiary of a bank holding company shall 
+                disclose to a securities affiliate of that bank holding 
+                company, nor shall a securities affiliate disclose to 
+                any affiliated insured depository institution or 
+                subsidiary of such an institution, any nonpublic 
+                customer conformation (including an evaluation of the 
+                creditworthiness of an issuer or other customer of that 
+                institution or securities affiliate), unless it is 
+                clearly and conspicuously disclosed that such 
+                information may be communicated among such persons and 
+                the customer is given the opportunity, prior to the 
+                time that the information is initially communicated, to 
+                direct that such information not be communicated among 
+                such persons.
+                    ``(B) Definition.--For purposes of subparagraph 
+                (A), the term `nonpublic customer information' does not 
+                include--
+                            ``(i) customers' names and addresses 
+                        (unless a customer has specified otherwise);
+                            ``(ii) information that could be obtained 
+                        from unaffiliated credit bureaus or similar 
+                        companies in the ordinary course of business; 
+                        or
+                            ``(iii) information that is customarily 
+                        provided to unaffiliated credit bureaus or 
+                        similar companies in the ordinary course of 
+                        business by--
+                                    ``(I) insured depository 
+                                institutions not affiliated with 
+                                securities affiliates; or
+                                    ``(II) brokers and dealers not 
+                                affiliated with insured depository 
+                                institutions.
+            ``(9) Underwriting securities representing obligations 
+        originated by affiliate restricted.--A securities affiliate 
+        shall not underwrite securities secured by or representing an 
+        interest in mortgages or other obligations originated or 
+        purchased by an affiliated insured depository institution or 
+        subsidiary of such an institution--
+                    ``(A) unless those securities--
+                            ``(i) are rated by at least one 
+                        unaffiliated, nationally recognized statistical 
+rating organization;
+                            ``(ii) are issued or guaranteed by the 
+                        Federal Home Loan Mortgage Corporation, the 
+                        Federal National Mortgage Association, or the 
+                        Government National Mortgage Association; or
+                            ``(iii) represent interests in securities 
+                        described in clause (ii); or
+                    ``(B) except as permitted by the Board.
+            ``(10) Reciprocal arrangements prohibited.--No bank holding 
+        company and no subsidiary of a bank holding company may enter 
+        into any agreement, understanding, or other arrangement under 
+        which--
+                    ``(A) one bank holding company (or subsidiary of 
+                that bank holding company) agrees to engage in a 
+                transaction with, or on behalf of, another bank holding 
+                company (or subsidiary of that bank holding company), 
+                in exchange for
+                    ``(B) the agreement of the second bank holding 
+                company referred to in subparagraph (A) (or a 
+                subsidiary of that bank holding company) to engage in 
+                any transaction with, or on behalf of, the first bank 
+                holding company referred to in that subparagraph (or 
+                any subsidiary of that bank holding company), for the 
+                purpose of evading any requirement or restriction of 
+                Federal law on transactions between, or for the benefit 
+                of, affiliates of bank holding companies.
+            ``(11) Safeguards apply to certain subsidiaries.--Except as 
+        provided in this subsection:
+                    ``(A) Securities affiliate.--No subsidiary of a 
+                securities affiliate may do anything that this 
+                subsection prohibits the securities affiliate from 
+                doing.
+                    ``(B) Depository institution.--No subsidiary of an 
+                insured depository institution or of a wholesale 
+                financial institution may do anything that this 
+                subsection prohibits the institution from doing.
+            ``(12) Authority to modify and impose additional 
+        safeguards; interpretive authority--
+                    ``(A) In general.--The Board may, by regulation or 
+                order--
+                            ``(i) adopt additional limitations, 
+                        restrictions or conditions on relationships or 
+                        transactions among insured depository 
+                        institutions, their affiliates, and their 
+                        customers; and
+                            ``(ii) make any modification to any 
+                        limitation, restriction or condition on 
+                        relationships or transactions among insured 
+                        depository institutions, their affiliates and 
+                        their customers imposed under this subsection, 
+                        including modifications in addition to those 
+                        expressly provided for in this subsection.
+                    ``(B) Standards.--The Board may not exercise 
+                authority under subparagraph (A)(i) or subparagraph 
+                (A)(ii) unless the Board finds that such action is 
+                consistent with the purposes of this Act, including the 
+                avoidance of any significant risk to the safety and 
+                soundness of insured depository institutions or the 
+                Federal deposit insurance funds, enhancement of the 
+                financial stability of bank holding companies, 
+                prevention of the subsidization of securities 
+                affiliates by insured depository institutions, 
+                avoidance of conflicts of interest or other abuses, and 
+                application of the principle of national treatment and 
+                equality of competitive opportunity between securities 
+                affiliates owned or controlled by domestic bank holding 
+                companies and securities affiliates owned or controlled 
+                by foreign banks operating in the United States.
+            ``(13) Compliance programs required.--
+                    ``(A) In general.--Each appropriate Federal banking 
+                agency and the Securities and Exchange Commission shall 
+                establish a program for--
+                            ``(i) sharing information concerning 
+                        compliance with subtitles A, B, or C of title I 
+                        of the Financial Services Competitiveness Act 
+                        of 1995 by:
+                                    ``(I) entities that are brokers, 
+                                dealers, investment advisers or 
+                                investment companies registered with 
+                                the Securities and Exchange Commission 
+that are affiliated with insured depository institutions, or are 
+separately identifiable departments or divisions of insured depository 
+institutions registered as investment advisers; and
+                                    ``(II) such insured depository 
+                                institutions and their affiliates;
+                            ``(ii) enforcing compliance with subtitle A 
+                        of title I of the Financial Services 
+                        Competitiveness Act of 1995 and section 3(a)(4) 
+                        and 3(a)(5) of the Securities Exchange Act of 
+                        1934 by entities under its supervision; and
+                            ``(iii) responding to any complaints from 
+                        customers about inappropriate cross-marketing 
+                        of securities products or inadequate 
+                        disclosure.
+                    ``(B) Data collection.--
+                            ``(i) In general.--The appropriate Federal 
+                        banking agencies, after consultation with and 
+                        consideration of the views of the Securities 
+                        and Exchange Commission, may require any 
+                        depository institution that has effected 
+                        securities transactions pursuant to any 
+                        exception enumerated in sections 3(a)(4)(C) and 
+                        3(a)(5) of the Securities Exchange Act of 1934 
+                        to identify the exceptions relied upon and to 
+                        submit such information necessary to monitor 
+                        compliance under sections 3(a)(4)(C) and 
+                        3(a)(5) of the Securities Exchange Act of 1934.
+                            ``(ii) Commission access.--The appropriate 
+                        Federal banking agency shall make any such 
+                        information available to the Commission upon 
+                        request.
+                            ``(iii) Compliance.--In implementing the 
+                        provisions of this subparagraph, the 
+                        appropriate Federal banking agencies shall 
+                        ensure that any information requests to insured 
+                        depository institutions take into account the 
+                        size and activities of the institutions and do 
+                        not cause undue reporting burdens.
+                    ``(C) Commission's enforcement authority.--Without 
+                limiting in any way the authority of the appropriate 
+                Federal banking agencies under this subsection, the 
+                Securities and Exchange Commission shall have the 
+                authority to enforce the provisions of this subsection 
+                against a securities affiliate to the extent that those 
+                provisions govern the conduct or activities of the 
+                securities affiliate as if they were provisions of the 
+                Securities Exchange Act of 1934.
+                    ``(D) Examination reports.--The appropriate Federal 
+                banking agencies shall, to the extent practicable, use 
+                the reports of examination of any broker, dealer, 
+                investment adviser, or investment company made by or on 
+                behalf of the Securities and Exchange Commission and 
+                reports made by or on behalf of a registered securities 
+                association or national securities exchange, and shall 
+                defer to such examinations for compliance with the 
+                Federal securities laws.
+                    ``(E) Interpretations of the federal securities 
+                laws.--The appropriate Federal banking agencies shall 
+                defer to the Securities and Exchange Commission 
+                regarding all interpretations and enforcement of the 
+                Federal securities laws relating to the application of 
+                the Federal securities laws to the activities and 
+                conduct of brokers, dealers, investment advisers, and 
+                investment companies.
+                    ``(F) Notice of certain actions.--
+                            ``(i) Securities and exchange commission.--
+                        The Securities and Exchange Commission shall 
+                        give notice to the appropriate Federal banking 
+                        agency upon the entry of an order of 
+                        investigation of, or the commencement of any 
+                        disciplinary or law enforcement proceedings by 
+                        the Commission and a copy of any order entered 
+                        by the Commission against--
+                                    ``(I) any broker, dealer, or 
+                                investment adviser that--
+                                            ``(aa) is registered with 
+                                        the Securities and Exchange 
+Commission; and
+                                            ``(bb) is affiliated with 
+                                        or is a separately identifiable 
+                                        department or division of an 
+                                        insured depository institution;
+                                    ``(II) any investment company 
+                                registered with the Securities and 
+                                Exchange Commission that is an 
+                                affiliate of or is advised by an 
+                                investment adviser affiliated with an 
+                                insured depository institution or by a 
+                                separately identifiable department or 
+                                division of an insured depository 
+                                institution that is a registered 
+                                investment adviser; or
+                                    ``(III) any bank holding company, 
+                                insured depository institution, or 
+                                subsidiary of such company or 
+                                institution, if the proposed action 
+                                relates to subtitles A, B, or C of 
+                                title I of the Financial Services 
+                                Competitiveness Act of 1995.
+                            ``(ii) Appropriate federal banking 
+                        agencies.--Upon the entry of an order of 
+                        investigation of, or the commencement of any 
+                        disciplinary or law enforcement proceedings to 
+                        enforce the provisions of subtitle A of title I 
+                        of the Financial Services Competitiveness Act 
+                        of 1995 by an appropriate Federal banking 
+                        agency against any broker, dealer, investment 
+                        adviser, or investment company that is 
+                        registered under the Federal securities laws 
+                        and is affiliated with an insured depository 
+                        institution, the appropriate Federal banking 
+                        agency shall give notice to the Securities and 
+                        Exchange Commission of the proposed action.
+                            ``(iii) Extension.--The notice required 
+                        under clause (i) or (ii) may be provided 
+                        promptly after action by the Securities and 
+                        Exchange Commission or the appropriate Federal 
+                        banking agency, if--
+                                    ``(I) the Commission determines 
+                                that the protection of investors 
+                                requires immediate action by the 
+                                Commission and prior notice under 
+                                clause (i) is not practical under the 
+                                circumstances; or
+                                    ``(II) the appropriate Federal 
+                                banking agency determines that concerns 
+                                for the safety and soundness of an 
+                                insured depository institution or its 
+                                affiliate require immediate action by 
+                                the agency and prior notice under 
+                                clause (ii) is not practical under the 
+                                circumstances.
+                    ``(G) Coordinated enforcement actions.--The 
+                Securities and Exchange Commission and the appropriate 
+                Federal banking agencies shall, to the extent 
+                practicable, coordinate supervisory actions based on 
+                applicable law where the actions are based on the same 
+                or related events or practices.
+                    ``(H) Investment companies not affiliated with an 
+                insured depository institution.--The appropriate 
+                Federal banking agency shall not have authority under 
+                this title or any other provision of law to inspect or 
+                examine any investment company registered under the 
+                Federal securities laws that is not--
+                            ``(i) affiliated with an insured depository 
+                        institution; or
+                            ``(ii) advised by an investment adviser 
+                        affiliated with an insured depository 
+                        institution or by a separately identifiable 
+                        department or division of an insured depository 
+                        institution that is a registered investment 
+                        adviser.
+                    ``(I) Definition.--For purposes of this paragraph, 
+                the term `Federal securities laws' shall mean the 
+                provisions of Federal law governing securities 
+                activities that are within the jurisdiction of the 
+                Securities and Exchange Commission as set forth in the 
+                Securities Act of 1993, the Securities Exchange Act of 
+                1934, the Investment Company Act of 1940, the 
+                Investment Advisers Act of 1940, and the Trust 
+                Indenture Act of 1939.
+    ``(g) Activities not Permissible for Depository Institutions or 
+Securities Affiliates.--
+            ``(1) A bank holding company that acquires control of a 
+        securities affiliate shall not, beginning 1 year after the date 
+of that acquisition, permit any depository institution (as defined in 
+section 3 of the Federal Deposit Insurance Act) of which it has control 
+or any subsidiary of that institution--
+                    ``(A) to engage, directly or indirectly, in the 
+                United States--
+                            ``(i) in underwriting securities backed by 
+                        or representing interests in notes, drafts, 
+                        acceptances, loans, leases, receivables, other 
+                        obligations, or pools of any such obligations, 
+                        originated or purchased by the insured 
+                        depository institution or its affiliates;
+                            ``(ii) in underwriting or dealing in any 
+                        other securities, except securities expressly 
+                        specified by section 5136 of the Revised 
+                        Statutes as permissible for a national bank to 
+                        underwrite or deal in; or
+                            ``(iii) in effecting sales as part of a 
+                        primary offering to an accredited investor (as 
+                        defined in section 2 of the Securities Act of 
+                        1933) of securities of an issuer, not involving 
+                        a public offering, pursuant to section 3(b), 
+                        4(2), or 4(6) of the Securities Act of 1933 and 
+                        the rules and regulations issued thereunder; or
+                    ``(B) to make an equity investment in any 
+                securities affiliate.
+            ``(2) The limitations in paragraph (1)(A) shall not apply 
+        to activities conducted by a subsidiary held pursuant to 
+        section 25 or 25A of the Federal Reserve Act or section 
+        4(c)(13) of this Act.
+            ``(3) Nothing in this section shall permit a securities 
+        affiliate to accept deposits in contravention of section 21 of 
+        the Banking Act of 1933 (12 U.S.C. 378(a)).
+    ``(h) Approval of Securities Activities Under Section 4(c)(8) 
+Restricted.--The Board shall deny any notice or application by a bank 
+holding company under authority of section 4(c)(8) to engage in, or 
+acquire the shares of a company engaged in, underwriting or dealing in 
+securities in the United States, except securities expressly specified 
+by section 5136 of the Revised Statutes as permissible for a national 
+bank to underwrite or deal in.
+    ``(i) Bankers' Banks.--For purposes of this section, each 
+shareholder of or participant in a company that controls a depository 
+institution described in section 5169(b)(1) of the Revised Statutes or 
+in a similar statute of any State, and each subsidiary of such a 
+shareholder or participant, shall be treated as if it were a subsidiary 
+of that company. This subsection shall not apply to a shareholder or 
+participant in that company (or subsidiary of that shareholder or 
+participant) if the shareholder or participant and its affiliates do 
+not, in the aggregate, control more than 5 percent of any class of 
+voting shares of that company.
+    ``(j) Shares Acquired in Connection With Underwriting and 
+Investment Banking Activities.--
+            ``(1) In general.--Notwithstanding section 4(a), a bank 
+        holding company may directly or indirectly own or control 
+        shares of any company engaged in activities not authorized 
+        pursuant to section 4 of this Act if--
+                    ``(A) the shares are acquired and held by a 
+                securities affiliate as part of a bona fide 
+                underwriting or investment banking activity and such 
+                shares are held only for such period of time as will 
+                permit the sale thereof on a reasonable basis 
+                consistent with the nature of such activity; and
+                    ``(B) during the period such shares are held, the 
+                bank holding company does not directly or indirectly 
+                participate in the day to day management or operation 
+                of the company.
+            ``(2) Board rules.--The Board may establish rules governing 
+        the acquisition and retention of shares under this subsection, 
+        including limitations governing the amount and percentage of 
+        shares that may be held under this paragraph and the 
+        circumstances and time period such shares may be held, in order 
+        to assure compliance with the purposes of this Act, including 
+        the separation of banking and commerce.
+    ``(k) Definitions.--For purposes of this section--
+            ``(1) Capital categories.--
+                    ``(A) Insured depository institutions.--With 
+                respect to insured depository institutions, the terms 
+                `well capitalized', `adequately capitalized', and 
+                `undercapitalized' have the meaning given to those 
+                terms in section 38(b) of the Federal Deposit Insurance 
+Act.
+                    ``(B) Bank holding companies.--A bank holding 
+                company is `adequately capitalized' if it meets the 
+                required minimum level for each relevant capital 
+                measure established by the Board for bank holding 
+                companies, and `undercapitalized' if it fails to meet 
+                the required minimum level for any such relevant 
+                capital measure.
+            ``(2) Capital stock and surplus.--The term `capital stock 
+        and surplus' has the same meaning as in section 23A of the 
+        Federal Reserve Act.
+            ``(3) Covered transaction.--The term `covered transaction' 
+        has the same meaning as in section 23A of the Federal Reserve 
+        Act.
+            ``(4) Foreign banks.--A branch or agency of a foreign bank 
+        or a commercial lending company controlled by a foreign bank 
+        (as in terms `agency', `branch', `commercial lending company', 
+        and `foreign bank' are defined in section 1 of the 
+        International Banking Act of 1978) shall be deemed to be an 
+        insured depository institution.
+            ``(5) Security.--
+                    ``(A) In general.--The term `security' has the 
+                meaning given to that term in section 3(a)(10) of the 
+                Securities Exchange Act of 1934.
+                    ``(B) Exceptions.--For purposes of this section, 
+                other than subsection (a), the term `security' does not 
+                include any of the following:
+                            ``(i) A contract of insurance.
+                            ``(ii) A deposit account, savings account, 
+                        certificate of deposit, or other deposit 
+                        instrument issued by a depository institution.
+                            ``(iii) A share account issued by a savings 
+                        association if the account is insured by the 
+                        Federal Deposit Insurance Corporation.
+                            ``(iv) A banker's acceptance.
+                            ``(v) A letter of credit issued by a 
+                        depository institution.
+                            ``(vi) A debit account at a depository 
+                        institution arising from a credit card or 
+                        similar arrangement.
+                            ``(vii) A traditional loan or loan 
+                        participation (as determined by the Board).
+                    ``(C) Board's authority to exempt traditional 
+                banking products.--The Board may, after consultation 
+                and consideration of the views of the Securities and 
+                Exchange Commission, by regulation exempt from the 
+                definition of `security' a banking product that 
+                national banks have traditionally and customarily 
+                originated or handled (such as mortgage notes) if the 
+                exemption is consistent with the purposes of this 
+                section.
+                    ``(D) Definition for limited purpose.--The fact 
+                that a particular instrument is excluded pursuant to 
+                subparagraphs (B) or (C) from the definition of 
+                `security' for purposes of this section shall not be 
+                construed as finding or implying that such instrument 
+                is or is not a `security' for purposes of section 
+                3(a)(10) of the Securities Exchange Act of 1934.''.
+    (b) Transition Rule for Securities Affiliates Approved Under 
+Section 4(c)(8).--
+            (1) In general.--Effective 18 months after the date of 
+        enactment of this Act, no bank holding company may engage in, 
+        or retain the shares of any company engaged in, underwriting or 
+        dealing in securities based on the approval of an application 
+        under section 4(c)(8) of the Bank Holding Company Act of 1956--
+                    (A) unless the bank holding company has obtained 
+                the Board's approval to retain the shares of that 
+                company under section 10; or
+                    (B) except underwriting or dealing in securities 
+                expressly specified by section 5136 of the Revised 
+                Statutes as permissible for a national bank to 
+                underwrite or deal in.
+            (2) Extending time.--
+                    (A) In general.--The Board may, for good cause 
+                shown, extend the time provided under paragraph (1) for 
+                not more than 18 months.
+                    (B) Pending notices.--If a bank holding company has 
+                filed a notice under section 10(b) of the Bank Holding 
+                Company Act of 1956 not later than 180 days after the 
+                date of enactment of this Act, paragraph (1) shall not 
+                apply with respect to the company engaged in such 
+                underwriting or dealing until 180 days after the Board 
+                has acted on the notice.
+    (c) Conforming Amendments.--
+            (1) Definitions.--Section 2 of the Bank Holding Company Act 
+        of 1956 (12 U.S.C. 1841) is amended by adding at the end the 
+        following new subsections:
+    ``(n) Securities Affiliate.--The term `securities affiliate' means 
+any company--
+            ``(1) that is (or is required to be) registered under the 
+        Securities Exchange Act of 1934 as a broker or dealer; and
+            ``(2) the acquisition or retention of the shares or assets 
+        of which the Board has approved under section 10.
+    ``(o) Insured Depository Institution.--The term `insured depository 
+institution' has the meaning given to that term in section 3 of the 
+Federal Deposit Insurance Act.
+    ``(p) Lead Insured Depository Institution.--The term `lead insured 
+depository institution' shall mean the largest insured depository 
+institution controlled by the bank holding company, based on a 
+comparison on the average total assets controlled by each insured 
+depository institution during the previous 12-month period.
+    ``(q) Appropriate Federal Banking Agency.--The term `appropriate 
+Federal banking agency' has the same meaning as in section 3(q) of the 
+Federal Deposit Insurance Act.''.
+            (2) Amendment regarding conditional approval of 
+        applications.--Section 4(a)(2) of the Bank Holding Company Act 
+        of 1956 (12 U.S.C. 1843(a)(2)) is amended by striking 
+        ``paragraph (8)'' and all that follows through ``issued by the 
+        Board under such paragraph'' and inserting ``section 10, 
+        subsection (l) or subsection (c)(8), subject to all the 
+        conditions specified in those provisions or in any order or 
+        regulation issued by the Board under those provisions''.
+            (3) Amendment to notice procedures.--Section 4(j) of the 
+        Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)) is 
+        amended--
+                    (A) in paragraph (1)(A) by striking ``subsection 
+                (c)(8) or (a)(2)'' and inserting in its place 
+                ``subsection (c)(8), (c)(15), (l), or (a)(2)'';
+                    (B) in paragraph (1)(E) by striking ``subsection 
+                (c)(8) or (a)(2)'' and inserting in its place 
+                ``subsection (c)(8), (c)(15), (l), or (a)(2)'';
+                    (C) by redesignating paragraphs (2)(B) and (2)(C) 
+                as paragraphs (2)(C) and (2)(D) respectively, and 
+                inserting a new paragraph (2)(B) as follows:
+                    ``(B) Criteria for notices involving securities 
+                affiliates.--In considering any notice that involves 
+                the acquisition of shares of a securities affiliate 
+                pursuant to section 4(c)(15), the Board shall apply the 
+                criteria and safeguards contained in this paragraph and 
+                in section 10.''.
+    (d) Amendment to the Federal Reserve Act.--Section 23B(b)(1)(B) of 
+the Federal Reserve Act (12 U.S.C. 371c-1(b)(1)(B)) is amended by 
+inserting ``and for 30 days thereafter'' after ``during the existence 
+of any underwriting or selling syndicate''.
+    (e) Exemption From Section 305(b) of the Federal Power Act.--
+Section 305(b) of the Federal Power Act (16 U.S.C. 825d(b)) shall not 
+apply to any person now holding or proposing to hold the position of 
+officer or director of a public utility and officer or director of a 
+bank, trust company, banking association, or firm permitted by section 
+10 of the Bank Holding Company Act of 1956 (as amended by subsection 
+(a)) or section 5136(b) of the Revised Statutes (12 U.S.C. 24(b)) (as 
+amended by section 716) to underwrite or participate in the marketing 
+of securities (including commercial paper) of a public utility, if that 
+bank, trust company, banking association, or firm does not underwrite 
+or participate in the marketing of securities of the public utility for 
+which the person serves or proposes to serve as an officer or director.
+    (f) Retention of Certain Investments by Securities Companies 
+Affiliating With Insured Depository Institutions.--Section 4 of the 
+Bank Holding Company Act (12 U.S.C. 1843) is amended by adding at the 
+end the following new subsection:
+    ``(k) Ownership of Shares of Certain Companies by Securities 
+Companies That Become Bank Holding Companies.--
+            ``(1) Financial companies.--Notwithstanding subsection (a), 
+        a bank holding company may retain direct or indirect ownership 
+        or control of voting shares of any company that engages solely 
+        in activities that the Board determines to be financial in 
+        nature if--
+                    ``(A) the bank holding company acquired the shares 
+                of such company or of each company to which it is a 
+                successor more than two years prior to the date that 
+                such bank holding company becomes a bank holding 
+                company;
+                    ``(B) the aggregate investment by the bank holding 
+                company in shares ownership or control of which the 
+                bank holding company would be prohibited from retaining 
+                but for this paragraph does not exceed 10 percent of 
+                the total consolidated capital and surplus of the bank 
+                holding company on the date that it becomes a bank 
+                holding company or on the date of any additional 
+                investment by the bank holding company in such shares; 
+                and
+                    ``(C) more than 50 percent of the business of the 
+                bank holding company for each of the two calendar years 
+                prior to the date it becomes a bank holding company 
+                involved securities activities described in sections 
+                10(a) (1) and (2), excluding from such calculation 
+                activities (other than securities activities) in which 
+                bank holding companies were permitted to engage prior 
+                to the enactment of the Financial Services 
+                Competitiveness Act of 1995.
+            ``(2) Nonfinancial companies.--
+                    ``(A) In general.--Notwithstanding subsection (a), 
+                a bank holding company that is described in paragraph 
+                (1)(C) may, for a period of 5 years from the date that 
+                the company becomes a bank holding company, retain 
+                direct or indirect ownership or control of voting 
+                shares of any company that the bank holding company 
+                owns or controls on the date it becomes a bank holding 
+                company.
+                    ``(B) Extension of divestiture period.--The Board 
+                may extend the period described in subparagraph (A) for 
+                an additional period not to exceed 5 years if the Board 
+determines that such extension is necessary to avert substantial loss 
+to the bank holding company and finds that the bank holding company has 
+made good faith efforts to divest such shares.
+                    ``(C) No expansion of nonfinancial companies prior 
+                to divestiture.--Unless such acquisition or activity is 
+                permitted in accordance with section 4(c)--
+                            ``(i) no bank holding company or company 
+                        whose shares are owned or controlled by a bank 
+                        holding company pursuant to this paragraph (2) 
+                        may acquire any interest in or assets of any 
+                        company, and
+                            ``(ii) no company whose shares are owned or 
+                        controlled by a bank holding company pursuant 
+                        to this paragraph (2) may engage directly or 
+                        indirectly in any activity that the company did 
+                        not conduct on the day before the bank holding 
+                        company registered as a bank holding company.
+            ``(3) Restrictions on joint marketing.--No insured 
+        depository institution (and no subsidiary of such institution) 
+        shall--
+                    ``(A) offer or market, directly or indirectly 
+                through any arrangement, any product or service of any 
+                affiliate whose shares are owned or controlled by the 
+                bank holding company pursuant to this subsection or 
+                section 10(j), or
+                    ``(B) permit any of its products or services to be 
+                offered or marketed, directly or indirectly through any 
+                arrangement, by or through any affiliate whose shares 
+                are owned or controlled by the bank holding company 
+                pursuant to this subsection or section 10(j),
+        unless the product or service is permissible for bank holding 
+        companies to provide under section 10 or section 4(c)(8).''.
+    (g) Amendment to the Right to Financial Privacy Act.--Section 
+1112(e) of the Right to Financial Privacy Act (12 U.S.C. 3412(e)) is 
+amended as follows--
+            (1) by deleting ``this chapter'' and inserting in its place 
+        ``law''; and
+            (2) by adding ``, examination reports'' after ``financial 
+        records''.
+    (h) Exception to Restriction on Asset Growth of Nonbank Banks.--
+Section 4(f)(3)(B)(iv) of the Bank Holding Company Act of 1956 (12 
+U.S.C. 1843(f)(3)(B)(iv)) is amended by striking the period and 
+inserting the following: ``unless--
+                            ``(I) the company has provided at least 60 
+                        days prior written notice to the Board and, 
+                        during that period, the Board has not 
+                        disapproved the proposal after applying the 
+                        standards provided in subsection (j)(2);
+                            ``(II) each insured depository institution 
+                        controlled by the company is at all times well-
+                        capitalized; and
+                            ``(III) the company engages, directly or 
+                        indirectly, only in activities--
+                                    ``(aa) permitted pursuant to 
+                                subsection 4(c)(8) or (15); or
+                                    ``(bb) determined by the Board to 
+                                be financial in nature and the company 
+                                satisfies the provisions of subsection 
+                                (k)(1) (B) and (C), or would satisfy 
+                                the provisions of subsection (k)(1) (B) 
+                                and (C) if the company were a bank 
+                                holding company.''.
+    (i) Conforming Amendment for Certain Holding Companies.--Section 
+10(c) of the Home Owners' Loan Act (12 U.S.C. 1467a(c)) is amended by 
+striking paragraphs (3), (5), and (6) and redesignating other 
+paragraphs accordingly.
+
+SEC. 104. SECURITIES COMPANY AFFILIATIONS OF FDIC-INSURED BANKS.
+
+    Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is 
+amended by adding at the end the following new subsections:
+    ``(s) Securities Affiliations of Insured Banks.--
+            ``(1) In general.--A bank shall not be an affiliate of any 
+        company that, directly or indirectly, acts as an underwriter or 
+        dealer of any security, except--
+                    ``(A) as provided in section 10 of the Bank Holding 
+                Company Act of 1956; or
+                    ``(B) a company that underwrites or deals only in 
+                securities expressly specified by section 5136 of the 
+                Revised Statutes as permissible for a national bank to 
+                underwrite or deal in.
+            ``(2) Exception.--This subsection does not apply to an 
+        insured bank described in subparagraph (D), (F), or (H) or 
+        section 2(c)(2) of the Bank Holding Company Act of 1956 or to a 
+        company held pursuant to section 25 or 25A of the Federal 
+        Reserve Act or section 4(c)(13) of the Bank Holding Company 
+        Act.
+            ``(3) Grandfather provision.--This subsection does not 
+        prohibit--
+                    ``(A) the continuation of an affiliation that 
+                existed on January 1, 1995; or
+                    ``(B) any new affiliation by an insured bank that 
+                has an affiliation that would be prohibited if the 
+                affiliation were not covered by subparagraph (A).
+            ``(4) Definitions.--For purposes of this subsection:
+                    ``(A) Affiliate.--The term `affiliate' has the 
+                meaning given to that term in section 2(k) of the Bank 
+                Holding Company Act of 1956.
+                    ``(B) Company.--The term `company' has the meaning 
+                given to that term in section 2(b) of the Bank Holding 
+                Company Act of 1956.
+                    ``(C) Broker.--The term `broker' has the meaning 
+                given to that term in section 3(a)(4) of the Securities 
+                Exchange Act of 1934.
+                    ``(D) Dealer.--The term `dealer' has the meaning 
+                given to that term in section 3(a)(5) of the Securities 
+                Exchange Act of 1934.
+                    ``(E) Security.--
+                            ``(i) In general.--The term `security' has 
+                        the meaning given to that term in section 
+                        3(a)(10) of the Securities Exchange Act of 
+                        1934.
+                            ``(ii) Exceptions.--For purposes of this 
+                        subsection, the term `security' does not 
+                        include any of the following:
+                                    ``(I) A contract of insurance.
+                                    ``(II) A deposit account, savings 
+                                account, certificate of deposit, or 
+                                other deposit instrument issued by a 
+                                depository institution.
+                                    ``(III) A share account issued by a 
+                                savings association if the account is 
+                                insured under the Federal Deposit 
+                                Insurance Act.
+                                    ``(IV) A banker's acceptance.
+                                    ``(V) A letter of credit issued by 
+                                a depository institution.
+                                    ``(VI) A debit account at a 
+                                depository institution arising from a 
+                                credit card or similar arrangement.
+                                    ``(VII) A traditional loan or loan 
+                                participation (as determined by the 
+                                Board).
+                            ``(iii) Federal reserve board's authority 
+                        to exempt traditional banking products.--The 
+                        Board of Governors of the Federal Reserve 
+                        System may, after consultation with and 
+                        considering the views of the Securities and 
+                        Exchange Commission, by regulation exempt from 
+                        the definition of `security' a banking product 
+                        that national banks have traditionally and 
+                        customarily originated or handled (such as 
+                        mortgage notes) if the exemption is consistent 
+                        with the purposes of this subsection.
+                            ``(iv) Definition for limited purpose.--The 
+                        fact that a particular instrument is excluded 
+                        pursuant to clauses (ii) or (iii) from the 
+                        definition of `security' for purposes of this 
+                        subsection shall not be construed as finding or 
+                        implying that such instrument is or is not a 
+                        `security' for purposes of section 3(a)(10) of 
+                        the Securities Exchange Act of 1934.
+                    ``(E) Underwriter.--The term `underwriter' has the 
+                meaning given to that term in section 2(11) of the 
+                Securities Act of 1933.
+    ``(t) Broker/Dealer Registration.--An insured bank may not use the 
+United States mails or any means or instrumentality of interstate 
+commerce to act as a broker or dealer without registration under the 
+Securities Exchange Act of 1934, except to the extent permitted under 
+section 3(a)(4) or 3(a)(5), or unless otherwise exempt pursuant to 
+rules promulgated by the Securities and Commission.''.
+
+SEC. 105. AUTHORITY TO TERMINATE GRANDFATHER RIGHTS UNDER THE 
+              INTERNATIONAL BANKING ACT OF 1978.
+
+    Section 8(c) of the International Banking Act of 1978 (12 U.S.C. 
+3106(c)) is amended by adding at the end the following new paragraph:
+            ``(3) Parity in conduct of authorized securities 
+        activities.--
+                    ``(A) In general.--Notwithstanding any provision of 
+                paragraph (1) or any other provision of law, any 
+                authority conferred under this subsection on any 
+                foreign bank or company with respect to an activity of 
+                an affiliate engaged in securities activities shall 
+                terminate 18 months after the Board determines that 
+                such activity is authorized for bank holding companies 
+                in the United States, except that--
+                            ``(i) the foreign bank or company may 
+                        retain the shares of an affiliate engaged in 
+                        securities activities, if, prior to the 
+                        expiration of such 18 months period, the 
+                        foreign bank or company has obtained the 
+                        Board's approval under section 10 or section 
+                        4(c)(8) of the Bank Holding Company Act to 
+                        retain such shares, and
+                            ``(ii) the Board, for good cause shown, may 
+                        extend the termination period for an additional 
+                        period not to exceed 18 months.
+                    ``(B) Extension to obtain required approval.--If 
+                the foreign bank or company has filed a notice under 
+                section 10(b) of the Bank Holding Company Act not later 
+                than 180 days after the board has made a determination 
+                under subparagraph (A), the effective date of any 
+                termination of authority for that foreign bank or 
+                company under subparagraph (A) shall be 24 months after 
+                the Board has acted on the notice.''.
+
+SEC. 106. EFFECT ON STATE LAWS PROHIBITING THE AFFILIATION OF BANKS AND 
+              SECURITIES COMPANIES.
+
+    Section 7 of the Bank Holding Company Act of 1956 (12 U.S.C. 1846) 
+is amended by inserting before the final period the following: ``, 
+except that no State may prohibit or limit the affiliation of a bank or 
+bank holding company with a securities affiliate solely because the 
+securities affiliate is engaged in activities described in paragraph 
+(1) or (2) of section 10(a) of this Act.''.
+
+SEC. 107. MUNICIPAL SECURITIES
+
+    At the end of section 5136 of the Revised Statutes (12 U.S.C. 
+24(Seventh)), add the following new sentences:
+    ``Notwithstanding any other provision of this paragraph, a national 
+banking association may deal in, underwrite, and purchase for such 
+association's own account any obligation of, or obligation guaranteed 
+as to principal or interest by, a State or of any political subdivision 
+thereof, or any agency or instrumentality of a State or any political 
+subdivision thereof, if the association--
+            ``(1) is well capitalized (as defined in section 38(b) of 
+        the Federal Deposit Insurance Act);
+            ``(2) engages in the business of banking;
+            ``(3) has not been affiliated with a securities affiliate 
+        under section 10 of the Bank Holding Company Act of 1956 for 
+        more than 1 year; and
+            ``(4) maintains its main office or any branch in such State 
+        or political subdivision, or within 100 miles of such State or 
+        political subdivision.''.
+
+SEC. 108. INVESTMENT BANK HOLDING COMPANIES.
+
+    (a) Definitions.--Section 2 of the Bank Holding Company Act of 1956 
+(12 U.S.C. 1842) is amended by adding at the end the following new 
+subsections:
+    ``(r) Wholesale Financial Institution.--The term `wholesale 
+financial institution' means any institution that is an uninsured state 
+member bank authorized pursuant to section 9B of the Federal Reserve 
+Act.
+    ``(s) Investment Bank Holding Company.--The term `investment bank 
+holding company' means any bank holding company that controls or seeks 
+to control--
+            ``(1) a wholesale financial institution, and
+            ``(2) a company engaged in underwriting, distributing or 
+        dealing in securities pursuant to section 10.''.
+    (b) Exemption.--Section 4 of the Bank Holding Company Act of 1956 
+(12 U.S.C. 1843) is amended by adding at the end the following new 
+subsection:
+    ``(l) Permissible Affiliations for Investment Bank Holding 
+Companies.--
+            ``(1) Financial activities.--
+                    ``(A) Activities authorized.--An investment bank 
+                holding company may directly or indirectly own or 
+                control shares of any company the activities of which 
+                the Board has determined to be of a financial nature, 
+                without regard to the limitations contained in 
+                subsections (k)(1) or (k)(3).
+                    ``(B) Insurance underwriting activities limited to 
+                incidental activities.--In the event that the Board 
+                determines that insurance underwriting activities 
+                (other than activities permissible under subsection 
+                (c)(8)) are financial in nature, the aggregate 
+                investment by an investment bank holding company in 
+                shares of all companies that engage in insurance 
+                underwriting activities (other than insurance 
+                underwriting activities permissible under section 
+                (c)(8)) shall not exceed 10 percent of the total 
+                consolidated capital and surplus of the investment bank 
+                holding company.
+                    ``(C) Notice required.--An investment bank holding 
+                company may not own or control shares of any company 
+                described in subparagraph (A) without complying with 
+                the notice procedures provided in subsection (j).
+            ``(2) Securities activities.--
+                    ``(A) Institutions must be well-capitalized.--The 
+                Board shall disapprove a notice under section 10 by an 
+                investment bank holding company to acquire a securities 
+                affiliate if any wholesale financial institution 
+                controlled by the investment bank holding company is 
+                not well capitalized or would not be well capitalized 
+                following the transaction.
+                    ``(B) Transactions with a securities affiliate.--
+                            ``(i) In general.--A wholesale financial 
+                        institution controlled by an investment bank 
+                        holding company shall be a `bank' for purposes 
+                        of the provisions of sections 23A and 23B of 
+                        the Federal Reserve Act.
+                            ``(ii) Other restrictions determined by the 
+                        board.--A securities affiliate and a wholesale 
+                        financial institution controlled by an 
+                        investment bank holding company shall not be 
+                        subject to the provisions of section 10(f), 
+                        except that the securities affiliate and 
+                        wholesale financial institution shall be 
+                        subject to paragraphs (12) and (13) of that 
+                        section as if the wholesale financial 
+                        institution were an insured depository 
+                        institution.
+            ``(3) Limitation on affiliation with insured depository 
+        institutions.--An investment bank holding company may not 
+        directly or indirectly own or control--
+                    ``(A) any bank, other than a wholesale financial 
+                institution;
+                    ``(B) any savings association;
+                    ``(C) any institution described in section 2(c)(2); 
+                or
+                    ``(D) any institution that accepts--
+                            ``(i) initial deposits of $100,000 or less, 
+                        other than on an incidental or occasional 
+                        basis, or
+                            ``(ii) deposits that are insured under the 
+                        Federal Deposit Insurance Act.''.
+    (c) Conforming Amendments.--
+            (1) Insurance requirement in the bank holding company 
+        act.--Section 3(e) of the Bank Holding Company Act of 1956 (12 
+        U.S.C. 1842(e)) is amended by adding at the end the following: 
+        ``This subsection does not apply to a wholesale financial 
+        institution that is controlled by an investment bank holding 
+        company that controls no banks other than wholesale financial 
+        institutions.''.
+            (2) Appropiate federal banking agency.--Section 
+3(q)(2)(A) of the Federal Deposit Insurance Act (12 U.S.C. 
+1813(q)(2)(A)) is amended to read as follows:
+                    ``(A) any State member insured bank (except a 
+                District bank) and wholesale financial institution as 
+                authorized pursuant to section 9B of the Federal 
+                Reserve Act,''.
+
+SEC. 109. CONFORMING AMENDMENTS FOR INVESTMENT BANK HOLDING COMPANIES.
+
+    (a) Wholesale Financial Institutions.--The Federal Reserve Act (12 
+U.S.C. 221 et seq.) is amended by inserting after section 9A the 
+following new section:
+
+``SEC. 9B. WHOLESALE FINANCIAL INSTITUTIONS.
+
+    ``(a) Application for Membership as Wholesale Financial 
+Institution.--
+            ``(1) Application required.--Any bank incorporated by 
+        special law of any State, or organized under the general laws 
+        of any State, may apply to the Board of Governors of the 
+        Federal Reserve System to subscribe to the stock of the Federal 
+        Reserve bank organized within the district where the applying 
+        bank is located as a wholesale financial institution. Such 
+        application shall be treated as an application under, and shall 
+        be subject to the provisions of section 9.
+            ``(2) Approval of membership.--No bank may become a 
+        wholesale financial institution unless--
+                    ``(A) the Board has approved an application by the 
+                bank, under such rules and regulations and subject to 
+                such conditions and requirements as the Board may 
+                prescribe, to be a wholesale financial institution; and
+                    ``(B) in the case of a bank that is insured under 
+                the Federal Deposit Insurance Act, the bank has met all 
+                requirements under that Act for voluntary termination 
+                of deposit insurance.
+    ``(b) General Requirements Applicable to Wholesale Financial 
+Institutions.--
+            ``(1) Federal reserve act.--Except as otherwise provided in 
+        this section, wholesale financial institutions shall be member 
+        banks and shall be subject to the provisions of this Act that 
+        apply to member banks to the same extent and in the same manner 
+        as State member insured banks, except that the wholesale 
+        financial institution may only terminate membership under this 
+        Act with the prior written approval of the Board and on terms 
+        and conditions that the Board determines are appropriate to 
+        carry out the purposes of this Act.
+            ``(2) Prompt corrective action.--A wholesale financial 
+        institution shall be deemed to be an insured depository 
+        institution for purposes of section 38 of the Federal Deposit 
+        Insurance Act except that--
+                    ``(A) the relevant capital levels and capital 
+                measures for each capital category shall be the levels 
+                specified by the Board for wholesale financial 
+                institutions in accordance with subsection (c);
+                    ``(B) the provisions applicable to well capitalized 
+                insured depository institutions shall be inapplicable 
+                to wholesale financial institutions;
+                    ``(C) the provisions authorizing or requiring an 
+                institution to be placed into receivership shall not 
+                apply to a wholesale financial institution, and, in its 
+                place, the Board is authorized or required, as the case 
+                may be, to terminate the wholesale financial 
+                institution's membership in the Federal Reserve System 
+                or, where provided in section 38 of the Federal Deposit 
+                Insurance Act, place the bank into conservatorship and, 
+                in the Board's discretion, terminate the bank's 
+                membership; and
+                    ``(D) for purposes of applying the provisions of 
+                section 38 of the Federal Deposit Insurance Act to 
+                wholesale financial institutions, all references to the 
+                appropriate Federal banking agency or to the 
+                Corporation that section shall be deemed to be 
+                references to the Board.
+            ``(3) Enforcement authority.--Section 7 (j) and (k), 
+        subsections (b) through (n), (s), (u), and (v) of section 8, 
+        and section 19 of the Federal Deposit Insurance Act shall apply 
+        to a wholesale financial institution in the same manner and to 
+        the same extent as they apply to State member insured banks and 
+        any reference in such sections to an insured depository 
+        institution shall also be deemed to be a reference to a 
+        wholesale financial institution.
+            ``(4) Certain other statutes applicable.--A wholesale 
+        financial institution shall be deemed to be a banking 
+        institution and the Board shall be the appropriate Federal 
+        banking agency for such bank and all of its affiliates for 
+        purposes of the International Lending Supervision Act.
+            ``(5) Bank merger act.--A wholesale financial institution 
+        shall be subject to the provisions of the Bank Merger Act in 
+        the same manner as if the wholesale financial institution were 
+        a State member insured bank for purposes of that Act.
+    ``(c) Specific Requirements Applicable to Wholesale Financial 
+Institutions.--
+            ``(1) Limitations on deposits.--
+                    ``(A) Minimum amount.--Pursuant to regulations of 
+                the Board, no wholesale financial institution shall 
+                receive initial deposits of $100,000 or less, other 
+                than on an incidental and occasional basis and where 
+                such deposits in no event represent more than 5 percent 
+                of the institution's total deposits.
+                    ``(B) No deposit insurance.--No deposits held by a 
+                wholesale financial institution shall be insured 
+                deposits under the Federal Deposit Insurance Act.
+                    ``(C) Advertising and disclosure.--The Board shall 
+                prescribe regulations pertaining to advertising and 
+                disclosure by wholesale financial institutions to 
+                ensure that each depositor is notified that deposits at 
+                the wholesale financial institution are not federally 
+                insured or otherwise guaranteed by the United States 
+                Government.
+            ``(2) Special capital requirements applicable to wholesale 
+        financial institutions.--
+                    ``(A) Minimum capital levels.--
+                            ``(i) In general.--The Board shall, by 
+                        regulation, adopt capital requirements for 
+                        wholesale financial institutions. The capital 
+                        levels for wholesale financial institutions 
+                        shall be sufficiently higher than the capital 
+                        levels applicable to State member insured 
+                        banks--
+                                    ``(I) to account for the status of 
+                                wholesale financial institutions as 
+                                institutions that accept deposits that 
+                                are not insured under the Federal 
+                                Deposit Insurance Act; and
+                                    ``(II) to provide for the safe and 
+                                sound operation of the wholesale 
+                                financial institution without undue 
+                                risk to creditors or other persons, 
+                                including Federal Reserve banks, 
+                                engaged in transactions with the bank.
+                            ``(ii) Minimum leverage ratio.--The minimum 
+                        leverage ratio of tier one capital to total 
+                        assets of wholesale financial institutions 
+                        shall be not less than the level required for a 
+                        State member insured bank to be well 
+                        capitalized.
+                    ``(B) Capital categories for prompt corrective 
+                action.--For purposes of applying the provisions of 
+                section 38 of Federal Deposit Insurance Act, the Board 
+                shall, by regulation, establish, for each relevant 
+                capital measure specified by the Board under 
+                subparagraph (A), the levels at which a wholesale 
+                financial institution is adequately capitalized, 
+                undercapitalized, significantly undercapitalized, and 
+                critically undercapitalized.
+            ``(3) Additional requirements applicable to wholesale 
+        financial institutions.--In addition to any requirements 
+        otherwise applicable to State member banks or otherwise 
+        applicable under this section, the Board may prescribe, by rule 
+        or order, for wholesale financial institutions--
+                    ``(A) limitations on transactions with affiliates 
+                to prevent an affiliate from gaining access to, or the 
+                benefits of, credit from a Federal Reserve bank, 
+                including overdrafts at a Federal Reserve bank;
+                    ``(B) special clearing balance requirements; and
+                    ``(C) any additional requirements that the Board 
+                determines to be appropriate or necessary to--
+                            ``(i) promote the safety and soundness of 
+                        the wholesale financial institution, or
+                            ``(ii) protect creditors and other persons, 
+                        including Federal Reserve banks, engaged in 
+                        transactions with the wholesale financial 
+                        institution.
+            ``(4) Exemptions for wholesale financial institutions.--The 
+        Board may, by rule or order, exempt any wholesale financial 
+        institution from any provision applicable to a State member 
+        bank that is not a wholesale financial institution, provided 
+        that the Board finds that such exemption is not inconsistent 
+        with--
+                    ``(i) the promotion of the safety and soundness of 
+                the wholesale financial institution; and
+                    ``(ii) the protection of creditors and other 
+                persons, including Federal Reserve banks, engaged in 
+                transactions with the wholesale financial institution.
+            ``(5) No effect on other provisions.--This section shall 
+        not be construed to limit the Board's authority over member 
+        banks under any other provision of law, or to create any 
+        obligation for any Federal Reserve bank to make, increase, 
+        renew, or extend any advances or discount under this Act to any 
+        member bank or other depository institution.
+    ``(d) Conservatorship Authority.--The Board is authorized to 
+appoint a conservator to take possession and control of a wholesale 
+financial institution to the same extent and in the same manner as the 
+Comptroller of the Currency is authorized to appoint a conservator for 
+a national bank under section 203 of the Bank Conservation Act.
+    ``(e) Definitions.--For purposes of this section--
+            ``(1) the term `wholesale financial institution' means a 
+        bank whose application to become an uninsured State member bank 
+        has been approved by the Board of Governors of the Federal 
+        Reserve System under this section;
+            ``(2) the term `deposit' has the meaning given to such term 
+        by the Board under the Federal Reserve Act; and
+            ``(3) the term `State member insured bank' means a State 
+        member bank, the deposits of which are insured under the 
+        Federal Deposit Insurance Act.''.
+    (b) Voluntary Termination of Insured Status by Certain 
+Institutions.--
+            (1) Section 8 designations.--Section 8 of the Federal 
+        Deposit Insurance Act (12 U.S.C. 1818) is amended--
+                    (A) in the section heading, by inserting 
+                ``involuntary'' after ``sec. 8''; and
+                    (B) in subsection (a)--
+                            (i) by striking paragraph (1); and
+                            (ii) by redesignating paragraphs (2) 
+                        through (9) as paragraphs (1) through (8), 
+                        respectively.
+            (2) Voluntary termination of insured status.--The Federal 
+        Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by 
+        inserting after section 8 the following new section:
+
+``SEC. 8A. VOLUNTARY TERMINATION OF STATUS AS INSURED DEPOSITORY 
+              INSTITUTION.
+
+    ``(a) In general.--Except as provided in subsection (b), an insured 
+State-chartered bank or a national bank may voluntarily terminate its 
+status as an insured depository institution in accordance with 
+regulations of the Corporation if--
+            ``(1) such institution provides written notice of its 
+        intent to terminate its insured status--
+                    ``(A) to the Corporation, not less than 6 months 
+                before the effective date of such termination; and
+                    ``(B) to its depositors, not less than 6 months 
+                before the effective date of such termination; and
+            ``(2) the deposit insurance fund of which such bank is a 
+        member equals or exceeds the fund's designated reserve ratio as 
+        set forth in section 7(b)(2)(A)(iv) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1817(b)(2)(A)(iv) as of the date the 
+        bank provides a written notice of its intent to terminate its 
+        insured status.
+    ``(b) Exception.--The option to terminate insured status under 
+subsection (a) shall not be available to--
+            ``(1) an insured savings association;
+            ``(2) an insured branch that is required to be insured 
+        under subsection (a) or (b) of section 6 of the International 
+        Banking Act of 1978; or
+            ``(3) any institution described in section 2(c)(2) of the 
+        Bank Holding Company Act of 1956.
+    ``(c) Eligibility for Insurance Terminated.--A depository 
+institution that voluntarily elects to terminate its insured status 
+under subsection (a) shall not receive insurance of any of its deposits 
+or any other assistance authorized under this Act after the period 
+specified in subsection (f)(1).
+    ``(d) Institution Must Become Wholesale Financial Institution or 
+Terminate Deposit-Taking Activities.--Any institution that voluntarily 
+terminates its status as an insured depository institution under this 
+section may not, upon termination of insurance, accept any deposits 
+unless the institution is a wholesale financial institution under 
+section 9B of the Federal Reserve Act.
+    ``(e) Exit Fees.--
+            ``(1) In general.--Any institution that voluntarily 
+        terminates its status as an insured depository institution 
+        under this section shall pay an exit fee in an amount that the 
+        Corporation determines is sufficient to account for the 
+        institution's pro rata share of contingent and other 
+        liabilities of the relevant deposit insurance fund.
+            ``(2) Procedures.--The Corporation shall prescribe, by 
+        regulation, procedures for assessing any exit fee under this 
+        subsection.
+    ``(f) Temporary Insurance of Deposits Insured as of Termination.--
+            ``(1) Transition period.--The insured deposits of each 
+        depositor in a State-chartered bank or a national bank on the 
+        effective date of the voluntary termination of the 
+        institution's insured status, less all subsequent withdrawals 
+        from any deposits of such depositor, shall continue to be 
+        insured for a period of not less than 6 months nor more than 2 
+years, within the discretion of the Corporation. During such period, no 
+additions to any such deposits, and no new deposits in the depository 
+institution made after the effective date of such termination shall be 
+insured by the Corporation,
+            ``(2) Temporary assessments; obligations and duties.--
+        During the period specified in paragraph (1), a depository 
+        institution shall continue to pay assessments required under 
+        this Act as if it were an insured depository institution. Such 
+        depository institution shall, in all other respects, be subject 
+        to the authority of the Corporation and the duties and 
+        obligations of an insured depository institution during such 
+        period as provided in this Act, and in the event that the 
+        depository institution is closed due to an inability to meet 
+        the demands of its depositors during such period, the 
+        Corporation shall have the same powers and rights with respect 
+        to such depository institution as in the case of an insured 
+        depository institution.
+    ``(g) Advertisements.--
+            ``(1) In general.--A depository institution that 
+        voluntarily terminates its insured status under this section 
+        shall not advertise or hold itself out as having insured 
+        deposits, except that it may advertise the temporary insurance 
+        of deposits under subsection (f) if, in connection with any 
+        such advertisement, it shall also state with equal prominence 
+        that additions to deposits and new deposits made after the 
+        effective date of the termination are not insured.
+            ``(2) Certificates of deposit, obligations, and 
+        securities.--Any certificate of deposit or other obligation or 
+        security issued by a State-chartered bank or a national bank 
+        after the effective date of the voluntary termination of its 
+        insured status under this section shall be accompanied by a 
+        conspicuous, prominently displayed notice that such certificate 
+        of deposit or other obligation or security is not insured under 
+        this Act.
+    ``(h) Notice Requirements.--
+            ``(1) Notice to the corporation.--The notice to the 
+        Corporation of an institution's intent to terminate its insured 
+        status required under subsection (a) shall be in such form as 
+        the Corporation may require.
+            ``(2) Notice to depositors.--The notice to depositors of an 
+        institution's intent to terminate its insured status required 
+        under subsection (a) shall be--
+                    ``(A) at such depositor's last address of record 
+                with the institution; and
+                    ``(B) in such manner and form as the Corporation 
+                finds to be necessary and appropriate for the 
+                protection of depositors.''.
+
+SEC. 110. EFFECTIVE DATE.
+
+    The amendments made by this subtitle shall become effective 90 days 
+after the date of enactment of this Act.
+
+                    Subtitle B--Brokers and Dealers
+
+SEC. 120. DEFINITION OF BROKER.
+
+    Section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78c(a)(4)) is amended to read as follows:
+            ``(4) `Broker'.--
+                    ``(A) In general.--The term `broker' means any 
+                person engaged in the business of effecting 
+                transactions in securities for the account of others.
+                    ``(B) Exclusion of banks.--The term `broker' does 
+                not include a bank unless such bank publicly solicits 
+                the business of effecting securities transactions for 
+                the account of others or is compensated for such 
+                business by the payment of commissions or similar 
+                remuneration based on effecting transactions in 
+                securities (other than fees calculated as a percentage 
+                of assets under management) in excess of the bank's 
+                incremental costs directly attributable to effecting 
+                such transactions (hereafter referred to as `incentive 
+                compensation').
+                    ``(C) Exemption for certain bank activities.--A 
+                bank shall not be deemed to be a `broker' because it 
+                engages in any of the following activities:
+                            ``(i) Third party brokerage arrangements.--
+                        The bank enters into a contractual or other 
+                        arrangement with a broker or dealer registered 
+                        under this title under which the broker or 
+                        dealer offers brokerage services on or off the 
+                        premises of the bank if--
+                                    ``(I) such broker or dealer is 
+                                clearly identified as the person 
+                                performing the brokerage services;
+                                    ``(II) such broker or dealer 
+                                performs brokerage services in an area 
+                                that is clearly marked and physically 
+                                separate from the retail deposit-taking 
+                                activities of the bank;
+                                    ``(III) any materials used to 
+                                advertise or promote the availability 
+                                of brokerage services under the 
+                                contractual or other arrangement are 
+                                approved by the broker or dealer for 
+                                compliance with the Federal securities 
+                                laws prior to distribution and are 
+                                deemed to be the materials of the 
+                                broker or dealer;
+                                    ``(IV) bank employees perform only 
+                                clerical or ministerial functions in 
+                                connection with brokerage transactions, 
+                                unless such employees are associated 
+                                persons of a broker or dealer and are 
+                                qualified pursuant to the requirements 
+                                of a self-regulatory organization;
+                                    ``(V) bank employees do not receive 
+                                incentive compensation for any 
+                                brokerage activities unless such 
+                                employees are associated persons of a 
+                                broker or dealer and are qualified 
+                                pursuant to the requirements of a self-
+                                regulatory organization;
+                                    ``(VI) such services are provided 
+                                by the broker or dealer on a basis in 
+                                which all customers that receive such 
+                                services are fully disclosed to that 
+                                broker or dealer; and
+                                    ``(VII) the broker or dealer 
+                                informs each customer that the 
+                                brokerage services are provided by the 
+                                broker or dealer and not by the bank 
+                                and that the securities are not 
+                                guaranteed by the bank, the Federal 
+                                Deposit Insurance Corporation, or any 
+                                other federal or state deposit 
+                                guarantee fund relating to banks.
+                            ``(ii) Trust activities.--The bank engages 
+                        in trust activities (including effecting 
+                        transactions in the course of such trust 
+                        activities) permissible for national banks 
+                        under the first section of the Act of September 
+                        28, 1962 or for State banks under relevant 
+                        State trust statutes or law (including 
+                        securities safekeeping, self-directed 
+individual retirement accounts, or managed agency accounts or other 
+functionally equivalent accounts of a bank) unless the bank--
+                                    ``(I) publicly solicits brokerage 
+                                business, other than by advertising 
+                                that it effects transactions in 
+                                securities in conjunction with 
+                                advertising its other trust activities; 
+                                or
+                                    ``(II) receives incentive 
+                                compensation for such brokerage 
+                                activities.
+                            ``(iii) Permissible securities 
+                        transactions.--The bank effects transactions in 
+                        exempted securities, other than municipal 
+                        securities, or in commercial paper, bankers 
+                        acceptances, commercial bills, qualified 
+                        Canadian Government obligations as defined in 
+                        section 5136 of the Revised Statutes, 
+                        obligations of the Washington Metropolitan Area 
+                        Transit Authority which are guaranteed by the 
+                        Secretary of Transportation under section 9 of 
+                        the National Capital Transportation Act of 
+                        1969, obligations of the North American 
+                        Development Bank, and obligations of any local 
+                        public agency (as defined in section 110(h) of 
+                        the Housing Act of 1949) or any public housing 
+                        agency (as defined in the United States Housing 
+                        Act of 1937) that are expressly specified by 
+                        section 5136 of the Revised statutes as 
+                        permissible for a national bank to underwrite 
+                        or deal in.
+                            ``(iv) Municipal securities.--The bank 
+                        effects transactions in municipal securities, 
+                        and has not been affiliated with a securities 
+                        affiliate under section 10 of the Bank Holding 
+                        Company Act of 1956 for more than 1 year.
+                            ``(v) Employee and shareholder benefit 
+                        plans.--The bank effects transactions as part 
+                        of any bonus, profit-sharing, pension, 
+                        retirement, thrift, savings, incentive, stock 
+                        purchase, stock ownership, stock appreciation, 
+                        stock option, dividend reinvestment, or similar 
+                        plan for employees or shareholders of an issuer 
+                        or its subsidiaries.
+                            ``(vi) Sweep accounts.--The bank effects 
+                        transactions as part of a program for the 
+                        investment or reinvestment of bank deposit 
+                        funds into any no-loan, open-end management 
+                        investment company registered under the 
+                        Investment Company Act of 1940 that holds 
+                        itself out as a money market fund.
+                            ``(vii) Affiliate transactions.--The bank 
+                        effects transactions for the account of any 
+                        affiliate of the bank, as defined in section 2 
+                        of the Bank Holding Company Act of 1956.
+                            ``(viii) Private securities offerings.--The 
+                        bank--
+                                    ``(I) effects sales as part of a 
+                                primary offering of securities by an 
+                                issuer, not involving a public 
+                                offering, pursuant to section 3(b), 
+                                4(2), or 4(6) of the Securities Act of 
+                                1933 and the rules and regulations 
+                                issued thereunder, other than 
+                                securities backed by or representing an 
+                                interest in obligations originated or 
+                                purchased by the bank, its affiliates, 
+                                or its subsidiaries unless those 
+                                securities are described in section 
+                                3(a)(5)(B)(ii)(IV) (aa) or (bb);
+                                    ``(II) effects such sales 
+                                exclusively to an accredited investor, 
+                                as defined in section 3 of the 
+                                Securities Act of 1933; and
+                                    ``(III) if affiliated with a 
+                                securities affiliate, as provided under 
+                                section 10 of the Bank Holding Company 
+                                Act of 1956, has not been so affiliated 
+                                for more than 1 year.
+                            ``(ix) De minimis exemption.--If the bank 
+                        does not have a subsidiary or affiliate 
+                        registered as a broker or dealer under section 
+                        15, the bank effects, other than in 
+                        transactions referenced in clauses (i) through 
+                        (viii), not more than--
+                                    ``(I) 800 transactions in any 
+                                calendar year in securities for which a 
+                                ready market exists, and
+                                    ``(II) 200 other transactions in 
+                                securities in any calendar year.
+                    ``(D) Exemption for entities subject to section 
+                15(e).--The term `broker' does not include a bank that 
+                is subject to--
+                            ``(i) section 15(e); and
+                            ``(ii) such restrictions and requirements 
+                        as the Commission deems appropriate.''.
+
+SEC. 121. DEFINITION OF DEALER.
+
+    Section 3(a)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78c(a)(5)) is amended to read as follows:
+            ``(5) `Dealer'.--
+                    ``(A) In general.--The term `dealer' means any 
+                person engaged in the business of buying and selling 
+                securities for his own account through a broker or 
+                otherwise.
+                    ``(B) Exceptions.--Such term does not include--
+                            ``(i) a person that buys or sells 
+                        securities for his or her own account, either 
+                        individually or in a fiduciary capacity, but 
+                        not as a part of a regular business; or
+                            ``(ii) a bank, to the extent that the 
+                        bank--
+                                    ``(I) buys and sells commercial 
+                                paper, bankers acceptances, exempted 
+                                securities (other than municipal 
+                                securities), qualified Canadian 
+                                Government obligations as defined in 
+                                section 5136 of the Revised Statutes, 
+                                obligations of the Washington 
+                                Metropolitan Area Transit Authority 
+                                which are guaranteed by the Secretary 
+                                of Transportation under section 9 of 
+                                the National Capital Transportation Act 
+                                of 1969, obligations of the North 
+                                American Development Bank, and 
+                                obligations of any local public agency 
+                                (as defined in section 110(h) of the 
+                                Housing Act of 1949) or any public 
+                                housing agency (as defined in the 
+                                United States Housing Act of 1937) that 
+                                are expressly specified by section 5136 
+                                of the Revised Statutes as permissible 
+                                for a national bank to underwrite or 
+                                deal in;
+                                    ``(II) buys and sells municipal 
+                                securities and has not been affiliated 
+                                with a securities affiliate, as 
+                                provided under section 10 of the Bank 
+                                Holding Company Act of 1956 for more 
+                                than 1 year;
+                                    ``(III) buys and sells securities 
+                                for investment purposes for the bank or 
+                                for accounts for which the bank acts as 
+                                a trustee or fiduciary; or
+                                    ``(IV) has not been affiliated with 
+                                a securities affiliate under section 10 
+                                of the Bank Holding Company Act of 1956 
+                                for more than 1 year and engages in the 
+                                issuance or sale through a grantor 
+                                trust or otherwise of--
+                                            ``(aa) securities backed by 
+                                        or representing an interest in 
+                                        1-4 family residential 
+                                        mortgages originated or 
+                                        purchased by the bank, its 
+                                        affiliates, or its 
+                                        subsidiaries; or
+                                            ``(bb) securities backed by 
+                                        or representing an interest in 
+                                        consumer receivables or 
+                                        consumer leases originated or 
+                                        purchased by the bank, its 
+                                        affiliates, or its 
+                                        subsidiaries.''.
+
+SEC. 122. POWER TO EXEMPT FROM THE DEFINITIONS OF BROKER AND DEALER.
+
+    Section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) is 
+amended by adding at the end the following:
+    ``(e) Exemption From Definition of Broker or Dealer.--The 
+Commission, by regulation or order, upon its own motion or upon 
+application, may conditionally or unconditionally exclude any person or 
+class of persons from the definitions of `broker' or `dealer', if the 
+Commission finds that such exclusion is consistent with the public 
+interest, the protection of investors, and the purposes of this 
+title.''.
+
+SEC. 123. MARGIN REQUIREMENTS.
+
+    (a) Section 7(d) of the Securities Exchange Act of 1934 (15 U.S.C. 
+15g(d)) is amended by:
+            (1) deleting the word ``or'' after clause (D);
+            (2) redesignating clause (E) as clause (F); and
+            (3) inserting a new clause (E) as follows:
+                    ``(E) to a loan to a broker or dealer by a member 
+                bank or any other person that has entered into an 
+                agreement pursuant to section 8(a) hereof if the 
+                proceeds of the loan are to be used in the ordinary 
+                course of the broker's or dealer's business other than 
+                for the purpose of funding the purchase of securities 
+                for the account of such broker or dealer, or''.
+    (b) Section 8(a) of the Securities and Exchange Act of 1934 is 
+amended:
+            (1) by deleting the phrase ``nonmember bank'' in clause (2) 
+        and replacing it with the phrase ``person other than a member 
+        bank''; and
+            (2) by deleting the phrase ``such bank'' in the second 
+        sentence and replacing it with the phrase ``such person''.
+
+SEC. 124. EFFECTIVE DATE.
+
+    This subtitle shall become effective 270 days after the date of 
+enactment of this Act.
+
+             Subtitle C--Bank Investment Company Activities
+
+SEC. 130. CUSTODY OF INVESTMENT COMPANY ASSETS BY AFFILIATED BANK.
+
+    (a) Management Companies.--Section 17(f) of the Investment Company 
+Act of 1940 (15 U.S.C. 80a-17(f)) is amended--
+            (1) by redesignating paragraphs (1), (2), and (3) as 
+        subparagraphs (A), (B), and (C), respectively;
+            (2) by designating the five sentences of such subsection as 
+        paragraphs (1) through (5), respectively, and by indenting 
+        those paragraphs appropriately; and
+            (3) by adding at the end the following new paragraph:
+            ``(6) Notwithstanding paragraph (1)(A), if a bank described 
+        in paragraph (1) or an affiliated person of such bank is an 
+        affiliated person, promoter, organizer, or sponsor of, or 
+        principal underwriter for the registered company, such bank may 
+        serve as custodian under this subsection in accordance with 
+        such rules, regulations, or orders as the Commission may 
+        prescribe, consistent with the protection of investors, after 
+        consulting in writing with the appropriate Federal banking 
+        agency, as defined in section 3 of the Federal Deposit 
+        Insurance Act.''.
+    (b) Unit Investment Trusts.--Section 26(a)(1) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-26(a)(1)) is amended by inserting 
+after ``bank'' the following: ``not affiliated with such underwriter or 
+depositor, or if such bank is so affiliated, only in accordance with 
+such regulations or orders as the Commission may prescribe, consistent 
+with the protection of investors, after consulting in writing with the 
+appropriate Federal banking agency, as defined in section 3 of the 
+Federal Deposit Insurance Act''.
+    (c) Fiduciary Duty of Custodian.--Section 36(a) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-35(a)) is amended--
+            (1) in paragraph (1), by striking ``or'' at the end;
+            (2) in paragraph (2), by striking the period at the end and 
+        inserting ``; or''; and
+            (3) by inserting after paragraph (2) the following:
+            ``(3) as custodian.''.
+
+SEC. 131. AFFILIATED TRANSACTIONS.
+
+    (a) Indebtedness to Affiliated Person.--Section 10(f) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-10(f)) is amended in the 
+first sentence--
+            (1) by inserting ``(1)'' before ``a principal 
+        underwriter''; and
+            (2) by inserting before the period ``, or (2) the proceeds 
+        of which will be used to retire an indebtedness owed to an 
+        affiliated person of such registered company''.
+    (b) Affiliated Person of Investment Company.--Section 10(f) of the 
+Investment Company Act of 1940 is amended by adding at the end the 
+following: ``For purposes of this subsection, a person that is under 
+common control with an investment adviser shall be deemed to be an 
+affiliated person of the registered investment company advised by such 
+investment adviser.''.
+
+SEC. 132. BORROWING FROM AN AFFILIATED BANK.
+
+    Section 18(f) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+18(f)) is amended by adding at the end the following:
+    ``(3) Notwithstanding the provisions of paragraph (1), it shall be 
+unlawful for any registered investment company to borrow from any bank 
+if such bank or any affiliated person thereof is an affiliated person, 
+promoter, organizer, or sponsor of, or principal underwriter for, such 
+company, except that the Commission may, by rule, regulation, or order, 
+permit such borrowing that the Commission finds to be in the public 
+interest and consistent with the protection of investors.''.
+
+SEC. 133. INDEPENDENT DIRECTORS.
+
+    (a) Interested Person.--Section 2(a)(19)(A)(v) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-2(a)(19)(A)(v)) is amended by 
+striking ``1934 or any affiliated person of such a broker or dealer, 
+and'' and inserting ``1934 or any person that, at any time during the 
+preceding 6 months, has acted as custodian or transfer agent or has 
+executed any portfolio transactions for, engaged in any principal 
+transactions with, or loaned money to, the investment company, or any 
+other investment company having the same investment adviser, principal 
+underwriter, sponsor, or promoter, or any affiliated person of such a 
+broker, dealer, or person, and''.
+    (b) Affiliation of Directors.--Section 10(c) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-10(c)) is amended by striking 
+``bank, except'' and inserting ``bank (and its subsidiaries) or any 
+single bank holding company (and its affiliates and subsidiaries), as 
+those terms are defined in the Bank Holding Company Act of 1956, 
+except''.
+    (c) Effective Date.--The provisions of subsection (a) of this 
+section shall become effective 1 year after the date of enactment of 
+this subtitle.
+
+SEC. 134. ADDITIONAL SEC DISCLOSURE AUTHORITY.
+
+    (a) Misrepresentation.--Section 35(a) of the Investment Company Act 
+of 1940 (15 U.S.C. 80a-34(a)) is amended to read as follows:
+
+``SEC. 35. MISREPRESENTATIONS.
+
+    ``(a) Misrepresentations of Guarantees.--
+            ``(1) In general.--It shall be unlawful for any person, in 
+        issuing or selling any security of which a registered 
+        investment company is the issuer, to represent or imply in any 
+        manner whatsoever that such security or company--
+                    ``(A) has been guaranteed, sponsored, recommended, 
+                or approved by the United States, or any agency, 
+                instrumentality or officer thereof,
+                    ``(B) has been insured by the Federal Deposit 
+                Insurance Corporation; or
+                    ``(C) is guaranteed by or is otherwise an 
+                obligation of any bank or insured institution.
+            ``(2) Disclosures.--The Commission shall require the person 
+        issuing or selling the securities of a registered investment 
+        company to prominently disclose, in writing or orally, as 
+        appropriate, that the investment company or any security issued 
+        by it is not insured by the Federal Deposit Insurance 
+        Corporation and is not guaranteed by an affiliated depository 
+        institution, and is not otherwise an obligation of such a bank 
+        or insured institution, in any case where--
+                    ``(A) a bank holding company, bank, or separately 
+                identifiable division or department of a bank, or any 
+                affiliate or subsidiary thereof is an investment 
+                adviser, organizer, sponsor, promoter, principal 
+                underwriter, or an affiliated person of the investment 
+                company; or
+                    ``(B) a bank or an affiliated person of a bank is 
+                offering or selling securities of the investment 
+                company.
+        The requirement of any disclosures referred to above shall be 
+        subject to regulations adopted by the Commission, after 
+        consultation with the appropriate Federal banking agencies (as 
+        defined in section 3 of the Federal Deposit Insurance Act).''.
+    (b) Deceptive use of Names.--Section 35(d) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-34(d)) is amended by inserting after 
+the first sentence the following: ``It shall be deceptive and 
+misleading for any registered investment company which has an insured 
+depository institution (as defined in section 3 of the Federal Deposit 
+Insurance Act) or any affiliated person thereof as an affiliated 
+person, promoter, or principal underwriter, to adopt, as part of the 
+name or title of such company, or of any security of which it is the 
+issuer, any word which is the same as or similar to, or a variation of, 
+the name or title of such insured depository institution or affiliate 
+thereof. The Commission, by rules or regulations upon its own motion or 
+by order upon application, may conditionally or unconditionally exempt 
+an investment company from the preceding sentence if the Commission 
+finds that such exemption is consistent with the public interest, the 
+protection of investors, and the purposes of this title.''.
+
+SEC. 135. DEFINITION OF BROKER UNDER THE INVESTMENT COMPANY ACT OF 
+              1940.
+
+    Section 2(a)(6) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-2(a)(6)) is amended to read as follows:
+            ``(6) `Broker' has the same meaning as in the Securities 
+        Exchange Act of 1934, except that it does not include any 
+        person solely by reason of the fact that such person is an 
+        underwriter for 1 or more investment companies.''.
+
+SEC. 136. DEFINITION OF DEALER UNDER THE INVESTMENT COMPANY ACT OF 
+              1940.
+
+    Section 2(a)(11) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-2(a)(11)) is amended to read as follows:
+            ``(11) `Dealer' has the same meaning as in the Securities 
+        Exchange Act of 1934, but does not include an insurance company 
+        or investment company.''.
+
+SEC. 137. REMOVAL OF THE EXCLUSION FROM THE DEFINITION OF INVESTMENT 
+              ADVISER FOR BANKS THAT ADVISE INVESTMENT COMPANIES.
+
+    (a) Investment Adviser.--Section 202(a)(11) of the Investment 
+Advisers Act of 1940 (15 U.S.C. 80b-2(a)(11)) is amended in 
+subparagraph (A), by striking ``investment company'' and inserting 
+``investment company, except that the term `investment adviser' 
+includes any bank or bank holding company to the extent that such bank 
+or bank holding company acts as an investment adviser to a registered 
+investment company, or if, in the case of a bank, such services are 
+performed through a separately identifiable department or division, the 
+department or division, and not the bank itself shall be deemed to be 
+the `investment adviser'''; and
+    (b) Separately Identifiable Department or Division.--Section 202(a) 
+of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)) is amended 
+by adding at the end the following:
+            ``(25) `Separately identifiable department or division' of 
+        a bank means a unit--
+                    ``(A) that is under the direct supervision of an 
+                officer or officers designated by the board of 
+                directors of the bank as responsible for the day-to-day 
+                conduct of the bank's investment adviser activities for 
+                1 or more investment companies, including the 
+                supervision of all bank employees engaged in the 
+                performance of such activities; and
+                    ``(B) for which all of the records relating to its 
+                investment adviser activities, are separately 
+                maintained in or extractable from such unit's own 
+                facilities or the facilities of the bank, and such 
+                records are so maintained or otherwise accessible as to 
+                permit independent examination and enforcement of this 
+Act and rules and regulations promulgated under this Act.''.
+
+SEC. 138. DEFINITION OF BROKER UNDER THE INVESTMENT ADVISERS ACT OF 
+              1940.
+
+    Section 202(a)(3) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2(a)(3)) is amended to read as follows:
+            ``(3) `Broker' has the same meaning as in the Securities 
+        Exchange Act of 1934.''.
+
+SEC. 139. DEFINITION OF DEALER UNDER THE INVESTMENT ADVISERS ACT OF 
+              1940.
+
+    Section 202(a)(7) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2(a)(7)) is amended to read as follows:
+            ``(7) `Dealer' has the same meaning as in the Securities 
+        Exchange Act of 1934, but does not include an insurance company 
+        or investment company.''.
+
+SEC. 140. INTERAGENCY CONSULTATION.
+
+    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is 
+amended by inserting after section 210 the following new section:
+
+``SEC. 210A. CONSULTATION.
+
+    ``(a) Examination Results and Other Information.--
+            ``(1) The appropriate Federal banking agency shall provide 
+        the Commission upon request the results of any examination, 
+        reports, records, or other information as each may have with 
+        respect to the investment advisory activities of any bank 
+        holding company, bank, or department or division of a bank, any 
+        of which is registered under section 203 of this title, or, in 
+        the case of a bank holding company or bank, has a subsidiary, 
+        department, or division registered under that section, to the 
+        extent necessary for the Commission to carry out its statutory 
+        responsibilities.
+            ``(2) The Commission shall provide to the appropriate 
+        Federal banking agency upon request the results of any 
+        examination, reports, records, or other information with 
+        respect to the investment advisory activities of any bank 
+        holding company, bank, or department or division of a bank, any 
+        of which is registered under section 203 of this title, to the 
+        extent necessary for the agency to carry out its statutory 
+        responsibilities.
+    ``(b) Effect on Other Authority.--Nothing herein shall limit in any 
+respect the authority of the appropriate Federal banking agency with 
+respect to such bank holding company, bank, or department or division 
+under any provision of law.
+    ``(c) Definition.--For purposes of this section, the term 
+`appropriate Federal banking agency' shall have the same meaning as in 
+section 3 of the Federal Deposit Insurance Act.''.
+
+SEC. 141. TREATMENT OF BANK COMMON TRUST FUNDS.
+
+    (a) Securities Act of 1933.--Section 3(a)(2) of the Securities Act 
+of 1933 (15 U.S.C. 77c(a)(2)) is amended by striking ``or any interest 
+or participation in any common trust fund or similar fund maintained by 
+a bank exclusively for the collective investment and reinvestment of 
+assets contributed thereto by a bank in its capacity as trustee, 
+executor, administrator, or guardian'' and inserting ``or any interest 
+or participation in any common trust fund or similar fund that is 
+excluded from the definition of the term `investment company' under 
+section 3(c)(3) of the Investment Company Act of 1940''.
+    (b) Securities Exchange Act of 1934.--Section 3(a)(12)(A)(iii) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(12)(A)(iii)) is 
+amended to read as follows:
+                            ``(iii) any interest or participation in 
+                        any common trust fund or similar fund that is 
+                        excluded from the definition of the term 
+                        `investment company' under section 3(c)(3) of 
+                        the Investment Company Act of 1940.''.
+    (c) Investment Company Act of 1940.--Section 3(c)(3) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-3(c)(3)) is amended by 
+inserting before the period the following: ``, if--
+                    ``(A) such fund is employed by the bank solely as 
+                an aid to the administration of trusts, estates, or 
+                other accounts created and maintained for a fiduciary 
+                purpose;
+                    ``(B) except in connection with the ordinary 
+                advertising of the bank's fiduciary services, interests 
+                in such fund are not--
+                            ``(i) advertised; or
+                            ``(ii) offered for sale to the general 
+                        public; and
+                    ``(C) such fund is not charged any fees or expenses 
+                that, when added to any other compensation charged by 
+                the bank to a participation account, would exceed the 
+                total amount of compensation that would have been 
+                charged to such participant account if no assets of the 
+                account had been invested in interests in the fund, 
+                except that any reasonable and necessary expenses 
+                related to the prudent operation of the fund, as 
+                determined by the appropriate Federal banking agency 
+                (as defined in section 3(q) of the Federal Deposit 
+                Insurance Act), shall be permitted to be charged 
+                directly to the fund.''.
+    (d) Tax Effect.--It is the sense of the Congress that the public 
+interest would be furthered by enacting legislation to amend section 
+584 of the Internal Revenue Code of 1986 by inserting after subsection 
+(g) the following new subsection:
+    ``(h) Conversion, Mergers, or Reorganization of Common Trust 
+Funds.--Notwithstanding any other provision of the Internal Revenue 
+Code, any transfer of all or substantially all of the assets of a 
+common trust fund taxable under this section to a registered investment 
+company taxable under subchapter M shall not result in a gain or loss 
+to the participants in such common trust fund where the transfer is a 
+result of a merger, conversion, reorganization, transfer, or other 
+similar transaction or series of transactions.''.
+
+SEC. 142. INVESTMENT ADVISERS PROHIBITED FROM HAVING CONTROLLING 
+              INTEREST IN REGISTERED INVESTMENT COMPANY.
+
+    Section 15 of the Investment Company Act of 1940 (15 U.S.C. 80a-15) 
+is amended by adding at the end the following new subsection:
+    ``(g) Controlling Interest in Investment Company Prohibited.--
+            ``(1) In general.--If any investment adviser to a 
+        registered investment company, or an affiliated person of that 
+        investment adviser, also holds shares of the investment company 
+        in a trustee or fiduciary capacity, that investment adviser or 
+        affiliated person may own, directly or indirectly, a 
+        controlling interest in that registered investment company 
+        only--
+                    ``(A) if it passes the power to vote the shares of 
+                the investment company through to--
+                            ``(i) the beneficial owners of the shares;
+                            ``(ii) any person acting in a fiduciary 
+                        capacity who is not an affiliated person of 
+                        that investment adviser or any affiliated 
+                        person thereof; or
+                            ``(iii) any person authorized to receive 
+                        statements and information with respect to the 
+                        trust who is not an affiliated person of that 
+                        investment adviser or any affiliated person 
+                        thereof;
+                    ``(B) if it votes the shares of the investment 
+                company held by it in the same proportion as shares 
+                held by all other shareholders of the investment 
+                company; or
+                    ``(C) as otherwise permitted under such rules, 
+                regulations, or orders as the Commission may prescribe 
+                for the protection of investors.
+            ``(2) Exemption.--Paragraph (1) shall not apply to any 
+        investment adviser to a registered investment company, or an 
+        affiliated person of that investment adviser, holding shares of 
+        the investment company in a trustee or fiduciary capacity if 
+        that registered investment company consists solely of assets 
+        of--
+                    ``(A) any common trust fund or similar fund 
+                described in section 3(c)(3) of the Investment Company 
+                Act of 1940;
+                    ``(B) any employees' stock bonus, pension, or 
+                profit-sharing trust that qualifies under section 401 
+                of the Internal Revenue Code of 1986;
+                    ``(C) any governmental plan described in section 
+                3(a)(2)(C) of the Securities Act of 1933; or
+                    ``(D) any collective trust fund maintained by a 
+                bank and consisting solely of assets of trusts or 
+                governmental plans described in subparagraph (B) or 
+                (C).''.
+
+SEC. 143. PURCHASE OF INVESTMENT COMPANY SECURITIES AS FIDUCIARY.
+
+    (a) In General.--Section 17 of the Investment Company Act of 1940 
+(15 U.S.C. 80a-17) is amended by adding at the end the following:
+    ``(k) Purchase of Investment Company Securities as Fiduciary.--
+            ``(1) In general.--An investment adviser to a registered 
+        investment company, or an affiliated person of the investment 
+        adviser, promoter, organizer, or sponsor of the registered 
+        investment company, or principal underwriter for the registered 
+        company may purchase securities issued by such investment 
+        company for the account of a beneficiary as fiduciary, only if 
+        disclosure of such information as the Commission shall 
+        prescribe under paragraph (2) has been provided to the person 
+        (other than to the investment advisor to the registered 
+        investment company, or an affiliated person of the investment 
+        advisor, promoter, organizer, or sponsor of the registered 
+        investment company, or principal underwriter for the registered 
+        company who may purchase securities of the registered company 
+        as fiduciary for the account) to whom periodic financial 
+        statements are customarily provided.
+            ``(2) Disclosure rules.--The Commission shall prescribe, by 
+        rule, regulation, or order, the manner, form, and content of 
+        the information required to be disclosed under paragraph (1), 
+        as the Commission determines necessary or appropriate in the 
+        public interest and for the protection of investors.
+            ``(3) Prospective effect.--This subsection shall be 
+        effective for purchase for fiduciary accounts made after the 
+        effective date of this subtitle.''.
+    (b) Examination of Trust Department Securities Purchases.--Section 
+10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) is 
+amended by adding at the end the following:
+            ``(6) Trust department examination.--In performing an 
+        examination under this subsection, the appropriate Federal 
+        banking agency shall examine purchases by an insured depository 
+        institution's trust department or division of the securities of 
+        an affiliated investment company, or an investment company that 
+        is an affiliated person of an affiliated person of the 
+        institution (as those terms are defined in sections 2 and 3 of 
+        the Investment Company Act of 1940), to assure compliance with 
+        applicable Federal and State trust laws.''.
+
+SEC. 144. CONFORMING CHANGE IN DEFINITION.
+
+    Section 2(a)(5) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-2(a)(5)) is amended by striking ``(A) a banking organization 
+organized under the laws of the United States'' and inserting ``(A) a 
+depository institution, as that term is defined in section 3 of the 
+Federal Deposit Insurance Act or a U.S. branch or agency of a foreign 
+bank''.
+
+SEC. 145. EFFECTIVE DATE.
+
+    This subtitle shall become effective 270 days after the date of 
+enactment of this Act.
+                                 <all>
+HR 18 IH----2
+HR 18 IH----3
+HR 18 IH----4
+HR 18 IH----5
+

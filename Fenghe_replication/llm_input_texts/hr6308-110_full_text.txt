@@ -1,0 +1,296 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6308 Reported in House (RH)]
+
+
+
+
+
+
+                                                 Union Calendar No. 536
+110th CONGRESS
+  2d Session
+                                H. R. 6308
+
+                          [Report No. 110-835]
+
+  To ensure uniform and accurate credit rating of municipal bonds and 
+     provide for a review of the municipal bond insurance industry.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 19, 2008
+
+     Mr. Frank of Massachusetts (for himself, Mr. Capuano, and Mr. 
+  Kanjorski) introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+                           September 9, 2008
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+ [For text of introduced bill, see copy of bill as introduced on June 
+                               19, 2008]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To ensure uniform and accurate credit rating of municipal bonds and 
+     provide for a review of the municipal bond insurance industry.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Municipal Bond Fairness Act''.
+
+   TITLE I--DISCRIMINATORY RATINGS TREATMENT OF STATE AND MUNICIPAL 
+                               SECURITIES
+
+SEC. 101. PRESERVATION OF AUTHORITY TO PREVENT DISCRIMINATION.
+
+    Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o-
+7) is amended--
+            (1) by redesignating subsection (p) as subsection (q); and
+            (2) by inserting after subsection (o) the following new 
+        subsection:
+    ``(p) Ratings Clarity and Consistency.--
+            ``(1) Commission obligation.--Subject to paragraphs (2) and 
+        (3), the Commission shall require each nationally recognized 
+        statistical rating organization that is registered under this 
+        section to establish, maintain, and enforce written policies 
+        and procedures reasonably designed--
+                    ``(A) to establish and maintain credit ratings with 
+                respect to securities and money market instruments 
+                designed to assess the risk that investors in 
+                securities and money market instruments may not receive 
+                payment in accordance with the terms of issuance of 
+                such securities and instruments;
+                    ``(B) to define clearly any rating symbol used by 
+                that organization; and
+                    ``(C) to apply such rating symbol in a consistent 
+                manner for all types of securities and money market 
+                instruments.
+            ``(2) Additional credit factors.--Nothing in paragraph 
+        (1)(A), (B), or (C)--
+                    ``(A) prohibits a nationally recognized statistical 
+                rating organization from using additional credit 
+                factors that are documented and disclosed by the 
+                organization and that have a demonstrated impact on the 
+                risk an investor in a security or money market 
+                instrument will not receive repayment in accordance 
+                with the terms of issuance; or
+                    ``(B) prohibits a nationally recognized statistical 
+                rating organization from considering credit factors 
+                that are unique to municipal securities that are not 
+                backed by the issuer's full faith and credit in its 
+                assessment of the risk an investor in a security or 
+                money market instrument will not receive repayment in 
+                accordance with the terms of issuance.
+            ``(3) Complementary ratings.--The Commission shall not 
+        impose any requirement under paragraph (1) that prevents 
+        nationally recognized statistical rating organizations from 
+        establishing ratings that are complementary to the ratings 
+        described in paragraph (1)(A) and that are created to measure a 
+        discrete aspect of the security's or instrument's risk.
+            ``(4) Review.--
+                    ``(A) Performance measures.--The Commission shall, 
+                by rule, establish performance measures that the 
+                Commission shall consider when deciding whether to 
+                initiate a review concerning whether a nationally 
+                recognized statistical rating organization has failed 
+                to adhere to such organization's stated procedures and 
+                methodologies for issuing ratings on securities or 
+                money market instruments.
+                    ``(B) Consideration of evidence.--Performance 
+                measures the Commission may consider in initiating a 
+                review of an organization's ratings in each of the 
+                categories described in clauses (i) through (v) of 
+                section 3(a)(62)(B) during an appropriate interval (as 
+                determined by the Commission) include the transition 
+                and default rates of its in discrete asset classes.''.
+
+SEC. 102. GENERAL ACCOUNTABILITY OFFICE STUDY OF CREDIT RATINGS.
+
+    (a) Study Required.--The Comptroller General shall conduct a study 
+of the treatment of different classes of bonds (municipal versus 
+corporate) by the nationally recognized statistical rating 
+organizations. Such study shall examine--
+            (1) whether there are fundamental differences in the 
+        treatment of different classes of bonds by such rating 
+        organizations that cause some classes of bonds to suffer from 
+        undue discrimination;
+            (2) if there are such differences, what are the causes of 
+        such differences and how can they be alleviated;
+            (3) whether there are factors other than risk of loss that 
+        are appropriate for the credit ratings agencies to consider 
+        when rating bonds, and do those factors vary across different 
+        sectors;
+            (4) the types of financing arrangement used by municipal 
+        issuers;
+            (5) the differing legal and regulatory regimes governing 
+        disclosures for corporate bonds and municipal bonds;
+            (6) the extent to which retail investors could be 
+        disadvantaged by a single ratings scale; and
+            (7) practices, policies, and methodologies by the 
+        nationally recognized statistical rating organizations with 
+        respect to rating municipal bonds.
+    (b) Report Required.--Within 6 months after the date of enactment 
+of this Act, the Comptroller General shall submit a report on the 
+results of the study required by subsection (a) to the Committee on 
+Financial Services of the House of Representatives and the Committee on 
+Banking, Housing, and Urban Development of the Senate. Such report 
+shall include an assessment of each of the issues and subjects 
+described in paragraphs (1) through (7) of subsection (a).
+
+SEC. 103. IMPLEMENTATION.
+
+    The Securities and Exchange Commission shall prescribe rules to 
+implement the amendments made by section 101 within 270 days after the 
+date of enactment of this Act.
+
+         TITLE II--REVIEW OF MUNICIPAL BOND INSURANCE INDUSTRY
+
+SEC. 201. AUTHORITY OF SECRETARY.
+
+    (a) Authority To Receive and Collect Information.--Subject to 
+subsection (b), the Secretary of the Treasury shall have the authority 
+to receive and collect (directly from the States and other sources), 
+and to analyze and disseminate, data and information, and to issue 
+reports, regarding entities that insure or guarantee the payment of any 
+portion of the principal and interest of any municipal obligation, 
+including information, data and material regarding--
+            (1) financial safety and soundness of such entities;
+            (2) concentration of insurance liabilities of such 
+        entities;
+            (3) performance of such entities under various scenarios of 
+        macro- and micro-economic stress;
+            (4) underwriting standards for such entities; and
+            (5) risk management of such entities.
+    (b) Limitations.--With respect to the authority under subsection 
+(a)--
+            (1) the submission of any non-publicly available data and 
+        information to the Secretary shall be voluntary and such 
+        submission shall not constitute a waiver of, or otherwise 
+        affect, any privilege or confidentiality protection to which 
+        the data or information is otherwise subject;
+            (2) to the extent that any such data and information has 
+        already been received or collected by, or can efficiently be 
+        received or collected by, the States (including the insurance 
+        commissioners of the States), the National Association of 
+        Insurance Commissioners, or any other appropriate source, the 
+        Secretary may enter into an information-sharing agreement with 
+        such source to provide for the receipt of such data by the 
+        Secretary;
+            (3) any requirement under Federal or State law to the 
+        extent otherwise applicable, or any requirement pursuant to a 
+        written agreement in effect between the original source of any 
+        non-publicly available data or information and the source of 
+        such data or information to the Secretary, regarding the 
+        privacy or confidentiality of any data or information in the 
+        possession of the source to the Secretary, and any privilege 
+        arising under Federal or State law (including the rules of any 
+        Federal or State court) with respect to such data or 
+        information, shall continue to apply to such data or 
+        information after the data or information has been provided 
+        pursuant to this subsection to the Secretary;
+            (4) the Secretary shall treat as confidential and 
+        privileged any data or information obtained from any source 
+        that is entitled to confidential treatment under applicable 
+        State or Federal law or regulations, or under any agreement to 
+        which the source is a party and shall take all reasonable steps 
+        to oppose any effort to secure disclosure of the data or 
+        information by the Secretary;
+            (5) the Secretary may not in any case disclose to any party 
+        any personally identifiable information received or collected 
+        by the Secretary pursuant to this subsection; and
+            (6) any non-publicly available data and information 
+        received or collected by the Secretary pursuant to this 
+        subsection shall be considered trade secrets and commercial or 
+        financial information that is privileged and confidential 
+        pursuant to section 552(b)(4) of title 5, United States Code.
+
+SEC. 202. REPORTS TO CONGRESS.
+
+    The Secretary shall submit a report annually to the Committee on 
+Financial Services of the House of Representatives and the Committee on 
+Banking, Housing, and Urban Affairs of the Senate on the financial 
+state of the industry for insurance and guarantee of municipal bonds, 
+meaningful trends in such industry, and the potential impacts on the 
+overall financial system in the United States that entities providing 
+such insurance and guarantees could have under various scenarios of 
+macro- and micro-economic stress.
+
+SEC. 203. RETENTION OF EXISTING REGULATORY AUTHORITY.
+
+    This title may not be construed to establish any supervisory or 
+regulatory authority of the Secretary over any entity that insures or 
+guarantees the payment of any portion of the principal and interest of 
+any municipal obligation.
+
+SEC. 204. DEFINITIONS.
+
+    For purposes of this title, the following definitions shall apply:
+            (1) Municipal obligation.--The term ``municipal 
+        obligation'' means any bond, note, security, or other debt 
+        obligation issued by any State, any political subdivision of a 
+        State, one or more political subdivisions of a State, or a 
+        State and one or more of its political subdivisions, by any 
+        agency, department, office, authority, or other instrumentality 
+        of a State, any political subdivision of a State, one or more 
+        political subdivisions of a State, or a State and one or more 
+        of its political subdivisions, or by any other entity eligible 
+        to issue bonds the interest on which is excludable from gross 
+        income under section 103 of the Internal Revenue Code of 1986.
+            (2) Political subdivision.--The term ``political 
+        subdivision'' includes any city, county, town, township, 
+        parish, village, or other general purpose political subdivision 
+        of a State and any school, utility, fire, or tax district, or 
+        other special purpose political subdivision of a State.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Treasury.
+            (4) State.--The term ``State'' means the States of the 
+        United States, the District of Columbia, the Commonwealth of 
+        Puerto Rico, the Commonwealth of the Northern Mariana Islands, 
+        Guam, the Virgin Islands, American Samoa, and any other 
+        territory or possession of the United States.
+
+SEC. 205. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated to the Secretary for 
+carrying out this title such sums as may be necessary for each fiscal 
+year.
+                                                 Union Calendar No. 536
+
+110th CONGRESS
+
+  2d Session
+
+                               H. R. 6308
+
+                          [Report No. 110-835]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+  To ensure uniform and accurate credit rating of municipal bonds and 
+     provide for a review of the municipal bond insurance industry.
+
+_______________________________________________________________________
+
+                           September 9, 2008
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+

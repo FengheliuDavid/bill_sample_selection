@@ -1,0 +1,19 @@
+Taxpayer Protection and Responsible Resolution Act
+
+This bill amends federal bankruptcy law with respect to a "covered financial corporation" incorporated or organized under any federal or state law (other than a stockbroker, a commodity broker, or a domestic or foreign insurance company or financial institution meeting certain criteria) that is: (1) a bank holding company; or (2) a corporation that exists for the primary purpose of owning, controlling, and financing subsidiaries predominantly engaged in activities that are financial in nature or incidental to such an activity.
+
+The bill adds "Chapter 14 - Liquidation, Reorganization, or Recapitalization of a Covered Financial Corporation," setting forth requirements and prohibitions regarding: (1) commencement of a case concerning a covered financial corporation; (2) a special trustee and bridge company; (3) special transfer of the property of the estate in bankruptcy; (4) treatment of qualified financial contracts and affiliate contracts; (5) licenses, permits, and registrations; (6) exemption from securities laws; and (7) inapplicability of certain avoiding powers.
+
+A court may convert a case under chapter 14 to chapter 7 (Liquidation) if certain conditions are met.
+
+The Judicial Code is amended to require the Chief Justice of the United States to designate at least 10 bankruptcy judges to be available to hear a bankruptcy case under chapter 14.
+
+The bill prescribes requirements for assignment of bankruptcy judges to chapter 14 cases.
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act is amended to repeal Title II (Orderly Liquidation Authority), governing the bankruptcy of financial institutions.
+
+Makes conforming amendments to the Federal Deposit Insurance Act and the Federal Reserve Act.
+
+The Federal Reserve Act is amended to prohibit a Federal Reserve bank from making advances for the purpose of providing debtor-in-possession financing to either: (1) a bridge company, or (2) a covered financial corporation that is a debtor in a pending case under Chapter 14.
+
+No funds appropriated to the federal government may be paid to a covered financial corporation or to any of its creditors to satisfy a claim in a case under chapter 14.

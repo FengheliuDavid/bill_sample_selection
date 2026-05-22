@@ -1,0 +1,321 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5440 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                H. R. 5440
+
+ To amend title 28, United States Code, to clarify the jurisdiction of 
+              the Federal courts, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 22, 2006
+
+Mr. Smith of Texas introduced the following bill; which was referred to 
+                     the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend title 28, United States Code, to clarify the jurisdiction of 
+              the Federal courts, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Federal Courts 
+Jurisdiction Clarification Act of 2006''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Resident alien exception.
+Sec. 3. Citizenship of corporations and insurance companies with 
+                            foreign contacts.
+Sec. 4. Removal and remand procedures.
+Sec. 5. Indexing the amount in controversy.
+Sec. 6. Facilitating use of declarations to specify damages.
+Sec. 7. Effective date.
+
+SEC. 2. RESIDENT ALIEN EXCEPTION.
+
+    Section 1332(a) of title 28, United States Code, is amended--
+            (1) by striking the last sentence; and
+            (2) in paragraph (2), by inserting after ``foreign state'' 
+        the following: ``, except that the district courts shall not 
+        have original jurisdiction of an action between a citizen of a 
+        State and a citizen or subject of a foreign state admitted to 
+        the United States for permanent residence and domiciled in the 
+        same State''.
+
+SEC. 3. CITIZENSHIP OF CORPORATIONS AND INSURANCE COMPANIES WITH 
+              FOREIGN CONTACTS.
+
+    Section 1332(c)(1) of title 28, United States Code, is amended--
+            (1) by striking ``a corporation'' and all that follows 
+        through ``, except'' and inserting ``a corporation shall be 
+        deemed to be a citizen of every State and foreign state by 
+        which it has been incorporated and of the State or foreign 
+        state where it has its principal place of business, except''; 
+        and
+            (2) by striking all that follows ``party-defendant,'' and 
+        inserting ``such insurer shall be deemed a citizen of--
+                    ``(A) every State and foreign state of which the 
+                insured is a citizen;
+                    ``(B) every State or foreign state by which the 
+                insurer has been incorporated; and
+                    ``(C) the State or foreign state where the insurer 
+                has its principal place of business; and''.
+
+SEC. 4. REMOVAL AND REMAND PROCEDURES.
+
+    (a) Actions Removable Generally.--Section 1441(c) of title 28, 
+United States Code, is amended to read as follows:
+    ``(c)(1) If a civil action includes--
+            ``(A) a claim arising under the Constitution, laws, or 
+        treaties of the United States (within the meaning of section 
+        1331), and
+            ``(B) a claim not within the original or supplemental 
+        jurisdiction of the district court or a claim that has been 
+        made nonremovable by statute,
+        the entire action may be removed if the action would be 
+        removable without the inclusion of the claim described in 
+        subparagraph (B).
+    ``(2) Upon removal of an action described in paragraph (1), the 
+district court shall sever from the action all claims described in 
+paragraph (1)(B) and shall remand the severed claims to the State court 
+from which the action was removed. Only defendants against whom a claim 
+described in paragraph (1)(A) has been asserted are required to join in 
+or consent to the removal under paragraph (1).''.
+    (b) Procedure for Removal of Civil Actions.--Section 1446 of title 
+28, United States Code, is amended as follows:
+            (1) The section heading is amended to read as follows:
+``Sec. 1446. Procedure for removal of civil actions''.
+            (2) Subsection (a) is amended--
+                    (A) by striking ``or criminal prosecution''; and
+                    (B) by striking ``removal signed pursuant to Rule 
+                11 of the Federal Rules of Civil Procedure and 
+                containing'' and inserting ``removal. The notice of 
+                removal shall be signed in the same manner and with the 
+                same effect as a pleading, written motion, or other 
+                paper in a civil action in a district court of the 
+                United States, and shall contain''.
+            (3) Subsection (b) is amended--
+                    (A) by inserting ``(1)'' after ``(b)'';
+                    (B) by designating the second paragraph as 
+                paragraph (3);
+                    (C) by inserting after paragraph (1) (as designated 
+                by subparagraph (A) of this paragraph) the following:
+    ``(2) When a civil action is removed solely under section 1441(a), 
+all defendants who have been properly joined and served must join in or 
+consent to the removal of the action. A defendant shall have 30 days 
+after receipt by or service on that defendant of the initial pleading 
+or summons described in subsection (b)(1) to file the notice of 
+removal. During the 30-day period before a defendant files a notice of 
+removal--
+            ``(A) any other defendant served before the beginning of 
+        that 30-day period may consent to the removal by the later-
+        served defendant even though that earlier-served defendant did 
+        not previously initiate or consent to removal; and
+            ``(B) any defendant not yet served may join in or consent 
+        to the removal.'';
+                    (D) in paragraph (3) (as designated by subparagraph 
+                (B) of this paragraph), by striking ``action.'' and 
+                inserting ``action, unless equitable considerations 
+                warrant removal. Such equitable considerations include 
+                whether the plaintiff has engaged in manipulative 
+                behavior, whether the defendant has acted diligently in 
+                seeking to remove the action, and whether the case has 
+                progressed in State court to a point where removal 
+                would be disruptive.''; and
+                    (E) by adding at the end the following:
+    ``(4) If removal of a civil action is sought on the basis of the 
+jurisdiction conferred by section 1332(a), the sum demanded in good 
+faith in the initial pleading shall be deemed to be the amount in 
+controversy, except that--
+            ``(A) the notice of removal may assert the amount in 
+        controversy if the initial pleading seeks--
+                    ``(i) non-monetary relief; or
+                    ``(ii) a money judgment, but the State practice 
+                either does not permit demand for a specific sum or 
+                permits recovery of damages in excess of the amount 
+                demanded; and
+            ``(B) removal of the action is proper on the basis of an 
+        amount in controversy asserted under subparagraph (A) if the 
+        district court finds, by the preponderance of the evidence, 
+        that the amount in controversy exceeds the amount specified in 
+        section 1332(a).
+    ``(5)(A) In a case to which paragraph (3) applies that is not 
+removable solely because the amount in controversy does not exceed the 
+amount specified in section 1332(a), information relating to the amount 
+in controversy in the record of the State proceeding, or in responses 
+to discovery, shall be treated as an `other paper' under paragraph (3). 
+If the defendant first receives such a paper, through service or 
+otherwise, within 1 year after the commencement of the action and 
+during the trial or within 30 days before the date set for trial, 
+removal may be had only upon a finding that the plaintiff deliberately 
+failed to disclose the actual amount in controversy in order to prevent 
+removal.
+    ``(B) If a finding is made under subparagraph (A) that the 
+plaintiff deliberately failed to disclose the actual amount in 
+controversy in order to prevent removal, and the notice of removal is 
+filed more than 1 year after commencement of the action, that finding 
+shall be deemed to be `equitable considerations' under paragraph (3) 
+that warrant removal.''.
+            (4) Section 1446 is further amended--
+                    (A) by striking subsections (c) and (e); and
+                    (B) by redesignating subsections (d) and (f) as 
+                subsections (c) and (d), respectively.
+    (c) Procedure for Removal of Criminal Actions.--Chapter 89 of title 
+28, United States Code, is amended by inserting after section 1446 the 
+following new section:
+``Sec. 1446a. Procedure for removal of criminal actions
+    ``(a) Notice of Removal.--A defendant or defendants desiring to 
+remove any criminal prosecution from a State court shall file in the 
+district court of the United States for the district and division 
+within which such prosecution is pending a notice of removal. The 
+notice of removal shall be signed in the same manner and to the same 
+effect as a pleading, written motion, or other paper in a criminal 
+prosecution in a district court of the United States and contain a 
+short and plain statement of the grounds for removal, together with a 
+copy of all process, pleadings, and orders served upon such defendant 
+or defendants in such action.
+    ``(b) Requirements.--(1) A notice of removal of a criminal 
+prosecution shall be filed not later than thirty days after the 
+arraignment in the State court, or at any time before trial, whichever 
+is earlier, except that for good cause shown the United States district 
+court may enter an order granting the defendant or defendants leave to 
+file the notice at a later time.
+    ``(2) A notice of removal of a criminal prosecution shall include 
+all grounds for such removal. A failure to state grounds which exist at 
+the time of the filing of the notice shall constitute a waiver of such 
+grounds, and a second notice may be filed only on grounds not existing 
+at the time of the original notice. For good cause shown, the United 
+States district court may grant relief from the limitations of this 
+paragraph.
+    ``(3) The filing of a notice of removal of a criminal prosecution 
+shall not prevent the State court in which such prosecution is pending 
+from proceeding further, except that a judgment of conviction shall not 
+be entered unless the prosecution is first remanded.
+    ``(4) The United States district court in which such notice is 
+filed shall examine the notice promptly. If it clearly appears on the 
+face of the notice and any exhibits annexed thereto that removal should 
+not be permitted, the court shall make an order for summary remand.
+    ``(5) If the United States district court does not order the 
+summary remand of such prosecution, it shall order an evidentiary 
+hearing to be held promptly and after such hearing shall make such 
+disposition of the prosecution as justice shall require. If the United 
+States district court determines that removal shall be permitted, it 
+shall so notify the State court in which prosecution is pending, which 
+shall proceed no further.
+    ``(c) Writ of Habeas Corpus.--If the defendant or defendants are in 
+actual custody on process issued by the State court, the district court 
+shall issue its writ of habeas corpus, and the marshal shall thereupon 
+take such defendant or defendants into custody and deliver a copy of 
+the writ to the clerk of such State court.''.
+    (d) Conforming Amendments.--The table of sections for chapter 89 of 
+title 28, United States Code, is amended--
+            (1) in the item relating to section 1446, by inserting ``of 
+        civil actions'' after ``removal''; and
+            (2) by inserting after the item relating to section 1446 
+        the following new item:
+
+``1446a. Procedure for removal of criminal actions.''.
+
+SEC. 5. INDEXING THE AMOUNT IN CONTROVERSY.
+
+    (a) In General.--Section 1332 of title 28, United States Code, is 
+amended by adding at the end the following new subsection:
+    ``(f)(1) Effective on January 1, 2011, and January 1 of each fifth 
+year thereafter, the dollar amount then in effect as the minimum amount 
+in controversy applicable under subsection (a) shall be adjusted by an 
+amount, rounded to the nearest $5,000 (or, if midway between multiples 
+of $5,000, to the next higher multiple of $5,000), equal to the 
+percentage of the dollar amount which corresponds to the change in the 
+Consumer Price Index for the month of September of the appropriate 
+year, over the Consumer Price Index for the month of September of the 
+fifth year preceding the appropriate year.
+    ``(2) The Director of the Administrative Office of the United 
+States Courts shall determine the amount of each adjustment under 
+paragraph (1) and, not later than November 15 of the appropriate year, 
+shall submit for publication in the Federal Register the amount (and 
+the percentage change in the Consumer Price Index that is the basis for 
+that amount), and the new minimum amount in controversy to take effect 
+on January 1 of the succeeding calendar year.
+    ``(3) As used in this subsection--
+            ``(A) the `appropriate year' is the year preceding the year 
+        in which the adjustment under paragraph (1) is to take effect; 
+        and
+            ``(B) the term `Consumer Price Index' means the Consumer 
+        Price Index for All Urban Consumers published by the Department 
+        of Labor.''.
+    (b) Conforming Amendment.--Section 1332(a) of title 28, United 
+States Code, is amended by inserting ``as adjusted under subsection 
+(f),'' after ``$75,000,''.
+
+SEC. 6. FACILITATING USE OF DECLARATIONS TO SPECIFY DAMAGES.
+
+    (a) Removal Generally.--Section 1441(a) of title 28, United States 
+Code, is amended by adding at the end the following new sentence: ``If 
+the plaintiff has filed a declaration in State court, as part of or in 
+addition to the initial pleading, providing that the plaintiff will 
+neither seek nor accept an award of damages or entry of other relief 
+exceeding the amount specified in section 1332(a), the case may not be 
+removed on the basis of the jurisdiction under section 1332(a) as long 
+as the plaintiff abides by the declaration and the declaration is 
+binding under the laws and practice of the State. If the plaintiff has 
+filed such a declaration in State court but thereafter fails to abide 
+by that declaration, the defendant or defendants may file a notice of 
+removal within 30 days after receiving, through service or otherwise, a 
+copy of an amended pleading, motion, order or other paper from which it 
+may first be ascertained that the plaintiff seeks or is willing to 
+accept an award of damages or other relief exceeding the amount 
+specified in section 1332(a).''.
+    (b) Procedure After Removal.--Section 1447 of title 28, United 
+States Code, is amended by adding at the end the following new 
+subsection:
+    ``(f) Within 30 days after the filing of a notice of removal of a 
+civil action in which the district court's removal jurisdiction rests 
+solely on original jurisdiction under section 1332(a), the plaintiff 
+may file a declaration with the district court providing that the 
+plaintiff will neither seek nor accept an award of damages or entry of 
+other relief exceeding the amount specified in section 1332(a) of this 
+title. Upon the filing of such a declaration, the district court shall 
+remand the action to State court unless equitable circumstances warrant 
+retaining the case.''.
+
+SEC. 7. EFFECTIVE DATE.
+
+    (a) In General.--Subject to subsections (b) and (c), the amendments 
+made by this Act take effect on the date of enactment of this Act, and 
+apply to any action or prosecution commenced on or after such date of 
+enactment.
+    (b) Applicability of Change in Jurisdictional Amount.--Any change 
+in the amount in controversy under section 1332(a) of title 28, United 
+States Code, that is made pursuant to the amendments made by section 5 
+shall apply to any action or prosecution commenced on or after the date 
+such change becomes effective.
+    (c) Treatment of Cases Removed to Federal Court.--For purposes of 
+subsections (a) and (b ), an action or prosecution commenced in State 
+court and removed to Federal court shall be deemed to commence on the 
+date the action or prosecution was commenced in State court.
+                                 <all>
+

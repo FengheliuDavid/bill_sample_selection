@@ -1,0 +1,728 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4503 Introduced in House (IH)]
+
+103d CONGRESS
+  2d Session
+                                H. R. 4503
+
+To enhance the supervision and regulation of derivatives activities of 
+            financial institutions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 26, 1994
+
+ Mr. Gonzalez (for himself, Mr. Leach, Mr. Neal of North Carolina, Mr. 
+ Frank of Massachusetts, Mr. Kanjorski, Mr. Hinchey, and Mr. Kennedy) 
+ introduced the following bill; which was referred to the Committee on 
+                   Banking, Finance and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To enhance the supervision and regulation of derivatives activities of 
+            financial institutions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Derivatives Safety 
+and Soundness Supervision Act of 1994''.
+    (b) Table of Contents.--
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+        TITLE I--ENHANCED SUPERVISION OF DERIVATIVES ACTIVITIES
+
+Sec. 101. Increased agency oversight of financial institution 
+                            activities involving derivative financial 
+                            instruments.
+Sec. 102. Disclosure of amounts, nature, and terms of derivative 
+                            financial instruments in financial 
+                            institution call reports.
+Sec. 103. Inclusion of FDIC and OCC as principals in interagency task 
+                            force.
+Sec. 104. Training for examiners and assistant examiners.
+Sec. 105. State liaisons.
+                   TITLE II--SUPERVISORY IMPROVEMENTS
+
+Sec. 201. Unsafe or unsound practices.
+Sec. 202. Confidential emergency management reporting.
+Sec. 203. Internal controls.
+Sec. 204. Foreign bank supervision.
+          TITLE III--FINANCIAL INSTITUTION INSOLVENCY REFORMS
+
+Sec. 301. Treatment of certain swap agreements by conservators or 
+                            receivers of insured depository 
+                            institutions.
+Sec. 302. Authority of the corporation with respect to failed and 
+                            failing institutions.
+Sec. 303. Amendments relating to transfers of qualified financial 
+                            contracts.
+Sec. 304. Clarifying amendment relating to master agreements.
+Sec. 305. Technical amendments relating to qualified financial 
+                            contracts.
+             TITLE IV--INTERNATIONAL REGULATORY COOPERATION
+
+Sec. 401. Study of international regulation and supervision of 
+                            derivatives activities of financial 
+                            institutions.
+Sec. 402. International negotiations.
+                           TITLE V--GAO STUDY
+
+Sec. 501. Study of speculation and margin and collateral requirements 
+                            with respect to derivatives activities of 
+                            financial institutions.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act the following definitions shall apply:
+            (1) Active end-user.--The term ``active end-user'' means 
+        any financial institution which buys or sells a significant 
+        amount (as defined by the appropriate Federal regulatory 
+        agencies) of derivative financial instruments, or conducts 
+        transactions in a wide variety of derivative financial 
+        instruments.
+            (2) Appropriate federal banking agency.--The term 
+        ``appropriate Federal banking agency'' has the same meaning as 
+        in section 3(q) of the Federal Deposit Insurance Act.
+            (3) Appropriate federal regulatory agency.--The term 
+        ``appropriate Federal regulatory agency'' means--
+                    (A) any appropriate Federal banking agency, in the 
+                case of any insured depository institution or other 
+                entity described in section 3(q) of the Federal Deposit 
+                Insurance Act;
+                    (B) the National Credit Union Administration, in 
+                the case of any insured credit union;
+                    (C) the Office of Federal Housing Enterprise 
+                Oversight of the Department of Housing and Urban 
+                Development, in the case of any financial institution 
+                which is subject to the oversight of such office;
+                    (D) the Federal Housing Finance Board, in the case 
+                of any Federal home loan bank or the Office of Finance 
+                of the Federal home loan banks; and
+                    (E) the Board of Governors of the Federal Reserve 
+                System, in the case of any financial institution which 
+                is not described in subparagraph (A), (B), (C), or (D).
+            (4) Depository institution.--The term ``depository 
+        institution''--
+                    (A) has the same meaning as in section 3(c) of the 
+                Federal Deposit Insurance Act; and
+                    (B) includes any Federal credit union and any State 
+                credit union (as such terms are defined in section 101 
+                of the Federal Credit Union Act).
+            (5) Derivatives activities.--The term ``derivatives 
+        activities'' means any activity in which a financial 
+        institution is engaged as a dealer in derivative financial 
+        instruments or as an active end-user.
+            (6) Derivative financial instrument.--The term ``derivative 
+        financial instrument'' means any appropriate qualified 
+        financial contract (as defined in section 11(e)(8)(D) of the 
+        Federal Deposit Insurance Act).
+            (7) Financial institution.--The term ``financial 
+        institution''--
+                    (A) means--
+                            (i) any depository institution;
+                            (ii) any affiliate of any depository 
+                        institution;
+                            (iii) any entity described in any 
+                        subparagraph of section 3(q)(2) of the Federal 
+                        Deposit Insurance Act;
+                            (iv) any institution which is subject to 
+                        the oversight of the Office of Federal Housing 
+                        Enterprise Oversight of the Department of 
+                        Housing and Urban Development; and
+                            (v) any Federal home loan bank and the 
+                        Office of Finance of the Federal home loan 
+                        banks; and
+                    (B) does not include any company which is regulated 
+                by the Securities and Exchange Commission or the 
+                Commodities Futures Trading Commission.
+            (8) Insured credit union.--The term ``insured credit 
+        union'' has the same meaning as in section 101(7) of the 
+        Federal Credit Union Act.
+            (9) Insured depository institution.--The term ``insured 
+        depository institution''--
+            (A) has the same meaning as in section 3(c)(2) of the 
+        Federal Deposit Insurance Act; and
+            (B) includes an insured credit union.
+
+        TITLE I--ENHANCED SUPERVISION OF DERIVATIVES ACTIVITIES
+
+SEC. 101. INCREASED AGENCY OVERSIGHT OF FINANCIAL INSTITUTION 
+              ACTIVITIES INVOLVING DERIVATIVE FINANCIAL INSTRUMENTS.
+
+    (a) Establishment of Principles and Standards.--The appropriate 
+Federal regulatory agencies shall jointly establish principles and 
+standards relating to capital, accounting, disclosure, suitability, or 
+other appropriate regulatory actions for the supervision of financial 
+institutions engaged in derivatives activities by such agencies.
+    (b) Administrative Provisions.--
+            (1) Enhanced regulatory cooperation.--For purposes of 
+        implementing the principles and standards established pursuant 
+        to subsection (a) and the recommendations made pursuant to 
+        subsection (c) and consistent with section 37 of the Federal 
+        Deposit Insurance Act, the appropriate Federal regulatory 
+        agencies shall jointly--
+                    (A) issue substantially similar definitions, 
+                reporting requirements, capital standards, and 
+                examination guidelines and procedures with respect to 
+                any derivatives activity of any financial institution; 
+                and
+                    (B) prescribe such other regulations governing 
+                derivatives activities of financial institutions as the 
+                agencies have identified or recommended as appropriate 
+                for carrying out the purposes of this Act.
+            (2) Reports to banking committees.--During the 5-year 
+        period beginning on the date of the enactment of this Act, 
+        section 37(c) of the Federal Deposit Insurance Act shall apply 
+        with respect to the principles, standards, requirements, 
+        guidelines, and procedures adopted, prescribed, or issued by 
+        any appropriate Federal regulatory agency pursuant to this Act 
+        in the same manner such section applies with respect to 
+        accounting and capital standards used by appropriate Federal 
+        banking agencies.
+    (c) Recommendations Regarding Supervisory Actions.--In establishing 
+principles and standards under subsection (a), the appropriate Federal 
+regulatory agencies shall consider and may make recommendations for 
+comparable regulatory action by all such agencies in other matters 
+relating to financial institutions engaged in derivatives activities, 
+including the need to establish principles and standards to provide for 
+the following:
+            (1) Strong capital requirements (with particular attention 
+        to a leverage ratio where appropriate) to guard generally 
+        against risks at financial institutions, including added risks 
+        that may be posed by derivatives activities.
+            (2) Comprehensive risk management systems that--
+                    (A) are commensurate in scope, size, and complexity 
+                to the levels of activities and risks assumed by 
+                financial institutions;
+                    (B) include limits and controls with respect to any 
+                level of risk regarding counterparty credit, 
+                concentration, and other relevant market factors;
+                    (C) ensure that market factors affecting risk 
+                exposures are adequately measured, monitored, and 
+                controlled; and
+                    (D) adequately control potential losses and undue 
+                risks arising from system deficiencies.
+            (3) To the extent practicable, joint regulatory 
+        examinations by the appropriate Federal banking agencies of 
+        financial institutions which engage in derivatives activities.
+            (4) The prudent use of collateral by counterparties to 
+        derivatives transactions.
+            (5) Appropriate parameters, models, and simulations for the 
+        purpose of evaluating a financial institution's exposure to 
+        derivatives activities and relevant economic scenarios and 
+        further specifics regarding stress tests.
+            (6) Appropriate credit risk reserves in connection with 
+        derivatives activities.
+            (7) Protection against legal risk, including foreign legal 
+        risk.
+            (8) Protection against systemic risk.
+            (9) Assurance that a financial institution does not 
+        recommend or engage in derivatives activities that the 
+        institution knows or has reason to believe would be 
+        inappropriate for a customer on the basis of available 
+        information.
+            (10) Effective senior management supervision and oversight 
+        by the board of directors of a financial institution to ensure 
+        that derivatives activities are conducted in a safe and sound 
+        manner and are consistent with the board of director's overall 
+        risk management philosophy and the institution's business 
+        strategy.
+
+SEC. 102. DISCLOSURE OF AMOUNTS, NATURE, AND TERMS OF DERIVATIVE 
+              FINANCIAL INSTRUMENTS IN FINANCIAL INSTITUTION CALL 
+              REPORTS.
+
+    (a) Insured Depository Institutions.--The Federal Deposit Insurance 
+Act (12 U.S.C. 1811 et seq.) is amended by adding at the end the 
+following new section:
+
+``SEC. 44. DISCLOSURE REQUIREMENTS FOR DERIVATIVE FINANCIAL 
+              INSTRUMENTS.
+
+    ``(a) Information Required To Be Included in Call Reports.--Each 
+appropriate Federal banking agency shall consider, and may require, 
+disclosures in any report of condition made by any insured depository 
+institution in accordance with section 7(a) with respect to any period 
+beginning after December 31, 1994, of the following information:
+            ``(1) Quantitative information with respect to all 
+        derivative financial instruments.--
+                    ``(A) Gross notional value.--The gross notional 
+                value of each class of derivative financial 
+                instruments.
+                    ``(B) Revenue, gains, and losses.--All revenue, 
+                gains, and losses of the institution attributable to 
+                each class of derivative financial instruments.
+                    ``(C) Exposure under bilateral netting contract.--
+                The net current credit exposure of the institution 
+                under legally enforceable bilateral arrangements with 
+                respect to each class of derivative financial 
+                instruments.
+            ``(2) Terms to maturity.--Information on the remaining term 
+        to maturity of each class of derivative financial instruments.
+            ``(3) Quantitative information with respect to derivative 
+        financial instruments held for trading purposes.--
+                    ``(A) Average fair value balances.--The average 
+                maximum and minimum fair value balances of the insured 
+                depository institution with respect to each class of 
+                derivative financial instruments used by the 
+                institution for trading purposes.
+                    ``(B) Revenue, gains, and losses.--All revenue, 
+                gains, and losses of the institution attributable to 
+                trading account operations with respect to each class 
+                of derivative financial instruments.
+            ``(4) Additional information.--Any additional information 
+        that any appropriate Federal banking agency may consider to be 
+        appropriate.
+    ``(b) Separate Reporting for Exchange and OTC Trading.--To the 
+maximum extent possible, information reported pursuant to subsection 
+(a) with respect to transactions which are conducted on an exchange, 
+and each class of derivative financial instruments which are the 
+subjects of such transactions, shall be provided separately from 
+information relating to transactions which are conducted over the 
+counter, and the classes of derivative financial instruments which are 
+the subjects of such transactions.
+    ``(c) Qualitative Reporting Requirements.--The Federal banking 
+agencies shall take such action as may be appropriate to encourage 
+insured depository institutions to publicly report the following 
+information with such frequency as the agencies determine to be 
+appropriate:
+            ``(1) Nature of derivative financial instruments.--A 
+        description of--
+                    ``(A) the purposes for which each class of 
+                derivative financial instruments has been acquired by 
+                the institution, including the specific objectives of 
+                the institution; and
+                    ``(B) the overall operating and investment 
+                strategies of the institution which provide the context 
+                for acquiring or taking any such holding, position, or 
+                other interest in any derivative financial instrument.
+            ``(2) Accounting policies.--A description of the accounting 
+        policy and principles and the methodologies used by the 
+        institution to determine the value of the various classes of 
+        derivative financial instruments.
+    ``(d) Definitions.--For purposes of this section, the terms `active 
+end-user' and `derivative financial instrument' have the same meanings 
+as in section 2 of the Derivatives Safety and Soundness Supervision Act 
+of 1994.''.
+    (b) Insured Credit Unions.--Section 202(a) of the Federal Credit 
+Union Act (12 U.S.C. 1782(a)) is amended by adding at the end the 
+following new paragraph:
+            ``(8) Derivative financial instruments.--
+                    ``(A) In general.--The reports of condition made by 
+                insured credit unions under this section shall include 
+                all the information with respect to derivative 
+                financial instruments which is required, under section 
+                44 of the Federal Deposit Insurance Act, to be included 
+                in reports of condition made by insured depository 
+                institutions (as defined in section 3 of such Act).
+                    ``(B) Applicability of section 44 of the federal 
+                deposit insurance act.--Section 44 of the Federal 
+                Deposit Insurance Act shall apply with respect to 
+                insured credit unions and the Board in the same manner 
+                such section applies to insured depository institutions 
+                and Federal banking agencies (as such terms are defined 
+                in section 3 of such Act) and shall be enforceable by 
+                the Board with respect to insured credit unions under 
+                this Act.''.
+    (c) Other Financial Institutions.--
+            (1) In general.--A financial institution which is not an 
+        insured depository institution or an insured credit union shall 
+        file a quarterly report, with such institution's appropriate 
+        Federal regulatory agency, containing all the information with 
+        respect to derivative financial instruments which is required, 
+        under section 44 of the Federal Deposit Insurance Act, to be 
+        included in reports of condition made by insured depository 
+        institutions (as defined in section 3 of such Act).
+            (2) Applicability of section 44 of the federal deposit 
+        insurance act.--Section 44 of the Federal Deposit Insurance Act 
+        shall apply with respect to financial institutions and 
+        appropriate Federal regulatory agencies described in paragraph 
+        (1) in the same manner such section applies to insured 
+        depository institutions and Federal banking agencies (as such 
+        terms are defined in section 3 of such Act) and shall be 
+        enforceable by such agencies with respect to such financial 
+        institutions under any other law which provides such agency 
+        with administrative enforcement authority over such 
+        institution.
+
+SEC. 103. INCLUSION OF FDIC AND OCC AS PRINCIPALS IN INTERAGENCY TASK 
+              FORCE.
+
+    The Chairperson of the Federal Deposit Insurance Corporation and 
+the Comptroller of the Currency shall be included as principals on any 
+interagency task force or working group dealing with issues relating to 
+derivative financial instruments.
+
+SEC. 104. TRAINING FOR EXAMINERS AND ASSISTANT EXAMINERS.
+
+    (a) In General.--The Financial Institutions Examination Council 
+shall sponsor training programs concerning derivatives activities for 
+examiners and assistant examiners employed by such any agency 
+represented on such council.
+    (b) Enrollment.--Under such conditions as the Financial 
+Institutions Examination Council may establish, training programs 
+sponsored by the council pursuant to subsection (a) shall be open to 
+enrollment by employees of State bank supervisors (as defined in 
+section 3(r) of the Federal Deposit Insurance Act) and employees of the 
+Federal Housing Finance Board and the Office of Federal Housing 
+Enterprise Oversight of the Department of Housing and Urban 
+Development.
+    (c) Risk Management Training.--The risk management training 
+provided under section 1009A of the Federal Financial Institutions 
+Examination Council Act of 1978 shall include risk management 
+techniques related to derivatives activities, except that the cost of 
+providing training with respect to such activities to employees of 
+financial institutions shall be paid by the institutions.
+
+SEC. 105. STATE LIAISONS.
+
+    (a) In General.--To encourage the application of uniform 
+examination principles and standards by State and Federal agencies with 
+respect to derivatives activities of financial institutions, the 
+appropriate Federal regulatory agencies shall establish a liaison 
+committee composed of 5 representatives of State agencies which 
+supervise financial institutions which shall meet at least twice a year 
+with such Federal agencies.
+    (b) Travel Expenses.--Each member of the liaison committee 
+established pursuant to subsection (a) shall receive travel expenses, 
+including per diem in lieu of subsistence, in accordance with sections 
+5702 and 5703 of title 5, United States Code.
+
+                   TITLE II--SUPERVISORY IMPROVEMENTS
+
+SEC. 201. UNSAFE OR UNSOUND PRACTICES.
+
+    (a) Effective Management Oversight.--No financial institution may 
+engage in derivatives activities without a written management plan 
+approved by the board of directors of the institution which--
+            (1) ensures that such activities are--
+                    (A) conducted with appropriate direct oversight of 
+                the directors and the senior executive officers (as 
+                defined pursuant to section 32(f) of the Federal 
+                Deposit Insurance Act) of the institution;
+                    (B) conducted in a safe and sound manner; and
+                    (C) consistent with the overall risk management 
+                philosophy and the business strategy of the management 
+                of the institution; and
+            (2) establishes prudential standards for the management of 
+        the risks involved in such activities and a framework for 
+        internal controls with respect to such activities.
+    (b) Requirement for Directors.--No financial institution may act as 
+a dealer in derivative financial instruments or as an active end-user 
+unless a sufficient number of the directors of such institution are 
+familiar with the risks associated with any class of derivative 
+financial instruments involved in any derivatives activity of a 
+financial institution and the total current credit exposure of the 
+institution with respect to any such class, and activities of the 
+institution relating to such class of instruments.
+    (c) Enforcement.--Any failure to comply with the provisions of this 
+subsection, and the failure of any institution-affiliated party (as 
+defined in section 3(u) of the Federal Deposit Insurance Act) engaged 
+in derivatives activities to have adequate technical expertise with 
+respect to such activities, may be treated by the appropriate Federal 
+regulatory agency as an unsafe or unsound practice in conducting the 
+business of the institution involved.
+
+SEC. 202. CONFIDENTIAL EMERGENCY MANAGEMENT REPORTING.
+
+    (a) In General.--Before the end of the 1-year period beginning on 
+the date of the enactment of this Act, the appropriate Federal 
+regulatory agencies shall develop the means to obtain all necessary 
+information relating to any derivatives activity or any class of 
+derivative financial instruments, whenever the appropriate Federal 
+regulatory agency determines such information is needed, from any 
+financial institution which is a dealer in derivative financial 
+instruments or is an active end-user if the agency determines that the 
+agency needs such information as a result of adverse market conditions 
+or other emergency situation (as defined by the agency).
+    (b) Accessibility of Information.--Each financial institution 
+referred to in paragraph (1) shall--
+            (1) obtain such information and make and keep such records 
+        as the appropriate Federal regulatory agency may require by 
+        regulation for purposes of such paragraph; and
+            (2) promptly provide to the appropriate Federal regulatory 
+        agency any information requested by the agency pursuant to such 
+        paragraph.
+    (c) Confidentiality of Information Provided.--No information 
+provided to or obtained by an appropriate Federal regulatory agency 
+pursuant to paragraph (1) with respect to any financial institution may 
+be provided to any person or entity other than another Federal 
+regulatory agency with jurisdiction over the financial institution 
+without the prior written approval of the agency.
+
+SEC. 203. INTERNAL CONTROLS.
+
+    Section 39(a)(1)(A) of the Federal Deposit Insurance Act (12 U.S.C. 
+1831p-1(a)(1)(A)) is amended by striking ``internal controls'' and 
+inserting ``internal controls (including internal controls for 
+activities involving derivative financial instruments (as defined in 
+section 44(d)))''.
+
+SEC. 204. FOREIGN BANK SUPERVISION.
+
+    (a) Standards for Approval.--Section 7(d)(2)(A) of the 
+International Banking Act of 1978 (12 U.S.C. 3105(d)(2)(A)) is amended 
+by inserting before the semicolon the following: ``, including, in the 
+case of a foreign bank engaged in derivatives activities (as defined in 
+section 2(5) of the Derivatives Safety and Soundness Supervision Act of 
+1994), comprehensive supervision and regulation of such activities.''.
+    (b) Factor for Consideration.--Section 7(d) of the International 
+Banking Act of 1978 (12 U.S.C. 3105(d)) is amended by adding at the end 
+the following new paragraph:
+            ``(6) Factor for consideration.--In making any 
+        determination under paragraph (2), the Board shall consider 
+        whether the home country of a foreign bank maintains 
+        comprehensive supervision and regulation of derivatives 
+        activities (as defined in section 2(5) of the Derivatives 
+        Safety and Soundness Supervision Act of 1994), including, where 
+        appropriate, capital and disclosure standards, which are not 
+        less stringent than United States standards.''.
+
+          TITLE III--FINANCIAL INSTITUTION INSOLVENCY REFORMS
+
+SEC. 301. TREATMENT OF CERTAIN SWAP AGREEMENTS BY CONSERVATORS OR 
+              RECEIVERS OF INSURED DEPOSITORY INSTITUTIONS.
+
+    Section 11(e)(8)(D)(vi) of the Federal Deposit Insurance Act (12 
+U.S.C. 1821(e)(8)(D)(vi)) is amended--
+            (1) by striking ``purchased'' each place such term appears; 
+        and
+            (2) by inserting ``, equity derivative, equity or equity 
+        index swap, equity or equity index option, bond option, spot 
+        foreign exchange transaction'' after ``currency option''.
+
+SEC. 302. AUTHORITY OF THE CORPORATION WITH RESPECT TO FAILED AND 
+              FAILING INSTITUTIONS.
+
+    Section 11(e)(8) of the Federal Deposit Insurance Act (12 U.S.C. 
+1821(e)(8)) is amended by adding the following new subparagraphs:
+                    ``(F) Clarification.--No provision of law shall be 
+                construed as limiting the right or power of the 
+                Corporation, or authorizing any court or agency to 
+                limit or delay, in any manner, the right or power of 
+                the Corporation, to transfer any qualified financial 
+                contract in accordance with paragraphs (9) and (10) or 
+                to liquidate any such contract.
+                    ``(G) Undercapitalized insured depository 
+                institutions.--The Corporation, in consultation with 
+                the appropriate Federal banking agencies, shall 
+                prescribe regulations requiring more detailed 
+                recordkeeping with respect to qualified financial 
+                contracts (including market valuations) by insured 
+                depository institutions that are undercapitalized (as 
+                defined in section 38).''.
+
+SEC. 303. AMENDMENTS RELATING TO TRANSFERS OF QUALIFIED FINANCIAL 
+              CONTRACTS.
+
+    Section 11(e)(10) of the Federal Deposit Insurance Act (12 U.S.C. 
+1821(e)(10)) is amended--
+            (1) by redesignating subparagraph (B) as subparagraph (E);
+            (2) by inserting after subparagraph (A) the following new 
+        subparagraphs:
+                    ``(B) Effect of notice.--If a conservator or 
+                receiver for an insured depository institution in 
+                default has taken steps reasonably calculated to 
+                provide notice, pursuant to subparagraph (A), to any 
+                person by the close of business (local time) on the 
+                business day following the appointment of the 
+                conservator or receiver for such institution that the 
+                conservator or receiver has transferred, pursuant to 
+                paragraph (9)(A), all qualified financial contracts 
+                between the depository institution and such person, or 
+                any affiliate of such person, paragraph (8)(A) shall 
+                not apply with respect to such person or affiliate in 
+                connection with any such contract.
+                    ``(C) Treatment of bridge banks.--If a bridge bank 
+                or other institution is organized by the Corporation 
+                and a conservator is appointed for such bank or 
+                institution--
+                            ``(i) immediately upon the organization of 
+                        the bank or institution; or
+                            ``(ii) at the time of a purchase and 
+                        assumption transaction between such bank or 
+                        institution and a failed depository institution 
+                        for which the Corporation has been appointed 
+                        receiver,
+                the bridge bank or other institution shall not be 
+                considered a depository institution in default for 
+                purposes of this paragraph and paragraphs (8) and 
+                (9).''.
+
+SEC. 304. CLARIFYING AMENDMENT RELATING TO MASTER AGREEMENTS.
+
+    Section 11(e)(8)(D)(vii) of the Federal Deposit Insurance Act (12 
+U.S.C. 1821(e)(8)(D)(vii)) is amended to read as follows:
+                            ``(vii) Treatment of master agreement as 1 
+                        swap agreement.--Notwithstanding any other 
+                        provision of law, any master agreement for any 
+                        contract or agreement described in clause (ii), 
+                        (iii), (iv), or (vi), together with all 
+                        supplements to such master agreement, shall be 
+                        treated as 1 swap agreement for purposes of 
+                        this paragraph.''.
+
+SEC. 305. TECHNICAL AMENDMENTS RELATING TO QUALIFIED FINANCIAL 
+              CONTRACTS.
+
+    (a) Definition of Qualified Financial Contract.--Section 
+11(e)(8)(D) of the Federal Deposit Insurance Act (12 U.S.C. 
+1821(e)(8)(D)) is amended--
+            (1) in clause (i), by inserting ``spot contract,'' after 
+        ``swap agreement,'';
+            (2) in clause (iv), by striking ``(24)'' and inserting 
+        ``(25)''; and
+            (3) in clause (v), by striking ``101(41)'' and inserting 
+        ``101(47)''.
+    (b) Limitation on Rights of Counterparties in Event of Default Due 
+to Appointment of a Conservator.--Section 11(e)(8)(E)(i) of the Federal 
+Deposit Insurance Act (12 U.S.C. 1821(e)(8)(E)(i)) is amended by 
+inserting ``, other than a default based solely upon the appointment of 
+a conservator'' before the semicolon at the end.
+
+             TITLE IV--INTERNATIONAL REGULATORY COOPERATION
+
+SEC. 401. STUDY OF INTERNATIONAL REGULATION AND SUPERVISION OF 
+              DERIVATIVES ACTIVITIES OF FINANCIAL INSTITUTIONS.
+
+    (a) In General.--Before the end of the 30-day period beginning on 
+the date of the enactment of this Act, the Secretary of the Treasury 
+shall request a meeting with the appropriate representatives of the 
+other major industrialized countries to plan a study to examine the 
+adequacy of the international regulation and supervision of derivatives 
+activities of financial institutions.
+    (b) Goals of Study.--The goals of the study as proposed by the 
+Secretary of the Treasury pursuant to subsection (a) with respect to 
+derivatives activities of financial institutions shall be as follows:
+            (1) To foster a greater understanding of the manner in 
+        which derivative financial instruments affect the stability of 
+        the world's financial systems and markets.
+            (2) To examine the adequacy of international regulation and 
+        supervision of derivative financial activities.
+            (3) To make recommendations for improving the international 
+        regulation and supervision of derivative financial activities.
+            (4) To foster greater cooperation between all regulatory 
+        agencies with jurisdiction over derivatives activities.
+            (5) To make recommendations for action by the financial 
+        regulators in the respective countries that would facilitate 
+        the safe and sound conduct of entities involved in derivative 
+        financial activities.
+            (6) To evaluate the feasibility of establishing a single 
+        governing body to regulate international derivative financial 
+        activities.
+    (c) Issues to Study.--The Secretary of the Treasury shall propose 
+that the study with respect to derivatives activities of financial 
+institutions include the following factors:
+            (1) Identification of the manner in which derivative 
+        financial instruments affect the stability of the world's 
+        financial systems and markets.
+            (2) Identification of the various regulatory entities and 
+        mechanisms that are used to regulate and supervise derivative 
+        financial activities around the world.
+            (3) Analysis of the adequacy of the cooperation between the 
+        various regulatory entities and mechanisms referred to in 
+        paragraph (2).
+            (4) Identification of problems that inhibit the safe and 
+        sound conduct of worldwide derivatives activities.
+            (5) Analysis of the extent to which derivative financial 
+        activities in countries other than the major industrialized 
+        countries affect the safety and soundness of the world's 
+        financial systems and markets.
+            (6) Identification of uniform accounting and public 
+        reporting standards for derivative financial instruments.
+            (7) Evaluation of the feasibility of establishing a single 
+        governing body to regulate international derivatives 
+        activities.
+    (d) Utilization of Information and Resources.--The Secretary of the 
+Treasury shall propose that, in conducting the study under this section 
+with respect to derivatives activities of financial institutions, the 
+major industrialized countries should--
+            (1) gather information from a wide variety of sources 
+        including government agencies, central banks, market 
+        participants, and the consumers of the derivative financial 
+        instruments;
+            (2) to the extent feasible, obtain and use information from 
+        the International Monetary Fund, the Bank for International 
+        Settlements, and other multilateral organizations; and
+            (3) utilize all available information and conclusions from 
+        studies conducted by any multilateral organization, central 
+        bank, or any group consisting of representatives of major 
+        industrialized countries.
+
+SEC. 402. INTERNATIONAL NEGOTIATIONS.
+
+    The Chairman of the Board of Governors of the Federal Reserve 
+System and the Comptroller of the Currency shall encourage central 
+banks, and regulatory authorities of the other industrialized countries 
+to work toward maintaining and, where appropriate, adopting comparable 
+supervisory standards and regulations, particularly capital standards, 
+for financial institutions engaged in derivatives activities.
+
+                           TITLE V--GAO STUDY
+
+SEC. 501. STUDY OF SPECULATION AND MARGIN AND COLLATERAL REQUIREMENTS 
+              WITH RESPECT TO DERIVATIVES ACTIVITIES OF FINANCIAL 
+              INSTITUTIONS.
+
+    (a) Study Required.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a study of the speculative uses of 
+        derivative financial instruments by financial institutions and 
+        the feasibility of imposing margin and collateral requirements 
+        on speculative transactions engaged in by financial 
+        institutions which involve derivative financial instruments.
+            (2) Report.--The Comptroller General shall submit a report 
+        on the study conducted pursuant to paragraph (1) to the 
+        Congress before the end of the 18-month period beginning on the 
+        date of the enactment of this Act.
+    (b) Issues Involving Speculative Transactions Involving Derivative 
+Financial Instruments.--In conducting the study under subsection 
+(a)(1), the Comptroller General shall--
+            (1) define the term ``speculation'' as such term is used in 
+        connection with derivative financial instruments;
+            (2) determine the extent to which financial institutions 
+        use the various classes of derivative financial instruments to 
+        engage in speculation for the institution's own trading 
+        account; and
+            (3) determine the extent to which financial institutions 
+        engage in derivatives activities involving the various classes 
+        of derivative financial instruments with speculators.
+    (c) Issues Involving Margin and Collateral Requirements.--In 
+conducting the study under subsection (a)(1), the Comptroller General 
+shall--
+            (1) determine which classes of derivative financial 
+        instruments are subject to margin and collateral requirements 
+        and the amount and purpose of the margin and collateral 
+        requirement;
+            (2) determine the extent to which the transactions of 
+        financial institutions which involve any class of derivative 
+        financial instruments are conducted over the counter and 
+        evaluate the feasibility of imposing margin and collateral 
+        requirements on such transactions;
+            (3) evaluate the feasibility of imposing margin and 
+        collateral requirements on any class of derivative financial 
+        instruments which were acquired or taken for speculative 
+        purposes; and
+            (4) evaluate the competitive impact of imposing margin and 
+        collateral requirements on the various classes of derivative 
+        financial instruments which were acquired or taken for 
+        speculative purposes.
+
+                                 <all>
+
+HR 4503 IH----2
+HR 4503 IH----3
+

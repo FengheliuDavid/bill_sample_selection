@@ -1,0 +1,379 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4419 Introduced in House (IH)]
+
+
+
+
+
+
+
+106th CONGRESS
+  2d Session
+                                H. R. 4419
+
+ To prevent the use of certain bank instruments for Internet gambling, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 10, 2000
+
+   Mr. Leach (for himself, Mr. LaFalce, Mrs. Roukema, and Mr. Baker) 
+ introduced the following bill; which was referred to the Committee on 
+Banking and Financial Services, and in addition to the Committee on the 
+ Judiciary, for a period to be subsequently determined by the Speaker, 
+ in each case for consideration of such provisions as fall within the 
+                jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To prevent the use of certain bank instruments for Internet gambling, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Internet Gambling Funding 
+Prohibition Act''.
+
+SEC. 2. FINDINGS.
+
+    The Congress finds as follows:
+            (1) Internet gambling is primarily funded through personal 
+        use of bank instruments, including credit cards and wire 
+        transfers.
+            (2) The National Gambling Impact Study Commission in 1999 
+        recommended the passage of legislation to prohibit wire 
+        transfers to Internet gambling sites or the banks which 
+        represent them.
+            (3) Internet gambling is a major cause of debt collection 
+        problems for insured depository institutions and the consumer 
+        credit industry.
+            (4) Internet gambling conducted through offshore 
+        jurisdictions has been identified by United States law 
+        enforcement officials as a significant money laundering 
+        vulnerability.
+
+SEC. 3. PROHIBITION ON ACCEPTANCE OF ANY BANK INSTRUMENT FOR INTERNET 
+              GAMBLING.
+
+    (a) In General.--No person engaged in a gambling business may 
+knowingly accept, in connection with the participation of another 
+person in Internet gambling--
+            (1) credit, or the proceeds of credit, extended to or on 
+        behalf of such other person (including credit extended through 
+        the use of a credit card);
+            (2) an electronic fund transfer or funds transmitted by or 
+        through a money transmitting business, or the proceeds of an 
+        electronic fund transfer or money transmitting service, from or 
+        on behalf of the other person;
+            (3) any check, draft, or similar instrument which is drawn 
+        by or on behalf of the other person and is drawn on or payable 
+        through any financial institution; or
+            (4) the proceeds of any other form of financial transaction 
+        as the Secretary may prescribe by regulation which involves a 
+        financial institution as a payor or financial intermediary on 
+        behalf of or for the benefit of the other person.
+    (b) Definitions.--For purposes of this Act, the following 
+definitions shall apply:
+            (1) Appropriate federal regulatory agency.--The term 
+        ``appropriate Federal regulatory agency'' means--
+                    (A) in the case of any creditor, or any national or 
+                regional communication network utilized to effect a 
+                consumer credit transaction, the appropriate agency of 
+                the agencies referred to in subsection (a) or (c) of 
+                section 108 of the Truth in Lending Act;
+                    (B) in the case of any financial institution 
+                involved in an electronic fund transfer, or any 
+                operator of a terminal at which an electronic fund 
+                transfer may be initiated or any national or regional 
+                communication network utilized to effect an electronic 
+                fund transfer, the appropriate agency of the agencies 
+                referred to in subsection (a) or (c) of section 917 of 
+                the Electronic Fund Transfer Act; and
+                    (C) in the case of any money transmitting business, 
+                or any national or regional communication network 
+                utilized to effect a money transmitting service, the 
+                Secretary of the Treasury.
+            (2) Bets or wagers.--The term ``bets or wagers''--
+                    (A) means the staking or risking by any person of 
+                something of value upon the outcome of a contest of 
+                others, a sporting event, or a game predominantly 
+                subject to chance, upon an agreement or understanding 
+                that the person or another person will receive 
+                something of greater value than the amount staked or 
+                risked in the event of a certain outcome;
+                    (B) includes the purchase of a chance or 
+                opportunity to win a lottery or other prize (which 
+                opportunity to win is predominantly subject to chance);
+                    (C) includes any scheme of a type described in 
+                section 3702 of title 28; and
+                    (D) does not include--
+                            (i) any bona fide business transaction 
+                        governed by the securities laws (as that term 
+                        is defined in section 3(a)(47) of the 
+                        Securities Exchange Act of 1934 for the 
+                        purchase or sale at a future date of securities 
+                        (as that term is defined in section 3(a)(10) of 
+                        such Act;
+                            (ii) any transaction on or subject to the 
+                        rules of a contract market designated pursuant 
+                        to section 5 of the Commodity Exchange Act;
+                            (iii) any over-the-counter derivative 
+                        instrument;
+                            (iv) any contract of indemnity or 
+                        guarantee;
+                            (v) any contract for life, health, or 
+                        accident insurance; or
+                            (vi) any participation in a simulation 
+                        sports game or an educational game or contest 
+                        that--
+                                    (I) is not dependent solely on the 
+                                outcome of any single sporting event or 
+                                nonparticipant's singular individual 
+                                performance in any single sporting 
+                                event;
+                                    (II) has an outcome that reflects 
+                                the relative knowledge and skill of the 
+                                participants with such outcome 
+                                determined predominantly by accumulated 
+                                statistical results of sporting events; 
+                                and
+                                    (III) offers a prize or award to a 
+                                participant that is established in 
+                                advance of the game or contest and is 
+                                not determined by the number of 
+                                participants or the amount of any fees 
+                                paid by those participants.
+            (3) Gambling business.--The term ``gambling business'' 
+        means--
+                    (A) a business that is conducted at a gambling 
+                establishment;
+                    (B) a business that--
+                            (i) involves--
+                                    (I) the placing, receiving, or 
+                                otherwise making of bets or wagers; or
+                                    (II) the offering to engage in the 
+                                placing, receiving, or otherwise making 
+                                of bets or wagers;
+                            (ii) involves 1 or more persons who 
+                        conduct, finance, manage, supervise, direct, or 
+                        own all or part of such business; and
+                            (iii) has been or remains in substantially 
+                        continuous operation for a period in excess of 
+                        10 days or has a gross revenue of $2,000 or 
+                        more from such business during any 24-hour 
+                        period; and
+                    (C) any agent who knowingly solicits for a business 
+                described in subparagraph (A) or (B).
+            (4) Internet.--The term ``Internet'' means the 
+        international computer network of both Federal and nonfederal 
+        interoperable packet switched data networks.
+            (5) Internet gambling.--The term ``Internet gambling'' 
+        means to place, receive, or otherwise make a bet or wager by 
+        any means which involves the use, at least in part, of the 
+        Internet.
+            (6) Other terms.--
+                    (A) Credit; creditor; and credit card.--The terms 
+                ``credit'', ``creditor'', and ``credit card'' have the 
+                meanings given such terms in section 103 of the Truth 
+                in Lending Act.
+                    (B) Electronic fund transfer.--The term 
+                ``electronic fund transfer'' has the meaning given such 
+                term in section 903 of the Electronic Fund Transfer 
+                Act.
+                    (C) Financial institution.--The term ``financial 
+                institution'' has the meaning given such term in 
+                section 903 of the Electronic Fund Transfer Act.
+                    (D) Money transmitting business and money 
+                transmitting service.--The terms ``money transmitting 
+                business'' and ``money transmitting service'' have the 
+                meanings given such terms in section 5330(d) of title 
+                31, United States Code.
+                    (E) Secretary.--The term ``Secretary'' means the 
+                Secretary of the Treasury.
+    (c) Civil Remedies.--
+            (1) Jurisdiction.--The district courts of the United States 
+        shall have original and exclusive jurisdiction to prevent and 
+        restrain violations of this section by issuing appropriate 
+        orders in accordance with this section, regardless of whether a 
+        prosecution has been initiated under this section.
+            (2) Proceedings.--
+                    (A) Institution by federal government.--
+                            (i) In general.--The United States, acting 
+                        through the Attorney General or an appropriate 
+                        Federal regulatory agency, may institute 
+                        proceedings under this subsection to prevent or 
+                        restrain a violation of this section.
+                            (ii) Relief.--Upon application of the 
+                        United States under this subparagraph, the 
+                        district court may enter a temporary 
+                        restraining order or an injunction against any 
+                        person to prevent or restrain a violation of 
+                        this section if the court determines, after 
+                        notice and an opportunity for a hearing, that 
+                        there is a substantial probability that such 
+                        violation has occurred or will occur.
+                    (B) Institution by state attorney general.--
+                            (i) In general.--The attorney general of a 
+                        State (or other appropriate State official) in 
+                        which a violation of this section allegedly has 
+                        occurred or will occur, after providing written 
+                        notice to the United States, may institute 
+                        proceedings under this subsection to prevent or 
+                        restrain the violation.
+                            (ii) Relief.--Upon application of the 
+                        attorney general (or other appropriate State 
+                        official) of an affected State under this 
+                        subparagraph, the district court may enter a 
+                        temporary restraining order or an injunction 
+                        against any person to prevent or restrain a 
+                        violation of this section if the court 
+                        determines, after notice and an opportunity for 
+                        a hearing, that there is a substantial 
+                        probability that such violation has occurred or 
+                        will occur.
+                    (C) Indian lands.--Notwithstanding subparagraphs 
+                (A) and (B), for a violation that is alleged to have 
+                occurred, or may occur, on Indian lands (as that term 
+                is defined in section 4 of the Indian Gaming Regulatory 
+                Act)--
+                            (i) the United States shall have the 
+                        enforcement authority provided under 
+                        subparagraph (A); and
+                            (ii) the enforcement authorities specified 
+                        in an applicable Tribal-State compact 
+                        negotiated under section 11 of the Indian 
+                        Gaming Regulatory Act shall be carried out in 
+                        accordance with that compact.
+                    (D) Expiration.--Any temporary restraining order or 
+                preliminary injunction entered pursuant to subparagraph 
+                (A) or (B) shall expire if, and as soon as, the United 
+                States, or the attorney general (or other appropriate 
+                State official) of the State, as applicable, notifies 
+                the court that issued the order or injunction that the 
+                United States or the State, as applicable, will not 
+                seek a permanent injunction.
+            (3) Expedited proceedings.--
+                    (A) In general.--In addition to any proceeding 
+                under paragraph (2), a district court may, in exigent 
+                circumstances, enter a temporary restraining order 
+                against a person alleged to be in violation of this 
+                section upon application of the United States under 
+                paragraph (2)(A), or the attorney general (or other 
+                appropriate State official) of an affected State under 
+                paragraph (2)(B), without notice and the opportunity 
+                for a hearing as provided in rule 65(b) of the Federal 
+                Rules of Civil Procedure (except as provided in 
+                subsection (d)(3)), if the United States or the State, 
+                as applicable, demonstrates that there is probable 
+                cause to believe that the use of the Internet or other 
+                interactive computer service at issue violates this 
+                section.
+                    (B) Hearings.--A hearing requested concerning an 
+                order entered under this paragraph shall be held at the 
+                earliest practicable time.
+    (d) Criminal Penalty.--
+            (1) In general.--Whoever violates this section shall be 
+        fined under title 18, United States Code, or imprisoned for not 
+        more than 5 years, or both.
+            (2) Permanent injunction.--Upon conviction of a person 
+        under this subsection, the court may enter a permanent 
+        injunction enjoining such person from placing, receiving, or 
+        otherwise making bets or wagers or sending, receiving, or 
+        inviting information assisting in the placing of bets or 
+        wagers.
+    (e) Safe Harbor for Financial Intermediaries.--
+            (1) In general.--No creditor, credit card issuer, financial 
+        institution, operator of a terminal at which an electronic fund 
+        transfer may be initiated, money transmitting business, or 
+        national or regional communication network utilized to effect a 
+        credit transaction, electronic fund transfer, or money 
+transmitting service shall be liable under this section for the 
+involvement of such person, or the use of the facilities of such 
+person--
+                    (A) in any credit transaction, electronic fund 
+                transfer, or money transmitting service described in 
+                subsection (a); or
+                    (B) in drawing, paying, transferring, or collecting 
+                any check, draft, or other instrument described in 
+                subsection (a).
+            (2) Exception for knowing participation in a gambling 
+        business.--Paragraph (1) shall not apply with respect to any 
+        person referred to in such paragraph which is a gambling 
+        business or which knowingly participates in any activity 
+        referred to in subparagraph (A) or (B) of such paragraph as an 
+        agent or representative of a gambling business.
+
+SEC. 4. INTERNET GAMBLING IN OR THROUGH FOREIGN JURISDICTIONS.
+
+    (a) In General.--It is the sense of the Congress that, in 
+deliberations between the United States Government and any other 
+country on money laundering, corruption, and crime issues, the United 
+States Government should encourage the enactment and enforcement of 
+laws in such country to prevent Internet gambling and the use of the 
+financial payment and transfer systems to facilitate Internet gambling.
+    (b) United States Votes in International Financial Institutions.--
+The Secretary of the Treasury shall instruct the United States 
+Executive Directors of each international financial institution (as 
+defined in section 1701(c) of the International Financial Institutions 
+Act) to oppose any loan, disbursement, or other utilization of 
+resources by the international financial institution, other than to 
+address basic human needs, for any country that the Secretary of the 
+Treasury determines--
+            (1) permits a high level of participation in, and the use 
+        of the financial payment and transfer systems to facilitate, 
+        Internet gambling by United States citizens and residents; and
+            (2) is not effectively implementing measures to limit 
+        participation in, and the use of the financial payment and 
+        transfer systems to facilitate, Internet gambling by United 
+        States citizens and residents.
+    (c) Denial of Access to the Payment System.--In the case of any 
+country with respect to which the Secretary has made a determination 
+under subsection (b), the Secretary and the Board of Governors of the 
+Federal Reserve System shall take such action as the Secretary and the 
+Chairman of the Board, after joint consultation, determine to be 
+appropriate to limit or preclude access to the United States payment 
+system by financial institutions that are chartered by, or organized 
+under the laws of, such country or have their principal places of 
+business within such country.
+    (d) Report Required.--The Secretary of the Treasury shall submit an 
+annual report to the Congress on the deliberations between the United 
+States and other countries on issues relating to Internet gambling.
+
+SEC. 5. ENFORCEMENT ACTIONS.
+
+    Section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) is 
+amended by adding at the end the following new subsection:
+    ``(x) Depository Institution Involvement in Internet Gambling.--
+Notwithstanding section 3(e) of the Internet Gambling Funding 
+Prohibition Act, if any appropriate Federal banking agency determines 
+that any insured depository institution is engaged in any of the 
+following activities, the agency may issue an order to such institution 
+prohibiting such institution from continuing to engage in such 
+activity:
+            ``(1) Extending credit, or facilitating an extension of 
+        credit, electronic fund transfer, or money transmitting service 
+        with the actual knowledge that any person is violating 
+        subsection (a) or (b) of the Internet Gambling Funding 
+        Prohibition Act in connection with such extension of credit, 
+        electronic fund transfer, or money transmitting service.
+            ``(2) Paying, transferring, or collecting on any check, 
+        draft, or other instrument drawn on any depository institution 
+        with the actual knowledge that any person is violating 
+        subsection (a) or (b) of the Internet Gambling Funding 
+        Prohibition Act in connection with such check, draft, or other 
+        instrument.''.
+                                 <all>
+

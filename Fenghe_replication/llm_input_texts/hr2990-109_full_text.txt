@@ -1,0 +1,572 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2990 Referred in Senate (RFS)]
+
+
+109th CONGRESS
+  2d Session
+                                H. R. 2990
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 13, 2006
+
+Received; read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To improve ratings quality by fostering competition, transparency, and 
+          accountability in the credit rating agency industry.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; REFERENCES.
+
+    (a) Short Title.--This Act may be cited as the ``Credit Rating 
+Agency Duopoly Relief Act of 2006''.
+    (b) References.--Except as otherwise expressly provided, whenever 
+in this Act an amendment or repeal is expressed in terms of an 
+amendment to, or repeal of, a section or other provision, the reference 
+shall be considered to be made to a section or other provision of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
+
+SEC. 2. FINDINGS.
+
+    Upon the basis of facts disclosed by the record and report of the 
+Securities and Exchange Commission made pursuant to section 702 of the 
+Sarbanes-Oxley Act of 2002 (116 Stat. 797), hearings before the House 
+Committee on Financial Services during the 108th and 109th Congresses, 
+comment letters to the concept releases and proposed rules of the 
+Securities and Exchange Commission, and facts otherwise disclosed and 
+ascertained, the Congress finds that--
+            (1) credit rating agencies are of national concern, in 
+        that, among other things--
+                    (A) their ratings, publications, writings, 
+                analyses, and reports are furnished and distributed, 
+                and their contracts, subscription agreements, and other 
+                arrangements with clients are negotiated and performed, 
+                by the use of the mails and means and instrumentalities 
+                of interstate commerce;
+                    (B) their ratings, publications, writings, 
+                analyses, and reports customarily relate to the 
+                purchase and sale of securities traded on securities 
+                exchanges and in interstate over-the-counter markets, 
+                securities issued by companies engaged in business in 
+                interstate commerce, and securities issued by national 
+                banks and member banks of the Federal Reserve System;
+                    (C) the foregoing transactions occur in such volume 
+                as substantially to affect interstate commerce, and 
+                securities markets, the national banking system, and 
+                the national economy; and
+                    (D) their regulation serves the compelling interest 
+                of investor protection; and
+            (2) the Securities and Exchange Commission--
+                    (A) has, through its staff designation of certain 
+                credit rating agencies as nationally recognized 
+                statistical rating organizations, created an artificial 
+                barrier to entry for new participants; and
+                    (B) would, in its latest proposed rule defining 
+                nationally recognized statistical rating organizations, 
+                codify and strengthen this barrier.
+
+SEC. 3. DEFINITIONS.
+
+    Section 3(a) (15 U.S.C. 78c(a)) is amended by adding at the end the 
+following new paragraphs:
+            ``(60) Credit rating.--The term `credit rating' means an 
+        assessment of the creditworthiness of an obligor as an entity 
+        or with respect to specific securities or money market 
+        instruments.
+            ``(61) Credit rating agency.--The term `credit rating 
+        agency' means any person--
+                    ``(A) engaged in the business of issuing credit 
+                ratings on the Internet or through another readily 
+                accessible means, for free or for a reasonable fee but 
+                does not include a commercial credit reporting company;
+                    ``(B) employing either a quantitative or 
+                qualitative model, or both, to determine credit 
+                ratings; and
+                    ``(C) receiving fees from either issuers, 
+                investors, or other market participants, or a 
+                combination thereof.
+            ``(62) Nationally recognized statistical rating 
+        organization or nrsro.--The term `nationally recognized 
+        statistical rating organization' means a credit rating agency 
+        that--
+                    ``(A) has been in business as a credit rating 
+                agency for at least the past 3 consecutive years; and
+                    ``(B) is registered under section 15E.
+            ``(63) Person associated with a nationally recognized 
+        statistical rating organization.--The term `person associated 
+        with a nationally recognized statistical rating organization' 
+        means any partner, officer, director, or branch manager of such 
+        nationally recognized statistical rating organization (or any 
+        person occupying a similar status or performing similar 
+        functions), any person directly or indirectly controlling, 
+        controlled by, or under common control with such nationally 
+        recognized statistical rating organization, or any employee of 
+        such nationally recognized statistical rating organization.''.
+
+SEC. 4. REGISTRATION OF NATIONALLY RECOGNIZED STATISTICAL RATING 
+              ORGANIZATIONS.
+
+    (a) Amendment.--The Securities Exchange Act of 1934 is amended by 
+inserting after section 15D (15 U.S.C. 78o-6) the following new 
+section:
+
+``SEC. 15E. REGISTRATION OF NATIONALLY RECOGNIZED STATISTICAL RATING 
+              ORGANIZATIONS.
+
+    ``(a) Registration Procedures.--
+            ``(1) Furnishing of application form.--A credit rating 
+        agency that elects to be treated as a nationally recognized 
+        statistical rating organization for the purposes of Federal 
+        statutes, rules, and regulations may be registered by 
+        furnishing to the Commission an application for registration in 
+        such form and containing such of the following and any other 
+        information and documents concerning such organization and any 
+        persons associated with such organization as the Commission, by 
+        rule, may prescribe as necessary or appropriate in the public 
+        interest or for the protection of investors:
+                    ``(A) any conflicts of interest relating to the 
+                issuance of credit ratings by a nationally recognized 
+                statistical rating organization;
+                    ``(B) the procedures and methodologies such 
+                nationally recognized statistical rating organization 
+                uses in determining credit ratings;
+                    ``(C) credit ratings performance measurement 
+                statistics over short-term, mid-term, and long-term 
+                periods (as applicable) of such nationally recognized 
+                statistical rating organization;
+                    ``(D) policies or procedures adopted and 
+                implemented by such nationally recognized statistical 
+                rating organization to prevent the misuse in violation 
+                of this title (or the rules and regulations thereunder) 
+                of material, non-public information; and
+                    ``(E) the organizational structure of such 
+                nationally recognized statistical rating organization.
+            ``(2) Review of application.--
+                    ``(A) Initial determination.--Within 90 days of the 
+                date of the furnishing of such application (or within 
+                such longer period as to which the applicant consents) 
+                the Commission shall--
+                            ``(i) by order grant such registration; or
+                            ``(ii) institute proceedings to determine 
+                        whether registration should be denied.
+                    ``(B) Conduct of proceedings.--Such proceedings 
+                shall include notice of the grounds for denial under 
+                consideration and opportunity for hearing and shall be 
+                concluded within 120 days of the date of the furnishing 
+                of the application for registration. At the conclusion 
+                of such proceedings the Commission, by order, shall 
+                grant or deny such registration. The Commission may 
+                extend the time for conclusion of such proceedings for 
+                up to 90 days if it finds good cause for such extension 
+                and publishes its reasons for so finding or for such 
+                longer period as to which the applicant consents.
+                    ``(C) Grounds for decision.--The Commission shall 
+                grant such registration if the Commission finds that 
+                the requirements of this section are satisfied. The 
+                Commission shall deny such registration if it does not 
+                make such a finding or if it finds that if the 
+                applicant were so registered, its registration would be 
+                subject to suspension or revocation under subsection 
+                (d).
+            ``(3) Public availability of information.--Subject to 
+        section 24, the Commission, by rule, shall require a nationally 
+        recognized statistical rating organization, upon the granting 
+        of registration under this section, to make the information and 
+        documents furnished to the Commission in its application for 
+        registration, or in any amendment furnished under subsection 
+        (b)(1) or (2), publicly available on its website or through 
+        another comparable readily accessible means.
+    ``(b) Update of Registration.--
+            ``(1) Update.--Each nationally recognized statistical 
+        rating organization shall promptly amend its application for 
+        registration under this section if any information or documents 
+        provided therein become materially inaccurate, except that a 
+        nationally recognized statistical rating organization is not 
+        required to amend the information required to be furnished 
+        under subsection (a)(1)(C) by an amendment furnished under this 
+        paragraph, but shall amend such information in such 
+        organization's annual amendment furnished under paragraph (2) 
+        of this subsection.
+            ``(2) Certification.--Not later than 90 days after the end 
+        of each calendar year, each nationally recognized statistical 
+        rating organization shall furnish to the Commission an 
+        amendment to its registration, in such form as the Commission, 
+        by rule, may prescribe as necessary or appropriate in the 
+        public interest or for the protection of investors--
+                    ``(A) certifying that the information and documents 
+                in the application for registration of such nationally 
+                recognized statistical rating organization continue to 
+                be accurate; and
+                    ``(B) listing any material changes that occurred to 
+                such information or documents during the previous 
+                calendar year.
+    ``(c) Accountability for Ratings Procedures.--
+            ``(1) Authority.--The Commission shall have the authority 
+        under this Act to take action against any nationally recognized 
+        statistical rating organization if such nationally recognized 
+        statistical rating organization issues credit ratings in 
+        contravention of those procedures, criteria, and methodologies 
+        that such nationally recognized statistical rating 
+        organization--
+                    ``(A) includes in its application for registration 
+                under this section; or
+                    ``(B) makes and disseminates in reports pursuant to 
+                section 17(a) or the rules and regulations thereunder.
+            ``(2) Limitation.--The rules and regulations applicable to 
+        nationally recognized statistical rating organizations the 
+        Commission may prescribe pursuant to this Act shall be narrowly 
+        tailored to meet the requirements of this Act applicable to 
+        nationally recognized statistical rating organizations and 
+        shall not purport to regulate the substance of credit ratings 
+        or the procedures and methodologies by which such nationally 
+        recognized statistical rating organizations determine credit 
+        ratings.
+    ``(d) Censure, Denial, or Suspension of Registration; Notice and 
+Hearing.--The Commission, by order, shall censure, place limitations on 
+the activities, functions, or operations of, suspend for a period not 
+exceeding 12 months, or revoke the registration of any nationally 
+recognized statistical rating organization if the Commission finds, on 
+the record after notice and opportunity for hearing, that such censure, 
+placing of limitations, suspension, or revocation is in the public 
+interest and that such nationally recognized statistical rating 
+organization, or any person associated with such nationally recognized 
+statistical rating organization, whether prior to or subsequent to 
+becoming so associated--
+            ``(1) has committed or omitted any act, or is subject to an 
+        order or finding, enumerated in subparagraph (A), (D), (E), 
+        (H), or (G) of paragraph (4) of section 15(b), has been 
+        convicted of any offense specified in subparagraph (B) of such 
+        paragraph (4) within 10 years of the commencement of the 
+        proceedings under this subsection, or is enjoined from any 
+        action, conduct, or practice specified in subparagraph (C) of 
+        such paragraph (4);
+            ``(2) has been convicted during the 10-year period 
+        preceding the date of furnishing any application for 
+        registration, or at any time thereafter, of--
+                    ``(A) any crime that is punishable by imprisonment 
+                for 1 or more years, and that is not described in 
+                section 15(b)(4)(B); or
+                    ``(B) a substantially equivalent crime by a foreign 
+                court of competent jurisdiction; or
+            ``(3) is subject to any order of the Commission barring or 
+        suspending the right of the person to be associated with a 
+        nationally recognized statistical rating organization.
+    ``(e) Withdrawal From Registration.--A nationally recognized 
+statistical rating organization registered under this section may, upon 
+such terms and conditions as the Commission may establish as necessary 
+in the public interest or for the protection of investors, withdraw 
+from registration by furnishing a written notice of withdrawal to the 
+Commission. If the Commission finds that any nationally recognized 
+statistical rating organization is no longer in existence or has ceased 
+to do business as a credit rating agency, the Commission, by order, 
+shall cancel the registration of such nationally recognized statistical 
+rating organization.
+    ``(f) Representations.--
+            ``(1) Representations of sponsorship by united states or 
+        agency thereof.--It shall be unlawful for any nationally 
+        recognized statistical rating organization registered under 
+        this section to represent or imply in any manner whatsoever 
+        that such nationally recognized statistical rating organization 
+        has been designated, sponsored, recommended, or approved, or 
+        that such nationally recognized statistical rating 
+        organization's abilities or qualifications have in any respect 
+        been passed upon, by the United States or any agency, any 
+        officer, or any employee thereof.
+            ``(2) Representation as nrsro of unregistered credit rating 
+        agencies.--It shall be unlawful for any credit rating agency to 
+        represent or imply in any manner whatsoever that such credit 
+        rating agency has been designated, sponsored, recommended, or 
+        approved, or that such credit rating agency's abilities or 
+        qualifications have in any respect been passed upon, by the 
+        United States or any agency, any officer, or any employee 
+        thereof. It shall be unlawful for any credit rating agency that 
+        is not registered under this section as a nationally recognized 
+        statistical rating organization to state that such credit 
+        rating agency is a nationally recognized statistical rating 
+        organization under this Act.
+            ``(3) Statement of registration under securities exchange 
+        act of 1934 provisions.--No provision of paragraph (1) shall be 
+        construed to prohibit a statement that a nationally recognized 
+        statistical rating organization is a nationally recognized 
+        statistical rating organization under this Act, if such 
+        statement is true in fact and if the effect of such 
+        registration is not misrepresented.
+    ``(g) Prevention of Misuse of Nonpublic Information.--Each 
+nationally recognized statistical rating organization shall establish, 
+maintain, and enforce written policies and procedures reasonably 
+designed, taking into consideration the nature of such nationally 
+recognized statistical rating organization's business, to prevent the 
+misuse in violation of this title, or the rules or regulations 
+thereunder, of material, nonpublic information by such nationally 
+recognized statistical rating organization or any person associated 
+with such nationally recognized statistical rating organization. The 
+Commission, as it deems necessary or appropriate in the public interest 
+or for the protection of investors, shall adopt rules or regulations to 
+require specific policies or procedures reasonably designed to prevent 
+misuse in violation of this title (or the rules or regulations 
+thereunder) of material, nonpublic information.
+    ``(h) Management of Conflicts of Interest.--Each nationally 
+recognized statistical rating organization shall establish, maintain, 
+and enforce written policies and procedures reasonably designed, taking 
+into consideration the nature of the business of such nationally 
+recognized statistical rating organization and affiliated persons and 
+affiliated companies of such nationally recognized statistical rating 
+organization, to address and manage the conflicts of interest that can 
+arise from such business. The Commission, as it deems necessary or 
+appropriate in the public interest or for the protection of investors, 
+shall adopt rules or regulations to prohibit, or require the management 
+or disclosure of, any conflicts of interest relating to the issuance of 
+credit ratings by a nationally recognized statistical rating 
+organization including, without limitation, conflicts of interest 
+relating to--
+            ``(1) the manner in which a nationally recognized 
+        statistical rating organization is compensated by the obligor, 
+        or any affiliate of the obligor, for issuing credit ratings or 
+        providing related services;
+            ``(2) the provision of consulting, advisory, or other 
+        services by a nationally recognized statistical rating 
+        organization, or any person associated with such nationally 
+        recognized statistical rating organization, to the obligor, or 
+        any affiliate of the obligor;
+            ``(3) business relationships, ownership interests, or any 
+        other financial or personal interests between a nationally 
+        recognized statistical rating organization, or any person 
+        associated with such nationally recognized statistical rating 
+        organization, and the obligor, or any affiliate of the obligor; 
+        and
+            ``(4) any affiliation of a nationally recognized 
+        statistical rating organization, or any person associated with 
+        such nationally recognized statistical rating organization, 
+        with any person that underwrites the securities or money market 
+        instruments that are the subject of a credit rating.
+    ``(i) Prohibited Conduct.--
+            ``(1) Prohibited acts and practices.--The Commission may 
+        adopt rules or regulations to prohibit any act or practice 
+        relating to the issuance of credit ratings by a nationally 
+        recognized statistical rating organization that the Commission 
+        determines to be unfair, coercive, or abusive, including any 
+        act or practice relating to--
+                    ``(A) seeking payment for a credit rating that has 
+                not been specifically requested by the obligor--
+                            ``(i) from an obligor; or
+                            ``(ii) from an affiliate of an obligor, 
+                        unless--
+                                    ``(I) the organization is organized 
+                                under subsection (a)(1)(E) to receive 
+                                fees from investors or other market 
+                                participants, or a combination thereof; 
+                                and
+                                    ``(II) the affiliate is such an 
+                                investor or participant;
+                    ``(B) conditioning or threatening to condition the 
+                issuance of a credit rating on the obligor's, or an 
+                affiliate of the obligor's, purchase of other services 
+                or products, including pre-credit rating assessment 
+                products, of the nationally recognized statistical 
+                rating organization or any person associated with such 
+                nationally recognized statistical rating organization;
+                    ``(C) lowering or threatening to lower a credit 
+                rating on, or refusing to rate, securities or money 
+                market instruments issued by an asset pool unless a 
+                portion of the assets within such pool also is rated by 
+                the nationally recognized statistical rating 
+                organization;
+                    ``(D) modifying or threatening to modify a credit 
+                rating or otherwise departing from its adopted 
+                systematic procedures and methodologies in determining 
+                credit ratings, based on whether the obligor, or an 
+                affiliate of the obligor, pays or will pay for the 
+                credit rating or any other services or products of the 
+                nationally recognized statistical rating organization 
+                or any person associated with such nationally 
+                recognized statistical rating organization.
+            ``(2) Rule of construction.--Nothing in paragraph (1), or 
+        in any rules or regulations adopted thereunder, shall be 
+        construed to modify, impair, or supersede the operation of any 
+        of the antitrust laws. For the purposes of the preceding 
+        sentence, the term `antitrust laws' has the meaning given it in 
+        the first section of the Clayton Act (15 U.S.C. 12), except 
+        that such term includes section 5 of the Federal Trade 
+        Commission Act (15 U.S.C. 45) to the extent such section 5 
+        applies to unfair methods of competition.
+    ``(j) Designation of Compliance Officer.--Each nationally 
+recognized statistical rating organization shall designate an 
+individual responsible for administering the policies and procedures 
+that are required to be established pursuant to subsections (g) and 
+(h), and for ensuring compliance with the securities laws and the rules 
+and regulations thereunder, including those promulgated by the 
+Commission pursuant to this section.
+    ``(k) Statements of Financial Condition.--Each nationally 
+recognized statistical rating organization shall, on a confidential 
+basis, furnish to the Commission, at intervals determined by the 
+Commission, such financial statements, certified (if required by the 
+rules or regulations of the Commission) by an independent public 
+accountant, and information concerning its financial condition as the 
+Commission, by rule, may prescribe as necessary or appropriate in the 
+public interest or for the protection of investors.
+    ``(l) Elimination of Commission Staff's Designation Process for 
+NRSRO's.--
+            ``(1) Cessation of designation.--Within 30 days after the 
+        enactment of the Credit Rating Agency Duopoly Relief Act of 
+        2006, the Commission staff shall cease to designate persons and 
+        companies as nationally recognized statistical rating 
+        organizations, as that term is used under rule 15c3-1 of the 
+        Commission's rules (17 CFR 240.15c3-1).
+            ``(2) Prohibition on reliance on no-action relief.--The no-
+        action relief that the Commission staff has granted with 
+        respect to the designation of nationally recognized statistical 
+        rating organizations, as that term is used under rule 15c3-1 of 
+        the Commission's rules (17 CFR 240.15c3-1), shall be void and 
+        of no force or effect.
+            ``(3) Notice to other agencies.--Within 30 days after the 
+        date of enactment of the Credit Rating Agency Duopoly Relief 
+        Act of 2006, the Commission shall give notice to the Federal 
+        agencies which employ the term `nationally recognized 
+        statistical rating organization' (as that term is used under 
+        rule 15c3-1 of the Commission's rules (17 CFR 240.15c3-1)) in 
+        their rules and regulations regarding the actions undertaken 
+        pursuant to this section.
+            ``(4) Review of existing regulations.--Within 360 days 
+        after the date of enactment of the Credit Rating Agency Duopoly 
+        Relief Act of 2006, the Commission shall review its existing 
+        rules and regulations which employ the term `nationally 
+        recognized statistical rating organization' or `NRSRO' and 
+        promulgate new or revised rules and regulations as the 
+        Commission may prescribe as necessary or appropriate in the 
+        public interest or for the protection of investors.''.
+    (b) Conforming Amendments to the 1934 Act.--
+            (1) Section 15(b)(4)(B)(ii) (15 U.S.C. 78o(b)(4)(B)(ii)) is 
+        amended by inserting ``nationally recognized statistical rating 
+        organization,'' after ``transfer agent,''.
+            (2) Section 15(b)(4)(C) (15 U.S.C. 78o(b)(4)(C)) is amended 
+        by inserting ``nationally recognized statistical rating 
+        organization,'' after ``transfer agent,''.
+            (3) Section 21B(a) (15 U.S.C. 78u-2(a)) is amended by 
+        inserting ``15E,'' after ``15C,''.
+    (c) Other Conforming Amendments.--
+            (1) Section 2(a) of the Investment Company Act of 1940 (15 
+        U.S.C. 80a-2(a)) is amended by adding at the end the following 
+        new paragraph:
+            ``(53) The term `credit rating agency' has the same meaning 
+        as given in section 3 of the Securities Exchange Act of 
+        1934.''.
+            (2) Section 9(a)(1) of the Investment Company Act of 1940 
+        (15 U.S.C. 80a-9(a)) is amended by inserting ``credit rating 
+        agency,'' after ``transfer agent,''.
+            (3) Section 9(a)(2) of the Investment Company Act of 1940 
+        (15 U.S.C. 80a-9(a)) is amended by inserting ``credit rating 
+        agency,'' after ``transfer agent,''.
+            (4) Section 202(a) of the Investment Advisers Act of 1940 
+        (15 U.S.C. 80b-2(a)) is amended by adding at the end the 
+        following new paragraph:
+            ``(28) The term `credit rating agency' has the same meaning 
+        as given in section 3 of the Securities Exchange Act of 
+        1934.''.
+            (5) Section 203(e)(2)(B) of the Investment Advisers Act of 
+        1940 (15 U.S.C. 80b-3(e)) is amended by inserting ``credit 
+        rating agency,'' after ``transfer agent,''.
+            (6) Section 203(e)(4) of the Investment Advisers Act of 
+        1940 (15 U.S.C. 80b-3(e)) is amended by inserting ``credit 
+        rating agency,'' after ``transfer agent,''.
+            (7) Section 1319 of the Housing and Community Development 
+        Act of 1992 (12 U.S.C. 4519) is amended by striking 
+        ``effectively'' and all that follows through ``broker-dealers'' 
+        and inserting ``that is a nationally recognized statistical 
+        rating organization, as such term is defined in section 3(a) of 
+        the Securities Exchange Act of 1934''.
+            (8) Section 439 of the Higher Education Act of 1965 (20 
+        U.S.C. 1087-2) is amended in subsection (r)(15)(A) by striking 
+        ``means any entity recognized as such by the Securities and 
+        Exchange Commission'' and inserting ``means any nationally 
+        recognized statistical rating organization as that term is 
+        defined under the Securities Exchange Act of 1934''.
+            (9) Section 601(10) of title 23, United States Code, is 
+        amended by striking ``identified by the Securities and Exchange 
+        Commission as a Nationally Recognized Statistical Rating 
+        Organization'' and inserting ``registered with the Securities 
+        and Exchange Commission as a nationally recognized statistical 
+        rating organization as that term is defined under the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78 et seq.)''.
+
+SEC. 5. ANNUAL AND OTHER REPORTS.
+
+    Section 17(a)(1) (15 U.S.C. 78q(a)(1)) is amended--
+            (1) by inserting ``nationally recognized statistical rating 
+        organization,'' after ``registered transfer agent,''; and
+            (2) by adding at the end the following: ``Any report a 
+        nationally recognized statistical rating organization may be 
+        required by Commission rules under this paragraph to make and 
+        disseminate to the Commission shall be deemed furnished to the 
+        Commission.''.
+
+SEC. 6. GAO STUDY AND REPORT REGARDING CONSOLIDATION OF CREDIT RATING 
+              AGENCIES.
+
+    (a) Study Required.--The Comptroller General of the United States 
+shall conduct a study--
+            (1) to identify--
+                    (A) the factors that have led to the consolidation 
+                of credit rating agencies;
+                    (B) the present and future impact of the condition 
+                described in subparagraph (A) on the securities 
+                markets, both domestic and international; and
+                    (C) solutions to any problems identified under 
+                subparagraph (B), including ways to increase 
+                competition and the number of firms capable of 
+                providing credit rating services to large national and 
+                multinational business organizations that are subject 
+                to the securities laws;
+            (2) of the problems, if any, faced by business 
+        organizations that have resulted from limited competition among 
+        credit rating agencies, including--
+                    (A) higher costs;
+                    (B) lower quality of services;
+                    (C) anti-competitive practices;
+                    (D) impairment of independence; and
+                    (E) lack of choice; and
+            (3) whether and to what extent Federal or State regulations 
+        impede competition among credit rating agencies.
+    (b) Consultation.--In planning and conducting the study under this 
+section, the Comptroller General shall consult with--
+            (1) the Securities and Exchange Commission;
+            (2) the Department of Justice; and
+            (3) any other public or private sector organization that 
+        the Comptroller General considers appropriate.
+    (c) Report Required.--Not later than 180 days after the date of 
+enactment of this Act, the Comptroller General shall submit a report on 
+the results of the study required by this section to the Committee on 
+Banking, Housing, and Urban Affairs of the Senate and the Committee on 
+Financial Services of the House of Representatives.
+
+SEC. 7. EFFECTIVE DATE.
+
+    The amendments made by sections 4 and 5 shall take effect on 
+January 1, 2008, except as otherwise provided in paragraphs (1), (3), 
+and (4) of subsection (l) of section 15E of the Securities Exchange Act 
+of 1934 (as added by such amendments), and except that the Securities 
+and Exchange Commission is authorized to prescribe rules and 
+regulations to carry out such amendments beginning on the date of 
+enactment of this Act.
+
+            Passed the House of Representatives July 12, 2006.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.
+

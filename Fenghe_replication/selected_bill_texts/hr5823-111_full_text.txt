@@ -1,0 +1,690 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5823 Introduced in House (IH)]
+
+111th CONGRESS
+  2d Session
+                                H. R. 5823
+
+To establish a covered bond regulatory oversight program, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 22, 2010
+
+Mr. Garrett of New Jersey (for himself, Mr. Kanjorski, and Mr. Bachus) 
+ introduced the following bill; which was referred to the Committee on 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To establish a covered bond regulatory oversight program, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``United States Covered Bond Act of 
+2010''.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Ancillary asset.--The term ``ancillary asset'' means--
+                    (A) any interest rate or currency swap associated 
+                with an eligible asset, substitute asset, or other 
+                asset in a cover pool;
+                    (B) any credit enhancement or liquidity arrangement 
+                associated with an eligible asset, substitute asset, or 
+                other asset in a cover pool;
+                    (C) any guarantee, letter-of-credit right, or other 
+                secondary obligation that supports any payment or 
+                performance on an eligible asset, substitute asset, or 
+                other asset in a cover pool; and
+                    (D) any proceeds of, or other property incident to, 
+                an eligible asset, substitute asset, or other asset in 
+                a cover pool.
+            (2) Corporation.--The term ``Corporation'' means the 
+        Federal Deposit Insurance Corporation.
+            (3) Cover pool.--The term ``cover pool'' means a dynamic 
+        pool of assets that is comprised of--
+                    (A) eligible assets from a single eligible asset 
+                class; and
+                    (B) any substitute assets or ancillary assets.
+            (4) Covered bond.--The term ``covered bond'' means any 
+        senior recourse debt obligation of an eligible issuer that--
+                    (A) has an original term to maturity of not less 
+                than 1 year;
+                    (B) is secured by a perfected security interest in 
+                a cover pool that is owned directly or indirectly by 
+                the issuer of the obligation;
+                    (C) is issued under a covered bond program that has 
+                been approved by the covered bond regulator and is 
+                identified in a register of covered bonds maintained by 
+                the covered bond regulator; and
+                    (D) is not a deposit.
+            (5) Covered bond program.--The term ``covered bond 
+        program'' means any program of an eligible issuer under which 1 
+        or more series or tranches of covered bonds may be issued.
+            (6) Covered bond regulator.--The term ``covered bond 
+        regulator'' means the Comptroller of the Currency.
+            (7) Eligible asset.--The term ``eligible asset'' means--
+                    (A) in the case of the residential mortgage asset 
+                class--
+                            (i) any first-lien mortgage loan that is 
+                        secured by 1-to-4 family residential property 
+                        and that is in compliance with any rule or 
+                        supervisory guidance of a Federal agency that 
+                        is applicable to the loan at the time of loan 
+                        origination;
+                            (ii) any mortgage loan insured under the 
+                        National Housing Act (12 U.S.C. 1701 et seq.), 
+                        or any loan guaranteed, insured, or made under 
+                        chapter 37 of title 38, United States Code; and
+                            (iii) rural housing loans;
+                    (B) in the case of the home equity asset class, any 
+                home equity loan that is secured by 1-to-4 family 
+                residential property and that is in compliance with any 
+                rule or supervisory guidance of a Federal agency that 
+                is applicable to the loan at the time of loan 
+                origination;
+                    (C) in the case of the commercial mortgage asset 
+                class, any commercial mortgage loan (including any 
+                multifamily mortgage loan) that is in compliance with 
+                any rule or supervisory guidance of a Federal agency 
+                that is applicable to the loan at the time of loan 
+                origination;
+                    (D) in the case of the public sector asset class--
+                            (i) any security issued by a State or 
+                        municipality;
+                            (ii) any loan made to a State or 
+                        municipality; and
+                            (iii) any loan, security, or other 
+                        obligation that is insured or guaranteed, in 
+                        full or substantially in full, by the full 
+                        faith and credit of the United States 
+                        Government (whether or not such loan, security, 
+                        or other obligation is also part of another 
+                        eligible asset class);
+                    (E) in the case of the auto asset class, any auto 
+                loan or lease that is in compliance with any rule or 
+                supervisory guidance of a Federal agency that is 
+                applicable to the loan or lease at the time of loan or 
+                lease origination;
+                    (F) in the case of the student loan asset class, 
+                any student loan (whether guaranteed or nonguaranteed) 
+                that is in compliance with any rule or supervisory 
+                guidance of a Federal agency that is applicable to the 
+                loan at the time of loan origination;
+                    (G) in the case of the credit or charge card asset 
+                class, any extension of credit to a person under an 
+                open-end credit plan that is in compliance with any 
+                rule or supervisory guidance of a Federal agency that 
+                is applicable to the extension of credit at the time 
+                the extension is made;
+                    (H) in the case of the small business asset class, 
+                any loan made or guaranteed under a program of the 
+                Small Business Administration; and
+                    (I) in the case of any other eligible asset class, 
+                any asset designated by the covered bond regulator, by 
+                rule and in consultation with the applicable primary 
+                financial regulatory agencies, as an eligible asset for 
+                purposes of such class.
+            (8) Eligible asset class.--The term ``eligible asset 
+        class'' means--
+                    (A) a residential mortgage asset class;
+                    (B) a commercial mortgage asset class;
+                    (C) a public sector asset class;
+                    (D) a small business asset class; or
+                    (E) any other eligible asset class, as determined 
+                by the covered bond regulator by rule and in 
+                consultation with the applicable primary financial 
+                regulatory agencies.
+            (9) Eligible issuer.--The term ``eligible issuer'' means--
+                    (A) any insured depository institution and any 
+                subsidiary of such institution;
+                    (B) any bank holding company and any savings and 
+                loan holding company;
+                    (C) any nonbank financial company that is approved 
+                as an eligible issuer by the primary financial 
+                regulatory agency for the nonbank financial company and 
+                the covered bond regulator; and
+                    (D) any issuer that is sponsored by 1 or more 
+                eligible issuers for the sole purpose of issuing 
+                covered bonds on a pooled basis.
+            (10) Nonbank financial company.--The term ``nonbank 
+        financial company'' has the meaning given such term under 
+        section 102(a)(4) of the Dodd-Frank Wall Street Reform and 
+        Consumer Protection Act.
+            (11) Oversight program.--The term ``oversight program'' 
+        means the covered bond regulatory oversight program established 
+        under section 3(a).
+            (12) Primary financial regulatory agency.--The term 
+        ``primary financial regulatory agency'' has the meaning give 
+        such term under section 2(12) of the Dodd-Frank Wall Street 
+        Reform and Consumer Protection Act.
+            (13) Substitute asset.--The term ``substitute asset'' 
+        means--
+                    (A) cash;
+                    (B) any direct obligation of the United States 
+                Government, and any security or other obligation, the 
+                full principal and interest of which are insured or 
+                guaranteed by the full faith and credit of the United 
+                States Government;
+                    (C) any direct obligation of a United States 
+                Government corporation or Government-sponsored 
+                enterprise of the highest credit quality, and any other 
+                security or other obligation of the highest credit 
+                quality whose full principal and interest are insured 
+                or guaranteed by any such corporation or enterprise, 
+                except that the outstanding principal amount of these 
+                obligations in any cover pool may not exceed an amount 
+                equal to 20 percent of the outstanding principal amount 
+                of all assets in the cover pool without the approval of 
+                the covered bond regulator;
+                    (D) any overnight investment in Federal funds;
+                    (E) any other substitute asset, as determined by 
+                the covered bond regulator by rule and in consultation 
+                with the applicable primary financial regulatory 
+                agencies; and
+                    (F) any deposit account or securities account into 
+                which only an asset described in subparagraphs (A), 
+                (B), (C), (D), or (E) may be deposited or credited.
+
+SEC. 3. REGULATORY OVERSIGHT OF COVERED BOND PROGRAMS ESTABLISHED.
+
+    (a) Establishment.--
+            (1) In general.--Not later than 180 days after the date of 
+        the enactment of this Act, the covered bond regulator shall, by 
+        rule and in consultation with the applicable primary financial 
+        regulatory agencies, establish a covered bond regulatory 
+        oversight program that provides for--
+                    (A) covered bond programs to be evaluated according 
+                to reasonable and objective standards in order to be 
+                approved under paragraph (2), including eligibility 
+                standards for eligible assets;
+                    (B) covered bond programs to be maintained in a 
+                manner consistent with this Act and safe and sound 
+                financial practices; and
+                    (C) any estate created under section 4 to be 
+                administered in a manner that is consistent with 
+                maximizing the value and the proceeds of the related 
+                cover pool in a resolution under this Act.
+            (2) Approval of each covered bond program.--
+                    (A) In general.--A covered bond shall be subject to 
+                this Act only if the covered bond is issued by an 
+                eligible issuer under a covered bond program that is 
+                approved by the covered bond regulator.
+                    (B) Existing covered bond programs.--The covered 
+                bond regulator may approve a covered bond program that 
+                is in existence on the date of enactment of this Act. 
+                Upon such approval, each covered bond under the covered 
+                bond program shall be subject to this Act, regardless 
+                of when the covered bonds were issued.
+                    (C) Consultation with any primary regulator.--
+                Before approving any covered bond program of any 
+                eligible issuer, the covered bond regulator shall 
+                consult with the primary financial regulatory agency, 
+                if any, of the eligible issuer and shall confirm with 
+                such agency, if any, that the covered bond program is 
+                consistent with safe and sound financial practices.
+                    (D) Multiple covered bond programs permitted.--An 
+                eligible issuer may have more than 1 covered bond 
+                program.
+            (3) Registry.--Under the oversight program, the covered 
+        bond regulator shall maintain a registry on a Web site 
+        available to the public that contains--
+                    (A) the name of each approved covered bond program; 
+                and
+                    (B) information on all outstanding covered bonds 
+                issued under each approved covered bond program, 
+                (including the reports described under paragraphs (3) 
+                and (4) of subsection (b).
+            (4) Fees.--The covered bond regulator may levy fees on the 
+        issuers of covered bonds in an amount the covered bond 
+        regulator determines is necessary or appropriate to defray, in 
+        the aggregate, the costs of the covered bond regulator in 
+        carrying out the provisions of this Act.
+    (b) Minimum Over-Collateralization Requirements.--
+            (1) Requirements established.--
+                    (A) In general.--The covered bond regulator, from 
+                time to time, shall establish minimum over-
+                collateralization requirements for covered bonds backed 
+                by each of the eligible asset classes, which are 
+                designed to ensure that sufficient assets exist in the 
+                cover pool to satisfy all principal and interest due on 
+                the covered bonds and which are based on the credit, 
+                collection, and interest rate risks (excluding the 
+                liquidity risks) associated with the eligible asset 
+                class.
+                    (B) Reliance on other over-collateralization 
+                standards.--In establishing requirements under 
+                subparagraph (A), the covered bond regulator may rely 
+                on over-collateralization levels required for the same 
+                or similar asset classes by--
+                            (i) any Federal reserve bank when extending 
+                        credit to depository institutions under the 
+                        Federal Reserve Act (12 U.S.C. 221 et seq.);
+                            (ii) any Federal home loan bank when 
+                        extending credit to member institutions under 
+                        the Federal Home Loan Bank Act (12 U.S.C. 1421 
+                        et seq.); or
+                            (iii) any other comparable lenders in 
+                        substantially similar transactions.
+            (2) Asset coverage test.--The eligible assets and the 
+        substitute assets in each cover pool that secures covered bonds 
+        shall, in the aggregate, at all times, meet the applicable 
+        minimum over-collateralization requirements established under 
+        paragraph (1).
+            (3) Monthly reporting.--Every month, each issuer of covered 
+        bonds shall submit a report on whether the cover pool that 
+        secures the covered bonds meets the applicable minimum over-
+        collateralization requirements established under paragraph (1) 
+        to--
+                    (A) the primary financial regulatory agency of the 
+                issuer, if any;
+                    (B) the covered bond regulator; and
+                    (C) the applicable covered bondholders.
+            (4) Independent asset monitor.--
+                    (A) Appointment of independent asset monitor.--Each 
+                issuer of covered bonds shall appoint the indenture 
+                trustee for the covered bonds, or another unaffiliated 
+                entity, as an independent asset monitor for the 
+                applicable cover pool.
+                    (B) Duties.--The independent asset monitor 
+                appointed under subparagraph (A) shall, on a semiannual 
+                or other more frequent periodic basis determined by the 
+                covered bond regulator--
+                            (i) verify whether the cover pool that 
+                        secures the covered bonds meets the applicable 
+                        minimum over-collateralization requirements 
+                        established under paragraph (1); and
+                            (ii) disclose to the primary financial 
+                        regulatory agency of the issuer, if any, the 
+                        covered bond regulator, and the applicable 
+                        covered bond holders whether the cover pool 
+                        that secures the covered bonds meets the 
+                        applicable minimum over-collateralization 
+                        requirements established under paragraph (1).
+            (5) No loss of status.--Covered bonds shall remain subject 
+        to this Act regardless of whether the applicable cover pool 
+        ceases to meet the applicable minimum over-collateralization 
+        requirements established under paragraph (1) at any time after 
+        the covered bonds are issued.
+            (6) Failure to meet requirements.--If a cover pool securing 
+        covered bonds fails to meet the applicable minimum over-
+        collateralization requirements established under paragraph (1), 
+        and if such failure is not cured within the time specified in 
+        the transaction documents related to the covered bonds--
+                    (A) such failure shall be deemed to be an uncured 
+                default for purposes of section 4(a); and
+                    (B) the issuer shall notify the covered bond 
+                regulator of such failure.
+    (c) Requirements for Eligible Assets.--
+            (1) Loans.--A loan shall not qualify as an eligible asset 
+        for so long as the loan is delinquent for more than 60 
+        consecutive days.
+            (2) Securities.--A security shall not qualify as an 
+        eligible asset for so long as the security does not meet any 
+        credit-quality requirement under this Act.
+            (3) No double pledge.--An asset shall not qualify as an 
+        eligible asset for so long as the asset is subject to a prior 
+        perfected security interest that has been granted in an 
+        unrelated transaction. Nothing in this Act shall affect such a 
+        prior perfected security interest.
+            (4) Single eligible asset class.--No cover pool may include 
+        eligible assets from more than 1 eligible asset class.
+    (d) Other Requirements.--
+            (1) Books and records of issuer.--Each issuer of covered 
+        bonds shall clearly mark its books and records to identify the 
+        assets that comprise the cover pool that secures the covered 
+        bonds.
+            (2) Schedule of eligible assets and substitute assets.--
+        Each issuer of covered bonds shall deliver to the indenture 
+        trustee for the covered bonds, on at least a monthly basis, a 
+        schedule of all eligible assets and substitute assets in the 
+        cover pool that secures the covered bonds.
+
+SEC. 4. RESOLUTION UPON DEFAULT OR INSOLVENCY.
+
+    (a) Uncured Default.--In this section, the term ``uncured 
+default'', when used with respect to a covered bond, means a default on 
+the covered bond that has not been cured within the time, if any, 
+required by the transaction documents related to the covered bond.
+    (b) Default on Covered Bonds Prior to Conservatorship, 
+Receivership, Liquidation, or Bankruptcy.--
+            (1) Creation of separate estate.--If an uncured default 
+        occurs with respect to a covered bond before the issuer of such 
+        covered bond enters conservatorship, receivership, liquidation, 
+        or bankruptcy, an estate shall be automatically created by 
+        operation of law and shall exist and be administered separate 
+        and apart from the issuer or any subsequent conservatorship, 
+        receivership, liquidating agency, or estate in bankruptcy for 
+        the issuer or any other assets of the issuer. A separate estate 
+        shall be created for each affected covered bond program.
+            (2) Assets and liabilities of estate.--Any estate created 
+        under paragraph (1) shall be comprised of the cover pool that 
+        secures the covered bond, which shall be automatically released 
+        to and held by the estate free and clear of any right, title, 
+        interest, or claim of the issuer or any conservator, receiver, 
+        liquidating agent, or trustee in bankruptcy for the issuer or 
+        any other assets of the issuer. The estate created under 
+        paragraph (1) shall be fully liable on the covered bond and all 
+        other covered bonds and related obligations of the issuer 
+        (including obligations under related derivative transactions) 
+        that are secured by the cover pool. The estate shall not be 
+        liable on any obligation of the issuer that is not secured by 
+        the cover pool.
+            (3) Retention of claims.--Any holder of a covered bond or 
+        related obligation secured by a cover pool for which an estate 
+        has been created under paragraph (1) shall retain a claim 
+        against the issuer for any deficiency with respect to the 
+        covered bond or related obligation.
+            (4) Residual interest.--
+                    (A) Issuance of residual interest.--Upon the 
+                creation of an estate under paragraph (1), a residual 
+                interest in the estate shall be automatically issued by 
+                operation of law to the issuer.
+                    (B) Nature of residual interest.--The residual 
+                interest under subparagraph (A) shall--
+                            (i) be an exempted security as described in 
+                        section 5;
+                            (ii) represent the right to any surplus 
+                        from the cover pool after the covered bonds and 
+                        all other liabilities of the estate have been 
+                        paid in full; and
+                            (iii) be evidenced by a certificate 
+                        executed by the trustee of the estate.
+            (5) Obligation of issuer.--After the creation of an estate 
+        under paragraph (1), the issuer shall--
+                    (A) transfer to the covered bond regulator, or a 
+                designee of the covered bond regulator, all tangible or 
+                electronic books, records, files, and other documents 
+                or materials relating to the assets and liabilities of 
+                the estate; and
+                    (B) at the election of the covered bond regulator, 
+                continue servicing the cover pool for 120 days after 
+                the creation of the estate in return for a fair-market-
+                value fee, as determined by the covered bond regulator, 
+                that shall be payable from the estate as an 
+                administrative expense.
+    (c) Default on Covered Bonds Upon Conservatorship, Receivership, 
+Liquidation, or Bankruptcy.--
+            (1) Corporation conservatorship or receivership.--
+                    (A) In general.--If the Corporation is appointed as 
+                conservator or receiver for an issuer of covered bonds 
+                before an uncured default results in the creation of an 
+                estate under subsection (b), the Corporation as 
+                conservator or receiver shall have an exclusive right, 
+                during the 180-day period beginning on the date of the 
+                appointment, to transfer any cover pool owned by the 
+                issuer in its entirety, together with all covered bonds 
+                and related obligations secured by the cover pool, to 
+                another eligible issuer that meets all conditions and 
+                requirements specified in the transaction documents 
+                related to the covered bonds.
+                    (B) Obligations during 180-day period.--During the 
+                180-day period described in subparagraph (A), the 
+                Corporation as conservator or receiver shall satisfy 
+                all monetary and nonmonetary obligations of the issuer 
+                under the covered bonds and the related transaction 
+                documents until the earlier of--
+                            (i) the transfer of the covered bond 
+                        program to another eligible issuer;
+                            (ii) the repudiation of further performance 
+                        by the Corporation as conservator or receiver 
+                        under the covered bond program; or
+                            (iii) the failure of the Corporation as 
+                        conservator or receiver to timely cure a 
+                        default (other than the issuer's 
+                        conservatorship or receivership) under the 
+                        covered bond program.
+                    (C) Assumption by transferee.--If the Corporation 
+                as conservator or receiver effects a transfer described 
+                in subparagraph (A) within the 180-day period described 
+                in subparagraph (A), the transferee shall take 
+                ownership of the cover pool and shall become fully 
+                liable on all covered bonds and related obligations of 
+                the issuer that are secured by the cover pool.
+            (2) Other circumstances.--An estate shall be automatically 
+        created by operation of law and shall exist and be administered 
+        separate and apart from an issuer of covered bonds and the 
+        conservatorship, receivership, liquidating agency, or estate in 
+        bankruptcy for the issuer or any other assets of the issuer, 
+        if--
+                    (A) a conservator, receiver, liquidating agent, or 
+                trustee in bankruptcy, other than the Corporation, is 
+                appointed for the issuer before an uncured default 
+                results in the creation of an estate under subsection 
+                (b); or
+                    (B) in the case of the appointment of the 
+                Corporation as conservator or receiver as described in 
+                paragraph (1)(A), the Corporation as conservator or 
+                receiver--
+                            (i) does not complete the transfer of the 
+                        related covered bond program to another 
+                        eligible issuer within the 180-period described 
+                        in paragraph (1)(A);
+                            (ii) repudiates the Corporation's further 
+                        performance under the related covered bond 
+                        program; or
+                            (iii) fails to timely cure a default (other 
+                        than the issuer's conservatorship or 
+                        receivership) under the related covered bond 
+                        program.
+                A separate estate shall be created for each affected 
+                covered bond program.
+            (3) Assets and liabilities of estate.--Any estate created 
+        under paragraph (2) shall be comprised of the cover pool that 
+        secures the covered bonds, which shall be automatically 
+        released to and held by the estate free and clear of any right, 
+        title, interest, or claim of the issuer or any conservator, 
+        receiver, liquidating agent, or trustee in bankruptcy for the 
+        issuer or any other assets of the issuer. The estate created 
+        under paragraph (2) shall be fully liable on the covered bonds 
+        and all other covered bonds and related obligations of the 
+        issuer (including obligations under related derivative 
+        transactions) that are secured by the cover pool. The estate 
+        shall not be liable on any obligation of the issuer that is not 
+        secured by the cover pool.
+            (4) Contingent claim.--Any contingent claim for a 
+        deficiency with respect to a covered bond or related obligation 
+        for which an estate has been created under paragraph (2) shall 
+        be estimated by the conservator, receiver, liquidating agent, 
+        or bankruptcy court for purposes of allowing the claim as a 
+        provable claim if awaiting the fixing of that contingent claim 
+        would unduly delay the resolution of the conservatorship, 
+        receivership, liquidating agency, or bankruptcy case.
+            (5) Residual interest.--
+                    (A) Issuance of residual interest.--Upon the 
+                creation of an estate under paragraph (2), and 
+                regardless of whether any contingent claim described in 
+                paragraph (4) becomes fixed or is estimated, a residual 
+                interest in the estate shall be automatically issued by 
+                operation of law to the conservator, receiver, 
+                liquidating agent, or trustee in bankruptcy for the 
+                issuer.
+                    (B) Nature of residual interest.--The residual 
+                interest under subparagraph (A) shall--
+                            (i) be an exempted security as described in 
+                        section 5;
+                            (ii) represent the right to any surplus 
+                        from the cover pool after the covered bonds and 
+                        all other liabilities of the estate have been 
+                        paid in full; and
+                            (iii) be evidenced by a certificate 
+                        executed by the trustee of the estate.
+            (6) Obligation of issuer.--After the creation of an estate 
+        under paragraph (2), the issuer and its conservator, receiver, 
+        liquidating agent, or trustee in bankruptcy shall--
+                    (A) transfer to the covered bond regulator, or a 
+                designee of the covered bond regulator, all tangible or 
+                electronic books, records, files, and other documents 
+                or materials relating to the assets and liabilities of 
+                the estate; and
+                    (B) at the election of the covered bond regulator 
+                (but subject to and not withstanding any right of 
+                repudiation or rejection held by the conservator, 
+                receiver, liquidating agent, or trustee in bankruptcy), 
+                continue servicing the cover pool for 120 days after 
+                the creation of the estate in return for a fair-market-
+                value fee, as determined by the covered bond regulator, 
+                that shall be payable from the estate as an 
+                administrative expense.
+    (d) Administration and Resolution of Estates.--
+            (1) Trustee, servicer, and administrator.--
+                    (A) In general.--The covered bond regulator shall--
+                            (i) act as or appoint the trustee of any 
+                        estate created under subsection (b)(1) or 
+                        (c)(2); and
+                            (ii) appoint 1 or more servicers or 
+                        administrators for the cover pool held by the 
+                        estate.
+                    (B) Powers and duties of servicer or 
+                administrator.--Any servicer or administrator appointed 
+                for an estate--
+                            (i) shall--
+                                    (I) collect, realize on (by 
+                                liquidation or other means), and 
+                                otherwise manage the cover pool held by 
+                                the estate; and
+                                    (II) invest and use the proceeds 
+                                and funds received to make all 
+                                remaining interest and principal 
+                                payments on the applicable covered 
+                                bonds according to their terms (or, if 
+                                an acceleration or similar event occurs 
+                                under the related transaction 
+                                documents, at the times specified in 
+                                the transaction documents) and to 
+                                satisfy any other liabilities of the 
+                                estate; and
+                            (ii) may borrow or otherwise procure funds 
+                        for the benefit of the estate on a secured or 
+                        unsecured basis and on a priority, pari passu, 
+                        or subordinated basis.
+                    (C) Supervision of servicer or administrator by the 
+                covered bond regulator.--
+                            (i) In general.--The covered bond regulator 
+                        shall supervise any servicer or administrator 
+                        that is appointed for an estate created under 
+                        subsection (b)(1) or (c)(2).
+                            (ii) Removal and replacement.--If the 
+                        covered bond regulator determines that it is in 
+                        the best interests of an estate, the covered 
+                        bond regulator may remove or replace any 
+                        servicer or administrator for the estate.
+                            (iii) Reports.--Each servicer or 
+                        administrator for an estate shall, at such 
+                        times and in such manner as the covered bond 
+                        regulator shall require, submit to the covered 
+                        bond regulator, the owner of the residual 
+                        interest, and any other person designated by 
+                        the covered bond regulator, reports that 
+                        describe the activities of the servicer or 
+                        administrator on behalf of the estate and the 
+                        performance of the cover pool held by the 
+                        estate.
+                            (iv) Fees and expenses.--All fees and 
+                        expenses of a servicer or administrator for an 
+                        estate shall be approved by the covered bond 
+                        regulator and shall be paid from the estate as 
+                        an administrative expense.
+                    (D) Judicial or administrative actions.--Any 
+                servicer or administrator appointed for an estate may 
+                commence or continue judicial or administrative 
+                actions, in its own name on behalf of the estate, for 
+                the purpose of collecting, realizing on, or otherwise 
+                managing the cover pool held by the estate or 
+                exercising its other powers or duties on behalf of the 
+                estate. No covered bondholder, indenture trustee, or 
+                other person to whom an estate is or is alleged to be 
+                liable may commence or continue any judicial or 
+                administrative action against the estate, the trustee, 
+                or any servicer or administrator, except for an action 
+                to compel the release of funds that are available to 
+                the estate, that are permitted to be distributed under 
+                this Act and regulations promulgated by the covered 
+                bond regulator, and that are permitted and required to 
+                be distributed under the related transaction documents 
+                and any contracts executed by or on behalf of the 
+                estate after its creation under this Act. No court may 
+                issue an attachment or execution on the assets of an 
+                estate. Except at the request of the covered bond 
+                regulator or as otherwise provided in this 
+                subparagraph, no court may take any action to restrain 
+                or affect the resolution of an estate under this Act. 
+                The covered bond regulator shall be entitled to 
+                sovereign immunity in carrying out the provisions of 
+                this Act.
+                    (E) Closing of estate.--After an estate has been 
+                fully administered, the covered bond regulator shall 
+                close the estate and, to the extent determined 
+                appropriate by the covered bond regulator, may retain 
+                or destroy records of the estate.
+            (2) Study on liquidity advances.--The Board of Governors 
+        shall conduct a study on whether Federal reserve banks should 
+        be empowered to make advances to an estate created under 
+        subsection (b)(1) or (c)(2) solely for the purpose of providing 
+        liquidity in the case of timing mismatches among the assets and 
+        the liabilities of the estate. The Board of Governors shall 
+        submit a report to the Committee on Banking, Housing, and Urban 
+        Affairs of the Senate and the Committee on Financial Services 
+        of the House of Representatives on the results of such study 
+        not later than 180 days after the date of enactment of this 
+        Act.
+
+SEC. 5. SECURITIES LAW PROVISIONS.
+
+    (a) Covered Bonds Issued or Guaranteed by Banks.--Any covered bond 
+issued or guaranteed by a bank is a security issued or guaranteed by a 
+bank under Section 3(a)(2) of the Securities Act of 1933, Section 
+3(c)(3) of the Investment Company Act of 1940, and Section 304(a)(4)(A) 
+of the Trust Indenture Act of 1939. No covered bond issued or 
+guaranteed by a bank is an asset-backed security, as defined in section 
+3 of the Securities and Exchange Act of 1934 (15 U.S.C. 78c).
+    (b) Exemptions for Estates and Residual Interests.--Any estate that 
+is or may be created under subsection (b) or (c) of section 4 shall be 
+exempt from all securities laws but shall be subject to the reporting 
+requirements established by the covered bond regulator under subsection 
+(d)(1)(C)(iii) of section 4 and shall succeed to any requirement of the 
+issuer to file such periodic information, documents, and reports in 
+respect of the covered bonds as specified in section 13(a) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78m(a)) and any other rule 
+established by Federal Government banking agencies. Any residual 
+interest in an estate that is or may be created under subsection (b) or 
+(c) of section 4 shall be exempt from all securities laws.
+
+SEC. 6. MISCELLANEOUS PROVISIONS.
+
+    (a) Domestic Securities.--Section 106(a)(1) of the Secondary 
+Mortgage Market Enhancement Act of 1984 (15 U.S.C. 77r-1(a)(1)) is 
+amended--
+            (1) in subparagraph (C), by striking ``or'' at the end;
+            (2) in subparagraph (D), by adding ``or'' at the end; and
+            (3) by inserting after subparagraph (D) the following:
+                    ``(E) covered bonds (as defined under section 2(3) 
+                of the United States Covered Bond Act of 2010),''.
+    (b) No Conflict.--The provisions of this Act shall apply, 
+notwithstanding any provision of the Federal Deposit Insurance Act (12 
+U.S.C. 1811 et seq.), title 11, United States Code, or any other 
+provision of Federal law with respect to conservatorship, receivership, 
+liquidation, or bankruptcy. No provision of the Federal Deposit 
+Insurance Act (12 U.S.C. 1811 et seq.), title 11, United States Code, 
+or any other provision of Federal law with respect to conservatorship, 
+receivership, liquidation, or bankruptcy may be construed or applied in 
+a manner that defeats or interferes with the purpose or operation of 
+this Act.
+                                 <all>
+

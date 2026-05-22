@@ -1,0 +1,581 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5792 Introduced in House (IH)]
+
+
+
+
+
+
+
+110th CONGRESS
+  2d Session
+                                H. R. 5792
+
+To amend the Liability Risk Retention Act of 1986 to increase insurance 
+           competition and available coverage for consumers.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 15, 2008
+
+ Mr. Moore of Kansas (for himself, Ms. Pryce of Ohio, Mr. Campbell of 
+ California, and Mr. Klein of Florida) introduced the following bill; 
+       which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Liability Risk Retention Act of 1986 to increase insurance 
+           competition and available coverage for consumers.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Increasing Insurance Coverage 
+Options for Consumers Act of 2008''.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) The establishment of risk retention groups and risk 
+        purchasing groups have provided a successful model for the sale 
+        of insurance across State lines, reducing costs, providing 
+        alternative mechanisms for coverage to increase competitive 
+        options for consumers, and promoting greater premium 
+        competition among insurers, especially in areas or for risks 
+        where coverage is very limited and relatively unaffordable.
+            (2) There have been abuses of the Liability Risk Retention 
+        Act of 1986 (15 U.S.C. 3901 et seq.) and increasing concerns by 
+        legislators and regulators about the solvency and policyholder 
+        control of management in many of the more recently formed risk 
+        retention groups.
+            (3) There have also been inappropriate efforts by certain 
+        States to regulate, directly or indirectly, risk retention 
+        groups or risk purchasing groups in an extra-territorial manner 
+        precluded by section 3 and 4 of the Liability Risk Retention 
+        Act of 1986 (15 U.S.C. 3902 and 3903).
+            (4) The Liability Risk Retention Act of 1986 should be 
+        strengthened by--
+                    (A) requiring uniform corporate governance, 
+                disclosure, and financial accounting standards;
+                    (B) clarifying and strengthening required 
+                compliance with certain State consumer protection laws;
+                    (C) allowing risk retention groups under the new 
+                standards to provide certain commercial property 
+                insurance coverage;
+                    (D) allowing risk purchasing groups to contract 
+                more broadly for commercial property coverage as well 
+                as coverage for all forms of liability insurance; and
+                    (E) reinforcing a foundation of the Act that 
+                exempts risk retention groups and risk purchasing 
+                groups from laws of a State other than their chartering 
+                State, except as specifically provided in the Act (15 
+                U.S.C. 3901 et seq.).
+            (5) Fixing and expanding the Liability Risk Retention Act 
+        of 1986 will reduce solvency exposure and management abuses of 
+        risk retention groups while providing more available 
+        competitive insurance coverage for consumers.
+
+SEC. 3. EXPANSION OF THE LIABILITY RISK RETENTION ACT OF 1986 TO 
+              INCLUDE PROPERTY INSURANCE.
+
+    The Liability Risk Retention Act of 1986 (15 U.S.C. 3901 et seq.) 
+is amended--
+            (1) in section 2 (15 U.S.C. 3901)--
+                    (A) in subsection (a)--
+                            (i) in paragraph (4)--
+                                    (I) in subparagraph (C)(i) by 
+                                striking ``a liability'' and inserting 
+                                ``an''; and
+                                    (II) in subparagraph (G)(i), by 
+                                inserting ``or commercial property'' 
+                                after ``liability'';
+                            (ii) in paragraph (5)(A), by inserting ``or 
+                        commercial property'' after ``liability'';
+                            (iii) in paragraph (6), by striking ``and'' 
+                        at the end;
+                            (iv) in paragraph (7), by striking the 
+                        final period and inserting ``; and''; and
+                            (v) by adding at the end the following new 
+                        paragraph:
+            ``(8) `commercial property insurance' means commercial 
+        lines of real or personal property insurance, including, with 
+        regard to excess insurance, insurance against loss or damage 
+        from any and all hazard or cause and against loss consequential 
+        upon such loss or damage, including business interruption 
+        insurance, other than non-contractual legal liability for such 
+        loss or damage.''; and
+                    (B) in subsection (b), by inserting ``, commercial 
+                property'' after ``of liability'';
+            (2) in section 3 (15 U.S.C. 3902)--
+                    (A) in subsection (a)(1)(C), by inserting ``or 
+                commercial property'' after ``liability'';
+                    (B) in subsection (b), by inserting ``or commercial 
+                property'' after ``liability'' each place it appears; 
+                and
+                    (C) in subsection (d)(1)(B), by inserting ``or 
+                commercial property'' after ``liability''; and
+            (3) in section 6(b) (15 U.S.C. 3905(b)), by inserting ``or 
+        commercial property'' after ``liability'' each place it 
+        appears.
+
+SEC. 4. EXPANSION OF PURCHASING GROUPS TO INCLUDE COMMERCIAL PROPERTY 
+              INSURANCE.
+
+    Section 4 of the Liability Risk Retention Act of 1986 (15 U.S.C. 
+3903) is amended--
+            (1) in subsection (b)--
+                    (A) in paragraph (1), by inserting ``or commercial 
+                property'' after ``liability''; and
+                    (B) in paragraph (2)--
+                            (i) by redesignating subparagraphs (B) and 
+                        (C) as subparagraphs (C) and (D), respectively; 
+                        and
+                            (ii) by inserting after subparagraph (A) 
+                        the following new subparagraph:
+                    ``(B) commercial property insurance;''; and
+            (2) in subsection (d)(1)(B), by inserting ``and commercial 
+        property'' after ``liability''.
+
+SEC. 5. CORPORATE GOVERNANCE AND FINANCIAL ACCREDITATION STANDARDS.
+
+    (a) Risk Retention Group Definition.--Section 2(a) of the Liability 
+Risk Retention Act of 1986 (15 U.S.C. 3901(a)) is amended--
+            (1) in paragraph (4)--
+                    (A) in subparagraph (C), by striking clauses (i) 
+                and (ii) and inserting the following:
+                            ``(i) is chartered or licensed as an 
+                        insurance company and authorized to engage in 
+                        the business of insurance under the laws of a 
+                        State with respect to providing liability or 
+                        commercial property insurance as a risk 
+                        retention group; or
+                            ``(ii) met the definition of a risk 
+                        retention group as defined in this paragraph on 
+                        the day before the effective date of the 
+                        Increasing Insurance Coverage Options for 
+                        Consumers Act of 2007.'';
+                    (B) in subparagraph (G)(ii), by striking ``; and'' 
+                and inserting ``;'';
+                    (C) in subparagraph (H), by striking the period and 
+                inserting a semicolon; and
+                    (D) by adding at the end the following new 
+                subparagraphs:
+                    ``(I) which--
+                            ``(i) in the case of a corporation or other 
+                        limited liability association other than a 
+                        corporation or association referred to in 
+                        subparagraph (C)(ii), is licensed or chartered 
+                        in a State that has adopted corporate 
+                        governance standards that apply to risk 
+                        retention groups licensed or authorized by the 
+                        State that are materially identical to--
+                                    ``(I) the corporate governance 
+                                standards described in section 8; or
+                                    ``(II) similar standards relating 
+                                to corporate governance that apply to 
+                                risk retention groups that a State 
+                                reasonably determines provide at least 
+                                as much protection as the standards 
+                                referred to in subclause (I) for the 
+                                members of such group chartered in the 
+                                State; and
+                            ``(ii) in the case of a corporation or 
+                        other limited liability association referred to 
+                        in subparagraph (C)(ii), has implemented the 
+                        requirements of the corporate governance 
+                        standards described in paragraphs (1) through 
+                        (7) of section 8 or similar standards referred 
+                        to clause (i)(II);
+                    ``(J) which, prior to providing coverage for 
+                commercial property insurance, is licensed or chartered 
+                in a State that has adopted requirements, as 
+                appropriate, for examination authority, audits by 
+                certified public accountants, accounting practices and 
+                procedures, filings with the National Association of 
+                Insurance Commissioners, valuation of investments, 
+                safety and liquidity of investments, liabilities and 
+                reserves, actuarial opinions, capital and surplus, 
+                corrective actions, holding company systems, risk 
+                limitations, and reinsurance ceded rules; and
+                    ``(K) which, prior to providing coverage for 
+                commercial property insurance, is licensed or chartered 
+                in a State that has adopted minimum requirements for 
+                safety and soundness, including requirements that--
+                            ``(i) prohibit groups from underwriting any 
+                        single risk exposure, such as wind losses in a 
+                        coastal region or earthquake coverage on a 
+                        single fault, that could unduly impair the 
+                        group's capital, similar to such requirements 
+                        for other insurance companies or for risk 
+                        retention groups in other States;
+                            ``(ii) establish minimum standards for size 
+                        or sophistication of risk retention group 
+                        members; and
+                            ``(iii) establish solvency requirements for 
+                        risk retention groups.'';
+            (2) in paragraph (6), by striking ``; and'' and inserting 
+        ``;'';
+            (3) in paragraph (7), by striking the period and inserting 
+        ``; and''; and
+            (4) by adding at the end the following new paragraph:
+            ``(8) `materially identical' means requiring or prohibiting 
+        identical conduct with respect to corporate governance by risk 
+        retention groups, notwithstanding that the standards adopted by 
+        a State may differ with respect to conduct required or 
+        prohibited with respect to other activities or entities.''.
+    (b) Codification of Standards.--The Liability Risk Retention Act of 
+1986 (15 U.S.C. 3901 et seq.) is amended by adding at the end the 
+following new section:
+
+                    ``corporate governance standards
+
+    ``Sec. 8.  Corporate governance standards described in this section 
+are standards that require the following:
+            ``(1) Independent directors.--
+                    ``(A) In general.--The board of directors of the 
+                risk retention group shall have a majority of 
+                independent directors. If the risk retention group is a 
+                reciprocal, then the attorney-in-fact would be required 
+                to adhere to the same standards regarding independence 
+                of operation and governance as imposed on the risk 
+                retention group's board of directors or subscribers 
+                advisory committee under these standards and, to the 
+                extent permissible under State law, service providers 
+                of a reciprocal risk retention group should contract 
+                with the risk retention group and not the attorney-in-
+                fact.
+                    ``(B) Independence.--No director qualifies as 
+                independent unless the board of directors affirmatively 
+                determines that the director has no material 
+                relationship with the risk retention group. Each risk 
+                retention group shall disclose these determinations to 
+                its domestic regulator, at least annually. For this 
+                purpose--
+                            ``(i) any person that is a direct or 
+                        indirect owner of, or subscriber in, a risk 
+                        retention group defined in section 
+                        2(a)(4)(E)(ii) is considered to be independent; 
+                        and
+                            ``(ii) any person that is an officer, 
+                        director, or employee of a person described in 
+                        clause (i) is considered to be independent, 
+                        unless some other position of such officer, 
+                        director, or employee constitutes a material 
+                        relationship.
+                    ``(C) Material relationship.--A material 
+                relationship between a person and a risk retention 
+                group includes the following:
+                            ``(i) The receipt in any one 12-month 
+                        period of compensation or payment of any other 
+                        item of value by such person, a member of such 
+                        person's immediate family, or any business with 
+                        which such person is affiliated from the risk 
+                        retention group or a consultant or service 
+                        provider to the risk retention group is greater 
+                        than or equal to five percent of the risk 
+                        retention group's gross written premium for 
+                        such 12-month period or two percent of its 
+                        surplus, whichever is greater, as measured at 
+                        the end of any fiscal quarter falling in such a 
+                        12-month period. Such person or immediate 
+                        family member of such person is not independent 
+                        until one year after such person's compensation 
+                        from the risk retention group falls below the 
+                        threshold.
+                            ``(ii) A relationship with an auditor as 
+                        follows: a director or an immediate family 
+                        member of a director who is affiliated with or 
+                        employed in a professional capacity by a 
+                        present or former internal or external auditor 
+                        of the risk retention group is not independent 
+                        until one year after the end of the 
+                        affiliation, employment, or auditing 
+                        relationship.
+                            ``(iii) A relationship with a related 
+                        entity as follows: a director or immediate 
+                        family member of a director who is employed as 
+                        an executive officer of another company where 
+                        any of the risk retention group's present 
+                        executives serve on that risk retention group's 
+                        board of directors is not independent until one 
+                        year after the end of such service or the 
+                        employment relationship.
+            ``(2) Service provider contracts.--
+                    ``(A) In general.--The term of any material service 
+                provider contract with the risk retention group shall 
+                not exceed five years. Any such contract, or its 
+                renewal, shall require the approval of the majority of 
+                the risk retention group's independent directors. The 
+                risk retention group's board of directors or its 
+                insured owners shall have the right to terminate any 
+                service provider, audit, or actuarial contracts at any 
+                time for cause after providing adequate notice as 
+                defined in the contract. The service provider contract 
+                is deemed material if the amount to be paid for such 
+                contract is greater than or equal to five percent of 
+                the risk retention group's annual gross written premium 
+                or two percent of its surplus, whichever is greater.
+                    ``(B) Service providers.--For purposes of 
+                subparagraph (A), service providers includes captive 
+                managers, auditors, accountants, actuaries, investment 
+                advisors, lawyers, managing general underwriters, or 
+                other party responsible for underwriting, determination 
+                of rates, collection of premium, adjusting and settling 
+                claims, or the preparation of financial statements. In 
+                this subparagraph, the term `lawyer' does not include 
+                defense counsel retained by the risk retention group to 
+                defend claims, unless the amount of fees paid to such 
+                lawyer is greater than or equal to five percent of the 
+                risk retention group's gross written premium for such 
+                12-month period or two percent of its surplus, 
+                whichever is greater, as measured at the end of any 
+                fiscal quarter falling in such a 12-month period.
+                    ``(C) Prior approval.--Any contract with a service 
+                provider that has a material relationship with the risk 
+                retention group shall be submitted for prior approval 
+                by the domestic regulator at least 30 days prior to the 
+                effective date. No service provider contract involving 
+                a material relationship referred to in paragraph (1)(C) 
+                shall be entered into unless the risk retention group 
+                has notified the Commissioner in writing of its 
+                intention to enter into such transaction at least 30 
+                days prior thereto and the Commissioner has not 
+                disapproved it within such period.
+            ``(3) Written charter.--The risk retention group's board of 
+        directors shall have a written policy in the Bylaws that 
+        requires the board to--
+                    ``(A) assure that all insured owners of the risk 
+                retention group receive evidence of ownership interest;
+                    ``(B) develop a set of governance standards 
+                applicable to the risk retention group;
+                    ``(C) oversee the evaluation of the risk retention 
+                group's management;
+                    ``(D) review and approve all material service 
+                provider contracts;
+                    ``(E) approve the compensation for all service 
+                providers; and
+                    ``(F) review and approve, at least annually--
+                            ``(i) the risk retention group's goals and 
+                        objectives relevant to the compensation of 
+                        officers and service providers;
+                            ``(ii) the officers' and service providers' 
+                        performance in light of those goals and 
+                        objectives; and
+                            ``(iii) the continued engagement of the 
+                        officers and material service providers.
+            ``(4) Audit committee.--
+                    ``(A) In general.--The risk retention group shall 
+                have an audit committee composed of at least three 
+                independent board members as described in paragraph 
+                (1). A non-independent board member may participate in 
+                the activities of the audit committee, if invited by 
+                the members, but cannot be a member of such committee.
+                    ``(B) Written charter.--The audit committee shall 
+                have a written charter that defines the committee's 
+                purpose, which, at a minimum, must be to--
+                            ``(i) assist board oversight of (1) the 
+                        integrity of the financial statements, (2) the 
+                        compliance with legal and regulatory 
+                        requirements, (3) the qualifications, 
+                        independence, and performance of the 
+                        independent auditor and actuary, and (4) the 
+                        performance of the captive manager, managing 
+                        general underwriter, or other party or parties 
+                        responsible for underwriting, determination of 
+                        rates, collection of premium, adjusting or 
+                        settling claims or the preparation of financial 
+                        statements;
+                            ``(ii) discuss the annual audited financial 
+                        statements and quarterly financial statements 
+                        with management;
+                            ``(iii) discuss the annual audited 
+                        financial statements with its independent 
+                        auditor and, if advisable, discuss its 
+                        quarterly financial statements with its 
+                        independent auditor;
+                            ``(iv) discuss policies with respect to 
+                        risk assessment and risk management;
+                            ``(v) meet separately and periodically, 
+                        either directly or through a designated 
+                        representative of the committee, with 
+                        management and independent auditors;
+                            ``(vi) review with the independent auditor 
+                        any audit problems or difficulties and 
+                        management's response;
+                            ``(vii) set clear hiring policies of the 
+                        risk retention group for employees or former 
+                        employees of the independent auditor;
+                            ``(viii) require the external auditor to 
+                        rotate the lead (or coordinating) audit partner 
+                        having primary responsibility for the risk 
+                        retention group's audit and the audit partner 
+                        responsible for reviewing that audit so that 
+                        neither individual performs audit services for 
+                        more than five consecutive fiscal years; and
+                            ``(ix) report regularly to the board of 
+                        directors.
+                    ``(C) Waiver.--The domestic regulator may waive the 
+                requirement to establish an audit committee composed of 
+                independent directors if the risk retention group is 
+                able to demonstrate to the domestic regulator that it 
+                is impracticable to do so and the risk retention 
+                group's board of directors itself is otherwise able to 
+                accomplish the purposes of an audit committee, as 
+                described in subparagraph (B).
+            ``(5) Governance standards.--The risk retention group shall 
+        adopt and disclose governance standards that include--
+                    ``(A) a process by which the directors are elected 
+                by the insured owners;
+                    ``(B) director qualification standards;
+                    ``(C) director responsibilities;
+                    ``(D) director access to management and, as 
+                necessary and appropriate, independent advisors;
+                    ``(E) director compensation;
+                    ``(F) director orientation and continuing 
+                education;
+                    ``(G) management succession; and
+                    ``(H) annual performance evaluation of the board.
+            ``(6) Business conduct and ethics.--The risk retention 
+        group shall adopt and disclose a code of business conduct and 
+        ethics for directors, officers, and employees and promptly 
+        disclose to the board of directors any waivers of the code for 
+        directors or executive officers, which shall include--
+                    ``(A) conflicts of interest;
+                    ``(B) corporate opportunities;
+                    ``(C) confidentiality;
+                    ``(D) fair dealing;
+                    ``(E) protection and proper use of risk retention 
+                group assets;
+                    ``(F) compliance with all applicable laws, rules, 
+                and regulations; and
+                    ``(G) requiring the reporting of any illegal or 
+                unethical behavior that affects the operation of the 
+                risk retention group.
+            ``(7) Reporting non-compliance.--The captive manager or 
+        chief executive officer of the risk retention group shall 
+        promptly notify the domestic regulator in writing if either 
+        becomes aware of any material non-compliance with any of the 
+        risk retention group's governance standards.
+            ``(8) Enforcement.--The risk retention group's domestic 
+        regulator may take appropriate regulatory action against any 
+        director or officer of the risk retention group or its captive 
+        manager pursuant to its laws and regulations if the risk 
+        retention group or captive manager violates these governance 
+        standards.''.
+
+SEC. 6. NO PARTICIPATION IN STATE GUARANTY FUNDS.
+
+    Section 3 of the Liability Risk Retention Act of 1986 (15 U.S.C. 
+3902) is amended by adding at the end the following new subsection:
+    ``(i) Notwithstanding any other provision of this section, a risk 
+retention group may not participate in an insurance insolvency guaranty 
+association that includes participants other than risk retention 
+groups.''.
+
+SEC. 7. FINANCIAL STATEMENTS.
+
+    Section 3 of the Liability Risk Retention Act of 1986 (15 U.S.C. 
+3902) is further amended in subsection (d)(3)--
+            (1) by redesignating subparagraphs (A) and (B) as clauses 
+        (i) and (ii), respectively, and moving the margins two ems to 
+        the right;
+            (2) by striking ``which statement shall be certified'' and 
+        inserting ``which statement shall--
+                    ``(A) be certified'';
+            (3) in subparagraph (A)(2) (as designated by paragraphs (1) 
+        and (2)), by striking the period and inserting a semicolon; and
+            (4) by adding at the end the following new subparagraphs:
+                    ``(B) be filed not later than the earlier of--
+                            ``(i) June 1, for the preceding calendar 
+                        year; and
+                            ``(ii) such time as the State in which the 
+                        risk retention group is chartered requires; and
+                    ``(C) if not prepared in conformity with statutory 
+                accounting principles, include appropriate notes for 
+                conversion of such statement to statutory accounting 
+                principles.''.
+
+SEC. 8. DISCLOSURE REQUIREMENTS.
+
+    Section 3 of the Liability Risk Retention Act of 1986 (15 U.S.C. 
+3902) is further amended--
+            (1) in subsection (a)(1)--
+                    (A) in subparagraph (G), by striking 
+                ``jurisdiction;'' and inserting ``jurisdiction; and'';
+                    (B) in subparagraph (H), by striking ``impaired; 
+                and'' and inserting ``impaired.''; and
+                    (C) by striking subparagraph (I); and
+            (2) by adding at the end the following new subsection:
+    ``(j) Each risk retention group shall provide to each member of 
+such group, on the front page and the declaration page of each 
+insurance policy issued by such group, in bold 12-point or larger type, 
+the following notice: `This policy is issued by your risk retention 
+group of which you are a part owner. Your risk retention group is 
+primarily regulated under the laws of ____ and may not be subject to 
+all of the insurance laws and consumer protections of your State. If 
+your risk retention group fails, it may not be protected by a State 
+insurance insolvency guaranty fund.'. The risk retention group shall 
+insert the name of the State in which the risk retention group is 
+chartered or licensed in place of the blank space.''.
+
+SEC. 9. FIDUCIARY DUTY.
+
+    Section 3 of the Liability Risk Retention Act of 1986 (15 U.S.C. 
+3902) is further amended by adding at the end the following new 
+subsection:
+    ``(k) The board of directors of a risk retention group shall have a 
+fiduciary duty to operate in the best interests of the group.''.
+
+SEC. 10. UNDERSCORING THE EXEMPTION.
+
+    The Liability Risk Retention Act of 1986 (15 U.S.C. 3901 et seq.) 
+is amended--
+            (1) in section 3 (15 U.S.C. 3902)--
+                    (A) in subsection (a), by striking ``Except as 
+                provided'' and inserting ``Except as specifically 
+                provided''; and
+                    (B) in subsection (f)(1)--
+                            (i) by inserting ``or purchasing group'' 
+                        after ``risk retention group''; and
+                            (ii) by inserting before the period ``, 
+                        except that a State may not issue a cease-and-
+                        desist order to any risk retention group or 
+                        purchasing group not chartered or licensed in 
+                        such State, or otherwise attempt to regulate 
+                        such group directly or indirectly, except as 
+                        specifically permitted under this Act.''; and
+            (2) in section 4(a) (15 U.S.C. 3903(a)), by striking 
+        ``Except as provided'' and inserting ``Except as specifically 
+        provided''.
+
+SEC. 11. TECHNICAL CORRECTION AND AMENDMENT TO SHORT TITLE.
+
+    (a) Technical Correction.--Section 3(a)(1) of the Liability Risk 
+Retention Act of 1986 (15 U.S.C. 3902(a)(1)) is amended by striking 
+``many''and inserting ``any''.
+    (b) Short Title.--Section 1 of the Liability Risk Retention Act of 
+1986 (15 U.S.C. 3901 note) is amended by striking ``Liability Risk 
+Retention Act'' and inserting ``Risk Retention Act''.
+
+SEC. 12. DELAYED EFFECTIVE DATE.
+
+    (a) In General.--Subject to subsection (b), this Act and the 
+amendments made by this Act shall take effect on the date of the 
+enactment of this Act.
+    (b) Exception.--Notwithstanding subsection (a), sections 3 (except 
+clauses (iii) through (v) of paragraph (1)(A) of section 3), 5, 7, 8, 
+and 9 shall take effect on the date that is 18 months after the date of 
+the enactment of this Act.
+                                 <all>
+

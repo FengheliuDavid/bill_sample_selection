@@ -1,0 +1,523 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5127 Introduced in House (IH)]
+
+111th CONGRESS
+  2d Session
+                                H. R. 5127
+
+    To amend title 31, United States Code, to establish a reporting 
+   requirement for any stored value device carried out of, into, or 
+ through the United States, to establish registration requirements for 
+             stored value programs, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 22, 2010
+
+  Ms. Giffords (for herself and Mr. Bilbray) introduced the following 
+    bill; which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend title 31, United States Code, to establish a reporting 
+   requirement for any stored value device carried out of, into, or 
+ through the United States, to establish registration requirements for 
+             stored value programs, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Stored Value Device Registration and 
+Reporting Act of 2010''.
+
+SEC. 2. DEFINITIONS.
+
+    (a) Definition of Financial Institution.--Paragraph (2) of section 
+5312(a) of title 31, United States Code is amended--
+            (1) by redesignating subparagraphs (Y) and (Z) as 
+        subparagraphs (Z) and (AA), respectively; and
+            (2) by inserting after subparagraph (X) the following new 
+        subparagraph:
+                    ``(Y) a person engaged in the business of providing 
+                stored value services, including a stored value system 
+                operator, an issuer of stored value, a seller of stored 
+                value, and a redeemer of stored value;''.
+    (b) Stored Value, Stored Value System Operator, and Device 
+Defined.--Subsection (a) of section 5312 of title 31, United States 
+Code, is amended by adding at the end the following new paragraphs:
+            ``(7) Stored value.--The term `stored value' means funds or 
+        monetary value represented in digital electronics format 
+        (whether or not specially encrypted) and stored or capable of 
+        storage on electronic media in such a way as to be retrievable 
+        and transferable electronically.
+            ``(8) Stored value system operator.--
+                    ``(A) In general.--The term `stored value system 
+                operator' means any person doing business in the United 
+                States that operates a system for clearing and settling 
+                transactions in which the operator's stored value 
+                device is used to purchase goods or services or to 
+                obtain cash. To fall within this definition, the 
+                operator must also have authorized another person 
+                (whether located in the United States or not) to be an 
+                issuing institution or acquiring institution for the 
+                operator's stored value device or must act as its own 
+                issuing institution or acquiring institution.
+                    ``(B) Definitions.--For purposes of this paragraph:
+                            ``(i) Issuing institution.--The term 
+                        `issuing institution' means a person authorized 
+                        by the stored value system operator to issue 
+                        the operator's stored value device.
+                            ``(ii) Acquiring institution.--The term 
+                        `acquiring institution' means a person 
+                        authorized by the stored value system operator 
+                        to contract, directly or indirectly, with 
+                        merchants or other persons to process 
+                        transactions, including cash access 
+                        transactions, involving the operator's stored 
+                        value device.
+                            ``(iii) Operator's stored value device.--
+                        The term `operator's stored value device' means 
+                        a stored value device capable of being used in 
+                        the United States that--
+                                    ``(I) has been issued by an issuing 
+                                institution; and
+                                    ``(II) can be used in the 
+                                operator's stored value system.
+            ``(9) Device.--The term `device' means any card, plate, 
+        code, account number, electronic serial number, mobile 
+        identification number, personal identification number, or other 
+        telecommunications service, equipment, or instrument 
+        identifier, or other means of account access that can be used, 
+        alone or in conjunction with another access device, to obtain 
+        money, goods, services, or any other thing of value, or that 
+        can be used to initiate a transfer of funds or of stored value 
+        (other than a transfer originated solely by paper instrument), 
+        but a stored value device does not include a credit card or a 
+        debit card, as such terms are defined by the Secretary of the 
+        Treasury.
+            ``(10) Reportable stored value device.--The term 
+        `reportable stored value device' means a stored value device 
+        for which--
+                    ``(A) the associated stored value account is 
+                reloadable by the device holder;
+                    ``(B) the device does not comply with minimum 
+                stored value device standards prescribed by the 
+                Secretary of the Treasury;
+                    ``(C) the device does not bear the name of the 
+                person transporting or possessing the device; or
+                    ``(D) the device is designated as reportable by the 
+                Secretary of the Treasury.''.
+
+SEC. 3. REGISTRATION OF STORED VALUE PROGRAMS.
+
+    (a) In General.--Subchapter II of chapter 53 of title 31, United 
+States Code, is amended by inserting after section 5330 the following 
+new section:
+``Sec. 5330A. Registration of stored value programs
+    ``(a) Registration With Secretary of the Treasury Required.--
+            ``(1) In general.--Any stored value system operator shall 
+        register each stored value program that such person authorizes 
+        to function on such stored value system with the Secretary of 
+        the Treasury not later than the end of the 180-day period 
+        beginning on the later of--
+                    ``(A) the date of the enactment of the Stored Value 
+                Device Registration and Reporting Act of 2010; or
+                    ``(B) the end of the 30-day period that begins on 
+                the date on which the first stored value transaction in 
+                the stored value program is processed.
+            ``(2) Form and manner of registration.--Subject to the 
+        requirements of subsection (b), the Secretary of the Treasury 
+        shall prescribe, by regulation, the form and manner for 
+        registering a stored value program pursuant to paragraph (1).
+            ``(3) Persons remain subject to state law.--This section 
+        shall not be construed as superseding any requirement of State 
+        law relating to persons operating stored value systems or 
+        persons engaged in stored value programs within the 
+        jurisdiction of such State.
+            ``(4) False and incomplete information.--The filing of 
+        false or materially incomplete information in connection with 
+        the registration of a stored value program shall be considered 
+        as a failure to comply with the requirements of this 
+        subchapter.
+    ``(b) Contents of Registration.--The registration of a stored value 
+program under subsection (a) shall include the following information:
+            ``(1) The name and location of the operator of the stored 
+        value system.
+            ``(2) The name and address of each person who--
+                    ``(A) issues the stored value associated with the 
+                stored value program;
+                    ``(B) issues a stored value device associated with 
+                the stored value program; or
+                    ``(C) provides stored value processing services to 
+                the issuer of the stored value or to the issuer of the 
+                stored value device, or to a person acting in a 
+                capacity similar to such issuer.
+            ``(3) The name and address of any depository institution at 
+        which the stored value program maintains a transaction account 
+        (as defined in section 19(b)(1)(C) of the Federal Reserve Act).
+            ``(4) The name and address of the bank, foreign or 
+        domestic, in which the primary transaction account for the 
+        funds representing the stored value sold is held, the bank 
+        routing number, and the bank account number.
+            ``(5) The bank identification number or other system 
+        identifier of the stored value devices for the stored value 
+        program.
+            ``(6) A description of the features included in the group 
+        of services offered to stored value account holders in the 
+        stored value program, either provided directly through the 
+        stored value system or otherwise, including--
+                    ``(A) the maximum amount of value that may be held 
+                in a stored value account at any time (maximum total 
+                load amount);
+                    ``(B) the maximum amount of funds that may be 
+                loaded to the stored value account per load 
+                transaction;
+                    ``(C) the maximum amount of funds that may be 
+                loaded to a stored value account per day;
+                    ``(D) the maximum amount of funds that may be 
+                loaded to a stored value account per day through one or 
+                more load purchases in currency;
+                    ``(E) the maximum amount of stored value that may 
+                be loaded through an automated clearinghouse 
+                transaction;
+                    ``(F) the maximum amount that may be loaded through 
+                a Fedwire (the realtime gross settlement system 
+                operated by the Board of Governors of the Federal 
+                Reserve System) transaction;
+                    ``(G) the maximum amount of stored value that may 
+                be redeemed in currency through an over-the-counter 
+                transaction by a system member;
+                    ``(H) the maximum amount of stored value that may 
+                be redeemed in currency through an automated teller 
+                machine or other mechanical means per transaction;
+                    ``(I) the maximum amount of stored value that may 
+                be redeemed in currency through an automated teller 
+                machine or other mechanical means per day;
+                    ``(J) the maximum amount of value that may be spent 
+                though one or more automated clearinghouse transactions 
+                per day; and
+                    ``(K) the maximum amount of value that may be spent 
+                through Fedwire transactions per day.
+            ``(7) A description of the measures in effect under the 
+        program to assure that--
+                    ``(A) the identity of the owner of the stored value 
+                is accurate;
+                    ``(B) the person using the device is the person 
+                entitled to do so;
+                    ``(C) stored value account holders are informed 
+                that participation in a stored value program 
+                constitutes waiver of objection to law enforcement 
+                access to the present amount of stored value accessible 
+                through a stored value device; and
+                    ``(D) the amount of value available through the 
+                device at the time of the inquiry is accessible to law 
+                enforcement.
+            ``(8) Such other information as the Secretary of the 
+        Treasury may require.
+    ``(c) Eligibility for Registration.--No stored value program is 
+eligible for registration unless the stored value devices associated 
+with that program clearly and visibly state on the device, to the 
+extent the device is a physical device, and to the extent prescribed by 
+the Secretary of the Treasury--
+            ``(1) that the device is a stored value device;
+            ``(2) the name, address, and telephone number of the issuer 
+        of the stored value associated with the device for use by law 
+        enforcement;
+            ``(3) the maximum amount of value that may be held in a 
+        stored value account associated with the device at any time 
+        (maximum value);
+            ``(4) the bank identification number of the stored value 
+        program that is associated with the device, if any; and
+            ``(5) a clear and concise descriptive label of the type of 
+        stored value program through which the device is issued.
+    ``(d) Stored Value Program Defined.--For purposes of this section, 
+the term `stored value program' means any one or more stored value 
+devices with the same device functionality authorized by a stored value 
+system operator to be issued by an issuing institution in which each 
+device in the program is identified by the same bank identification 
+number or other identifier that relates the stored value device to the 
+issuing institution.
+    ``(e) Civil Penalty for Failure To Comply With Registration 
+Requirements.--
+            ``(1) In general.--Any person who fails to comply with any 
+        requirement of this section or any regulation prescribed under 
+        this section shall be liable to the United States for a civil 
+        penalty of $5,000 for each such violation.
+            ``(2) Continuing violation.--Each day a violation described 
+        in paragraph (1) continues shall constitute a separate 
+        violation for purposes of such paragraph.
+            ``(3) Assessments.--Any penalty imposed under this 
+        subsection shall be assessed and collected by the Secretary of 
+        the Treasury in the manner provided in section 5321 and any 
+        such assessment shall be subject to the provisions of such 
+        section.
+    ``(f) Forfeiture.--
+            ``(1) In general.--Any--
+                    ``(A) stored value device issued in connection with 
+                a stored value program that fails to comply with any 
+                requirement of this section or any regulation 
+                prescribed under this section,
+                    ``(B) stored value issued in connection with a 
+                stored value program that fails to comply with any 
+                requirement of this section or any regulation 
+                prescribed under this section, or
+                    ``(C) physical stored value device that does not 
+                comply with the physical characteristics required for 
+                registration under this section,
+        may be seized and forfeited to the United States.
+            ``(2) Procedure.--The seizure and forfeiture shall be 
+        governed by the procedures governing civil forfeitures in money 
+        laundering cases pursuant to section 981(a)(1)(A) of title 18, 
+        United States Code.
+            ``(3) Treatment of certain property as involved in the 
+        offense.--For purposes of this subsection, any stored value 
+        device, and any other property used, or intended to be used to 
+        facilitate the offense (including the funds or value of funds 
+        accessible by the stored value device at the time of the 
+        offense), shall be considered property involved in the offense.
+    ``(g) Small Business and Low-Risk Exemption.--The Secretary of the 
+Treasury shall prescribe regulations establishing, on the basis of such 
+criteria as the Secretary determines to be appropriate, a threshold 
+point under which small- and low-risk stored value programs will not be 
+required to register under this section.''.
+    (b) Clerical Amendment.--The table of sections for chapter 53 of 
+title 31, United States Code, is amended by inserting after the item 
+relating to section 5330 the following new item:
+
+``5330A. Registration of stored value programs.''.
+
+SEC. 4. AMENDMENTS RELATING TO REPORTS ON EXPORTS AND IMPORTS OF 
+              MONETARY INSTRUMENTS, STORED VALUE, AND STORED VALUE 
+              DEVICES.
+
+    (a) Requirement of Reports on Exports and Imports of Stored Value 
+and Stored Value Devices.--Section 5316(a) of title 31, United States 
+Code, is amended to read as follows:
+    ``(a) Except as provided in subsection (d) of this section, a 
+person or an agent or bailee of the person shall file a report under 
+subsection (b) of this section when the person, agent, or bailee 
+knowingly--
+            ``(1) transports, is about to transport, or has 
+        transported, monetary instruments, stored value, or a 
+        combination of monetary instruments and stored value, of more 
+        than $10,000 at one time, or reportable stored value devices at 
+        one time--
+                    ``(A) from a place in the United States to or 
+                through a place outside the United States; or
+                    ``(B) to a place in the United States from or 
+                through a place outside the United States; or
+            ``(2) receives monetary instruments, stored value, or a 
+        combination of monetary instruments and stored value, of more 
+        than $10,000 at one time, or reportable stored value devices at 
+        one time, transported into the United States from or through a 
+        place outside the United States.''.
+    (b) Report Filing and Content Requirements.--Subsection (b) of 
+section 5316 of title 31, United States Code, is amended to read as 
+follows:
+    ``(b) Report Filing and Content Requirements.--
+            ``(1) Time and place of filing.--A report under subsection 
+        (a) shall be filed at the time and place the Secretary of the 
+        Treasury prescribes.
+            ``(2) Monetary instrument or stored value.--A report filed 
+        under this subsection with respect to monetary instruments or 
+        stored value shall contain the following information to the 
+        extent the Secretary of the Treasury prescribes:
+                    ``(A) The legal capacity in which the person filing 
+                the report is acting.
+                    ``(B) The origin, destination, and route of the 
+                monetary instruments or stored value.
+                    ``(C) When the monetary instruments or stored value 
+                are not legally and beneficially owned by the person 
+                transporting the instruments or stored value, or if the 
+                person transporting the instruments or stored value 
+                personally is not going to use them, the identity of 
+                the person that gave the instruments or stored value to 
+                the person transporting them, the identity of the 
+                person who is to receive them, or both.
+                    ``(D) The amount and kind of monetary instruments 
+                or stored value transported.
+                    ``(E) Such additional information as the Secretary 
+                of the Treasury may require.
+            ``(3) Stored value devices.--A report filed under this 
+        subsection with respect to reportable stored value devices 
+        shall contain the following information to the extent the 
+        Secretary of the Treasury prescribes:
+                    ``(A) The legal capacity in which the person filing 
+                the report is acting.
+                    ``(B) The origin, destination, and route of the 
+                stored value devices.
+                    ``(C) When the stored value devices are not legally 
+                and beneficially owned by the person transporting the 
+                stored value devices, or if the person transporting the 
+                stored value devices personally is not going to use the 
+                stored value devices, the identity of the person that 
+                gave the stored value devices to the person 
+                transporting them, the identity of the person who is to 
+                receive them, or both.
+                    ``(D) The maximum value of the devices transported.
+                    ``(E) The amount of stored value in the stored 
+                value account associated with the devices at the time 
+                they are transported.
+                    ``(F) The number and kind of stored value devices 
+                transported.
+                    ``(G) Such additional information as the Secretary 
+                of the Treasury may require.
+            ``(4) Maximum value.--For purposes of this subsection, the 
+        `maximum value' of a stored value device is the maximum 
+        monetary value that can be loaded to the stored value account 
+        that the device accesses.''.
+
+SEC. 5. AMENDMENTS RELATING TO SEARCH AND FORFEITURE OF MONETARY 
+              INSTRUMENTS AND STORED VALUE DEVICES.
+
+    Section 5317 of title 31, United States Code, is amended--
+            (1) in the heading of such section, by inserting after 
+        ``instruments'' the following: ``and stored value devices''; 
+        and
+            (2) by amending subsection (a) to read as follows:
+    ``(a) In General.--The Secretary of the Treasury or the Secretary 
+of Homeland Security may apply to a court of competent jurisdiction for 
+a search warrant when such Secretary reasonably believes a monetary 
+instrument, stored value, or a reportable stored value device is being 
+transported and a report on the instrument or device under section 5316 
+of this title has not been filed or contains a material omission or 
+misstatement. Such Secretary shall include a statement of information 
+in support of the warrant. On a showing of probable cause, the court 
+may issue a search warrant for a designated person or a designated or 
+described place or physical object. This subsection does not affect the 
+authority of the Secretary of the Treasury or the Secretary of Homeland 
+Security under another law.''.
+
+SEC. 6. AMENDMENT OF SMUGGLING PROVISIONS.
+
+    Chapter 53 of subtitle IV of title 31, United States Code, is 
+amended by amending section 5332 to read as follows:
+
+``SEC. 5332. SMUGGLING OF CASH, MONETARY INSTRUMENTS, STORED VALUE, AND 
+              STORED VALUE DEVICES INTO OR OUT OF THE UNITED STATES.
+
+    ``(a) Criminal Offense.--
+            ``(1) In general.--Whoever, with the intent to evade a 
+        currency reporting requirement under section 5316, knowingly 
+        conceals more than $10,000 in currency or other monetary 
+        instruments or stored value, or any physical reportable stored 
+        value device, on the person of such individual or in any 
+        conveyance, article of luggage, merchandise, or other 
+        container, and transports or transfers or attempts to transport 
+        or transfer such currency, other monetary instruments, stored 
+        value, or physical reportable stored value device from a place 
+        within the United States to a place outside of the United 
+        States, or from a place outside the United States to a place 
+        within the United States, shall be guilty of a currency 
+        smuggling offense and subject to punishment pursuant to 
+        subsection (b).
+            ``(2) Concealment on person.--For purposes of this section, 
+        the concealment of currency, other monetary instruments, or 
+        physical reportable stored value device on the person of any 
+        individual includes concealment in any article of clothing worn 
+        by the individual or in any luggage, backpack, or other 
+        container worn or carried by such individual.
+    ``(b) Penalty.--
+            ``(1) Term of imprisonment.--A person convicted of a 
+        currency smuggling offense under subsection (a), or a 
+        conspiracy to commit such offense, shall be imprisoned for not 
+        more than 5 years.
+            ``(2) Forfeiture.--In addition, the court, in imposing 
+        sentence under paragraph (1), shall order that the defendant 
+        forfeit to the United States any property, real or personal, 
+        involved in the offense, and any property traceable to such 
+        property.
+            ``(3) Procedure.--The seizure, restraint, and forfeiture of 
+        property under this section shall be governed by section 413 of 
+        the Controlled Substances Act.
+            ``(4) Personal money judgment.--If the property subject to 
+        forfeiture under paragraph (2) is unavailable, and the 
+        defendant has insufficient substitute property that may be 
+        forfeited pursuant to section 413(p) of the Controlled 
+        Substances Act, the court shall enter a personal money judgment 
+        against the defendant for the amount that would be subject to 
+        forfeiture.
+    ``(c) Civil Forfeiture.--
+            ``(1) In general.--Any property involved in a violation of 
+        subsection (a), or a conspiracy to commit such violation, and 
+        any property traceable to such violation or conspiracy, may be 
+        seized and forfeited to the United States.
+            ``(2) Procedure.--The seizure and forfeiture shall be 
+        governed by the procedures governing civil forfeitures in money 
+        laundering cases pursuant to section 981(a)(1)(A) of title 18, 
+        United States Code.
+            ``(3) Treatment of certain property as involved in the 
+        offense.--For purposes of this subsection and subsection (b), 
+        any currency, other monetary instrument, stored value, or 
+        physical reportable stored value device that is concealed or 
+        intended to be concealed in violation of subsection (a) or a 
+        conspiracy to commit such violation, any article, container, or 
+        conveyance used, or intended to be used, to conceal or 
+        transport the currency, other monetary instrument, stored 
+        value, or physical reportable stored value device, and any 
+        other property used, or intended to be used to facilitate the 
+        offense (including the funds or value of funds accessible by 
+        the stored value device at the time of the offense), shall be 
+        considered property involved in the offense.''.
+
+SEC. 7. STORED VALUE DEVICE STUDY.
+
+    (a) In General.--The Secretary of the Treasury, in consultation 
+with the Attorney General, the Secretary of Homeland Security, and the 
+Director of National Intelligence, shall carry out a study on stored 
+value devices. Such study shall include--
+            (1) an analysis of the extent to which stored value devices 
+        are used for the purpose of providing--
+                    (A) payments related to drug trafficking;
+                    (B) payments related to human trafficking; or
+                    (C) financial support to terror cells operating 
+                within the United States;
+            (2) an analysis of the extent to which stored value devices 
+        issued by foreign entities are being utilized in the United 
+        States, including the typical countries of origin of such 
+        devices and the typical values of such devices when imported 
+        into the United States;
+            (3) an analysis of the extent to which stored value devices 
+        issued by United States entities are being utilized outside the 
+        United States, including the typical locations where value is 
+        added to such device and where value is typically subtracted 
+        internationally;
+            (4) an identification of any trends in stored value 
+        addition and subtraction that appear to be associated with drug 
+        trafficking or human trafficking;
+            (5) a list of stored value device types which are now or 
+        may soon be used for money laundering;
+            (6) recommendations on methods to collect data related to 
+        stored value device transactions for purposes of law 
+        enforcement and intelligence analysis in a manner consistent 
+        with the Foreign Intelligence Surveillance Act and privacy 
+        laws; and
+            (7) an analysis of whether requiring certain information to 
+        be printed, or otherwise made available, on stored value 
+        devices would help customs and law enforcement officers 
+        identify such devices and track the origins of such devices, 
+        where such information could include the name and address of 
+        the device issuer, the maximum value of funds that can be 
+        stored on such device, and the fact that the device is a stored 
+        value device.
+    (b) Report.--Not later than the end of the 180-day period beginning 
+on the date of the enactment of this Act, the Secretary of the Treasury 
+shall submit a report to the Congress containing all findings and 
+determinations made in carrying out the study required under subsection 
+(a).
+    (c) Stored Value Device Defined.--For purposes of this section, the 
+term ``stored value device'' shall have the meaning given such term 
+under section 5312(a)(9) of title 31, United States Code.
+                                 <all>
+

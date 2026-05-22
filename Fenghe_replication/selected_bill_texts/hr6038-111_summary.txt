@@ -1,0 +1,21 @@
+Financial Industry Transparency Act of 2010 - Amends the Financial Stability Act of 2010 to instruct the Financial Stability Oversight Council (Council) to adopt, according to specified requirements, data standards for all financial data received by it or by the Office of Financial Research (Office).
+
+Directs the Board of Governors of the Federal Reserve System (Board) to adopt data standards for financial data regularly submitted to it by any nonbank financial company, savings and loan holding company or subsidiary (other than a depository institution), financial market utility, or institution under the Payment, Clearing, and Settlement Supervision Act of 2010.
+
+Amends the Federal Reserve Act to direct the Board to ensure that the information provided on its Web site as required by statute is available in a format consistent with a financial data standard.
+
+Amends the Federal Deposit Insurance Act to direct the Federal Deposit Insurance Corporation (FDIC) to adopt data standards for all financial data that it receives from any financial company or submits to Congress under the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+
+Amends the Revised Statutes of the United States to instruct the Comptroller of the Currency to adopt data standards for all financial data regularly filed with the Comptroller by any financial institution.
+
+Amends the Investment Advisers Act of 1940 to require the Securities and Exchange Commission (SEC) to adopt a data standard for any financial data that is included in reports filed with it by investment advisers.
+
+Amends the Securities Exchange Act of 1934 to direct the SEC to adopt a data standard for: (1) all quantitative data that nationally recognized statistical rating organizations (NRSROs) are required to either submit to the Commission, or to disclose publicly; (2) mandatory periodic and current corporate reports; (3) corporate proxy and consent solicitation materials; and (4) the reporting of security-based swap transactions.
+
+Amends the Securities Act of 1933 to direct the SEC to adopt a data standard for asset-backed securities disclosures and for corporate registration statements.
+
+Amends United States Monetary Code to direct the Office of National Insurance to adopt a data standard for all financial data that it requires any insurer or affiliate to submit directly to it.
+
+Requires all these agencies to ensure the public accessibility of financial data subject to their standards.
+
+Amends the Commodity Exchange Act to direct the Commodities Future Trading Commission (CFTC) to adopt a standard for swap transaction data that is subject to specified public availability requirements.

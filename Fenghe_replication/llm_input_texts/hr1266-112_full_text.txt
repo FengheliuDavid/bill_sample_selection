@@ -1,0 +1,190 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1266 Introduced in House (IH)]
+
+112th CONGRESS
+  1st Session
+                                H. R. 1266
+
+  To amend the Controlled Substances Act to improve detection of the 
+ fraudulent abuse of prescriptions to obtain controlled substances in 
+              schedule II or III, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 30, 2011
+
+  Mr. Grimm introduced the following bill; which was referred to the 
+ Committee on Energy and Commerce, and in addition to the Committee on 
+   the Judiciary, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Controlled Substances Act to improve detection of the 
+ fraudulent abuse of prescriptions to obtain controlled substances in 
+              schedule II or III, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Fraudulent Prescription Prevention 
+Act of 2011''.
+
+SEC. 2. FRAUDULENT PRESCRIPTION PREVENTION.
+
+    (a) In General.--Section 303 of the Controlled Substances Act (21 
+U.S.C. 823) is amended by adding at the end the following:
+    ``(i) Fraudulent Prescription Prevention.--
+            ``(1) Registration requirement.--The Attorney General may 
+        not register a practitioner to dispense, or conduct research 
+        with, a controlled substance in schedule II or III unless the 
+        practitioner agrees to comply with the requirements of this 
+        subsection.
+            ``(2) Reporting applicable to prescribing.--
+                    ``(A) In general.--At the time of prescribing a 
+                controlled substance in schedule II or III, a 
+                practitioner shall, by means of the web portal under 
+                paragraph (4), submit the following information to the 
+                Attorney General:
+                            ``(i) The name, date of birth, and address 
+                        of the patient.
+                            ``(ii) The date and time of the 
+                        prescription.
+                            ``(iii) The name and amount of the 
+                        substance prescribed.
+                            ``(iv) The practitioner's Drug Enforcement 
+                        Administration registration number.
+                            ``(v) The practitioner's contact 
+                        information.
+                            ``(vi) If applicable, the prescription pad 
+                        number.
+                    ``(B) Exceptions.--
+                            ``(i) Medical emergency situation.--
+                        Subparagraph (A) does not apply if the 
+                        practitioner is prescribing a controlled 
+                        substance in a medical emergency situation.
+                            ``(ii) Inconvenience.--If a practitioner 
+                        does not have access to the web portal under 
+                        paragraph (4) at the time of prescribing a 
+                        controlled substance, the practitioner may make 
+                        the submissions required by subparagraph (A) up 
+                        to 7 days after the time of such prescribing.
+            ``(3) Reporting applicable to dispensing.--
+                    ``(A) In general.--Before dispensing a controlled 
+                substance in schedule II or III, a practitioner shall, 
+                by means of the web portal under paragraph (4), submit 
+                the following information to the Attorney General:
+                            ``(i) Each item of information required to 
+                        be reported under paragraph (2) in connection 
+                        with prescribing the substance.
+                            ``(ii) The name, date of birth, and address 
+                        of the purchaser of the substance.
+                            ``(iii) The date and time of the dispensing 
+                        of the substance.
+                            ``(iv) The name and amount of the substance 
+                        being dispensed.
+                            ``(v) Whether the dispensing constitutes a 
+                        refill of a prescription.
+                            ``(vi) The practitioner's Drug Enforcement 
+                        Administration registration number.
+                            ``(vii) The practitioner's contact 
+                        information.
+                    ``(B) Declining to dispense.--At the time of 
+                declining to dispense a controlled substance in 
+                schedule II or III, a practitioner shall, by means of 
+                the web portal under paragraph (4), submit the 
+                following information to the Attorney General:
+                            ``(i) To the extent feasible, each item of 
+                        information that would have been required to be 
+                        reported under subparagraph (A) if the 
+                        substance had been dispensed.
+                            ``(ii) Any reason to suspect that the 
+                        individual attempting to purchase the substance 
+                        was acting pursuant to fraud.
+            ``(4) Web portal.--The Attorney General shall establish and 
+        maintain a web portal that--
+                    ``(A) allows a practitioner to submit information 
+                to the Attorney General in accordance with paragraph 
+                (2) or (3), as applicable; and
+                    ``(B) at the time of such submission, communicates 
+                an alert to the practitioner if--
+                            ``(i) the patient or purchaser has 
+                        repeatedly refilled the same prescription or 
+                        prescriptions for the same controlled 
+                        substance;
+                            ``(ii) the patient or purchaser has 
+                        attempted to obtain or fill the same 
+                        prescription or multiple prescriptions for the 
+                        same controlled substance within the preceding 
+                        30 days;
+                            ``(iii) the patient or purchaser has a 
+                        history of purchasing controlled substances in 
+                        schedule II or III at multiple pharmacies;
+                            ``(iv) the patient or purchaser has a 
+                        history of purchasing such controlled 
+                        substances in multiple States;
+                            ``(v) the purchaser is attempting to 
+                        purchase a controlled substance using a 
+                        prescription pad number that has been reported 
+                        as missing or stolen; or
+                            ``(vi) any other circumstance exists that, 
+                        as determined by the Attorney General, 
+                        indicates an increased possibility that the 
+                        patient or purchaser is attempting to 
+                        unlawfully divert or misuse a controlled 
+                        substance.
+            ``(5) Database.--The Attorney General shall establish and 
+        maintain a database containing the information reported under 
+        paragraphs (2) and (3).
+            ``(6) Disclosure of information.--The Attorney General may 
+        disclose the information reported under paragraphs (2) and (3) 
+        only as follows:
+                    ``(A) The Attorney General may make such 
+                disclosures as may be necessary in order to communicate 
+                alerts to practitioners under paragraph (4)(B).
+                    ``(B) The Attorney General may disclose information 
+                reported under paragraph (2) or (3) to any local, 
+                State, or Federal law enforcement, narcotics control, 
+                licensure, disciplinary, or program authority who 
+                certifies that the information is related to an 
+                individual investigation or proceeding involving the 
+                unlawful diversion or misuse of a controlled substance 
+                in schedule II or III, and such information will 
+                further the purpose of the investigation or assist in 
+                the proceeding.
+                    ``(C) The Attorney General may, on request, 
+                disclose information reported under paragraph (2) or 
+                (3), or any summary or analysis thereof, to any person 
+                or agency if--
+                            ``(i) the information, summary, or analysis 
+                        is not individually identifiable; and
+                            ``(ii) the person or agency requesting the 
+                        information, summary, or analysis provides 
+                        satisfactory assurances that it will be used 
+                        for research.
+            ``(7) Funding.--The only amounts authorized to be 
+        appropriated to carry out this subsection are amounts in the 
+        Diversion Control Fee Account established by section 111(b) of 
+        the Departments of Commerce, Justice, and State, the Judiciary, 
+        and Related Agencies Appropriations Act, 1993 (Public Law 102-
+        395).''.
+    (b) Applicability Date.--Paragraphs (1), (2), and (3) of section 
+303(i) of the Controlled Substances Act, as added by subsection (a), 
+apply beginning on the date on which the Attorney General publishes in 
+the Federal Register a determination that the web portal and database 
+required by paragraphs (4) and (5) of such section are fully 
+operational.
+                                 <all>
+

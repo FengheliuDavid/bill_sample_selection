@@ -1,0 +1,201 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3642 Introduced in House (IH)]
+
+103d CONGRESS
+  1st Session
+                                H. R. 3642
+
+ To provide regulatory capital guidelines for treatment of real estate 
+     assets sold with limited recourse by depository institutions.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           November 22, 1993
+
+ Mr. Frank of Massachusetts (for himself, Mr. Baker of Louisiana, Mr. 
+Moran, Mr. Leach, Mr. Flake, Mr. McCollum, and Mr. LaRocco) introduced 
+  the following bill; which was referred jointly to the Committees on 
+      Banking, Finance and Urban Affairs, and Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To provide regulatory capital guidelines for treatment of real estate 
+     assets sold with limited recourse by depository institutions.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Commercial Mortgage Capital 
+Availability Act of 1993''.
+
+SEC. 2. INSURED DEPOSITORY INSTITUTION CAPITAL REQUIREMENTS FOR 
+              TRANSFERS OF MORTGAGE LOANS.
+
+    (a) Accounting Principles.--The accounting principles applicable to 
+the transfer of a mortgage loan with recourse contained in reports or 
+statements required to be filed with Federal banking agencies by a 
+qualified insured depository institution shall be consistent with 
+generally accepted accounting principles.
+    (b) Capital and Reserve Requirements.--With respect to the transfer 
+of a mortgage loan with recourse that is a sale under generally 
+accepted accounting principles, each qualified insured depository 
+institution shall--
+            (1) establish and maintain a reserve equal to an amount 
+        sufficient to meet the reasonable estimated liability of the 
+        institution under the recourse arrangement; and
+            (2) treat as an asset (for purposes of applicable capital 
+        standards and other capital measures, including risk-based 
+        capital requirements) only the maximum amount at risk under the 
+        recourse arrangement.
+    (c) Qualified Institutions Defined.--An insured depository 
+institution is a qualified insured depository institution for purposes 
+of this section if, without regard to the accounting principles or 
+capital requirements referred to in subsections (a) and (b), the 
+institution is--
+            (1) well capitalized; or
+            (2) with the approval, by regulation or order, of the 
+        appropriate Federal banking agency, adequately capitalized.
+    (d) Aggregate Amount of Recourse.--The total outstanding amount at 
+risk with respect to transfers of mortgage loans under subsections (a) 
+and (b) (together with the amount at risk under any provisions of law 
+substantially similar to subsections (a) and (b)) shall not exceed--
+            (1) the amount which is equal to 15 percent of the risk-
+        based capital of the institution; or
+            (2) such greater amount, as established by the appropriate 
+        Federal banking agency by regulation or order.
+    (e) Institutions That Cease To Be Qualified or Exceed Aggregate 
+Limits.--If an insured depository institution ceases to be a qualified 
+insured depository institution or exceeds the limits under subsection 
+(d), this section shall remain applicable to any transfer of mortgage 
+loans that occurred at a time when the institution was qualified and 
+had not exceeded such limit.
+    (f) Prompt Corrective Action not Affected.--The capital of an 
+insured depository institution shall be computed without regard to this 
+section in determining whether the institution is less than well 
+capitalized.
+    (g) Regulations Required.--Before the end of the 180-day period 
+beginning on the date of the enactment of this Act, each appropriate 
+Federal banking agency shall prescribe final regulations implementing 
+this section.
+    (h) Alternative System Permitted.--
+            (1) In general.--At the discretion of the appropriate 
+        Federal banking agency, this section shall not apply if the 
+        regulations of the agency provide that the aggregate amount of 
+        capital and reserves required with respect to the transfer of 
+        mortgage loans with recourse does not exceed the aggregate 
+        amount of capital and reserves that would be required under 
+        subsection (b).
+            (2) Existing transactions not affected.--Notwithstanding 
+        paragraph (1), this section shall remain in effect with respect 
+        to transfers of mortgage loans with recourse by qualified 
+        insured depository institutions occurring before the effective 
+        date of regulations referred to in paragraph (1).
+    (i) Definitions.--The following definitions apply for purposes of 
+this section:
+            (1) Adequately capitalized.--The term ``adequately 
+        capitalized'' has the same meaning as in section 38(b) of the 
+        Federal Deposit Insurance Act.
+            (2) Appropriate federal banking agency.--The term 
+        ``appropriate Federal banking agency'' has the same meaning as 
+        in section 3 of the Federal Deposit Insurance Act.
+            (3) Capital standards.--The term ``capital standards'' has 
+        the same meaning as in section 38(c) of the Federal Deposit 
+        Insurance Act.
+            (4) Federal banking agencies.--The term ``Federal banking 
+        agencies'' has the same meaning as in section 3 of the Federal 
+        Deposit Insurance Act.
+            (5) Insured depository institution.--The term ``insured 
+        depository institution'' has the same meaning as in section 3 
+        of the Federal Deposit Insurance Act.
+            (6) Other capital measures.--The term ``other capital 
+        measures'' has the same meaning as in section 38(c) of the 
+        Federal Deposit Insurance Act.
+            (7) Recourse.--The term ``recourse'' has the meaning given 
+        to such term under generally accepted accounting principles.
+            (8) Mortgage loan.--The term ``mortgage loan'' means any--
+                    (A) note or certificate of interest or 
+                participation in a note (including any rights designed 
+                to assure servicing of, or the timeliness of receipt by 
+                the holders of such notes, certificates, or 
+                participation of amounts payable under such notes, 
+                certificates or participation) that is principally 
+                secured by an interest in real property; or
+                    (B) any security (within the meaning of section 8 
+                of the Securities Exchange Act of 1934) that is secured 
+                by one or more notes described in subparagraph (A) or 
+                certificates of interest or participation in such notes 
+                (with or without recourse to issuers thereof) and that, 
+                by its terms, provides for payments of principal in 
+                relation to payments, or reasonable projections of 
+                payments, on notes described in subparagraph (A) or 
+                certificates of interest or participation in such 
+                notes.
+            (9) Well capitalized.--The term ``well capitalized'' has 
+        the same meaning as in section 38(b) of the Federal Deposit 
+        Insurance Act.
+
+SEC. 3. AMENDMENT TO DEFINITION OF MORTGAGE RELATED SECURITY.
+
+    Section 3(a)(41)(A)(i) of the Securities Exchange Act of 1934 (15 
+U.S.C. 78c(a)(41)(A)(i)) is amended by inserting before the semicolon 
+``, or on 1 or more parcels of real estate upon which is located one or 
+more commercial structures''.
+
+SEC. 4. AUTHORITY TO EXEMPT COMMERCIAL MORTGAGE RELATED SECURITIES 
+              TRANSACTIONS FROM PROHIBITED TRANSACTION RULES.
+
+    The Secretary of Labor, in consultation with the Secretary of the 
+Treasury, shall exempt, either unconditionally or on stated terms and 
+conditions, transactions involving commercial mortgage related 
+securities (as such term is defined in section 3(a)(41) of the 
+Securities Exchange Act of 1934, as amended by section 3 of this Act) 
+from--
+            (1) the restrictions of sections 406(a) and 407(a) of the 
+        Employee Retirement Income Security Act of 1974; and
+            (2) the taxes imposed under section 4975 of the Internal 
+        Revenue Code of 1986.
+
+SEC. 5. PROVISIONS TO SAFEGUARD THE INTEGRITY OF THE SECURITIZATION 
+              PROCESS, AND THE SAFETY AND SOUNDNESS OF FEDERALLY 
+              INSURED INSTITUTIONS.
+
+    (a) Compliance With Securities Regulations.--Any security relying 
+on the provisions of this Act shall comply with all rules and 
+regulations of Federal securities laws applicable thereto, as 
+determined taking into account the provisions of this Act, including 
+all provisions relating to required disclosure to investors, 
+registrations, reporting and compliance, and all anti-fraud provisions.
+    (b) Treatment of Bank Issued or Purchased Mortgage Backed 
+Securities for Purposes of Minimum Capital Requirements.--
+            (1) Mortgages held by bank to back securities.--If an issue 
+        of securities backed by mortgage loans represents a liability 
+        on the balance sheet of an insured depository institution and 
+        the assets backing such obligation represent assets on the 
+        balance sheet of such institution, the institution shall 
+        maintain minimum adequate capital with regard to such assets as 
+        prescribed by all applicable rules and regulations of the 
+        banking agencies with supervisory and examination authority 
+        over such institution, as determined taking into account the 
+        provisions of this Act.
+            (2) Securities held by bank.--If an insured depository 
+        institution purchases a mortgage-related security to which the 
+        provisions of this Act apply, the institution shall maintain 
+        minimum adequate capital with respect to such security and all 
+        other assets as prescribed by all applicable rules and 
+        regulations of the banking agencies with supervisory and 
+        examination authority over such institution, as determined 
+        taking into account the provisions of this Act.
+
+                                 <all>
+

@@ -1,0 +1,350 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3408 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 3408
+
+  To require foreign insurance companies doing business in the United 
+States to disclose any financial dealings they had with individuals who 
+survived or died in the Holocaust, to provide for the Attorney General 
+  of the United States to submit requests to such companies regarding 
+     claims on behalf of such individuals, and to prohibit insured 
+depository institutions from transacting any business with or on behalf 
+ of any such foreign insurance companies that fail to comply with such 
+disclosure requirements or fail to adequately respond to such requests, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            December 5, 2001
+
+  Mr. Foley introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To require foreign insurance companies doing business in the United 
+States to disclose any financial dealings they had with individuals who 
+survived or died in the Holocaust, to provide for the Attorney General 
+  of the United States to submit requests to such companies regarding 
+     claims on behalf of such individuals, and to prohibit insured 
+depository institutions from transacting any business with or on behalf 
+ of any such foreign insurance companies that fail to comply with such 
+disclosure requirements or fail to adequately respond to such requests, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Comprehensive Holocaust 
+Accountability in Insurance Measure''.
+
+    TITLE I--PROVISIONS APPLICABLE WITH RESPECT TO CERTAIN FOREIGN 
+                          INSURANCE COMPANIES
+
+SEC. 101. PROHIBITION RELATING TO FAILURE TO DISCLOSE FINANCIAL 
+              TRANSACTION INFORMATION.
+
+    (a) In General.--Any covered foreign insurance company (as such 
+term is defined in section 104), or any subsidiary thereof, may not 
+conduct any form of business in the United States, including 
+participating, directly or indirectly, in any aspect of the payment 
+system within the jurisdiction of the United States (including any 
+clearing or electronic fund transfer system) or conducting any business 
+with a United States bank, unless the company discloses to the Attorney 
+General, in accordance with subsection (b), the name of any listed 
+Holocaust victim (as such term is defined in section 104) with whom the 
+company had any financial dealing.
+    (b) Management of Disclosures by Department of Justice.--The 
+Attorney General shall designate an office in the Department of Justice 
+to which disclosures shall be made in accordance with subsection (a). 
+Such office shall take such action as may be appropriate to make the 
+disclosures available to the public.
+
+SEC. 102. SUBMISSION OF REQUESTS TO COVERED FOREIGN INSURANCE COMPANIES 
+              BY ATTORNEY GENERAL.
+
+    (a) Obtaining Information Regarding Requests.--The Attorney General 
+shall take any action necessary to obtain, from the International 
+Commission on Holocaust Era Insurance Claims and covered foreign 
+insurance companies, information regarding any outstanding requests (as 
+such term is defined in section 104) that is necessary to carry out 
+this section.
+    (b) Notification of Victims.--The Attorney General shall notify, in 
+writing, each listed Holocaust victim, or the heirs or beneficiaries of 
+such victim, of--
+            (1) the requirement under subsection (a) to obtain 
+        information;
+            (2) the requirement under subsection (c) to submit 
+        requests; and
+            (3) the opportunity of such victim, or heirs or 
+        beneficiaries, under subsection (d) to request that the 
+        Attorney General not submit the request regarding such listed 
+        Holocaust victim.
+    (c) Submission of Requests on Behalf of Beneficiaries.--Subject to 
+subsection (d), as soon as practicable after receipt of information 
+pursuant to subsection (a) regarding an outstanding request but not 
+later than 60 days after such receipt, the Attorney General shall 
+submit the request, on behalf of the maker of such outstanding request, 
+to the covered foreign insurance company involved.
+    (d) Opt-Out.--If, before the submission of an outstanding request 
+pursuant to subsection (d), the Attorney General receives a written 
+request from a listed Holocaust victim, or the heirs or beneficiaries 
+of such victim, not to submit the outstanding request, the Attorney 
+General shall not submit such request and shall notify the victim, or 
+the heirs or beneficiaries, that the outstanding request was not 
+submitted.
+    (e) Prohibition Relating To Failure To Comply With Request.--If any 
+covered foreign insurance company does not respond in a satisfactory 
+manner to a request submitted to such company pursuant to subsection 
+(b) before the expiration of the 60-day period beginning upon receipt 
+of such request by such company, the Attorney General may issue an 
+order prohibiting such covered foreign insurance company, and any 
+subsidiary thereof, from conducting any form of business in the United 
+States, including participating, directly or indirectly, in any aspect 
+of the payment system within the jurisdiction of the United States 
+(including any clearing or electronic fund transfer system) or 
+conducting any business with a United States bank. The Attorney General 
+shall vacate such order upon a satisfactory response by the company to 
+such request.
+    (f) Management of Outstanding Requests by Department of Justice.--
+The Attorney General shall designate the same office designated under 
+section 101(b) as the office in the Department of Justice responsible 
+for collecting the information obtained pursuant to subsection (a) of 
+this section and submitting requests pursuant to subsection (b) of this 
+section.
+
+SEC. 103. AVAILABILITY OF CIVIL ACTIONS.
+
+    (a) Federal Cause of Action.--
+            (1) In general.--There shall exist a Federal cause of 
+        action for any covered claim.
+            (2) Statute of limitations.--Any action brought under 
+        paragraph (1) shall be filed not later than 20 years after the 
+        date on which the denial of the original request was made.
+    (b) Subject Matter Jurisdiction.--The district courts shall have 
+original jurisdiction of any civil action on a covered claim (whether 
+brought under subsection (a) or otherwise).
+    (c) Personal Jurisdiction.--Notwithstanding any provision of Rule 4 
+of the Federal Rules of Civil Procedure to the contrary, in a civil 
+action on a covered claim (whether brought under subsection (a) or 
+otherwise) commenced in a district where the defendant is not a 
+resident--
+            (1) the court may exercise jurisdiction over such defendant 
+        on any basis not inconsistent with the Constitution of the 
+        United States; and
+            (2) service of process, summons, and subpoena may be made 
+        on such defendant in any manner not inconsistent with the 
+        Constitution of the United States.
+    (d) Definitions.--For purposes of this section:
+            (1) The term ``covered claim'' means a claim against a 
+        covered foreign insurance company that arises out of the 
+        insurance coverage involved in an original request.
+            (2) The term ``original request'' means a request that--
+                    (A) seeks payment of any claim on insurance 
+                coverage that--
+                            (i) was provided by a covered foreign 
+                        insurance company;
+                            (ii) had as the policyholder, insured, or 
+                        beneficiary a listed Holocaust victim; and
+                            (iii) was in effect during any portion of 
+                        the 13-year period beginning with 1933 and 
+                        ending with 1945; and
+                    (B) was made by a listed Holocaust victim, or the 
+                heirs or beneficiaries of such victim, to the covered 
+                foreign insurance company or the International 
+                Commission on Holocaust Era Insurance Claims.
+
+SEC. 104. DEFINITIONS.
+
+    For purposes of this title, the following definitions shall apply:
+            (1) Covered foreign insurance company.--The term ``covered 
+        foreign insurance company'' means the following companies:
+                    (A) Assicurazioni Generali S.p.A.
+                    (B) Union Des Assurances de Paris.
+                    (C) Victoria Lebenversicherungs AG.
+                    (D) Winterthur Lebensversicherungs Gesellschaft.
+                    (E) Allianz Lebensversicherungs AG.
+                    (F) Wiener Allianz Versicherungs AG.
+                    (G) Riunione Adriatica di Sicurta.
+                    (H) Vereinte Lebensversicherungs AG.
+                    (I) Basler Lebens-Versicherungs Gesellschaft.
+                    (J) Deutscher Ring Lebensversicherungs AG.
+                    (K) Nordstern Lebensversicherungs AG.
+                    (L) Gerling Konzern Lebensversicherungs AG.
+                    (M) Manheimer Lebensversicherung AG.
+                    (N) Der Anker.
+                    (O) Allgemeine Versicherungs AG.
+                    (P) Zuerich Lebensversicherungs Gesellschaft.
+                    (Q) Any other foreign insurance company that the 
+                Attorney General determines was in a position to have 
+                financial dealings with any individual who was subject 
+                to the Holocaust.
+            (2) Listed holocaust victims.--The term ``listed Holocaust 
+        victim'' means an individual whose name which is on either of 
+        the following lists:
+                    (A) List of survivors.--The list of Jewish 
+                Holocaust Survivors maintained by the United States 
+                Holocaust Memorial Museum in Washington, D.C.
+                    (B) List of deceased.--The list of individuals who 
+                died in the Holocaust maintained by the Yad Veshem of 
+                Jerusalem in its Hall of Names.
+            (3) Outstanding request.--The term ``outstanding request'' 
+        means a request that--
+                    (A) seeks payment of any claim on insurance 
+                coverage that--
+                            (i) was provided by a covered foreign 
+                        insurance company;
+                            (ii) had as the policyholder, insured, or 
+                        beneficiary a listed Holocaust victim; and
+                            (iii) was in effect during any portion of 
+                        the 13-year period beginning with 1933 and 
+                        ending with 1945;
+                    (B) was made by a listed Holocaust victim, or the 
+                heirs or beneficiaries of such victim, to the covered 
+                foreign insurance company or the International 
+                Commission on Holocaust Era Insurance Claims; and
+                    (C) was not responded to in writing by the covered 
+                foreign insurance company or such International 
+                Commission within the 60-day period beginning on 
+                receipt of the request by the covered foreign insurance 
+                company.
+            (4) Subsidiary.--The term ``subsidiary'' means, with 
+        respect to a covered foreign insurance company, any company--
+                    (A) 25 percent or more of whose class of voting 
+                securities is directly or indirectly owned or 
+                controlled by such covered foreign insurance company, 
+                or is held by such insurance company with the power to 
+                vote;
+                    (B) the election of a majority of whose directors 
+                or trustees is controlled in any manner by such covered 
+                foreign insurance company; or
+                    (C) with respect to which the management or 
+                policies of which such covered foreign insurance 
+                company has the power, directly or indirectly, to 
+                exercise a controlling influence.
+
+ TITLE II--PROVISIONS APPLICABLE TO UNITED STATES BANKING INSTITUTIONS
+
+SEC. 201. LIMITATION ON INSURED DEPOSITORY INSTITUTIONS.
+
+    Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is 
+amended by adding at the end the following new subsection:
+    ``(x) Prohibition on Transactions With Certain Insurance Companies 
+or Their Affiliates.--
+            ``(1) In general.--No insured depository institution may 
+        accept any deposit from, maintain any deposit on behalf of, 
+        offer or provide payment services to or on behalf of, 
+        participate directly or indirectly in any aspect of the payment 
+        system (including any clearing or electronic fund transfer 
+        system) for or on behalf of, hold any credit balance for, make 
+        any loan or other extension of credit to or for the benefit of, 
+        or engage in any other financial activity or transaction with 
+        or on behalf of any covered foreign insurance company, as such 
+        term is defined in section 104 of the Comprehensive Holocaust 
+        Accountability in Insurance Measure (including any company the 
+        Attorney General determines is described in subparagraph (Q) of 
+        such section), or any affiliate of such company--
+                    ``(A) during the period beginning 15 days after the 
+                enactment of the Comprehensive Holocaust Accountability 
+                in Insurance Measure and ending on the date on which 
+                the Attorney General provides notice through 
+                publication in the Federal Register that such company 
+                has complied with the disclosure requirements contained 
+                in section 101(a) of such Act; or
+                    ``(B) during the period that an order issued under 
+                section 102(e) of such Act by the Attorney General, 
+                prohibiting such company from conducting business in 
+                the United States, is in effect.
+            ``(2) Limited exception for affiliates.--
+                    ``(A) In general.--If an insured depository 
+                institution is itself an affiliate of a foreign 
+                insurance company described in paragraph (1), paragraph 
+                (1) shall not apply so as to prohibit--
+                            ``(i) the payment of dividends on any 
+                        shares of stock in such insured depository 
+                        institution which are held by the foreign 
+                        insurance company or any affiliate of such 
+                        company; or
+                            ``(ii) the investment of additional capital 
+                        in such insured depository institution by the 
+                        foreign insurance company or affiliate.
+                    ``(B) Regulations.--Any payment or investment 
+                described in subparagraph (A) shall be subject to, and 
+                shall be made in accordance with, such regulations, 
+                including any limitation, as the Attorney General or 
+                the appropriate Federal banking agency may 
+                prescribe.''.
+
+SEC. 202. LIMITATION ON UNINSURED BRANCHES, AGENCIES, AND COMMERCIAL 
+              LENDING COMPANY AFFILIATES OF FOREIGN BANKS.
+
+    Section 7 of the International Banking Act of 1978 (12 U.S.C. 3105) 
+is amended by adding at the end the following new subsection:
+    ``(l) Prohibition on Transactions With Certain Insurance Companies 
+or Their Affiliates.--
+            ``(1) In general.--No branch, agency, or commercial lending 
+        company which is controlled by a foreign bank may accept any 
+        deposit from, maintain any deposit on behalf of, offer or 
+        provide payment services to, participate directly or indirectly 
+        in any aspect of the payment system (including any clearing or 
+        electronic fund transfer system) for or on behalf of, hold any 
+        credit balance for, make any loan or other extension of credit 
+        to or for the benefit of, or engage in any other financial 
+        activity or transaction with or on behalf of any covered 
+        foreign insurance company, as such term is defined in section 
+        104 of the Comprehensive Holocaust Accountability in Insurance 
+        Measure (including any company the Attorney General determines 
+        is described in subparagraph (Q) of such section), or any 
+        affiliate of such company--
+                    ``(A) during the period beginning 15 days after the 
+                enactment of the Comprehensive Holocaust Accountability 
+                in Insurance Measure and ending on the date on which 
+                the Attorney General provides notice through 
+                publication in the Federal Register that such company 
+                has complied with the disclosure requirements contained 
+                in section 101(a) of such Act; or
+                    ``(B) during the period that an order issued under 
+                section 102(e) of such Act by the Attorney General, 
+                prohibiting such company from conducting business in 
+                the United States, is in effect.
+            ``(2) Limited exception for affiliates.--
+                    ``(A) In general.--If a branch, agency, or 
+                commercial lending company which is controlled by a 
+                foreign bank is itself an affiliate of a foreign 
+                insurance company described in paragraph (1), paragraph 
+                (1) shall not apply so as to prohibit--
+                            ``(i) the payment of dividends on any 
+                        shares of stock or a similar investment in such 
+                        branch, agency, or company which are held by 
+                        the foreign insurance company or any affiliate 
+                        of such company; or
+                            ``(ii) the investment of additional capital 
+                        in branch, agency, or company by the foreign 
+                        insurance company or affiliate.
+                    ``(B) Regulations.--Any payment or investment 
+                described in subparagraph (A) shall be subject to, and 
+                shall be made in accordance with, such regulations, 
+                including any limitation, as the Attorney General, the 
+                Board, the Comptroller of the Currency, or the Federal 
+                Deposit Insurance Corporation may prescribe.''.
+                                 <all>
+

@@ -1,0 +1,691 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[S. 2972 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+106th CONGRESS
+  2d Session
+                                S. 2972
+
+To combat international money laundering and protect the United States 
+               financial system, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 27, 2000
+
+Mr. Kerry (for himself, Mr. Grassley, Mr. Sarbanes, Mr. Levin, and Mr. 
+ Rockefeller) introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To combat international money laundering and protect the United States 
+               financial system, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``International 
+Counter-Money Laundering and Foreign Anticorruption Act of 2000''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings and purposes.
+        TITLE I--INTERNATIONAL COUNTER-MONEY LAUNDERING MEASURES
+
+Sec. 101. Special measures for jurisdictions, financial institutions, 
+                            or international transactions of primary 
+                            money laundering concern.
+    TITLE II--CURRENCY TRANSACTION REPORTING AMENDMENTS AND RELATED 
+                              IMPROVEMENTS
+
+Sec. 201. Amendments relating to reporting of suspicious activities.
+Sec. 202. Penalties for violations of geographic targeting orders and 
+                            certain recordkeeping requirements, and 
+                            lengthening effective period of geographic 
+                            targeting orders.
+Sec. 203. Authorization to include suspicions of illegal activity in 
+                            written employment references.
+Sec. 204. Bank Secrecy Act Advisory Group.
+Sec. 205. Agency reports on reconciling penalty amounts.
+                   TITLE III--ANTICORRUPTION MEASURES
+
+Sec. 301. Corruption of foreign governments and ruling elites.
+Sec. 302. Support for the Financial Action Task Force on Money 
+                            Laundering.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--The Congress finds as follows:
+            (1) Money laundering, estimated by the International 
+        Monetary Fund to amount to between 2 and 5 percent of global 
+        gross domestic product which is at least $600,000,000,000 
+        annually, provides the financial fuel that permits 
+        transnational criminal enterprises to conduct and expand their 
+        operations to the detriment of the safety and security of 
+        American citizens.
+            (2) Money launderers subvert legitimate financial 
+        mechanisms and banking relationships by using them as 
+        protective covering for the movement of criminal proceeds and, 
+        by so doing, can undermine the integrity of our financial 
+        institutions and of the global financial and trading systems 
+        upon which our prosperity and growth depend.
+            (3) Money launderers rely upon the existence and use of 
+        certain jurisdictions outside the United States that offer bank 
+        secrecy and special tax or regulatory advantages to 
+        nonresidents, and often complement those advantages with weak 
+        financial supervisory and regulatory regimes.
+            (4) Certain kinds of transactions involving such offshore 
+        jurisdictions--for example, those transactions specifically 
+        designed to offer anonymity or the avoidance of regulatory 
+        scrutiny--make it difficult for law enforcement officials and 
+        regulators to follow the trail of money earned by criminals and 
+        organized international criminal enterprises that undermine 
+        United States national interests and traffic in human misery, 
+        whether they are narcotics dealers, terrorists, arms smugglers, 
+        traffickers in human beings, or those whose frauds prey upon 
+        law abiding citizens.
+            (5) Certain banking relationships between financial 
+        institutions in the United States and financial institutions 
+        located in such offshore jurisdictions, such as correspondent 
+        and payable-through accounts, are particularly vulnerable to 
+        abuse because of the difficulty in obtaining accurate 
+        information about the beneficial owners whose funds pass 
+        through such accounts.
+            (6) The ability to mount effective counter-measures to 
+        international money launderers requires national, as well as 
+        bilateral and multilateral action, using tools specially 
+        designed for that effort.
+            (7) The Basle Committee on Banking Regulation and 
+        Supervisory Practices and the Financial Action Task Force on 
+        Money Laundering, both of which the United States is a member, 
+        have each adopted international anti-money laundering 
+        principles and recommendations.
+    (b) Purposes.--The purposes of this Act are as follows:
+            (1) To ensure that banking transactions and financial 
+        relationships, the conduct of such transactions and 
+        relationships, or both, do not contravene the purposes of 
+        subchapter II of chapter 53 of title 31, United States Code, 
+        section 21 of the Federal Deposit Insurance Act, and chapter 2 
+        of title I of Public Law 91-508, or facilitate the evasion of 
+        any such provision, to ensure that the purposes of such 
+        subchapter II continue to be fulfilled, and to guard against 
+        international money laundering and other financial crimes.
+            (2) To provide a clear national mandate for subjecting to 
+        special scrutiny those foreign jurisdictions, financial 
+        institutions operating outside the United States, and classes 
+        of international transactions that pose particular, 
+        identifiable opportunities for money laundering.
+            (3) To provide the Secretary of the Treasury with broad 
+        discretionary authority to take certain measures tailored to 
+        the particular money laundering problems presented by specific 
+        foreign jurisdictions, financial institutions operating outside 
+        the United States, and classes of international transactions.
+            (4) To provide domestic financial institutions with 
+        guidance on particular foreign jurisdictions, financial 
+        institutions operating outside the United States, and classes 
+        of international transactions that are of primary money 
+        laundering concern to the United States government.
+            (5) To clarify the terms of the safe harbor from civil 
+        liability for filing suspicious activity reports.
+            (6) To strengthen the Secretary's authority to issue and 
+        administer geographic targeting orders, and to clarify that 
+violations of such orders or any other requirement imposed under the 
+authority contained in chapter 2 of title I of Public Law 91-508 and 
+subchapters II and III of chapter 53 of title 31, United States Code, 
+may result in criminal and civil penalties.
+            (7) To strengthen the ability of financial institutions to 
+        maintain the integrity of their employee population.
+            (8) To strengthen measures to prevent the use of the United 
+        States financial system for personal gain by corrupt foreign 
+        officials and to facilitate the repatriation of any stolen 
+        assets to the citizens of countries to whom such assets belong.
+
+             TITLE I--INTERNATIONAL COUNTER-MONEY LAUNDER- 
+                              ING MEASURES
+
+SEC. 101. SPECIAL MEASURES FOR JURISDICTIONS, FINANCIAL INSTITUTIONS, 
+              OR INTERNATIONAL TRANSACTIONS OF PRIMARY MONEY LAUNDERING 
+              CONCERN.
+
+    (a) In General.--Subchapter II of chapter 53 of title 31, United 
+States Code, is amended by inserting after section 5318 the following 
+new section:
+``Sec. 5318A. Special measures for jurisdictions, financial 
+              institutions, or international transactions of primary 
+              money laundering concern
+    ``(a) International Counter-Money Laundering Requirements.--
+            ``(1) In general.--The Secretary may require domestic 
+        financial institutions and domestic financial agencies to take 
+        1 or more of the special measures described in subsection (b) 
+        if the Secretary finds that reasonable grounds exist for 
+        concluding that a jurisdiction outside the United States, 1 or 
+        more financial institutions operating outside the United 
+        States, or 1 or more classes of transactions within, or 
+        involving, a jurisdiction outside the United States is of 
+        primary money laundering concern, in accordance with subsection 
+        (c).
+            ``(2) Form of requirement.--The special measures described 
+        in subsection (b) may be imposed by regulation, order, or 
+        otherwise as permitted by law, and in such sequence or 
+        combination, as the Secretary shall determine.
+            ``(3) Process for selecting special measures.--
+                    ``(A) Consultation.--In selecting which special 
+                measure or measures to take under this subsection, the 
+                Secretary shall consult with the Chairman of the Board 
+                of Governors of the Federal Reserve System and, in the 
+                Secretary's sole discretion, such other agencies and 
+                interested parties as the Secretary may find to be 
+                appropriate.
+                    ``(B) Factors.--The Secretary also shall consider--
+                            ``(i) whether similar action has been or is 
+                        being taken by other nations or multilateral 
+                        groups;
+                            ``(ii) whether the imposition of any 
+                        particular special measure would create a 
+                        significant competitive disadvantage, including 
+                        any undue cost or burden associated with 
+                        compliance, for financial institutions 
+                        organized or licensed in the United States; and
+                            ``(iii) the extent to which the action 
+                        would have a significant adverse systemic 
+                        impact on the international payment, clearance 
+                        and settlement system, or on legitimate 
+                        business activities involving the particular 
+                        jurisdiction, institution, or class of 
+                        transactions.
+            ``(4) No limitation on other authority.--This section shall 
+        not be construed as superseding or otherwise restricting any 
+        other authority granted to the Secretary, or to any other 
+        agency, by this subchapter or otherwise.
+    ``(b) Special Measures.--The special measures referred to in 
+subsection (a), with respect to a jurisdiction outside the United 
+States, financial institution operating outside the United States, or 
+class of transaction within, or involving, a jurisdiction outside the 
+United States, are as follows:
+            ``(1) Recordkeeping and reporting of certain financial 
+        transactions.--
+                    ``(A) In general.--The Secretary may require any 
+                domestic financial institution or domestic financial 
+                agency to maintain records, file reports, or both, 
+                concerning the aggregate amount of transactions, or 
+                concerning each transaction, with respect to a 
+                jurisdiction outside the United States, 1 or more 
+                financial institutions operating outside the United 
+                States, or 1 or more classes of transactions within, or 
+                involving, a jurisdiction outside the United States, if 
+                the Secretary finds any such jurisdiction, institution, 
+                or class of transactions to be of primary money 
+                laundering concern.
+                    ``(B) Form of records and reports.--Such records 
+                and reports shall be made and retained at such time, in 
+                such manner, and for such period of time, as the 
+                Secretary shall determine, and shall include such 
+                information as the Secretary may determine, including--
+                            ``(i) the identity and address of the 
+                        participants in a transaction or relationship, 
+                        including the identity of the originator of any 
+                        funds transfer;
+                            ``(ii) the legal capacity in which a 
+                        participant in any transaction is acting;
+                            ``(iii) the identity of the beneficial 
+                        owner of the funds involved in any transaction; 
+                        and
+                            ``(iv) a description of any transaction.
+            ``(2) Information relating to beneficial ownership.--In 
+        addition to any other requirement under any other law, the 
+        Secretary may require any domestic financial institution or 
+        domestic financial agency to take such steps as the Secretary 
+        may determine to be reasonable and practicable to obtain and 
+        retain information concerning the beneficial ownership of any 
+account opened or maintained in the United States by a foreign person 
+(other than a foreign entity whose shares are subject to public 
+reporting requirements or are listed and traded on a regulated exchange 
+or trading market), or a representative of such a foreign person, that 
+involves a jurisdiction outside the United States, 1 or more financial 
+institutions operating outside the United States, or 1 or more classes 
+of transactions within, or involving, a jurisdiction outside the United 
+States, if the Secretary finds any such jurisdiction, institution, or 
+transaction to be of primary money laundering concern.
+            ``(3) Information relating to certain payable-through 
+        accounts.--If the Secretary finds a jurisdiction outside the 
+        United States, 1 or more financial institutions operating 
+        outside the United States, or 1 or more classes of transactions 
+        within, or involving, a jurisdiction outside the United States 
+        to be of primary money laundering concern, the Secretary may 
+        require any domestic financial institution or domestic 
+        financial agency that opens or maintains a payable-through 
+        account in the United States for a foreign financial 
+        institution involving any such jurisdiction or any such 
+        financial institution operating outside the United States, or a 
+        payable-through account through which any such transaction may 
+        be conducted, as a condition of opening or maintaining such 
+        account, to--
+                    ``(A) identify each customer (and representative of 
+                such customer) of such financial institution who is 
+                permitted to use, or whose transactions are routed 
+                through, such payable-through account; and
+                    ``(B) obtain, with respect to each such customer 
+                (and each such representative), the same information 
+                that the depository institution obtains in the ordinary 
+                course of business with respect to its customers 
+                residing in the United States.
+            ``(4) Information relating to certain correspondent 
+        accounts.--If the Secretary finds a jurisdiction outside the 
+        United States, 1 or more financial institutions operating 
+        outside the United States, or 1 or more classes of transactions 
+        within, or involving, a jurisdiction outside the United States 
+        to be of primary money laundering concern, the Secretary may 
+        require any domestic financial institution or domestic 
+        financial agency that opens or maintains a correspondent 
+        account in the United States for a foreign financial 
+        institution involving any such jurisdiction or any such 
+        financial institution operating outside the United States, or a 
+        correspondent account through which any such transaction may be 
+        conducted, as a condition of opening or maintaining such 
+        account, to--
+                    ``(A) identify each customer (and representative of 
+                such customer) of any such financial institution who is 
+                permitted to use, or whose transactions are routed 
+                through, such correspondent account; and
+                    ``(B) obtain, with respect to each such customer 
+                (and each such representative), the same information 
+                that the depository institution obtains in the ordinary 
+                course of business with respect to its customers 
+                residing in the United States.
+            ``(5) Prohibitions or conditions on opening or maintaining 
+        certain correspondent or payable-through accounts.--If the 
+        Secretary finds a jurisdiction outside the United States, 1 or 
+        more financial institutions operating outside the United 
+        States, or 1 or more classes of transactions within, or 
+        involving, a jurisdiction outside the United States to be of 
+        primary money laundering concern, the Secretary, in 
+        consultation with the Secretary of State, the Attorney General, 
+        and the Chairman of the Board of Governors of the Federal 
+        Reserve System, may prohibit, or impose conditions upon, the 
+        opening or maintaining in the United States of a correspondent 
+        account or payable-through account by any domestic financial 
+        institution or domestic financial agency for or on behalf of a 
+        foreign banking institution if such correspondent account or 
+        payable-through account involves any such jurisdiction or 
+        institution, or if any such transaction may be conducted 
+        through such correspondent account or payable-through account.
+    ``(c) Consultations and Information To Be Considered in Finding 
+Jurisdictions, Institutions, or Transactions To Be of Primary Money 
+Laundering Concern.--
+            ``(1) In general.--In making a finding that reasonable 
+        grounds exist for concluding that a jurisdiction outside the 
+        United States, 1 or more financial institutions operating 
+        outside the United States, or 1 or more classes of transactions 
+        within, or involving, a jurisdiction outside the United States 
+        is of primary money laundering concern so as to authorize the 
+        Secretary to invoke 1 or more of the special measures of 
+        subsection (b), the Secretary shall consult with the Secretary 
+        of State, the Attorney General, the Secretary of Commerce, and 
+        the United States Trade Representative.
+            ``(2) Information.--The Secretary also shall consider such 
+        information as the Secretary considers to be relevant, 
+        including the following potentially relevant factors:
+                    ``(A) In the case of a particular jurisdiction--
+                            ``(i) the extent to which that jurisdiction 
+                        or financial institutions operating therein 
+                        offer bank secrecy or special tax or regulatory 
+                        advantages to nonresidents or nondomiciliaries 
+                        of such jurisdiction;
+                            ``(ii) the substance and quality of 
+                        administration of that jurisdiction's bank 
+                        supervisory and counter-money laundering laws;
+                            ``(iii) the relationship between the volume 
+                        of financial transactions occurring in that 
+                        jurisdiction and the size of the jurisdiction's 
+                        economy;
+                            ``(iv) the extent to which that 
+                        jurisdiction is characterized as a tax haven or 
+                        offshore banking or secrecy haven by 
+credible international organizations or multilateral expert groups;
+                            ``(v) whether the United States has a 
+                        mutual legal assistance treaty with that 
+                        jurisdiction, and the experience of United 
+                        States law enforcement officials, regulatory 
+                        officials, and tax administrators in obtaining 
+                        information about transactions originating in 
+                        or routed through or to such jurisdiction; and
+                            ``(vi) the extent to which that 
+                        jurisdiction is characterized by high levels of 
+                        official or institutional corruption.
+                    ``(B) In the case of a decision to apply 1 or more 
+                of the special measures described in subsection (b) 
+                only to a financial institution or institutions, or to 
+                a transaction or class of transactions, or to both, 
+                within, or involving, a particular jurisdiction--
+                            ``(i) the extent to which such financial 
+                        institutions or transactions are used to 
+                        facilitate or promote money laundering in or 
+                        through the jurisdiction;
+                            ``(ii) the extent to which such 
+                        institutions or transactions are used for 
+                        legitimate business purposes in such 
+                        jurisdiction; and
+                            ``(iii) the extent to which such action is 
+                        sufficient to ensure, with respect to 
+                        transactions involving such jurisdiction and 
+                        institutions operating in such jurisdiction, 
+                        that the purposes of this subchapter continue 
+                        to be fulfilled, and to guard against 
+                        international money laundering and other 
+                        financial crimes.
+    ``(d) Notification of Special Measures Invoked by the Secretary.--
+Within 10 days after the date of any action taken by the Secretary 
+under subsection (a)(1), the Secretary shall notify, in writing, the 
+Committee on Banking and Financial Services of the House of 
+Representatives and the Committee on Banking, Housing, and Urban 
+Affairs of the Senate of any such action.
+    ``(e) Definitions.--Notwithstanding any other provision of this 
+subchapter, for purposes of this section, the following definitions 
+shall apply:
+            ``(1) Defined terms.--
+                    ``(A) Bank definitions.--The following definitions 
+                shall apply with respect to a bank:
+                            ``(i) Account.--The term `account'--
+                                    ``(I) means a formal banking or 
+                                business relationship established to 
+                                provide regular services, dealings, and 
+                                other financial transactions; and
+                                    ``(II) includes a demand deposit, 
+                                savings deposit, or other transaction 
+                                or asset account and a credit account 
+                                or other extension of credit.
+                            ``(ii) Correspondent account.--The term 
+                        `correspondent account' means an account 
+                        established to receive deposits from and make 
+                        payments on behalf of a foreign financial 
+                        institution.
+                            ``(iii) Payable-through account.--The term 
+                        `payable-through account' means an account, 
+                        including a transaction account (as defined in 
+                        section 19(b)(1)(C) of the Federal Reserve 
+                        Act), opened at a depository institution by a 
+                        foreign financial institution by means of which 
+                        the foreign financial institution permits its 
+                        customers to engage, either directly or through 
+                        a sub-account, in banking activities usual in 
+                        connection with the business of banking in the 
+                        United States.
+                    ``(B) Definitions applicable to institutions other 
+                than banks.--With respect to any financial institution 
+                other than a bank, the Secretary shall define, by 
+                regulation, order, or otherwise as permitted by law, 
+                the term `account' and shall include within the meaning 
+                of such term arrangements similar to payable-through 
+                and correspondent accounts.
+            ``(2) Other terms.--The Secretary may, by regulation, 
+        order, or otherwise as permitted by law, further define the 
+        terms in paragraph (1) and define other terms for the purposes 
+        of this section, as the Secretary deems appropriate.''.
+    (b) Clerical Amendment.--The table of sections for subchapter II of 
+chapter 53 of title 31, United States Code, is amended by inserting 
+after the item relating to section 5318 the following new item:
+
+``5318A. Special measures for jurisdictions, financial institutions, or 
+                            international transactions of primary money 
+                            laundering concern.''.
+
+    TITLE II--CURRENCY TRANSACTION REPORTING AMENDMENTS AND RELATED 
+                              IMPROVEMENTS
+
+SEC. 201. AMENDMENTS RELATING TO REPORTING OF SUSPICIOUS ACTIVITIES.
+
+    (a) Amendment Relating to Civil Liability Immunity for 
+Disclosures.--Section 5318(g)(3) of title 31, United States Code, is 
+amended to read as follows:
+            ``(3) Liability for disclosures.--
+                    ``(A) In general.--Any financial institution that 
+                makes a voluntary disclosure of any possible violation 
+                of law or regulation to a government agency or makes a 
+                disclosure pursuant to this subsection or any other 
+                authority, and any director, officer, employee, or 
+                agent of such institution who makes, or requires 
+                another to make any such disclosure, shall not be 
+                liable to any person under any law or regulation of the 
+                United States, any constitution, law, or regulation of 
+                any State or political subdivision of any State, or 
+                under any contract or other legally enforceable 
+                agreement (including any arbitration agreement), for 
+                such disclosure or for any failure to provide notice of 
+                such disclosure to the person who is the subject of 
+such disclosure or any other person identified in the disclosure.
+                    ``(B) Rule of construction.--Subparagraph (A) shall 
+                not be construed as creating--
+                            ``(i) any inference that the term `person', 
+                        as used in such subparagraph, may be construed 
+                        more broadly than its ordinary usage so to 
+                        include any government or agency of government; 
+                        or
+                            ``(ii) any immunity against, or otherwise 
+                        affecting, any civil or criminal action brought 
+                        by any government or agency of government to 
+                        enforce any constitution, law, or regulation of 
+                        such government or agency.''.
+    (b) Prohibition on Notification of Disclosures.--Section 5318(g)(2) 
+of title 31, United States Code, is amended to read as follows:
+            ``(2) Notification prohibited.--
+                    ``(A) In general.--If a financial institution or 
+                any director, officer, employee, or agent of any 
+                financial institution, voluntarily or pursuant to this 
+                section or any other authority, reports a suspicious 
+                transaction to a government agency--
+                            ``(i) the financial institution, director, 
+                        officer, employee, or agent may not notify any 
+                        person involved in the transaction that the 
+                        transaction has been reported; and
+                            ``(ii) no officer or employee of the 
+                        Federal Government or of any state, local, 
+                        tribal, or territorial government within the 
+                        United States, who has any knowledge that such 
+                        report was made may disclose to any person 
+                        involved in the transaction that the 
+                        transaction has been reported other than as 
+                        necessary to fulfill the official duties of 
+                        such officer or employee.
+                    ``(B) Disclosures in certain employment 
+                references.--Notwithstanding the application of 
+                subparagraph (A) in any other context, subparagraph (A) 
+                shall not be construed as prohibiting any financial 
+                institution, or any director, officer, employee, or 
+                agent of such institution, from including, in a written 
+                employment reference that is provided in accordance 
+                with section 18(v) of the Federal Deposit Insurance Act 
+                in response to a request from another financial 
+                institution or a written termination notice or 
+                employment reference that is provided in accordance 
+                with the rules of the self-regulatory organizations 
+                registered with the Securities and Exchange Commission, 
+                information that was included in a report to which 
+                subparagraph (A) applies, but such written employment 
+                reference may not disclose that such information was 
+                also included in any such report or that such report 
+                was made.''.
+
+SEC. 202. PENALTIES FOR VIOLATIONS OF GEOGRAPHIC TARGETING ORDERS AND 
+              CERTAIN RECORDKEEPING REQUIREMENTS, AND LENGTHENING 
+              EFFECTIVE PERIOD OF GEOGRAPHIC TARGETING ORDERS.
+
+    (a) Civil Penalty for Violation of Targeting Order.--Section 
+5321(a)(1) of title 31, United States Code, is amended--
+            (1) by inserting ``or order issued'' after ``subchapter or 
+        a regulation prescribed''; and
+            (2) by inserting ``, or willfully violating a regulation 
+        prescribed under section 21 of the Federal Deposit Insurance 
+        Act or section 123 of Public Law 91-508,'' after ``section 5314 
+        and 5315)''.
+    (b) Criminal Penalties for Violation of Targeting Order.--Section 
+5322 of title 31, United States Code, is amended--
+            (1) in subsection (a)--
+                    (A) by inserting ``or order issued'' after 
+                ``willfully violating this subchapter or a regulation 
+                prescribed''; and
+                    (B) by inserting ``, or willfully violating a 
+                regulation prescribed under section 21 of the Federal 
+                Deposit Insurance Act or section 123 of Public Law 91-
+                508,'' after ``under section 5315 or 5324)''; and
+            (2) in subsection (b)--
+                    (A) by inserting ``or order issued'' after 
+                ``willfully violating this subchapter or a regulation 
+                prescribed''; and
+                    (B) by inserting ``or willfully violating a 
+                regulation prescribed under section 21 of the Federal 
+                Deposit Insurance Act or section 123 of Public Law 91-
+                508,'' after ``under section 5315 or 5324),''.
+    (c) Structuring Transactions To Evade Targeting Order or Certain 
+Recordkeeping Requirements.--Section 5324(a) of title 31, United States 
+Code, is amended--
+            (1) by inserting a comma after ``shall'';
+            (2) by striking ``section--'' and inserting ``section, the 
+        reporting or recordkeeping requirements imposed by any order 
+        issued under section 5326, or the recordkeeping requirements 
+        imposed by any regulation prescribed under section 21 of the 
+        Federal Deposit Insurance Act or section 123 of Public Law 91-
+        508--'';
+            (3) in paragraph (1) by inserting ``, to file a report or 
+        to maintain a record required by an order issued under section 
+        5326, or to maintain a record required pursuant to any 
+        regulation prescribed under section 21 of the Federal Deposit 
+        Insurance Act or section 123 of Public Law 91-508'' after 
+        ``regulation prescribed under any such section''; and
+            (4) in paragraph (2) by inserting ``, to file a report or 
+        to maintain a record required by any order issued under section 
+        5326, or to maintain a record required pursuant to any 
+        regulation prescribed under section 5326, or to maintain a 
+        record required pursuant to any regulation prescribed under 
+        section 21 of the Federal Deposit Insurance Act or section 123 
+        of Public Law 91-508,'' after ``regulation prescribed under any 
+        such section''.
+    (d) Lengthening Effective Period of Geographic Targeting Orders.--
+Section 5326(d) of title 31, United States Code, is amended by striking 
+``60'' after ``shall be effective for more than'' and inserting 
+``180''.
+
+SEC. 203. AUTHORIZATION TO INCLUDE SUSPICIONS OF ILLEGAL ACTIVITY IN 
+              WRITTEN EMPLOYMENT REFERENCES.
+
+    Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is 
+amended by adding at the end the following new paragraph:
+    ``(v) Written Employment References May Contain Suspicions of 
+Involvement in Illegal Activity.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, any insured depository institution, and any director, 
+        officer, employee, or agent of such institution, may disclose 
+        in any written employment reference relating to a current or 
+        former institution-affiliated party of such institution which 
+        is provided to another insured depository institution in 
+        response to a request from such other institution, information 
+        concerning the possible involvement of such institution-
+        affiliated party in potentially unlawful activity.
+            ``(2) Definition.--For purposes of this subsection, the 
+        term `insured depository institution' includes any uninsured 
+        branch or agency of a foreign bank.''.
+
+SEC. 204. BANK SECRECY ACT ADVISORY GROUP.
+
+    Section 1564 of the Annunzio-Wylie Anti-Money Laundering Act (31 
+U.S.C. 5311 note) is amended--
+            (1) in subsection (a), by inserting ``, of nongovernmental 
+        organizations advocating financial privacy,'' after ``Drug 
+        Control Policy''; and
+            (2) in subsection (c), by inserting ``, other than 
+        subsections (a) and (d) of such Act which shall apply'' before 
+        the period at the end.
+
+SEC. 205. AGENCY REPORTS ON RECONCILING PENALTY AMOUNTS.
+
+    Before the end of the 1-year period beginning on the date of the 
+enactment of this Act, the Secretary of the Treasury and the Federal 
+banking agencies (as defined in section 3 of the Federal Deposit 
+Insurance Act) shall each submit their respective reports to the 
+Congress containing recommendations on possible legislation to conform 
+the penalties imposed on depository institutions (as defined in section 
+3 of the Federal Deposit Insurance Act) for violations of subchapter II 
+of chapter 53 of title 31, United States Code, to the penalties imposed 
+on such institutions under section 8 of the Federal Deposit Insurance 
+Act.
+
+                   TITLE III--ANTICORRUPTION MEASURES
+
+SEC. 301. CORRUPTION OF FOREIGN GOVERNMENTS AND RULING ELITES.
+
+    (a) Sense of the Congress.--It is the sense of the Congress that, 
+in deliberations between the United States Government and any other 
+country on money laundering and corruption issues, the United States 
+Government should--
+            (1) emphasize an approach that addresses not only the 
+        laundering of the proceeds of traditional criminal activity but 
+        also the increasingly endemic problem of governmental 
+        corruption and the corruption of ruling elites;
+            (2) encourage the enactment and enforcement of laws in such 
+        country to prevent money laundering and systemic corruption;
+            (3) make clear that the United States will take all steps 
+        necessary to identify the proceeds of foreign government 
+        corruption which have been deposited in United States financial 
+        institutions and return such proceeds to the citizens of the 
+        country to whom such assets belong; and
+            (4) advance policies and measures to promote good 
+        government and to prevent and reduce corruption and money 
+        laundering, including through instructions to the United States 
+        Executive Director of each international financial institution 
+        (as defined in section 1701(c) of the International Financial 
+        Institutions Act) to advocate such policies as a systematic 
+        element of economic reform programs and advice to member 
+        governments.
+    (b) Guidance to Financial Institutions Operating in the United 
+States on Transactions by or on Behalf of Corrupt Foreign Officials.--
+The Secretary of the Treasury, in consultation with the Attorney 
+General of the United States and the Federal functional regulators (as 
+defined in section 509(2) of the Gramm-Leach-Bliley Act), shall, before 
+the end of the 180-day period beginning on the date of the enactment of 
+this Act, issue guidance to financial institutions operating in the 
+United States on appropriate practices and procedures to reduce the 
+risk that such institutions may become depositories for, or 
+transmitters of, the proceeds of corruption by or on behalf of senior 
+foreign officials and their close associates.
+
+SEC. 302. SUPPORT FOR THE FINANCIAL ACTION TASK FORCE ON MONEY 
+              LAUNDERING.
+
+    It is the sense of the Congress that--
+            (1) the United States should continue to actively and 
+        publicly support the objectives of the Financial Action Task 
+        Force on Money Laundering (hereafter in this section referred 
+        to as the ``FATF'') with regard to combating international 
+        money laundering;
+            (2) the FATF should identify noncooperative jurisdictions 
+        in as expeditious a manner as possible and publicly release a 
+        list directly naming those jurisdictions identified;
+            (3) the United States should support the public release of 
+        the list naming noncooperative jurisdictions identified by the 
+        FATF;
+            (4) the United States should encourage the adoption of the 
+        necessary international action to encourage compliance by the 
+        identified noncooperative jurisdictions; and
+            (5) the United States should take the necessary 
+        countermeasures to protect the United States economy against 
+        money of unlawful origin and encourage other nations to do the 
+        same.
+                                 <all>
+

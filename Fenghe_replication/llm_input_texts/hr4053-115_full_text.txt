@@ -1,0 +1,63 @@
+[Congressional Bills 115th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4053 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+115th CONGRESS
+  1st Session
+                                H. R. 4053
+
+To amend the Fair Credit Reporting Act to require an independent audit 
+of the cybersecurity practices of certain consumer reporting agencies, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 12, 2017
+
+ Mr. Fortenberry introduced the following bill; which was referred to 
+                  the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Fair Credit Reporting Act to require an independent audit 
+of the cybersecurity practices of certain consumer reporting agencies, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. INDEPENDENT AUDIT OF THE CYBERSECURITY PRACTICES OF CERTAIN 
+              CONSUMER REPORTING AGENCIES.
+
+    (a) In General.--The Fair Credit Reporting Act (15 U.S.C. 1681 et 
+seq.) is amended by adding at the end the following new section:
+``Sec. 630. Independent audit of the cybersecurity practices of certain 
+              consumer reporting agencies
+    ``The Bureau shall order an annual independent audit of the 
+cybersecurity practices of consumer reporting agencies described under 
+section 603(p). The results of each audit shall be submitted to 
+Congress along with the audit required under section 1016A(b) of the 
+Consumer Financial Protection Act of 2010.''.
+    (b) Table of Contents Amendment.--The table of contents of the Fair 
+Credit Reporting Act is amended by adding at the end the following new 
+item:
+
+``630. Independent audit of the cybersecurity practices of certain 
+                            consumer reporting agencies.''.
+                                 <all>
+

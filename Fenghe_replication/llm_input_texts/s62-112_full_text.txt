@@ -1,0 +1,348 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[S. 62 Introduced in Senate (IS)]
+
+112th CONGRESS
+  1st Session
+                                 S. 62
+
+   To amend the Federal Deposit Insurance Act to modify requirements 
+ relating to the location of bank branches on Indian reservations, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+             January 25 (legislative day, January 5), 2011
+
+  Mr. Inouye introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Federal Deposit Insurance Act to modify requirements 
+ relating to the location of bank branches on Indian reservations, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Indian Reservation Bank Branch Act 
+of 2009''.
+
+SEC. 2. REGULATIONS GOVERNING INSURED DEPOSITORY INSTITUTIONS.
+
+    Section 18(d) of the Federal Deposit Insurance Act (12 U.S.C. 
+1828(d)) is amended by adding at the end the following:
+            ``(5) Election by indian tribes to permit branching of 
+        banks on indian reservations.--
+                    ``(A) Definitions.--In this paragraph, the 
+                following definitions shall apply:
+                            ``(i) De novo branch.--The term `de novo 
+                        branch' means a branch of a State bank that--
+                                    ``(I) is originally established by 
+                                the State bank as a branch; and
+                                    ``(II) does not become a branch of 
+                                the State bank as a result of--
+                                            ``(aa) the acquisition by 
+                                        the State bank of an insured 
+                                        depository institution (or a 
+                                        branch of an insured depository 
+                                        institution); or
+                                            ``(bb) the conversion, 
+                                        merger, or consolidation of any 
+                                        such institution or branch.
+                            ``(ii) Home state.--
+                                    ``(I) In general.--The term `home 
+                                State' means the State in which the 
+                                main office of a State bank is located.
+                                    ``(II) Branches on indian 
+                                reservations.--The term `home State' 
+                                with respect to a State bank, the main 
+                                office of which is located within the 
+                                boundaries of an Indian reservation (in 
+                                a case in which State law permits the 
+                                chartering of such a main office on an 
+                                Indian reservation), means--
+                                            ``(aa) the State in which 
+                                        the Indian reservation is 
+                                        located; or
+                                            ``(bb) for an Indian 
+                                        reservation that is located in 
+                                        more than 1 State, the State in 
+                                        which the portion of the Indian 
+                                        reservation containing the main 
+                                        office of the State bank is 
+                                        located.
+                            ``(iii) Host reservation.--The term `host 
+                        reservation', with respect to a bank, means an 
+                        Indian reservation located in a State other 
+                        than the home State of the bank in which the 
+                        bank maintains, or seeks to establish and 
+                        maintain, a branch.
+                            ``(iv) Indian reservation.--
+                                    ``(I) In general.--The term `Indian 
+                                reservation' means land subject to the 
+                                jurisdiction of an Indian tribe.
+                                    ``(II) Inclusions.--The term 
+                                `Indian reservation' includes--
+                                            ``(aa) any public domain 
+                                        Indian allotment;
+                                            ``(bb) any land area 
+                                        located within the outer 
+                                        geographic boundaries 
+                                        recognized as an Indian 
+                                        reservation by a Federal 
+                                        treaty, Federal regulation, 
+                                        decision or order of the Bureau 
+                                        of Indian Affairs or any 
+                                        successor agency thereto, or 
+                                        statute in force with respect 
+                                        to a federally recognized 
+                                        tribal nation;
+                                            ``(cc) any former Indian 
+                                        reservation in the State of 
+                                        Oklahoma; and
+                                            ``(dd) any land held by a 
+                                        Native village, Native group, 
+                                        Regional Corporation, or 
+                                        Village Corporation under the 
+                                        Alaska Native Claims Settlement 
+                                        Act (43 U.S.C. 1601 et seq.).
+                            ``(v) Indian tribe.--The term `Indian 
+                        tribe' has the same meaning as in section 4 of 
+                        the Indian Self-Determination and Education 
+                        Assistance Act (25 U.S.C. 450b).
+                            ``(vi) Tribal government.--
+                                    ``(I) In general.--The term `tribal 
+                                government' means the business council, 
+                                tribal council, or similar legislative 
+                                or governing body of an Indian tribe--
+                                            ``(aa) the members of which 
+                                        are representatives elected by 
+                                        the members of the Indian 
+                                        tribe; and
+                                            ``(bb) that is empowered to 
+                                        enact laws applicable within 
+                                        the Indian reservation of the 
+                                        Indian tribe.
+                                    ``(II) Multitribal reservations.--
+                                The term `tribal government', with 
+                                respect to an Indian reservation within 
+                                the boundaries of which are located 
+                                more than 1 Indian tribe, each of which 
+                                has a separate council, means a joint 
+                                business council or similar intertribal 
+                                governing council that includes 
+                                representatives of each applicable 
+                                Indian tribe.
+                                    ``(III) Inclusion.--The term 
+                                `tribal government' includes a 
+                                governing body of any Regional 
+                                Corporation or Village Corporation (as 
+                                defined in section 3 of the Alaska 
+                                Native Claims Settlement Act (43 U.S.C. 
+                                1602)).
+                    ``(B) Approval by corporation.--Subject to 
+                subparagraph (C), in addition to any other authority 
+                under this section to approve an application to 
+                establish a branch within the boundaries of an Indian 
+                reservation, the Corporation may approve an application 
+                of a State bank to establish and operate a de novo 
+                branch within the boundaries of 1 or more Indian 
+                reservations (regardless of whether the Indian 
+                reservations are located within the home State of the 
+                State bank), if there is in effect within the host 
+                reservation a law enacted by the tribal government of 
+                the host reservation that--
+                            ``(i) applies with equal effect to all 
+                        banks located within the host reservation; and
+                            ``(ii) specifically permits any in-State or 
+                        out-of-State bank to establish within the host 
+                        reservation a de novo branch.
+                    ``(C) Conditions.--
+                            ``(i) Establishment.--An application by a 
+                        State bank to establish and operate a de novo 
+                        branch within a host reservation shall not be 
+                        subject to the requirements and conditions 
+                        applicable to an application for an interstate 
+                        merger transaction under paragraphs (1), (3), 
+                        and (4) of section 44(b).
+                            ``(ii) Operation.--Subsections (c) and 
+                        (d)(2) of section 44 shall not apply with 
+                        respect to a branch of a State bank that is 
+                        established and operated pursuant to an 
+                        application approved under this paragraph.
+                            ``(iii) Prohibition.--
+                                    ``(I) In general.--Except as 
+                                provided in subclause (II), no State 
+                                nonmember bank that establishes or 
+                                operates a branch on 1 or more Indian 
+                                reservations solely pursuant to 
+                                paragraph (5) may establish any 
+                                additional branch outside of such 
+                                Indian reservation in any State in 
+                                which the Indian reservation is 
+                                located.
+                                    ``(II) Exception.--Subclause (I) 
+                                shall not apply if a State nonmember 
+                                bank described in that subclause would 
+                                be permitted to establish and operate 
+                                an additional branch under any other 
+                                provision of this section, without 
+                                regard to the establishment or 
+                                operation by the State nonmember bank 
+                                of a branch on the subject Indian 
+                                reservation.''.
+
+SEC. 3. BRANCH BANKS.
+
+    Section 5155 of the Revised Statutes of the United States (12 
+U.S.C. 36) is amended by inserting after subsection (g) the following:
+    ``(h) Election by Indian Tribes To Permit Branching of National 
+Banks on Indian Reservations.--
+            ``(1) Definitions.--In this subsection, the following 
+        definitions shall apply:
+                    ``(A) De novo branch.--The term `de novo branch' 
+                means a branch of a national bank that--
+                            ``(i) is originally established by the 
+                        national bank as a branch; and
+                            ``(ii) does not become a branch of the 
+                        national bank as a result of--
+                                    ``(I) the acquisition by the 
+                                national bank of an insured depository 
+                                institution (or a branch of an insured 
+                                depository institution); or
+                                    ``(II) the conversion, merger, or 
+                                consolidation of any such institution 
+                                or branch.
+                    ``(B) Home state.--
+                            ``(i) In general.--The term `home State' 
+                        means the State in which the main office of a 
+                        national bank is located.
+                            ``(ii) Branches on indian reservations.--
+                        The term `home State', with respect to a 
+                        national bank, the main office of which is 
+                        located within the boundaries of an Indian 
+                        reservation, means--
+                                    ``(I) the State in which the Indian 
+                                reservation is located; or
+                                    ``(II) for an Indian reservation 
+                                that is located in more than 1 State, 
+                                the State in which the portion of the 
+                                Indian reservation containing the main 
+                                office of the national bank is located.
+                    ``(C) Host reservation.--The term `host 
+                reservation', with respect to a national bank, means an 
+                Indian reservation located in a State other than the 
+                home State of the bank in which the bank maintains, or 
+                seeks to establish and maintain, a branch.
+                    ``(D) Indian reservation.--
+                            ``(i) In general.--The term `Indian 
+                        reservation' means land subject to the 
+                        jurisdiction of an Indian tribe.
+                            ``(ii) Inclusions.--The term `Indian 
+                        reservation' includes--
+                                    ``(I) any public domain Indian 
+                                allotment;
+                                    ``(II) any land area located within 
+                                the outer geographic boundaries 
+                                recognized as an Indian reservation by 
+                                a Federal treaty, Federal regulation, 
+                                decision or order of the Bureau of 
+                                Indian Affairs or any successor agency 
+                                thereto, or statute in force with 
+                                respect to a federally recognized 
+                                tribal nation;
+                                    ``(III) any former Indian 
+                                reservation in the State of Oklahoma; 
+                                and
+                                    ``(IV) any land held by a Native 
+                                village, Native group, Regional 
+                                Corporation, or Village Corporation 
+                                under the Alaska Native Claims 
+                                Settlement Act (43 U.S.C. 1601 et 
+                                seq.).
+                    ``(E) Indian tribe.--The term `Indian tribe' has 
+                the same meaning as in section 4 of the Indian Self-
+                Determination and Education Assistance Act (25 U.S.C. 
+                450b).
+                    ``(F) Tribal government.--
+                            ``(i) In general.--The term `tribal 
+                        government' means the business council, tribal 
+                        council, or similar legislative or governing 
+                        body of an Indian tribe--
+                                    ``(I) the members of which are 
+                                representatives elected by the members 
+                                of the Indian tribe; and
+                                    ``(II) that is empowered to enact 
+                                laws applicable within the Indian 
+                                reservation of the Indian tribe.
+                            ``(ii) Multitribal reservations.--The term 
+                        `tribal government', with respect to an Indian 
+                        reservation within the boundaries of which are 
+                        located more than 1 Indian tribe, each of which 
+                        has a separate council, means a joint business 
+                        council or similar intertribal governing 
+                        council that includes representatives of each 
+                        applicable Indian tribe.
+                            ``(iii) Inclusion.--The term `tribal 
+                        government' includes a governing body of any 
+                        Regional Corporation or Village Corporation (as 
+                        defined in section 3 of the Alaska Native 
+                        Claims Settlement Act (43 U.S.C. 1602)).
+            ``(2) Approval by comptroller.--Subject to paragraph (3), 
+        in addition to any other authority under this section to 
+        approve an application to establish a national bank branch 
+        within the boundaries of an Indian reservation, the Comptroller 
+        may approve an application of a national bank to establish and 
+        operate a de novo branch within the boundaries of an Indian 
+        reservation (regardless of whether the Indian reservation is 
+        located within the home State of the national bank), if there 
+        is in effect within the host reservation a law enacted by the 
+        tribal government of the host reservation that--
+                    ``(A) applies with equal effect to all banks 
+                located within the host reservation; and
+                    ``(B) specifically permits any in-State or out-of-
+                State bank to establish within the host reservation a 
+                de novo branch.
+            ``(3) Conditions.--
+                    ``(A) Establishment.--An application by a national 
+                bank to establish and operate a de novo branch within a 
+                host reservation shall not be subject to the 
+                requirements and conditions applicable to an 
+                application for an interstate merger transaction under 
+                paragraphs (1), (3), and (4) of section 44(b) of the 
+                Federal Deposit Insurance Act (12 U.S.C. 1831u(b)).
+                    ``(B) Operation.--Subsections (c) and (d)(2) of 
+                section 44 of that Act (12 U.S.C. 1831u) shall not 
+                apply with respect to a branch of a national bank that 
+                is established and operated pursuant to an application 
+                approved under this subsection.
+                    ``(C) Prohibition.--
+                            ``(i) In general.--Except as provided in 
+                        clause (ii), no national bank that establishes 
+                        or operates a branch on 1 or more Indian 
+                        reservations solely pursuant to subsection (h) 
+                        may establish any additional branch outside of 
+                        such Indian reservation in the State in which 
+                        the Indian reservation is located.
+                            ``(ii) Exception.--Clause (i) shall not 
+                        apply if a national bank described in that 
+                        clause would be permitted to establish and 
+                        operate an additional branch under any other 
+                        provision of this section or other applicable 
+                        law, without regard to the establishment or 
+                        operation by the national bank of a branch on 
+                        the subject Indian reservation.''.
+                                 <all>
+

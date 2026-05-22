@@ -1,0 +1,209 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3389 Introduced in Senate (IS)]
+
+112th CONGRESS
+  2d Session
+                                S. 3389
+
+   To modify chapter 90 of title 18, United States Code, to provide 
+            Federal jurisdiction for theft of trade secrets.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 17, 2012
+
+ Mr. Kohl (for himself, Mr. Coons, and Mr. Whitehouse) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                             the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To modify chapter 90 of title 18, United States Code, to provide 
+            Federal jurisdiction for theft of trade secrets.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Protecting American Trade Secrets 
+and Innovation Act of 2012''.
+
+SEC. 2. FEDERAL JURISDICTION FOR THEFT OF TRADE SECRETS.
+
+    (a) In General.--Section 1836 of title 18, United States Code, is 
+amended to read as follows:
+``Sec. 1836. Civil proceedings
+    ``(a) Private Civil Actions.--
+            ``(1) In general.--A person may bring a civil action under 
+        this subsection if the person is aggrieved by--
+                    ``(A) a violation of section 1831(a) or 1832(a); or
+                    ``(B) a misappropriation of a trade secret that is 
+                related to or included in a product that is produced 
+                for or placed in interstate or foreign commerce.
+            ``(2) Pleadings.--A complaint filed in a civil action 
+        brought under this subsection shall--
+                    ``(A) describe with specificity the reasonable 
+                measures taken to protect the secrecy of the alleged 
+                trade secrets in dispute; and
+                    ``(B) include a sworn representation by the party 
+                asserting the claim that the dispute involves either 
+                substantial need for nationwide service of process or 
+                misappropriation of trade secrets from the United 
+                States to another country.
+            ``(3) Civil ex parte seizure order.--
+                    ``(A) In general.--In a civil action brought under 
+                this subsection, the court may, upon ex parte 
+                application and if the court finds by clear and 
+                convincing evidence that issuing the order is necessary 
+                to prevent irreparable harm, issue an order providing 
+                for--
+                            ``(i) the seizure of any property 
+                        (including computers) used or intended to be 
+                        used, in any manner or part, to commit or 
+                        facilitate the commission of the violation 
+                        alleged in the civil action; and
+                            ``(ii) the preservation of evidence in the 
+                        civil action.
+                    ``(B) Scope of orders.--An order issued under 
+                subparagraph (A) shall--
+                            ``(i) authorize the retention of the seized 
+                        property for a reasonably limited period, not 
+                        to exceed 72 hours under the initial order, 
+                        which may be extended by the court after notice 
+                        to the affected party and an opportunity to be 
+                        heard;
+                            ``(ii) require that any copies of seized 
+                        property made by the requesting party be made 
+                        at the expense of the requesting party;
+                            ``(iii) require the requesting party to 
+                        return the seized property to the party from 
+                        which the property were seized at the end of 
+                        the period authorized under clause (i), 
+                        including any extension; and
+                            ``(iv) include an appropriate protective 
+                        order with respect to discovery and use of any 
+                        property that has been seized, which shall 
+                        provide for appropriate procedures to ensure 
+                        that confidential, private, proprietary, or 
+                        privileged information contained in the seized 
+                        property is not improperly disclosed or used.
+                    ``(C) Seizures.--A party injured by a seizure under 
+                an order under this paragraph--
+                            ``(i) may bring a civil action against the 
+                        applicant for the order; and
+                            ``(ii) shall be entitled to recover 
+                        appropriate relief, including--
+                                    ``(I) damages for lost profits, 
+                                cost of materials, and loss of good 
+                                will;
+                                    ``(II) if the seizure was sought in 
+                                bad faith, punitive damages; and
+                                    ``(III) unless the court finds 
+                                extenuating circumstances, to recover a 
+                                reasonable attorney's fee.
+            ``(4) Remedies.--In a civil action brought under this 
+        subsection, a court may--
+                    ``(A) issue--
+                            ``(i) an order for appropriate injunctive 
+                        relief against any violation described in 
+                        paragraph (1), including the actual or 
+                        threatened misappropriation of trade secrets;
+                            ``(ii) if determined appropriate by the 
+                        court, an order requiring affirmative actions 
+                        to be taken to protect a trade secret; and
+                            ``(iii) if the court determines that it 
+                        would be unreasonable to prohibit use of a 
+                        trade secret, an order requiring payment of a 
+                        reasonable royalty for any use of the trade 
+                        secret;
+                    ``(B) award--
+                            ``(i) damages for actual loss caused by the 
+                        misappropriation of a trade secret; and
+                            ``(ii) damages for any unjust enrichment 
+                        caused by the misappropriation of the trade 
+                        secret that is not addressed in computing 
+                        damages for actual loss;
+                    ``(C) if the trade secret described in paragraph 
+                (1)(B) is willfully or maliciously misappropriated, 
+                award exemplary damages in an amount not more than the 
+                amount of the damages awarded under subparagraph (B); 
+                and
+                    ``(D) if a claim of misappropriation is made in bad 
+                faith, a motion to terminate an injunction is made or 
+                opposed in bad faith, or a trade secret is willfully 
+                and maliciously misappropriated, award reasonable 
+                attorney's fees to the prevailing party.
+    ``(b) Jurisdiction.--The district courts of the United States shall 
+have original jurisdiction of civil actions brought under this section.
+    ``(c) Period of Limitations.--A civil action under this section may 
+not be commenced later than 3 years after the date on which the 
+misappropriation is discovered or by the exercise of reasonable 
+diligence should have been discovered. For purposes of this subsection, 
+a continuing misappropriation constitutes a single claim of 
+misappropriation.''.
+    (b) Definitions.--Section 1839 of title 18, United States Code, is 
+amended--
+            (1) in paragraph (3), by striking ``and'' at the end;
+            (2) in paragraph (4), by striking the period at the end and 
+        inserting a semicolon; and
+            (3) by adding at the end the following:
+            ``(5) the term `misappropriation' means--
+                    ``(A) acquisition of a trade secret of another by a 
+                person who knows or has reason to know that the trade 
+                secret was acquired by improper means; or
+                    ``(B) disclosure or use of a trade secret of 
+                another without express or implied consent by a person 
+                who--
+                            ``(i) used improper means to acquire 
+                        knowledge of the trade secret;
+                            ``(ii) at the time of disclosure or use, 
+                        knew or had reason to know that the knowledge 
+                        of the trade secret was--
+                                    ``(I) derived from or through a 
+                                person who had used improper means to 
+                                acquire the trade secret;
+                                    ``(II) acquired under circumstances 
+                                giving rise to a duty to maintain the 
+                                secrecy of the trade secret or limit 
+                                the use of the trade secret; or
+                                    ``(III) derived from or through a 
+                                person who owed a duty to the person 
+                                seeking relief to maintain the secrecy 
+                                of the trade secret or limit the use of 
+                                the trade secret; or
+                            ``(iii) before a material change of the 
+                        position of the person, knew or had reason to 
+                        know that--
+                                    ``(I) the trade secret was a trade 
+                                secret; and
+                                    ``(II) knowledge of the trade 
+                                secret had been acquired by accident or 
+                                mistake; and
+            ``(6) the term `improper means'--
+                    ``(A) includes theft, bribery, misrepresentation, 
+                breach or inducement of a breach of a duty to maintain 
+                secrecy, or espionage through electronic or other 
+                means; and
+                    ``(B) does not include reverse engineering or 
+                independent derivation.''.
+    (c) Technical and Conforming Amendment.--The table of sections for 
+chapter 90 of title 18, United States Code, is amended by striking the 
+item relating to section 1836 and inserting the following:
+
+``1836. Civil proceedings.''.
+    (d) Rule of Construction.--Nothing in the amendments made by this 
+section shall be construed to modify the rule of construction under 
+section 1838 of title 18, United States Code, or to preempt any other 
+provision of law.
+                                 <all>
+

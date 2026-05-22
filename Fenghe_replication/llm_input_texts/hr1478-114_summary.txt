@@ -1,0 +1,11 @@
+Policyholder Protection Act of 2015
+
+ (Sec. 2) This bill amends the Federal Deposit Insurance Act to declare that any action of the Federal Deposit Insurance Corporation (FDIC) that requires a bank holding company to provide funds or other assets to a subsidiary depository institution is neither effective nor enforceable with respect to a savings and loan holding company that is also an insurance company, an affiliate of an insured depository institution that is an insurance company, or any other company that is an insurance company and directly or indirectly controls an insured depository institution (entities) if:
+
+ such funds or assets are to be provided by the entity, and the relevant state insurance authority determines that such an action would have a materially adverse effect on the entity's financial condition. The bill declares that requiring a bank holding company that is an insurance company to serve as a source of financial strength shall be deemed the kind of action of the Board of Governors of the Federal Reserve System that requires a bank holding company to provide funds or other assets to a subsidiary depository institution for specified purposes of the Bank Holding Company Act of 1956.
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act is amended, with respect to systemic risk determination and the treatment of insurance companies and their subsidiaries, to authorize the FDIC to stand in the place of the appropriate regulatory agency and file a judicial action to place such companies into orderly rehabilitation under state law if the appropriate regulatory agency has not done so.
+
+The FDIC, when funding the orderly liquidation of an insurance company or its subsidiary, shall notify the relevant state insurance authority promptly of its intention to take a lien on the company's assets.
+
+The FDIC may take such a lien only: to secure repayment of funds made available to such covered financial company or covered subsidiary; and if it determines that the lien will neither unduly impede nor delay the liquidation or rehabilitation of the insurance company, or the recovery by its policyholders.

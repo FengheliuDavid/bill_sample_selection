@@ -1,0 +1,185 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[S. 2599 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+108th CONGRESS
+  2d Session
+                                S. 2599
+
+To strengthen anti-terrorism investigative tools, to enhance prevention 
+and prosecution of terrorist crimes, to combat terrorism financing, to 
+  improve border and transportation security, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 24, 2004
+
+Mr. Chambliss (for himself and Mr. Kyl) introduced the following bill; 
+  which was read twice and referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To strengthen anti-terrorism investigative tools, to enhance prevention 
+and prosecution of terrorist crimes, to combat terrorism financing, to 
+  improve border and transportation security, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Information Sharing Improvement Act 
+of 2004''.
+
+SEC. 2. NATIONAL SECURITY INTELLIGENCE SHARING.
+
+    (a) Telephone Records.--Section 2709(d) of title 18, United States 
+Code, is amended by striking ``for foreign'' and all that follows 
+through ``such agency''.
+    (b) Consumer Information Under 15 U.S.C. 1681u.--Section 625(f) of 
+the Fair Credit Reporting Act (15 U.S.C. 1681u(f)) is amended to read 
+as follows:
+    ``(f) Dissemination of Information.--The Federal Bureau of 
+Investigation may disseminate information obtained pursuant to this 
+section only as provided in guidelines approved by the Attorney 
+General. ''.
+    (c) Consumer Information Under 15 U.S.C. 1681v.--Section 626 of the 
+Fair Credit Reporting Act (15 U.S.C. 1681v) is amended--
+            (1) by redesignating subsections (d) and (e) as subsections 
+        (e) and (f), respectively; and
+            (2) by inserting after subsection (c) the following:
+    ``(d) Dissemination of Information.--The Federal Bureau of 
+Investigation may disseminate information obtained pursuant to this 
+section only as provided in guidelines approved by the Attorney 
+General.''.
+    (d) Financial Records.--Section 1114(a)(5)(B) of the Right to 
+Financial Privacy Act (12 U.S.C. 3414(a)(5)(B)) is amended by striking 
+``for foreign'' and all that follows through ``such agency''.
+    (e) Records Concerning Certain Government Employees.--Section 
+802(e) of the National Security Act of 1947 (50 U.S.C. 436(e)) is 
+amended--
+            (1) by striking ``An agency'' and inserting the following: 
+        ``The Federal Bureau of Investigation may disseminate records 
+        or information received pursuant to a request under this 
+        section only as provided in guidelines approved by the Attorney 
+        General. Any other agency''; and
+            (2) in paragraph (3), by striking ``clearly''.
+    (f) Information Obtained in National Security Investigations.--
+Section 203(d) of the USA PATRIOT ACT (50 U.S.C. 403-5d) is amended--
+            (1) in paragraph (1), by striking ``criminal 
+        investigation'' each place it appears and inserting ``criminal 
+        or national security investigation''; and
+            (2) by amending paragraph (2) to read as follows:
+            ``(2) Definitions.--As used in this subsection--
+                    ``(A) the term `foreign intelligence information' 
+                means--
+                            ``(i) information, whether or not 
+                        concerning a United States person, that relates 
+                        to the ability of the United States to protect 
+                        against--
+                                    ``(I) actual or potential attack or 
+                                other grave hostile acts of a foreign 
+                                power or an agent of a foreign power;
+                                    ``(II) sabotage or international 
+                                terrorism by a foreign power or an 
+                                agent of a foreign power; or
+                                    ``(III) clandestine intelligence 
+                                activities by an intelligence service 
+                                or network of a foreign power or by an 
+                                agent of a foreign power; or
+                            ``(ii) information, whether or not 
+                        concerning a United States person, with respect 
+                        to a foreign power or foreign territory that 
+                        relates to--
+                                    ``(I) the national defense or the 
+                                security of the United States; or
+                                    ``(II) the conduct of the foreign 
+                                affairs of the United States; and
+                    ``(B) the term `national security investigation'--
+                            ``(i) means any investigative activity to 
+                        protect the national security; and
+                            ``(ii) includes--
+                                    ``(I) counterintelligence and the 
+                                collection of intelligence (as defined 
+                                in section 3 of the National Security 
+                                Act of 1947 (50 U.S.C. 401a)); and
+                                    ``(II) the collection of foreign 
+                                intelligence information.''.
+
+SEC. 3. GRAND JURY INFORMATION SHARING.
+
+    (a) Rule Amendments.--Rule 6(e) of the Federal Rules of Criminal 
+Procedure is amended--
+            (1) in paragraph (3)--
+                    (A) in subparagraph (A)(ii), by striking ``or state 
+                subdivision or of an Indian tribe'' and inserting ``, 
+                state subdivision, Indian tribe, or foreign 
+                government'';
+                    (B) in subparagraph (D)--
+                            (i) by inserting after the first sentence 
+                        the following: ``An attorney for the government 
+                        may also disclose any grand-jury matter 
+                        involving a threat of actual or potential 
+                        attack or other grave hostile acts of a foreign 
+                        power or an agent of a foreign power, domestic 
+                        or international sabotage, domestic or 
+                        international terrorism, or clandestine 
+                        intelligence gathering activities by an 
+                        intelligence service or network of a foreign 
+                        power or by an agent of a foreign power, within 
+                        the United States or elsewhere, to any 
+                        appropriate Federal, State, state subdivision, 
+                        Indian tribal, or foreign government official 
+                        for the purpose of preventing or responding to 
+                        such a threat.''; and
+                            (ii) in clause (i)--
+                                    (I) by striking ``federal''; and
+                                    (II) by adding at the end the 
+                                following: ``Any State, state 
+                                subdivision, Indian tribal, or foreign 
+                                government official who receives 
+                                information under Rule 6(e)(3)(D) may 
+                                use the information only consistent 
+                                with such guidelines as the Attorney 
+                                General and Director of Central 
+                                Intelligence shall jointly issue.''; 
+                                and
+                    (C) in subparagraph (E)--
+                            (i) by redesignating clauses (iii) and (iv) 
+                        as clauses (iv) and (v), respectively;
+                            (ii) by inserting after clause (ii) the 
+                        following:
+                            ``(iii) at the request of the government, 
+                        when sought by a foreign court or prosecutor 
+                        for use in an official criminal investigation; 
+                        ''; and
+                            (iii) in clause (iv), as redesignated--
+                                    (I) by striking ``state or Indian 
+                                tribal'' and inserting ``State, Indian 
+                                tribal, or foreign''; and
+                                    (II) by striking ``or Indian tribal 
+                                official'' and inserting ``Indian 
+                                tribal, or foreign government 
+                                official''; and
+            (2) in paragraph (7), by inserting ``, or of guidelines 
+        jointly issued by the Attorney General and Director of Central 
+        Intelligence pursuant to Rule 6,'' after ``Rule 6''.
+    (b) Conforming Amendment.--Section 203(c) of the USA PATRIOT ACT 
+(18 U.S.C. 2517 note) is amended by striking ``Rule 6(e)(3)(C)(i)(V) 
+and (VI)'' and inserting ``Rule 6(e)(3)(D)''.
+                                 <all>
+

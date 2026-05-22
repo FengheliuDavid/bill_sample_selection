@@ -1,0 +1,299 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5746 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                H. R. 5746
+
+To amend the Federal Deposit Insurance Act to establish industrial bank 
+          holding company regulation, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 10, 2006
+
+Mr. Gillmor (for himself and Mr. Frank of Massachusetts) introduced the 
+   following bill; which was referred to the Committee on Financial 
+                                Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Deposit Insurance Act to establish industrial bank 
+          holding company regulation, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Industrial Bank Holding Company Act 
+of 2006''.
+
+SEC. 2. INDUSTRIAL BANK HOLDING COMPANY REGULATION.
+
+    (a) Definitions.--
+            (1) Industrial bank.--Section 3(a) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1813(a)) is amended by adding at the 
+        end the following new paragraph:
+            ``(5) Industrial bank.--The term `industrial bank' means 
+        any insured State bank that is an industrial bank, industrial 
+        loan company, or other institution described in section 
+        2(c)(2)(H) of the Bank Holding Company Act of 1956.''.
+            (2) Industrial bank holding company.--Section 3(w) of the 
+        Federal Deposit Insurance Act (12 U.S.C. 1813(w)) is amended by 
+        adding at the end the following new paragraph:
+            ``(8) Industrial bank holding company.--The term 
+        `industrial bank holding company' means any company that--
+                    ``(A) controls (as determined by the Corporation), 
+                directly or indirectly, any industrial bank; and
+                    ``(B) is not a bank holding company, a savings and 
+                loan holding company, or a company that is subject to 
+                the Bank Holding Company Act of 1956 pursuant to 
+                section 8(a) of the International Banking Act of 
+                1978.''.
+            (3) Technical and conforming amendments to other 
+        definitions.--
+                    (A) Appropriate federal banking agency.--Section 
+                3(q)(3) of the Federal Deposit Insurance Act (12 U.S.C. 
+                1813(q)(3)) is amended--
+                            (i) by striking ``or a foreign'' and 
+                        inserting ``, any foreign''; and
+                            (ii) by inserting ``, and any industrial 
+                        bank holding company'' after ``insured 
+                        branch''.
+                    (B) Depository institution holding company.--
+                Section 3(w)(1) of the Federal Deposit Insurance Act 
+                (12 U.S.C. 1813(w)(1)) is amended--
+                            (i) by striking ``or a savings'' and 
+                        inserting ``, any savings''; and
+                            (ii) by inserting ``, and any industrial 
+                        bank holding company'' before the period at the 
+                        end.
+    (b) Industrial Bank Holding Company Registration and Ownership.--
+The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended 
+by adding at the end the following new section:
+
+``SEC. 50. INDUSTRIAL BANK HOLDING COMPANY REGULATION.
+
+    ``(a) Registration.--
+            ``(1) In general.--Within 90 days after becoming an 
+        industrial bank holding company, each industrial bank holding 
+        company shall register with the Corporation on forms prescribed 
+        by the Corporation.
+            ``(2) Information to be included.--Each registration 
+        submitted under paragraph (1) shall include such information, 
+        under oath, with respect to the financial condition, ownership, 
+        operations, management, and intercompany relationships of the 
+        industrial bank holding company and subsidiaries of such 
+        holding company, and other factors (including information 
+        described in subsection (b)(1)(C)), as the Corporation may 
+        determine to be appropriate to carry out the purposes of this 
+        section.
+            ``(3) Extension of time for submitting complete 
+        information.--Upon application by an industrial bank holding 
+        company and subject to such requirements, factors, and evidence 
+        as the Corporation may require, the Corporation may extend the 
+        period described in paragraph (1) within which such company 
+        shall register and file the requisite information.
+            ``(4) Application to prior holding companies.--In the case 
+        of any company that becomes an industrial bank holding company 
+        by virtue of the enactment of the Industrial Bank Holding 
+        Company Act of 2006, the 90-day period referred to in paragraph 
+        (1) shall begin on the date of the enactment of such Act.
+    ``(b) Reports and Examinations .--
+            ``(1) Reports.--
+                    ``(A) Reports required.--Each industrial bank 
+                holding company and each subsidiary of an industrial 
+                bank holding company, other than an industrial bank, 
+                shall file with the Corporation such reports as may be 
+                required by the Corporation.
+                    ``(B) Form and manner.--Reports filed under 
+                subparagraph (A) shall be made under oath and shall be 
+                in such form and for such periods, as the Corporation 
+                may prescribe.
+                    ``(C) Information.--Each report filed under 
+                subparagraph (A) shall contain such information as the 
+                Corporation may require concerning--
+                            ``(i) the operations of the industrial bank 
+                        holding company and its subsidiaries;
+                            ``(ii) the financial condition of the 
+                        industrial bank holding company and such 
+                        subsidiaries, together with information on 
+                        systems maintained within the holding company 
+                        for monitoring and controlling financial and 
+                        operating risks, and transactions with 
+                        industrial bank subsidiaries of the holding 
+                        company;
+                            ``(iii) compliance by the industrial bank 
+                        holding company and its subsidiaries with all 
+                        applicable Federal and State law; and
+                            ``(iv) such other information as the 
+                        Corporation may require.
+                    ``(D) Acceptance of existing reports.--For purposes 
+                of this paragraph, the Corporation may accept reports 
+                that an industrial bank holding company or any 
+                subsidiary of such company has provided or has been 
+                required to provide to any other Federal or State 
+                supervisor or to any appropriate self-regulatory 
+                organization.
+            ``(2) Examinations.--
+                    ``(A) In general.--Each industrial bank holding 
+                company and each subsidiary of each such holding 
+                company (other than an industrial bank) shall be 
+                subject to such examinations by the Corporation as the 
+                Corporation may prescribe for purposes of this section.
+                    ``(B) Furnishing reports to other agencies.--
+                Examination and other reports made or received under 
+                this section may be furnished by the Corporation to any 
+                other Federal agency or any appropriate State bank 
+                supervisor.
+                    ``(C) Use of reports from other agencies.--The 
+                Corporation may use, for the purposes of this 
+                subsection, reports of examination made by any other 
+                Federal agency or any appropriate State bank supervisor 
+                with respect to any industrial bank holding company or 
+                subsidiary of any such holding company, to the extent 
+                the Corporation may determine such use to be feasible 
+                for such purposes.
+    ``(c) Limitation on Control.--
+            ``(1) In general.--Except as provided in paragraph (3) or 
+        (4), no industrial bank may be controlled, directly or 
+        indirectly, by a commercial firm.
+            ``(2) Commercial firm defined.--For purposes of this 
+        section, the term `commercial firm' means any entity at least 
+        15 percent of the annual gross revenues of which on a 
+        consolidated basis, including all affiliates of the entity, 
+        were derived from engaging, on an on-going basis, in activities 
+        that are not financial in nature or incidental to a financial 
+        activity during at least 3 of the prior 4 calendar quarters, as 
+        determined by the Corporation in accordance with regulations 
+        which the Corporation shall prescribe.
+            ``(3) Pre-2003 exclusions.--
+                    ``(A) Grandfathered institutions.--Paragraph (1) 
+                shall not apply with respect to any industrial bank--
+                            ``(i) which became an insured depository 
+                        institution before October 1, 2003, or pursuant 
+                        to an application for deposit insurance which 
+                        was approved by the Corporation before such 
+                        date; and
+                            ``(ii) with respect to which there is no 
+                        change in control, directly or indirectly, of 
+                        the bank after September 30, 2003, that 
+                        requires a registration under this section or 
+                        an application under section 7(j) or 18(c), 
+                        section 3 of the Bank Holding Company Act of 
+                        1956, or section 10 of the Home Owners' Loan 
+                        Act.
+                    ``(B) Corporate reorganizations permitted.--The 
+                acquisition of direct or indirect control of the 
+                industrial bank referred to in subparagraph (A)(ii) 
+                shall not be treated as a `change in control' for 
+                purposes of such subparagraph if the company acquiring 
+                control is itself directly or indirectly controlled by 
+                a company that was an affiliate of such bank on the 
+                date referred to in such paragraph, and remains an 
+                affiliate at all times after such date.
+            ``(4) Pre-2006 exclusions.--
+                    ``(A) Grandfathered commercial firms.--Paragraph 
+                (1) shall not apply to any commercial firm--
+                            ``(i) which became an industrial bank 
+                        holding company by virtue of acquiring control 
+                        of an industrial bank on or after October 1, 
+                        2003, and before June 1, 2006;
+                            ``(ii) which does not acquire control of 
+                        any other depository institution after May 31, 
+                        2006;
+                            ``(iii) with respect to which there is no 
+                        change in control, directly or indirectly, of 
+                        any depository institution subsidiary after 
+                        June 1, 2006, that requires a registration 
+                        under this section or an application under 
+                        section 7(j) or 18(c), section 3 of the Bank 
+                        Holding Company Act of 1956, or section 10 of 
+                        the Home Owners' Loan Act; and
+                            ``(iv) each industrial bank subsidiary of 
+                        which remains in compliance with the 
+                        limitations contained in subparagraph (B).
+                    ``(B) Activity and branching limitations.--An 
+                industrial bank subsidiary of a commercial firm 
+                described in clauses (i), (ii) and (iii) of 
+                subparagraph (A) is in compliance with the requirements 
+                of this subparagraph for purposes of subparagraph 
+                (A)(iv) so long as the industrial bank--
+                            ``(i) engages only in activities in which 
+                        the industrial bank was engaged on May 31, 
+                        2006; and
+                            ``(ii) does not acquire, establish, or 
+                        operate any branch, deposit production office, 
+                        loan production office, automated teller 
+                        machine, or remote service unit in any State 
+                        other than the home State of the bank or any 
+                        host State in which such bank operated branches 
+                        on May 31, 2006.
+                    ``(C) Corporate reorganizations permitted.--The 
+                acquisition of direct or indirect control of a 
+                depository institution subsidiary referred to in 
+                subparagraph (A)(iii) shall not be treated as a `change 
+                in control' for purposes of such subparagraph if the 
+                company acquiring control is itself directly or 
+                indirectly controlled by a company that was an 
+                affiliate of such subsidiary on the date referred to in 
+                such paragraph, and remains an affiliate at all times 
+                after such date.
+            ``(5) Transition provision.--Any divestiture of any 
+        industrial bank by an industrial bank holding company that is 
+        required by operation of this section shall be completed as 
+        quickly as is reasonably possible and not later than the end of 
+        the 2-year period beginning on the earliest of, as 
+        appropriate--
+                    ``(A) the date on which control of the industrial 
+                bank is acquired by a commercial firm;
+                    ``(B) the date on which the industrial bank holding 
+                company that controls such bank becomes a commercial 
+                firm; or
+                    ``(C) the date on which an industrial bank 
+                subsidiary of the industrial bank holding company 
+                ceases to comply with any limitation applicable to such 
+                bank under paragraph (4)(B).
+    ``(d) Administrative Provisions.--
+            ``(1) Agent for service of process.--The Corporation may 
+        require any industrial bank holding company, or persons 
+        connected with such holding company if it is not a corporation, 
+        to execute and file a prescribed form of irrevocable 
+        appointment of agent for service of process.
+            ``(2) Release from registration.--The Corporation may at 
+        any time, upon the Corporation's own motion or upon 
+        application, release a registered industrial bank holding 
+        company from any registration previously made by such company, 
+        if the Corporation determines that such company no longer 
+        controls any industrial bank.''.
+    (c) Enforcement.--Section 8(b) of the Federal Deposit Insurance Act 
+(12 U.S.C. 1818(b)) is amended by adding at the end the following new 
+paragraph:
+            ``(11) Industrial bank holding companies.--This subsection 
+        and subsections (c) through (s) and subsection (u) of this 
+        section shall apply to any industrial bank holding company, and 
+        to any subsidiary (other than an industrial bank) of an 
+        industrial bank holding company in the same manner as such 
+        subsections apply to State nonmember banks.''.
+    (d) Technical and Conforming Amendment.--Section 10(e)(2) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1820(e)(2)) is amended by 
+inserting ``or section 50(b)(2)'' after ``subsection (b)(4)''.
+                                 <all>
+

@@ -1,0 +1,226 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4618 Introduced in House (IH)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 4618
+
+  To amend the Securities Exchange Act of 1934 to establish rules and 
+ procedures for the delegation of compliance and inspections authority 
+ to the operating divisions of the Securities and Exchange Commission, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           December 17, 2005
+
+  Mr. Fossella (for himself and Mr. Castle) introduced the following 
+    bill; which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Securities Exchange Act of 1934 to establish rules and 
+ procedures for the delegation of compliance and inspections authority 
+ to the operating divisions of the Securities and Exchange Commission, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Compliance, Examinations, and 
+Inspections Restructuring Act of 2005''.
+
+SEC. 2. ORGANIZATION AND CONDUCT OF THE DIVISIONS AND OFFICES OF THE 
+              SECURITIES AND EXCHANGE COMMISSION.
+
+     Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) 
+is amended by adding at the end the following new subsections:
+    ``(g) Divisions and Offices of the Commission.--
+            ``(1) Compliance, inspections, and examinations.--The 
+        authority that the Commission has to conduct inspections and 
+        examinations of registered brokers or dealers (15 U.S.C. 
+        78q(b)), registered investment companies (15 U.S.C. 80a-30(b)), 
+        and registered investment advisers (15 U.S.C. 80b-4) shall be 
+        vested in the administrative divisions or offices to which the 
+        Commission has delegated pursuant to section 4A of this Act the 
+        authority to administer its responsibilities under this Act, 
+        the Investment Company Act of 1940 (15 U.S.C. 80a), and the 
+        Investment Advisers Act of 1940 (15 U.S.C. 80b). The Commission 
+        shall report to Congress pursuant to section 21(a) of this Act 
+        no less frequently than every 5 years from the enactment of 
+        this subsection, and shall in that report state its views on 
+        the continuing efficacy, effectiveness, and efficiency of 
+        requiring the administrative divisions or offices to conduct 
+        inspections and examinations of registered brokers or dealers, 
+        registered investment companies, and registered investment 
+        advisers.
+            ``(2) Closure of open matters.--Not less frequently than 
+        every 120 days during a period in which an enforcement division 
+        or office of the Commission with respect to a formal or 
+        informal inquiry, or an administrative division or office of 
+        the Commission with respect to an inspection or examination, is 
+        conducting an inquiry or inspection, that division or office 
+        shall notify in writing the person who is the subject of that 
+        inquiry or inspection to inform such person of the status of 
+        the inquiry or inspection. When that division or office has 
+        completed its inquiry or inspection, that division or office 
+        shall, within 10 days of completing that inquiry or inspection, 
+        notify in writing the person who was the subject of that 
+        inquiry or inspection that the inquiry or inspection has been 
+        completed.
+            ``(3) Sweep examinations or inspections.--
+                    ``(A) Notice and approval.--Before an 
+                administrative division or office of the Commission may 
+                conduct an inspection of registered brokers or dealers, 
+                registered investment companies, or registered 
+                investment advisers, it shall provide written 
+                notification in such form determined by the Chairman. 
+                Before an administrative division or office of the 
+                Commission may conduct a sweep examination of 
+                registered brokers or dealers, registered investment 
+                companies, or registered investment advisers, it shall 
+                seek authority from the Commission to conduct such a 
+                sweep examination or inspection in the same manner and 
+                subject to the same procedures that the enforcement 
+                divisions or offices of the Commission must follow in 
+                seeking the authority to conduct a formal investigation 
+                or inquiry regarding a registered brokers or dealer, a 
+                registered investment company, or a registered 
+                investment adviser.
+                    ``(B) Content.--An administrative division or 
+                office of the Commission shall confine the content of a 
+                sweep examination or inspection to those existing books 
+                and records that the registered broker or dealer, 
+                registered investment company, or registered investment 
+                adviser is required to keep and maintain under 
+                applicable rules and regulations, and may not require 
+                the creation of a new document or the calculation or 
+                presentation of data that is not required to be kept or 
+                maintained under applicable rules and regulations.
+            ``(4) Definitions.--For purposes of this subsection, the 
+        following definitions shall apply:
+                    ``(A) Confidential communication.--The term 
+                `confidential communication' shall mean any transfer of 
+                information, regardless of the form or format in which 
+                the information is communicated to an officer or 
+                employee of a compliance and inspections office, about 
+                a registered broker or dealer, registered investment 
+                company, or registered investment adviser by an officer 
+                or employee of a registered broker or dealer, 
+                registered investment company, or registered investment 
+                adviser regarding whether the broker or dealer, 
+                investment company, or investment adviser is in 
+                compliance with applicable provisions of this Act, the 
+                Securities Act of 1933, the Investment Company Act of 
+                1940, or the Investment Advisers Act of 1940, wherein 
+                the officer or employee transferring such information 
+                reasonably believes in good faith that the information 
+                being communicated to an officer or employee of a 
+                compliance and inspections office of the Commission--
+                            ``(i) is not information required to be 
+                        made publicly available by any applicable 
+                        Federal law or regulation; or
+                            ``(ii) is information regarding any book, 
+                        record, or other information in the possession 
+                        of, or maintained on behalf of, the registered 
+                        broker or dealer, registered investment 
+                        company, or registered investment adviser that 
+                        is subject to the examination and inspection 
+                        authority of the Commission.
+                    ``(B) Sweep examination.--Not later than 60 days 
+                after the date of enactment of this subsection, the 
+                Commission shall define the term `sweep examination' 
+                for purposes of this subsection.
+                    ``(C) Enforcement division.--The term `enforcement 
+                division' means the divisions or offices to which the 
+                Commission has delegated pursuant to section 4A of this 
+                Act the authority to investigate and to enforce the 
+                provisions of this Act, the Investment Company Act of 
+                1940 (15 U.S.C. 80a-41), and the Investment Advisers 
+                Act of 1940 (15 U.S.C. 80b-9).
+    ``(h) Ombudsman.--
+            ``(1) Appointment.--Not later than 180 days after the date 
+        of enactment of this section, the Chairman of the Securities 
+        and Exchange Commission shall appoint an Ombudsman who shall 
+        report directly to the Chairman.
+            ``(2) Duties of ombudsman.--The Ombudsman appointed under 
+        subsection (a) shall--
+                    ``(A) ensure safeguards exist to encourage persons 
+                who are issuers registered brokers or dealers, 
+                registered investment companies, or registered 
+                investment advisers to present questions to the 
+                Commission regarding compliance with the securities 
+                laws;
+                    ``(B) maintain privilege of confidential 
+                communications between such persons and the Ombudsman;
+                    ``(C) advise and guide such persons through the 
+                process of self-reporting, ensuring appropriate and due 
+                credit is given to the registrant upon self-reporting; 
+                and
+                    ``(D) act as a liaison between the agency and such 
+                persons with respect to any problem such registrant may 
+                have in dealing with the agency resulting from the 
+                regulatory activities of the agency.
+            ``(3) Limitation.--In carrying out the duties under 
+        paragraph (1), the Ombudsman shall utilize personnel of the 
+        Commission to the extent practicable. Nothing in this section 
+        is intended to replace, alter, or diminish the activities of 
+        any ombudsman or similar office in any other agency.
+            ``(4) Disclosure of confidential communications.--
+        Notwithstanding any other provision of this subsection, in 
+        those circumstances where the most senior officer of the 
+        enforcement division or office of the Commission has made a 
+        formal recommendation in writing to the Commission that it 
+        exercise its authority in section 21(d)(1) to seek an 
+        injunction against a registered broker or dealer, its authority 
+        in section 42(d) of the Investment Company Act of 1940 to seek 
+        an injunction against a registered investment company, or its 
+        authority in section 209(d) of the Investment Advisers Act of 
+        1940 to seek an injunction against a registered investment 
+        adviser, the Ombudsman or an employee of the Ombudsman shall 
+        disclose to the officers and employees of any other division or 
+        office any confidential communications received from an officer 
+        or employee of a registered broker or dealer, a registered 
+        investment company, or a registered investment adviser pursuant 
+        to the provisions of Section 24(b).
+            ``(5) Report.--Each year, the Ombudsman shall submit a 
+        report to the Commission for inclusion in the annual report 
+        that describes the activities, and evaluates the effectiveness 
+        of the Ombudsman during the preceding year. In that report, the 
+        Ombudsman shall include solicited comments and evaluations from 
+        registrants in regards to the effectiveness of the 
+        Ombudsman.''.
+
+SEC. 3. SENSE OF CONGRESS.
+
+    It is the sense of Congress that the Securities and Exchange 
+Commission should develop and publish guidelines setting forth 
+explicitly the benefit that an issuer the securities of which are 
+registered under section 12 of the Securities Exchange Act of 1934, a 
+registered broker-dealer, a registered investment company, or a 
+registered investment adviser shall receive if it self-reports to an 
+administrative division or office of the Commission or to an 
+enforcement division or office of the Commission an apparent violation 
+of law, rules, or regulations applicable to it and is subsequently the 
+respondent in a civil injunctive action or administrative proceeding 
+brought by the Commission with respect to the matter that was self-
+reported.
+                                 <all>
+

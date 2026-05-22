@@ -1,0 +1,356 @@
+[Congressional Bills 115th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3978 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+115th CONGRESS
+  2d Session
+                                H. R. 3978
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend the Real Estate Settlement Procedures Act of 1974 to modify 
+ requirements related to mortgage disclosures, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Table of contents.
+Sec. 2. Securities and Exchange Commission Reserve Fund.
+                       TITLE I--TRID IMPROVEMENT
+
+Sec. 101. Amendments to mortgage disclosure requirements.
+                  TITLE II--PROTECTION OF SOURCE CODE
+
+Sec. 201. Procedure for obtaining certain intellectual property.
+                    TITLE III--FOSTERING INNOVATION
+
+Sec. 301. Temporary exemption for low-revenue issuers.
+        TITLE IV--NATIONAL SECURITIES EXCHANGE REGULATORY PARITY
+
+Sec. 401. Nationally traded securities exemption.
+       TITLE V--ELIMINATING BARRIERS TO JOBS FOR LOAN ORIGINATORS
+
+Sec. 501. Eliminating barriers to jobs for loan originators.
+Sec. 502. Amendment to civil liability of the Bureau and other 
+                            officials.
+Sec. 503. Effective date.
+
+SEC. 2. SECURITIES AND EXCHANGE COMMISSION RESERVE FUND.
+
+    Notwithstanding section 4(i)(2)(B)(i) of the Securities Exchange 
+Act of 1934 (15 U.S.C. 78d(i)(2)(B)(i)), the amount deposited in the 
+Securities and Exchange Commission Reserve Fund for fiscal year 2018 
+may not exceed $48,000,000.
+
+                       TITLE I--TRID IMPROVEMENT
+
+SEC. 101. AMENDMENTS TO MORTGAGE DISCLOSURE REQUIREMENTS.
+
+    Section 4(a) of the Real Estate Settlement Procedures Act of 1974 
+(12 U.S.C. 2603(a)) is amended--
+            (1) by striking ``itemize all charges'' and inserting 
+        ``itemize all actual charges'';
+            (2) by striking ``and all charges imposed upon the seller 
+        in connection with the settlement and'' and inserting ``and the 
+        seller in connection with the settlement. Such forms''; and
+            (3) by inserting after ``or both.'' the following new 
+        sentence: ``Charges for any title insurance premium disclosed 
+        on such forms shall be equal to the amount charged for each 
+        individual title insurance policy, subject to any discounts as 
+        required by State regulation or the title company rate 
+        filings.''.
+
+                  TITLE II--PROTECTION OF SOURCE CODE
+
+SEC. 201. PROCEDURE FOR OBTAINING CERTAIN INTELLECTUAL PROPERTY.
+
+    (a) Persons Under Securities Act of 1933.--Section 8 of the 
+Securities Act of 1933 (15 U.S.C. 77h) is amended by adding at the end 
+the following:
+    ``(g) Procedure for Obtaining Certain Intellectual Property.--The 
+Commission is not authorized to compel under this title a person to 
+produce or furnish algorithmic trading source code or similar 
+intellectual property that forms the basis for design of the 
+algorithmic trading source code, to the Commission unless the 
+Commission first issues a subpoena.''.
+    (b) Persons Under the Securities Exchange Act of 1934.--Section 23 
+of the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by 
+adding at the end the following:
+    ``(e) Procedure for Obtaining Certain Intellectual Property.--The 
+Commission is not authorized to compel under this title a person to 
+produce or furnish algorithmic trading source code or similar 
+intellectual property that forms the basis for design of the 
+algorithmic trading source code, to the Commission unless the 
+Commission first issues a subpoena.''.
+    (c) Investment Companies.--Section 31 of the Investment Company Act 
+of 1940 (15 U.S.C. 80a-30) is amended by adding at the end the 
+following:
+    ``(e) Procedure for Obtaining Certain Intellectual Property.--The 
+Commission is not authorized to compel under this title an investment 
+company to produce or furnish algorithmic trading source code or 
+similar intellectual property that forms the basis for design of the 
+algorithmic trading source code, to the Commission unless the 
+Commission first issues a subpoena.''.
+    (d) Investment Advisers.--Section 204 of the Investment Advisers 
+Act of 1940 (15 U.S.C. 80b-4) is amended--
+            (1) by adding at the end the following:
+    ``(f) Procedure for Obtaining Certain Intellectual Property.--The 
+Commission is not authorized to compel under this title an investment 
+adviser to produce or furnish algorithmic trading source code or 
+similar intellectual property that forms the basis for design of the 
+algorithmic trading source code, to the Commission unless the 
+Commission first issues a subpoena.''; and
+            (2) in the second subsection (d), by striking ``(d)'' and 
+        inserting ``(e)''.
+
+                    TITLE III--FOSTERING INNOVATION
+
+SEC. 301. TEMPORARY EXEMPTION FOR LOW-REVENUE ISSUERS.
+
+    Section 404 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262) is 
+amended by adding at the end the following:
+    ``(d) Temporary Exemption for Low-Revenue Issuers.--
+            ``(1) Low-revenue exemption.--Subsection (b) shall not 
+        apply with respect to an audit report prepared for an issuer 
+        that--
+                    ``(A) ceased to be an emerging growth company on 
+                the last day of the fiscal year of the issuer following 
+                the fifth anniversary of the date of the first sale of 
+                common equity securities of the issuer pursuant to an 
+                effective registration statement under the Securities 
+                Act of 1933;
+                    ``(B) had average annual gross revenues of less 
+                than $50,000,000 as of its most recently completed 
+                fiscal year; and
+                    ``(C) is not a large accelerated filer.
+            ``(2) Expiration of temporary exemption.--An issuer ceases 
+        to be eligible for the exemption described under paragraph (1) 
+        at the earliest of--
+                    ``(A) the last day of the fiscal year of the issuer 
+                following the tenth anniversary of the date of the 
+                first sale of common equity securities of the issuer 
+                pursuant to an effective registration statement under 
+                the Securities Act of 1933;
+                    ``(B) the last day of the fiscal year of the issuer 
+                during which the average annual gross revenues of the 
+                issuer exceed $50,000,000; or
+                    ``(C) the date on which the issuer becomes a large 
+                accelerated filer.
+            ``(3) Definitions.--For purposes of this subsection:
+                    ``(A) Average annual gross revenues.--The term 
+                `average annual gross revenues' means the total gross 
+                revenues of an issuer over its most recently completed 
+                three fiscal years divided by three.
+                    ``(B) Emerging growth company.--The term `emerging 
+                growth company' has the meaning given such term under 
+                section 3 of the Securities Exchange Act of 1934 (15 
+                U.S.C. 78c).
+                    ``(C) Large accelerated filer.--The term `large 
+                accelerated filer' has the meaning given that term 
+                under section 240.12b-2 of title 17, Code of Federal 
+                Regulations, or any successor thereto.''.
+
+        TITLE IV--NATIONAL SECURITIES EXCHANGE REGULATORY PARITY
+
+SEC. 401. NATIONALLY TRADED SECURITIES EXEMPTION.
+
+    Section 18(b)(1) of the Securities Act of 1933 (15 U.S.C. 
+77r(b)(1)) is amended--
+            (1) by striking subparagraph (A);
+            (2) in subparagraph (B)--
+                    (A) by inserting ``a security designated as 
+                qualified for trading in the national market system 
+                pursuant to section 11A(a)(2) of the Securities 
+                Exchange Act of 1934 that is'' before ``listed''; and
+                    (B) by striking ``that has listing standards that 
+                the Commission determines by rule (on its own 
+                initiative or on the basis of a petition) are 
+                substantially similar to the listing standards 
+                applicable to securities described in subparagraph 
+                (A)'';
+            (3) in subparagraph (C), by striking ``or (B)''; and
+            (4) by redesignating subparagraphs (B) and (C) as 
+        subparagraphs (A) and (B), respectively.
+
+       TITLE V--ELIMINATING BARRIERS TO JOBS FOR LOAN ORIGINATORS
+
+SEC. 501. ELIMINATING BARRIERS TO JOBS FOR LOAN ORIGINATORS.
+
+    (a) In General.--The S.A.F.E. Mortgage Licensing Act of 2008 (12 
+U.S.C. 5101 et seq.) is amended by adding at the end the following:
+
+``SEC. 1518. EMPLOYMENT TRANSITION OF LOAN ORIGINATORS.
+
+    ``(a) Temporary Authority To Originate Loans for Loan Originators 
+Moving From a Depository Institution to a Non-Depository Institution.--
+            ``(1) In general.--Upon employment by a State-licensed 
+        mortgage company, an individual who is a registered loan 
+        originator shall be deemed to have temporary authority to act 
+        as a loan originator in an application State for the period 
+        described in paragraph (2) if the individual--
+                    ``(A) has not had an application for a loan 
+                originator license denied, or had such a license 
+                revoked or suspended in any governmental jurisdiction;
+                    ``(B) has not been subject to or served with a 
+                cease and desist order in any governmental jurisdiction 
+                or as described in section 1514(c);
+                    ``(C) has not been convicted of a felony that would 
+                preclude licensure under the law of the application 
+                State;
+                    ``(D) has submitted an application to be a State-
+                licensed loan originator in the application State; and
+                    ``(E) was registered in the Nationwide Mortgage 
+                Licensing System and Registry as a loan originator 
+                during the 12-month period preceding the date of 
+                submission of the information required under section 
+                1505(a).
+            ``(2) Period.--The period described in paragraph (1) shall 
+        begin on the date that the individual submits the information 
+        required under section 1505(a) and shall end on the earliest 
+        of--
+                    ``(A) the date that the individual withdraws the 
+                application to be a State-licensed loan originator in 
+                the application State;
+                    ``(B) the date that the application State denies, 
+                or issues a notice of intent to deny, the application;
+                    ``(C) the date that the application State grants a 
+                State license; or
+                    ``(D) the date that is 120 days after the date on 
+                which the individual submits the application, if the 
+                application is listed on the Nationwide Mortgage 
+                Licensing System and Registry as incomplete.
+    ``(b) Temporary Authority To Originate Loans for State-Licensed 
+Loan Originators Moving Interstate.--
+            ``(1) In general.--A State-licensed loan originator shall 
+        be deemed to have temporary authority to act as a loan 
+        originator in an application State for the period described in 
+        paragraph (2) if the State-licensed loan originator--
+                    ``(A) meets the requirements of subparagraphs (A), 
+                (B), (C), and (D) of subsection (a)(1);
+                    ``(B) is employed by a State-licensed mortgage 
+                company in the application State; and
+                    ``(C) was licensed in a State that is not the 
+                application State during the 30-day period preceding 
+                the date of submission of the information required 
+                under section 1505(a) in connection with the 
+                application submitted to the application State.
+            ``(2) Period.--The period described in paragraph (1) shall 
+        begin on the date that the State-licensed loan originator 
+        submits the information required under section 1505(a) in 
+        connection with the application submitted to the application 
+        State and end on the earliest of--
+                    ``(A) the date that the State-licensed loan 
+                originator withdraws the application to be a State-
+                licensed loan originator in the application State;
+                    ``(B) the date that the application State denies, 
+                or issues a notice of intent to deny, the application;
+                    ``(C) the date that the application State grants a 
+                State license; or
+                    ``(D) the date that is 120 days after the date on 
+                which the State-licensed loan originator submits the 
+                application, if the application is listed on the 
+                Nationwide Mortgage Licensing System and Registry as 
+                incomplete.
+    ``(c) Applicability.--
+            ``(1) Any person employing an individual who is deemed to 
+        have temporary authority to act as a loan originator in an 
+        application State pursuant to this section shall be subject to 
+        the requirements of this title and to applicable State law to 
+        the same extent as if such individual was a State-licensed loan 
+        originator licensed by the application State.
+            ``(2) Any individual who is deemed to have temporary 
+        authority to act as a loan originator in an application State 
+        pursuant to this section and who engages in residential 
+        mortgage loan origination activities shall be subject to the 
+        requirements of this title and to applicable State law to the 
+        same extent as if such individual was a State-licensed loan 
+        originator licensed by the application State.
+    ``(d) Definitions.--In this section, the following definitions 
+shall apply:
+            ``(1) State-licensed mortgage company.--The term `State-
+        licensed mortgage company' means an entity licensed or 
+        registered under the law of any State to engage in residential 
+        mortgage loan origination and processing activities.
+            ``(2) Application state.--The term `application State' 
+        means a State in which a registered loan originator or a State-
+        licensed loan originator seeks to be licensed.''.
+    (b) Table of Contents Amendment.--The table of contents in section 
+1(b) of the Housing and Economic Recovery Act of 2008 (42 U.S.C. 4501 
+note) is amended by inserting after the item relating to section 1517 
+the following:
+
+``Sec. 1518. Employment transition of loan originators.''.
+
+SEC. 502. AMENDMENT TO CIVIL LIABILITY OF THE BUREAU AND OTHER 
+              OFFICIALS.
+
+    Section 1513 of the S.A.F.E. Mortgage Licensing Act of 2008 (12 
+U.S.C. 5112) is amended by striking ``are loan originators or are 
+applying for licensing or registration as loan originators.'' and 
+inserting ``have applied, are applying, or are currently licensed or 
+registered through the Nationwide Mortgage Licensing System and 
+Registry. The previous sentence shall only apply to persons in an 
+industry with respect to which persons were licensed or registered 
+through the Nationwide Mortgage Licensing System and Registry on the 
+date of the enactment of this sentence.''.
+
+SEC. 503. EFFECTIVE DATE.
+
+    This title and the amendments made by this title shall take effect 
+on the date that is 18 months after the date of the enactment of this 
+Act.
+
+            Passed the House of Representatives February 14, 2018.
+
+            Attest:
+
+                                                                 Clerk.
+115th CONGRESS
+
+  2d Session
+
+                               H. R. 3978
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To amend the Real Estate Settlement Procedures Act of 1974 to modify 
+ requirements related to mortgage disclosures, and for other purposes.
+

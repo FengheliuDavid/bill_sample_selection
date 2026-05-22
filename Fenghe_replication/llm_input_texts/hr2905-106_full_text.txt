@@ -1,0 +1,292 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2905 Introduced in House (IH)]
+
+
+
+
+
+
+
+106th CONGRESS
+  1st Session
+                                H. R. 2905
+
+To eliminate money laundering in the private banking system, to require 
+ the Secretary of the Treasury to take certain actions with regard to 
+foreign countries in which there is a concentration of money laundering 
+                  activities, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 21, 1999
+
+  Ms. Waters (for herself, Mr. Vento, Ms. Velazquez, and Mr. Hinchey) 
+ introduced the following bill; which was referred to the Committee on 
+                     Banking and Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To eliminate money laundering in the private banking system, to require 
+ the Secretary of the Treasury to take certain actions with regard to 
+foreign countries in which there is a concentration of money laundering 
+                  activities, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Integrity in Banking and Money 
+Laundering Prevention Act of 1999''.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--The Congress finds as follows:
+            (1) Money laundering is a serious problem: between 
+        $100,000,000,000 and $300,000,000,000 in United States currency 
+        is ``laundered'' each year and the total dollar amount involved 
+        in international money laundering likely exceeds 
+        $500,000,000,000.
+            (2) Money laundering is critical to the survival of the 
+        illicit drug trade, which has annual worldwide revenues of more 
+        than $400,000,000,000, more than 8 percent of the total value 
+        of international trade.
+            (3) Money laundering affords drug dealers, terrorists, arms 
+        dealers, and other criminals the opportunity to erode the 
+        integrity of our financial institutions.
+            (4) Through money laundering, criminals are able to hide 
+        profits from narcotics sales, tax fraud, terrorism, and arms 
+        smuggling.
+            (5) Money laundering by international criminal enterprises 
+        challenges the legitimate authority of national governments, 
+        corrupts government institutions, endangers the financial and 
+        economic stability of nations, and routinely violates legal 
+        norms, property rights, and human rights.
+            (6) United States financial institutions are a critical 
+        link in our efforts to combat money laundering.
+            (7) The high profitability, intense competition, high level 
+        of confidentiality, and close relationships of trust developed 
+        between private bankers and their clients make private banking 
+        vulnerable to money laundering, and it is estimated that 
+        private banking services have banking assets ranging from 
+        $200,000,000,000 to $300,000,000,000.
+            (8) As private banking grows, and competition for high net 
+        worth individuals as customers increases, anti-money laundering 
+        legislation should be extended to reach all financial 
+        institutions, including such entities as securities brokers and 
+        dealers.
+    (b) Purposes.--The purposes of this Act are as follows:
+            (1) To ensure that United States financial institutions 
+        make combating money laundering the highest of priorities.
+            (2) To close the existing gaps in law that allow money 
+        laundering to flourish in the private banking system.
+            (3) To designate foreign high-intensity money laundering 
+        areas for the purpose of targeting areas of concentrated money 
+        laundering activities.
+            (4) To establish a comprehensive report on the extent of 
+        private banking by banks and other financial institutions 
+        operating within the United States.
+            (5) To prevent the abuse of concentration, omnibus, or 
+        suspense accounts by money launderers and drug traffickers.
+            (6) To enhance the ability of law enforcement officials to 
+        reconstruct an audit trail in the course of a criminal 
+        investigation by requiring United States financial institutions 
+        to maintain documentation of offshore accounts.
+            (7) To subject securities brokers and dealers to the 
+        suspicious activities reporting requirements to which 
+        depository institutions are subject.
+
+SEC. 3. DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Beneficial owner.--The term ``beneficial owner'', with 
+        respect to an account at a financial institution, any person or 
+        group which controls the account or for whose benefit the 
+        account is maintained.
+            (2) Concentration account.--The term ``concentration 
+        account'' means a business account maintained by a financial 
+        institution in which funds from various sources are commingled.
+            (3) Financial institution.--The term ``financial 
+        institution'' has the meaning given to such term in section 
+        5312(a)(2) of title 31, United States Code.
+            (4) High net worth individual.--The term ``high net worth 
+        individual'' means any individual--
+                    (A) whose individual net worth, or, in the case of 
+                a married individual, whose joint net worth (with such 
+                individual's spouse), exceeds $1,000,000; or
+                    (B) who had--
+                            (i) individual gross income in excess 
+                        $400,000 in each of the 2 preceding calendar 
+                        years; or
+                            (ii) who had joint gross income (with such 
+                        individuals spouse) in excess of $600,000 in 
+                        each of the 2 preceding calendar years,
+                and who has a reasonable expectation of achieving gross 
+                income in the current calendar year in excess of the 
+                amount described in clause (i) or (ii), as the case may 
+                be.
+            (5) Money laundering.--The term ``money laundering'' means 
+        any action or process whereby the existence, illegal source, or 
+        illegal application or expenditure of income is concealed or 
+        disguised so as to give income the appearance of legitimacy.
+            (6) Private banking.--The term ``private banking'' means, 
+        with respect to a financial institution, the personal delivery 
+        of financial products and services to high net worth 
+        individuals, which may include the acceptance of deposits, 
+        lending, investing in investment companies, personal trust and 
+        estate administration, fund transfer services, establishing 
+        payable through accounts, the establishment of accounts in 
+        foreign banks, and other services which are not provided 
+        generally to all clients of the financial institution.
+
+SEC. 4. REPORT ON PRIVATE BANKING ACTIVITIES.
+
+    (a) In General.--Before the end of the 18-month period beginning on 
+the date of the enactment of this Act, the Secretary of the Treasury, 
+in consultation with the Securities and Exchange Commission and the 
+Federal banking agencies (as defined in section 3(z) of the Federal 
+Deposit Insurance Act) shall submit a report on private banking 
+activities in the United States to the Committee on Banking and 
+Financial Services of the House of Representatives and the Committee on 
+Banking, Housing, and Urban Affairs of the Senate.
+    (b) Contents of Report.--The report required under subsection (a) 
+shall include information on the following:
+            (1) The nature and extent of private banking in the United 
+        States.
+            (2) Regulatory efforts to monitor private banking and 
+        ensure that such private banking operations are conducted in 
+        compliance with subchapter II of chapter 53 of title 31, United 
+        States Code, and section 21 of the Federal Deposit Insurance 
+        Act.
+            (3) The policies and procedures of financial institutions 
+        that are designed to ensure compliance by such institutions 
+        with the requirements of subchapter II of chapter 53 of title 
+        31, United States Code, and section 21 of the Federal Deposit 
+        Insurance Act.
+
+SEC. 5. REQUIRE THAT ANTI-MONEY LAUNDERING PROGRAMS PROHIBIT MONEY 
+              LAUNDERING THROUGH CONCENTRATION ACCOUNTS AT FINANCIAL 
+              INSTITUTIONS BY REQUIRING PROPER MAINTENANCE OF SUCH 
+              ACCOUNTS.
+
+    Section 5318(h) of title 31, United States Code, is amended by 
+adding at the end the following new paragraph:
+            ``(3) Availability of certain account information.--The 
+        Secretary of the Treasury shall prescribe regulations under 
+        this subsection which require financial institutions to 
+        maintain all accounts in such a way as to ensure that the name 
+        of the account holder and the number of the account are 
+        associated with all account activity of the account holder.''
+
+SEC. 6. DESIGNATION OF FOREIGN HIGH-INTENSITY MONEY LAUNDERING AREAS.
+
+    (a) In General.--Subchapter III of chapter 53 of title 31, United 
+States Code (as added by the Money Laundering and Financial Crimes 
+Strategy Act of 1998) is amended by adding at the end the following new 
+part:
+
+ ``Part 3--International Money Laundering and Related Financial Crimes
+
+``Sec. 5361. Designation of foreign high-intensity money laundering 
+              areas
+    ``(a) In General.--The Secretary, in consultation with the Attorney 
+General and the Federal banking agencies, shall develop criteria for 
+identifying areas outside the United States in which money laundering 
+activities are concentrated.
+    ``(b) Designation.--The Secretary shall designate as a high-
+intensity money laundering area any foreign country in which there is 
+an area identified, in accordance with the criteria developed pursuant 
+to subsection (a), as an area in which money laundering activities are 
+concentrated.
+    ``(c) Notice and Warning.--Upon the designation, under subsection 
+(b), of a country as a high-intensity money laundering area, the 
+Secretary shall provide--
+            ``(1) a written notice to each financial institution of the 
+        identity of the country designated; and
+            ``(2) a written warning that there is a concentration of 
+        money laundering activity in such country.''.
+    (b) Clerical Amendment.--The table of subchapters for chapter 53 of 
+title 31, United States Code, is amended by adding at the end the 
+following item:
+
+ ``Part 3--International Money Laundering and Related Financial Crimes
+
+``5361. Designation of foreign high-intensity money laundering 
+                            areas.''.
+
+SEC. 7. DOUBLE THE CRIMINAL PENALTIES FOR VIOLATIONS INVOLVING HIGH-
+              INTENSITY MONEY LAUNDERING AREAS.
+
+    (a) In General.--Section 5322 of title 31, United States Code, is 
+amended by adding at the end the following new subsection:
+    ``(d) Doubled Penalty.--The court may double the sentence of fine 
+or imprisonment, or both, that could otherwise be imposed on any person 
+for a violation described in subsection (a) or (b) if the person 
+commits the violation with respect to a transaction involving a person 
+in, a relationship maintained for a person in, or a transport of a 
+monetary instrument involving a foreign country, knowing that a 
+designation of the foreign country as a high-intensity money laundering 
+area under section 5361 was in effect at the time of the violation.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply with respect to any violation committed on or after the date of 
+the enactment of this Act.
+
+SEC. 8. ENHANCED ABILITY TO IDENTIFY PROPERLY THE BENEFICIAL OWNER OF 
+              OFFSHORE ACCOUNT.
+
+    Section 5318 of title 31, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(i) Requirements Relating to Effective Enforcement of 
+Subchapter.--
+            ``(1) In general.--In an effort to assist law enforcement 
+        in tracing funds identifying beneficial owners of accounts set 
+        up by financial institutions in the United States, the 
+        Secretary of the Treasury shall require any domestic financial 
+        institution making a transaction for any person or maintaining 
+        a relation for any person with a foreign financial institution 
+        or a foreign financial agency, including a foreign branch or 
+        subsidiary of the domestic financial institution, to keep and 
+        maintain records within the United States of the beneficial 
+        owner of any accounts outside the United States to which funds 
+        of that person are transferred by the domestic financial 
+        institution or at a place--
+                    ``(A) where a summons under this section to produce 
+                such records is legally effective; and
+                    ``(B) from which the records are capable of being 
+                delivered to the place designated in accordance with 
+                subsection (c)(1) within 48 hours of the receipt of the 
+                summons.
+            ``(2) Information in records.--The records required under 
+        paragraph (1) shall contain the following information in the 
+        manner and to the extent that the Secretary prescribes in 
+        regulations, and subject to such exemptions as the Secretary 
+        determines to be appropriate:
+                    ``(A) The identity and address of participants in a 
+                transaction or relationship.
+                    ``(B) The legal capacity in which a participant is 
+                acting.
+                    ``(C) The identity of the real parties in 
+                interest.''.
+
+SEC. 9. REGULATIONS RELATING TO SUSPICIOUS ACTIVITY REPORTS BY BROKERS 
+              AND DEALERS.
+
+    Before the end of the 1-year period beginning on the date of the 
+enactment of this Act, the Secretary of the Treasury, in consultation 
+with the Securities and Exchange Commission, shall prescribe 
+regulations in final form under section 5318(g) of title 31, United 
+States Code, requiring brokers and dealers registered with the 
+Securities and Exchange Commission under the Securities Exchange Act of 
+1934 to report, in accordance with such section 5318(g), any suspicious 
+transaction relevant to a possible violation of law or regulation.
+                                 <all>
+

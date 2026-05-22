@@ -1,0 +1,1831 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3818 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 3818
+
+   To protect investors by enhancing regulation of public auditors, 
+ improving corporate governance, overhauling corporate disclosure made 
+        pursuant to the securities laws, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 28, 2002
+
+ Mr. LaFalce (for himself, Mr. Gephardt, Ms. Pelosi, Ms. DeLauro, Mr. 
+  Conyers, Mr. Waxman, Mr. Frank, Mr. Kanjorski, Mrs. Maloney of New 
+York, Mr. Gutierrez, Ms. Carson of Indiana, Mr. Meeks of New York, Ms. 
+ Schakowsky, Mr. Gonzalez, Mrs. Jones of Ohio, Mr. Clay, Mr. Ford, Mr. 
+   Israel, Mr. Hinchey, Ms. Slaughter, Mr. Lipinski, and Mr. Stupak) 
+ introduced the following bill; which was referred to the Committee on 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To protect investors by enhancing regulation of public auditors, 
+ improving corporate governance, overhauling corporate disclosure made 
+        pursuant to the securities laws, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Comprehensive 
+Investor Protection Act of 2002''.
+    (b) Table of Contents.--
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Auditor independence.
+Sec. 3. Improper influence on conduct of audits.
+Sec. 4. Public Accounting Regulatory Board.
+Sec. 5. Study on the improvement of corporate governance.
+Sec. 6. Insider trades during pension fund blackout periods prohibited.
+Sec. 7. Improvements in financial reporting.
+Sec. 8. Creation of current disclosure reporting system.
+Sec. 9. Enhanced oversight of periodic disclosures by issuers.
+Sec. 10. Reauthorization of appropriations of the Securities and 
+                            Exchange Commission.
+Sec. 11. Electronic disclosure of affiliate transactions.
+Sec. 12. Restoration of joint and several liability.
+Sec. 13. Credit rating agencies.
+Sec. 14. Restoration of aiding and abetting liability.
+Sec. 15. Destruction of records.
+Sec. 16. Analyst conflicts of interest.
+Sec. 17. Definition of securities laws.
+
+SEC. 2. AUDITOR INDEPENDENCE.
+
+    (a) Auditor Independence Requirements.--The Securities Exchange Act 
+of 1934 is amended by inserting after section 10A (15 U.S.C. 78j-1) the 
+following new section:
+
+``SEC. 10B. AUDITOR INDEPENDENCE.
+
+    ``(a) Permitted Services for Audit Clients.--
+            ``(1) Nonaudit services for audit clients prohibited.--
+                    ``(A) Prohibition.--An accountant shall not be 
+                considered to be independent for purposes of certifying 
+                the financial statements or other documents of an 
+                issuer required to be filed with the Commission under 
+                the securities laws for any fiscal year of the issuer 
+                if the accountant performs prohibited nonaudit services 
+                for such issuer or an affiliate of such issuer during 
+                such fiscal year.
+                    ``(B) Periodic review of prohibited nonaudit 
+                services.--The Commission shall periodically review the 
+                impact on the independence of auditors of the scope of 
+                services provided by auditors to audit clients in order 
+                to determine whether additional services should be 
+                added to the list of prohibited nonaudit services under 
+                subsection (e)(11). In conducting such periodic 
+                reviews, the Commission shall consider the impact of 
+                the provision of a service on an auditor's independence 
+                where provision of the service--
+                            ``(i) creates a mutual or conflicting 
+                        interest with the audit client;
+                            ``(ii) results in the accounting firm 
+                        auditing its own work;
+                            ``(iii) results in an accountant or 
+                        accounting firm functioning as management or an 
+                        employee of the audit client; or
+                            ``(iv) results in the accounting firm 
+                        acting as an advocate for the audit client.
+                    ``(C) Transition.--Until one year after the date of 
+                enactment of this section, providing prohibited 
+                nonaudit services to an audit client or an affiliate of 
+                an audit client will not impair an accountant's 
+                independence with respect to the audit client if--
+                            ``(i) the prohibited nonaudit services are 
+                        performed pursuant to a written contract in 
+                        effect on or before such date of enactment; and
+                            ``(ii) performing those services did not 
+                        impair the auditor's independence under 
+                        requirements of the Commission, the 
+                        Independence Standards Board, or the accounting 
+                        profession in the United States in effect on 
+                        such date of enactment.
+            ``(2) Audit committee approval of tax-related and nonaudit 
+        services.--An accountant shall not be considered to be 
+        independent for purposes of certifying the financial statements 
+        or other documents of an issuer required to be filed with the 
+        Commission under the securities laws for any fiscal year of the 
+        issuer if, during such fiscal year, the accountant provides any 
+        tax-related or nonaudit services that are not otherwise 
+        prohibited under this section, unless the provision of such 
+        tax-related or nonaudit services was approved in advance by the 
+        audit committee or, in the absence of an audit committee, the 
+        equivalent board committee or the entire board of directors. In 
+        approving such services, the audit committee shall evaluate the 
+        impact of the provision of such services on the independence of 
+        the auditor.
+    ``(b) Auditor Rotation.--
+            ``(1) General rule.--Except as otherwise provided in this 
+        subsection, an accountant shall not be considered to be 
+        independent for purposes of certifying the financial statements 
+        or other documents of an issuer required to be filed with the 
+        Commission under the securities laws if the accountant has been 
+        engaged to conduct an audit of such statements for more than 4 
+        consecutive fiscal years of such issuer.
+            ``(2) 4-year extension.--The accountant of the issuer may, 
+        notwithstanding paragraph (1), be engaged to conduct an audit 
+        for 4 additional consecutive fiscal years if the Public 
+        Auditing Regulatory Board finds pursuant to section 13A(f)(4) 
+        that the accountant may be considered to be independent 
+        notwithstanding the extension of the engagement by the issuer 
+        on the basis of a satisfactory review by the Board of the 
+        accountant's audit with respect to such issuer during the 
+preceding engagement under paragraph (1).
+            ``(3) Audit partner rotation.--Any accountant that receives 
+        an extension of an engagement under paragraph (2) shall not 
+        designate the partner or officer who supervised or managed the 
+        audit during the initial period under paragraph (1) to 
+        supervise or manage the audit during any such extension, unless 
+        that partner or officer has supervised or managed the audit for 
+        2 years or less during that initial period. In no event shall a 
+        partner or officer supervise or manage an audit of an issuer 
+        for more than 4 consecutive years.
+            ``(4) Treatment of audit engagements prior to enactment.--
+        No fiscal year of an issuer that began before the date of 
+        enactment of this section shall be counted towards the 4 
+        consecutive fiscal year limitation contained in paragraph (1).
+    ``(c) Auditor/Issuer Employment Restrictions.--Beginning on the 
+date that is two years after the date of enactment of this section, an 
+accountant shall not be considered to be independent for the purposes 
+of certifying the financial statement or other documents of an issuer 
+required to be filed with the Commission under the securities laws if--
+            ``(1) the issuer employs any person who was employed by the 
+        accountant and was assigned by such accountant or firm to 
+        participate in the audit of the financial statements of such 
+        issuer; or
+            ``(2) the issuer employs any person as a chief executive 
+        officer, chief financial officer, controller, principal 
+        accounting officer, or equivalent position;
+during the two years following the date on which such person ceased to 
+be employed by such accountant.
+    ``(d) Exemptions.--The Commission may, by rule, exempt from the 
+requirements of this section audits of issuers that are small companies 
+and accountants that are small audit firms, to the extent consistent 
+with the public interest.
+    ``(e) Definition of Prohibited Nonaudit Services.--For purposes of 
+this section, the term `prohibited nonaudit services' includes the 
+following:
+            ``(1) Bookkeeping or other services related to the audit 
+        client's accounting records or financial statements.--Any 
+        service involving:
+                    ``(A) maintaining or preparing the audit client's 
+                or an affiliate of the audit client's accounting 
+                records;
+                    ``(B) preparing the audit client's or an affiliate 
+                of the audit client's financial statements; or
+                    ``(C) generating financial information to be 
+                disclosed by the audit client or an affiliate of the 
+                audit client to the public.
+            ``(2) Financial information systems design and 
+        implementation.--Designing or implementing a hardware or 
+        software system used to generate information that is 
+        significant to the audit client's financial statements taken as 
+        a whole, not including services an accountant performs in 
+        connection with the assessment, design, and implementation of 
+        internal accounting controls and risk management controls.
+            ``(3) Appraisal or valuation services, fairness opinions, 
+        or contribution-in-kind reports.--Any appraisal or valuation 
+        service for an audit client or an affiliate of an audit client, 
+        or any service involving a fairness opinion or contribution-in-
+        kind report where it is reasonably likely that, in performing 
+        an audit in accordance with generally accepted auditing 
+        standards, the results will be audited by the accountant.
+            ``(4) Actuarial services.--Any advisory service involving 
+        the determination of policy reserves and related accounts for 
+        the audit client or an affiliate of an audit client, unless the 
+        audit client or its affiliate uses its own actuaries or third-
+        party actuaries to provide management with the primary 
+        actuarial capabilities.
+            ``(5) Internal audit outsourcing.--Internal audit services 
+        for an audit client or an affiliate of an audit client, not 
+        including nonrecurring evaluations of discrete items or 
+        programs and operational internal audits unrelated to the 
+        internal accounting controls, financial systems, or financial 
+        statements.
+            ``(6) Management functions.--Acting, temporarily or 
+        permanently, as a director, officer, or employee of an audit 
+        client or an affiliate of an audit client, or performing any 
+        decision-making, supervisory, or ongoing monitoring function 
+        for the audit client or affiliate of the audit client.
+            ``(7) Human resources.--Recruiting, hiring, or designing 
+        compensation packages for officers, directors, or managers of 
+        the audit client or an affiliate of the audit client; advising 
+        about the audit client's or affiliate of the audit client's 
+        management or organizational structure; developing employee 
+        evaluation programs; or conducting psychological or other 
+        formal testing of employees.
+            ``(8) Broker-dealer, investment adviser, or investment 
+        banking services.--Acting as a securities professional, such as 
+        a broker-dealer, promoter, underwriter, analyst of the audit 
+        client's or an affiliate of the audit client's securities, 
+        investment adviser, or in any capacity recommending the 
+        purchase or sale of an audit client's or an affiliate of an 
+        audit client's securities, or designing the audit client or an 
+        affiliate of the audit client's system to comply with broker-
+        dealer or investment adviser regulations.
+            ``(9) Legal services.--Providing any service to an audit 
+        client or an affiliate of an audit client that, in the 
+        jurisdiction in which the service is provided, could be 
+        provided only by someone licensed to practice law.
+            ``(10) Expert services.--Rendering or supporting expert 
+        opinions for an audit client or an affiliate of an audit client 
+        in legal, administrative, or regulatory filings or proceedings.
+            ``(11) Additions by rule.--Any other service that the 
+        Commission identifies by rule, consistent with the protection 
+of investors and the public interest, to be a nonaudit service.''.
+    (b) National Securities Exchange Enforcement of Audit Committee 
+Governance Practices.--Section 6(b) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78f(b)) is amended by adding at the end the following 
+new paragraph:
+            ``(10) The qualitative listing standards concerning 
+        corporate governance of the exchange require that--
+                    ``(A) an issuer's auditor is appointed by and 
+                reports directly to the audit committee of the board of 
+                directors or, in the absence of an audit committee, the 
+                board committee performing equivalent functions or the 
+                entire board of directors;
+                    ``(B) the audit committee meet with the accountants 
+                engaged to perform such audit on a regular basis, at 
+                least quarterly;
+                    ``(C) the audit committee provides the opportunity 
+                to meet without the attendance at such meetings of any 
+                officer, director, or other member of the issuer's 
+                senior management;
+                    ``(D) no director of an issuer may provide 
+                consulting or expert services to the board of directors 
+                of the issuer or to the issuer if such director 
+                receives compensation for such services; and
+                    ``(E) the issuer shall not provide charitable or 
+                other contributions to any group affiliated with any 
+                director while such director is serving on the board of 
+                directors of the issuer.''.
+    (c) Study of Additional Independence Requirements.--
+            (1) Study required.--The Securities and Exchange Commission 
+        shall conduct a study of the efficacy of imposing additional 
+        independence restrictions relating to the provision of tax-
+        related services by an accountant or an affiliate of an 
+        accountant. In particular, the Commission shall study the 
+        effect on independence of providing tax advisory work relating 
+        to the treatment of tax-advantaged structures, securities, or 
+        other arrangements which are substantially designed by the 
+        auditor or an affiliate of an auditor. The Commission shall 
+        also study the effect on, or the impairment of, an accountant's 
+        independence relating to tax advice provided to an audit client 
+        by its auditor to determine the tax or accounting treatment of 
+        a proposed structure, security, or accounting item that the 
+        auditor did not provide substantial assistance in designing.
+            (2) Report Required.--The Commission shall submit a report 
+        on the analysis required under paragraph (1) to the Committee 
+        on Financial Services of the House of Representatives and the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate 
+        no later than 180 days after the date of enactment of this Act.
+
+SEC. 3. IMPROPER INFLUENCE ON CONDUCT OF AUDITS.
+
+    Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i) is 
+amended by adding at the end the following new subsection:
+    ``(j) Improper Influence on Conduct of Audits.--It shall be 
+unlawful in contravention of such rules and regulations as the 
+Commission shall prescribe as necessary and appropriate in the public 
+interest or for the protection of investors for any officer, director, 
+or affiliated person of an issuer to take any action to unduly or 
+improperly influence, coerce, manipulate, or mislead any independent 
+public or certified accountant engaged in the performance of an audit 
+of the financial statements of such issuer.''.
+
+SEC. 4. PUBLIC ACCOUNTING REGULATORY BOARD.
+
+    The Securities Exchange Act of 1934 is amended by inserting 
+immediately after section 13 (15 U.S.C. 78m) the following new section:
+
+``SEC. 13A. PUBLIC ACCOUNTING REGULATORY BOARD.
+
+    ``(a) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Public accounting firm.--The term `public accounting 
+        firm' means a sole proprietorship, unincorporated association, 
+        partnership, corporation, or other legal entity that is engaged 
+        in the practice of public accounting.
+            ``(2) Board.--The term `Board' means the Public Accounting 
+        Regulatory Board established by the Commission pursuant to 
+        subsection (b).
+            ``(3) Accountant's report.--The term `accountant's report' 
+        means a document in which a public accounting firm identifies a 
+        financial statement, report, or other document and sets forth 
+        the firm's opinion regarding such financial statement, report, 
+        or other document, or an assertion that an opinion cannot be 
+        expressed.
+            ``(4) Person associated with a public accounting firm.--The 
+        term `person associated with a public accounting firm' means a 
+        natural person who--
+                    ``(A) is a partner, shareholder, employee, or 
+                individual proprietor of a public accounting firm, or 
+                who shares in the profits of a public accounting firm; 
+                and
+                    ``(B) engages in any conduct or practice in 
+                connection with the preparation of an accountant's 
+                report on any financial statement, report, or other 
+                document required to be filed with the Commission under 
+                any securities law.
+            ``(5) Professional standards.--The term `professional 
+        standards' means generally accepted auditing standards, 
+        generally accepted accounting principles, generally accepted 
+        standards for attestation engagements, and any other standards 
+        related to the preparation of financial statements or 
+        accountant's reports promulgated by the Commission or a 
+        standard-setting body recognized by the Board.
+    ``(b) Establishment of Board.--Not later than 90 days after the 
+date of enactment of this section, the Commission shall establish a 
+Public Accounting Regulatory Board to perform the duties set forth in 
+this section.
+    ``(c) Membership of Board.--
+            ``(1) Chairman.--The Chairman of the Board shall be 
+        appointed jointly by the Commission and the Comptroller General 
+of the United States for a term of five years.
+            ``(2) Appointment of board members.--There shall be 6 
+        additional Board members, who shall be selected by an 
+        Appointment Committee comprised of the Chairman of the Board, 
+        the Chairman of the Commission, and the Comptroller General of 
+        the United States. Board members shall serve as representatives 
+        of institutional investors and pension funds.
+            ``(3) Accountant members.--Two of the members may be 
+        present or former certified public accountants, provided such 
+        members--
+                    ``(A) are not currently in public practices;
+                    ``(B) have not been associated with a public 
+                accounting firm for a period of at least 3 years; and
+                    ``(C) agree to not be associated with or to receive 
+                consulting fees from a public accounting firm for a 
+                period of five years after leaving the Board.
+            ``(4) Nominations.--In making appointments of members, the 
+        Appointment Committee shall consult with, and make appointments 
+        from nominations received from--
+                    ``(A) institutional investors;
+                    ``(B) public employee pension plans;
+                    ``(C) pension plans organized pursuant to the 
+                Employee Retirement Income Security Act of 1974; and
+                    ``(D) pension plans organized pursuant to the Taft-
+                Hartley Act.
+            ``(5) Terms.--The members of the Board appointed by the 
+        Appointment Committee shall have terms of 4 years, except that 
+        the members of the Appointing Committee shall adopt procedures 
+        for staggering the initial terms of the members first so 
+        appointed to provide for a reasonable overlapping of the terms 
+        of office of subsequently elected members.
+            ``(6) Full-time basis.--The members of the Board shall 
+        serve on a full-time basis, severing all business ties with 
+        former firms or employers prior to beginning service on the 
+        Board.
+            ``(7) Rules.--Following selection of the initial members of 
+        the Board, the Board shall propose and adopt rules, which shall 
+        provide for--
+                    ``(A) the operation and administration of the 
+                Board, including the compensation of the members of the 
+                Board, which shall be at a level comparable to similar, 
+                professional positions in the private sector;
+                    ``(B) the appointment and compensation of such 
+                employees, attorneys, and consultants as may be 
+                necessary or appropriate to carry out the Board's 
+                functions under this title;
+                    ``(C) the registration of public accounting firms 
+                with the Board pursuant to subsections (d) and (e); and
+                    ``(D) the matters described in subsections (f) and 
+                (g).
+            ``(8) Administrative procedures act applicability.--Chapter 
+        5 of title 5, United States Code, shall apply to the 
+        proceedings of the Board, including proceedings to prescribe or 
+        amend rules of the Board.
+    ``(d) Funding of the Board.--
+            ``(1) Self-financing.--The Board shall establish rules for 
+        the assessment and collection of fees sufficient to recover the 
+        costs and expenses of the Board and to permit the Board to 
+        operate on a self-financing basis.
+            ``(2) Assessment and collection.--The fees shall be 
+        assessed on issuers that file any financial statements, 
+        reports, or other documents with the Commission under the 
+        securities laws that must be certified by a public accounting 
+        firm. The fees shall be collected through the public accounting 
+        firm that certifies such statement, report, or document.
+            ``(3) Payment a condition of registration.--The Board shall 
+        terminate or suspend the registration under subsection (e) of 
+        any public accounting firm that fails to collect and transmit a 
+        fee assessed under this subsection.
+    ``(e) Registration With Board.--
+            ``(1) Registration required.--Beginning 1 year after the 
+        date on which all initial members of the Board have been 
+        selected in accordance with subsection (c), it shall be 
+        unlawful for a public accounting firm to furnish an 
+        accountant's report on any financial statement, report, or 
+        other document required to be filed with the Commission under 
+        any Federal securities law, unless such firm is registered with 
+        the Board.
+            ``(2) Application for registration.--A public accounting 
+        firm may be registered under this subsection by filing with the 
+        Board an application for registration in such form and 
+        containing such information as the Board, by rule, may 
+        prescribe. Each application shall include--
+                    ``(A) the names of all clients of the public 
+                accounting firm for which the firm furnishes 
+                accountant's reports on financial statements, reports, 
+                or other documents filed with the Commission;
+                    ``(B) financial information of the public 
+                accounting firm for its most recent fiscal year, 
+                including its annual revenues from accounting and 
+                auditing services, its assets and its liabilities;
+                    ``(C) a statement of the public accounting firm's 
+                policies and procedures with respect to quality control 
+                of its accounting and auditing practice;
+                    ``(D) information relating to criminal, civil, or 
+                administrative actions or formal disciplinary 
+                proceedings pending against such firm, or any person 
+                associated with such firm, in connection with an 
+                accountant's report furnished by such firm;
+                    ``(E) a list of persons associated with the public 
+                accounting firm who are certified public accountants, 
+                including any State professional license or 
+                certification number for each such person; and
+                    ``(F) such other information that is reasonably 
+                related to the Board's responsibilities as the Board 
+                considers necessary or appropriate.
+            ``(3) Periodic reports.--Once in each year, or more 
+        frequently as the Board, by rule, may prescribe, each public 
+        accounting firm registered with the Board shall submit reports 
+        to the Board updating the information contained in its 
+        application for registration and containing such additional 
+        information that is reasonably related to the Board's 
+        responsibilities as the Board, by rule, may prescribe.
+            ``(4) Exemptions.--The Commission, by rule or order, upon 
+        its own motion or upon application, may conditionally or 
+        unconditionally exempt any public accounting firm or any 
+        accountant's report, or any class of public accounting firms or 
+        any class of accountant's reports, from any provisions of this 
+        section or the rules or regulations issued hereunder, if the 
+        Commission finds that such exemption is consistent with the 
+        public interest, the protection of investors, and the purposes 
+        of this section.
+            ``(5) Confidentiality.--The Board may, by rule, designate 
+        portions of the filings required pursuant to paragraphs (2) and 
+        (3) as privileged and confidential.
+    ``(f) Duties Regarding Quality Control.--
+            ``(1) Objectives; attainment.--The Board shall seek to 
+        promote a high level of professional conduct among public 
+        accounting firms registered with the Board, to improve the 
+        quality of audit services provided by such firms, and, in 
+        general, to protect investors and promote the public interest. 
+        The Board shall attain these objectives--
+                    ``(A) by establishing standards regarding the 
+                performance of financial audits in accordance with the 
+                requirements of paragraph (2);
+                    ``(B) by the direct performance of quality reviews 
+                and inspections of audits in accordance with the 
+                requirements of paragraph (3); and
+                    ``(C) if the Board make the determination required 
+                by paragraph (4)(A), by the supervision and oversight 
+                of peer review organizations in accordance with the 
+                requirements of paragraph (4).
+            ``(2) Audit quality standards.--
+                    ``(A) In general.--The Board shall, by rule, 
+                establish quality standards applicable to the conduct 
+                of audit services provided by public accounting firms. 
+                Such standards shall include--
+                            ``(i) independence standards;
+                            ``(ii) quality control standards;
+                            ``(iii) professional and ethical standards; 
+                        and
+                            ``(iv) such other standards as the Board 
+                        determines to be necessary to carry out the 
+                        objectives specified in paragraph (1).
+                    ``(B) Specific contents of standards.--In 
+                establishing the quality standards required by 
+                subparagraph (A), the Board shall also establish--
+                            ``(i) procedures for the monitoring by 
+                        public accounting firms of their compliance 
+                        with professional ethical standards established 
+                        by the Board, including its independence from 
+                        its audit clients;
+                            ``(ii) procedures for the assignment of 
+                        personnel to audit engagements;
+                            ``(iii) procedures for consultation within 
+                        a public accounting firm or with other 
+                        accountants relating to accounting and auditing 
+                        questions;
+                            ``(iv) procedures for the supervision of 
+                        audit work;
+                            ``(v) procedures for the review of 
+                        decisions to accept and retain audit clients;
+                            ``(vi) procedures for the internal 
+                        inspection of the public accounting firms own 
+                        compliance with such policies and procedures;
+                            ``(vii) requirements for public accounting 
+                        firms to prepare and maintain for a period of 
+                        no less than seven years, audit work papers and 
+                        other information related to any audit report, 
+                        in sufficient detail to support the conclusions 
+                        reached in an audit report issued by a public 
+                        accounting firm; and
+                            ``(viii) procedures establishing 
+                        `concurring' or `second' partner review systems 
+                        for the evaluation and review of audit work by 
+                        a partner that is not in charge of the conduct 
+                        of the audit.
+            ``(3) Direct reviews of public accounting firms.--The Board 
+        shall, by rule, establish procedures for the conduct of a 
+        continuing program of inspections of each public accounting 
+        firm registered with the Board to assess compliance by such 
+        firm, and by persons associated with such firm, with applicable 
+        provisions of this Act, the securities laws, the rules and 
+        regulations thereunder, the rules adopted by the Board, and 
+        professional standards. Except as provided in paragraph (5), 
+        the Board shall annually inspect each public accounting firm 
+        that audits more than one hundred issuers on an ongoing annual 
+        basis, to the extent practicable, and all other public 
+        accounting firms no less than at least once every three years. 
+        In conducting such inspections, the Board shall, among other 
+        things, inspect selected audit and review engagements. The 
+        review shall include evaluations of the firms quality control 
+        procedures and compliance with all legal and ethical 
+        requirements. In connection with each review, the Board shall 
+        prepare a report of its findings and such report, accompanied 
+        by any letter of comments by the Board or reviewer and any 
+        letter of response from the firm under review, shall be made 
+        available to the public. The Board shall take any appropriate 
+        disciplinary or remedial action based on its findings after 
+        completion of such review.
+            ``(4) Quality review of individual audits.--The Board 
+        shall, by rule, establish procedures for the conduct of direct 
+        inspection and review of individual audits of issuers and 
+        standards under which it will evaluate audit service quality. 
+The Board shall further establish the procedures and standards under 
+which the Board shall approve any extension of an engagement provided 
+to an accountant under section 10B(b)(2) on the basis of a satisfactory 
+review of the accountant's audit during the preceding engagement. A 
+finding by the Board that an individual audit of an issuer did or did 
+not meet the standards of the Board with respect to the quality of the 
+audit shall not be construed in any action arising out of the 
+securities laws as indicative of compliance or noncompliance with the 
+securities laws or with any standard of liability arising thereunder.
+            ``(5) Use of professional peer review organizations.--
+                    ``(A) Option to utilize peer review 
+                organizations.--The Board may by rule establish 
+                requirements for the use of peer review organizations 
+                for the purposes of conducting the continuing program 
+                of inspections to assess compliance as required by 
+                paragraph (3) of each public accounting firm registered 
+                with the Board. Such rule shall provide for appropriate 
+                oversight and supervision of such peer review 
+                organization by the Board to ensure that such 
+                inspections meet the requirements of such paragraph.
+                    ``(B) Penalties.--If the Board establishes 
+                requirements for the conduct of peer reviews under 
+                subparagraph (A), the violation by a public accounting 
+                firm or a person associated with such a firm of a rule 
+                of the peer review organization to which the firm 
+                belongs shall constitute grounds for--
+                            ``(i) the imposition of disciplinary 
+                        sanctions by the Board pursuant to subsection 
+                        (g); and
+                            ``(ii) denial to the public accounting firm 
+                        or person associated with such firm of the 
+                        privilege of appearing or practicing before the 
+                        Commission.
+            ``(6) Confidentiality.--Except as otherwise provided by 
+        this section, all reports, memoranda, and other information 
+        provided to the Board solely for purposes of paragraph (3) or 
+        (4), or to a peer review organization certified by the Board, 
+        shall be confidential and privileged, unless such 
+        confidentiality and privilege are expressly waived by the 
+        person or entity that created or provided the information.
+    ``(g) Disciplinary Duties of Board.--The Board shall have the 
+following duties and powers:
+            ``(1) Investigations and disciplinary proceedings.--The 
+        Board shall establish fair procedures for investigating and 
+        disciplining public accounting firms registered with the Board, 
+        and persons associated with such firms, for violations of the 
+        Federal securities laws, the rules or regulations issued 
+        thereunder, the rules adopted by the Board, or professional 
+        standards in connection with the preparation of an accountant's 
+        report on a financial statement, report, or other document 
+        filed with the Commission.
+            ``(2) Investigation procedures.--
+                    ``(A) In general.--The Board may conduct an 
+                investigation of any act, practice, or omission by a 
+                public accounting firm registered with the Board, or by 
+                any person associated with such firm, in connection 
+                with the preparation of an accountant's report on a 
+                financial statement, report, or other document filed 
+                with the Commission that may violate any applicable 
+                provision of the Federal securities laws, the rules and 
+                regulations issued thereunder, the rules adopted by the 
+                Board, or professional standards, whether such act, 
+                practice, or omission is the subject of a criminal, 
+                civil, or administrative action, or a disciplinary 
+                proceeding, or otherwise is brought to the attention of 
+                the Board.
+                    ``(B) Powers of board.--For purposes of an 
+                investigation under this paragraph, the Board may, in 
+                addition to such other actions as the Board determines 
+                to be necessary or appropriate--
+                            ``(i) require the testimony of any person 
+                        associated with a public accounting firm 
+                        registered with the Board, with respect to any 
+                        matter which the Board considers relevant or 
+                        material to the investigation;
+                            ``(ii) require the production of audit 
+                        workpapers and any other document or 
+                        information in the possession of a public 
+                        accounting firm registered with the Board, or 
+                        any person associated with such firm, wherever 
+                        domiciled, that the Board considers relevant or 
+                        material to the investigation, and may examine 
+                        the books and records of such firm to verify 
+                        the accuracy of any documents or information so 
+                        supplied; and
+                            ``(iii) request the testimony of any person 
+                        and the production of any document in the 
+                        possession of any person, including a client of 
+                        a public accounting firm registered with the 
+                        Board, that the Board considers relevant or 
+                        material to the investigation.
+                    ``(C) Suspension or revocation of registration for 
+                noncompliance.--The refusal of any person associated 
+                with a public accounting firm registered with the Board 
+                to testify, or the refusal of any such person to 
+                produce documents or otherwise cooperate with the 
+                Board, in connection with an investigation under this 
+                section, shall be cause for suspending or barring such 
+                person from associating with a public accounting firm 
+                registered with the Board, or such other appropriate 
+                sanction as the Board shall determine. The refusal of 
+                any public accounting firm registered with the Board to 
+                produce documents or otherwise cooperate with the 
+                Board, in connection with an investigation under this 
+                section, shall be cause for the suspension or 
+revocation of the registration of such firm, or such other appropriate 
+sanction as the Board shall determine.
+                    ``(D) Referral to commission.--
+                            ``(i) In general.--If the Board is unable 
+                        to conduct or complete an investigation under 
+                        this section because of the refusal of any 
+                        client of a public accounting firm registered 
+                        with the Board, or any other person, to 
+                        testify, produce documents, or otherwise 
+                        cooperate with the Board in connection with 
+                        such investigation, the Board shall report such 
+                        refusal to the Commission.
+                            ``(ii) Investigation.--The Commission may 
+                        designate the Board or one or more officers of 
+                        the Board who shall be empowered, in accordance 
+                        with such procedures as the Commission may 
+                        adopt, to subpoena witnesses, compel their 
+                        attendance, and require the production of any 
+                        books, papers, correspondence, memoranda, or 
+                        other records relevant to any investigation by 
+                        the Board. Attendance of witnesses and the 
+                        production of any records may be required from 
+                        any place in the United States or any State at 
+                        any designated place of hearing. Enforcement of 
+                        a subpoena issued by the Board, or an officer 
+                        of the Board, pursuant to this subparagraph 
+                        shall occur in the manner provided for in 
+                        section 21(c). Examination of witnesses 
+                        subpoenaed pursuant to this subparagraph shall 
+                        be conducted before an officer authorized to 
+                        administer oaths by the laws of the United 
+                        States or of the place where the examination is 
+                        held.
+                            ``(iii) Referrals to commission.--The Board 
+                        may refer any investigation to the Commission, 
+                        as the Board deems appropriate.
+                    ``(E) Immunity from civil liability.--An employee 
+                of the Board engaged in carrying out an investigation 
+                or disciplinary proceeding under this section shall be 
+                immune from any civil liability arising out of such 
+                investigation or disciplinary proceeding in the same 
+                manner and to the same extent as an employee of the 
+                Federal Government in similar circumstances.
+            ``(3) Disciplinary procedures.--
+                    ``(A) Decision to discipline.--In a proceeding by 
+                the Board to determine whether a public accounting 
+                firm, or a person associated with such firm, should be 
+                disciplined, the Board shall bring specific charges, 
+                notify such firm or person of the charges, give such 
+                firm or person an opportunity to defend against such 
+                charges, and keep a record of such actions.
+                    ``(B) Sanctions.--If the Board finds that a public 
+                accounting firm, or a person associated with such firm, 
+                has engaged in any act, practice, or omission in 
+                violation of the Federal securities laws, the rules or 
+                regulations issued thereunder, the rules adopted by the 
+                Board, or professional standards, the Board may impose 
+                such disciplinary sanctions as it deems appropriate, 
+                including--
+                            ``(i) temporary or permanent revocation or 
+                        suspension of registration under this section;
+                            ``(ii) limitation of activities, functions, 
+                        and operations;
+                            ``(iii) fine;
+                            ``(iv) censure;
+                            ``(v) in the case of a person associated 
+                        with a public accounting firm, suspension or 
+                        bar from being associated with a public 
+                        accounting firm registered with the Board; and
+                            ``(vi) any other disciplinary sanction or 
+                        remedial action that the Board determines to be 
+                        appropriate to prevent the recurrence of the 
+                        violation.
+                    ``(C) Statement required.--A determination by the 
+                Board to impose a disciplinary sanction shall be 
+                supported by a written statement by the Board that 
+                shall be made available to the public and that sets 
+                forth--
+                            ``(i) any act or practice in which the 
+                        public accounting firm or person associated 
+                        with such firm has been found to have engaged, 
+                        or which such firm or person has been found to 
+                        have omitted;
+                            ``(ii) the specific provision of the 
+                        Federal securities laws, the rules or 
+                        regulations issued thereunder, the rules 
+                        adopted by the Board, or professional standards 
+                        which any such act, practice, or omission is 
+                        deemed to violate; and
+                            ``(iii) the sanction imposed and the 
+                        reasons therefor.
+                    ``(D) Prohibition on association.--It shall be 
+                unlawful--
+                            ``(i) for any person as to whom a 
+                        suspension or bar is in effect willfully to be 
+                        or to become associated with a public 
+                        accounting firm registered with the Board, in 
+                        connection with the preparation of an 
+                        accountant's report on any financial statement, 
+                        report, or other document filed with the 
+                        Commission, without the consent of the Board or 
+                        the Commission; and
+                            ``(ii) for any public accounting firm 
+                        registered with the Board to permit such a 
+                        person to become, or remain, associated with 
+                        such firm without the consent of the Board or 
+                        the Commission, if such firm knew or, in the 
+                        exercise of reasonable care should have known, 
+                        of such suspension or bar.
+            ``(4) Reporting of sanctions.--If the Board imposes a 
+        disciplinary sanction against a public accounting firm, or a 
+        person associated with such firm, the Board shall report such 
+        sanction to the Commission (in accordance with subsection 
+        (h)(3)(A)), to the appropriate State or foreign licensing board 
+        or boards with which such firm or such person is licensed or 
+        certified to practice public accounting, and to the public. The 
+        information reported shall include--
+                    ``(A) the name of the public accounting firm, or 
+                person associated with such firm, against whom the 
+                sanction is imposed;
+                    ``(B) a description of the acts, practices, or 
+                omissions upon which the sanction is based;
+                    ``(C) the nature of the sanction; and
+                    ``(D) such other information respecting the 
+                circumstances of the disciplinary action (including the 
+                name of any client of such firm affected by such acts, 
+                practices, or omissions) as the Board deems 
+                appropriate.
+            ``(5) Discovery and admissibility of board material.--
+                    ``(A) Discoverability.--
+                            ``(i) In general.--Except as provided in 
+                        subparagraph (C), all reports, memoranda, and 
+                        other information prepared, collected, or 
+                        received by the Board, and the deliberations 
+                        and other proceedings of the Board and its 
+                        employees and agents in connection with an 
+                        investigation or disciplinary proceeding under 
+                        this section shall not be subject to any form 
+                        of civil discovery, including demands for 
+                        production of documents and for testimony of 
+                        individuals, in connection with any proceeding 
+                        in any State or Federal court, or before any 
+                        State or Federal administrative agency. This 
+                        subparagraph shall not apply to any information 
+                        provided to the Board that would have been 
+                        subject to discovery from the person or entity 
+                        that provided it to the Board, but is no longer 
+                        available from that person or entity.
+                            ``(ii) Exemption.--Submissions to the Board 
+                        by or on behalf of a public accounting firm or 
+                        person associated with such a firm or on behalf 
+                        of any other participant in a Board proceeding, 
+                        including documents generated by the Board 
+                        itself, shall be exempt from discovery to the 
+                        same extent as the material described in clause 
+                        (i), whether in the possession of the Board or 
+                        any other person, if such submission--
+                                    ``(I) is prepared specifically for 
+                                the purpose of the Board proceeding; 
+                                and
+                                    ``(II) addresses the merits of the 
+                                issues under investigation by the 
+                                Board.
+                            ``(iii) Hearings public.--Except as 
+                        otherwise ordered by the Board on its own 
+                        motion or on the motion of a party, all hearing 
+                        under this paragraph shall be open to the 
+                        public.
+                    ``(B) Admissibility.--
+                            ``(i) In general.--Except as provided in 
+                        subparagraph (C), all reports, memoranda, and 
+                        other information prepared, collected, or 
+                        received by the Board, the deliberations and 
+                        other proceedings of the Board and its 
+                        employees and agents in connection with an 
+                        investigation or disciplinary proceeding under 
+                        this section, the fact that an investigation or 
+                        disciplinary proceeding has been commenced, and 
+                        the Board's determination with respect to any 
+                        investigation or disciplinary proceeding shall 
+                        be inadmissible in any proceeding in any State 
+or Federal court or before any State or Federal administrative agency.
+                            ``(ii) Treatment of certain documents.--
+                        Submissions to the Board by or on behalf of a 
+                        public accounting firm or person associated 
+                        with such a firm or on behalf of any other 
+                        participant in a Board proceeding, including 
+                        documents generated by the Board itself, shall 
+                        be inadmissible to the same extent as the 
+                        material described in clause (i), if such 
+                        submission--
+                                    ``(I) is prepared specifically for 
+                                the purpose of the Board proceedings; 
+                                and
+                                    ``(II) addresses the merits of the 
+                                issues under investigation by the 
+                                Board.
+                    ``(C) Availability and admissibility of 
+                information.--
+                            ``(i) In general.--All information referred 
+                        to in subparagraphs (A) and (B) shall be--
+                                    ``(I) available to the Commission 
+                                and to any other Federal department or 
+                                agency in connection with the exercise 
+                                of its regulatory authority to the 
+                                extent that such information would be 
+                                available to such agency from the 
+                                Commission as a result of a Commission 
+                                enforcement investigation;
+                                    ``(II) available to Federal and 
+                                State authorities in connection with 
+                                any criminal investigation or 
+                                proceeding;
+                                    ``(III) admissible in any action 
+                                brought by the Commission or any other 
+                                Federal department or agency pursuant 
+                                to its regulatory authority, to the 
+                                extent that such information would be 
+                                available to such agency from the 
+                                Commission as a result of a Commission 
+                                enforcement investigation and in any 
+                                criminal action; and
+                                    ``(IV) available to State licensing 
+                                boards to the extent authorized in 
+                                paragraph (6).
+                            ``(ii) Other limitations.--Any documents or 
+                        other information provided to the Commission or 
+                        other authorities pursuant to clause (i) shall 
+                        be subject to the limitations on discovery and 
+                        admissibility set forth in subparagraphs (A) 
+                        and (B).
+                    ``(D) Title 5 treatment.--This subsection shall be 
+                considered to be a statute described in section 
+                552(b)(3)(B) of title 5, United States Code, for 
+                purposes of that section 552.
+            ``(6) Participation by state licensing boards.--
+                    ``(A) Notice.--When the Board institutes an 
+                investigation pursuant to paragraph (2)(A), it shall 
+                notify the State licensing boards in the States in 
+                which the public accounting firm or person associated 
+                with such firm engaged in the act or failure to act 
+                alleged to have violated professional standards, of the 
+                pendency of the investigation, and shall invite the 
+                State licensing boards to participate in the 
+                investigation.
+                    ``(B) Acceptance by state board.--If a State 
+                licensing board elects to join in the investigation, 
+                its representatives shall participate, pursuant to 
+                rules established by the Board, in investigating the 
+                matter and in presenting the evidence justifying the 
+                charges in any hearing pursuant to paragraph (3)(A).
+                    ``(C) State sanctions permitted.--If the Board or 
+                the Commission imposes a sanction upon a public 
+                accounting firm or person associated with such a firm, 
+                and that determination either is not subjected to 
+                judicial review or is upheld on judicial review, a 
+                State licensing board may impose a sanction on the 
+                basis of the Board's report pursuant to paragraph (4). 
+                Any sanction imposed by the State licensing board under 
+                this clause shall be inadmissible in any proceeding in 
+                any State or Federal court or before any State or 
+                Federal administrative agency, except to the extent 
+                provided in paragraph (5)(D).
+    ``(h) Commission Oversight of the Board.--
+            ``(1) Proposed rule changes.--
+                    ``(A) In general.--The Board shall file with the 
+                Commission, in accordance with such rules as the 
+                Commission may prescribe, copies of any proposed rule 
+                or any proposed change in, addition to, or deletion 
+                from the rules of the Board (hereafter in this 
+                subsection collectively referred to as a `proposed rule 
+                change') accompanied by a concise general statement of 
+                the basis and purpose of such proposed rule change. The 
+                Commission shall, upon the filing of any proposed rule 
+                change, publish notice thereof together with the terms 
+                of substance of the proposed rule change or a 
+                description of the subjects and issues involved. The 
+                Commission shall give interested persons an opportunity 
+                to submit written data, views, and arguments concerning 
+                the proposed rule change. No proposed rule change shall 
+                take effect unless approved by the Commission or 
+                otherwise permitted in accordance with this subsection.
+                    ``(B) Approval or disapproval.--
+                            ``(i) In general.--Not later than 35 days 
+                        after the date on which notice of the filing of 
+                        a proposed rule change is published in 
+                        accordance with subparagraph (A), or such 
+                        longer period as the Commission may designate 
+                        (not to exceed 90 days after such date, if it 
+                        finds such longer period to be appropriate and 
+                        publishes its reasons for such finding or as to 
+                        which the Board consents) the Commission 
+                        shall--
+                                    ``(I) by order approve such 
+                                proposed rule change; or
+                                    ``(II) institute proceedings to 
+                                determine whether the proposed rule 
+                                change should be disapproved.
+                            ``(ii) Disapproval proceedings.--
+                        Proceedings for disapproval shall include 
+                        notice of the grounds for disapproval under 
+                        consideration and opportunity for hearing and 
+                        shall be concluded not later than 180 days 
+                        after the date of publication of notice of the 
+                        filing of the proposed rule change. At the 
+                        conclusion of the proceedings for disapproval, 
+                        the Commission, by order, shall approve or 
+                        disapprove such proposed rule change. The 
+                        Commission may extend the time for conclusion 
+                        of such proceedings for--
+                                    ``(I) not more than 60 days, if the 
+                                Commission finds good cause for such 
+                                extension and publishes its reasons for 
+                                such finding; or
+                                    ``(II) such longer period to which 
+                                the Board consents.
+                            ``(iii) Approval.--The Commission shall 
+                        approve a proposed rule change if it finds that 
+                        such proposed rule change is consistent with 
+                        the requirements of the securities laws, and 
+                        the rules and regulations issued thereunder, 
+                        applicable to the Board. The Commission shall 
+                        disapprove a proposed rule change if it does 
+                        not make such finding. The Commission shall not 
+                        approve any proposed rule change prior to the 
+                        expiration of the 30-day period beginning on 
+                        the date on which notice of the filing of a 
+                        proposed rule change is published in accordance 
+                        with this subparagraph, unless the Commission 
+                        finds good cause to do so and publishes its 
+                        reasons for such finding.
+                    ``(C) Effect of proposed rule change.--
+                            ``(i) Effective date.--Notwithstanding 
+                        subparagraph (B), a proposed rule change may 
+                        take effect upon filing with the Commission if 
+                        designated by the Board as--
+                                    ``(I) constituting a stated policy, 
+                                practice, or interpretation with 
+                                respect to the meaning, administration, 
+                                or enforcement of an existing rule of 
+                                the Board;
+                                    ``(II) establishing or changing a 
+                                due, fee, or other charge imposed by 
+                                the Board; or
+                                    ``(III) concerned solely with the 
+                                administration of the Board or other 
+                                matters which the Commission, by rule, 
+                                consistent with the public interest and 
+                                the purposes of this subsection, may 
+                                specify.
+                            ``(ii) Summary effect.--Notwithstanding any 
+                        other provision of this subsection, a proposed 
+                        rule change may be put into effect summarily if 
+                        it appears to the Commission that such action 
+                        is necessary for the protection of investors. 
+                        Any proposed rule change put into effect 
+                        summarily shall be filed promptly thereafter in 
+                        accordance with this paragraph.
+                            ``(iii) Enforcement.--Any proposed rule 
+                        change which has taken effect pursuant to 
+                        clause (i) or (ii) may be enforced by the Board 
+                        to the extent that it is not inconsistent with 
+                        the securities laws, the rules and regulations 
+                        issued thereunder, and applicable Federal and 
+                        State law. During the 60-day period beginning 
+                        on the date on which notice of the filing of a 
+                        proposed rule change if filed in accordance 
+                        with this paragraph, the Commission may 
+                        summarily abrogate the change in the rules of 
+                        the Board made thereby and require that the 
+                        proposed rule change be refiled in accordance 
+                        with subparagraph (A) and reviewed in 
+                        accordance with subparagraph (B), if it appears 
+                        to the Commission that such action is necessary 
+                        or appropriate in the public interest, for the 
+                        protection of investors, or otherwise in 
+                        furtherance of the purposes of the securities 
+                        laws. Commission action pursuant to the 
+                        preceding sentence shall not affect the 
+                        validity or force of the rule change during the 
+                        period it was in effect and shall not be 
+                        reviewable under section 25 of this Act nor 
+                        deemed to be `final agency action' for purposes 
+                        of section 704 of title 5, United States Code.
+            ``(2) Amendment by commission of rules of the board.--The 
+        Commission, by rule, may abrogate, add to, and delete from 
+        (hereafter in this subsection collectively referred to as 
+        `amend') the rules of the Board as the Commission deems 
+        necessary or appropriate to ensure the fair administration of 
+        the Board, to conform its rules to requirements of the 
+        securities laws, and the rules and regulations issued 
+        thereunder applicable to the Board, or otherwise in furtherance 
+        of the purposes of the securities laws, in the following 
+        manner:
+                    ``(A) Publication of notice.--The Commission shall 
+                notify the Board and publish notice of the proposed 
+                rulemaking in the Federal Register. The notice shall 
+                include the text of the proposed amendment to the rules 
+                of the Board and a statement of the Commission's 
+                reasons, including any pertinent facts, for commencing 
+                such proposed rulemaking.
+                    ``(B) Comments.--The Commission shall give 
+                interested persons an opportunity for the oral 
+                presentation of data, views, and arguments, in addition 
+                to an opportunity to make written submissions. A 
+                transcript shall be kept of any oral presentation.
+                    ``(C) Incorporation.--A rule adopted pursuant to 
+                this subsection shall incorporate the text of the 
+                amendment to the rules of the Board and a statement of 
+the Commission's basis for and purpose in so amending such rules. Such 
+statement shall include an identification of any facts on which the 
+Commission considers its determination to so amend the rules of the 
+Board to be based, including the reasons for the Commission's 
+conclusions as to any of the facts that were disputed in the 
+rulemaking.
+                    ``(D) Regulations.--
+                            ``(i) Title 5 applicability.--Except as 
+                        otherwise provided in this paragraph, 
+                        rulemaking under this paragraph shall be in 
+                        accordance with the procedures specified in 
+                        section 553 of title 5, United States Code, for 
+                        rulemaking not on the record.
+                            ``(ii) Construction.--Nothing in this 
+                        subsection shall be construed to impair or 
+                        limit the Commission's power to make, modify, 
+                        or alter the procedures the Commission may 
+                        follow in making rules and regulations pursuant 
+                        to any other authority under the securities 
+                        laws.
+                            ``(iii) Incorporation of amendments.--Any 
+                        amendment to the rules of the Board made by the 
+                        Commission pursuant to this subsection shall be 
+                        considered for purposes of the securities laws 
+                        to be part of the rules of the Board and shall 
+                        not be considered to be a rule of the 
+                        Commission.
+            ``(3) Notice of disciplinary action taken by the board; 
+        review of action by the commission.--
+                    ``(A) Notice required.--If the Board imposes a 
+                final disciplinary sanction on a public accounting firm 
+                registered with the Board or on any person associated 
+                with such a firm, the Board shall promptly file notice 
+                thereof with the Commission. The notice shall be in 
+                such form and contain such information as the 
+                Commission, by rule, may prescribe as necessary or 
+                appropriate in furtherance of the purposes of the 
+                securities laws.
+                    ``(B) Review.--An action with respect to which the 
+                Board is required by subparagraph (A) to file notice 
+                shall be subject to review by the Commission, on its 
+                own motion, or upon application by any person aggrieved 
+                thereby, filed not later than 30 days after the date on 
+                which such notice is filed with the Commission and 
+                received by such aggrieved person, or within such 
+                longer period as the Commission may determine. 
+                Application to the Commission for review, or the 
+                institution of review by the Commission on its own 
+                motion, shall not operate as a stay of such action 
+                unless the Commission otherwise orders, summarily or 
+                after notice and opportunity for hearing on the 
+                question of a stay (which hearing may consist solely of 
+                the submission of affidavits or presentation of oral 
+                arguments). The Commission shall establish for 
+                appropriate cases an expedited procedure for 
+                consideration and determination of the question of a 
+                stay.
+            ``(4) Disposition of review; cancellation, reduction, or 
+        remission of sanction.--
+                    ``(A) In general.--In any proceeding to review a 
+                final disciplinary sanction imposed by the Board on a 
+                public accounting firm registered with the Board or a 
+                person associated with such a firm, after notice and 
+                opportunity for hearing (which hearing may consist 
+                solely of consideration of the record before the Board 
+                and opportunity for the presentation of supporting 
+                reasons to affirm, modify, or set aside the sanction)--
+                            ``(i) if the Commission finds that--
+                                    ``(I) such firm or person 
+                                associated with such a firm has engaged 
+                                in such acts or practices, or has 
+                                omitted such acts, as the Board has 
+                                found them to have engaged in or 
+                                omitted;
+                                    ``(II) such acts, practices, or 
+                                omissions, are in violation of such 
+                                provisions of the securities laws, the 
+                                rules or regulations issued thereunder, 
+                                the rules adopted by the Board, or 
+                                professional standards as have been 
+                                specified in the determination of the 
+                                Board; and
+                                    ``(III) such provisions were 
+                                applied in a manner consistent with the 
+                                purposes of the securities laws;
+                        the Commission, by order, shall so declare and, 
+                        as appropriate, affirm the sanction imposed by 
+                        the Board, modify the sanction in accordance 
+                        with paragraph (2), or remand to the Board for 
+                        further proceedings; or
+                            ``(ii) if the Commission does not make the 
+                        findings under clause (i), it shall, by order, 
+                        set aside the sanction imposed by the Board 
+                        and, if appropriate, remand to the Board for 
+                        further proceedings.
+                    ``(B) Cancellation, reduction, or remission of 
+                sanction.--If the Commission, having due regard for the 
+                public interest and the protection of investors, finds 
+                after a proceeding in accordance with subparagraph (A) 
+                that a sanction imposed by the Board upon a firm or 
+                person associated with a firm imposes any burden on 
+                competition not necessary or appropriate in furtherance 
+                of the purposes of the securities laws or is excessive 
+                or oppressive, the Commission may cancel, reduce, or 
+                require the remission of such sanction.
+            ``(5) Compliance with rules and regulations.--
+                    ``(A) Duties of board.--The Board shall--
+                            ``(i) comply with the securities laws, the 
+                        rules and regulations issued thereunder, and 
+                        its own rules; and
+                            ``(ii) subject to subparagraph (B) and the 
+                        rules thereunder, absent reasonable 
+                        justification or excuse, enforce compliance 
+                        with such provisions and with professional 
+                        standards by public accounting firms registered 
+                        with the Board and persons associated with such 
+                        firms.
+                    ``(B) Relief by commission.--The Commission, by 
+                rule, consistent with the public interest, the 
+                protection of investors, and the other purposes of the 
+                securities laws, may relieve the Board of any 
+                responsibility under this section to enforce compliance 
+                with any specified provision of the securities laws, 
+                the rules or regulations issued thereunder, or 
+                professional standards by any public accounting firm 
+                registered with the Board or person associated with 
+                such a firm, or any class of such firms or persons 
+                associated with such a firm.
+    ``(i) Foreign Accounting Firms.--A foreign public accounting firm 
+that furnishes accountant's reports on any financial statement, report, 
+or other document required to be filed with the Commission under any 
+Federal securities law shall, with respect to those reports, be subject 
+to the provisions of this section in the same manner and to the same 
+extent as a domestic public accounting firm. The Commission may, by 
+rule, regulation, or order and as it deems consistent with the public 
+interest and the protection of investors, either unconditionally or 
+upon specified terms and conditions, exempt from one or more provisions 
+of this section any foreign public accounting firm. Registration 
+pursuant to this subsection shall not, by itself, provide a basis for 
+subjecting foreign accounting firms to the jurisdiction of the Federal 
+or State courts.
+    ``(j) Commission Authority Not Impaired.--Nothing in this section 
+shall be construed to impair or limit the Commission's authority--
+            ``(1) over the accounting profession, accounting firms, or 
+        any persons associated with such firms;
+            ``(2) to set standards for accounting practices, derived 
+        from other provisions of the securities laws or the rules or 
+        regulations issued thereunder; or
+            ``(3) to take, on its own initiative, legal, 
+        administrative, or disciplinary action against any public 
+        accounting firm registered with the Board or any person 
+        associated with such a firm.''.
+
+SEC. 5. STUDY ON THE IMPROVEMENT OF CORPORATE GOVERNANCE.
+
+    (a) Study of Corporate Practices.--The Commission shall conduct a 
+study and review of current corporate governance standards and 
+practices to determine whether such standards and practices are serving 
+the best interests of shareholders. Such study and review shall include 
+an analysis of--
+            (1) whether current standards and practices promote full 
+        disclosure of relevant information to shareholders;
+            (2) whether corporate codes of ethics and independence 
+        requirements are adequate to protect shareholders, and to what 
+        extent deviations from such codes are tolerated;
+            (3) the existing requirements for qualification of members 
+        of the audit and finance committee of issuer boards to 
+        determine whether such requirements are adequate to create a 
+        board structure that assures the sufficiency of the issuer's 
+        disclosure;
+            (4) the extent to which conflicts of interests are 
+        aggressively reviewed, including an assessment of whether the 
+        current standards for determining a director to be independent 
+        are adequate, and whether adequate means for redressing such 
+        conflicts exist;
+            (5) whether there are significant disincentives to serve as 
+        an independent director and what are the necessary and 
+        appropriate regulatory or legislative changes on the State and 
+        Federal level to reduce or eliminate such disincentives; and
+            (6) what further or additional practices or standards might 
+        best protect investors and promote the interests of 
+        shareholders.
+    (b) Participation of State Regulators.--In conducting the study 
+required under subsection (a), the Commission shall seek the views of, 
+and consult with, the securities and corporate regulators of the 
+various States.
+    (c) Report Required.--The Commission shall submit a report on the 
+analysis required under subsection (a) to the Committee on Financial 
+Services of the House of Representatives and the Committee on Banking, 
+Housing, and Urban Affairs of the Senate no later than 180 days after 
+the date of enactment of this Act.
+
+SEC. 6. INSIDER TRADES DURING PENSION FUND BLACKOUT PERIODS PROHIBITED.
+
+    Section 16 of the Securities Exchange Act of 1934 (15 U.S.C. 78p) 
+is amended by adding at the end the following new subsection:
+    ``(h) Insider Trades During Pension Fund Blackout Periods 
+Prohibited.--
+            ``(1) Prohibition.--It shall be unlawful for any such 
+        beneficial owner, director, or officer, directly or indirectly, 
+        to purchase (or otherwise acquire) or sell (or otherwise 
+        transfer) any equity security of any issuer (other than an 
+        exempted security), during any blackout period with respect to 
+        such equity security.
+            ``(2) Remedy.--Any profit realized by such beneficial 
+        owner, director, or officer from any purchase (or other 
+        acquisition) or sale (or other transfer) in violation of this 
+        subsection shall inure to and be recoverable by the issuer 
+        irrespective of any intention on the part of such beneficial 
+        owner, director, or officer in entering into the transaction.
+            ``(3) Rulemaking permitted.--The Commission may issue rules 
+        to clarify the application of this subsection, to ensure 
+        adequate notice to all persons affected by this subsection, and 
+        to prevent evasion thereof.
+            ``(4) Definitions.--For purposes of this subsection--
+                    ``(A) the term `blackout period' with respect to 
+                the equity securities of any issuer--
+                            ``(i) means any period during which the 
+                        employees of such issuer are precluded from 
+                        purchasing (or otherwise acquiring) or selling 
+                        (or otherwise transferring) their interest in 
+                        any equity security of such issuer held in an 
+individual account plan of such issuer; but
+                            ``(ii) does not include a period in which 
+                        the employees of an issuer may not allocate 
+                        their interests in the individual account plan 
+                        due to an express investment restriction--
+                                    ``(I) incorporated into the 
+                                individual account plan; and
+                                    ``(II) timely disclosed to 
+                                employees before joining the individual 
+                                account plan or as a subsequent 
+                                amendment to the plan; and
+                    ``(B) the term `individual account plan' has the 
+                meaning provided such term in section 3(34) of the 
+                Employee Retirement Income Security Act of 1974 (29 
+                U.S.C. 1002(34)).''.
+
+SEC. 7. IMPROVEMENTS IN FINANCIAL REPORTING.
+
+    (a) Specific Objectives.--The Commission shall initiate a 
+proceeding to propose changes in its rules and regulations with respect 
+to financial reporting to improve the transparency and clarity of the 
+information available to investors and to require increased financial 
+disclosure with respect to the following:
+            (1) Off-balance sheet transactions.--The issuer's off-
+        balance sheet transactions and relationships with 
+        unconsolidated entities or other persons, to the extent they 
+        are not disclosed in the financial statement and expose the 
+        issuer to current or future possible liability, obligations, 
+        expenses, or cash flow changes, or affect the recognition of 
+        revenue, carrying value, or potential impairment of assets, 
+        credit ratings, earnings, cash flows, or stock price.
+            (2) Insider transactions.--Relationships and transactions--
+                    (A) between the issuer, affiliates of the issuer, 
+                and officers, directors, or employees of the issuer or 
+                such affiliates; and
+                    (B) between officers, directors, employees, or 
+                affiliates of the issuer and entities that are not 
+                otherwise affiliated with the issuer,
+        to the extent such arrangement or transaction creates a 
+        conflict of interest for such persons. Such disclosure shall 
+        provide a description of such elements of the transaction as 
+        are necessary for an understanding of the business purpose and 
+        economic substance of such transaction (including 
+        contingencies). The disclosure shall provide sufficient 
+        information to determine the effect on the issuer's financial 
+        statements and describe compensation arrangements of interested 
+        parties to such transactions.
+            (3) Relationships with philanthropic organizations.--
+        Relationships between the registrant or any executive officer 
+        of the registrant and any not-for-profit organization on whose 
+        board a director or immediate family member serves or of which 
+        a director or immediate family member serves as an officer or 
+        in a similar capacity. Relationships that shall be disclosed 
+        include contributions to the organization in excess of $10,000 
+        made by the registrant or any executive officer in the last 
+        five years and any other activity undertaken by the registrant 
+        or any executive officer that provides a material benefit to 
+        the organization. Material benefit includes lobbying.
+            (4) Insider-controlled affiliates.--Relationships in which 
+        the registrant or any executive officer exercises significant 
+        control over an entity in which a director or immediate family 
+        member owns an equity interest or to which a director or 
+        immediate family member has extended credit. Significant 
+        control should be defined with reference to the contractual and 
+        governance arrangements between the registrant or executive 
+        officer, as the case may be, and the entity.
+            (5) Joint ownership.--Joint ownership by a registrant or 
+        executive officer and a director or immediate family member of 
+        any real or personal property.
+            (6) Provision of services by related persons.--The 
+        provision of any professional services, including legal, 
+        financial advisory or medical services, by a director or 
+        immediate family member to any executive officer of the 
+        registrant in the last five years.
+    (b) General Objectives; Plain Language.--
+            (1) Additional proceeding.--In addition to the proceeding 
+        required by subsection (a), the Commission shall initiate a 
+        proceeding--
+                    (A) to require financial reports to present 
+                financial information in plain language, to the maximum 
+                extent possible; and
+                    (B) to further improve the transparency and clarity 
+                of the information available to investors, in light of 
+                the analysis required by paragraph (2).
+            (2) Analysis.--In order to determine what additional or 
+        reorganized information should be disclosed to improve the 
+        transparency of financial statements filed under the securities 
+        laws, the Commission shall review and analyze all enforcement 
+        actions by the Commission, and all restatements of financial 
+        statements and other periodic filings with the Commission, over 
+        the five years preceding such date of enactment to identify 
+        areas of reporting that are most susceptible to fraud, 
+        inappropriate manipulation, or inappropriate earnings 
+        management.
+            (3) Alternatives to be considered.--In conducting the 
+        proceeding required by this subsection, the Commission shall 
+        consider--
+                    (A) requiring the identification of the key 
+                accounting principles that are most important to the 
+                issuer's reported financial condition or results of 
+                operation;
+                    (B) requiring an explanation, where material, of 
+                how different available accounting principles would 
+                lead to different presentations regarding financial 
+                condition or results of operation; and
+                    (C) requiring new or additional disclosure with 
+                respect to--
+                            (i) the methodology used by the issuer in 
+                        establishing or maintaining reserves;
+                            (ii) all officer and director affiliations 
+                        with, and any compensation received by 
+an officer or director from, any special purpose entities;
+                            (iii) internal controls adopted to approve 
+                        the creation of special purpose entities;
+                            (iv) disclosing in detail any arrangements 
+                        that would require the issuer to assume the 
+                        debts incurred by a special purpose entity; and
+                            (v) additional critical areas identified by 
+                        the Commission in connection with earnings 
+                        management; and
+                    (D) reviewing issuer compliance with and 
+                sufficiency of current rules and regulations relating 
+                to revenue recognition.
+    (c) Deadlines.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        Commission shall complete the rulemaking required by this 
+        section within 180 days after the date of enactment of this 
+        Act.
+            (2) Plain language.--The Commission shall complete the 
+        rulemaking required by subsection (b)(1)(A) within one year 
+        after the date of enactment of this Act.
+
+SEC. 8. CREATION OF CURRENT DISCLOSURE REPORTING SYSTEM.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) 
+is amended by adding at the end the following new subsection:
+    ``(i) Current Disclosure Reporting System.--
+            ``(1) Rulemaking required.--The Commission shall, by rule 
+        pursuant to this section, require issuers to provide timely 
+        information with respect to significant events and trends in 
+        the issuer's operations, and to consider the total mix of its 
+        business and update its information and accounting systems to 
+        provide for ongoing, current information that would disclose, 
+        among other things--
+                    ``(A) known and reliable financial information 
+                throughout each fiscal quarter;
+                    ``(B) to the extent possible, known trends in an 
+                issuer's business that would be material to investors;
+                    ``(C) assessments of developments during and 
+                between fiscal quarters and the factors that may have 
+                modified prior forecasts or otherwise changed 
+                preliminary financial results that the issuer may have 
+                provided;
+                    ``(D) financial information on a business segments 
+                basis; and
+                    ``(E) updates to information previously disclosed, 
+                whether disclosed in periodic reports under this 
+                section, in previous disclosures under this subsection, 
+                or otherwise.
+            ``(2) Impact on foreign issuers.--In conducting the 
+        rulemaking required by this subsection, the Commission shall 
+        evaluate--
+                    ``(A) the impact of requiring current disclosures 
+                on foreign issuers; and
+                    ``(B) the extent to which it is advisable to 
+                provide reasonable exceptions to the reporting 
+                requirements for foreign issuers, while at the same 
+                time making the overall disclosure standards reasonably 
+                consistent.
+        Nothing in this paragraph shall be construed to require the 
+        Commission to provide the exceptions described in subparagraph 
+        (B).
+            ``(3) Assess impact on regulation fd.--In conducting the 
+        rulemaking required by this subsection, the Commission shall 
+        assess the impact of requiring ongoing disclosures on, and need 
+        for coordinating that requirement with, the requirements of 
+        Regulation FD (17 CFR part 243).''.
+
+SEC. 9. ENHANCED OVERSIGHT OF PERIODIC DISCLOSURES BY ISSUERS.
+
+    (a) Regular and Systematic Review.--The Securities and Exchange 
+Commission shall review disclosures made by issuers pursuant to the 
+Securities Exchange Act of 1934 (including reports filed on form 10-K) 
+on a basis that is more regular and systematic than that in practice on 
+the date of enactment on this Act. Such review shall include a review 
+of an issuer's financial statements.
+    (b) Risk Rating System.--For purposes of the reviews required by 
+subsection (a), the Commission shall establish a risk rating system 
+whereby issuers receive a risk rating by the Commission, which shall be 
+used to determine the frequency of such reviews. In designing such a 
+risk rating system the Commission shall consider, among other factors 
+the following:
+            (1) Emerging companies with disparities in price to earning 
+        ratios.
+            (2) Issuers with the largest market capitalization.
+            (3) Issuers whose operations significantly impact any 
+        material sector of the economy.
+            (4) Systemic factors such as the effect on niche markets or 
+        important subsectors of the economy.
+            (5) Issuers that experience significant volatility in their 
+        stock price as compared to other issuers.
+            (6) Any other factor the Commission may consider relevant.
+    (c) Minimum Review Period.--In no event shall an issuer be reviewed 
+less than once every three years by the Commission.
+
+SEC. 10. REAUTHORIZATION OF APPROPRIATIONS OF THE SECURITIES AND 
+              EXCHANGE COMMISSION.
+
+    Subsection (a) of section 35 of the Securities Exchange Act of 1934 
+(15 U.S.C. 78kk(a)) is amended to read as follows:
+    ``(a) In General.--In addition to any other funds authorized to be 
+appropriated to the Securities and Exchange Commission, there are 
+authorized to be appropriated to carry out the functions, powers, and 
+duties of the Commission, $876,000,000 for fiscal year 2003, of which--
+            ``(1) not less than $134,000,000 shall be available for the 
+        Division of Corporate Finance and the Office of the Chief 
+        Accountant; and
+            ``(2) not less than $326,000,000 shall be available to the 
+        Division of Enforcement.''.
+
+SEC. 11. ELECTRONIC DISCLOSURE OF AFFILIATE TRANSACTIONS.
+
+    (a) In General.--Except as specifically provided in this Act, and 
+notwithstanding any other provision of law, any disclosure required by 
+the securities laws or the rules and regulations thereunder of the 
+purchase or sale of any securities by an officer or director or other 
+affiliated person of the issuer of those securities shall--
+            (1) include the disclosure of the purchase or sale of any 
+        security futures product (as defined in section 3(a)(56) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(56)) or any 
+        security-based swap agreement (as defined in section 206B of 
+        the Gramm-Leach-Bliley Act) that is based in whole or in part 
+        on the securities of such issuer; and
+            (2) be made available in electronic form--
+                    (A) to the Commission by the affiliated person, 
+                before the end of the calendar day on which the 
+                transaction occurs;
+                    (B) to the public by the Commission, to the extent 
+                permitted under applicable law, upon receipt, but in no 
+                case later than the end of the business day on which 
+                the disclosure is received under subparagraph (A); and
+                    (C) in any case in which the issuer maintains a 
+                corporate website that is accessible only internally, 
+                on that internal website, before the end of the 
+                calendar day on which the transaction occurs.
+    (b) Other Formats.--The requirement of disclosures in electronic 
+form under subsection (a)(2) shall, at the discretion of the 
+Commission, be in lieu of any other format required for such 
+disclosures on the day before the date of enactment of this Act.
+    (c) Incorporated Definitions.--In this Act, the terms ``affiliated 
+person'', ``Commission'', ``issuer'', and ``securities'' have the same 
+meanings as in section 3 of the Securities Exchange Act of 1934.
+    (d) Effective Date.--This section shall become effective 90 days 
+after the date of enactment of this Act.
+
+SEC. 12. RESTORATION OF JOINT AND SEVERAL LIABILITY.
+
+    (a) Amendment.--Subparagraph (A) of section 21D(f)(2) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78u-4(f)(2)(A)) is amended 
+to read as follows:
+                    ``(A) Joint and several liability.--Any covered 
+                person against whom a final judgment is entered in a 
+                private action shall be liable for damages jointly and 
+                severally only if the trier of fact specifically 
+                determines that--
+                            ``(i) such covered person knowingly 
+                        committed a violation of the securities laws;
+                            ``(ii) the covered person was the auditor 
+                        of the financial statements of the issuer of 
+                        the securities that are the subject of the 
+                        class action and such auditor failed to comply 
+                        with section 10A by failing to detect and 
+                        report an illegal act of such issuer that is 
+                        the basis of such class action;
+                            ``(iii) the covered person was the auditor 
+                        of the financial statements of such issuer and 
+                        such auditor performed any nonaudit functions 
+                        for such issuer during the fiscal year in which 
+                        an alleged violation of the securities laws 
+                        occurred; or
+                            ``(iv) the issuer of such securities is 
+                        insolvent.''.
+    (b) Uncollectable Shares.--Section 21D(f)(4) of such Act is amended 
+by adding at the end the following new subparagraph:
+                    ``(D) Inapplicability to insolvency cases.--The 
+                provisions of this paragraph shall not apply in any 
+                case in which the trier of fact determines that the 
+                issuer of the securities that are the subject of the 
+                class action is insolvent under paragraph 
+                (2)(A)(iv).''.
+    (c) Disclosure to Juries.--Section 21D(f) of such Act is further 
+amended--
+            (1) by striking paragraph (6); and
+            (2) by redesignating paragraphs (7) through (10) as 
+        paragraphs (6) through (9), respectively.
+    (d) Definition.--Section 21D(f)(9) of such Act (as redesignated by 
+subsection (c)(2) of this section) is amended--
+            (1) by striking ``and'' at the end of subparagraph (C);
+            (2) by striking the period at the end of subparagraph (D) 
+        and inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(E) an auditor shall be considered to have 
+                performed `nonaudit functions for an issuer' if such 
+                auditor received any compensation for services from 
+                such issuer for a fiscal year that did not qualify to 
+                be treated as audit fees for such fiscal year for 
+                purposes of item 9(e)(1) of the schedule 14A of such 
+                issuer.''.
+    (e) Prevention of Stays of Discovery.--
+            (1) Section 21D(b)(3) of such Act is amended by adding at 
+        the end the following new subparagraph:
+                    ``(E) Inapplicability to action against auditors.--
+                In any private action arising under this title against 
+                the auditor of the financial statements of the issuer 
+                of the securities that are the subject of such action, 
+                discovery and other proceedings shall not be stayed 
+                pursuant to this paragraph.''.
+            (2) Section 27(b) of the Securities Act of 1933 (15 U.S.C. 
+        77z-1(b)) is amended by adding at the end the following new 
+        paragraph:
+            ``(5) Inapplicability to action against auditors.--In any 
+        private action arising under this title against the auditor of 
+        the financial statements of the issuer of the securities that 
+        are the subject of such action, discovery and other proceedings 
+        shall not be stayed pursuant to this subsection.''.
+
+SEC. 13. CREDIT RATING AGENCIES.
+
+    (a) Study Required.--The Securities and Exchange Commission shall 
+conduct a study of the role and function of credit rating agencies in 
+the operation of the securities market. Such study shall examine--
+            (1) the role of the credit rating agencies in the 
+        evaluation of issuers of securities;
+            (2) the importance of that role to investors and the 
+        functioning of the securities markets;
+            (3) any impediments to the accurate appraisal by credit 
+        rating agencies of the financial resources and risks of issuers 
+        of securities;
+            (4) any measures which may be required to improve the 
+        dissemination of information concerning such resources and 
+        risks when credit rating agencies announce credit ratings; and
+            (5) any conflicts of interest in the operation of credit 
+        rating agencies and measures to prevent such conflicts or 
+        ameliorate the consequences of such conflicts.
+    (b) Report Required.--The Commission shall submit a report on the 
+analysis required by subsection (a) to the President and the Committee 
+on Financial Services of the House of Representatives and the Committee 
+on Banking, Housing, and Urban Affairs of the Senate within 180 days 
+after the date of enactment of this Act.
+
+SEC. 14. RESTORATION OF AIDING AND ABETTING LIABILITY.
+
+    (a) Securities Act of 1933.--Section 20 of the Securities Act of 
+1933 (15 U.S.C. 77t) is amended by adding at the end the following new 
+subsection:
+    ``(g) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (b) and (d), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule or regulation 
+hereunder, shall be deemed to violate such provision to the same extent 
+as the person to whom such assistance is provided. No person shall be 
+liable under this subsection based on an omission or failure to act 
+unless such omission or failure constituted a breach of a duty owed by 
+such person.''.
+    (b) Securities Exchange Act of 1934.--Section 20(e) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78t(e)) is amended to read 
+as follows:
+    ``(e) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d)(1) and (d)(3) of section 21, or an action 
+by a self-regulatory organization, or an express or implied private 
+right of action under this title, any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule or regulation 
+thereunder, shall be deemed to violate such provision and shall be 
+liable to the same extent as the person to whom such assistance is 
+provided. No person shall be liable under this subsection based on an 
+omission or failure to act unless such omission or failure constituted 
+a breach of a duty owed by such person.''.
+    (c) Investment Company Act of 1940.--Section 42 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-41) is amended by adding at the end 
+the following new subsection:
+    ``(f) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d) and (e), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule, regulation, or 
+order hereunder, shall be deemed to violate such provision to the same 
+extent as the person to whom such assistance is provided. No person 
+shall be liable under this subsection based on an omission or failure 
+to act unless such omission or failure constituted a breach of a duty 
+owed by such person.''.
+    (d) Investment Advisers Act of 1940.--Section 209(d) of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-9) is amended--
+            (1) in subsection (d)--
+                    (A) by striking ``or that any person has aided, 
+                abetted, counseled, commanded, induced, or procured, is 
+                aiding, abetting, counseling, commanding, inducing, or 
+                procuring, or is about to aid, abet, counsel, command, 
+                induce, or procure such a violation,''; and
+                    (B) by striking ``or in aiding, abetting, 
+                counseling, commanding, inducing, or procuring any such 
+                act or practice''; and
+            (2) by adding at the end the following new subsection:
+    ``(f) Prosecution of Persons Who Aid or Abet Violations.--For 
+purposes of subsections (d) and (e), any person who knowingly or 
+recklessly provides substantial assistance to another person in the 
+violation of a provision of this title, or of any rule, regulation, or 
+order hereunder, shall be deemed to violate such provision to the same 
+extent as the person to whom such assistance is provided. No person 
+shall be liable under this subsection based on an omission or failure 
+to act unless such omission or failure constituted a breach of duty 
+owed by such person.''.
+
+SEC. 15. DESTRUCTION OF RECORDS.
+
+    (a) Audit Requirements.--Section 10A of the Securities Exchange Act 
+of 1934 (15 U.S.C. 78j-1) is--
+            (1) by redesignating subsections (e) and (f) as subsections 
+        (f) and (g), respectively; and
+            (2) by inserting after subsection (d) the following new 
+        subsection:
+    ``(e) Destruction of Records.--
+            ``(1) Maintenance of records required.--Any accountant that 
+        conducts an audit of an issuer pursuant to this title to which 
+        subsection (a) applies shall maintain all documents (including 
+        electronic documents) sent, received, or created in connection 
+        with any audit, review, or other engagement for such issuer for 
+        a period of 7 years from the end of the fiscal period in which 
+        the engagement was concluded.
+            ``(2) Penalty.--In addition to any other sanctions that may 
+        be available, any person who knowingly and willfully violates 
+        paragraph (1) shall be subject to fine and imprisonment to the 
+        same extent as a person violating section 1512(b) of title 18, 
+        United States Code.''.
+    (b) Preservation of Records During Shareholder Litigation.--
+            (1) Securities act of 1933.--Section 27(b)(2) of the 
+        Securities Act of 1933 (15 U.S.C. 77z-1(b)(2)) is amended by 
+        inserting ``, and the issuer of the securities that are the 
+        subject of such action,'' after ``in the complaint''.
+            (2) Securities exchange act of 1934.--Section 
+        21D(b)(3)(C)(i) of the Securities Act of 1933 (15 U.S.C. 77z-
+        1(b)(3)(C)(i)) is amended by inserting ``, and the issuer of 
+        the securities that are the subject of such action,'' after 
+        ``in the complaint''.
+    (c) Statute of Limitations.--Title I of the Securities Exchange Act 
+of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end the 
+following new section:
+
+``SEC. 37. STATUTE OF LIMITATIONS.
+
+    ``(a) In General.--Except as otherwise specifically provided in 
+this title, and notwithstanding section 9(e), an implied private right 
+of action arising under this title may be brought not later than the 
+earlier of--
+            ``(1) 5 years after the date on which the alleged violation 
+        occurred; or
+            ``(2) 3 years after the date on which the alleged violation 
+        was discovered.
+    ``(b) Effective Date.--The limitations period provided by this 
+section shall apply to all proceedings commenced after the date of the 
+enactment of the Comprehensive Investor Protection Act of 2002.''.
+
+SEC. 16. ANALYST CONFLICTS OF INTEREST.
+
+    (a) Study and Review Required.--The Securities and Exchange 
+Commission shall conduct a study and review of any final rules by any 
+self-regulatory organization registered with the Commission pursuant to 
+section 19 of the Securities Exchange Act of 1934 (15 U.S.C. 78s) 
+related to matters involving equity research analysts conflicts of 
+interest. Such study and report shall include a review of the 
+effectiveness of such final rules in addressing matters relating to the 
+objectivity and integrity of equity research analyst reports and 
+recommendations.
+    (b) Report Required.--The Securities and Exchange Commission shall 
+submit a report to the Committee on Financial Services of the House of 
+Representatives and the Committee on Banking, Housing, and Urban 
+Affairs of the Senate on such study and review no later than 180 days 
+after any such final rules by any self-regulatory organization 
+registered with the Commission pursuant to section 19 of the Securities 
+Exchange Act of 1934 are approved by the Commission. Such report shall 
+include recommendations to the Congress, including any recommendations 
+for additional self-regulatory organization rulemaking regarding 
+matters involving equity research analysts. The Commission shall 
+annually submit an update on such review.
+    (c) Additional Rules Required.--Unless the final rules reviewed by 
+the Commission under subsections (a) and (b) contain the following 
+provisions, the Commission shall, by rule--
+            (1) prohibit equity research analysts from--
+                    (A) holding any beneficial interest in any equity 
+                security (as such term in defined in section 3(a)(11) 
+                of the Securities Exchange Act of 1934 (15 U.S.C. 
+                78c(a)(11)) in any issuer covered by such analyst; and
+                    (B) receiving compensation based on the investment 
+                banking revenues of the firm with which the analyst is 
+                associated, or on the investment banking revenues of 
+                such firm and its affiliates, except that this 
+                prohibition shall not prohibit such an analyst from 
+                receiving compensation based on the overall revenues of 
+                such firm or of such firm and its affiliates; and
+            (2) require such self-regulatory organizations--
+                    (A) to establish criteria for evaluating analyst 
+                research quality; and
+                    (B) to require analyst compensation to be based 
+                principally on the quality of the equity research 
+                analyst's research.
+
+SEC. 17. DEFINITION OF SECURITIES LAWS.
+
+    As used in this Act (including in any amendment made by this Act), 
+the term ``securities laws'' means the Securities Act of 1933 (15 
+U.S.C. 77a et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a 
+et seq.), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.), 
+the Investment Company Act of 1940 (15 U.S.C. 80a-1 et seq.), the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b et seq.), and the 
+Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), 
+notwithstanding any contrary provision of any such Act.
+                                 <all>
+

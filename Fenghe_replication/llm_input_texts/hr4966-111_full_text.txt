@@ -1,0 +1,231 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4966 Introduced in House (IH)]
+
+111th CONGRESS
+  2d Session
+                                H. R. 4966
+
+ To amend section 5316 of title 31, United States Code, to establish a 
+reporting requirement for any stored value device carried out of, into, 
+ or through the United States, to establish registration requirements 
+      for stored value device businesses, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 25, 2010
+
+ Ms. Giffords introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend section 5316 of title 31, United States Code, to establish a 
+reporting requirement for any stored value device carried out of, into, 
+ or through the United States, to establish registration requirements 
+      for stored value device businesses, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Stored Value Device Registration and 
+Reporting Act of 2010''.
+
+SEC. 2. DEFINITIONS.
+
+    (a) Definition of Financial Institution.--Paragraph (2) of section 
+5312(a) of title 31, United States Code is amended--
+            (1) by redesignating subparagraphs (Y) and (Z) as 
+        subparagraphs (Z) and (AA), respectively; and
+            (2) by inserting after subparagraph (X) the following new 
+        subparagraph:
+                    ``(Y) a person engaged in the business of--
+                            ``(i) issuing stored value devices; or
+                            ``(ii) processing transactions related to a 
+                        stored value device, including accessing 
+                        information pertaining to the funds stored on 
+                        such device, retrieving the funds stored on 
+                        such device, or adding funds to be stored on 
+                        such device;''.
+    (b) Definition of Monetary Instruments.--Subparagraph (B) of 
+section 5312(a)(3) of title 31, United States Code, is amended by 
+inserting after ``travelers' checks,'' the following: ``stored value 
+devices,''.
+    (c) Stored Value Device Defined.--Subsection (a) of section 5312 of 
+title 31, United States Code, is amended by adding at the end the 
+following new paragraphs:
+            ``(7) Stored value device defined.--The term `stored value 
+        device' means a device that--
+                    ``(A) stores, or is capable of storing, funds 
+                represented in electronic format (whether or not 
+                specially encrypted) in such a way as to allow such 
+                funds to be retrievable and transferable 
+                electronically;
+                    ``(B) is used to obtain money, goods, services, or 
+                any other thing of value, or that can be used to 
+                initiate a transfer of funds (other than a transfer 
+                originated solely by paper instrument); and
+                    ``(C) is not a credit card or a debit card, as such 
+                terms are defined by the Secretary of the Treasury.''.
+
+SEC. 3. REGISTRATION OF STORED VALUE DEVICE BUSINESSES.
+
+    (a) In General.--Subchapter II of chapter 53 of title 31, United 
+States Code, is amended by inserting after section 5330 the following 
+new section:
+``Sec. 5330A. Registration of stored value device businesses
+    ``(a) Registration With Secretary of the Treasury Required.--
+            ``(1) In general.--Any person who owns or controls a stored 
+        value device business shall register the business (whether or 
+        not the business is licensed as a stored value device business 
+        in any State) with the Secretary of the Treasury not later than 
+        the end of the 180-day period beginning on the later of--
+                    ``(A) the date of the enactment of the Stored Value 
+                Device Registration and Reporting Act of 2010; or
+                    ``(B) the date on which the business is 
+                established.
+            ``(2) Form and manner of registration.--Subject to the 
+        requirements of subsection (b), the Secretary of the Treasury 
+        shall prescribe, by regulation, the form and manner for 
+        registering a stored value device business pursuant to 
+        paragraph (1).
+            ``(3) Businesses remain subject to state law.--This section 
+        shall not be construed as superseding any requirement of State 
+        law relating to stored value device businesses operating in 
+        such State.
+            ``(4) False and incomplete information.--The filing of 
+        false or materially incomplete information in connection with 
+        the registration of a stored value device businesses shall be 
+        considered as a failure to comply with the requirements of this 
+        subchapter.
+    ``(b) Contents of Registration.--The registration of a stored value 
+device business under subsection (a) shall include the following 
+information:
+            ``(1) The name and location of the business.
+            ``(2) The name and address of each person who--
+                    ``(A) owns or controls the business;
+                    ``(B) is a director or officer of the business; or
+                    ``(C) otherwise participates in the conduct of the 
+                affairs of the business.
+            ``(3) The name and address of any depository institution at 
+        which the business maintains a transaction account (as defined 
+        in section 19(b)(1)(C) of the Federal Reserve Act).
+            ``(4) An estimate of the volume of business in the coming 
+        year (which shall be reported annually to the Secretary).
+            ``(5) Such other information as the Secretary of the 
+        Treasury may require.
+    ``(c) Agents of Stored Value Device Business.--
+            ``(1) Maintenance of lists of agents.--Pursuant to 
+        regulations which the Secretary of the Treasury shall 
+        prescribe, each stored value device business shall--
+                    ``(A) maintain a list containing the names and 
+                addresses of all persons authorized to act as an agent 
+                for such business in connection with activities 
+                described in subsection (d)(1) and such other 
+                information about such agents as the Secretary may 
+                require; and
+                    ``(B) make the list and other information available 
+                on request to any appropriate law enforcement agency.
+            ``(2) Treatment of agent.--The Secretary of the Treasury 
+        shall prescribe regulations establishing, on the basis of such 
+        criteria as the Secretary determines to be appropriate, a 
+        threshold point for treating an agent of a stored value device 
+        business as a stored value device business for purposes of this 
+        section.
+    ``(d) Stored Value Device Business Defined.--For purposes of this 
+section, the term `stored value device business' means a person other 
+than the United States Postal Service who--
+            ``(1) is engaged in the business of--
+                    ``(A) issuing stored value devices; or
+                    ``(B) processing transactions related to a stored 
+                value device, including accessing information 
+                pertaining to the funds stored on such device, 
+                retrieving the funds stored on such device, or adding 
+                funds to be stored on such device; and
+            ``(2) is not a depository institution (as defined in 
+        section 5313(g)).
+    ``(e) Civil Penalty for Failure To Comply With Registration 
+Requirements.--
+            ``(1) In general.--Any person who fails to comply with any 
+        requirement of this section or any regulation prescribed under 
+        this section shall be liable to the United States for a civil 
+        penalty of $5,000 for each such violation.
+            ``(2) Continuing violation.--Each day a violation described 
+        in paragraph (1) continues shall constitute a separate 
+        violation for purposes of such paragraph.
+            ``(3) Assessments.--Any penalty imposed under this 
+        subsection shall be assessed and collected by the Secretary of 
+        the Treasury in the manner provided in section 5321 and any 
+        such assessment shall be subject to the provisions of such 
+        section.
+    ``(f) Small Business Exemption.--The Secretary of the Treasury 
+shall prescribe regulations establishing, on the basis of such criteria 
+as the Secretary determines to be appropriate, a threshold point under 
+which small stored value device businesses will not be required to 
+register under this section.''.
+    (b) Clerical Amendment.--The table of sections for chapter 53 of 
+title 31, United States Code, is amended by inserting after the item 
+relating to section 5330 the following new item:
+
+``5330A. Registration of stored value device businesses.''.
+
+SEC. 4. STORED VALUE DEVICE STUDY.
+
+    (a) In General.--The Secretary of the Treasury, in consultation 
+with the Attorney General, the Secretary of Homeland Security, and the 
+Director of National Intelligence, shall carry out a study on stored 
+value devices. Such study shall include--
+            (1) an analysis of the extent to which stored value devices 
+        are used for the purpose of providing--
+                    (A) payments related to drug trafficking;
+                    (B) payments related to human trafficking; or
+                    (C) financial support to terror cells operating 
+                within the United States;
+            (2) an analysis of the extent to which stored value devices 
+        issued by foreign entities are being utilized in the United 
+        States, including the typical countries of origin of such 
+        devices and the typical values of such devices when imported 
+        into the United States;
+            (3) an analysis of the extent to which stored value devices 
+        issued by United States entities are being utilized outside the 
+        United States, including the typical locations where value is 
+        added to such device and where value is typically subtracted 
+        internationally;
+            (4) an identification of any trends in stored value 
+        addition and subtraction that appear to be associated with drug 
+        trafficking or human trafficking;
+            (5) a list of stored value device types which are now or 
+        may soon be used for money trafficking;
+            (6) recommendations on methods to collect data related to 
+        stored value device transactions for purposes of law 
+        enforcement and intelligence analysis in a manner consistent 
+        with the Foreign Intelligence Surveillance Act and privacy 
+        laws; and
+            (7) an analysis of whether requiring certain information to 
+        be printed, or otherwise made available, on stored value 
+        devices would help customs and law enforcement officers 
+        identify such devices and track the origins of such devices, 
+        where such information could include the name and address of 
+        the device issuer, the maximum value of funds that can be 
+        stored on such device, and the fact that the device is a stored 
+        value device.
+    (b) Report.--Not later than the end of the 180-day period beginning 
+on the date of the enactment of this Act, the Secretary of the Treasury 
+shall submit a report to the Congress containing all findings and 
+determinations made in carrying out the study required under subsection 
+(a).
+    (c) Stored Value Device Defined.--For purposes of this section, the 
+term ``stored value device'' shall have the meaning given such term 
+under section 5312(a)(7) of title 31, United States Code.
+                                 <all>
+

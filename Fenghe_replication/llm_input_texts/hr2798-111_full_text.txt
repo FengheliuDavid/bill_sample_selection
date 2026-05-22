@@ -1,0 +1,269 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2798 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 2798
+
+ To increase securities protection coverage in the event of stolen or 
+                missing assets, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 10, 2009
+
+Mr. Arcuri (for himself and Mr. Maffei) introduced the following bill; 
+       which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To increase securities protection coverage in the event of stolen or 
+                missing assets, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Support Investment Protection for 
+Customers Reform Act of 2009''.
+
+SEC. 2. INCREASING SECURITIES INVESTOR PROTECTION CORPORATION CASH 
+              COVERAGE.
+
+    (a) Increasing the Cash Limit of Protection From $100,000 to 
+$250,000.--Section 9 of the Securities Investor Protection Act (15 
+U.S.C. 78fff-3) is amended--
+            (1) in subsection (a)(1), by striking ``$100,000 for each 
+        such customer'' and inserting ``the standard maximum cash 
+        advance amount for each such customer, as determined in 
+        accordance with subsection (d)''; and
+            (2) by adding at the end the following new subsections:
+    ``(d) Standard Maximum Cash Advance Amount.--For purposes of this 
+Act, the term `standard maximum cash advance amount' means $250,000, 
+adjusted as provided under subsection (e) after March 31, 2010.
+    ``(e) Inflation Adjustment.--
+            ``(1) In general.--Not later than April 1, 2010, and the 
+        first day of each 5-year period thereafter, and subject to the 
+        approval of the Commission, the Board of Directors of SIPC 
+        shall consider the factors set forth under paragraph (5), and, 
+        upon determining that an inflation adjustment is appropriate, 
+        shall prescribe the amount by which the standard maximum cash 
+        advance amount applicable to a customer claim shall be 
+        increased by calculating the product of--
+                    ``(A) $250,000; and
+                    ``(B) the ratio of the annual value of the Personal 
+                Consumption Expenditures Chain-Type Price Index (or any 
+                successor index thereto), published by the Department 
+                of Commerce, for the calendar year preceding the year 
+                in which the adjustment is calculated under this 
+                paragraph, to the published annual value of such index 
+                for the calendar year preceding the date this 
+                subparagraph takes effect. The values used in such 
+                calculation shall be the applicable values most 
+                recently published by the Department of Commerce.
+            ``(2) Rounding.--If the amount determined under paragraph 
+        (1) for any period is not a multiple of $10,000, the amount so 
+        determined shall be rounded down to the nearest $10,000.
+            ``(3) Publication and report to congress.--Not later than 
+        April 5 of any calendar year in which an adjustment is required 
+        to be calculated under paragraph (1) to the standard maximum 
+        cash advance amount--
+                    ``(A) the Commission shall publish in the Federal 
+                Register the standard maximum cash advance amount, as 
+                so calculated; and
+                    ``(B) the Board of Directors of SIPC shall submit a 
+                report to the Congress containing the amount described 
+                in subparagraph (A).
+            ``(4) 6-month implementation period.--Any increase in the 
+        standard maximum cash advance amount shall take effect on 
+        January 1 of the year immediately succeeding the calendar year 
+        in which such increase is made.
+            ``(5) Inflation adjustment consideration.--In making any 
+        determination under paragraph (1) to increase the standard 
+        maximum cash advance amount, the Board of Directors of SIPC 
+        shall consider, among other factors--
+                    ``(A) the overall state of the fund;
+                    ``(B) the economic conditions affecting members of 
+                SIPC; and
+                    ``(C) potential problems affecting members of 
+                SIPC.''.
+    (b) Increasing SIPC Line of Credit With the Department of 
+Treasury.--Section 4(h) of the Securities Investor Protection Act (15 
+U.S.C. 78ddd(h)) is amended by striking out ``$1,000,000,000'' and 
+inserting ``the lesser of $2,500,000,000 or the target amount of the 
+SIPC Fund specified in the bylaws of SIPC''.
+
+SEC. 3. AMENDMENTS TO THE SECURITIES INVESTOR PROTECTION ACT.
+
+    (a) Increasing the Minimum Assessment Paid by SIPC Members.--
+Section 4(d)(1)(C) of the Securities Investor Protection Act (15 U.S.C. 
+78ddd(d)(1)(C)) is amended by striking ``$150'' and inserting 
+``$1,000''.
+    (b) SIPC as Trustee in SIPA Liquidation Proceedings.--Section 
+5(b)(3) of the Securities Investor Protection Act (15 U.S.C. 
+78eee(b)(3)) is amended--
+            (1) by striking ``SIPC has determined that the liabilities 
+        of the debtor to unsecured general creditors and to 
+        subordinated lenders appear to aggregate less than $750,000 and 
+        that''; and
+            (2) by striking ``five hundred'' and inserting ``5,000''.
+    (c) Insiders Ineligible for SIPC Advance.--
+            (1) In general.--Section 9(a)(4) of the Securities Investor 
+        Protection Act (15 U.S.C. 78fff-3(a)(4)) is amended by 
+        inserting ``an insider,'' after ``or net profits of the 
+        debtor,''.
+            (2) Insider defined.--Section 16 of the Securities Investor 
+        Protection Act (15 U.S.C. 78lll) is amended by adding at the 
+        end the following new paragraph:
+            ``(15) Insider.--The term `insider' shall have the same 
+        meaning as in section 101(31) of title 11, United States 
+        Code.''.
+    (d) Eligibility for Direct Payment Procedure.--Section 10(a)(4) of 
+the Securities Investor Protection Act (15 U.S.C. 78fff-4(a)(4)) is 
+amended by striking out ``$250,000'' and inserting ``$850,000''.
+    (e) Increasing the Fine for Prohibited Acts Under SIPA.--Section 
+14(c) of the Securities Investor Protection Act (15 U.S.C. 78jjj(c)) is 
+amended by striking ``$50,000'' each place it appears and inserting 
+``$250,000''.
+    (f) Penalty for Misrepresentation of SIPC Membership or 
+Protection.--Section 14 of the Securities Investor Protection Act (15 
+U.S.C. 78jjj) is amended by inserting at the end the following new 
+subsection:
+    ``(d) Misrepresentation of SIPC Membership or Protection.--
+            ``(1) Any person who falsely represents by any means 
+        (including through the Internet or any other medium of mass 
+        communication), with actual knowledge of the falsity of the 
+        representation and with an intent to deceive or cause injury to 
+        another, that such person, or another person, is a member of 
+        SIPC or that any person or account is protected or is eligible 
+        for protection by SIPC, shall be--
+                    ``(A) civilly liable for any damages caused 
+                thereby; and
+                    ``(B) fined not more than $250,000 or imprisoned 
+                for not more than 5 years.
+            ``(2) Any Internet service provider who, on or through a 
+        system or network controlled or operated by the service 
+        provider, transmits, routes, provides connection for, or stores 
+        any material containing any misrepresentation described in 
+        paragraph (1) shall be civilly liable for any damages caused by 
+        such misrepresentation, including damages suffered by SIPC, if 
+        such Internet service provider--
+                    ``(A) has actual knowledge that the material 
+                contains a misrepresentation described in paragraph 
+                (1), or
+                    ``(B) in the absence of actual knowledge, is aware 
+                of facts or circumstances from which it is apparent 
+                that such material contains a misrepresentation 
+                described in paragraph (1), and
+        upon obtaining such knowledge or awareness, fails to act 
+        expeditiously to remove, or disable access to, such material.
+            ``(3) Any court having jurisdiction of a civil action 
+        arising under this Act may grant temporary and final 
+        injunctions on such terms as it deems reasonable to prevent or 
+        restrain any violation of paragraph (1) or (2). Any such 
+        injunction may be served anywhere in the United States on the 
+        person enjoined, shall be operative throughout the United 
+        States, and shall be enforceable, by proceedings in contempt or 
+        otherwise, by any United States court having jurisdiction over 
+        that person. The clerk of the court granting the injunction 
+        shall, when requested by any other court in which enforcement 
+        of the injunction is sought, transmit promptly to the other 
+        court a certified copy of all papers in the case on file in 
+        such clerk's office.''.
+
+SEC. 4. COMMISSION STUDY ON INTERNATIONAL FINANCIAL COOPERATION.
+
+    (a) Sense of Congress Regarding Necessity of an International 
+Effort To Investigate and Thwart Global Investment Fraud.--It is the 
+sense of Congress that--
+            (1) international commerce and global investment have grown 
+        exponentially since World War II, creating a marketplace 
+        without borders;
+            (2) investors of all sizes deserve assurances that their 
+        financial assets are protected from theft, and their 
+        transactions are legitimate and accounted for; and
+            (3) the case against Bernard L. Madoff Investment 
+        Securities, Inc. represents one of the worst and most 
+        devastating instances of financial fraud and deception in this 
+        Nation's history, resulting in untold billions of dollars in 
+        missing assets and affecting thousands of investors in this 
+        Nation and around the globe.
+    (b) Federal Commission on International Financial Fraud.--
+            (1) Establishment.--There is hereby established within the 
+        Office of Inspector General of the Securities and Exchange 
+        Commission a Commission on International Financial Fraud 
+        (hereinafter in this subsection referred to as the 
+        ``Commission'').
+            (2) Membership.--The Commission shall be composed of the 
+        following members:
+                    (A) The Chairman of the Board of Directors of the 
+                Securities Investor Protection Corporation.
+                    (B) The Chairman of the Securities Exchange 
+                Commission.
+                    (C) The Secretary of the Treasury.
+                    (D) The Chairman of the Board of Governors of the 
+                Federal Reserve System.
+                    (E) The Secretary of State.
+                    (F) The Director of the Federal Bureau of 
+                Investigation.
+                    (G) One or more additional individuals, at the 
+                discretion of the Inspector General of the Securities 
+                and Exchange Commission, where each such individual is 
+                the heads of a State, local, private, or not-for-profit 
+                entity demonstrating research and academic expertise on 
+                issues pertaining to international investment and 
+                financial fraud.
+            (3) Duties.--The Commission shall--
+                    (A) study potential relevance, structure, and long-
+                term benefit of--
+                            (i) an international financial court; and
+                            (ii) establishing an international process 
+                        for the adjudication of cases of financial 
+                        fraud;
+                    (B) establish partnerships with State, local, 
+                private, and not-for-profit entities demonstrating 
+                research and academic expertise on issues pertaining to 
+                international investment and financial fraud;
+                    (C) subject to the approval of the Inspector 
+                General of the Securities and Exchange Commission, 
+                facilitate communication and information sharing with 
+                international public, private, and not-for-private 
+                entities relating to--
+                            (i) the creation of an international 
+                        financial court; and
+                            (ii) establishing an international process 
+                        for the adjudication of cases of financial 
+                        fraud; and
+                    (D) study investigative and insurance protection 
+                frameworks for international United States investments.
+            (4) Reports.--Not later than 3 months after the date of the 
+        enactment of this Act, and quarterly thereafter, the Commission 
+        shall issue a report to the Congress containing--
+                    (A) the Commission's recommendations on how an 
+                international financial court could be structured;
+                    (B) the Commission's recommendation on how a 
+                process for the international adjudication of claims of 
+                financial fraud could be structured; and
+                    (C) any additional recommendations of the 
+                Commission.
+            (5) Termination.--The Commission shall terminate on the 
+        date that is 1 year after the date of the enactment of this 
+        Act.
+            (6) Funding.--The cost of funding the Commission shall be 
+        divided equally among each Federal agency or department which 
+        is represented by a Member of the Commission. Notwithstanding 
+        the previous sentence, any State, local, private, or not-for-
+        profit entity that chooses to may also contribute funds to pay 
+        for the cost of funding the Commission.
+                                 <all>
+

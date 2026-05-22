@@ -1,0 +1,143 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3556 Introduced in House (IH)]
+
+
+
+
+
+
+
+104th CONGRESS
+  2d Session
+                                H. R. 3556
+
+  To amend the Truth in Lending Act to require notice of cancellation 
+rights with respect to private mortgage insurance which is required by 
+  a creditor as a condition for entering into a residential mortgage 
+                  transaction, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 30, 1996
+
+  Mr. Hansen introduced the following bill; which was referred to the 
+              Committee on Banking and Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Truth in Lending Act to require notice of cancellation 
+rights with respect to private mortgage insurance which is required by 
+  a creditor as a condition for entering into a residential mortgage 
+                  transaction, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Private Mortgage Insurance Consumer 
+Protection Act''.
+
+SEC. 2. NOTIFICATION OF CANCELLATION RIGHTS FOR PRIVATE MORTGAGE 
+              INSURANCE.
+
+    (a) In General.--Chapter 2 of the Truth in Lending Act (15 U.S.C. 
+1631 et seq.) is amended by inserting after section 125 the following 
+new section:
+
+``SEC. 126. NOTIFICATION OF CANCELLATION RIGHTS FOR PRIVATE MORTGAGE 
+              INSURANCE.
+
+    ``(a) Notice of Right or Lack of Right To Cancel.--If a consumer is 
+required to obtain and maintain private mortgage insurance as a 
+condition for entering into a residential mortgage transaction, the 
+creditor shall disclose, in writing at the time the transaction is 
+entered into, whether or not the private mortgage insurance may be 
+canceled by the consumer at any time while the mortgage is outstanding.
+    ``(b) Information Required To Be Disclosed if Insurance Is 
+Cancelable.--If private mortgage insurance is required for a 
+residential mortgage transaction and may be canceled by the consumer at 
+any time while the mortgage is outstanding, the creditor shall disclose 
+in writing the following information at the time the transaction is 
+entered into:
+            ``(1) Identifying information.--Such information as may be 
+        necessary to permit the consumer to communicate with the 
+        creditor, any subsequent servicer of the mortgage, or the 
+        issuer of the private mortgage insurance concerning the 
+        insurance.
+            ``(2) Conditions on cancellation.--Any condition required 
+        to be met before the private mortgage insurance may be canceled 
+        by the consumer, including the following:
+                    ``(A) If a condition for canceling the private 
+                mortgage insurance is based on a minimum ratio between 
+                the principal on the loan remaining outstanding and 
+                either the original or the current value of the 
+                property securing the loan, such ratio.
+                    ``(B) Information relating to any requirement for 
+                an appraisal of the property as a condition for the 
+                cancellation of the insurance.
+                    ``(C) Information relating to the time required for 
+                canceling the insurance.
+            ``(3) Cancellation procedures.--The procedures required to 
+        be followed by the consumer in canceling the private mortgage 
+        insurance.
+    ``(c) Information Required To Be Disclosed With Each Periodic 
+Statement.--If a consumer is required to obtain and maintain private 
+mortgage insurance as a condition for entering into a residential 
+mortgage transaction, the person servicing the mortgage shall include 
+in or with each written statement of account provided to the consumer 
+after December 31, 1995, while such insurance is in effect, but not 
+less than annually--
+            ``(1) the information required to be disclosed under 
+        subsection (b); or
+            ``(2) a clear and conspicuous written statement 
+        containing--
+                    ``(A) a statement that the consumer may be able to 
+                cancel the private mortgage insurance (if such is the 
+                case); and
+                    ``(B) an address and telephone number which the 
+                consumer may use to contact the creditor or the person 
+                servicing the mortgage to determine whether the 
+                consumer has the right to cancel the private mortgage 
+                insurance and, if so, the conditions and procedures for 
+                canceling such insurance.
+    ``(d) Notices Furnished Without Cost to the Consumer.--No fee or 
+other cost may be imposed on any consumer with respect to the provision 
+of any notice or information to the consumer pursuant to this section.
+    ``(e) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Mortgage insurance.--The term `mortgage insurance' 
+        means insurance, including any mortgage guaranty insurance, 
+        against the nonpayment of, or default on, a mortgage or loan 
+        involved in a residential mortgage transaction.
+            ``(2) Private mortgage insurance.--The term `private 
+        mortgage insurance' means mortgage insurance other than 
+        mortgage insurance made available under the National Housing 
+        Act, title 38 of the United States Code, or title V of the 
+        National Housing Act of 1949.''.
+    (b) Amendment Relating to Liability for Violations.--Section 130(a) 
+of the Truth in Lending Act (15 U.S.C. 1640(a)) is amended by adding at 
+the end the following new sentence: ``In the case of any failure make 
+any disclosure required under section 126, paragraph (1) shall be 
+applied by substituting `3 times the amount of any actual damage' for 
+`any actual damage'.
+    (c) Scope of Applicability.--The amendments made by subsections (a) 
+and (b) shall apply with respect to residential mortgage transactions 
+entered into after the date of the enactment of this Act.
+    (d) Clerical Amendment.--The table of sections for chapter 2 of the 
+Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by striking 
+the item relating to section 126 and inserting the following new item:
+
+``126. Notification of cancellation rights for private mortgage 
+                            insurance.''.
+                                 <all>
+

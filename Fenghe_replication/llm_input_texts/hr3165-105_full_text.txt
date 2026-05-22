@@ -1,0 +1,233 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3165 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                H. R. 3165
+
+To amend the Securities Exchange Act of 1934 to provide an opportunity 
+ for judicial review concerning the adoption of accounting principles 
+       applicable to issuers of federally-registered securities.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            February 5, 1998
+
+  Mr. Baker introduced the following bill; which was referred to the 
+                         Committee on Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Securities Exchange Act of 1934 to provide an opportunity 
+ for judicial review concerning the adoption of accounting principles 
+       applicable to issuers of federally-registered securities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Financial Accounting Fairness Act of 
+1998''.
+
+SEC. 2. FINDINGS.
+
+    The Congress finds the following:
+            (1) The Financial Accounting Standards Board was 
+        established in 1972 as a private sector body to establish and 
+        improve financial accounting principles.
+            (2) In 1973, the Securities and Exchange Commission, which 
+        is statutorily empowered to prescribe accounting principles to 
+        be used in financial statements filed with the Securities and 
+        Exchange Commission and otherwise used pursuant to the Federal 
+        securities laws, established a presumption that financial 
+        statements that do not comply with financial accounting 
+        principles promulgated by the Financial Accounting Standards 
+        Board would be misleading and therefore in violation of those 
+        laws.
+            (3) Since 1973, financial accounting principles established 
+        by the Financial Accounting Standards Board accordingly have 
+        generally had the full force and effect of Securities and 
+        Exchange Commission regulations.
+            (4) Questions have been raised as to whether under these 
+        circumstances persons aggrieved by a Financial Accounting 
+        Standards Board pronouncement of financial accounting 
+        principles would have the right to judicial review thereof, and 
+        whether such pronouncements must comply with statutory and 
+        other requirements applicable to the promulgation of Securities 
+        and Exchange Commission.
+            (5) Congress believes it appropriate to provide that, under 
+        these circumstances, such promulgations by the Financial 
+        Accounting Standards Board are covered by statutory and other 
+        requirements relating to the adoption of regulations by the 
+        Securities and Exchange Commission, including provisions 
+        relating to judicial review and provisions, among other things, 
+        requiring that the Commission consider whether proposed 
+        regulations would promote efficiency, competition, and capital 
+        formation.
+
+SEC. 3. AVAILABILITY OF JUDICIAL REVIEW.
+
+    Section 19 of the Securities Exchange Act of 1934 (15 U.S.C. 78s) 
+is amended--
+            (1) by adding at the end of the heading of such section the 
+        following: ``; oversight of accounting principles''; and
+            (2) by adding at the end the following new subsection:
+    ``(j) Review of Financial Accounting Principles.--
+            ``(1) Express approval of accounting principles required.--
+        The Commission shall not treat any proposed accounting 
+        principle of any accounting standards board as a generally 
+        accepted accounting principle for purposes of any financial 
+        statement, report, or other document required under any of the 
+        securities laws unless such proposed accounting principle has 
+        been approved by the Commission in accordance with the 
+        requirements of this subsection. The Commission shall not treat 
+        any such statement, report, or document as being without 
+        substantial authoritative support because of the failure of 
+        such statement, report, or document to comply with any proposed 
+        accounting principle until such proposed accounting principle 
+        has been approved by the Commission in accordance with the 
+        requirements of this subsection, or the Commission has 
+        otherwise expressly provided by rule or regulation.
+            ``(2) Review of accounting principles.--Each accounting 
+        standards board shall file with the Commission, in accordance 
+        with such rules as the Commission may prescribe, copies of any 
+        proposed accounting principle or any proposed change in, 
+        addition to, or deletion from the accounting principles of such 
+        board (hereinafter in this subsection collectively referred to 
+        as a `proposed accounting principle') accompanied by a concise 
+        general statement of the basis and purpose of such proposed 
+accounting principle. The Commission shall, upon the filing of any 
+proposed accounting principle, publish notice thereof together with the 
+terms of substance of the proposed accounting principle or a 
+description of the subjects and issues involved. The Commission shall 
+give interested persons a reasonable opportunity to submit written 
+data, views, and arguments concerning such proposed accounting 
+principle.
+            ``(3) Procedure for review.--Within 35 days of the date of 
+        publication of notice of the filing of a proposed accounting 
+        principle in accordance with paragraph (2) of this subsection, 
+        or within such longer period as the Commission may designate up 
+        to 90 days of such date if it finds such longer period to be 
+        appropriate and publishes its reasons for so finding or as to 
+        which the accounting standards board consents, the Commission 
+        shall--
+                    ``(A) by order approve such proposed accounting 
+                principle, or
+                    ``(B) institute proceedings to determine whether 
+                the proposed accounting principle should be 
+                disapproved.
+        Such proceedings shall include notice of the grounds for 
+        disapproval under consideration and opportunity for hearing and 
+        be concluded within 180 days of the date of publication of 
+        notice of the filing of the proposed accounting principle. At 
+        the conclusion of such proceedings the Commission, by order, 
+        shall approve or disapprove such proposed accounting principle. 
+        The Commission may extend the time for conclusion of such 
+        proceedings for up to 60 days if it finds good cause for such 
+        extension and publishes its reasons for so finding or for such 
+        longer period as to which the accounting standards board 
+        consents. The Commission shall not approve any proposed 
+        accounting principle prior to the 30th day after the date of 
+        publication of notice of the filing thereof, unless the 
+        Commission finds good cause for so doing and publishes its 
+        reasons for so finding.
+            ``(4) Grounds for approval.--The Commission shall approve a 
+        proposed accounting principle of a board if it finds that such 
+        proposed accounting principle is consistent with the public 
+        interest and the protection of investors. The Commission shall 
+        disapprove a proposed accounting principle of a board if it 
+        does not make such finding. In determining whether such 
+        proposed accounting principle is consistent with the public 
+        interest, the Commission shall also consider, in addition to 
+        the protection of investors, whether the principle will promote 
+        efficiency, competition, and capital formation. The Commission 
+        shall not approve a proposed accounting principle that would 
+        impose a burden on competition not necessary or appropriate in 
+        furtherance of the purposes of this title.
+            ``(5) Consultation with banking agencies.--In reviewing any 
+        proposed accounting principle that will apply to any persons 
+        subject to examination by or reporting requirements of a 
+        Federal banking agency, the Commission shall consult with and 
+        consider the views of each such Federal banking agency. If a 
+        Federal banking agency comments in writing on a proposed 
+        accounting principle that has been published for comment, the 
+        Commission shall respond in writing to such written comment 
+        before approving or disapproving the proposed accounting 
+        principle. The Commission shall, at the request of a Federal 
+        banking agency, publish such comment and response in the 
+        Federal Register at the time of approving or disapproving the 
+        proposed accounting principle.
+            ``(6) Agency record.--At the time of filing any proposed 
+        accounting principle under paragraph (2), an accounting 
+        standards board shall submit to the Commission the record of 
+        its proceedings in connection with such principle. Such record 
+        shall include all written comments or statements filed with the 
+        accounting standards board with respect to the proposed 
+        accounting principle and all written communications between the 
+        accounting standards board and any person relating to the 
+        proposed accounting principle. The Commission, in reviewing a 
+        proposed accounting principle, shall keep in a public file and 
+        make available for copying the record submitted by the 
+        accounting standards board and all written statements filed 
+        with the Commission with respect to the proposed accounting 
+        principle and all written communications between the Commission 
+        and any person relating to the proposed accounting principle. 
+        The Commission shall not be required to keep in a public file 
+        or make available for copying any such statement or 
+        communication that it may withhold from the public in 
+        accordance with section 552 of title 5, United States Code.
+            ``(7) Judicial review available.--Any proposed accounting 
+        principle that the Commission has approved under paragraph (4) 
+        shall, for purposes of section 25 of this title, be considered 
+        to be a rule of the Commission promulgated pursuant to this 
+section.
+            ``(8) Definitions.--For purposes of this subsection:
+                    ``(A) Proposed accounting principle.--
+                            ``(i) Accounting principle.--The term 
+                        `accounting principle' means a statement or 
+                        interpretation of a standard or concept of, or 
+                        guidance with respect to, financial accounting 
+                        or reporting, but does not include any 
+                        technical bulletin, discussion memorandum, 
+                        invitation to comment, special or research 
+                        report, or response to an inquiry or other 
+                        request.
+                            ``(ii) Proposed accounting principle.--The 
+                        term `proposed accounting principle' means an 
+                        accounting principle that has been formally 
+                        adopted or ratified by the standard-setting 
+                        body of an accounting standards board.
+                    ``(B) Accounting standards board.--The term 
+                `accounting standards board' means an accounting 
+                standards-setting organization whose principles are, 
+                pursuant to rules or regulations of the Commission, 
+                treated by Commission as generally accepted accounting 
+                principles for purposes of any financial statement, 
+                report, or other document required to be filed under 
+                any of the securities laws.
+                    ``(C) Federal banking agency.--The term `Federal 
+                banking agency' has the meaning provided in section 
+                3(z) of the Federal Deposit Insurance Act (12 U.S.C. 
+                1813(z)).
+            ``(9) Effective Date.--The provisions of this subsection 
+        shall apply with respect to any accounting principle that is 
+        formally adopted or ratified by the standard-setting body of an 
+        accounting standards board on or after January 1, 1998.''.
+                                 <all>
+

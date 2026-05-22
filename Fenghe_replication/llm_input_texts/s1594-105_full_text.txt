@@ -1,0 +1,304 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[S. 1594 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                S. 1594
+
+ To amend the Bank Protection Act of 1968 for purposes of facilitating 
+     the use of electronic authentication techniques by financial 
+                 institutions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            February 2, 1998
+
+  Mr. Bennett introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Bank Protection Act of 1968 for purposes of facilitating 
+     the use of electronic authentication techniques by financial 
+                 institutions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Digital Signature and Electronic 
+Authentication Law (SEAL) of 1998''.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--Congress finds that--
+            (1) technology has had a tremendous impact on the manner in 
+        which banks and other financial institutions conduct their 
+        businesses, and has affected virtually all aspects of their 
+        operations;
+            (2) such changes relate not only to the creation, 
+        retention, and delivery of documents and other information, but 
+        also to the receipt and payment of funds, the purchase and sale 
+        of goods and services, and other aspects of the ability of a 
+        financial institution to communicate with and service its 
+        customer base;
+            (3) financial and other transactions will increasingly be 
+        carried over open electronic networks such as the Internet, and 
+        through other methods where the identity of the parties 
+        participating in such transactions may not be easily verifiable 
+        and where there is a need to assure that information 
+        transmitted among the parties has not been altered;
+            (4) banks, by virtue of their role in the Nation's payment 
+        system, their relationships with their customers, and through 
+        the prudent use of technology, are well placed to facilitate 
+        financial transactions over such electronic media as the 
+        Internet;
+            (5) the parties to such financial and other transactions 
+        may previously have entered into agreements or system rules 
+        pursuant to which the transactions subsequently take place 
+        (known as ``closed system transactions'');
+            (6) if the formation of system rules and agreements are 
+        otherwise valid and effective under applicable law, such as 
+        under State contract law, the parties should be able to use 
+        electronic authentication under the terms and conditions of 
+        those system rules and agreements, to help ensure that the 
+        development of electronic authentication will be appropriately 
+        market driven;
+            (7) premature, conflicting, or unwise regulation can 
+        inadvertently discourage the use of technology in financial 
+        transactions, can inhibit the development of electronic 
+        commerce, and can reduce security in financial transactions;
+            (8) it is appropriate for Congress to enable a framework 
+        under which banks and their subsidiaries and affiliates can 
+        participate in electronic commerce and electronic banking 
+        without undue premature or unnecessary regulation, but under 
+        which appropriate oversight is provided; and
+            (9) in particular, it is appropriate for the Board of 
+        Governors of the Federal Reserve System to consult with the 
+        other Federal and State banking regulators and report to the 
+        Congress regarding the use of electronic authentication 
+        techniques, in order to facilitate electronic commerce and 
+        electronic banking, and to study the need for and wisdom of 
+        consumer protection in the context of the developing area of 
+        electronic commerce.
+    (b) Purposes.--The purposes of this Act are--
+            (1) to facilitate the participation by financial 
+        institutions in the burgeoning area of electronic commerce and 
+        electronic banking;
+            (2) to ensure that the interests of consumers are 
+        adequately protected; and
+            (3) to avoid the effects of premature or conflicting 
+        regulation that could inadvertently impede the development of 
+        electronic banking and commerce or imperil the security of 
+        electronic banking and commerce.
+
+SEC. 3. AMENDMENTS TO THE BANK PROTECTION ACT OF 1968.
+
+    (a) Definitions.--Section 2 of the Bank Protection Act of 1968 (12 
+U.S.C. 1881) is amended--
+            (1) by inserting ``(a) Federal Supervisory Agency.--'' 
+        before ``As used'';
+            (2) in paragraph (4), by inserting ``associations'' before 
+        the period; and
+            (3) by adding at the end the following:
+    ``(b) Affiliate.--The term `affiliate' has the same meaning as in 
+section 2(k) of the Bank Holding Company Act of 1956.
+    ``(c) Appropriate Federal Banking Agency.--The term `appropriate 
+Federal banking agency' has the same meaning as in section 3 of the 
+Federal Deposit Insurance Act, and includes the National Credit Union 
+Administration with respect to an insured credit union under the 
+Federal Credit Union Act.
+    ``(d) Association.--The term `association' means an organization or 
+association engaged in receiving, sending, and settling payment 
+transactions and instructions, and includes credit and charge card 
+associations, payment clearinghouses, and automated teller machine 
+networks in which insured depository institutions are members or 
+stockholders or in which they participate, or which are supervised and 
+examined by 1 or more of the Federal banking agencies.
+    ``(e) Bank Holding Company.--The term `bank holding company' has 
+the same meaning as in section 2 of the Bank Holding Company Act of 
+1956.
+    ``(f) Document.--The term `document' means any message, instrument, 
+information, data, image, text, program, software, database, or the 
+similar item, regardless of how created, if such item can be retrieved 
+or displayed in a tangible form.
+    ``(g) Electronic Authentication.--The term `electronic 
+authentication' means a cryptographic or other secure electronic 
+technique that allows the user of the technique--
+            ``(1) to authenticate the identity of or information 
+        associated with a sender of a document;
+            ``(2) to determine that a document was not altered, 
+        changed, or modified during its transmission to a recipient; or
+            ``(3) to verify that a document received was sent by the 
+        identified party claiming to be the sender.
+    ``(h) Federal Banking Agency.--The term `Federal banking agency' 
+has the same meaning as in section 3 of the Federal Deposit Insurance 
+Act, and includes the National Credit Union Administration.
+    ``(i) Financial Institution.--The term `financial institution' 
+means--
+            ``(1) an insured depository institution and any branch, 
+        representative office, or subsidiary thereof;
+            ``(2) a bank holding company and any subsidiary thereof;
+            ``(3) an affiliate of an insured depository institution;
+            ``(4) an association;
+            ``(5) a foreign bank maintaining an agency or branch (as 
+        such terms are defined in section 1(b) of the International 
+        Banking Act of 1978) in the United States; or
+            ``(6) any entity that is not described in paragraphs (1) 
+        through (5) that is a financial institution, as defined in 
+        section 903 of the Electronic Fund Transfer Act, or a card 
+        issuer, as defined in section 103 of the Truth in Lending Act, 
+        but only to the extent that the transactions of such entity are 
+        subject to those Acts, respectively,
+that affirmatively elects to be subject to the provisions of this Act 
+by providing appropriate notice of such election in accordance with any 
+commercially reasonable practice.
+    ``(j) Insured Depository Institution.--The term `insured depository 
+institution' has the same meaning as in section 3 of the Federal 
+Deposit Insurance Act.
+    ``(k) State Bank Supervisor.--The term `State bank supervisor' has 
+the same meaning as in section 3 of the Federal Deposit Insurance Act.
+    ``(l) Subsidiary.--The term `subsidiary'--
+            ``(1) has the same meaning as in section 2(d) of the Bank 
+        Holding Company Act of 1956; and
+            ``(2) includes a `subsidiary', as defined in section 
+        23A(b)(4) of the Federal Reserve Act.''.
+    (b) Electronic Commerce.--The Bank Protection Act of 1968 (12 
+U.S.C. 1881 et seq.) is amended by adding at the end the following new 
+sections:
+
+``SEC. 6. ELECTRONIC AUTHENTICATION OF DOCUMENTS.
+
+    ``(a) Electronic Authentication of Documents, Information, and 
+Identity.--
+            ``(1) In general.--A financial institution may use 
+        electronic authentication in the conduct of its business if it 
+        has entered into an agreement regarding the use of electronic 
+        authentication with any counterparty, or if it has established 
+        a banking, financial, or transactional system using electronic 
+        authentication.
+            ``(2) Applicable rules.--The establishment and use of 
+        electronic authentication pursuant to this section shall be 
+        valid according to the relevant agreements or system rules.
+    ``(b) Oversight.--
+            ``(1) In general.--The appropriate Federal banking agency 
+        or the appropriate State bank supervisor may preclude, by 
+        regulation or order, an insured depository institution or a 
+        subsidiary or affiliate thereof, or other institution subject 
+        to its jurisdiction, from using electronic authentication in 
+        the conduct of its business if it determines that--
+                    ``(A) such use would not be consistent with safe 
+                and sound banking practices; or
+                    ``(B) such use would threaten the safety and 
+                soundness of the institution, subsidiary, or affiliate.
+            ``(2) State authority.--
+                    ``(A) In general.--No financial institution shall--
+                            ``(i) be regulated by, be required to 
+                        register with, or be certified, licensed, or 
+                        approved by; or
+                            ``(ii) be limited by or required to act or 
+                        operate under standards, rules, or regulations 
+                        promulgated by,
+                a State government or agency or instrumentality thereof 
+                with regard to the use of electronic authentication, 
+                including acting as a digital certification authority 
+                or performing a similar role, pursuant to this Act.
+                    ``(B) Limitation on fees.--No State may--
+                            ``(i) impose a fee with respect to 
+                        electronic authentication services performed by 
+                        a financial institution subject to the 
+                        provisions of this Act; or
+                            ``(ii) impose any required minimum fee or 
+                        otherwise limit the fee that may be charged by 
+                        a financial institution with respect to 
+                        electronic authentication services subject to 
+                        the provisions of this Act.
+                    ``(C) Other regulatory authority.--Nothing in this 
+                subsection precludes a State bank supervisor from 
+                regulating a State-chartered financial institution that 
+                is otherwise subject to its jurisdiction.
+                    ``(D) Consumer protection.--Nothing in this section 
+                impairs the rights afforded to consumers under State 
+                general consumer protection laws.
+
+``SEC. 7. CONSUMER PROTECTION.
+
+    ``Nothing in section 6(a) shall be construed to impair the rights 
+afforded to consumers under--
+            ``(1) the Truth in Lending Act or the Electronic Fund 
+        Transfer Act, or the implementing regulations of the Federal 
+        Reserve Board thereunder applicable to electronic funds 
+        transfers from a consumer account or extension of credit to 
+        consumers; or
+            ``(2) any State law of a similar nature or purpose.''.
+
+SEC. 4. FEDERAL RESERVE BOARD STUDY.
+
+    (a) Report.--Not later than July 1, 2000, the Board of Governors of 
+the Federal Reserve System (hereafter in this section referred to as 
+the ``Board''), in consultation with the Federal banking agencies and 
+State bank supervisors, shall report to the Congress regarding the use 
+of electronic authentication under section 6 of the Bank Protection Act 
+of 1968, as added by this Act by financial institutions.
+    (b) Considerations.--In preparing the report required under 
+subsection (a), the Board shall include consideration of--
+            (1) the appropriateness of applying the consumer protection 
+        provisions of the Truth in Lending Act, and the Electronic Fund 
+        Transfer Act, or the implementing regulations of the Board 
+        promulgated thereunder, to such transactions;
+            (2) whether protections for consumers should be changed in 
+        light of the experience of financial institutions and consumers 
+        in transactions where electronic authentication is used in 
+        connection with third-party assurances; and
+            (3) the need for consultation and coordination with other 
+        nations concerning the international use of electronic 
+        authentication by financial institutions and others, with the 
+        purposes of--
+                    (A) encouraging simplified regulatory governance, 
+                foreign recognition of electronic authentication under 
+                this Act, and United States recognition of foreign 
+                electronic authentication;
+                    (B) encouraging the greatest possible 
+                interoperability across borders;
+                    (C) imposing the least possible regulation 
+                consistent with security and safety and soundness 
+                considerations;
+                    (D) promoting the smooth functioning of the 
+                payments system; and
+                    (E) facilitating the opportunity for financial 
+                institutions to participate freely and fairly in 
+                foreign markets.
+    (c) Incorporation of Defined Terms.--Any term used in this section 
+that is defined in section 2 of the Bank Protection Act of 1968 (as 
+amended by this Act) shall have the same meaning as in that section 2.
+
+SEC. 5. RULES OF CONSTRUCTION.
+
+    (a) Effect on Use.--Nothing in this Act or the amendments made by 
+this Act may be construed to limit the right of any financial 
+institution or other entity to use electronic authentication or other 
+authentication technique in the conduct of its business.
+    (b) Effect on Otherwise Lawful Agreements.--Except as otherwise 
+specifically provided, nothing in this Act or the Bank Protection Act 
+of 1968, as amended by this Act, shall be construed to affect the 
+validity of the formation of relevant agreements or system rules in 
+accordance with the provisions of otherwise applicable Federal or State 
+law.
+                                 <all>
+

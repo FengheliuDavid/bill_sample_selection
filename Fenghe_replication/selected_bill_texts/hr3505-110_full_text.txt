@@ -1,0 +1,229 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3505 Introduced in House (IH)]
+
+
+
+
+
+
+
+110th CONGRESS
+  1st Session
+                                H. R. 3505
+
+   To make various technical and clerical amendments to the Federal 
+                            securities laws.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 7, 2007
+
+  Mr. Roskam introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To make various technical and clerical amendments to the Federal 
+                            securities laws.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securities Law Technical Corrections 
+Act of 2007''.
+
+SEC. 2. TECHNICAL CORRECTIONS.
+
+    (a) Securities Act of 1933.--The Securities Act of 1933 (15 U.S.C. 
+77a et seq.) is amended--
+            (1) in section 3(a)(4) (15 U.S.C. 77c(a)(4)), by striking 
+        ``individual;'' and inserting ``individual,'';
+            (2) in section 18(b)(1)(C) (15 U.S.C. 77r(b)(1)(C)), by 
+        striking ``is a security'' and inserting ``a security'';
+            (3) in section 18(c)(2)(B)(i) (15 U.S.C. 77r(c)(2)(B)(i)), 
+        by striking ``State, or'' and inserting ``State or'';
+            (4) in section 19(d)(6)(A) (15 U.S.C. 77s(d)(6)(A)), by 
+        striking ``in paragraph (1) of (3)'' and inserting ``in 
+        paragraph (1) or (3)''; and
+            (5) in section 27A(c)(1)(B)(ii) (15 U.S.C. 77z-
+        2(c)(1)(B)(ii), by striking ``business entity;'' and inserting 
+        ``business entity,''.
+    (b) Securities Exchange Act of 1934.--The Securities Exchange Act 
+of 1934 (15 U.S.C. 78 et seq.) is amended--
+            (1) in section 2(1)(a) (15 U.S.C. 78b(1)(a)), by striking 
+        ``affected'' and inserting ``effected'';
+            (2) in section 3(a)(55)(A) (15 U.S.C. 78c(a)(55)(A)), by 
+        striking ``section 3(a)(12) of the Securities Exchange Act of 
+        1934'' and inserting ``section 3(a)(12) of this Act'';
+            (3) in section 3(g) (15 U.S.C. 78c(g)), by striking 
+        ``company, account person, or entity'' and inserting ``company, 
+        account, person, or entity'';
+            (4) in section 10A(i)(1)(B)(i) (15 U.S.C. 78j-
+        1(i)(1)(B)(i)), by striking ``nonaudit'' and inserting ``non-
+        audit'';
+            (5) in section 13(b)(1) (15 U.S.C. 78m(b)(1)), by striking 
+        ``earning statement'' and inserting ``earnings statement'';
+            (6) in section 15(b)(1) (15 U.S.C. 78o(b)(1))--
+                    (A) by striking the sentence beginning ``The order 
+                granting'' and ending ``from such membership.'' in 
+                subparagraph (B); and
+                    (B) inserting such sentence in the matter following 
+                such subparagraph after ``are satisfied.'';
+            (7) in section 15 (15 U.S.C. 78o), redesignate subsection 
+        (i), as added by section 303(f) of the Commodity Futures 
+        Modernization Act of 2000 (114 Stat. 2763A-455), as subsection 
+        (j);
+            (8) in section 15C(a)(2) (15 U.S.C. 78o-5(a)(2))--
+                    (A) by redesignating clauses (i) and (ii) as 
+                subparagraphs (A) and (B), respectively;
+                    (B) by striking the sentence beginning ``The order 
+                granting'' and ending ``from such membership.'' in such 
+                redesignated subparagraph (B); and
+                    (C) inserting such sentence in the matter following 
+                such redesignated subparagraph after ``are 
+                satisfied.'';
+            (9) in section 16(a)(2)(C) (15 U.S.C. 78p(a)(2)(C)), by 
+        striking ``section 206(b)'' and inserting ``section 206B'';
+            (10) in section 17(b)(1)(B) (15 U.S.C. 78q(b)(1)(B)), by 
+        striking ``gives'' and inserting ``give''; and
+            (11) in section 21C(c)(2) (15 U.S.C. 78u-3(c)(2)), by 
+        striking ``paragraph (1) subsection'' and inserting ``Paragraph 
+        (1)''.
+    (c) Trust Indenture Act of 1939.--The Trust Indenture Act of 1939 
+(15 U.S.C. 77aaa et seq.) is amended--
+            (1) in section 304(b) (15 U.S.C. 77ddd(b)), by striking 
+        ``section 2 of such Act'' and inserting ``section 2(a) of such 
+        Act'';
+            (2) in section 313(a)(4) (15 U.S.C. 77mmm(a)(4)) by 
+        striking ``subsection 311'' and inserting ``section 311(b)''; 
+        and
+            (3) in section 317(a)(1) (15 U.S.C. 77qqq(a)(1)), by 
+        striking ``(1),'' and inserting ``(1)''.
+    (d) Investment Company Act of 1940.--The Investment Company Act of 
+1940 (15 U.S.C. 80a-1 et seq.) is amended--
+            (1) in section 2(a)(19) (15 U.S.C. 80a-2(a)(19)) by 
+        striking ``clause (vi)'' both places it appears in the last two 
+        sentences and inserting ``clause (vii)'';
+            (2) in section 9(b)(4)(B) (15 U.S.C. 80a-9(b)(4)(B)), by 
+        inserting ``or'' after the semicolon at the end;
+            (3) in section 12(d)(1)(J) (15 U.S.C. 80a-12(d)(1)(J)), by 
+        striking ``any provision of this subsection'' and inserting 
+        ``any provision of this paragraph'';
+            (4) in section 13(a)(3) (15 U.S.C. 80a-13(a)(3)), by 
+        inserting ``or'' after the semicolon at the end;
+            (5) in section 17(f)(4) (15 U.S.C. 80a-17(f)(4)), by 
+        striking ``No such member'' and inserting ``No member of a 
+        national securities exchange'';
+            (6) in section 17(f)(6) (15 U.S.C. 80a-17(f)(6)), by 
+        striking ``company may serve'' and inserting ``company, may 
+        serve'';
+            (7) in section 27(i)(2)(B) (15 U.S.C. 80a-27(i)(2)(B)), by 
+        striking ``section 26(e)'' both places it appears and inserting 
+        ``section 26(f)''; and
+            (8) in section 61(a)(3)(B)(iii) (15 U.S.C. 80a-
+        61(a)(3)(B)(iii))--
+                    (A) by striking ``paragraph (1) of section 205'' 
+                and inserting ``section 205(a)(1)''; and
+                    (B) by striking ``clause (A) or (B) of that 
+                section'' and inserting ``section 205(b)(1) or (2)''.
+    (e) Investment Advisers Act of 1940.--The Investment Advisers Act 
+of 1940 (15 U.S.C. 80b-1 et seq.) is amended--
+            (1) in each of the following sections, by striking 
+        ``principal business office'' or ``principal place of 
+        business'' (whichever and wherever it appears) and inserting 
+        ``principal office and place of business'': sections 
+        203(c)(1)(A), 203(k)(4)(B)(ii), 213(a), 222(b), 222(b)(1), 
+        222(b)(2), 222(c), 222(c)(1), and 222(c)(2) (15 U.S.C. 80b-
+        3(c)(1)(A), 80b-3(k)(4)(B)(ii), 80b-13(a), 80b-22(b), 80b-
+        22(b)(1), 80b-22(b)(2), 80b-22(c), 80b-22(c)(1), and 80b-
+        22(c)(2)); and
+            (2) in section 206(3) (15 U.S.C. 80b-6(3)), by inserting 
+        ``or'' after the semicolon at the end.
+
+SEC. 3. CONFORMING AMENDMENTS FOR THE REPEAL OF THE PUBLIC UTILITIES 
+              HOLDING COMPANY ACT OF 1935.
+
+    (a) Securities Exchange Act of 1934.--The Securities Exchange Act 
+of 1934 (15 U.S.C. 78 et seq.) is amended--
+            (1) in section 3(a)(47) (15 U.S.C. 78c(a)(47)), by striking 
+        ``the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a 
+        et seq),''; and
+            (2) in section 12(k) (15 U.S.C. 78l(k)), by amending 
+        paragraph (7) to read as follows:   
+            ``(7) Definition.--For purposes of this subsection, the 
+        term `emergency' means--
+                    ``(A) a major market disturbance characterized by 
+                or constituting--
+                            ``(i) sudden and excessive fluctuations of 
+                        securities prices generally, or a substantial 
+                        threat thereof, that threaten fair and orderly 
+                        markets; or
+                            ``(ii) a substantial disruption of the safe 
+                        or efficient operation of the national system 
+                        for clearance and settlement of transactions in 
+                        securities, or a substantial threat thereof; or
+                    ``(B) a major disturbance that substantially 
+                disrupts, or threatens to substantially disrupt--
+                            ``(i) the functioning of securities 
+                        markets, investment companies, or any other 
+                        significant portion or segment of the 
+                        securities markets; or
+                            ``(ii) the transmission or processing of 
+                        securities transactions.''.
+            (3) in section 21(h)(2) (15 U.S.C. 78u(h)(2)), by striking 
+        ``section 18(c) of the Public Utility Holding Company Act of 
+        1935,''.
+    (b) Trust Indenture Act of 1939.--The Trust Indenture Act of 1939 
+(15 U.S.C. 77aaa et seq.) is amended--
+            (1) in section 303 (15 U.S.C. 77ccc), by amending paragraph 
+        (17) to read as follows:
+            ``(17) The terms `Securities Act of 1933' and `Securities 
+        Exchange Act of 1934' shall be deemed to refer, respectively, 
+        to such Acts, as amended, whether amended prior to or after the 
+        enactment of this title.'';
+            (2) in section 308 (15 U.S.C. 77hhh), by striking 
+        ``Securities Act of 1933, the Securities Exchange Act of 1934, 
+        or the Public Utility Holding Company Act of 1935'' each place 
+        it appears and inserting ``Securities Act of 1933 or the 
+        Securities Exchange Act of 1934'';
+            (3) in section 310 (15 U.S.C. 77jjj), by striking 
+        subsection (c) (including the preceding heading);
+            (4) in section 311 (15 U.S.C. 77kkk) by striking subsection 
+        (c);
+            (5) in section 323(b) (15 U.S.C. 77www(b)), by striking 
+        ``Securities Act of 1933, or the Securities Exchange Act of 
+        1934, or the Public Utility Holding Company Act of 1935'' and 
+        inserting ``Securities Act of 1933 or the Securities Exchange 
+        Act of 1934''; and
+            (6) in section 326 (15 U.S.C. 77zzz), by striking 
+        ``Securities Act of 1933, or the Securities Exchange Act of 
+        1934, or the Public Utility Holding Company Act of 1935,'' and 
+        inserting ``Securities Act of 1933 or the Securities Exchange 
+        Act of 1934''.
+    (c) Investment Company Act of 1940.--The Investment Company Act of 
+1940 (15 U.S.C. 80a-1 et seq.) is amended--
+            (1) in section 2(a)(44) (15 U.S.C. 80a-2(a)(44)), by 
+        striking ```Public Utility Holding Company Act of 1935','';
+            (2) in section 3(c) (15 U.S.C. 80a-3(c)), by amending 
+        paragraph (8) to read as follows:
+            ``(8) [Repealed]'';
+            (3) in section 38(b) (15 U.S.C. 80a-37(b)), by striking 
+        ``the Public Utility Holding Company Act of 1935,''; and
+            (4) in section 50 (15 U.S.C. 80a-49), by striking ``the 
+        Public Utility Holding Company Act of 1935,''.
+    (d) Investment Advisers Act of 1940.--Section 202(a)(21) of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)(21)) is amended by 
+striking ```Public Utility Holding Company Act of 1935',''.
+                                 <all>
+

@@ -1,0 +1,457 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3691 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+110th CONGRESS
+  2d Session
+                                S. 3691
+
+     To amend the Commodity Exchange Act to require reporting and 
+ recordkeeping for positions involving credit-default swaps, to grant 
+   the Federal Reserve Board authority over investment-bank holding 
+                   companies, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           November 19, 2008
+
+  Ms. Collins introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+     To amend the Commodity Exchange Act to require reporting and 
+ recordkeeping for positions involving credit-default swaps, to grant 
+   the Federal Reserve Board authority over investment-bank holding 
+                   companies, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Financial Regulation Reform Act of 
+2008''.
+
+SEC. 2. REPORTING AND RECORDKEEPING FOR POSITIONS INVOLVING CREDIT-
+              DEFAULT SWAPS.
+
+    (a) In General.--Section 2(h) of the Commodity Exchange Act (7 
+U.S.C. 2(h)) is amended by adding at the end the following:
+            ``(8) Reporting and recordkeeping for positions involving 
+        credit-default swaps.--
+                    ``(A) Definitions.--In this paragraph:
+                            ``(i) Credit-default swap.--The term 
+                        `credit-default swap' means a bilateral 
+                        derivative contract that transfers, in exchange 
+                        for 1 or more lump-sum or other payments, from 
+                        1 party to another, the risk that an entity, 
+                        regardless of whether owned by the buyer of the 
+                        protection, may experience a loss of value from 
+                        a credit event such as a default, credit 
+                        downgrade, or other contractually agreed-upon 
+                        adverse event.
+                            ``(ii) Credit-default swap trading 
+                        clearinghouse.--The term `credit-default swap 
+                        trading clearinghouse' means an approved 
+                        centralized clearinghouse for credit-default 
+                        swap trading that is designated by the 
+                        Securities and Exchange Commission, in 
+                        consultation with the Commodity Futures Trading 
+                        Commission and the Chairman of the Board of 
+                        Governors of the Federal Reserve System.
+                            ``(iii) Reportable contract.--The term 
+                        `reportable contract' means a contract, 
+                        agreement, or transaction involving a credit-
+                        default swap, executed through a credit-default 
+                        swap trading clearinghouse.
+                    ``(B) Use of credit-default swap trading 
+                clearinghouses.--Each credit-default swap trading 
+                clearinghouse--
+                            ``(i) shall be subject to regulation by the 
+                        Commission;
+                            ``(ii) shall be capitalized by participants 
+                        in the credit-default swap trading 
+                        clearinghouse at a level that is sufficient to 
+                        guarantee payment for trading in credit-default 
+                        swaps; and
+                            ``(iii) may assess participants in the 
+                        credit-default swap trading clearinghouse in an 
+                        amount necessary to maintain a default fund for 
+                        the credit-default swap trading clearinghouse.
+                    ``(C) Recordkeeping.--The Commission, by rule, 
+                shall require any person holding, maintaining, or 
+                controlling any position in any reportable contract 
+                under this paragraph--
+                            ``(i) to maintain such records as directed 
+                        by the Commission for a period of 5 years, or 
+                        longer, if directed by the Commission; and
+                            ``(ii) to provide such records upon request 
+                        to the Commission, the Department of Justice, 
+                        the Securities and Exchange Commission, or the 
+                        Federal Reserve System, as applicable.
+                    ``(D) Reporting of positions involving credit-
+                default swaps.--The Commission shall prescribe rules 
+                requiring such regular or continuous reporting of 
+                positions in reportable contracts in accordance with 
+                such requirements regarding size limits for reportable 
+                positions and the form, timing, and manner of filing 
+                such reports under this paragraph, as the Commission 
+                shall determine.''.
+    (b) Conforming Amendments.--Section 4a(e) of the Commodity Exchange 
+Act (7 U.S.C. 6a(e)) is amended--
+            (1) in the first sentence--
+                    (A) by inserting ``, by any credit-default swap 
+                trading clearinghouse (as defined in section 
+                2(h)(8)(A)),'' after ``registered by the Commission''; 
+                and
+                    (B) by inserting ``, credit-default swap trading 
+                clearinghouse,'' after ``derivatives transaction 
+                execution facility''; and
+            (2) in the second sentence, by inserting ``, by any credit-
+        default swap trading clearinghouse (as defined in section 
+        2(h)(8)(A)),'' after ``registered by the Commission''.
+
+SEC. 3. FEDERAL RESERVE BOARD AUTHORITY OVER INVESTMENT BANK HOLDING 
+              COMPANIES.
+
+    (a) Regulation by the Board of Governors of the Federal Reserve 
+System.--
+            (1) Rulemaking required.--Not later than 90 days after the 
+        date of enactment of this Act, the Board of Governors of the 
+        Federal Reserve System (in this section referred to as the 
+        ``Board'') shall issue final rules to provide for the 
+        examination of the safety and soundness of, and the extent of 
+        systemic financial risk posed by, any investment bank holding 
+        company organized in or doing business in the United States.
+            (2) Information from investment bank holding companies.--
+        The rules of the Board under this section shall provide for 
+        reasonable reporting of information by each investment bank 
+        holding company, to the extent necessary to carry out the 
+        purposes of this section.
+    (b) Rule of Construction.--Nothing in this section shall be 
+construed as negating or preempting the authority of the Securities and 
+Exchange Commission to exercise its authority over broker or dealer 
+operations in accordance with applicable provisions of law.
+    (c) Exchange of Information on Systemic Risk.--The Securities and 
+Exchange Commission, the Commodity Futures Trading Commission, and 
+other appropriate Federal regulatory agencies shall provide to the 
+Board all relevant information, as directed by the Board, on the 
+activities of investment bank holding companies with respect to the 
+prevention of systemic risks posed by such activities to the United 
+States economy.
+    (d) Enforcement Provisions.--Any violation of this section or the 
+rules of the Board under this section shall be subject to the 
+enforcement and penalty provisions of the Bank Holding Company Act of 
+1956, in the same manner and to the same extent as those provisions are 
+applicable to violations of that Act by a bank holding company (as 
+defined in that Act).
+    (e) Authorization of Appropriations.--There are authorized to be 
+appropriated to the Board such sums as may be necessary to carry out 
+this section.
+    (f) Definitions.--For purposes of this section, the term 
+``investment bank holding company'' means--
+            (1) any person other than a natural person that owns or 
+        controls one or more brokers or dealers (as those terms are 
+        defined in section 3 of the Securities Exchange Act of 1934 (15 
+        U.S.C. 78c)); and
+            (2) the associated persons thereof.
+    (g) Conforming Amendments.--The Securities Exchange Act of 1934 (15 
+U.S.C. 78a et seq.) is amended--
+            (1) in section 6(g)(4)(A)(iv) (15 U.S.C. 78f(g)(4)(A)(iv)), 
+        by striking ``and (k)'' and inserting ``and (i)'';
+            (2) in section 15(b) (15 U.S.C. 78(o)(b))--
+                    (A) in paragraph (11)(B)(vi), by striking ``(h), 
+                and (i)'' and inserting ``and (h)''; and
+                    (B) in paragraph (12)(B)(vi), by striking ``(h), 
+                and (i)'' and inserting ``and (h)'';
+            (3) in section 15A(k)(4)(C) (15 U.S.C. 78o-3(k)(4)(C)), by 
+        striking ``and (k)'' and inserting ``and (i)''; and
+            (4) in section 17 (15 U.S.C. 78q)--
+                    (A) by striking subsections (i) and (j); and
+                    (B) by redesignating subsection (k) as subsection 
+                (i).
+
+SEC. 4. REGULATIONS ON CLEARINGHOUSE OPERATIONS AND FRAUDULENT, 
+              DECEPTIVE, AND MANIPULATIVE ACTS.
+
+    (a) Rulemaking Required.--Not later than 90 days after the date of 
+enactment of this Act, the Securities and Exchange Commission, in 
+consultation with the Board of Governors of the Federal Reserve System 
+and the Commodity Futures Trading Commission, shall issue final rules--
+            (1) to designate clearinghouses for credit-default swaps; 
+        and
+            (2) to prohibit fraudulent, deceptive, or manipulative acts 
+        or practices in connection with credit-default swaps.
+    (b) Criteria.--Rules of the Commission under this section shall 
+require that clearinghouses--
+            (1) are capitalized by participants to a level adequate to 
+        guarantee payments; and
+            (2) are authorized to assess members for a default fund.
+    (c) Required Use of Clearinghouses.--Any person that engages in a 
+credit-default swap transaction shall utilize a clearinghouse 
+designated by the Commission for such purpose in accordance with the 
+rules issued under subsection (a).
+
+SEC. 5. ESTABLISHING AN INDEPENDENT, BIPARTISAN COMMISSION.
+
+    (a) Commission Establishment.--There is established a temporary 
+commission to be known as the Commission on Financial Regulatory Reform 
+(referred to in this section as the ``Commission''). The Commission 
+shall review the financial regulatory structure and propose a 
+comprehensive framework for fundamental reform of financial regulation 
+in the United States.
+    (b) Functions of the Commission.--
+            (1) In general.--The Commission shall conduct a top-to-
+        bottom review of the Nation's existing financial regulatory 
+        structure and the contribution of the current structure to the 
+        stability or instability of financial markets, in order to 
+        develop a comprehensive framework for--
+                    (A) reforming the laws governing our Nation's 
+                financial markets;
+                    (B) strengthening and reconstituting regulatory 
+                agencies; and
+                    (C) improving transparency and oversight.
+            (2) Analysis.--In the course of its activities, the 
+        Commission shall analyze--
+                    (A) the impact of the financial regulatory 
+                structure on the health and stability of the United 
+                States economy;
+                    (B) the strength, sustainability, and 
+                competitiveness of the Nation's financial institutions; 
+                and
+                    (C) the financial well-being of American taxpayers, 
+                investors, and businesses.
+            (3) Considerations.--The Commission shall review and 
+        consider all aspects of financial regulation, including the 
+        regulation of--
+                    (A) bank holding companies, financial holding 
+                companies, commercial banks, investment banks, thrifts, 
+                credit unions, and industrial loan companies;
+                    (B) payment and settlement systems;
+                    (C) hedge funds, private equity funds, and the 
+                markets for alternative investments;
+                    (D) special purpose vehicles and off-balance sheet 
+                financing for financial companies;
+                    (E) the securitization of mortgages and other 
+                assets;
+                    (F) exchange-based, electronic, and over-the-
+                counter markets for financial derivative products;
+                    (G) the mortgage finance industry, including 
+                mortgage brokers and mortgage lending institutions;
+                    (H) equity markets, including short-selling 
+                practices, and commodity futures markets; and
+                    (I) the insurance industry and its role in the 
+                financial markets.
+    (c) Powers of the Commission.--
+            (1) In general.--
+                    (A) Hearings and evidence.--The Commission or, on 
+                the authority of the Commission, any subcommittee or 
+                member thereof, may, for the purpose of carrying out 
+                this Act--
+                            (i) hold such hearings and sit and act at 
+                        such times and places, take such testimony, 
+                        receive such evidence, administer such oaths; 
+                        and
+                            (ii) require the attendance and testimony 
+                        of such witnesses and the production of such 
+                        books, records, correspondence, memoranda, 
+                        papers, and documents, as the Commission or 
+                        such designated subcommittee or designated 
+                        member may determine advisable.
+                    (B) First meeting.--The first meeting of the 
+                Commission shall occur not later than 30 days after the 
+                date of enactment of this Act.
+            (2) Contracting.--The Commission may, to such extent and in 
+        such amounts as are provided in appropriation Acts, enter into 
+        contracts to enable the Commission to discharge its duties 
+        under this Act.
+            (3) Information from federal agencies.--
+                    (A) In general.--The Commission is authorized to 
+                secure directly from any executive department, bureau, 
+                agency, board, commission, office, independent 
+                establishment, or instrumentality of the Government, 
+                information, suggestions, estimates, and statistics for 
+                the purposes of this Act. Each department, bureau, 
+                agency, board, commission, office, independent 
+                establishment, or instrumentality shall, to the extent 
+                authorized by law, furnish such information, 
+                suggestions, estimates, and statistics directly to the 
+                Commission, upon request made by the chairman, the 
+                chairman of any subcommittee created by a majority of 
+                the Commission, or any member designated by a majority 
+                of the Commission.
+                    (B) Receipt, handling, storage, and 
+                dissemination.--Information shall only be received, 
+                handled, stored, and disseminated by members of the 
+                Commission and its staff consistent with all applicable 
+                statutes, regulations, and Executive orders.
+            (4) Assistance from federal agencies.--
+                    (A) General services administration.--The 
+                Administrator of General Services shall provide to the 
+                Commission on a reimbursable basis administrative 
+                support and other services for the performance of the 
+                Commission's functions.
+                    (B) Other departments and agencies.--In addition to 
+                the assistance prescribed in subparagraph (A), 
+                departments and agencies of the United States may 
+                provide to the Commission such services, funds, 
+                facilities, staff, and other support services as they 
+                may determine advisable and as may be authorized by 
+                law.
+            (5) Gifts.--The Commission may accept, use, and dispose of 
+        gifts or donations of services or property.
+            (6) Postal services.--The Commission may use the United 
+        States mails in the same manner and under the same conditions 
+        as departments and agencies of the United States.
+    (d) Non-Applicability of Federal Advisory Committee Act.--
+            (1) In general.--The Federal Advisory Committee Act (5 
+        U.S.C. App.) shall not apply to the Commission.
+            (2) Public meetings and release of public versions of 
+        reports.--The Commission shall--
+                    (A) hold public hearings and meetings to the extent 
+                appropriate; and
+                    (B) release public versions of the reports required 
+                under this Act.
+            (3) Public hearings.--Any public hearings of the Commission 
+        shall be conducted in a manner consistent with the protection 
+        of information provided to or developed for or by the 
+        Commission as required by any applicable statute, regulation, 
+        or Executive order.
+    (e) Composition.--
+            (1) In general.--The Commission shall be composed of 12 
+        members, selected not later than 15 days after the date of 
+        enactment of this Act, of whom--
+                    (A) three persons shall be appointed by the 
+                majority leader of the Senate, after consultation with 
+                the Chairman of the Committee on Banking, Housing and 
+                Urban Affairs;
+                    (B) three persons shall be appointed by the 
+                minority leader of the Senate, after consultation with 
+                the ranking minority members of the Committee on 
+                Banking, Housing and Urban Affairs;
+                    (C) three persons shall be appointed by the Speaker 
+                of the House of Representatives, after consultation 
+                with the Chairman of the Committee on Financial 
+                Services; and
+                    (D) three persons shall be appointed by the 
+                minority leader of the House of Representatives, after 
+                consultation with the ranking minority member of the 
+                Committee on Financial Services.
+            (2) Qualifications.--An individual appointed may not be an 
+        officer or employee of the Federal Government or any State or 
+        local government. It is the sense of Congress that individuals 
+        appointed to the Commission should have national recognition as 
+        financial sector experts, and may include former government 
+        officials, private market participants, and representatives of 
+        the academic community,
+            (3) Officers.--Officers of the Commission are to be chosen 
+        by the Commission's membership.
+    (f) Final Report of Commission.--Not later than 120 days after the 
+date of the enactment of this Act, the Commission shall submit to the 
+President and Congress a final report containing such findings, 
+conclusions, and recommendations for corrective measures as have been 
+agreed to by a majority of committee members.
+    (g) Compensation of Commission Staff.--
+            (1) In general.--
+                    (A) Appointment and compensation.--The chairman, in 
+                consultation with vice chairman, in accordance with 
+                rules agreed upon by the Commission, may appoint and 
+                fix the compensation of a staff director and such other 
+                personnel as may be necessary to enable the Commission 
+                to carry out its functions, without regard to the 
+                provisions of title 5, United States Code, governing 
+                appointments in the competitive service, and without 
+                regard to the provisions of chapter 51 and subchapter 
+                III of chapter 53 of such title relating to 
+                classification and General Schedule pay rates, except 
+                that no rate of pay fixed under this subsection may 
+                exceed the equivalent of that payable for a position at 
+                level V of the Executive Schedule under section 5316 of 
+                title 5, United States Code.
+                    (B) Personnel as federal employees.--
+                            (i) In general.--The executive director and 
+                        any personnel of the Commission who are 
+                        employees shall be employees under section 2105 
+                        of title 5, United States Code, for purposes of 
+                        chapters 63, 81, 83, 84, 85, 87, 89, and 90 of 
+                        that title.
+                            (ii) Members of commission.--Subparagraph 
+                        (A) shall not be construed to apply to members 
+                        of the Commission.
+            (2) Detailees.--Any Federal Government employee may be 
+        detailed to the Commission without reimbursement from the 
+        Commission, and such detailee shall retain the rights, status, 
+        and privileges of his or her regular employment without 
+        interruption.
+            (3) Consultant services.--The Commission is authorized to 
+        procure the services of experts and consultants in accordance 
+        with section 3109 of title 5, United States Code, but at rates 
+        not to exceed the daily rate paid a person occupying a position 
+        at level IV of the Executive Schedule under section 5315 of 
+        title 5, United States Code.
+    (h) Compensation and Travel Expenses.--
+            (1) Compensation.--Each member of the Commission may be 
+        compensated at not to exceed the daily equivalent of the annual 
+        rate of basic pay in effect for a position at level IV of the 
+        Executive Schedule under section 5315 of title 5, United States 
+        Code, for each day during which that member is engaged in the 
+        actual performance of the duties of the Commission.
+            (2) Travel expenses.--While away from their homes or 
+        regular places of business in the performance of services for 
+        the Commission, members of the Commission shall be allowed 
+        travel expenses, including per diem in lieu of subsistence, in 
+        the same manner as persons employed intermittently in the 
+        Government service are allowed expenses under section 5703(b) 
+        of title 5, United States Code.
+    (i) Reports of Commission; Termination.--
+            (1) Interim reports.--The Commission may submit to the 
+        President and Congress interim reports containing such 
+        findings, conclusions, and recommendations for corrective 
+        measures as have been agreed to by a majority of Commission 
+        members.
+            (2) Final report.--Not later than 6 months after the date 
+        of the enactment of this Act, the Commission shall submit to 
+        the President and Congress a final report containing such 
+        findings, conclusions, and recommendations for corrective 
+        measures as have been agreed to by a majority of Commission 
+        members.
+            (3) Termination.--
+                    (A) In general.--The Commission, and all the 
+                authorities of this Act, shall terminate 60 days after 
+                the date on which the final report is submitted under 
+                paragraph (2).
+                    (B) Administrative activities before termination.--
+                The Commission may use the 60-day period referred to in 
+                subparagraph (A) for the purpose of concluding its 
+                activities, including providing testimony to committees 
+                of Congress concerning its reports and disseminating 
+                the final report.
+    (j) Funding.--
+            (1) Transfer from the department of the treasury tarp 
+        program.--Of the amounts authorized to be appropriated by this 
+        Act and made available in Public Law for the Troubled Asset 
+        Relief Program established under the Emergency Economic 
+        Stabilization Act of 2008, not to exceed $5,000,000 shall be 
+        available for transfer to the Commission for purposes of the 
+        activities of the Commission under this Act, and including 
+        assistance for participating Federal agencies.
+            (2) Duration of availability.--Amounts made available to 
+        the Commission under paragraph (1) shall remain available until 
+        the termination of the Commission.
+                                 <all>
+

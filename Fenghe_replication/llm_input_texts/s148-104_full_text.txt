@@ -1,0 +1,106 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[S. 148 Introduced in Senate (IS)]
+
+  1st Session
+                                 S. 148
+
+            To promote the integrity of investment advisers.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            January 4, 1995
+
+   Mr. Gramm introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+            To promote the integrity of investment advisers.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Investment Advisers Integrity Act''.
+
+SEC. 2. ENHANCED ENFORCEMENT PRIORITY.
+
+    Of the amounts appropriated to the Securities and Exchange 
+Commission, there are authorized to be appropriated--
+            (1) not to exceed $10,000,000 in fiscal year 1996; and
+            (2) not to exceed $12,000,000 for fiscal year 1997;
+for the enforcement of the provisions of the Investment Advisers Act of 
+1940, particularly with respect to advisers managing more than 
+$5,000,000 in assets.
+
+SEC. 3. EXEMPTION FOR STATE REGISTRATION.
+
+    Section 203(b) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-3(b)) is amended--
+            (1) by striking ``or'' at the end of clause (2);
+            (2) by striking the period at the end of clause (3) and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(4) any investment adviser who, during the course of the 
+        preceding 12 months, had no more than $5,000,000 in assets 
+        under management, if the investment adviser is registered with 
+        the appropriate State securities regulator, except that the 
+        Commission may, by rule, also require registrations by 
+        investment advisers who, during the preceding 12 months, had 
+        more than $1,000,000 but less than $5,000,000 in assets under 
+        management if the Commission determines such action to be 
+        necessary to achieve the purposes of the Act. As used in this 
+        section, the term `assets under management' means the client 
+        assets with respect to which an investment adviser provides 
+        continuous and regular supervisory or management services.''.
+
+SEC. 4. INVESTIGATION OF FRAUD.
+
+    Section 209 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+9) is amended by adding at the end the following:
+    ``(f) The Commission is authorized to conduct investigations of any 
+investment adviser, notwithstanding any exception from registration 
+under section 203(b)(4), in any case where the appropriate State 
+securities regulator or one or more clients or former clients of the 
+investment adviser have alleged fraud on the part of the investment 
+adviser.''.
+
+SEC. 5. DISQUALIFICATION OF CONVICTED FELONS.
+
+    (a) Amendment.--Section 203(e) of the Investment Advisers Act of 
+1940 (15 U.S.C. 80b-3(e)) is amended--
+            (1) by redesignating paragraphs (3) through (7) as 
+        paragraphs (4) through (8), respectively; and
+            (2) by inserting after paragraph (2) the following new 
+        paragraph;
+            ``(3) has been convicted within ten years preceding the 
+        filing of any application for registration or at any time 
+        thereafter of any crime that is punishable by imprisonment for 
+        one or more years and that is not described in paragraph (2) of 
+        this subsection or of a substantially equivalent crime by a 
+        foreign court of competent jurisdiction.''.
+    (b) Conforming Amendments.--Section 203 of such Act is further 
+amended--
+            (1) in subsection (e)(6) (as redesignated by subsection (a) 
+        of this section), by striking ``this paragraph (5)'' and 
+        inserting ``this paragraph (6)'';
+            (2) in subsection (f)--
+                    (A) by striking ``paragraph (1), (4), (5), or (7)'' 
+                and inserting ``paragraph (1), (5), (6), or (8)''; and
+                    (B) by striking ``paragraph (3)'' and inserting 
+                ``paragraph (4)''; and
+            (3) in subsection (i)(1)(D), by striking ``section 
+        203(e)(5) of this title'' and inserting ``subsection (e)(6) of 
+        this section''.
+                                 <all>
+

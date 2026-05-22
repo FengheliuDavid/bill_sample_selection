@@ -1,0 +1,120 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4220 Introduced in House (IH)]
+
+
+
+
+
+
+108th CONGRESS
+  2d Session
+                                H. R. 4220
+
+To amend the Fair Credit Reporting Act to protect the credit records of 
+  consumers who are affected by federally declared disasters, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 27, 2004
+
+     Ms. Bordallo (for herself, Mr. Sherman, Mrs. Christensen, Mr. 
+ Faleomavaega, Mr. McIntyre, Ms. Norton, and Mr. Owens) introduced the 
+   following bill; which was referred to the Committee on Financial 
+                                Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Fair Credit Reporting Act to protect the credit records of 
+  consumers who are affected by federally declared disasters, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Federal Disaster Consumer Protection 
+Act''.
+
+SEC. 2. PROHIBITION ON INCLUDING LATE PAYMENTS IN CREDIT REPORTS THAT 
+              WERE LATE DUE SOLELY TO DECLARED DISASTERS.
+
+    (a) In General.--Section 605(a) of the Fair Credit Reporting Act 
+(15 U.S.C. 1681c(a)) is amended by adding at the end the following new 
+paragraph:
+            ``(7) Any reference to a late payment that was due solely 
+        to a disruption caused by a declared disaster for which the 
+        agency receives notice under subsection (i).''.
+    (b) Procedure for Striking Adverse Information Due to Declared 
+Disaster.--Section 605 of the Fair Credit Reporting Act (15 U.S.C. 
+1681c) is amended by adding at the end the following new subsection:
+    ``(i) Procedure for Striking Adverse Information Due to Declared 
+Disaster.--
+            ``(1) Notice from consumer.--Any consumer who--
+                    ``(A) resides in an area which has been declared a 
+                disaster area by the President under the Robert T. 
+                Stafford Disaster Relief and Emergency Assistance Act;
+                    ``(B) fails to make a payment on an obligation by 
+                the due date (of the payment) that falls within the 
+                grace period described in paragraph (4); and
+                    ``(C) pays the obligation within 30 days of the due 
+                date referred to in subparagraph (B),
+may notify the creditor at any time during the 2-year period following 
+the end of the grace period, with respect to such obligation, that the 
+late payment was due to the occurrence of the declared disaster.
+            ``(2) Notice to consumer reporting agency.--Any creditor 
+        which receives a notice from a consumer under paragraph (1) 
+        shall notify any consumer reporting agency to which the 
+        creditor furnished information on the late payment described in 
+        such paragraph that the late payment was due to a disruption 
+        caused by a declared disaster.
+            ``(3) Responsibilities of the secretary of the treasury.--
+        The Secretary of the Treasury may designate a grace period for 
+        purposes of paragraph (1) if, after consultation with the Under 
+        Secretary for Emergency Preparedness and Response of the 
+        Department of Homeland Security, the Secretary determines 
+        that--
+                    ``(A) a disaster, as declared by the President 
+                under the Robert T. Stafford Disaster Relief and 
+                Emergency Assistance Act has caused damage to the 
+                infrastructure affecting banking, credit, and other 
+                financial services and transactions in a specified 
+                geographic region; and
+                    ``(B) the damage sustained could disrupt the 
+                provision of financial services and the efficient 
+                execution of financial transactions for a period longer 
+                than the period described in paragraph (4)(A).
+            ``(4) Grace period described.--For purposes of paragraph 
+        (1), the grace period, with respect to any consumer, means the 
+        longer of--
+                    ``(A) the 7-day period that begins on the effective 
+                date of the declaration, by the President, of the 
+                disaster area in which the consumer resides; and
+                    ``(B) the period, if any, prescribed by the 
+                Secretary of the Treasury under paragraph (3).
+            ``(5) Due date.--The term `due date' means the first date 
+        upon which a late fee or other penalty may be imposed on a 
+        consumer for a failure of the consumer to make a periodic 
+        payment that is due on a debt.''.
+    (c) Report to the Congress.--Before the end of the 2-year period 
+beginning on the date of the enactment of this Act, the Secretary of 
+the Treasury shall submit a report to the Congress containing--
+            (1) a detailed description of the actions taken to 
+        implement the requirements of the amendments made by this Act 
+        and prevent evasions of such requirements;
+            (2) pertinent information on the impact of such 
+        requirements on the financial services; and
+            (3) such recommendations for legislative or administrative 
+        actions as the Secretary may determine to be appropriate.
+                                 <all>
+

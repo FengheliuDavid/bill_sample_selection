@@ -1,0 +1,61 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1255 Introduced in House (IH)]
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                H. R. 1255
+
+To amend the Securities Exchange Act of 1934 to prohibit the fradulent 
+     recording of revenue from round trip sales of electric power.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 12, 2003
+
+  Mr. Walden of Oregon (for himself, Mr. DeFazio, Mr. Radanovich, and 
+  Mrs. Bono) introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Securities Exchange Act of 1934 to prohibit the fradulent 
+     recording of revenue from round trip sales of electric power.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+     This Act may be cited as the ``Truth in Electricity Revenue 
+Reporting Act of 2003''.
+
+SEC. 2. FRAUDULENT REPORTING OF ROUND TRIP ELECTRIC POWER SALES.
+
+     Section 18 of the Securities Exchange Act of 1934 (15 U.S.C. 78r) 
+is amended by adding at the end the following new subsection:
+    ``(d) Fraudulent Reporting of Round Trip Electric Power Sales.--For 
+the purposes of subsection (a), any financial statement or report of an 
+issuer that treats as revenue, but does not treat as an equal expense, 
+any contract or other arrangement directly or indirectly to purchase 
+from any person or other entity and subsequently sell to such person or 
+entity, or directly or indirectly to sell to any person or other entity 
+and subsequently purchase from such person or entity, within any 7-day 
+period the same quantity of electric power at wholesale at the same 
+price, shall be treated as false and misleading with respect to a 
+material fact without regard to the amount of such contract.''.
+                                 <all>
+

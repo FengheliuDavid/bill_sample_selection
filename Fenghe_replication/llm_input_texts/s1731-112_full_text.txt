@@ -1,0 +1,612 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1731 Introduced in Senate (IS)]
+
+112th CONGRESS
+  1st Session
+                                S. 1731
+
+    To improve the prohibitions on money laundering, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            October 18, 2011
+
+Mr. Grassley (for himself and Mrs. Feinstein) introduced the following 
+    bill; which was read twice and referred to the Committee on the 
+                               Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To improve the prohibitions on money laundering, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE, TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Combating Money 
+Laundering, Terrorist Financing, and Counterfeiting Act of 2011''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title, table of contents.
+Sec. 2. Specified unlawful activity.
+Sec. 3. Interstate transportation of criminal proceeds and reverse 
+                            money laundering.
+Sec. 4. Transportation or transhipment of blank checks in bearer form.
+Sec. 5. Bulk cash smuggling.
+Sec. 6. Section 1957 violations involving commingled funds and 
+                            structured transactions.
+Sec. 7. Charging money laundering as a course of conduct.
+Sec. 8. Illegal money transmitting businesses.
+Sec. 9. Knowledge that property is from the proceeds of a specific 
+                            felony.
+Sec. 10. Extraterritorial jurisdiction.
+Sec. 11. Freezing bank accounts of persons arrested for offenses 
+                            involving the movement of money across 
+                            international borders.
+Sec. 12. Making the international money laundering statute apply to tax 
+                            evasion.
+Sec. 13. Prohibiting money laundering through hawalas, other informal 
+                            value transfer systems, and closely related 
+                            transactions.
+Sec. 14. Technical amendment to restore wiretap authority for certain 
+                            money laundering and counterfeiting 
+                            offenses.
+Sec. 15. Conduct in aid of counterfeiting.
+Sec. 16. Prepaid access devices, digital currencies, or other similar 
+                            instruments.
+Sec. 17. Procedure for issuing subpoenas in money laundering cases.
+Sec. 18. Danger pay allowance.
+Sec. 19. United States Secret Service use of proceeds derived from 
+                            criminal investigations.
+Sec. 20. Authority of Secret Service to arrest persons in violation of 
+                            money laundering laws.
+Sec. 21. Law enforcement regulations and cooperation.
+Sec. 22. Rule of construction.
+
+SEC. 2. SPECIFIED UNLAWFUL ACTIVITY.
+
+    Section 1956(c)(7) of title 18, United States Code, is amended to 
+read as follows:
+            ``(7) the term `specified unlawful activity' means any act 
+        or activity constituting an offense in violation of the laws of 
+        the United States punishable by imprisonment for a term 
+        exceeding 1 year;''.
+
+SEC. 3. INTERSTATE TRANSPORTATION OF CRIMINAL PROCEEDS AND REVERSE 
+              MONEY LAUNDERING.
+
+    (a) In General.--Section 1957(a) of title 18, United States Code, 
+is amended to read as follows:
+    ``(a)(1) Whoever, in any of the circumstances set forth in 
+subsection (d)--
+            ``(A) knowingly conducts or attempts to conduct a monetary 
+        transaction involving the proceeds of some form of unlawful 
+        activity that is of a value greater than $10,000 and is derived 
+        from specified unlawful activity; or
+            ``(B) conducts or attempts to conduct a monetary 
+        transaction involving property of a value greater than $10,000, 
+        with the intent to promote the carrying on of specified 
+        unlawful activity,
+shall be punished as provided in subsection (b).
+    ``(2) Whoever, in any of the circumstances set forth in subsection 
+(d), transports, attempts to transport, or conspires to transport more 
+than $10,000 in currency, monetary instruments in bearer form, or 
+precious metals and jewels in interstate commerce--
+            ``(A) knowing that the property being transported was 
+        derived from some form of unlawful activity; or
+            ``(B) knowing that the property being transported was 
+        intended to be used to promote some form of unlawful activity,
+shall be punished as provided in subsection (b).''.
+    (b) Penalty.--Section 1957(b) of title 18, United States Code, is 
+amended--
+            (1) in paragraph (1), by striking ``paragraph (2)'' and 
+        inserting ``paragraphs (2) and (3)''; and
+            (2) by adding at the end the following:
+            ``(3) The maximum period of incarceration for a person 
+        convicted of an offense under subsection (a)(1)(B) shall not 
+        exceed the statutory maximum for the offense being promoted.''.
+    (c) Conforming Amendment.--Section 1957(f) of title 18, United 
+States Code, is amended--
+            (1) in paragraph (2), by striking ``; and'' and by 
+        inserting a semicolon;
+            (2) in paragraph (3), by striking the period and inserting 
+        ``; and''; and
+            (3) by adding at the end the following:
+            ``(4) the term `conducts' has the meaning given that term 
+        in section 1956 of this title.''.
+    (d) Statutory Heading.--Section 1957 of title 18, United States 
+Code, is amended, in the section heading, by inserting ``or in support 
+of criminal activity'' after ``specified unlawful activity''.
+    (e) Chapter Analysis.--The item relating to section 1957 in the 
+table of sections for chapter 95 of title 18, United States Code, is 
+amended to read as follows:
+
+``1957. Conducting monetary transactions in property derived from 
+                            specified unlawful activity or in support 
+                            of criminal activity.''.
+
+SEC. 4. TRANSPORTATION OR TRANSHIPMENT OF BLANK CHECKS IN BEARER FORM.
+
+    Section 5316 of title 31, United States Code, is amended by adding 
+at the end the following:
+    ``(e) Monetary Instruments With Amount Left Blank.--For purposes of 
+this section, a monetary instrument in bearer form that has the amount 
+left blank, such that the amount could be filled in by the bearer, 
+shall be considered to have a value in excess of $10,000 if the 
+instrument was drawn on an account that contained or was intended to 
+contain more than $10,000 at the time the instrument was transported or 
+the time period it was negotiated or was intended to be negotiated.''.
+
+SEC. 5. BULK CASH SMUGGLING.
+
+    Section 5332(b) of title 31, United States Code, is amended--
+            (1) in paragraph (1), by striking ``5 years'' and inserting 
+        ``10 years'';
+            (2) by redesignating paragraphs (2), (3), and (4), as 
+        paragraphs (3), (4), and (5), respectively; and
+            (3) by inserting after paragraph (1) the following:
+            ``(2) Fine.--
+                    ``(A) In general.--Whoever violates this section 
+                shall be fined under title 18.
+                    ``(B) Enhanced fine for aggravated cases.--Whoever 
+                violates this section while violating another law of 
+                the United States, other than section 5316 or 5324(c), 
+                or as a part of a pattern of any unlawful activity, 
+                including a violation of section 5316 or 5324(c), shall 
+                be fined twice the amount provided in subsection (b)(3) 
+                or (c)(3) of section 3571 of title 18.''.
+
+SEC. 6. SECTION 1957 VIOLATIONS INVOLVING COMMINGLED FUNDS AND 
+              STRUCTURED TRANSACTIONS.
+
+    Section 1957 of title 18, United States Code, is amended by adding 
+at the end the following:
+    ``(g) The Government may satisfy the $10,000 requirement in 
+subsection (a)(1) by showing that--
+            ``(1) the monetary transaction involved the transfer, 
+        withdrawal, encumbrance, or other disposition of more than 
+        $10,000 from an account in which more than $10,000 in proceeds 
+        of specified unlawful activity was commingled with other funds; 
+        or
+            ``(2) the defendant conducted a series of monetary 
+        transactions in amounts under $10,000 that exceeded $10,000 in 
+        the aggregate and that were closely related to each other in 
+        terms of such factors as time, the identity of the parties 
+        involved, the nature or purpose of the transactions or the 
+        manner in which they were conducted.''.
+
+SEC. 7. CHARGING MONEY LAUNDERING AS A COURSE OF CONDUCT.
+
+    (a) In General.--Section 1956 of title 18, United States Code, is 
+amended by adding at the end the following:
+    ``(j) Multiple Violations.--Multiple violations of this section 
+that are part of the same scheme or continuing course of conduct may be 
+charged, at the election of the Government, in a single count in an 
+indictment or information.''.
+    (b) Conspiracies.--Section 1956(h) of title 18, United States Code, 
+is amended by striking ``or section 1957'' and inserting ``, section 
+1957, or section 1960''.
+
+SEC. 8. ILLEGAL MONEY TRANSMITTING BUSINESSES.
+
+    (a) Money Transmitting Business Defined.--Section 1960(b)(2) of 
+title 18, United States Code, is amended to read as follows:
+            ``(2) the term `money transmitting business' means any 
+        business other than the United States Postal Service, which 
+        provides check cashing, currency exchange, money transmitting 
+        or remittance services, or issues, sells, or redeems money 
+        orders, travelers' checks, prepaid access devices, digital 
+        currencies, or other similar instruments, or any other person 
+        or association of persons, formal or informal, engaging as a 
+        business in transporting, transferring, exchanging, or 
+        transmitting currency or funds in any form, including any 
+        person or association of persons, formal or informal, engaging 
+        as a business in any informal money transfer system, monetary 
+        value represented in digital electronic format, or any network 
+        of people who engage as a business in facilitating the transfer 
+        of money domestically or internationally outside of the 
+        conventional financial institutions system.''.
+    (b) General Intent Requirement.--Section 1960(b)(1)(B) of title 18, 
+United States Code, is amended by inserting the following before the 
+semicolon: ``, whether or not the defendant knew that the operation was 
+required to comply with such registration requirements''.
+    (c) Technical Amendments.--Section 1960 of title 18, United States 
+Code, is amended--
+            (1) in the section heading, by striking ``unlicensed'' and 
+        inserting ``illegal'';
+            (2) in subsection (a), by striking ``unlicensed'' and 
+        inserting ``illegal'';
+            (3) in subsection (b)(1), by striking ``unlicensed'' and 
+        inserting ``illegal''; and
+            (4) in subsection (b)(1)(C), by inserting ``, exchange,'' 
+        after ``transportation''.
+
+SEC. 9. KNOWLEDGE THAT PROPERTY IS FROM THE PROCEEDS OF A SPECIFIC 
+              FELONY.
+
+    (a) Proceeds of A Felony.--Section 1956(c)(1) of title 18, United 
+States Code, is amended by inserting ``, and regardless of whether or 
+not the person knew that the activity constituted a felony'' before the 
+semicolon at the end.
+    (b) Intent To Conceal or Disguise.--Section 1956(a) of title 18, 
+United States Code, is amended--
+            (1) in paragraph (1)(B), by striking ``knowing that'' and 
+        all that follows through ``Federal law,'' and inserting the 
+        following:
+                    ``(B) knowing that the transaction--
+                            ``(i) conceals or disguises, or is intended 
+                        to conceal or disguise, the nature, source, 
+                        location, ownership, or control of the proceeds 
+                        of some form of unlawful activity; or
+                            ``(ii) avoids, or is intended to avoid, a 
+                        transaction reporting requirement under State 
+                        or Federal law,''; and
+            (2) in paragraph (2)(B), by striking ``knowing that'' and 
+        all that follows through ``Federal law,'' and inserting the 
+        following:
+                    ``(B) knowing that the monetary instrument or funds 
+                involved in the transportation, transmission, or 
+                transfer represent the proceeds of some form of 
+                unlawful activity, and knowing that such 
+                transportation, transmission, or transfer--
+                            ``(i) conceals or disguises, or is intended 
+                        to conceal or disguise, the nature, source, 
+                        location, ownership, or control of the proceeds 
+                        of some form of unlawful activity; or
+                            ``(ii) avoids, or is intended to avoid, a 
+                        transaction reporting requirement under State 
+                        or Federal law,''.
+
+SEC. 10. EXTRATERRITORIAL JURISDICTION.
+
+    Section 1956(f)(1) of title 18, United States Code, is amended by 
+inserting ``or has an effect in the United States'' after ``conduct 
+occurs in part in the United States''.
+
+SEC. 11. FREEZING BANK ACCOUNTS OF PERSONS ARRESTED FOR OFFENSES 
+              INVOLVING THE MOVEMENT OF MONEY ACROSS INTERNATIONAL 
+              BORDERS.
+
+    Section 981(b) of title 18, United States Code, is amended by 
+adding at the end the following:
+            ``(5)(A) If a person is arrested or charged in connection 
+        with an offense described in subparagraph (C) involving the 
+        movement of funds into or out of the United States, the 
+        Attorney General may apply to any Federal judge or magistrate 
+        judge in the district in which the arrest is made or where the 
+        charges are filed for an ex parte order restraining any account 
+        held by the person arrested or charged for not more than 30 
+        days, except that such 30-day time period may be extended for 
+        good cause shown at a hearing conducted in the manner provided 
+        in Rule 43(e) of the Federal Rules of Civil Procedure. The 
+        court may receive and consider evidence and information 
+        submitted by the Government that would be inadmissible under 
+        the Federal Rules of Evidence.
+            ``(B) The application for the restraining order referred to 
+        in subparagraph (A) shall--
+                    ``(i) identify the offense for which the person has 
+                been arrested or charged;
+                    ``(ii) identify the location and description of the 
+                accounts to be restrained; and
+                    ``(iii) state that the restraining order is needed 
+                to prevent the removal of the funds in the account by 
+                the person arrested or charged, or by others associated 
+                with such person, during the time needed by the 
+                Government to conduct such investigation as may be 
+                necessary to establish whether there is probable cause 
+                to believe that the funds in the accounts are subject 
+                to forfeiture in connection with the commission of any 
+                criminal offense.
+            ``(C) A restraining order may be issued pursuant to 
+        subparagraph (A) if a person is arrested or charged with any 
+        offense for which forfeiture is authorized under this title, 
+        title 31, or the Controlled Substances Act.
+            ``(D) For purposes of this section--
+                    ``(i) the term `account' includes any safe deposit 
+                box and any account (as defined in paragraphs (1) and 
+                (2) of section 5318A(e) of title 31) at any financial 
+                institution; and
+                    ``(ii) the term `account held by the person 
+                arrested or charged' includes an account held in the 
+                name of such person, and any account over which such 
+                person has effective control as a signatory or 
+                otherwise.
+            ``(E) Restraint pursuant to this paragraph shall not be 
+        deemed a `seizure' for purposes of subsection 983(a) of this 
+        title.
+            ``(F) A restraining order issued pursuant to this paragraph 
+        may be executed in any district in which the subject account is 
+        found, or transmitted to the central authority of any foreign 
+        State for service in accordance with any treaty or other 
+        international agreement.''.
+
+SEC. 12. MAKING THE INTERNATIONAL MONEY LAUNDERING STATUTE APPLY TO TAX 
+              EVASION.
+
+    Section 1956(a)(2)(A) of title 18, United States Code, is amended 
+by--
+            (1) inserting ``(i)'' before ``with the intent to 
+        promote''; and
+            (2) adding at the end the following:
+                    ``(ii) with the intent to engage in conduct 
+                constituting a violation of section 7201 or 7206 of the 
+                Internal Revenue Code of 1986; or''.
+
+SEC. 13. PROHIBITING MONEY LAUNDERING THROUGH HAWALAS, OTHER INFORMAL 
+              VALUE TRANSFER SYSTEMS, AND CLOSELY RELATED TRANSACTIONS.
+
+    The matter following section 1956(a)(1)(B)(ii) of title 18, United 
+States Code, is amended by striking ``For purposes of this paragraph, a 
+financial transaction'' and inserting ``For purposes of this paragraph 
+and section 1957, a financial transaction or a monetary transaction''.
+
+SEC. 14. TECHNICAL AMENDMENT TO RESTORE WIRETAP AUTHORITY FOR CERTAIN 
+              MONEY LAUNDERING AND COUNTERFEITING OFFENSES.
+
+    (a) Currency Reporting Offenses.--Section 2516(1)(g) of title 18, 
+United States Code, is amended by striking ``or section 5324 of title 
+31, United States Code (relating to structuring transactions to evade 
+reporting requirement prohibited'' and inserting ``or sections 5324 and 
+5332 of title 31, United States Code (relating to structuring financial 
+transactions and bulk cash smuggling)''.
+    (b) Money Laundering.--Section 2516(1)(c) of title 18, United 
+States Code, is amended by inserting ``section 1960 (relating to 
+illegal money transmitting businesses),'' before ``section 659''.
+    (c) Counterfeiting.--Section 2516(1)(d) of title 18, United States 
+Code, is amended by striking ``or 473'' and inserting ``473, 474, or 
+474A,''.
+
+SEC. 15. CONDUCT IN AID OF COUNTERFEITING.
+
+    (a) In General.--Section 474(a) of title 18, United States Code, is 
+amended by inserting after the paragraph beginning ``Whoever has in his 
+control, custody, or possession any plate'' the following:
+    ``Whoever, with intent to defraud, has custody, control, or 
+possession of any material, tool, machinery, or other equipment that 
+can be used to make, alter, forge, or counterfeit any obligation or 
+other security of the United States or any part of such obligation or 
+security, except under the authority of the Secretary of the Treasury; 
+or''.
+    (b) Foreign Obligations and Securities.--Section 481 of title 18, 
+United States Code, is amended by inserting after the paragraph 
+beginning ``Whoever, with intent to defraud'' the following:
+    ``Whoever, with intent to defraud, has custody, control, or 
+possession of any material, tool, machinery, or other equipment that 
+can be used to make, alter, forge, or counterfeit any obligation or 
+other security of any foreign government, bank, or corporation; or''.
+    (c) Counterfeit Acts.--Section 470 of title 18, United States Code, 
+is amended by striking ``or 474'' and inserting ``474, or 474A''.
+    (d) Strengthening Deterrents to Counterfeiting.--Section 474A of 
+title 18, United States Code is amended--
+            (1) in subsection (a), by inserting ``, custody,'' after 
+        ``control'';
+            (2) in subsection (b)--
+                    (A) by inserting ``, custody,'' after ``control''; 
+                and
+                    (B) by striking ``any essentially identical feature 
+                or device adapted to the making of any such obligation 
+                or security,'' and inserting ``any material or other 
+                thing made after or in similitude of any such 
+                deterrent,''; and
+            (3) by adding at the end the following:
+    ``(d) Whoever has in his control, custody, or possession any 
+obligation or security of the United States or any foreign government 
+from which the ink or other distinctive counterfeit deterrent has been 
+completely or partially removed, except under the authority of the 
+Secretary of the Treasury, is guilty of a class B felony.''.
+
+SEC. 16. PREPAID ACCESS DEVICES, DIGITAL CURRENCIES, OR OTHER SIMILAR 
+              INSTRUMENTS.
+
+    (a) In General.--Section 5312(a) of title 31, United States Code, 
+is amended--
+            (1) by striking paragraph (1)(K) and inserting the 
+        following:
+                    ``(K) an issuer, redeemer, or cashier or travelers' 
+                checks, checks, money orders, prepaid access devices, 
+                digital currencies, or other similar instruments;'';
+            (2) in paragraph (3)(C), by inserting ``prepaid access 
+        devices,'' after ``delivery,''; and
+            (3) by adding at the end the following:
+            ``(7) `prepaid access device' means an electronic device or 
+        vehicle, such as a card, plate, code, number, electronic serial 
+        number, mobile identification number, personal identification 
+        number, or other instrument that provides a portal to funds or 
+        the value of funds that have been paid in advance and can be 
+        retrievable and transferable at some point in the future.''.
+    (b) GAO Report.--Not later than 18 months after the date of 
+enactment of this Act, the Comptroller General of the United States 
+shall submit to Congress a report on--
+            (1) the impact the amendments made by subsection (a) has 
+        had on law enforcement, the prepaid access industry, and 
+        consumers; and
+            (2) the implementation and enforcement by the Department of 
+        Treasury of the final rule on Definitions and Other Regulations 
+        Relating to Prepaid Access (76 Fed. Reg. 45403), issued July 
+        26, 2011.
+    (c) Customs and Border Protection Strategy for Prepaid Access 
+Devices.--Not later than 18 months after the date of enactment of this 
+Act, the Secretary of Homeland Security, in consultation with the 
+Commission of the U.S. Customs and Border Protection, shall submit to 
+Congress a report detailing a strategy to interdict and detect prepaid 
+access devices, digital currencies, or other similar instruments, at 
+border crossings and other ports of entry for the United States. The 
+report shall include an assessment of infrastructure needs to carry out 
+the strategy detailed in the report.
+
+SEC. 17. PROCEDURE FOR ISSUING SUBPOENAS IN MONEY LAUNDERING CASES.
+
+    (a) In General.--Section 986 of title 18, United States Code, is 
+amended by adding at the end the following:
+    ``(e) Procedure for Issuing Subpoenas.--The Attorney General, the 
+Secretary of the Treasury, or the Secretary of Homeland Security may 
+issue a subpoena in any investigation of a violation of sections 1956, 
+1957 or 1960, or sections 5316, 5324, 5331 or 5332 of title 31, United 
+States Code, in the manner set forth under section 3486.''.
+    (b) Grand Jury and Trial Subpoenas.--Section 5318(k)(3)(A) of title 
+31, United States Code, is amended--
+            (1) in clause (i)--
+                    (A) by striking ``related to such correspondent 
+                account''; and
+                    (B) by striking ``or the Attorney General'' and 
+                inserting ``, the Attorney General, or the Secretary of 
+                Homeland Security''; and
+            (2) by adding at the end the following:
+                            ``(iii) Grand jury or trial subpoena.--In 
+                        addition to a subpoena issued by the Attorney 
+                        General, Secretary of the Treasury, or the 
+                        Secretary of Homeland Security under clause 
+                        (i), a subpoena under clause (i) includes a 
+                        grand jury or trial subpoena requested by the 
+                        Government.''.
+    (c) Fair Credit Reporting Act Amendment.--Section 604(a)(1) of the 
+Fair Credit Reporting Act (15 U.S.C. 1681b(a)(1)) is amended--
+            (1) by striking ``or''; and
+            (2) by inserting before the period the following: ``, or a 
+        subpoena issued under section 5318 of title 31 or section 3486 
+        of title 18, United States Code''.
+    (d) Obstruction of Justice.--Section 1510(b)(3)(B) of title 18, 
+United States Code, is amended--
+            (1) in the matter before clause (i), by striking ``or a 
+        Department of Justice Subpoena (issued under section 3486 of 
+        title 18)'' and inserting ``, a subpoena issued under section 
+        3486 of title 18, or an order or subpoena issued pursuant to 
+        section 3512 of title 18, section 5318 of title 31, or section 
+        1782 of title 28,''; and
+            (2) in clause (i), by inserting ``, 1960, or an offense 
+        against a foreign nation constituting specified unlawful 
+        activity under section 1956, or a foreign offense for which 
+        enforcement of a foreign forfeiture judgment could be brought 
+        under section 2467 of title 28'' after ``1957''.
+    (e) Right to Financial Privacy Act.--Section 1120(b)(1)(A) of the 
+Right to Financial Privacy Act of 1978 (12 U.S.C. 3420(b)(1)(A)) is 
+amended by striking--
+            (1) ``or 1957'' and inserting ``, 1957, or 1960''; and
+            (2) by striking ``and 5324'' and inserting ``, 5322, 5324, 
+        5331, and 5332''.
+
+SEC. 18. DANGER PAY ALLOWANCE.
+
+    Section 151 of the Foreign Relations Authorization Act, Fiscal 
+Years 1990 and 1991 (5 U.S.C. 5928 note), is amended by striking ``Drug 
+Enforcement Administration or Federal Bureau of Investigation'' and 
+inserting ``Drug Enforcement Administration, Federal Bureau of 
+Investigation, Immigration and Customs Enforcement, Customs and Border 
+Protection, or United States Secret Service''.
+
+SEC. 19. UNITED STATES SECRET SERVICE USE OF PROCEEDS DERIVED FROM 
+              CRIMINAL INVESTIGATIONS.
+
+    (a) In General.--With respect to any undercover investigative 
+operation of the United States Secret Service (hereafter referred to in 
+this section as the ``Secret Service'') that is necessary for the 
+detection and prosecution of crimes against the United States---
+            (1) sums appropriated for the Secret Service, including 
+        unobligated balances available from prior fiscal years, may be 
+        used for purchasing property, buildings, and other facilities, 
+        and for leasing space, within the United States, the District 
+        of Columbia, and the territories and possessions of the United 
+        States, without regard to sections 1341 and 3324 of title 31, 
+        United States Code, section 8111 of title 40, sections 3732(a) 
+        and 3741 of the Revised Statutes of the United States (41 
+        U.S.C. 11(a) and 22), and sections 304(a) and 305 of the 
+        Federal Property and Administrative Services Act of 1949 (41 
+        U.S.C. 254(a) and 255);
+            (2) sums appropriated for the Secret Service, including 
+        unobligated balances available from prior fiscal years, may be 
+        used to establish or to acquire proprietary corporations or 
+        business entities as part of such undercover operation, and to 
+        operate such corporations or business entities on a commercial 
+        basis, without regard to sections 9102 and 9103 of title 31, 
+        United States Code;
+            (3) sums appropriated for the Secret Service, including 
+        unobligated balances available from prior fiscal years and the 
+        proceeds from such undercover operation, may be deposited in 
+        banks or other financial institutions, without regard to 
+        section 648 of title 18, and section 3302 of title 31, United 
+        States Code; and
+            (4) proceeds from such undercover operation may be used to 
+        offset necessary and reasonable expenses incurred in such 
+        operation, without regard to section 3302 of title 31, United 
+        States Code.
+    (b) Written Certification.--The authority set forth in subsection 
+(a) may be exercised only upon the written certification of the 
+Director of the Secret Service or his designee that any action 
+authorized by any paragraph of such subsection is necessary for the 
+conduct of an undercover investigative operation. Such certification 
+shall continue in effect for the duration of such operation, without 
+regard to fiscal years.
+    (c) Deposit of Proceeds in Treasury.--As soon as practicable after 
+the proceeds from an undercover investigative operation with respect to 
+which an action is authorized and carried out under paragraphs (3) and 
+(4) of subsection (a) are no longer necessary for the conduct of such 
+operation, such proceeds or the balance of such proceeds remaining at 
+the time shall be deposited in the Treasury of the United States as 
+miscellaneous receipts.
+    (d) Reporting and Deposit of Proceeds Upon Disposition of Certain 
+Business Entities.--If a corporation or business entity established or 
+acquired as part of an undercover investigative operation under 
+paragraph (2) of subsection (a) with a net value of over $50,000 is to 
+be liquidated, sold, or otherwise disposed of, the Secret Service, as 
+much in advance as the Director or designee determines is practicable, 
+shall report the circumstance to the Secretary of Homeland Security. 
+The proceeds of the liquidation, sale, or other disposition, after 
+obligations are met, shall be deposited in the Treasury of the United 
+States as miscellaneous receipts.
+    (e) Financial Audits and Reports.--
+            (1) Audits.--The Secret Service shall conduct detailed 
+        financial audits of closed undercover investigative operations 
+        for which a written certification was made pursuant to 
+        subsection (b) on a quarterly basis and shall report the 
+        results of the audits in writing to the Secretary of Homeland 
+        Security.
+            (2) Reports.--The Secretary of Homeland Security shall 
+        annually submit to the Committees on Appropriations of the 
+        Senate and House of Representatives, at the time that the 
+        President's budget is submitted under section 1105(a) of title 
+        31, a summary of such audits.
+
+SEC. 20. AUTHORITY OF SECRET SERVICE TO ARREST PERSONS IN VIOLATION OF 
+              MONEY LAUNDERING LAWS.
+
+    Section 3056(b)(3) of title 18, United States Code, is amended--
+            (1) by inserting ``money laundering, structured 
+        transactions,'' after ``devices''; and
+            (2) by striking ``federally insured''.
+
+SEC. 21. LAW ENFORCEMENT REGULATIONS AND COOPERATION.
+
+    Not later than 1 year following the date of enactment of this Act, 
+the Attorney General, Secretary of Treasury, and Secretary of Homeland 
+Security, in consultation with the Director of National Intelligence, 
+shall coordinate to--
+            (1) promulgate regulations as necessary to implement the 
+        provisions of this Act; and
+            (2) issue other informal guidelines with respect to money 
+        laundering, terrorist financing, counterfeiting, and other 
+        matters related to the provisions of this Act, including--
+                    (A) investigative guidelines; and
+                    (B) memorandum of understanding in regards to 
+                investigations and investigative authorities.
+
+SEC. 22. RULE OF CONSTRUCTION.
+
+    Nothing in this Act, or any amendment made by this Act, shall be 
+construed to apply to the authorized law enforcement, protective, or 
+intelligence activities of the United States or of an intelligence 
+agency of the United States.
+                                 <all>
+

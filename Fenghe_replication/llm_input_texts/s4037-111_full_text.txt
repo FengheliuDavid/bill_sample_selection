@@ -1,0 +1,169 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4037 Introduced in Senate (IS)]
+
+111th CONGRESS
+  2d Session
+                                S. 4037
+
+To impose a criminal penalty for unauthorized recording or distribution 
+of images produced using advanced imaging technology during screenings 
+of individuals at airports and upon entry to Federal buildings, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           December 16, 2010
+
+Mr. Schumer (for himself, Mr. Kerry, Mr. Akaka, Mr. Durbin, Mr. Nelson 
+of Nebraska, Mr. Menendez, Ms. Klobuchar, Mr. Whitehouse, Mrs. Shaheen, 
+and Mr. Tester) introduced the following bill; which was read twice and 
+               referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To impose a criminal penalty for unauthorized recording or distribution 
+of images produced using advanced imaging technology during screenings 
+of individuals at airports and upon entry to Federal buildings, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Security Screening Confidential Data 
+Privacy Act''.
+
+SEC. 2. CRIMINAL PENALTY FOR UNAUTHORIZED RECORDING OR DISTRIBUTION OF 
+              SECURITY SCREENING IMAGES.
+
+    (a) In General.--Part I of title 18, United States Code, is amended 
+by adding at the end the following:
+
+  ``CHAPTER 124--UNAUTHORIZED RECORDING AND DISTRIBUTION OF SECURITY 
+                            SCREENING IMAGES
+
+``Sec.
+``2731. Criminal penalty for unauthorized recording and distribution of 
+                            security screening images.
+``Sec. 2731. Criminal penalty for unauthorized recording and 
+              distribution of security screening images
+    ``(a) In General.--Except as specifically provided in subsection 
+(b), it shall be unlawful for an individual--
+            ``(1) to photograph or otherwise record an image produced 
+        using advanced imaging technology during the screening of an 
+        individual at an airport or upon entry into any building owned 
+        or operated by the Federal Government without express 
+        authorization pursuant to a Federal law or regulation; or
+            ``(2) to distribute any such image to any individual who is 
+        not authorized pursuant to a Federal law or regulation to 
+        receive the image.
+    ``(b) Exceptions.--
+            ``(1) Recordings to be used in criminal prosecution.--The 
+        prohibition under subsection (a) shall not apply to an 
+        individual who, during the course and within the scope of the 
+        individual's employment, records or distributes an image 
+        described in subsection (a) solely to be used in a criminal 
+        investigation or prosecution.
+            ``(2) Liability of journalists.--The prohibition under 
+        subsection (a) shall not apply to a journalist that publishes 
+        an image described in that subsection if the journalist has a 
+        good faith belief that the image was not recorded or 
+        distributed in violation of that prohibition.
+    ``(c) Penalty.--An individual who violates the prohibition in 
+subsection (a) shall be fined under this title, imprisoned for not more 
+than 1 year, or both.
+    ``(d) Definitions.--In this section:
+            ``(1) Advanced imaging technology.--The term `advanced 
+        imaging technology'--
+                    ``(A) means a device that creates a visual image of 
+                an individual showing the surface of the skin and 
+                revealing other objects on the body; and
+                    ``(B) may include devices using backscatter x-rays 
+                or millimeter waves and devices referred to as `whole-
+                body imaging technology' or `body scanning'.
+            ``(2) Journalist.--The term `journalist'--
+                    ``(A) means a person who--
+                            ``(i) with the primary intent to 
+                        investigate events and procure material in 
+                        order to disseminate to the public news or 
+                        information concerning local, national, or 
+                        international events or other matters of public 
+                        interest, regularly gathers, prepares, 
+                        collects, photographs, records, writes, edits, 
+                        reports, or publishes on such matters by--
+                                    ``(I) conducting interviews;
+                                    ``(II) making direct observation of 
+                                events; or
+                                    ``(III) collecting, reviewing, or 
+                                analyzing original writings, 
+                                statements, communications, reports, 
+                                memoranda, records, transcripts, 
+                                documents, photographs, recordings, 
+                                tapes, materials, data, or other 
+                                information whether in paper, 
+                                electronic, or other form;
+                            ``(ii) has such intent at the inception of 
+                        the process of gathering the news or 
+                        information sought; and
+                            ``(iii) obtains the news or information 
+                        sought in order to disseminate the news or 
+                        information by means of print (including 
+                        newspapers, books, wire services, news 
+                        agencies, or magazines), broadcasting 
+                        (including dissemination through networks, 
+                        cable, satellite carriers, broadcast stations, 
+                        or a channel or programming service for any 
+                        such media), mechanical, photographic, 
+                        electronic, or other means;
+                    ``(B) includes a supervisor, employer, parent 
+                company, subsidiary, or affiliate of a person described 
+                in subparagraph (A); and
+                    ``(C) does not include any person who is--
+                            ``(i) a foreign power or an agent of a 
+                        foreign power, as those terms are defined in 
+                        section 101 of the Foreign Intelligence 
+                        Surveillance Act of 1978 (50 U.S.C. 1801);
+                            ``(ii) a member or affiliate of a foreign 
+                        terrorist organization designated under section 
+                        219(a) of the Immigration and Nationality Act 
+                        (8 U.S.C. 1189(a));
+                            ``(iii) any person whose property and 
+                        interests in property are blocked pursuant to 
+                        Executive Order 13224 (66 Fed. Reg. 49079; 
+                        relating to blocking property and prohibiting 
+                        transacting with persons who commit, threaten 
+                        to commit, or support terrorism), Executive 
+                        Order 12947 (60 Fed. Reg. 5079; prohibiting 
+                        transactions with terrorists who threaten to 
+                        disrupt the Middle East peace process), or any 
+                        other executive order relating to terrorism;
+                            ``(iv) committing or attempting to commit 
+                        the crime of terrorism, as that offense is 
+                        defined in section 2331(5) or 2332b(g)(5) of 
+                        title 18, United States Code;
+                            ``(v) committing or attempting to commit 
+                        the crime of providing material support or 
+                        resources, as that term is defined in section 
+                        2339A(b)(1) of title 18, United States Code, to 
+                        a terrorist organization; or
+                            ``(vi) aiding, abetting, or conspiring in 
+                        illegal activity with a person described in 
+                        clause (i), (ii), (iii), (iv), or (v).''.
+    (b) Technical and Conforming Amendment.--The table of chapters for 
+part I of title 18, United States Code, is amended by inserting after 
+the item relating to chapter 123 the following:
+
+``124. Unauthorized recording and distribution of security      2731''.
+                            screening images.
+                                 <all>
+

@@ -1,0 +1,2569 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1745 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 1745
+
+                    To reform asset forfeiture laws.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 22, 1997
+
+ Mr. Schumer introduced the following bill; which was referred to the 
+ Committee on the Judiciary, and in addition to the Committee on Ways 
+ and Means, for a period to be subsequently determined by the Speaker, 
+ in each case for consideration of such provisions as fall within the 
+                jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+                    To reform asset forfeiture laws.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the Forfeiture Act of 1997.
+
+SEC. 2. TABLE OF CONTENTS.
+
+                  TITLE I--ADMINISTRATIVE FORFEITURES
+
+Sec. 101. Time for filing claim; waiver of cost bond.
+Sec. 102. Jurisdiction and venue.
+Sec. 103. Judicial review of administrative forfeitures.
+Sec. 104. Judicial forfeiture of real property.
+Sec. 105. Preservation of arrested real property.
+Sec. 106. Amendment to Federal Tort Claims Act exceptions.
+Sec. 107. Prejudgment interest.
+Sec. 108. Seizure warrant requirement.
+                     TITLE II--JUDICIAL FORFEITURES
+
+Sec. 201. Trial procedure for civil forfeiture.
+Sec. 202. Uniform innocent owner defense.
+Sec. 203. Stay of civil forfeiture case.
+Sec. 204. Application of forfeiture procedures.
+Sec. 205. Civil investigative demands.
+Sec. 206. Access to records in bank secrecy jurisdictions.
+Sec. 207. Access to other records.
+Sec. 208. Disclosure of grand jury information to Federal prosecutors.
+Sec. 209. Currency forfeitures.
+               TITLE III--PROPERTY SUBJECT TO FORFEITURE
+
+Sec. 301. Forfeiture of proceeds of Federal offenses.
+Sec. 302. Uniform definition of proceeds.
+Sec. 303. Forfeiture of firearms used in crimes of violence and 
+                            felonies.
+Sec. 304. Forfeiture of proceeds traceable to facilitating property in 
+                            drug cases.
+Sec. 305. Forfeiture for alien smuggling.
+Sec. 306. Forfeiture of proceeds of certain foreign crimes.
+Sec. 307. Forfeiture of property used to facilitate foreign drug 
+                            crimes.
+Sec. 308. Forfeiture for violations of sections 6050I and 1960.
+Sec. 309. Criminal forfeiture for money laundering conspiracies.
+Sec. 310. Archeological Resources Protection Act.
+Sec. 311. Forfeiture of the instrumentalities of terrorism, 
+                            telemarketing fraud and other offenses.
+Sec. 312. Forfeiture of vehicles used for gun running.
+Sec. 313. Forfeiture of criminal proceeds transported in interstate 
+                            commerce.
+Sec. 314. Forfeiture of proceeds of Federal Food, Drug, and Cosmetic 
+                            Act violations.
+Sec. 315. Forfeiture for food stamp fraud.
+Sec. 316. Forfeiture for odometer tampering offenses.
+             TITLE IV--MISCELLANEOUS FORFEITURE AMENDMENTS
+
+Sec. 401. Use of forfeited funds to pay restitution to crime victims 
+                            and regulatory agencies.
+Sec. 402. Enforcement of foreign forfeiture judgment.
+Sec. 403. Minor and technical amendments relating to 1992 Forfeiture 
+                            Amendments.
+Sec. 404. Civil forfeiture of coins and currency in confiscated 
+                            gambling devices.
+Sec. 405. Drug paraphernalia technical amendments.
+Sec. 406. Authorization to share forfeited property with cooperating 
+                            foreign governments.
+Sec. 407. Forfeiture of counterfeit paraphernalia.
+Sec. 408. Closing of loophole to defeat forfeiture through bankruptcy.
+Sec. 409. Statute of limitations for civil forfeiture actions.
+Sec. 410. Assets forfeiture fund and property disposition.
+Sec. 411. Clarification of 21 U.S.C. 877.
+Sec. 412. Certificate of reasonable cause.
+Sec. 413. Conforming Treasury and Justice funds.
+Sec. 414. Disposition of property forfeited under Customs laws.
+Sec. 415. Technical amendments relating to obliterated motor vehicle 
+                            identification numbers.
+Sec. 416. Fugitive disentitlement.
+Sec. 417. Admissibility of foreign business records.
+Sec. 418. Destruction or removal of property to prevent seizure.
+Sec. 419. Prospective application.
+                      TITLE V--CRIMINAL FORFEITURE
+
+Sec. 501. Uniform procedures for criminal forfeiture.
+Sec. 502. Use of criminal forfeiture as an alternative to civil 
+                            forfeiture.
+Sec. 503. Federal Rules of Criminal Procedure.
+Sec. 504. Pretrial restraint of substitute assets.
+Sec. 505. Repatriation of property placed beyond the jurisdiction of 
+                            the court.
+Sec. 506. Hearings on Pretrial restraining orders; assets needed to pay 
+                            attorneys fees.
+Sec. 507. Criminal seizure warrants.
+Sec. 508. Standard of proof for criminal forfeiture.
+Sec. 509. Discovery procedure for locating forfeited assets.
+Sec. 510. Collection of criminal forfeiture judgment.
+Sec. 511. Appeals in criminal forfeiture cases.
+Sec. 512. Nonabatement of forfeiture when defendant dies pending 
+                            appeal.
+Sec. 513. Standing of third parties to contest criminal forfeiture 
+                            orders.
+Sec. 514. Motion and discovery procedures for ancillary hearings.
+Sec. 515. Intervention by the defendant in the ancillary proceeding.
+Sec. 516. In personam judgments.
+Sec. 517. Right of third parties to contest forfeiture of substitute 
+                            assets.
+Sec. 518. Forfeitable property transferred to third parties.
+Sec. 519. Forfeiture of third party interests in criminal cases.
+Sec. 520. Severance of jointly held property.
+Sec. 521. Victim restitution.
+Sec. 522. Delivery of property to the Marshals Service.
+
+                  TITLE I--ADMINISTRATIVE FORFEITURES
+
+SEC. 101. TIME FOR FILING CLAIM; WAIVER OF COST BOND.
+
+    (a) In General.--Section 608 of the Tariff Act of 1930 (19 U.S.C. 
+1608) is amended to read as follows:
+``Sec. 608. Seizures; claims; judicial condemnation
+    ``(a) Any person claiming seized property may file a claim with the 
+appropriate customs officer at any time after the seizure: Provided, 
+That such claim must be filed not later than 30 days after the final 
+publication of notice of seizure. The claim shall be signed by the 
+claimant under penalty of perjury and shall contain a brief statement 
+of the nature and extent of the claimant's ownership interest in the 
+property and how and when it was acquired.
+    ``(b) Any claim filed pursuant to subsection (a) shall include the 
+posting of a bond to the United States in the sum of $5,000 or 10 
+percent of the value of the claimed property, whichever is lower, but 
+not less than $250, with sureties to be approved by the customs officer 
+with whom the claim is filed. No bond shall be required, however, if 
+the property is seized by the Attorney General and consists of currency 
+or other monetary instruments, or if the claim is filed in forma 
+pauperis with all supporting information as required by the seizing 
+agency. The Attorney General and the Secretary of the Treasury, with 
+respect to matters within their respective jurisdiction, shall have the 
+authority to waive or reduce the bond requirement in any additional 
+category of cases where he or she determines that the posting of a bond 
+is not required in the interests of justice.
+    ``(c) Upon the filing of a claim pursuant to this section, the 
+customs officer shall transmit the claim, with a duplicate list and 
+description of the articles seized, to the United States attorney for a 
+district in which a forfeiture action could be filed pursuant to 
+section 1355(b) of title 28, United States Code, who shall proceed to a 
+condemnation of the merchandise or other property in the manner 
+prescribed in the Supplemental Rules for Certain Admiralty and Maritime 
+Claims.''
+    (b) Conforming Amendment.--Section 609 of the Tariff Act of 1930 
+(19 U.S.C. 1609) is amended by striking ``twenty'' and inserting 
+``30''.
+
+SEC. 102. JURISDICTION AND VENUE.
+
+    (a) Transmittal to the United States Attorney.--Section 610 of the 
+Tariff Act of 1930 (19 U.S.C. 1610) is amended by striking ``the 
+district in which the seizure was made'' and inserting ``a district in 
+which a forfeiture action could be filed pursuant to section 1355(b) of 
+title 28, United States Code''.
+    (b) Admiralty Rules.--The Supplemental Rules for Certain Admiralty 
+and Maritime Claims are amended--
+            (1) in rule E(3), by inserting the following at the end of 
+        paragraph (a): ``This provision shall not apply in forfeiture 
+        cases governed by 28 U.S.C. 1355 or any other statute providing 
+        for service of process outside of the district.''; and
+            (2) in rule C(2), by inserting the following after ``that 
+        it is within the district or will be during the pendency of the 
+        action.'': ``If the property is located outside of the 
+        district, the complaint shall state the statutory basis for the 
+        court's exercise of jurisdiction over the property''.
+
+SEC. 103. JUDICIAL REVIEW OF ADMINISTRATIVE FORFEITURES.
+
+    Section 609 of the Tariff Act of 1930 (19 U.S.C. 1609) is amended 
+by adding the following new subsection:
+    ``(d)(1) Where no timely claim to the seized property is filed, and 
+a declaration of forfeiture is entered pursuant to this section by the 
+seizing agency, the declaration shall be final and not subject to 
+judicial review under any other provision of law except as follows: If 
+a claimant, upon the filing of an action to set aside a declaration of 
+forfeiture under this section, establishes by a preponderance of the 
+evidence (A) that the seizing agency failed to take reasonable steps to 
+provide the claimant with notice of the forfeiture, and (B) that the 
+claimant had no actual notice of the forfeiture proceeding within the 
+period for filing a claim, the district court shall order that the 
+declaration of forfeiture be set aside pending forfeiture proceedings 
+in accordance with sections 602 et seq.
+    ``(2) The following shall be considered sufficient, but not 
+necessary, to satisfy the requirement of taking reasonable steps to 
+provide notice of the forfeiture:
+            ``(A) sending, by mail or commercial carrier, notice of the 
+        forfeiture to the place where the claimant resides at the time 
+        the notice is sent;
+            ``(B) serving notice of the forfeiture on the claimant's 
+        attorney of record in the forfeiture case or in a related 
+        criminal case.
+    ``(3) An action to set aside a declaration of forfeiture under this 
+section must be filed within 2 years of the last date of publication of 
+notice of the forfeiture of the property.''
+
+SEC. 104. JUDICIAL FORFEITURE OF REAL PROPERTY.
+
+    Section 610 of the Tariff Act of 1930 (19 U.S.C. 1610) is amended 
+by adding at the end the following sentence. ``Notwithstanding any 
+other provision of law, all forfeitures of real property and interests 
+in real property shall proceed as judicial forfeitures as provided in 
+this section.''
+
+SEC. 105. PRESERVATION OF ARRESTED REAL PROPERTY.
+
+    Rule E of the Supplemental Rules for Certain Admiralty and Maritime 
+Claims is amended by adding the following new subsection:
+            ``(10) Preservation of property.--Whenever property is 
+        attached or arrested pursuant to the provisions of Rule E(4)(b) 
+        that permit the marshal or other person having the warrant to 
+execute the process without taking actual possession of the property, 
+and the owner or occupant of the property is thereby permitted to 
+remain in possession, the court, on the motion of any party or on its 
+own motion, shall enter any order necessary to preserve the value of 
+the property, its contents, and any income derived therefrom, and to 
+prevent the destruction, removal or diminution in value of such 
+property, contents and income. If the order is made necessary by 
+exigent circumstances, or if the order would not interfere with the 
+owner or occupant's use or enjoyment of the property, it may be entered 
+ex parte. Otherwise the order may be entered only after notice and an 
+opportunity to be heard.''
+
+SEC. 106. AMENDMENT TO FEDERAL TORT CLAIMS ACT EXCEPTIONS.
+
+    Section 2680(c) of title 28, United States Code, is amended to read 
+as follows:
+    ``(c) Any claim arising in respect of the assessment or collection 
+of any tax or customs duty, or the detention of any goods, merchandise, 
+or other property by any law enforcement officer performing any 
+official law enforcement function, except that the provisions of this 
+chapter and section 1346(b) of this title shall apply to any claim 
+based on the loss of, or negligent destruction or injury to, goods, 
+merchandise, or other tangible property while in the possession, 
+custody or control of any law enforcement agency, if the property was 
+seized for the purpose of forfeiture and is neither forfeited nor the 
+subject of a pending forfeiture proceeding. For purposes of this 
+subsection, the definition of ``law enforcement officer'' in subsection 
+(h) shall apply.''
+
+SEC. 107. PRE-JUDGMENT INTEREST.
+
+    (a) In General.--Section 2465 of title 28, United States Code, is 
+amended by--
+            (1) designating the present matter as subsection (a); and
+            (2) inserting the following new subsection:
+    ``(b) Interest.--Upon entry of judgment for the claimant in any 
+proceeding to condemn or forfeit property seized or arrested under any 
+Act of Congress, the United States shall be liable for post-judgment 
+interest as set forth in section 1961 of this title. The United States 
+shall not be liable for pre-judgment interest, except that in cases 
+involving currency or other negotiable instruments, the United States 
+shall disgorge to the claimant any funds representing interest actually 
+paid to the United States from the date of seizure or arrest of the 
+property that resulted from the investment of the property in an 
+interest-bearing account or instrument. The United States shall not be 
+required to disgorge the value of any intangible benefits nor make any 
+other payments to the claimant not specifically authorized by this 
+subsection.''
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply to any judgment entered after the date of enactment of this Act.
+
+SEC. 108. SEIZURE WARRANT REQUIREMENT.
+
+    (a) In General.--Section 981(b) of title 18, United States Code, is 
+amended to read as follows--
+    ``(b)(1) Any property subject to forfeiture to the United States 
+under this section may be seized by the Attorney General. In addition, 
+in the case of property involved in a violation investigated by the 
+Secretary of the Treasury or the United States Postal Service, the 
+property may also be seized by the Secretary of the Treasury or the 
+Postal Service, respectively.
+    ``(2) Seizures pursuant to this section shall be made pursuant to a 
+warrant obtained in the same manner as provided for a search warrant 
+under the Federal Rules of Criminal Procedure, except that a seizure 
+may be made without a warrant, if--
+            ``(A) a complaint for forfeiture has been filed in the 
+        district court and the court has issued an arrest warrant in 
+        rem pursuant to the Supplemental Rules for Certain Admiralty 
+        and Maritime Claims;
+            ``(B) the seizure is made pursuant to a lawful arrest or 
+        search, or if there is probable cause to believe that the 
+        property is subject to forfeiture and another exception to the 
+        Fourth Amendment warrant requirement would apply; or
+            ``(C) the property was lawfully seized by a state or local 
+        law enforcement agency and has been transferred to a Federal 
+        agency in accordance with State law.''
+    ``(3) Notwithstanding the provisions of rule 41(a), Federal Rules 
+of Criminal Procedure, a seizure warrant may be issued pursuant to this 
+subsection by a judicial officer in any district in which a forfeiture 
+action against the property may be filed under section 1355(b) of title 
+28, United States Code, and executed in any district in which the 
+property is found. Any motion for the return of property seized under 
+this section shall be filed in the district in which the seizure 
+warrant was issued.
+    ``(4) In the event of a seizure pursuant to paragraph (2) of this 
+subsection, proceedings under subsection (d) of this section or an 
+applicable criminal forfeiture statute shall be instituted as soon as 
+practicable, taking into account the status of any criminal 
+investigation to which the seizure may be related.
+    ``(5) If any person is arrested or charged in a foreign country in 
+connection with an offense that would give rise to the forfeiture of 
+property in the United States under this section or under the 
+Controlled Substances Act, the Attorney General may apply to any 
+Federal judge or magistrate judge in the district where the property is 
+located for an ex parte order restraining the property subject to 
+forfeiture for not more than 30 days, except that the time may be 
+extended for good cause shown at a hearing conducted in the manner 
+provided in rule 43(e), Federal Rules of Civil Procedure. The 
+application for the restraining order shall set forth the nature and 
+circumstances of the foreign charges and the basis for belief that the 
+person arrested or charged has property in the United States that would 
+be subject to forfeiture, and shall contain a statement that the 
+restraining order is needed to preserve the availability of property 
+for such time as is necessary to receive evidence from the foreign 
+country or elsewhere in support of probable cause for the seizure of 
+the property under this subsection.
+    ``(6) Any owner of property seized pursuant to this section may 
+obtain release of the property pending resolution of the forfeiture 
+action upon payment of a substitute res in an amount equal to the 
+appraised value of the property, unless the seized property--
+            ``(A) is contraband,
+            ``(B) is evidence of a violation of the law,
+            ``(C) by reason of design or other characteristic, is 
+        particularly suited for use in illegal activities, or
+            ``(D) is likely to be used to commit additional criminal 
+        acts if returned to the owner.
+The substitute res must be in the form of a traveler's check, money 
+order, cashier's check or irrevocable letter of credit made payable to 
+the seizing agency. If such substitute res is provided, the court or in 
+the case of administrative forfeiture, the seizing agency, shall have 
+jurisdiction to proceed with the forfeilture of the substitute res in 
+lieu of the property. If, at the conclusion of the forfeiture 
+proceeding, the property is declared forfeited, the owner shall 
+surrender the property and recover the substitute res, unless the 
+Attorney General or the seizing agency elects to retain the substitute 
+res in lieu of the property.''
+    (b) Drug Forfeitures.--Section 511(b) of the Controlled Substances 
+Act (21 U.S.C. 881(b)) is amended to read as follows:
+    ``(b) Any property subject to forfeiture to the United States under 
+this section may be seized by the Attorney General in the manner set 
+forth in section 981(b) of title 18, United States Code.
+    ``(c) Conforming Amendment.--Section 518(d) of the Controlled 
+Substances Act (21 U.S.C. 888(d)) is repealed.''
+
+                     TITLE II--JUDICIAL FORFEITURES
+
+SEC. 201. TRIAL PROCEDURE FOR CIVIL FORFEITURE.
+
+    (a) In General.--Chapter 46 of title 18, United States Code, is 
+amended by inserting the following new section:
+``Sec. 987. Judicial forfeiture proceedings
+    ``(a) Complaint.--The Attorney General may file a civil forfeiture 
+complaint in the manner set forth in the Supplemental Rules for Certain 
+Admiralty and Maritime Claims. In cases where the applicable law 
+authorizes the institution of civil and criminal forfeiture proceedings 
+in connection with an offense, the Attorney General shall have the 
+discretion to determine whether to file a civil complaint under this 
+section, a criminal complaint, indictment or information including a 
+forfeiture count in accordance with the applicable criminal forfeiture 
+statute, or both civil and criminal actions.
+    ``(b) Time for Filing Complaint.--(1) If property is seized and a 
+claim is filed pursuant to section 608 of the Tariff Act of 1930 (19 
+U.S.C. 1608), or if the seizure is referred to the Attorney General 
+pursuant to section 610 (19 U.S.C. 1610), the Attorney General shall 
+determine as soon as practicable whether a forfeiture action should be 
+instituted.
+    ``(2) If the Attorney General determines not to institute a 
+forfeiture action, he or she shall so advise the seizing agency. A 
+decision not to institute a forfeiture action shall not preclude the 
+seizing agency from transferring or returning the seized property to a 
+State or local law enforcement authority for appropriate forfeiture 
+action in accordance with State law. Nor shall a decision not to 
+institute a forfeiture action imply that the action of the seizing 
+agency in seizing the property was in any way improper.
+    ``(3) If the Attorney General determines that a forfeiture action 
+should be instituted, he or she shall institute such action as soon as 
+practicable, taking into account the status of any criminal 
+investigation to which the forfeiture action may be related.
+    ``(c) Claim and Answer.--A claim and answer to a civil forfeiture 
+complaint shall be filed in accordance with rule C of the Supplemental 
+Rules for Certain Admiralty and Maritime Claims and shall set forth the 
+nature and extent of the claimant's ownership interest in the property, 
+the time and circumstances of the claimant's acquisition of the 
+interest in the property, and any additional facts supporting the 
+claimant's standing to file a claim challenging the forfeiture action.
+    ``(d) Standing.--If the Government, at the time of trial or at any 
+time prior to trial, files a motion to dismiss the claim for lack of 
+standing, the court shall conduct a hearing, in the manner provided in 
+rule 43(e), Federal Rules of Civil Procedure, and shall determine 
+whether the claimant has established, by a preponderance of the 
+evidence, that he or she has the requisite ownership interest in the 
+property, as defined in section 983(c), to challenge the forfeiture 
+action. If the court determines that a claimant lacks standing, it 
+shall dismiss the claim with prejudice and enter a final judgment as to 
+that claimant.
+    ``(e) Burden of Proof.--At trial in a civil forfeiture case, the 
+Government shall have the initial burden of proving that the property 
+is subject to forfeiture by a preponderance of the evidence. If the 
+Government proves that the property is subject to forfeiture, the 
+claimant shall have the burden of proving by a preponderance of the 
+evidence that he or she has an interest in the property that is not 
+forfeitable under section 983 of this title. If the Government's theory 
+of forfeiture is that the property facilitated the commission of a 
+criminal offense, the Government must establish that there was a 
+substantial connection between the property and the offense.
+    ``(f) Affirmative Defenses.--The claimant shall set forth all 
+affirmative defenses, including constitutional defenses, in his or her 
+answer, as provided in rule 8, Federal Rules of Civil Procedure, and 
+shall comply with discovery requests regarding such defenses in advance 
+of trial.
+    ``(g) Motion To Suppress Seized Evidence.--At any time after a 
+claim and answer are filed, a claimant with standing to contest the 
+seizure of the property may move to suppress such property in 
+accordance with the normal rules regarding the suppression of evidence. 
+If the claimant prevails on such motion, the property shall not be 
+admitted into evidence as to that claimant at the forfeiture trial. 
+However, a finding that property should be suppressed shall not bar the 
+forfeiture of the property based on evidence obtained independently 
+before or after the seizure.
+    ``(h) Use of Hearsay at Pre-trial Hearings.--At any pre-trial 
+hearing under this section, the court may accept and consider hearsay 
+otherwise inadmissible under the Federal Rules of Evidence. The court 
+shall not require the government to reveal the identity of any 
+confidential informant at a pre-trial hearing if there are sufficient 
+indicia of reliability regarding such testimony to allow the statement 
+of such informant to be related by a law enforcement officer.
+    ``(i) Adverse Inferences.--The assertion by the claimant of any 
+fifth amendment privilege against compelled testimony in the course of 
+the forfeiture proceeding, including pre-trial discovery, shall give 
+rise to an adverse inference regarding the matter on which such 
+privilege is asserted. The Government may rely on such adverse 
+inference in support of its burden to establish the forfeitability of 
+the property and in response to any affirmative defense. However, the 
+government may not rely solely on such adverse inferences to satisfy 
+its burden of proof.
+    ``(j) Stipulations.--Notwithstanding the claimant's offer to 
+stipulate to the forfeitability of the property, the Government shall 
+be entitled to present evidence to the finder of fact on that issue 
+before the claimant presents any evidence in support of any affirmative 
+defense.
+    ``(k) Preservation of Property Subject to Forfeiture.--The court, 
+before or after the filing of a forfeiture complaint and on the 
+application of the Government, may:
+            ``(1) enter any restraining order or injunction pursuant to 
+        section 413(3) of the Controlled Substances Act (21 U.S.C. 
+        853(e));
+            ``(2) require the execution of satisfactory performance 
+        bonds;
+            ``(3) create receiverships;
+            ``(4) appoint conservators, custodians, appraisers, 
+        accountants or trustees; or
+            ``(5) take any other action to seize, secure, maintain, or 
+        preserve the availability of property subject to forfeiture 
+        under this section.
+    ``(l) Release of Property To Pay Criminal Defense Costs.--
+            ``(1) A person charged with a criminal offense may apply 
+        for the release of property seized for forfeiture to pay the 
+        necessary expenses of the person's criminal defense. Such 
+        application shall be filed with the court where the forfeiture 
+        proceeding is pending.
+            ``(2) When an application is filed pursuant to paragraph 
+        (1), the burden shall first be upon the applicant to establish 
+        that he has no access to other assets adequate for the payment 
+        of criminal defense counsel, and that the interest in property 
+        to be released is not subject to any claim other than the 
+        forfeiture. The Government shall have an opportunity to cross-
+        examine the applicant and any witnesses he or she may present 
+        on this issue.
+            ``(3) If the court determines that the applicant has met 
+        the requirements set forth in paragraph (2), the court shall 
+        hold a probable cause hearing at which the applicant shall have 
+        the burden of proving the absence of probable cause for the 
+        forfeiture of the property. If the court finds that there is no 
+        probable cause for the forfeiture, it shall order the release 
+        of the assets for which probable cause is lacking. Otherwise, 
+        it shall dismiss the application. The court shall not consider 
+        any affirmative defenses to the forfeiture at the probable 
+        cause hearing.
+    ``(m) Excessive Fines.--At the conclusion of the trial and 
+following the entry of a verdict of forfeiture, the claimant may 
+petition the court to determine whether the excessive fines clause of 
+the eighth amendment applies, and if so, whether forfeiture is 
+excessive. The claimant shall have the burden of establishing that a 
+forfeiture is excessive by a preponderance of the evidence at a hearing 
+conducted in the manner provided in rule 43(e), Federal Rules of Civil 
+Procedure, by the court without a jury. If the court determines that 
+the forfeiture is excessive, it shall adjust the forfeiture to the 
+extent necessary to avoid the Constitutional violation.
+    ``(n) Applicability.--This section shall apply to any judicial 
+forfeiture action brought pursuant to this title, the Controlled 
+Substances Act, or the Immigration and Naturalization Act of 1952. 
+Section 615 of the Tariff Act of 1930 (19 U.S.C. 1615) shall not apply 
+to forfeitures under this section, nor shall this section apply to 
+forfeitures under the customs laws.
+    ``(o) Abatement.--A civil forfeiture action or judgment under this 
+or any other provision of federal law shall not abate because of the 
+death of any person.''
+    (b) Rebuttable Presumptions.--Section 981 of title 18, United 
+States Code, is amended by adding the following new subsection:
+    ``(k) Rebuttable Presumptions.--(1) At the trial of an action 
+brought pursuant to subsection (a)(1)(B), there is a presumption, 
+governed by Rule 301 of the Federal Rules of Evidence, that the 
+property is subject to forfeiture if the United States establishes, by 
+a preponderance of the evidence, that such property was acquired during 
+a period of time when the person who acquired the property was engaged 
+in an offense against a foreign nation described in subsection 
+(a)(1)(B) or within a reasonable time after such period, and there was 
+no likely source for such property other than such offense.
+    ``(2) At the trial of an action brought pursuant to subsection 
+(a)(1)(A), there is a presumption, governed by rule 301 of the Federal 
+Rules of Evidence, that the property was involved in a violation of 
+section 1956 or 1957 of this title if the United States establishes, by 
+a preponderance of the evidence, any three of the following factors:
+            ``(A) the property constitutes or is traceable to more than 
+        $10,000 that has been or was intended to be transported, 
+        transmitted or transferred to or from a major drug-transit 
+        country, a major illicit drug producing country, or a major 
+        money laundering country, as those terms are determined 
+        pursuant to sections 481(e) and 490(h) of the Foreign 
+        Assistance Act of 1961 (22 U.S.C. 2291(e) and 2291j(h));
+            ``(B) the transaction giving rise to the forfeiture 
+        occurred in part in a foreign country whose bank secrecy laws 
+        have rendered the United States unable to obtain records 
+        relating to the transaction by judicial process, treaty or 
+        executive agreement;
+            ``(C) a person more than minimally involved in the 
+        transaction giving rise to the forfeiture action (i) has been 
+        convicted in any State, Federal, or foreign jurisdiction of a 
+        felony involving money laundering or the manufacture, 
+        importation, sale or distribution of a controlled substance, or 
+        (ii) is a fugitive from prosecution for such offense; or
+            ``(D) the transaction giving rise to the forfeiture action 
+        was conducted by, to or through a shell corporation not engaged 
+        in any legitimate business activity in the United States.
+    ``(3) For the purposes of this paragraph, `shell corporation' means 
+any corporation that does not conduct any ongoing and significant 
+commercial or manufacturing business or any other form of commercial 
+operation.
+    ``(4) The enumeration of presumptions in this subsection shall not 
+preclude the development of other judicially created presumptions.''
+    (c) Conforming Amendment.--Section 274(b)(5) of the Immigration and 
+Naturalization Act (8 U.S.C. 1324(b)(5)) is amended--
+            ``(1) by striking ``the burden of proof shall lie upon such 
+        claimant, except that probable cause shall be first shown for 
+        the institution of such suit or action. In determining whether 
+        probable cause exists,''; and
+            ``(2) by adding at the end the following sentence: ``The 
+        procedures set forth in chapter 46 of title 18, United States 
+        Code, shall govern judicial forfeiture actions under this 
+        section.''
+    (d) Chapter Analysis.--The chapter analysis for chapter 46 of title 
+18, United States Code, is amended by inserting the following at the 
+appropriate place:
+
+``987. Judicial forfeiture proceedings.''
+
+SEC. 202. UNIFORM INNOCENT OWNER DEFENSE.
+
+    (a) In General.--Chapter 46 of title 18, United States Code, is 
+amended by inserting after section 982 the following new section:
+``Sec. 983. Innocent owners
+    ``(a) An innocent owner's interest in property shall not be 
+forfeited in any judicial action under any civil forfeiture provision 
+of this title, the Controlled Substances Act, or the Immigration and 
+Naturalization Act of 1952.
+    ``(b)(1) With respect to a property interest in existence at the 
+time the illegal act giving rise to forfeiture took place, a person is 
+an innocent owner if he or she establishes, by a preponderance of the 
+evidence--
+            ``(A) that he or she did not know that the property was 
+        being used or was likely to be used in the commission of such 
+        illegal act, or
+            ``(B) that upon learning that the property was being used 
+        or was likely to be used in the commission of such illegal act, 
+        he or she promptly did all that reasonably could be expected to 
+        terminate or to prevent such use of the property.
+    ``(2) With respect to a property interest acquired after the act 
+giving rise to the forfeiture took place, a person is an innocent owner 
+if he or she establishes, by a preponderance of the evidence, that he 
+or she acquired the property as a bona fide purchaser for value who at 
+the time of the purchase did not know and was reasonably without cause 
+to believe that the property was subject to forfeiture. A purchaser is 
+``reasonably without cause to believe that the property was subject to 
+forfeiture'' if, in light of the circumstances, the purchaser did all 
+that reasonably could be expected to ensure that he or she was not 
+acquiring property that was subject to forfeiture.
+    ``(3) Notwithstanding any provision of this section, no person may 
+assert an ownership interest under this section in contraband or other 
+property that it is illegal to possess. In addition, except as set 
+forth in paragraph (2), no person may assert an ownership interest 
+under this section in the illegal proceeds of a criminal act, 
+irrespective of state property law.
+    ``(c) For the purposes of this section--
+            ``(1) an ``owner'' is a person with an ownership interest 
+        in the specific property sought to be forfeited, including but 
+        not limited to a lien, mortgage, recorded security device or 
+        valid assignment of an ownership interest. An owner does not 
+        include: (A) a person with only a general unsecured interest 
+        in, or claim against, the property or estate of another person; 
+        (B) a bailee; (C) a nominee who exercises no dominion or 
+        control over the property; or (D) a beneficiary of a 
+        constructive trust; and
+            ``(2) a person shall be considered to have known that his 
+        or her property was being used or was likely to be used in the 
+        commission of an illegal act if the government establishes the 
+        existence of facts and circumstances that should have created a 
+        reasonable suspicion that the property was being or would be 
+        used for an illegal purpose.
+    ``(d) If the court determines, in accordance with this section, 
+that an innocent owner had a partial interest in property otherwise 
+subject to forfeiture, or a joint tenancy or tenancy by the entirety in 
+such property, the court shall enter an appropriate order (1) severing 
+the property; (2) transferring the property to the government with a 
+provision that the government compensate the innocent owner to the 
+extent of his or her ownership interest once a final order of 
+forfeiture has been entered and the property has been reduced to liquid 
+assets, or (3) permitting the innocent owner to retain the property 
+subject to a lien in favor of the government to the extent of the 
+forfeitable interest in the property. To effectuate the purposes of 
+this subsection, a joint tenancy or tenancy by the entireties shall be 
+converted to a tenancy in common by order of the court, irrespective of 
+state law.
+    ``(e) If the person asserting a defense under subsection (b)(1) or 
+(b)(2) is a financial institution, as defined in section 20 of this 
+title, there shall be a presumption, governed by rule 301 of the 
+Federal Rules of Evidence, that the institution acted ``reasonably'' if 
+the institution establishes that it followed rigorous and regular 
+internal procedures relating to the approval of any loan or the 
+acquisition of any property interest in accordance with the standards 
+for due diligence in the lending industry. The presumption shall not 
+apply if the government establishes that the financial institution had 
+notice that the property was subject to forfeiture before it acquired 
+any interest in the property.''
+    (b) Striking Superseded Provisions.--(1) Section 981(a) of title 
+18, United States Code, is amended by--
+            (A) striking subsection (a)(2) and renumbering any 
+        subsections added by this Act accordingly; and
+            (B) striking ``Except as provided in paragraph (2), the'' 
+        and inserting ``The''.
+    (2) Sections 511(a) (4), (6) and (7) of the Controlled Substances 
+Act (21 U.S.C. 881(a) (4), (6) and (7)) are amended by striking ``, 
+except that'' and all that follows, each time it appears.
+    (3) Sections 2254(a) (2) and (3) of title 18, United States Code, 
+are amended by striking ``, except that'' and all that follows, each 
+time it appears.
+    (c) Conforming Amendment.--The chapter analysis for chapter 46 of 
+title 18, United States Code, is amended by inserting the following at 
+the appropriate place:
+
+``983. Innocent owners.''
+
+SEC. 203. STAY OF CIVIL FORFEITURE CASE.
+
+    (a) In General.--Section 981(g) of title 18, United States Code, is 
+amended to read as follows:
+    ``(g)(1) Upon the motion of the United States, the court shall stay 
+the civil forfeiture proceeding if it determines that civil discovery 
+or trial could adversely affect the government's ability to conduct a 
+related criminal investigation or the prosecution of a related criminal 
+case.
+    ``(2) Upon the motion of a claimant, the court shall stay the civil 
+forfeiture proceeding with respect to that claimant if it determines 
+that the claimant is the subject of a related criminal investigation or 
+case, that the claimant has standing to assert a claim in the civil 
+forfeiture proceeding, and that continuation of the forfeiture 
+proceeding may infringe upon the claimant's right against self-
+incrimination in the related investigation or case.
+    ``(3) With respect to the impact of civil discovery described in 
+paragraphs (1) and (2), the court may determine that a stay is 
+unnecessary if a protective order limiting discovery would protect the 
+interest of one party without unfairly limiting the ability of the 
+opposing party to pursue the civil case. In no case, however, shall the 
+court impose a protective order as an alternative to a stay if the 
+effect of such protective order would be to allow one party to pursue 
+discovery while the other party was substantially unable to do so.
+    ``(4) For the purposes of this subsection, ``a related criminal 
+case'' and ``a related criminal investigation'' mean an actual 
+prosecution or investigation in progress at the time the request for 
+the stay is made. In determining whether a criminal case or 
+investigation is ``related'' to a civil forfeiture proceeding, the 
+court shall consider the degree of similarity between the parties, 
+witnesses, facts and circumstances involved in the two proceedings 
+without requiring an identity with respect to any one or more factors.
+    ``(5) Any presentation to the court under this subsection that 
+involves an on-going criminal investigation shall be made by the 
+Government ex parte and under seal.
+    ``(6) Whenever a civil forfeiture proceeding is stayed pursuant to 
+this subsection, the court shall enter any order necessary to preserve 
+the value of the property or to protect the rights of lienholders or 
+other persons with an interest in the property while the stay is in 
+effect.
+    ``(7) A determination by the court that the claimant has standing 
+to request a stay pursuant to paragraph (2) shall apply only to the 
+provisions of this subsection and shall not preclude the Government 
+from objecting to the claimant's standing to the time of trial in 
+accordance with Section 987(d) of this title.
+    ``(8) An order imposing a stay pursuant to this subsection shall 
+expire in 180 days unless the court determines, at the end of such time 
+period, that there are compelling reasons why the stay should be 
+continued. An order renewing a stay shall be reviewed by the court 
+every 90 days unless the parties agree that such review is 
+unnecessary.''
+    (b) Drug Forfeitures.--Section 511(i) of the Controlled Substances 
+Act (21 U.S.C. 881(i)) is amended to read as follows:
+    ``(i) The provisions of section 981(g) of title 18, United States 
+Code, regarding the stay of the civil forfeiture proceeding shall apply 
+to forfeitures under this section.''
+    (c) Guidelines.--Within 180 days after the effective date of this 
+section, the Attorney General and the Secretary of the Treasury shall 
+jointly promulgate guidelines governing the preservation of the value 
+of property subject to forfeiture in a case that has been stayed 
+pursuant to section 511(i) of the Controlled Substances Act (21 U.S.C. 
+881(i)) or section 981(g) of title 18, United States Code. The 
+guidelines shall take into account the interests of both the Government 
+and the claimant in avoiding the depreciation, destruction or 
+dissipation of the property pending conclusion of the forfeiture 
+proceeding.
+
+SEC. 204. APPLICATION OF FORFEITURE PROCEDURES.
+
+    (a) In General.--Chapter 46 of title 18, United States Code, is 
+amended by adding the following section:
+``Sec. 988. Application of forfeiture procedures
+    ``(a) Civil Forfeitures.--Whenever a statute in this title provides 
+for the civil forfeiture of property without specifying the procedures 
+governing a judicial forfeiture action, the provisions of this chapter 
+relating to civil forfeitures shall apply.
+    ``(b) Criminal Forfeitures.--Whenever a statute in this title 
+provides for the criminal forfeiture of property without specifying the 
+procedures governing such forfeitures, the provisions of this chapter 
+relating to criminal forfeitures shall apply.''
+    (b) Conforming Amendment.--The chapter analysis for Chapter 46, of 
+title 18, United States Code, is amended by adding the following:
+
+``988. Application of Forfeiture Procedures.''
+
+SEC. 205. CIVIL INVESTIGATIVE DEMANDS.
+
+    (a) In General.--Chapter 46 of title 18, United States Code, is 
+amended by adding at the end of the following new section:
+``Sec. 985. Civil investigative demands
+    ``(a) For the purpose of conducting an investigation in 
+contemplation of any civil forfeiture proceedings, the Attorney General 
+may--
+            ``(1) administer oaths and affirmations;
+            ``(2) take evidence; and
+            ``(3) by subpoena, summon witnesses and require the 
+        production of any books, papers, correspondence, memoranda, or 
+        other records which the Attorney General deems relevant or 
+        material to the inquiry. Such subpoena may require the 
+        attendance of witnesses and the production of any such records 
+        from any place in the United States at any place in the United 
+        States designated by the Attorney General.
+    ``(b) Except as provided in this section, the procedures and 
+limitations that apply to civil investigative demands in subsections 
+(g), (h), and (j) of section 1968 of title 18, United States Code, 
+shall apply with respect to civil investigative demands issued under 
+this subsection. Process required by such subsections of section 1968 
+to be served upon `the custodian' shall be served on the Attorney 
+General. Failure to comply with an order of the court to enforce such 
+demand shall be punishable as civil or criminal contempt.
+    ``(c) In the case of a civil investigative demand for which the 
+return date is less than 5 days after the date of service, no person 
+shall be found in contempt for failure to comply by the return date if 
+such person files a petition under subsection (b) not later than 5 days 
+after the date of service.
+    ``(d) A civil investigative demand may be issued pursuant to this 
+section in furtherance of an investigation directed toward the 
+forfeiture of an asset at any time up to the filing of a civil 
+forfeiture complaint with respect to that asset, except that no demand 
+relating to a given asset may be served upon any person who files a 
+claim to that asset pursuant to section 1608 of title 19, United States 
+Code, once such claim is filed. Once a given asset is made the subject 
+of a civil forfeiture complaint, all further discovery regarding the 
+forfeiture of that asset shall proceed in accordance with the Federal 
+Rules of Civil Procedure. Investigation relating to the forfeiture of 
+assets not subject to a claim or to a forfeiture complaint may proceed 
+pursuant to this section at any time.
+    ``(e) In this section, `Attorney General' means any attorney for 
+the Government employed by the Department of Justice as defined by rule 
+54(c) of the Federal Rules of Criminal Procedure, and shall not include 
+an attorney, agent or other employee of any agency of the Department.''
+    (b) Conforming Amendment.--The chapter analysis for chapter 46 of 
+title 18, United States Code is amended by adding the following at the 
+appropriate place:
+
+``985. Civil investigative demands.''
+    (c) Obstruction of Civil Investigative Demand.--Section 1505 of 
+title 18, United States Code, is amended by inserting ``section 985 of 
+this title or'' before ``the Anti-trust Civil Process Act''.
+    (d) Right to Financial Privacy Act Amendment.--Section 
+1120(b)(1)(A) of the Right to Financial Privacy Act (12 U.S.C. 
+3420(b)(1)(A)) is amended by inserting ``or civil investigative 
+demand'' after ``a grand jury subpoena''.
+    (e) Fair Credit Reporting Act Amendment.--Paragraph (1) of section 
+604 of the Fair Credit Reporting Act (15 U.S.C. 1681b) is amended by 
+striking ``or'' and inserting ``, or a civil investigative demand'' 
+after ``grand jury''.
+
+SEC. 206. ACCESS TO RECORDS IN BANK SECRECY JURISDICTIONS
+
+    Section 986 of title 18, United States Code, is amended by adding 
+the following new subsection:
+
+                   ``access to records located abroad
+
+    ``(d) In any civil forfeiture case, or in any ancillary proceeding 
+in any criminal forfeiture case governed by section 413(n) of the 
+Controlled Substances Act (21 U.S.C. 853(n)), where--
+            ``(1) financial records located in a foreign country may be 
+        material (A) to any claim or to the ability of the government 
+        to respond to such claim, or (B) in a civil forfeiture case, to 
+        the Government's ability to establish the forfeitability of the 
+        property; and
+            ``(2) it is within the capacity of the claimant to waive 
+        his or her rights under such secrecy laws, or to obtain the 
+        records him or herself, so that the records can be made 
+        available,
+the refusal of the claimant to provide the records in response to a 
+discovery request or take the action necessary otherwise to make the 
+records available shall result in the dismissal of the claim with 
+prejudice. This subsection shall not affect the claimant's rights to 
+refuse production on the basis of any privilege guaranteed by the 
+Constitution or Federal laws of the United States.''
+
+SEC. 207. ACCESS TO OTHER RECORDS.
+
+    Section 6103(i)(1) of the Internal Revenue Code (26 U.S.C. 
+6103(i)(1)) is amended--
+            (1) in subparagraph (A)(i) by inserting ``or related civil 
+        forfeiture'' after ``enforcement of a specifically designated 
+        Federal criminal statute''; and
+            (2) in subparagraph (B)(iii) by inserting ``or civil 
+        forfeiture investigation or proceeding'' after ``Federal 
+        criminal investigation or proceeding''.
+
+SEC. 208. DISCLOSURE OF GRAND JURY INFORMATION TO FEDERAL PROSECUTORS.
+
+    Section 3322(a) of title 18, United States Code, is amended--
+            (1) by striking ``civil forfeiture under section 981 of 
+        title 18, United States Code, of property described in section 
+        981(a)(1)(C) of such title'' and inserting ``any civil 
+        forfeiture provision of Federal law''; and
+            (2) by striking ``concerning a banking law violation''.
+
+SEC. 209. CURRENCY FORFEITURES.
+
+    Section 511 of the Controlled Substances Act (21 U.S.C. 881) is 
+amended by inserting the following new subsection:
+
+                         ``currency forfeitures
+
+    ``(m) At the trial of an action brought pursuant to subsection 
+(a)(6), if the Government establishes by a preponderance of the 
+evidence that the property subject to forfeiture--
+            ``(1) is currency or other monetary instruments that was 
+        found in close proximity to a measurable quantity of any 
+        controlled substance; or
+            ``(2) is currency or other monetary instruments in excess 
+        of $10,000 that was being transported at an airport or other 
+        port of entry, on an interstate highway, or on the coastal 
+        waters of the United States, and the person in possession of 
+        the property disclaims knowledge or ownership of the property, 
+        or offers an explanation for his or her possession of the 
+        property that is false,
+there shall be a presumption, governed by rule 301 of the Federal Rules 
+of Evidence, that the property is the proceeds of a violation of the 
+Controlled Substances Act. As provided in rule 301 of the Federal Rules 
+of Evidence, the burden of proof shall at all times be on the United 
+States to establish that the property is subject to forfeiture.''
+
+               TITLE III--PROPERTY SUBJECT TO FORFEITURE
+
+SEC. 301. FORFEITURE OF PROCEEDS OF FEDERAL OFFENSES.
+
+    (a) Civil Forfeiture.--Section 981(a)(1) of title 18, United States 
+Code, is amended--
+            (1) in subparagraph (C) by striking ``of section 215'' and 
+        all that follows up to the period and inserting ``of any 
+        offense in this title or a conspiracy to commit such offense''; 
+        and
+            (2) by striking subparagraphs (D), (E) and (F).
+    (b) Criminal Forfeiture.--Section 982(a) of title 18, United States 
+Code, is amended--
+            (1) in paragraph (2), by striking ``violate--'' and 
+        subparagraphs (A) and (B) and inserting ``violate any offense 
+        in this title,''; and
+            (2) by striking paragraphs (3), (4), (5) and the first 
+        paragraph (6), enacted by Public Law 104-191.
+
+SEC. 302. UNIFORM DEFINITION OF ``PROCEEDS''.
+
+    (a) Civil Forfeiture.--Section 981(a) of title 18, United States 
+Code, is amended--
+            (1) in paragraph (1), by striking ``gross receipts'' and 
+        ``gross proceeds'' wherever those terms appear and inserting 
+        ``proceeds''; and
+            (2) by adding the following after paragraph (2):
+            ``(3) In this section, `proceeds' means any and all 
+        property of any kind obtained, directly or indirectly, at any 
+        time as the result of the commission of the offense giving rise 
+        to forfeiture, and any property traceable thereto. `Proceeds' 
+        is not limited to the net gain or profit realized from the 
+        commission of the offense.''
+    (b) Criminal Forfeiture.--Section 982 of title 18, United States 
+Code, is amended--
+            (1) in subsection (a), by striking ``gross receipts'' and 
+        ``gross proceeds'' wherever those terms appear and inserting 
+        ``proceeds''; and
+            (2) by adding the following paragraph to the end of 
+        subsection (b):
+            ``(3) In this section, `proceeds' means any and all 
+        property of any kind obtained, directly or indirectly, at any 
+        time as the result of the commission of the offense giving rise 
+        to forfeiture, and any property traceable thereto. Where the 
+        offense involves a scheme, a conspiracy, or a pattern of 
+        criminal activity, `proceeds' includes any and all property 
+        obtained from the entire course of conduct constituting such 
+        scheme, conspiracy, or pattern. `Proceeds' is not limited to 
+        the net gain or profit realized from the commission of the 
+        offense.''
+    (c) Controlled Substances.--(1) Section 511 of the Controlled 
+Substances Act (21 U.S.C. 881) is amended by adding the following new 
+subsection:
+    ``(k) In this section, `proceeds' means any and all property of any 
+kind obtained, directly or indirectly, at any time as the result of the 
+commission of the offense giving rise to forfeiture, and any property 
+traceable thereto. `Proceeds' is not limited to the net gain or profit 
+realized from the commission of the offense.''
+    (2) Section 413 of the Controlled Substances Act (21 U.S.C. 853) is 
+amended by adding the following new subsection:
+
+                        ``definition of proceeds
+
+    ``(q) In this section, `proceeds' means any and all property of any 
+kind obtained at any time, directly or indirectly, as the result of the 
+commission of the offense giving rise to forfeiture, and any property 
+traceable thereto. Where the offense involves a scheme, a conspiracy, 
+or a pattern of criminal activity, `proceeds' includes any and all 
+property obtained from the entire course of conduct constituting such 
+scheme, conspiracy, or pattern. `Proceeds' is not limited to the net 
+gain or profit realized from the commission of the offense.''
+    (d) Rico.--Subsection 1963(a) of title 18, United States Code, is 
+amended by adding the following at the end: ``In this section, 
+`proceeds' means any and all property obtained from the entire pattern 
+of racketeering activity or unlawful debt collection and is not limited 
+to net profits.''
+
+SEC. 303. FORFEITURE OF FIREARMS USED IN CRIMES OF VIOLENCE AND 
+              FELONIES.
+
+    (a) Civil Forfeiture.--Section 981(a)(1) of title 18, United States 
+Code, is amended by inserting after subparagraph (C) the following:
+                    ``(D) Any firearm (as defined in section 921(a)(3) 
+                of this title) used or intended to be used to commit or 
+                to facilitate the commission of any crime of violence 
+                (as defined in section 16 of this title) or any felony 
+                under Federal law.''
+    (b) Criminal Forfeiture.--Section 982(a) of title 18, United States 
+Code, is amended by inserting after subparagraph (2) the following:
+            ``(3) The court, in imposing a sentence on a person 
+        convicted of any crime of violence (as defined in section 16 of 
+        this title) or any felony under Federal law, shall order that 
+        the person forfeit to the United States any firearm (as defined 
+        in section 921(a)(3) of this title) used or intended to be used 
+        to commit or to facilitate the commission of the offense.''
+    (c) Disposal of Forfeited Property.--Section 981(c) of title 18, 
+United States Code, is amended by adding at the end the following 
+sentence: ``Any firearm forfeited pursuant to subsection (a)(1)(D) or 
+section 982(a)(3) of this title shall be disposed of by the seizing 
+agency in accordance with law.''
+    (d) Authority To Forfeit Property Under Section 924(d).--Section 
+924(d) of title 18, United States Code, is amended by adding the 
+following new paragraph:
+            ``(4) Whenever any firearm is subject to forfeiture under 
+        this section because it was involved in or used in a violation 
+        of subsection (c), the Secretary of the Treasury shall have the 
+        authority to seize and forfeit, in accordance with the 
+        procedures of the applicable forfeiture statute, any property 
+        otherwise forfeitable under the laws of the United States that 
+        was involved in or derived from the crime of violence or drug 
+        trafficking crime described in subsection (c) in which the 
+        forfeited firearm was used or carried.''
+    (e) 120-Day Rule for Administrative Forfeiture.--Section 924(d)(1) 
+of title 18, United States Code, is amended by adding the following 
+after the last sentence: ``If the Government institutes an 
+administrative forfeiture action within the 120-day period, and a claim 
+is then filed that requires that a judicial forfeiture action be filed 
+in Federal court, the Government must file the judicial action within 
+120 days of the filing of the claim. The time during which any related 
+criminal indictment or information is pending shall not be counted in 
+calculating either of the 120-day periods referred to in this 
+subsection.''
+
+SEC. 304. FORFEITURE OF PROCEEDS TRACEABLE TO FACILITATING PROPERTY IN 
+              DRUG CASES.
+
+    (a) Conveyances.--Section 511(a)(4) of the Controlled Substances 
+Act (21 U.S.C. 881(a)(4)) is amended--
+            (1) by inserting ``, and any property traceable to such 
+        conveyances'' after ``property described in paragraph (1), (2), 
+        or (9)'';
+            (2) in subparagraph (A) by inserting ``, and no property 
+        traceable to such conveyance,'' before ``shall be forfeited''; 
+        and
+            (3) in subparagraphs (B) and (C) by inserting ``and no 
+        property traceable to such conveyance'' before ``shall be 
+        forfeited''.
+    (b) Real Property.--Section 511(a)(7) of the Controlled Substances 
+Act (21 U.S.C. 881(a)(7)) is amended by inserting ``, and any property 
+traceable to such property'' after ``one year's imprisonment''.
+    (c) Negotiable Instruments and Securities.--Section 511(a)(6) of 
+the Controlled Substances Act (21 U.S.C. 881(a)(6)) is amended by 
+inserting ``, and any property traceable to such property'' after 
+``this subchapter'' the second time it appears.
+
+SEC. 305. FORFEITURE FOR ALIEN SMUGGLING.
+
+    (a) Criminal Forfeiture Authority.--Section 982(a) of title 18, 
+United States Code, is amended--
+            (1) by redesignating the second paragraph (6) as paragraph 
+        (7);
+            (2) by inserting ``sections 274(a), 274A(a)(1) or 
+        274A(a)(2) of the Immigration and Nationality Act of 1952 (8 
+        U.S.C. 1324(a), 1324A(a)(1) and 1324A(a)(2)),'' before 
+        ``section 1425'' the first time it appears;
+            (3) in subparagraph (A)(i), by striking ``subsection (a)'' 
+        and inserting ``the offense''; and
+            (4) in subparagraph (A)(ii) (I) and (II), by striking 
+        ``subsection (a)'' through ``of this title'' and inserting 
+        ``the offense''.
+    (b) Civil Forfeiture.--Section 274(b) of the Immigration and 
+Nationality Act of 1952 (8 U.S.C. 1324(b)) is amended--
+            (1) by amending paragraphs (1) and (2) to read as follows:
+    ``(b) Seizure and Forfeiture.--(1) The following property shall be 
+subject to seizure and forfeiture:
+            ``(A) any conveyance, including any vessel, vehicle, or 
+        aircraft, which has been or is being used in the commission of 
+        a violation of subsection (a); and
+            ``(B) any property, real or personal, (i) that constitutes, 
+        or is derived from or is traceable to the proceeds obtained 
+        directly or indirectly from the commission of a violation of 
+        subsection (a), or (ii) that is used to facilitate, or is 
+        intended to be used to facilitate, the commission of a 
+        violation of subparagraph (a)(1)(A).
+    ``(2) Any property subject to forfeiture to the United States under 
+this section may be seized by the Attorney General in the manner set 
+forth in section 981(b) of title 18, United States Code.''; and
+            (2) in paragraphs (4) and (5) by striking ``a conveyance'' 
+        and ``conveyance'' each place the phrase or word appears and 
+        inserting ``property''.
+
+SEC. 306. FORFEITURE OF PROCEEDS OF CERTAIN FOREIGN CRIMES.
+
+    Section 981(a)(1)(B) of title 18, United States Code, is amended 
+by--
+            (1) inserting ``(i)'' after ``against a foreign nation 
+        involving''; and
+            (2) inserting ``(ii) any other conduct described in section 
+        1956(c)(7)(B),'' after ``(as such term is defined for purposes 
+        of the Controlled Substances Act)''.
+
+SEC. 307. FORFEITURE OF PROPERTY USED TO FACILITATE FOREIGN DRUG 
+              CRIMES.
+
+    Section 981(a)(1)(B) of title 18, United States Code, is amended by 
+inserting ``, or any property used to facilitate an offense described 
+in subparagraph (i)'' at the end before the period.
+
+SEC. 308. FORFEITURE FOR VIOLATIONS OF SECTION 6050I AND 1960.
+
+    (a) Sections 981(a)(1)(A) and 982(a)(1) of title 18, United States 
+Code, are amended by inserting ``, or of section 6050I of the Internal 
+Revenue Code of 1986 (26 U.S.C. 6050I)'' after ``of title 31''.
+    (b) Section 981(a)(1)(A) of title 18, United States Code, is 
+amended by striking ``or 1957'' and inserting ``, 1957 or 1960''.
+
+SEC. 309. CRIMINAL FORFEITURE FOR MONEY LAUNDERING CONSPIRACIES.
+
+    Section 982(a)(1) of title 18, United States Code, is amended by 
+inserting ``, or a conspiracy to commit any such offense'' after ``of 
+this title''.
+
+SEC. 310. ARCHAEOLOGICAL RESOURCES PROTECTION ACT.
+
+    Section 8(b) of the Archaeological Resources Protection Act of 1979 
+(16 U.S.C. 470gg(b)) is amended by--
+            (1) inserting ``all proceeds derived directly or indirectly 
+        from such violation or any property traceable thereto,'' before 
+        ``and all vehicles'' in the unnumbered paragraph;
+            (2) inserting ``proceeds,'' before ``vehicles'' in 
+        paragraph (3); and
+            (3) inserting the following at the end of the subsection: 
+        ``If a forfeiture count is included within an indictment in 
+        accordance with the Federal Rules of Criminal Procedure, and 
+        the defendant is convicted of the offense giving rise to the 
+        forfeiture, the forfeiture may be ordered as part of the 
+        criminal sentence in accordance with the procedures for 
+        criminal forfeitures in chapter 46 of title 18, United States 
+        Code. Otherwise, the forfeiture shall be civil in nature in 
+        accordance with the procedures for civil forfeiture in said 
+        chapter 46 of title 18.''
+
+SEC. 311. FORFEITURE OF INSTRUMENTALITIES OF TERRORISM, TELEMARKETING 
+              FRAUD, AND OTHER OFFENSES.
+
+    (a) Civil Forfeiture.--Section 981(a)(1) of title 18, United States 
+Code, is amended by adding the following subparagraphs:
+            ``(E)(i) Any computer, photostatic reproduction machine, 
+        electronic communications device or other material, article, 
+        apparatus, device or thing made, possessed, fitted, used or 
+        intended to be used on a continuing basis to commit a violation 
+        of sections 513, 514, 1028 through 1032, and 1341, 1343 and 
+        1344 of this title, or a conspiracy to commit such offense, and 
+        any property traceable to such property.
+            ``(ii) Any conveyance used on two or more occasions to 
+        transport the instrumentalities used in the commission of a 
+        violation of sections 1028 and 1029 of this title, or a 
+        conspiracy to commit such offense, and any property traceable 
+        to such conveyance.
+            ``(F) Any conveyance, chemicals, laboratory equipment, or 
+        other material, article, apparatus, device or thing made, 
+        possessed, fitted, used or intended to be used to commit--
+                    ``(i) an offense punishable under Chapter 113B of 
+                this title (relating to terrorism);
+                    ``(ii) a violation of the National Firearms Act (26 
+                U.S.C. chapter 53);
+                    ``(iii) a violation of any of the following 
+                sections of the federal explosives laws: subsections 
+                (a) (1) and (3), (b) through (d), and (h)(1) of section 
+                842, and subsections (d) through (m) of section 844; or
+                    ``(iv) any other offense enumerated in section 
+                2339A(a) of this title;
+        or a conspiracy to commit any such offense, and any property 
+        traceable to such property.''
+    (b) Criminal Forfeiture.--Section 982(a) of title 18, United States 
+Code, is amended by inserting the following new paragraph:
+            ``(4)(A) The court, in imposing a sentence on a person 
+        convicted of a violation of sections 513, 514, 1028 through 
+        1032, and 1341, 1343 and 1344 of this title, or a conspiracy to 
+        commit such offense, shall order the person to forfeit to the 
+        United States any computer, photostatic reproduction machine, 
+        electronic communications device or other material, article, 
+        apparatus, device or thing made, possessed, fitted, used or 
+        intended to be used to commit such offense, and any property 
+        traceable to such property.
+            ``(B) The court, in imposing a sentence on a person 
+        convicted of a violation of section 1028 or 1029 of this title, 
+        or a conspiracy to commit such offense, shall order the person 
+        to forfeit to the United States any conveyance used on two or 
+        more occasions to transport the instrumentalities used to 
+        commit such offense, and any property traceable to such 
+        conveyance.
+            ``(5) The court, in imposing a sentence on a person 
+        convicted of--
+                    ``(A) an offense punishable under chapter 113B of 
+                this title (relating to terrorism);
+                    ``(B) a violation of the National Firearms Act (26 
+                U.S.C. chapter 53);
+                    ``(C) a violation of any of the following sections 
+                of the Federal explosives laws: subsections (a) (1) and 
+                (3), (b) through (d), and (h)(1) of section 842, and 
+                subsections (d) through (m) of section 844; or
+                    ``(D) any other offense enumerated in section 
+                2339A(a) of this title;
+        or a conspiracy to commit any such offense, shall order the 
+        person to forfeit to the United States any conveyance, 
+        chemicals, laboratory equipment, or other material, article, 
+        apparatus, device or thing made, possessed, fitted, used or 
+        intended to be used to commit such offense, and any property 
+        traceable to such property.''
+
+SEC. 312. FORFEITURE OF VEHICLES USED FOR GUN RUNNING.
+
+    (a) Civil Forfeiture.--Section 981(a)(1) of title 18, United States 
+Code, is amended by adding the following subparagraph:
+            ``(G)(i) Any conveyance used or intended to be used to 
+        commit a gun running offense, or conspiracy to commit such 
+        offense, and any property traceable to such property.
+            (ii) For the purposes of this section, a gun running 
+        offense is a violation of any of the following sections of this 
+        title involving five or more firearms: section 922(i) 
+        (transporting stolen firearms); section 924(g) (travel with a 
+        firearm in furtherance of racketeering); section 924(k) 
+        (stealing a firearm); and section 924(m) (interstate travel to 
+        promote firearms trafficking).
+    (b) Criminal Forfeiture.--Section 982(a) of title 18, United States 
+Code, is amended by inserting the following new paragraph:
+            ``(6) The court, in imposing a sentence on a person 
+        convicted of a gun running offense, as defined in section 
+        981(a)(1)(G), or a conspiracy to commit such offense, shall 
+        order the person to forfeit to the United States any conveyance 
+        used or intended to be used to commit such offense, and any 
+        property traceable to such conveyance.''
+
+SEC. 313. FORFEITURE OF CRIMINAL PROCEEDS TRANSPORTED IN INTERSTATE 
+              COMMERCE.
+
+    Section 1952 of title 18, United States Code, is amended by adding 
+the following subsection:
+    ``(d)(1) Any proceeds distributed or intended to be distributed in 
+violation of subsection (a)(1) or a conspiracy to commit such 
+violation, or any property traceable to such property, is subject to 
+forfeiture to the United States in accordance with the procedures set 
+forth in section 981 of this title.
+    ``(2) The court, in imposing sentence on a person convicted of an 
+offense in violation of subsection (a)(1) or a conspiracy to commit 
+such offense, shall order that the person forfeit to the United States 
+any proceeds distributed or intended to be distributed in the 
+commission of such offense, or any property traceable to such property, 
+in accordance with the procedures set forth in section 982 of this 
+title.''
+
+SEC. 314. FORFEITURES OF PROCEEDS OF FEDERAL FOOD, DRUG, AND COSMETIC 
+              ACT VIOLATIONS.
+
+    Chapter 9 of title 21, United States Code, is amended by adding the 
+following two new sections:
+``Sec. 311. Civil forfeiture of proceeds of Federal Food, Drug, and 
+              Cosmetic Act Violations
+    ``(a) Any property, real or personal, that constitutes, or is 
+derived from or is traceable to the proceeds obtained directly or 
+indirectly from a criminal violation of, or a conspiracy to commit a 
+criminal violation of, a provision of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 301-395) shall be subject to judicial 
+forfeiture to the United States.
+    ``(b) The provisions of chapter 46 of title 18, United States Code, 
+relating to civil forfeitures shall extend to a seizure or forfeiture 
+under this section, insofar as applicable and not inconsistent with the 
+provisions hereof, except that such duties as are imposed upon the 
+Secretary of the Treasury under chapter 46 shall be performed with 
+respect to seizures and forfeitures under this section by such 
+officers, agents, or other persons as may be authorized or designated 
+for that purpose by the Secretary of Health and Human Services.
+``Sec. 312. Criminal forfeiture of proceeds of Federal Food, Drug, and 
+              Cosmetic Act violations
+    ``(a) Any person convicted of a violation of, or a conspiracy to 
+violate, a provision of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 301-395) shall forfeit to the United States, irrespective of any 
+provision of State law, any property constituting, or derived from, any 
+proceeds the person obtained, directly or indirectly, as the result of 
+such violation. The court, in imposing sentence on such person, shall 
+order that the person forfeit to the United States all property 
+described in this subsection.
+    ``(b) Property subject to forfeiture under this section, any 
+seizure and disposition thereof, and any administrative or judicial 
+proceeding in relation thereto, shall be governed by the provisions of 
+section 413 of the Comprehensive Drug Abuse Prevention and Control Act 
+of 1970 (21 U.S.C. 853), except for subsection 413(d) which shall not 
+apply to forfeitures under this section.''
+
+SEC. 315. FORFEITURE FOR FOOD STAMP FRAUD.
+
+    Section 15 of the Food Stamp Act of 1977 (7 U.S.C. 2024) is amended 
+by adding at the end the following new subsection:
+    ``(i) Civil Forfeiture.--
+            ``(1) Any property, real or personal--
+                    ``(A) used in a transaction or attempted 
+                transaction, to commit or to facilitate the commission 
+                of a violation (other than a misdemeanor) of subsection 
+                (b) or (c), or
+                    ``(B) constituting, derived from, or traceable to 
+                proceeds of a violation of subsection (b) or (c), shall 
+                be subject to forfeiture to the United States.
+            ``(2) The provisions of chapter 46 of title 18, relating to 
+        civil forfeitures shall extend to a seizure or forfeiture under 
+        this subsection, insofar as applicable and not inconsistent 
+        with the provisions of this subsection, except that such duties 
+        as are imposed upon the Secretary of the Treasury under chapter 
+        46 shall be performed with respect to seizures and forfeitures 
+        under this section by such officers, agents, and other persons 
+        as may be designated for that purpose by the Secretary of 
+        Agriculture.''
+
+SEC. 316. FORFEITURE FOR ODOMETER TAMPERING OFFENSES.
+
+    (a) Criminal Forfeiture.--Section 982(a)(5) of title 18, United 
+States Code, is amended--
+            (1) by striking ``or'' at the end of subparagraph (D);
+            (2) by inserting ``or'' after the semicolon at the end of 
+        sub-paragraph (E);
+            (3) by inserting the following after sub-paragraph (E), as 
+        amended:
+                    ``(F) section 32703 of title 49, United States Code 
+                (motor vehicle odometer tampering);''; and
+            (4) by adding the following after the last period: ``If the 
+        conviction was for a violation described in subparagraph (F), 
+        the court shall also order the forfeiture of any vehicles or 
+        other property involved in the commission of the offense.''
+    (b) Civil Forfeiture.--Section 981(a)(1)(F) of title 18, United 
+States Code, is amended--
+            (1) by striking ``or'' at the end of clause (iv);
+            (2) by striking the period at the end of clause (v) and 
+        inserting ``; or'';
+            (3) by inserting the following after clause (v), as 
+        amended:
+                    ``(vi) section 32703 of title 49, United States 
+                Code (motor vehicle odometer tampering).''; and
+            (4) by adding the following after the last period: ``In the 
+        case of a violation described in clause (vi), any vehicles or 
+        other property involved in the commission of the offense shall 
+        also be subject to forfeiture.''
+
+             TITLE IV--MISCELLANEOUS FORFEITURE AMENDMENTS
+
+SEC. 401. USE OF FORFEITED FUNDS TO PAY RESTITUTION TO CRIME VICTIMS 
+              AND REGULATORY AGENCIES.
+
+    Section 981 of title 18, United States Code, is amended--
+            (1) by amending subsection (e)(6) to read as follows:
+            ``(6) as restoration to any victim of the offense giving 
+        rise to the forfeiture, including, in the case of a money 
+        laundering offense, any offense constituting the underlying 
+        specified unlawful activity; or'';
+            (2) in subsections (e) (3), (4) and (5), by striking ``in 
+        the case of property referred to in subsection (a)(1)(C)'' and 
+        inserting ``in the case of property forfeited in connection 
+with an offense resulting in a pecuniary loss to a financial 
+institution or regulatory agency''; and
+            (3) in subsection (e)(7), by striking ``in the case of 
+        property referred to in subsection (a)(1)(D)'' and inserting 
+        ``in the case of property forfeited in connection with an 
+        offense relating to the sale of assets acquired or held by any 
+        Federal financial institution or regulatory agency, or person 
+        appointed by such agency, as receiver, conservator or 
+        liquidating agent for a financial institution''.
+
+SEC. 402. ENFORCEMENT OF FOREIGN FORFEITURE JUDGMENT.
+
+    (a) In General.--Chapter 163 of title 28, United States Code, is 
+amended by inserting the following new section:
+``Sec. 2466. Enforcement of foreign forfeiture judgment
+    ``(a) Definitions.--As used in this section--
+            ``(1) `Foreign nation' shall mean a country that has become 
+        a party to the United Nations Convention Against Illicit 
+        Traffic in Narcotic Drugs and Psychotropic Substances 
+        (hereafter `the United Nations Convention') or a foreign 
+        jurisdiction with which the United States has a treaty or other 
+        formal international agreement in effect providing for mutual 
+        forfeiture assistance.
+            ``(2) `Value based confiscation judgment' shall mean a 
+        final order of a foreign nation compelling a defendant, as a 
+        consequence of his or her criminal conviction for an offense 
+        described in article 3, paragraph 1, of the United Nations 
+        Convention, to pay a sum of money representing the proceeds of 
+        such offense, or property the value of which corresponds to 
+        such proceeds.
+    ``(b) Review by Attorney General.--A foreign nation seeking to have 
+its value based confiscation judgment registered and enforced by a 
+United States district court under this section must first submit a 
+request to the Attorney General or his or her designee. Such request 
+shall include:
+            ``(1) a summary of the facts of the case and a description 
+        of the criminal proceeding which resulted in the value-based 
+        confiscation judgment;
+            ``(2) certified copies of the judgment of conviction and 
+        value-based confiscation judgment;
+            ``(3) an affidavit or sworn declaration establishing that 
+        the defendant received notice of the proceedings in sufficient 
+        time to enable him or her to defend against the charges that 
+        the value-based confiscation judgment rendered is in force and 
+        is not subject to appeal;
+            ``(4) an affidavit or sworn declaration that all reasonable 
+        efforts have been undertaken to enforce the value-based 
+        confiscation judgment against the defendant's property, if any, 
+        in the foreign country; and
+            ``(5) such additional information and evidence as may be 
+        required by the Attorney General or his or her designee.
+The Attorney General or his or her designee, in consultation with the 
+Secretary of State or his or her designee, shall determine whether to 
+certify the request, and such decision shall be final and not subject 
+to either judicial review or review under the Administrative Procedures 
+Act, 5 U.S.C. 551 et seq.
+    ``(c) Jurisdiction and Venue.--Where the Attorney General or his or 
+her designee certifies a request under subsection (b), the foreign 
+nation may file a civil proceeding in United States district court 
+seeking to enforce the foreign value based confiscation judgment as if 
+the judgment had been entered by a court in the United States. In such 
+a proceeding, the foreign nation shall be the plaintiff and the person 
+against whom the value-based confiscation judgment was entered shall be 
+the defendant. Venue shall lie in the district court for the District 
+of Columbia or in any other district in which the defendant or the 
+property that may be the basis for satisfaction of a judgment under 
+this section may be found. The district court shall have personal 
+jurisdiction over a defendant residing outside of the United States if 
+the defendant is served with process in accordance with rule 4 of the 
+Federal Rules of Civil Procedure.
+    ``(d) Entry and Enforcement of Judgment.--(1) Except as provided in 
+paragraph (2), the district court shall enter such orders as may be 
+necessary to enforce the value-based confiscation judgment on behalf of 
+the foreign nation where it finds that all of the following 
+requirements have been met:
+                    ``(A) the value-based confiscation judgment was 
+                rendered under a system which provides impartial 
+                tribunals or procedures compatible with the 
+                requirements of due process of law;
+                    ``(B) the foreign court had personal jurisdiction 
+                over the defendant;
+                    ``(C) the foreign court had jurisdiction over the 
+                subject matter;
+                    ``(D) the defendant in the proceedings in the 
+                foreign court received notice of the proceedings in 
+                sufficient time to enable him or her to defend; and
+                    ``(E) the judgment was not obtained by fraud.
+Process to enforce a judgment under this section will be in accordance 
+with rule 69(a) of the Federal Rules of Civil Procedure.
+    ``(e) Finality of Foreign Findings.--Upon a finding by the district 
+court that the conditions set forth in subsection (d) have been 
+satisfied, the court shall be bound by the findings of facts insofar as 
+they are stated in the foreign judgment of conviction and value-based 
+confiscation judgment.
+    ``(f) Currency Conversion.--Insofar as a value based confiscation 
+judgment requires the payment of a sum of money, the rate of exchange 
+in effect at time when the suit to enforce is filed by the foreign 
+nation shall be used in calculating the amount stated in the judgment 
+submitted for registration.''
+    (b) Conforming Amendment.--The chapter analysis for chapter 163, 
+title 28, United States Code, is amended by inserting the following at 
+the end:
+
+``2466. Enforcement of foreign forfeiture judgment''
+
+SEC. 403. MINOR AND TECHNICAL AMENDMENTS RELATING TO 1992 FORFEITURE 
+              AMENDMENTS.
+
+    (a) Criminal Forfeiture.--Section 982(b) of title 18, United States 
+Code, is amended in subsection (b)(2), by striking ``The substitution'' 
+and inserting ``With respect to a forfeiture under subsection (a)(1), 
+the substitution''.
+    (b) Fungible Property.--Section 984 of title 18, United States 
+Code, is amended--
+            (1) by striking subsection (a) and redesignating the 
+        remaining subsections as (a), (b), and (c), respectively;
+            (2) by amending subsection (b) (as redesignated) to read as 
+        follows:
+    ``(b) The provisions of this section may be invoked only if the 
+action for forfeiture was commenced by a seizure or an arrest in rem 
+within two years of the offense that is the basis for the 
+forfeiture.'';
+            (3) by amending subsection (c)(1) (as redesignated) to read 
+        as follows:
+    ``(c)(1) Subsection (a) shall not apply to an action against funds 
+held by a financial institution in an interbank account unless the 
+account holder knowingly engaged in the offense that is the basis for 
+the forfeiture.'';
+            (4) by adding the following new paragraph to subsection (c) 
+        (as redesignated):
+            ``(3) As used in this subsection, a `financial institution' 
+        includes a foreign bank, as defined in paragraph 7 of section 
+        1(b) of the International Banking Act of 1978.''; and
+            (5) by adding the following new subsection:
+    ``(d) Nothing in this section is intended to limit the ability of 
+the Government to forfeit property under any statute where the property 
+involved in the offense giving rise to the forfeiture or property 
+traceable thereto is available for forfeiture.''
+    (c) Subpoenas for Bank Records.--Section 986(a) of title 18, United 
+States Code, is amended by--
+            (1) striking ``section 1956, 1957 or 1960 of this title, 
+        section 5322 or 5324 of title 31, United States Code'' and 
+        inserting ``section 981 of this title''; and
+            (2) striking the last sentence.
+    (d) Civil Money Laundering Enforcement.--Section 1956(b) of title 
+18, United States Code, is amended--
+            (1) by redesignating the present matter as paragraph (1), 
+        and the present paragraphs (1) and (2) as subparagraphs (A) and 
+        (B), respectively; and
+            (2) by inserting the following new paragraphs:
+            ``(2) For purposes of adjudicating an action filed or 
+        enforcing a penalty ordered under this section, the district 
+        courts shall have jurisdiction over any foreign person, 
+        including any financial institution registered in a foreign 
+        country, that commits an offense under subsection (a) involving 
+        a financial transaction that occurs in whole or in part in the 
+        United States; Provided, That service of process upon such 
+        foreign person is made under the Federal Rules of Civil 
+        Procedure or the laws of the country where the foreign person 
+        is found.
+            ``(3) The court may issue a pretrial restraining order or 
+        take any other action necessary to ensure that any bank account 
+        or other property held by the defendant in the United States is 
+        available to satisfy a judgment under this section.''
+    (e) Definition of Financial Institution.--Section 5312(a)(2) of 
+title 31, United States Code, is amended by redesignating subparagraphs 
+(Y) and (Z) as (Z) and (AA), respectively, and by inserting the 
+following new subparagraph after subparagraph (X):
+                    ``(Y) a bail bondsman;''.
+    (f) Section 981(d) of title 18, United States Code, is amended by 
+striking ``sale of this section'' and inserting ``sale of such 
+property.''
+
+SEC. 404. CIVIL FORFEITURE OF COINS AND CURRENCY IN CONFISCATED 
+              GAMBLING DEVICES.
+
+    Section 7 of Public Law 81-906 (15 U.S.C. 1177) is amended--
+            (1) by inserting ``Any coin or currency contained in any 
+        gambling device at the time of its seizure pursuant to the 
+        preceding sentence shall also be seized and forfeited to the 
+        United States.'' after the first sentence; and
+            (2) in the last sentence, by inserting ``, coins, or 
+        currency'' after ``gambling devices''.
+
+SEC. 405. DRUG PARAPHERNALIA TECHNICAL AMENDMENTS.
+
+    (a) Section 511(a)(10) of the Controlled Substances Act (21 U.S.C. 
+881(a)(10)) is amended by striking ``857 of this title'' and inserting 
+``422 of this subchapter (21 U.S.C. 863)''.
+    (b) Section 422 of the Controlled Substances Act (21 U.S.C. 863) is 
+amended:
+            (1) by deleting subsection (c); and
+            (2) by redesignating subsections (d), (e), and (f) to be 
+        subsections (c), (d), and (e).
+
+SEC. 406. AUTHORIZATION TO SHARE FORFEITED PROPERTY WITH COOPERATING 
+              FOREIGN GOVERNMENTS.
+
+    (a) In General.--Section 981(i)(1) of title 18, United States Code, 
+is amended by striking ``this chapter'' and inserting ``any provision 
+of Federal law''.
+    (b) Conforming Amendment.--Section 511(e)(1) of the Controlled 
+Substances Act is amended by striking ``; or'' and all of subparagraph 
+(E) and inserting a period.
+
+SEC. 407. FORFEITURE OF COUNTERFEIT PARAPHERNALIA.
+
+    Section 492 of title 18, United States Code, is amended--
+            (1) by striking the third and fourth undesignated 
+        paragraphs;
+            (2) by designating the remaining paragraphs as subsections 
+        (a) and (b);
+            (3) by adding the following new subsections:
+    ``(c) For the purposes of this section, the provisions of the 
+customs laws relating to the seizure, summary and judicial forfeiture, 
+condemnation of property for violation of the customs laws, the 
+disposition of such property or the proceeds from the sale of such 
+property, the remission or mitigation of such forfeitures, and the 
+compromise of claims (19 U.S.C. 1602 et seq.), insofar as they are 
+applicable and not inconsistent with the provisions of this section, 
+shall apply to seizures and forfeitures incurred, or alleged to have 
+been incurred, under this section, except that the duties as are 
+imposed upon the customs officer or any other person with respect to 
+the seizure and forfeiture of property under the customs laws shall be 
+performed with respect to seizures and forfeitures of property under 
+this section by such officers, agents, or other persons as may be 
+authorized or designated for that purpose by the Secretary of the 
+Treasury.
+    ``(d) All seizures and civil judicial forfeitures pursuant to 
+subsection (a) shall be governed by the procedures set forth in chapter 
+46 of this title pertaining to civil forfeitures. The Attorney General 
+shall have sole responsibility for disposing of petitions for remission 
+or mitigation with respect to property involved in a judicial 
+forfeiture proceeding.
+    ``(e) A court in sentencing a person for a violation of this 
+chapter or of sections 331-33, 335, 336, 642, or 1720 of this title, 
+shall order the person to forfeit the property described in subsection 
+(a) in accordance with the procedures set forth in section 982 of this 
+title.''; and
+            (4) in subsection (b), as so designated by this section, by 
+        striking ``fined not more than $100'' and inserting ``fined 
+        under this title''.
+
+SEC. 408. CLOSING OF LOOPHOLE TO DEFEAT CRIMINAL FORFEITURE THROUGH 
+              BANKRUPTCY.
+
+    Section 413(a) of the Controlled Substances Act (21 U.S.C. 853(a)) 
+is amended by inserting ``, or of any bankruptcy proceeding instituted 
+after or in contemplation of a prosecution of such violation'' after 
+``shall forfeit to the United States, irrespective of any provision of 
+State law''.
+
+SEC. 409. STATUTE OF LIMITATIONS FOR CIVIL FORFEITURE ACTIONS.
+
+    (a) In General.--Section 621 of the Tariff Act of 1930 (19 U.S.C. 
+1621) is amended by inserting ``, or in the case of forfeiture, within 
+five years after the time when the involvement of the property in the 
+alleged offense was discovered'' after ``within five years after the 
+time when the alleged offense was discovered''.
+    (b) FIRREA Cases.--Section 981(a) of title 18, United States Code, 
+is amended by adding at the end a new paragraph, as follows:
+            ``(3) An action seeking the forfeiture of property 
+        described in subparagraph (a)(1)(C) arising out of an offense 
+        affecting a financial institution or the conservator or 
+        receiver of a financial institution may be commenced not later 
+        than ten years after the discovery of the involvement of the 
+        property in the act giving rise to the forfeiture. This 
+        paragraph shall apply to any forfeiture action not barred by 
+        the expiration of the limitation period provided by section 621 
+        of the Tariff Act of 1930 (19 U.S.C. 1621) at the time this 
+        paragraph became effective.''
+
+SEC. 410. ASSETS FORFEITURE FUND AND PROPERTY DISPOSITION.
+
+    (a) Technical Amendments.--Section 524 of title 28, United States 
+Code, is amended--
+            (1) in paragraph (c)(1) by striking ``and'' at the end of 
+        subparagraph (H), by striking the second subparagraph (I) that 
+        begins with ``after all reimbursements'' and ends with 
+        ``correctional institutions'', and by inserting ``and'' 
+        following the semicolon at the end of the remaining 
+        subparagraph (I);
+            (2) in paragraph (c)(3), by deleting ``(F)'' and inserting 
+        ``(G)'';
+            (3) in subparagraph (c)(4)(C) by deleting 
+        ``(g)(4)(A)(ii)'';
+            (4) in subparagraph (c)(8)(A), by striking ``(A)(iv), (B), 
+        (F), (G), and (H)'' and inserting ``(A)(ii), (B), (F), and 
+        (G)''; and
+            (5) by repealing paragraph (c)(6), and renumbering 
+        paragraphs (c)(7) through (c)(11) as paragraphs (c)(6) through 
+        (c)(10).
+    (b) Disposal of Forfeited Property.--Section 524(c)(8) of title 28, 
+United States Code, as redesignated by this section, is amended to read 
+as follows:
+            ``(8) Following the completion of procedures for the 
+        forfeiture of property pursuant to any law enforced or 
+        administered by the Department, the Attorney General, under 
+        such terms and conditions as the Attorney General shall 
+        specify, is authorized to:
+                    ``(A) destroy the property if it is unsuitable for 
+                public use or sale, or uneconomical to market;
+                    ``(B) transfer the property to any lienholder 
+                (including taxing authorities) or mortgagee in lieu of 
+                the compromise and payment of a valid lien or mortgage 
+                against the property;
+                    ``(C) disburse all or part of an amount forfeited 
+                as restoration to any victim of the offense giving rise 
+                to the forfeiture, or any other offense that was part 
+                of the same scheme, conspiracy, or pattern of criminal 
+                activity, including, in the case of a money laundering 
+                offense, any offense constituting the underlying 
+                specified unlawful activity, in accordance with the 
+                relevant forfeiture statute;
+                    ``(D) dispose of the property by public sale or any 
+                other commercially feasible means; or request the 
+                General Services Administration to take custody of the 
+                property and to dispose of it in accordance with law;
+                     ``(E) place the property into official use or 
+                transfer the property to any other federal agency for 
+                official use;
+                    ``(F) transfer the property to foreign governments 
+                pursuant to section 981(i) of title 18, United States 
+                Code;
+                    ``(G) transfer the property, or the net proceeds of 
+                sale of the property, to State or local law enforcement 
+                agencies that participated directly in any of the acts 
+                that led to the seizure or forfeiture of the property, 
+                in accordance with section 981(e) of title 18, United 
+                States Code; section 511(e)(3) of the Controlled 
+                Substances Act (21 U.S.C. 881(e)(3)); or any other 
+                provision of law pertaining to the equitable sharing of 
+                forfeited property;
+                    ``(H) transfer real or personal property that is 
+                uneconomical to store, maintain, or market to a State 
+                or local government agency for use to support drug 
+                abuse treatment, drug and crime prevention and 
+                education, housing, job skills, and other community-
+                based public health and safety programs, upon agreement 
+                by the recipient government to accept liability for the 
+                compromise or settlement of any mortgages, liens, 
+                petitions or other claims against the property;
+                    ``(I) make any other disposition authorized by law; 
+                and
+                    ``(J) warrant clear title to any subsequent 
+                purchaser or transferee of such property.
+        The Attorney General shall make due provision for the property 
+        rights of innocent persons in disposing of forfeited property. 
+        Election of the method of disposition is solely within the 
+        discretion of the Attorney General. Final orders of judgment 
+        for damages arising from any warranty of title by the Attorney 
+        General shall be satisfied pursuant to section 1304 of title 
+        31, United States Code, in the same manner and to the same 
+        extent as other judgments for damages. A decision by the 
+        Attorney General pursuant to this subsection shall not be 
+        subject to review.''
+    (c) Deposit From Settlement in Lieu of Forfeiture.--Section 
+524(c)(4)(A) of title 28, United States Code, is amended by inserting 
+``, or from any settlement in lieu of forfeiture,'' before ``under any 
+law''.
+    (d) Deposits Into the Fund.--Section 524(c)(4)(B) of title 28, 
+United States Code, is amended by inserting ``, and all amounts 
+representing reimbursement or recovery of costs paid by the Fund'' 
+immediately prior to the semicolon.
+    (e) Payment of Foreign Judgments.--Section 524(c)(1) of title 28, 
+United States Code, is amended by inserting the following new 
+subparagraph (J) immediately following subparagraph (I):
+                    ``(J) at the discretion of the Attorney General, 
+                payments to return forfeited property repatriated to 
+                the United States by a foreign government or others 
+                acting at the direction of a foreign government, and 
+                interest earned on such property, subject to the 
+                following conditions:
+                            ``(i) a final foreign judgment entered 
+                        against a foreign government or those acting at 
+                        its direction, which foreign judgment was based 
+                        on the measures, such as seizure and 
+                        repatriation of property, that resulted in 
+                        deposit of the funds into the Fund;
+                            ``(ii) such foreign judgment was entered 
+                        and presented to the Attorney General within 
+                        five years of the date that the property was 
+                        repatriated to the United States;
+                            ``(iii) the foreign government or those 
+                        acting at its direction vigorously defended its 
+                        actions under its own laws; and
+                            ``(iv) the amount of the disbursement does 
+                        not exceed the amount of funds deposited to the 
+                        Fund, plus interest earned on such funds 
+                        pursuant to section 524(c)(5) of title 28 
+                        United States Code, less any awards and 
+                        equitable shares paid by the Fund to the 
+                        foreign government or those acting at its 
+                        direction in connection with a particular 
+                        case.''.
+    (f) Excess Surplus Funds.--Section 524(c)(7) of title 28, United 
+States Code, as redesignated by this section, is amended by deleting 
+all versions of subparagraph ``(E)'' and inserting the following in 
+place thereof:
+    ``(E) Subject to the notification procedures contained in section 
+605 of Public Law 103-317, and after satisfying the transfer 
+requirement in subparagraph (B) of this paragraph, any excess 
+unobligated balance remaining in the Fund on September 30, 1996, and on 
+September 30 of each fiscal year thereafter, shall be available to the 
+Attorney General, without fiscal year limitation, for any Federal law 
+enforcement, litigative/prosecutive, and correctional activities, or 
+any other authorized purpose of the Department of Justice. Any Amounts 
+provided pursuant to this subparagraph may be used under authorities 
+available to the organization receiving the funds.''
+    (g) Remission and Mitigation.--Section 524(c)(1)(E) of title 28, 
+United States Code, is amended to read as follows:
+                    ``(E) disbursements authorized in connection with 
+                remission or mitigation procedures or other actions 
+                pursuant to the Attorney General's statutory authority 
+                relating to property forfeited under any law enforced 
+                or administered by the Department of Justice;''
+
+SEC. 411. CLARIFICATION OF SECTION 877 OF TITLE 21, UNITED STATES CODE.
+
+    Section 507 of the Controlled Substances Act (21 U.S.C. 877) is 
+amended to add at the end the following sentence: ``This section does 
+not apply to any findings, conclusions, rulings, decisions, or 
+declarations of the Attorney General, or any designee of the Attorney 
+General, relating to the seizure, forfeiture, or disposition of 
+forfeited property brought under this subchapter.''
+
+SEC. 412. CERTIFICATE OF REASONABLE CAUSE.
+
+    Section 2465 of title 28, United States Code, is amended--
+            (1) by striking ``property seized'' and inserting 
+        ``property seized or arrested''; and
+            (2) by striking ``seizure'' each time it appears and 
+        inserting ``seizure or arrest''.
+
+SEC. 413. CONFORMING TREASURY AND JUSTICE FUNDS.
+
+    (a) Section 9703(c0 of title 31, United States Code, is amended by 
+striking ``subsection (g)(2)'' and inserting ``subsection (g)(1)'' and 
+by deleting ``in excess of $10,000,000 for a fiscal year.''
+    (b) Section 9703(g) of title 31, United States Code, is amended--
+            (1) in paragraph (1), by striking ``subsection (a)(1)'' and 
+        inserting ``subsections (a)(1) and (c)''; and
+            (2) in paragraph (2), by striking ``subsections (a)(2) and 
+        (c)'' and inserting ``subsection (a)(2)''.
+    (c) Deposit From Settlement in Lieu of Forfeiture.--Section 9703(d) 
+of title 31, United States Code, is amended by inserting ``or from any 
+settlement in lieu of forfeiture,'' before ``under any law'' each time 
+it appears.
+    (d) Subsection 524(c)(6) of title 28, United States Code, is 
+amended by adding the following sentence to the end thereof: ``Amounts 
+transferred by the Secretary of Treasury pursuant to section 9703 of 
+title 31, or by the Postmaster General pursuant to section 2003 of 
+title 39, shall be available to the Attorney General for Federal law 
+enforcement and criminal prosecution purposes of the Department of 
+Justice.''
+
+SEC. 414. DISPOSITION OF PROPERTY FORFEITED UNDER CUSTOMS LAWS.
+
+    Section 616A of the Tariff Act of 1930 (19 U.S.C. 1616a) is 
+amended--
+            (1) by adding the following new paragraph to subsection 
+        (c):
+            ``(4) Whenever property is civilly or criminally forfeited 
+        by or for the United States Customs Service, including 
+        administrative forfeiture under the provisions of this title, 
+        the Secretary of the Treasury may dispose of the property in 
+        accordance with law, including--
+                    ``(A) by selling the property through any 
+                commercially feasible means, provided that the property 
+                is not required to be destroyed by law and is not 
+                harmful to the public; or
+                    ``(B) by requesting the General Services 
+                Administration to take custody of the property and to 
+                dispose of it in accordance with law.''; and
+            (2) by amending the title of the section to read as 
+        follows: ``retention, transfer, or disposition of forfeited 
+        property''.
+
+SEC. 415. TECHNICAL AMENDMENTS RELATING TO OBLITERATED MOTOR VEHICLES 
+              IDENTIFICATION NUMBERS.
+
+    Section 512 of title 18, United States Code, is amended--
+            (1) in subsection (b), by inserting ``and the provisions of 
+        chapter 46 of this title relating to civil judicial 
+        forfeitures'' before ``shall apply''; and
+            (2) in subsection (a)(1), by striking ``does not know'' and 
+        all that follows up to the semicolon and inserting ``is an 
+        innocent owner as defined in section 983 of this title''.
+
+SEC. 416. FUGITIVE DISENTITLEMENT.
+
+    (a) In General.--Chapter 163 of title 28, United States Code, is 
+amended by inserting the following new section:
+Sec. 2467. Fugitive disentitlement
+    ``Any person who, in order to avoid criminal prosecution, purposely 
+leaves the jurisdiction of the United States, declines to enter or 
+reenter the United States to submit to its jurisdiction, or otherwise 
+evades the jurisdiction of the court where a criminal case is pending 
+against the person, may not use the resources of the courts of the 
+United States in furtherance of a claim in any related civil forfeiture 
+action or a claim in third-party proceedings in any related criminal 
+forfeiture action.''
+    (b) Conforming Amendment.--The chapter analysis for chapter 163 of 
+title 28, United States Code, is amended by inserting the following at 
+the end:
+
+``2467. Fugitive disentitlement.''
+
+SEC. 417. ADMISSIBILITY OF FOREIGN BUSINESS RECORDS.
+
+    (a) In General.--Chapter 163 of title 28, United States Code, is 
+amended by adding at the end the following new section:
+Sec. 2468. Foreign records
+    ``(a) In a civil proceeding in a court of the United States, 
+including civil forfeiture proceedings and proceedings in the United 
+States Claims Court and the United States Tax Court, a foreign record 
+of regularly conducted activity, or copy of such record, obtained 
+pursuant to an official request, shall not be excluded as evidence by 
+the hearsay rule of a foreign certification, also obtained pursuant to 
+the same official request or subsequent official request that 
+adequately identifies such foreign record, attests that--
+            ``(1) such record was made, at or near the time of the 
+        occurrence of the matters set forth, by (or from information 
+        transmitted by) a person with knowledge of those matters;
+            ``(2) such record was kept in the course of a regularly 
+        conducted business activity;
+            ``(3) the business activity made such a record as a regular 
+        practice; and
+            ``(4) if such record is not the original, such record is a 
+        duplicate of the original;
+unless the source of information or the method or circumstances of 
+preparation indicate lack of trustworthiness.
+    ``(b) A foreign certification under this section shall authenticate 
+such record or duplicate.
+    ``(c) As soon as practicable after a responsive pleading has been 
+filed, a party intending to offer in evidence under this section a 
+foreign record of regularly conducted activity shall provide written 
+notice of that intention to each other party. A motion opposing 
+admission in evidence of such record shall be made by the opposing 
+party and determined by the court before trial. Failure by a party to 
+file such motion before trial shall constitute a waiver of objection to 
+such record or duplicate, but the court for cause shown may grant 
+relief from the waiver.
+    ``(d) As used in this section, the term--
+            ``(1) `foreign record of regularly conducted activity' 
+        means a memorandum, report, record, or data compilation, in any 
+        form, of acts, events, conditions, opinions, or diagnoses, 
+        maintained in a foreign country;
+            ``(2) `foreign certification' means a written declaration 
+        made and signed in a foreign country by the custodian of a 
+        record of regularly conducted activity or another qualified 
+        person, that if falsely made, would subject the maker to 
+        criminal penalty under the law of that country;
+            ``(3) `business' includes business, institution, 
+        association, profession, occupation, and calling of every kind 
+        whether or not conducted for profit; and
+            ``(4) `official request' means a letter rogatory, a request 
+        under an agreement, treaty or convention, or any other request 
+        for information or evidence made by a court of the United 
+        States or an authority of the United States having law 
+        enforcement responsibility, to a court or other authority of a 
+        foreign country.''
+    (b) Conforming Amendment.--The chapter analysis for chapter 163 of 
+title 28, United States Code, is amended by inserting the following at 
+the end:
+
+``2468. Foreign records.''
+
+SEC. 418. DESTRUCTION OR REMOVAL OF PROPERTY TO PREVENT SEIZURE.
+
+    (a) Section 2232(a) of title 18, United States Code, is amended 
+by--
+            (1) inserting ``or seizure'' after ``Physical interference 
+        with search'';
+            (2) inserting ``, including seizure for forfeiture,'' after 
+        ``after seizure'';
+            (3) striking ``searches and seizures'' after ``authorized 
+        to make'' and inserting ``searches or seizures'';
+            (4) striking ``or'' after ``wares,''; and
+            (5) inserting ``, or other property, real or personal,'' 
+        after ``merchandise.''
+    (b) Section 2232(b) of title 18, United States Code, is amended 
+by--
+            (1) inserting ``or seizure'' after ``Notice of search'';
+            (2) striking ``searches and seizures'' after ``authorized 
+        to make'' and inserting ``searches or seizures'';
+            (3) inserting ``, including seizure for forfeiture,'' after 
+        ``likely to make a search or seizure''; and
+            (4) inserting ``real or personal,'' after ``merchandise or 
+        other property,''.
+
+SEC. 419. PROSPECTIVE APPLICATION
+
+    (a) In General.--Unless otherwise specified in this section or in 
+another provision of this Act, all amendments in this Act shall apply 
+to forfeiture proceedings commenced on or after the effective date of 
+this Act.
+    (b) Administrative Forfeitures.--All amendments in this Act 
+relating to seizures and administrative forfeitures shall apply to 
+seizures and forfeitures occurring on or after the sixtieth day after 
+the effective date of this Act.
+    (c) Civil Judicial Forfeitures.--All amendments in this Act 
+relating to the judicial procedures applicable once a civil forfeiture 
+complaint is filed by the government shall apply to all cases in which 
+the forfeiture complaint is filed on or after the sixtieth day after 
+the effective date of this Act.
+    (d) Criminal Forfeiture.--All amendments in this Act relating to 
+the procedures applicable in criminal forfeiture cases shall apply to 
+cases in which the indictment or information is filed on or after the 
+effective date of this Act.
+    (e) Substantive Law.--All amendments in this Act expanding 
+substantive forfeiture law to make property subject to civil or 
+criminal forfeiture which was not previously subject to forfeiture 
+shall apply to offenses occurring on or after the effective date of 
+this Act.
+
+                      TITLE V--CRIMINAL FORFEITURE
+
+SEC. 501. UNIFORM PROCEDURES FOR CRIMINAL FORFEITURE
+
+    (a) In General.--Section 982(b)(1) of title 18, United States Code, 
+is amended to read as follows:
+    ``(b)(1) The forfeiture of property under this section, including 
+any seizure and disposition of the property and any related 
+administrative or judicial proceeding, shall be governed by the 
+provisions of section 413 of the Comprehensive Drug Abuse Prevention 
+and Control Act of 1970 (21 U.S.C. 853), except for subsection 413(d) 
+which shall not apply to forfeitures under this section.''
+    (b) Rico.--Section 1963 of title 18, United States Code, is amended 
+by repealing subsections (b) through (m) and inserting the following 
+after subsection (a):
+    ``(b) The forfeiture of property under this section, including any 
+seizure and disposition of the property and any related administrative 
+or judicial proceeding, shall be governed by the provisions of section 
+413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 
+(21 U.S.C. 853), except for subsection 413(d) which shall not apply to 
+forfeitures under this section.''
+    (c) Obscenity.--Section 1466 of title 18, United States Code, is 
+amended by repealing subsections (b) through (n) and inserting the 
+following after subsection (a):
+    (b) The forfeiture of property under this section, including any 
+seizure and disposition of the property and any related administrative 
+or judicial proceeding, shall be governed by the provisions of section 
+413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 
+(21 U.S.C. 853), except for subsection 413(d) which shall not apply to 
+forfeitures under this section.''
+    (d) Child Pornography.--Section 2253 of title 18, United States 
+Code, is amended by repealing subsections (b) through (o) and inserting 
+the following after subsection (a):
+    ``(b) The forfeiture of property under this section, including any 
+seizure and disposition of the property and any related administrative 
+or judicial proceeding, shall be governed by the provisions of section 
+413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 
+(21 U.S.C. 853), except for subsection 413(d) which shall not apply to 
+forfeitures under this section.''
+    (e) Espionage.--Section 794(d)(3) of title 18, United States Code, 
+is amended to read as follows:
+    ``(3) The forfeiture of property under this section, including any 
+seizure and disposition of the property and any related administrative 
+or judicial proceeding, shall be governed by the provisions of section 
+413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 
+(21 U.S.C. 853), except for subsection 413(d) which shall not apply to 
+forfeitures under this section.''
+    (f) Firearms.--Section 3665 of title 18, United States Code, is 
+amended by--
+            (1) redesignating the first unnumbered paragraph as 
+        subsection (a)(1) and the second unnumbered paragraph as 
+        subsection (a)(2); and
+            (2) by adding the following subsection at the end:
+    ``(b) The forfeiture of property under this section, including any 
+seizure and disposition of the property and any related administrative 
+or judicial proceeding, shall be governed by the provisions of section 
+413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 
+(21 U.S.C. 853), except for subsection 413(d) which shall not apply to 
+forfeitures under this section.''
+    (g) Food Stamp Fraud.--15(h) of the Food Stamp Act of 1977 (7 
+U.S.C. 2024(h)) is amended--
+            (1) by striking paragraphs (1), (2) and (3) and inserting 
+        the following:
+            ``(1) The court, in imposing sentence on any person 
+        convicted of a violation of subsection (b) or (c), shall order, 
+        in addition to any other sentence imposed under this section 
+        and irrespective of any provision of State law, that the person 
+        forfeit to the United States--
+                    ``(A) any of such person's property used in a 
+                transaction or attempted transaction, to commit or to 
+                facilitate the commission of such violation (other than 
+                a misdemeanor); and
+                    (B) any property, real or personal, constituting, 
+                derived from, or traceable to any proceeds such person 
+                obtained directly or indirectly as a result of such 
+                violation.
+            ``(2) All property subject to forfeiture under this 
+        subsection, any seizure and disposition thereof, and any 
+        proceeding relating thereto, shall be governed by section 413 
+        of the Comprehensive Drug Abuse Prevention and Control Act of 
+        1970 (21 U.S.C. 853, with the exception of subsection (d) which 
+        shall not apply to forfeitures under this section.''; and
+            (2) by redesignating paragraph (4) as paragraph (3).
+    (h) Immigration Offenses.--The second paragraph (6) of subsection 
+982(a) of title 18, United States Code, is amended by striking ``(A)'' 
+and all of subparagraph (B).
+
+SEC. 502. USE OF CRIMINAL FORFEITURE AS AN ALTERNATIVE TO CIVIL 
+              FORFEITURE.
+
+    Section 2461 of title 28, United States Code, is amended by adding 
+the following subsection:
+    ``(c) Whenever a forfeiture of property is authorized in connection 
+with a violation of an Act of Congress, and any person is charged in an 
+indictment or information with such violation but no specific statutory 
+provision is made for criminal forfeiture upon conviction, the 
+government may include the forfeiture in the indictment or information 
+in accordance with the Federal Rules of Criminal Procedure, and upon 
+conviction, the court shall order the forfeiture of the property in 
+accordance with the procedures set forth in section 413 of the 
+Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 
+853).''
+
+SEC. 503. FEDERAL RULES OF CRIMINAL PROCEDURE.
+
+    (a) In General.--The Federal Rules of Criminal Procedure are 
+amended by inserting the following new rule after rule 32.1:
+Sec. 32.2 Criminal forfeiture
+    ``(a) Indictment and Information.--No judgment of forfeiture may be 
+entered in a criminal proceeding unless the indictment or the 
+information alleges that the defendant or defendants have an interest 
+in property that is subject to forfeiture in accordance with the 
+applicable statute.
+    ``(b) Hearing and Entry of Preliminary Order of Forfeiture After 
+Verdict.--Within 10 days of entering a verdict of guilty or accepting a 
+plea of guilty or nolo contendere on any count in the indictment or 
+information for which criminal forfeiture is alleged, the court must 
+determine what property is subject to forfeiture because of its 
+relationship to the offense. The determination may be based on evidence 
+already in the record, including any written plea agreement, or on 
+evidence adduced at a post-trial hearing. If the court finds that 
+property is subject to forfeiture, it must enter a preliminary order 
+directing the forfeiture of whatever interest each defendant may have 
+in the property, without determining what that interest may be. A 
+determination of the extent of each defendant's interest in 
+the property will be deferred until any third party claiming an 
+interest in the property has petitioned the court pursuant to statute 
+for consideration of the claim. If no such petition is timely filed, 
+the property is presumed to be the property of the defendant or 
+defendants and is forfeited in its entirety.
+    ``(c) Preliminary Order of Forfeiture.--The entry of a preliminary 
+order of forfeiture will authorize the Attorney General to seize the 
+property subject to forfeiture, to conduct such discovery as the court 
+may deem proper to facilitate the identification, location or 
+disposition of the property, and to commence proceedings consistent 
+with any statutory requirements pertaining to third-party rights. At 
+the time of sentencing (or at any time before sentencing if the 
+defendant consents), the order of forfeiture becomes final as to the 
+defendant, and must be made a part of the sentence and included in the 
+judgment. The court may include in the order of forfeiture whatever 
+conditions are reasonably necessary to preserve the property value 
+pending any appeal.
+    ``(d) Ancillary Proceedings.--(1) If, as prescribed by statute, a 
+third party files a petition asserting an interest in the forfeited 
+property, the court must conduct an ancillary proceeding. In that 
+proceeding, the court may entertain a motion to dismiss the petition 
+for lack of standing, for failure to state a claim upon which relief 
+could be granted, or for any other ground. For purposes of the motion, 
+all facts set forth in the petition must be assumed to be true.
+    ``(2) If a motion referred to in paragraph (1) is denied, or if no 
+such motion is made, the court may permit the parties to conduct 
+discovery in accordance with the Federal Rules of Civil Procedures to 
+the extent that the court determines such discovery to be necessary or 
+desirable to resolve factual issues before conducting an evidentiary 
+hearing. At the conclusion of this discovery, either party may seek to 
+have the court dispose of the petition on a motion for summary judgment 
+in the manner described in rule 56 of the Federal Rules of Civil 
+Procedure.
+    ``(3) At the conclusion of the ancillary proceeding, the court must 
+enter a final order of forfeiture amending the preliminary order as 
+necessary to take into account the disposition of any third-party 
+petition.
+    ``(4) If multiple petitions are filed in the same case, an order 
+dismissing or granting fewer than all of the petitions is not 
+appealable until all petitions are resolved, unless the court 
+determines that there is no just reason for delay and directs the entry 
+of final judgment with respect to one or more but fewer than all of the 
+petitions.
+    ``(e) Stay of Forfeiture Pending Appeal.--If the defendant appeals 
+from the conviction or order of forfeiture, the court may stay the 
+order of forfeiture upon such terms as the court finds appropriate to 
+ensure that the property remains available in case the conviction or 
+order of forfeiture is vacated. But the stay will not delay the conduct 
+of the ancillary proceeding or the determination of the rights or 
+interests of any third party. If the defendant's appeal is still 
+pending when the court determines that the order of forfeiture must be 
+amended to recognize third party's interest in the property, the court 
+must amend the order of forfeiture but must refrain from directing the 
+transfer of any property or interest to the third party until the 
+defendant's appeal is final, unless the defendant, in writing, consents 
+to the transfer of the property or interest to the third party.
+    ``(f) Substitute Property.--If the applicable forfeiture statute 
+authorizes the forfeiture of substitute property, the court may at any 
+time entertain a motion by the Government to order forfeiture of 
+substitute property. If the Government makes the requisite showing, the 
+court must enter an order forfeiting the substitute property, or must 
+amend an existing preliminary or final order to include that 
+property.''
+    (b) Conforming Amendments.--(1) Rules 7(c)(2), 31(e), and 32(d)(2), 
+Federal Rules of Criminal Procedure, are repealed.
+    (2) Rule 38(e), Federal Rules of Criminal Procedure, is amended by 
+striking ``3554,'' and by striking ``Criminal Forfeiture'' in the 
+heading.
+    (c) Order of Forfeiture.--Section 3554 of title 18, United States 
+Code, is amended--
+            (1) by striking ``an offense described in section 1962 of 
+        this title or in title II or III of the Comprehensive Drug 
+        Abuse Prevention and Control Act of 1970'' and inserting ``an 
+        offense for which criminal forfeiture is authorized''; and
+            (2) by inserting ``pursuant to the Federal Rules of 
+        Criminal Procedure,'' after ``shall order,''.
+
+SEC. 504. PRE-TRIAL RESTRAINT OF SUBSTITUTE ASSETS.
+
+    Section 413(e)(1) of the Controlled Substances Act (21 U.S.C. 
+853(e)(1)) is amended by striking ``(a)'' and inserting ``(a) or (p)''.
+
+SEC. 505. REPATRIATION OF PROPERTY PLACED BEYOND THE JURISDICTION OF 
+              THE COURT.
+
+    (A) Order of Forfeiture.--Section 413(p) of the Controlled 
+Substance Act (21 U.S.C. 853(p)) is amended by inserting the following 
+at the end: ``In the case of property described in paragraph (3), the 
+court may, in addition, order the defendant to return the property to 
+the jurisdiction of the court so that it may be seized and forfeited.''
+    (b) Pre-trial Restraining Order.--Section 413(e) of the Controlled 
+Substance Act (21 U.S.C. 853(e)) is amended by adding the following 
+after paragraph (3):
+    ``(4) Pursuant to its authority to enter a pre-trial restraining 
+order under this section, including its authority to restrain any 
+property forfeitable as substitute assets, the court may also order the 
+defendant to repatriate any property subject to forfeiture pending 
+trial, and to deposit that property in the registry of the court, or 
+with the United States Marshals Service or the Secretary of the 
+Treasury, in an interest-bearing account. Failure to comply with an 
+order under this subsection, or an order to repatriate property under 
+subsection (p), shall be punishable as a civil or criminal contempt of 
+court, and may also result in an enhancement of the sentence for the 
+offense giving rise to the forfeiture under the obstruction of justice 
+provision of section 3C1.1 of the United States Sentencing 
+Guidelines.''.
+
+SEC. 506. HEARINGS ON PRE-TRIAL RESTRAINING ORDERS; ASSETS NEEDED TO 
+              PAY ATTORNEY'S FEES.
+
+    Section 413(e) of the Controlled Substances Act (21 U.S.C. 853(e)) 
+is amended--
+            (1) in paragraph (3), by adding the following after the 
+        period: ``The court shall issue any protective order necessary 
+        to prevent the premature disclosure of any ongoing law 
+        enforcement operation or investigation or the identity of any 
+        witness at the hearing. In addition, in any case involving an 
+        ongoing investigation, the court shall permit the presentation 
+        of evidence in camera or under seal. Rule 65, Federal Rules of 
+        Civil Procedure, shall not apply to restraining orders issued 
+        under this subsection.''; and
+            (2) by adding the following new paragraph:
+            ``(5)(A) When property is restrained pre-trial subject to 
+        paragraph (1)(A), the court may, at the request of the 
+        defendant, hold a pre-trial hearing to determine whether the 
+        restraining order should be vacated or modified with respect to 
+        some or all of the restrained property because--
+                    ``(i) it restrains property that would not be 
+                subject to forfeiture even if all of the facts set 
+                forth in the indictment were established as true;
+                    ``(ii) it causes a substantial hardship to the 
+                moving party and less intrusive means exist to preserve 
+                the subject property for forfeiture; or
+                    ``(iii) the defendant establishes that he or she 
+                has no assets, other than the restrained property, 
+                available to exercise his or her constitutional right 
+                to retain counsel, and there is no probable cause to 
+                believe that the restrained property is subject to 
+                forfeiture.
+            ``(B) If the defendant files a motion under subparagraph 
+        (A)(iii), the court shall require the defendant to establish 
+        that he has no access to other assets adequate for the payment 
+        of criminal defense counsel before conducting any probable 
+        cause inquiry. The Government shall have an opportunity to 
+        cross-examine the defendant and any witnesses he or she may 
+        present on this issue. If the court determines that the 
+        defendant has established that he has no access to other 
+        assets, it shall hold a hearing to determine whether there is 
+        probable cause for the forfeiture of the defendant's property. 
+        If the court determines that no probable cause exists for the 
+        forfeiture of an asset, it shall modify the restraining order 
+        to the extent necessary to permit the defendant to use that 
+        asset to retain counsel.
+            ``(C) In any hearing under this paragraph where probable 
+        cause is at issue, the court shall limit its inquiry to the 
+        existence of probable cause for the forfeiture, and shall 
+        neither entertain challenges to the validity of the indictment, 
+        nor require the Government to produce additional evidence 
+        regarding the facts of the case to support the grand jury's 
+        finding of probable cause regarding the criminal offense giving 
+        rise to the forfeiture. In all cases, the party requesting the 
+        modification of the restraining order shall bear the burden of 
+        proof.
+            ``(D) A person other than the defendant who has a legal 
+        interest in the restrained property may move to modify or 
+        vacate the restraining order for the reasons stated in 
+        subparagraph (A)(ii). In accordance with subsection (k), 
+        however, such person may not object to a restraining order on 
+        grounds that may be asserted only in the ancillary hearing 
+        pursuant to subsection (n).
+            ``(E) If the property restrained is subject to forfeiture 
+        as substitute assets, the court shall exempt from the 
+        restraining order assets needed to pay attorneys fees, other 
+        necessary cost-of-living expenses, and expenses of maintaining 
+        the restrained assets.''.
+
+SEC. 507. CRIMINAL SEIZURE WARRANTS.
+
+    Section 413(f) of the Controlled Substances Act (21 U.S.C. 853(f)) 
+is amended to read as follows:
+    ``(f) Property subject to forfeiture under this section may be 
+seized pursuant to section 981(b) of title 18, United States Code. If 
+property subject to criminal forfeiture under this section is already 
+in the custody of the United States or any agency thereof, it shall not 
+be necessary to seize or restrain the property for the purpose of 
+criminal forfeiture.''.
+
+SEC. 508. STANDARD OF PROOF FOR CRIMINAL FORFEITURE.
+
+    Section 413 of the Controlled Substances Act (21 U.S.C. 853) is 
+amended by adding the following new subsection after subsection (p):
+    ``(q) Standard of Proof.--In any forfeiture action under this 
+section, the party bearing the burden of proof shall be required to 
+prove the matter at issue by a preponderance of the evidence.''.
+
+SEC. 509. DISCOVERY PROCEDURE FOR LOCATING FORFEITED ASSETS.
+
+    (a) Post-Conviction Discovery.--Section 413(m) of the Controlled 
+Substances Act (21 U.S.C. 853(m)) is amended by--
+            (1) adding the following at the end before the period: ``to 
+        the extent that the provisions of the rule are consistent with 
+        the purposes for which discovery is conducted under this 
+        subsection''; and
+            (2) adding the following additional sentence: ``Because 
+        this subsection applies only to matters occurring after the 
+        defendant has been convicted and his property has been declared 
+        forfeited, the provisions of rule 15 requiring the consent of 
+the defendant and the presence of the defendant at the deposition shall 
+not apply.''
+    (b) Bank Records.--Section 986 of title 18, United States Code, is 
+amended--
+            (1) in subsection (a) by striking ``in rem''; and
+            (2) in subsection (c) by inserting ``or Criminal'' after 
+        ``Civil''.
+
+SEC. 510. COLLECTION OF CRIMINAL FORFEITURE JUDGMENT.
+
+    Section 413 of the Controlled Substances Act (21 U.S.C. 853) is 
+amended by adding the following subsection after subsection (q):
+    ``(r) Collection of Criminal Forfeiture Judgment.--In addition to 
+the authority otherwise provided in this section, an order of 
+forfeiture may be enforced--
+            ``(1) in the manner provided for the collection and payment 
+        of fines in subchapter B of chapter 229 of title 18, United 
+        States Code; or
+            ``(2) in the same manner as a judgment in a civil action.''
+
+SEC. 511. APPEALS IN CRIMINAL FORFEITURE CASES.
+
+    (a) Pre-Trial Dismissal of Forfeiture Count.--Section 3731 of title 
+18, United States Code, is amended in the first unnumbered paragraph by 
+inserting ``, or dismissing a forfeiture count in whole or in part,'' 
+after ``order of a district court dismissing an indictment or 
+information''.
+    (b) Review of a Sentence.--Section 3742 of title 18, United States 
+Code, is amended by inserting the following new subsection:
+    ``(i) Forfeiture Orders.--The Government may file a notice of 
+appeal in the district court of any decision, judgment, or order of a 
+district court denying a forfeiture in whole or in part, or mitigating 
+a forfeiture for constitutional reasons, except that no appeal shall 
+lie where the double jeopardy clause of the United States Constitution 
+prohibits further prosecution.''
+
+SEC. 512. NON-ABATEMENT OF FORFEITURE WHEN DEFENDANT DIES PENDING 
+              APPEAL.
+
+    Section 413 of the Controlled Substances Act (21 U.S.C. 853) is 
+amended by adding at the end the following new subsection:
+    ``(s) Nonabatement of Forfeiture Order.--An order of forfeiture 
+under this section shall not abate by reason of the death thereafter of 
+any or all of the defendants or petitioners or potential petitioners.''
+
+SEC. 513. STANDING OF THIRD PARTIES TO CONTEST CRIMINAL FORFEITURE 
+              ORDERS.
+
+    Section 413(n)(2) of the Controlled Substances Act (21 U.S.C. 
+853(n)(2)), is amended by designating the present matter as 
+subparagraph (A) and by adding the following paragraphs at the end:
+    ``(B) Notwithstanding any provision of this section, no person may 
+assert a legal right, title or interest under this section in 
+contraband or other property that it is illegal to possess. In 
+addition, except as set forth in subsection (n)(6)(B), no person may 
+assert an ownership interest under this section in the illegal proceeds 
+of a criminal act, irrespective of State property law.
+    ``(C) For the purposes of this section, a `legal interest' 
+includes, but is not limited to, a lien, mortgage, recorded security 
+device or valid assignment of an ownership interest. A `legal interest' 
+does not include: (i) a general unsecured interest in, or claim 
+against, the property or estate of the defendant; (ii) a bailment; 
+(iii) a possessory interest or title held by a nominee who exercises no 
+dominion or control over the property; or (iv) a constructive trust.''
+
+SEC. 514. MOTION AND DISCOVERY PROCEDURES FOR ANCILLARY HEARINGS.
+
+    Section 413(n)(4) of the Controlled Substances Act (21 U.S.C. 
+853(n)(4)) is amended by designating the present matter as subparagraph 
+(A), and by inserting the following new subparagraphs:
+            ``(B) Before conducting a hearing, the court may entertain 
+        a motion to dismiss the petition for lack of standing, for 
+        failure to state a claim upon which relief could be granted 
+        under this section, or for any other ground. For the purposes 
+        of such motion, all facts set forth in the petition shall be 
+        assumed to be true.
+            ``(C) If a motion referred to in subparagraph (B) is 
+        denied, or if no such motion is made, the court may, in its 
+        discretion, permit the parties to conduct discovery in 
+        accordance with the Federal Rules of Civil Procedure to the 
+        extent that the court determines such discovery to be necessary 
+        or desirable to resolve factual issues before the hearing. At 
+        the conclusion of such discovery, either party may seek to have 
+        the court dispose of the petition on a motion for summary 
+        judgment in the manner described in rule 56 of the Federal 
+        Rules of Civil Procedure.
+            ``(D) Any order disposing of a petition pursuant to a 
+        motion or pursuant to a hearing on the merits of the claim 
+        shall be appealable in accordance with the Federal Rules of 
+        Appellate Procedure applicable to civil cases. However, where 
+        multiple petitions are filed in the same case, an order 
+        dismissing or granting fewer than all of the petitions shall 
+        not be appealable until all petitions are resolved, unless the 
+        court expressly determines that there is no just reason for 
+        delay and directs the entry of final judgment with respect to 
+        one or more but fewer than all of the petitions.
+            ``(E) The district court shall retain jurisdiction over a 
+        petition filed pursuant to this subsection notwithstanding any 
+        appeal filed by the defendant in the criminal case.''
+
+SEC. 515. INTERVENTION BY THE DEFENDANT IN THE ANCILLARY PROCEEDING.
+
+    Section 413(n) of the Controlled Substances Act (21 U.S.C. 853(n)) 
+is amended by adding the following after paragraph (7):
+            ``(8) If the defendant has filed a timely appeal from a 
+        conviction under this section and the appeal is pending, any 
+        person filing a petition under this subsection shall serve a 
+        copy of the petition upon the defendant, and the defendant 
+        shall have a right to intervene in the ancillary proceeding 
+        with respect to the petition in accordance with rule 24 of the 
+        Federal Rules of Civil Procedure solely for the purpose of 
+        contesting the petitioner's alleged interest in the property 
+        ordered forfeited. The defendant shall have 20 days from the 
+        date of service of the petition to intervene. If the defendant 
+        does not intervene within such time period, he or she shall 
+        have waived the right to challenge in any forum any 
+        adjudication of the petitioner's interest in the property 
+        pursuant to this subsection, regardless of the outcome of the 
+        appeal.
+            ``(9) A hearing provided for in this subsection shall be 
+        limited to an adjudication of the validity of the petitioner's 
+        legal right, title or interest in the property ordered 
+        forfeited, and shall not provide a forum to relitigate the 
+        forefeitability of the property.''
+
+SEC. 516. IN PERSONAM JUDGMENTS.
+
+    Section 413(n)(1) of the Controlled Substances Act (21 U.S.C. 
+853(n)(1)) is amended by adding the following sentence at the end ``To 
+the extent that the order of forfeiture includes only an in personam 
+money judgment against the defendant, or includes only property 
+constituting contraband, no proceeding under this subsection shall be 
+necessary.''
+
+SEC. 517. RIGHT OF THIRD PARTIES TO CONTEST FORFEITURE OF SUBSTITUTE 
+              ASSETS.
+
+    (a) In General.--Section 413(c) of the Controlled Substances Act 
+(21 U.S.C. 853(c)), as amended by this Act, is further amended by--
+            (1) inserting the following after the first sentence: ``All 
+        right, title and interest in property described in subsection 
+        (p) of this section vests in the United States at the time an 
+        indictment, information or bill of particulars specifically 
+        describing the property as substitute assets is filed.''; and
+            (2) by striking ``Any such property that is subsequently 
+        transferred to a person other than the defendant'' and 
+        inserting ``Any property that is transferred to a person other 
+        than the defendant after the United States' interest in the 
+        property has vested pursuant to this subsection''.
+    (b) Conforming Amendment.--Section 413(n)(6) of the Controlled 
+Substances Act (21 U.S.C. 853(n)(6)) is amended by adding at the end 
+the following sentence: ``In the case of substitute assets, the 
+petitioner must show that his interest in the property existed at the 
+time the property vested in the United States pursuant to subsection 
+(c), or that he subsequently acquired his interest in the property as a 
+bona fide purchaser for value as provided in this subsection.''
+
+SEC. 518. FORFEITABLE PROPERTY TRANSFERRED TO THIRD PARTIES.
+
+    Section 413(c) of the Controlled Substances Act (21 U.S.C. 853(c)), 
+as amended by this Act, is further amended by designating the present 
+matter as paragraph (1) and adding the following new paragraph:
+            ``(2) If, as provided in paragraph (1), property 
+        transferred to a transferee is ordered forfeited and the 
+        transferee fails to establish that he is a bona fide purchaser, 
+        but the transferee is unable, due to the transferee's act or 
+        omission, to turn the property over to the United States, the 
+        transferee shall owe the United States a sum of money up to the 
+        value of the property transferred by the defendant, plus 
+        interest from the time of the transfer. Once the ancillary 
+        proceedings regarding the transferee's claim to be a bona fide 
+        purchaser are concluded, the district court that issued the 
+        order of forfeiture shall issue a judgment in favor of the 
+        United States and against the transferee for the amount of 
+        money to which the United States is entitled.''
+
+SEC. 519. FORFEITURE THIRD PARTY INTERESTS IN CRIMINAL CASES.
+
+    (a) In General.--Section 413 of the Controlled Substances Act (21 
+U.S.C. 853) is amended by adding the following after subsection (s):
+    ``(t) Forfeiture of Third Party Interests.--In lieu of filing a 
+parallel civil forfeiture action, the government may seek the 
+forfeiture of a third party's interest in property subject to 
+forfeiture under this section at the conclusion of the ancillary 
+proceeding described in subsection (n). Such proceeding shall be an in 
+rem proceeding in which the third party shall first have the burden of 
+establishing a legal interest in the property pursuant to subsection 
+(n), after which the government shall have the burden of establishing 
+the forfeitability of the third party's interest in the manner provided 
+for civil forfeitures in chapter 46, title 18, United States Code, and 
+the third party shall have the burden of establishing an innocent owner 
+defense pursuant to such chapter.''
+    (b) Conforming Amendment.--Section 413(n)(6) of the Controlled 
+Substances Act (21 U.S.C. 853(n)(6)) is amended by adding ``, unless 
+the government notifies the court that it will seek to forfeit the 
+petitioner's interest pursuant to subsection (t)'' after ``in 
+accordance with its determination''.
+
+SEC. 520. SEVERANCE OF JOINTLY HELD PROPERTY.
+
+    Section 413 of the Controlled Substances Act (21 U.S.C. 853) is 
+amended by adding the following after subsection (t):
+    ``(u) Severance of Jointly Held Property.--If the court determines, 
+pursuant to subsection (n) or (t), that a third party had a partial 
+interest in property otherwise subject to forfeiture, or a joint 
+tenancy or tenancy by the entirety in such property, the court shall 
+enter an appropriate order (1) severing the property; (2) transferring 
+the property to the government with a provision that the government 
+compensate the third party to the extent of his or her ownership 
+interest once a final order of forfeiture has been entered and 
+the property has been reduced to liquid assets, or (3) permitting the 
+third party to retain the property subject to a lien in favor of the 
+Government to the extent of the forfeitable interest in the property. 
+To effectuate the purposes of this subsection, a joint tenancy or 
+tenancy by the entireties shall be converted to a tenancy in common by 
+order of the court, irrespective of State law.''
+
+SEC. 521. VICTIM RESTITUTION.
+
+    Section 413 of the Controlled Substances Act (21 U.S.C. 853) is 
+amended by adding at the end the following new subsection:
+    ``(v) Victims and Restitution.--
+            ``(1) The defendant may not use property subject to 
+        forfeiture under this section to satisfy an order of 
+        restitution. However, if there are identifiable victims 
+        entitled to restitution from the defendant, and the defendant 
+        has no assets other than the property subject to forfeiture 
+        with which to pay restitution to the victims, the Government 
+        may move to dismiss the forfeiture allegations before entry of 
+        a judgment of forfeiture to allow the property to be used by 
+        the defendant to pay restitution in whatever manner the court 
+        determines to be appropriate if it grants the Government's 
+        motion.
+            ``(2) If an order of forfeiture is entered pursuant to this 
+        section and the defendant has no assets other than the 
+        forfeited property to pay restitution to identifiable victims 
+        who are entitled to restitution, the Government shall restore 
+        the forfeited property to the victims pursuant to subsection 
+        (i)(1) once the ancillary proceeding under subsection (n) has 
+        been completed and the costs of the forfeiture action have been 
+        deducted. On the motion of the Government, the court may enter 
+        any order necessary to facilitate the distribution of the 
+        property under this subsection.
+            ``(3) For purposes of this subsection, a `victim' is a 
+        person other than a person with a legal right, title, or 
+        interest in the forfeited property sufficient to satisfy the 
+        standing requirements of subsection (n)(2) who may nevertheless 
+        be entitled to restitution from the forfeited funds pursuant to 
+        28 CFR part 9.8. A person shall be considered a `victim' if the 
+        person is the victim of the offense giving rise to the 
+        forfeiture, or of any offense that was part of the same scheme, 
+        conspiracy, or pattern of criminal activity, including in the 
+        case of a money laundering offense, any offense constituting 
+        the underlying specified unlawful activity.''.
+
+SEC. 522. DELIVERY OF PROPERTY TO THE MARSHALS SERVICE.
+
+    Section 413(j) of the Controlled Substances Act (21 U.S.C. 853(j)) 
+is amended by inserting ``, and rule C(5) of the Supplemental Rules for 
+Certain Admiralty and Maritime Claims,'' before ``shall apply to a 
+criminal forfeiture''.
+                                 <all>
+

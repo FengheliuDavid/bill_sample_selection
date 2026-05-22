@@ -1,0 +1,439 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3269 Reported in House (RH)]
+
+                                                 Union Calendar No. 131
+111th CONGRESS
+  1st Session
+                                H. R. 3269
+
+                          [Report No. 111-236]
+
+ To amend the Securities Exchange Act of 1934 to provide shareholders 
+with an advisory vote on executive compensation and to prevent perverse 
+  incentives in the compensation practices of financial institutions.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 21, 2009
+
+ Mr. Frank of Massachusetts (for himself, Mr. Peters, Ms. Kilroy, Mr. 
+ Watt, Mr. Capuano, Mr. Al Green of Texas, Mr. Sherman, Mr. Carson of 
+ Indiana, Mr. Gutierrez, Mr. Ellison, and Mr. Hinojosa) introduced the 
+   following bill; which was referred to the Committee on Financial 
+                                Services
+
+                             July 30, 2009
+
+                     Additional sponsor: Ms. Waters
+
+                             July 30, 2009
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+ [For text of introduced bill, see copy of bill as introduced on July 
+                               21, 2009]
+
+
+
+
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Securities Exchange Act of 1934 to provide shareholders 
+with an advisory vote on executive compensation and to prevent perverse 
+  incentives in the compensation practices of financial institutions.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Corporate and Financial Institution 
+Compensation Fairness Act of 2009''.
+
+SEC. 2. SHAREHOLDER VOTE ON EXECUTIVE COMPENSATION DISCLOSURES.
+
+    (a) Amendment.--Section 14 of the Securities Exchange Act of 1934 
+(15 U.S.C. 78n) is amended by adding at the end the following new 
+subsection:
+    ``(i) Annual Shareholder Approval of Executive Compensation.--
+            ``(1) Annual vote.--Any proxy or consent or authorization 
+        (the solicitation of which is subject to the rules of the 
+        Commission pursuant to subsection (a)) for an annual meeting of 
+        the shareholders to elect directors (or a special meeting in 
+        lieu of such meeting) where proxies are solicited in respect of 
+        any security registered under section 12 occurring on or after 
+        the date that is 6 months after the date on which final rules 
+        are issued under paragraph (4), shall provide for a separate 
+        shareholder vote to approve the compensation of executives as 
+        disclosed pursuant to the Commission's compensation disclosure 
+        rules for named executive officers (which disclosure shall 
+        include the compensation committee report, the compensation 
+        discussion and analysis, the compensation tables, and any 
+        related materials, to the extent required by such rules). The 
+        shareholder vote shall not be binding on the issuer or the 
+        board of directors and shall not be construed as overruling a 
+        decision by such board, nor to create or imply any additional 
+        fiduciary duty by such board, nor shall such vote be construed 
+        to restrict or limit the ability of shareholders to make 
+        proposals for inclusion in such proxy materials related to 
+        executive compensation.
+            ``(2) Shareholder approval of golden parachute 
+        compensation.--
+                    ``(A) Disclosure.--In any proxy or consent 
+                solicitation material (the solicitation of which is 
+                subject to the rules of the Commission pursuant to 
+                subsection (a)) for a meeting of the shareholders 
+                occurring on or after the date that is 6 months after 
+                the date on which final rules are issued under 
+                paragraph (4), at which shareholders are asked to 
+                approve an acquisition, merger, consolidation, or 
+                proposed sale or other disposition of all or 
+                substantially all the assets of an issuer, the person 
+                making such solicitation shall disclose in the proxy or 
+                consent solicitation material, in a clear and simple 
+                form in accordance with regulations to be promulgated 
+                by the Commission, any agreements or understandings 
+                that such person has with any named executive officers 
+                of such issuer (or of the acquiring issuer, if such 
+                issuer is not the acquiring issuer) concerning any type 
+                of compensation (whether present, deferred, or 
+                contingent) that is based on or otherwise relates to 
+                the acquisition, merger, consolidation, sale, or other 
+                disposition of all or substantially all of the assets 
+                of the issuer and the aggregate total of all such 
+                compensation that may (and the conditions upon which it 
+                may) be paid or become payable to or on behalf of such 
+                executive officer.
+                    ``(B) Shareholder approval.--Any proxy or consent 
+                or authorization relating to the proxy or consent 
+                solicitation material containing the disclosure 
+                required by subparagraph (A) shall provide for a 
+                separate shareholder vote to approve such agreements or 
+                understandings and compensation as disclosed, unless 
+                such agreements or understandings have been subject to 
+                a shareholder vote under paragraph (1). A vote by the 
+                shareholders shall not be binding on the issuer or the 
+                board of directors of the issuer or the person making 
+                the solicitation and shall not be construed as 
+                overruling a decision by any such person or issuer, nor 
+                to create or imply any additional fiduciary duty by any 
+                such person or issuer.
+            ``(3) Disclosure of votes.--Every institutional investment 
+        manager subject to section 13(f) shall report at least annually 
+        how it voted on any shareholder vote pursuant to paragraphs (1) 
+        or (2) of this section, unless such vote is otherwise required 
+        to be reported publicly by rule or regulation of the 
+        Commission.
+            ``(4) Rulemaking.--Not later than 6 months after the date 
+        of the enactment of the Corporate and Financial Institution 
+        Compensation Fairness Act of 2009, the Commission shall issue 
+        final rules to implement this subsection.
+            ``(5) Exemption authority.--The Commission may exempt 
+        certain categories of issuers from the requirements of this 
+        subsection, where appropriate in view of the purpose of this 
+        subsection. In determining appropriate exemptions, the 
+        Commission shall take into account, among other considerations, 
+        the potential impact on smaller reporting issuers.''.
+    (b) Prohibition on Clawbacks.--
+            (1) Prohibition.--No compensation of any executive of an 
+        issuer, having been approved by a majority of shareholders 
+        pursuant to section 14(i) of the Securities Exchange Act of 
+        1934 (as added by subsection (a)), may be subject to any 
+        clawback except--
+                    (A) in accordance with any contract of such 
+                executive providing for such a clawback; or
+                    (B) in the case of fraud on the part of such 
+                executive, to the extent provided by Federal or State 
+                law.
+            (2) Regulations.--The Securities and Exchange Commission 
+        shall promulgate rules necessary to implement and enforce 
+        paragraph (1).
+
+SEC. 3. COMPENSATION COMMITTEE INDEPENDENCE.
+
+    (a) Standards Relating to Compensation Committees.--The Securities 
+Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting 
+after section 10A the following new section:
+
+``SEC. 10B. STANDARDS RELATING TO COMPENSATION COMMITTEES.
+
+    ``(a) Commission Rules.--
+            ``(1) In general.--Effective not later than 9 months after 
+        the date of enactment of the Corporate and Financial 
+        Institution Compensation Fairness Act of 2009, the Commission 
+        shall, by rule, direct the national securities exchanges and 
+        national securities associations to prohibit the listing of any 
+        class of equity security of an issuer that is not in compliance 
+        with the requirements of any portion of subsections (b) through 
+        (f).
+            ``(2) Opportunity to cure defects.--The rules of the 
+        Commission under paragraph (1) shall provide for appropriate 
+        procedures for an issuer to have an opportunity to cure any 
+        defects that would be the basis for a prohibition under 
+        paragraph (1) before the imposition of such prohibition.
+            ``(3) Exemption authority.--The Commission may exempt 
+        certain categories of issuers from the requirements of 
+        subsections (b) through (f), where appropriate in view of the 
+        purpose of this section. In determining appropriate exemptions, 
+        the Commission shall take into account, among other 
+        considerations, the potential impact on smaller reporting 
+        issuers.
+    ``(b) Independence of Compensation Committees.--
+            ``(1) In general.--Each member of the compensation 
+        committee of the board of directors of the issuer shall be 
+        independent.
+            ``(2) Criteria.--In order to be considered to be 
+        independent for purposes of this subsection, a member of a 
+        compensation committee of an issuer may not, other than in his 
+        or her capacity as a member of the compensation committee, the 
+        board of directors, or any other board committee accept any 
+        consulting, advisory, or other compensatory fee from the 
+        issuer.
+            ``(3) Exemption authority.--The Commission may exempt from 
+        the requirements of paragraph (2) a particular relationship 
+        with respect to compensation committee members, where 
+        appropriate in view of the purpose of this section.
+            ``(4) Definition.--As used in this section, the term 
+        `compensation committee' means--
+                    ``(A) a committee (or equivalent body) established 
+                by and amongst the board of directors of an issuer for 
+                the purpose of determining and approving the 
+                compensation arrangements for the executive officers of 
+                the issuer; and
+                    ``(B) if no such committee exists with respect to 
+                an issuer, the independent members of the entire board 
+                of directors.
+    ``(c) Independence Standards for Compensation Consultants and Other 
+Committee Advisors.--Any compensation consultant or other similar 
+adviser to the compensation committee of any issuer shall meet 
+standards for independence established by the Commission by regulation.
+    ``(d) Compensation Committee Authority Relating to Compensation 
+Consultants.--
+            ``(1) In general.--The compensation committee of each 
+        issuer, in its capacity as a committee of the board of 
+        directors, shall have the authority, in its sole discretion, to 
+        retain and obtain the advice of a compensation consultant 
+        meeting the standards for independence promulgated pursuant to 
+        subsection (c), and the compensation committee shall be 
+        directly responsible for the appointment, compensation, and 
+        oversight of the work of such independent compensation 
+        consultant. This provision shall not be construed to require 
+        the compensation committee to implement or act consistently 
+        with the advice or recommendations of the compensation 
+        consultant, and shall not otherwise affect the compensation 
+        committee's ability or obligation to exercise its own judgment 
+        in fulfillment of its duties.
+            ``(2) Disclosure.--In any proxy or consent solicitation 
+        material for an annual meeting of the shareholders (or a 
+        special meeting in lieu of the annual meeting) occurring on or 
+        after the date that is 1 year after the date of enactment of 
+        the Corporate and Financial Institution Compensation Fairness 
+        Act of 2009, each issuer shall disclose in the proxy or consent 
+        material, in accordance with regulations to be promulgated by 
+        the Commission whether the compensation committee of the issuer 
+        retained and obtained the advice of a compensation consultant 
+        meeting the standards for independence promulgated pursuant to 
+        subsection (c).
+            ``(3) Regulations.--In promulgating regulations under this 
+        subsection or any other provision of law with respect to 
+        compensation consultants, the Commission shall ensure that such 
+        regulations are competitively neutral among categories of 
+        consultants and preserve the ability of compensation committees 
+        to retain the services of members of any such category.
+    ``(e) Authority To Engage Independent Counsel and Other Advisors.--
+The compensation committee of each issuer, in its capacity as a 
+committee of the board of directors, shall have the authority, in its 
+sole discretion, to retain and obtain the advice of independent counsel 
+and other advisers meeting the standards for independence promulgated 
+pursuant to subsection (c), and the compensation committee shall be 
+directly responsible for the appointment, compensation, and oversight 
+of the work of such independent counsel and other advisers. This 
+provision shall not be construed to require the compensation committee 
+to implement or act consistently with the advice or recommendations of 
+such independent counsel and other advisers, and shall not otherwise 
+affect the compensation committee's ability or obligation to exercise 
+its own judgment in fulfillment of its duties.
+    ``(f) Funding.--Each issuer shall provide for appropriate funding, 
+as determined by the compensation committee, in its capacity as a 
+committee of the board of directors, for payment of compensation--
+            ``(1) to any compensation consultant to the compensation 
+        committee that meets the standards for independence promulgated 
+        pursuant to subsection (c), and
+            ``(2) to any independent counsel or other adviser to the 
+        compensation committee.''.
+    (b) Study and Review Required.--
+            (1) In general.--The Securities and Exchange Commission 
+        shall conduct a study and review of the use of compensation 
+        consultants meeting the standards for independence promulgated 
+        pursuant to section 10B(c) of the Securities Exchange Act of 
+        1934 (as added by subsection (a)), and the effects of such use.
+            (2) Report to congress.--Not later than 2 years after the 
+        rules required by the amendment made by this section take 
+        effect, the Commission shall submit a report to the Congress on 
+        the results of the study and review required by this paragraph.
+
+SEC. 4. ENHANCED COMPENSATION STRUCTURE REPORTING TO REDUCE PERVERSE 
+              INCENTIVES.
+
+    (a) Enhanced Disclosure and Reporting of Compensation 
+Arrangements.--
+            (1) In general.--Not later than 9 months after the date of 
+        enactment of this Act, the appropriate Federal regulators 
+        jointly shall prescribe regulations to require each covered 
+        financial institution to disclose to the appropriate Federal 
+        regulator the structures of all incentive-based compensation 
+        arrangements offered by such covered financial institutions 
+        sufficient to determine whether the compensation structure--
+                    (A) is aligned with sound risk management;
+                    (B) is structured to account for the time horizon 
+                of risks; and
+                    (C) meets such other criteria as the appropriate 
+                Federal regulators jointly may determine to be 
+                appropriate to reduce unreasonable incentives offered 
+                by such institutions for employees to take undue risks 
+                that--
+                            (i) could threaten the safety and soundness 
+                        of covered financial institutions; or
+                            (ii) could have serious adverse effects on 
+                        economic conditions or financial stability.
+            (2) Rules of construction.--Nothing in this subsection 
+        shall be construed as requiring the reporting of the actual 
+        compensation of particular individuals. Nothing in this 
+        subsection shall be construed to require a covered financial 
+        institution that does not have an incentive-based payment 
+        arrangement to make the disclosures required under this 
+        subsection.
+    (b) Prohibition on Certain Compensation Arrangements.--Not later 
+than 9 months after the date of enactment of this Act, and taking into 
+account the factors described in subparagraphs (A), (B), and (C) of 
+subsection (a)(1), the appropriate Federal regulators shall jointly 
+prescribe regulations that prohibit any incentive-based payment 
+arrangement, or any feature of any such arrangement, that the 
+regulators determine encourages inappropriate risks by covered 
+financial institutions that--
+            (1) could threaten the safety and soundness of covered 
+        financial institutions; or
+            (2) could have serious adverse effects on economic 
+        conditions or financial stability.
+    (c) Enforcement.--The provisions of this section shall be enforced 
+under section 505 of the Gramm-Leach-Bliley Act and, for purposes of 
+such section, a violation of this section shall be treated as a 
+violation of subtitle A of title V of such Act.
+    (d) Definitions.--As used in this section--
+            (1) the term ``appropriate Federal regulator'' means--
+                    (A) the Board of Governors of the Federal Reserve 
+                System;
+                    (B) the Office of the Comptroller of the Currency;
+                    (C) the Board of Directors of the Federal Deposit 
+                Insurance Corporation;
+                    (D) the Director of the Office of Thrift 
+                Supervision;
+                    (E) the National Credit Union Administration Board;
+                    (F) the Securities and Exchange Commission; and
+                    (G) the Federal Housing Finance Agency; and
+            (2) the term ``covered financial institution'' means--
+                    (A) a depository institution or depository 
+                institution holding company, as such terms are defined 
+                in section 3 of the Federal Deposit Insurance Act (12 
+                U.S.C. 1813);
+                    (B) a broker-dealer registered under section 15 of 
+                the Securities Exchange Act of 1934 (15 U.S.C. 78o);
+                    (C) a credit union, as described in section 
+                19(b)(1)(A)(iv) of the Federal Reserve Act;
+                    (D) an investment advisor, as such term is defined 
+                in section 202(a)(11) of the Investment Advisers Act of 
+                1940 (15 U.S.C. 80b-2(a)(11));
+                    (E) the Federal National Mortgage Association;
+                    (F) the Federal Home Loan Mortgage Corporation; and
+                    (G) any other financial institution that the 
+                appropriate Federal regulators, jointly, by rule, 
+                determine should be treated as a covered financial 
+                institution for purposes of this section.
+    (e) Exemption for Certain Financial Institutions.--The requirements 
+of this section shall not apply to covered financial institutions with 
+assets of less than $1,000,000,000.
+    (f) GAO Study.--
+            (1) Study required.--
+                    (A) In general.--The Comptroller General of the 
+                United States shall carry out a study to determine 
+                whether there is a correlation between compensation 
+                structures and excessive risk taking.
+                    (B) Factors to consider.--In carrying out the study 
+                required under subparagraph (A), the Comptroller 
+                General shall--
+                            (i) consider compensation structures used 
+                        by companies from 2000 to 2008; and
+                            (ii) compare companies that failed, or 
+                        nearly failed but for government assistance, to 
+                        companies that remained viable throughout the 
+                        housing and credit market crisis of 2007 and 
+                        2008, including the compensation practices of 
+                        all such companies.
+                    (C) Determining companies that failed or nearly 
+                failed.--In determining whether a company failed, or 
+                nearly failed but for government assistance, for 
+                purposes of subparagraph (B)(ii), the Comptroller 
+                General shall focus on--
+                            (i) companies that received exceptional 
+                        assistance under the Troubled Asset Relief 
+                        Program under title I of the Emergency Economic 
+                        Stabilization Act of 2009 (12 U.S.C. 5211 et 
+                        seq.) or other forms of significant government 
+                        assistance, including under the Automotive 
+                        Industry Financing Program, the Targeted 
+                        Investment Program, the Asset Guarantee 
+                        Program, and the Systemically Significant 
+                        Failing Institutions Program;
+                            (ii) the Federal National Mortgage 
+                        Association;
+                            (iii) the Federal Home Loan Mortgage 
+                        Corporation; and
+                            (iv) companies that participated in the 
+                        Security and Exchange Commission's Consolidated 
+                        Supervised Entities Program as of January 2008.
+            (2) Report.--Not later than the end of the 1-year period 
+        beginning on the date of the enactment of this Act, the 
+        Comptroller General shall issue a report to the Congress 
+        containing the results of the study required under paragraph 
+        (1).
+                                                 Union Calendar No. 131
+
+111th CONGRESS
+
+  1st Session
+
+                               H. R. 3269
+
+                          [Report No. 111-236]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To amend the Securities Exchange Act of 1934 to provide shareholders 
+with an advisory vote on executive compensation and to prevent perverse 
+  incentives in the compensation practices of financial institutions.
+
+_______________________________________________________________________
+
+                             July 30, 2009
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+

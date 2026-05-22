@@ -1,0 +1,102 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 275 Introduced in House (IH)]
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                H. R. 275
+
+ To amend the Securities and Exchange Act of 1934 to require improved 
+    disclosure of corporate charitable contributions, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 8, 2003
+
+Mr. Gillmor (for himself and Mr. Tiberi) introduced the following bill; 
+       which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Securities and Exchange Act of 1934 to require improved 
+    disclosure of corporate charitable contributions, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+     This Act may be cited as the `` Corporate Charitable Disclosure 
+Act of 2003''.
+
+SEC. 2. DISCLOSURE OF CHARITABLE CONTRIBUTIONS.
+
+     Section 14 of the Securities and Exchange Act of 1934 (15 U.S.C. 
+78n) is amended by adding at the end thereof the following new 
+subsection:
+            ``(i) Disclosure of charitable contributions.--
+            ``(1) Disclosures required.--
+                    ``(A) Substantial contributions to insider-
+                affiliated charities.--The statements or documents 
+                described in subparagraph (B) shall include--
+                            ``(i) a disclosure of contributions whose 
+                        value exceeds the designated amount that were 
+                        made by the issuer during the issuer's previous 
+                        year to any nonprofit organization of which a 
+                        director, officer, or controlling person of the 
+                        issuer, or a spouse thereof, was a director or 
+                        trustee; and
+                            ``(ii) the name of such nonprofit 
+                        organization and the value of the contribution.
+                    ``(B) Statements and documents covered.--The 
+                requirements of subparagraph (A) apply to--
+                            ``(i) the proxy statement or other 
+                        documents accompanying any proxy, consent, or 
+                        authorization solicited by or on behalf of the 
+                        management of an issuer in respect of a 
+                        security registered pursuant to section 12 of 
+                        this title, or a security issued by an 
+                        investment company registered under the 
+                        Investment Company Act of 1940, prior to any 
+                        annual meeting of the holders of such security; 
+                        or
+                            ``(ii) if proxies, consents, or 
+                        authorizations are not solicited by the 
+                        management in respect of the annual meeting, 
+                        the written information statement distributed 
+                        in connection therewith.
+            ``(2) Annual statements required.--Every issuer with a 
+        security registered pursuant to section 12 of this title, or a 
+        security issued by an investment company registered under the 
+        Investment Company Act of 1940, shall annually make available, 
+        in a format designated by the Commission, the total value of 
+        contributions made by the issuer to nonprofit organizations 
+        during its previous fiscal year, and, if the value of 
+        contributions to any organization exceeds the designated 
+        amount, the name of that organization and the value of 
+        contributions.
+            ``(3) Definitions.--For purposes of this subsection--
+                    ``(A) the term `designated amount' means such 
+                amount as may be designated by the Commission by rule, 
+                consistent with the public interest and the protection 
+                of investors for purposes of this subsection; and
+                    ``(B) the Commission may, by such rules as it deems 
+                necessary or appropriate in the public interest, define 
+                the terms executive officer and controlling person.''.
+                                 <all>
+

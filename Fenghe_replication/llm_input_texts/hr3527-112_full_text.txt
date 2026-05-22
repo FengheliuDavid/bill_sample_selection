@@ -1,0 +1,208 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3527 Reported in House (RH)]
+
+                                                 Union Calendar No. 270
+112th CONGRESS
+  2d Session
+                                H. R. 3527
+
+                          [Report No. 112-391]
+
+ To amend the Commodity Exchange Act to clarify the definition of swap 
+                                dealer.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           November 30, 2011
+
+   Mr. Hultgren (for himself, Mr. Boren, Mrs. Biggert, Mr. Dold, Mr. 
+    Johnson of Illinois, Mr. Lance, Mr. Kinzinger of Illinois, Mr. 
+  Manzullo, and Mr. Schock) introduced the following bill; which was 
+                referred to the Committee on Agriculture
+
+                            February 8, 2012
+
+ Additional sponsors: Mr. Barrow, Mr. King of New York, Mr. Matheson, 
+                        and Mr. Ross of Arkansas
+
+                            February 8, 2012
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Commodity Exchange Act to clarify the definition of swap 
+                                dealer.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+<DELETED>SECTION 1. SHORT TITLE.</DELETED>
+
+<DELETED>    This Act may be cited as the ``Protecting Main Street End-
+Users From Excessive Regulation''.</DELETED>
+
+<DELETED>SEC. 2. CLARIFICATION OF THE DEFINITION OF SWAP 
+              DEALER.</DELETED>
+
+<DELETED>    Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 
+1a(49)) is amended to read as follows:</DELETED>
+        <DELETED>    ``(49) Swap dealer.--</DELETED>
+                <DELETED>    ``(A) In general.--The term `swap dealer' 
+                means any person who is engaged in the business of 
+                entering into swaps, and--</DELETED>
+                        <DELETED>    ``(i) holds itself out as a dealer 
+                        in swaps;</DELETED>
+                        <DELETED>    ``(ii) makes a market in swaps; 
+                        or</DELETED>
+                        <DELETED>    ``(iii) engages in any activity 
+                        causing the person to be commonly known as a 
+                        dealer or market maker in swaps,</DELETED>
+                <DELETED>provided however, in no event shall an insured 
+                depository institution be considered to be a swap 
+                dealer to the extent it offers to enter into a swap 
+                with a customer in connection with originating a loan 
+                to the customer.</DELETED>
+                <DELETED>    ``(B) Inclusion.--A person may be 
+                designated as a swap dealer for a single type or single 
+                class or category of swap or activities and considered 
+                not to be a swap dealer for other types, classes, or 
+                categories of swaps or activities.</DELETED>
+                <DELETED>    ``(C) Exception.--In determining whether a 
+                person is a `swap dealer' within the meaning of 
+                subparagraph (A), no consideration shall be given to 
+                any transaction entered into for the person's own 
+                account for the purpose of--</DELETED>
+                        <DELETED>    ``(i) hedging or mitigating 
+                        commercial risk; or</DELETED>
+                        <DELETED>    ``(ii) achieving the person's own 
+                        trading or investment objectives.</DELETED>
+                <DELETED>    ``(D) De minimis exception.--The 
+                Commission shall exempt from designation as a swap 
+                dealer an entity that enters into swap dealing 
+                transactions with or on behalf of the person's 
+                customers if the aggregate gross notional amount of the 
+                outstanding swap dealing transactions entered into over 
+                the course of the preceding calendar year does not 
+                exceed $3,000,000,000 (or such greater amount as the 
+                Commission may establish as market conditions warrant), 
+                multiplied by the sum of 1 and the percentage (if any) 
+                by which the Consumer Price Index for all Urban 
+                Customers published by the Bureau of Labor Statistics 
+                of the Department of Labor changed for the 12-month 
+                period ending the preceding April 30.''.</DELETED>
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Protecting Main Street End-Users 
+From Excessive Regulation''.
+
+SEC. 2. CLARIFICATION OF THE DEFINITION OF SWAP DEALER.
+
+    Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is 
+amended to read as follows:
+            ``(49) Swap dealer.--
+                    ``(A) In general.--The term `swap dealer' means any 
+                person who--
+                            ``(i) holds itself out as a dealer in 
+                        swaps;
+                            ``(ii) makes a market in swaps;
+                            ``(iii) regularly enters into swaps with 
+                        counterparties as an ordinary course of 
+                        business for its own account; or
+                            ``(iv) engages in any activity causing the 
+                        person to be commonly known as a dealer or 
+                        market maker in swaps,
+                provided however, in no event shall an insured 
+                depository institution be considered to be a swap 
+                dealer to the extent it offers to enter into a swap 
+                with a customer in connection with originating a loan 
+                to the customer.
+                    ``(B) Inclusion.--A person may be designated as a 
+                swap dealer for a single type or single class or 
+                category of swap or activities and considered not to be 
+                a swap dealer for other types, classes, or categories 
+                of swaps or activities.
+                    ``(C) Exceptions.--
+                            ``(i) The term `swap dealer' does not 
+                        include a person that enters into swaps for 
+                        such person's own account, either individually 
+                        or in a fiduciary capacity, but not as part of 
+                        regular business activities as described in 
+                        subparagraph (A).
+                            ``(ii) In determining whether a person is a 
+                        `swap dealer' within the meaning of 
+                        subparagraph (A), any transaction entered into 
+                        for a person's own account for the purpose of 
+                        hedging or mitigating commercial risk shall not 
+                        be considered as part of that determination.
+                            ``(iii) The Commission shall by rule adopt 
+                        standards distinguishing the activities 
+                        described in subparagraph (A) and entering into 
+                        swaps for a person's own account for the 
+                        purpose of achieving one's own trading 
+                        objectives as determined by the Commission.
+                    ``(D) De minimis exception.--The Commission shall 
+                exempt from designation as a swap dealer an entity that 
+                enters into swap dealing transactions with or on behalf 
+                of the person's customers if the aggregate gross 
+                notional amount of the outstanding swap dealing 
+                transactions entered into over the course of the 
+                preceding calendar year does not exceed $3,000,000,000 
+                (or such greater amount as the Commission may establish 
+                as market conditions warrant), multiplied by the sum of 
+                1 and the percentage (if any) by which the Consumer 
+                Price Index for all Urban Customers published by the 
+                Bureau of Labor Statistics of the Department of Labor 
+                changed for the 12-month period ending the preceding 
+                April 30.''.
+
+SEC. 3. IMPLEMENTATION.
+
+    The amendments made by this Act shall be implemented--
+            (1) without regard to--
+                    (A) chapter 35 of title 44, United States Code; and
+                    (B) the notice and comment provisions of section 
+                553 of title 5, United States Code; and
+            (2) through the promulgation of an interim final rule.
+                                                 Union Calendar No. 270
+
+112th CONGRESS
+
+  2d Session
+
+                               H. R. 3527
+
+                          [Report No. 112-391]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To amend the Commodity Exchange Act to clarify the definition of swap 
+                                dealer.
+
+_______________________________________________________________________
+
+                            February 8, 2012
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+

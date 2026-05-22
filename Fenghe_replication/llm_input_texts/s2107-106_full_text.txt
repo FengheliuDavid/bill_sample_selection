@@ -1,0 +1,918 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[S. 2107 Reported in Senate (RS)]
+
+
+
+
+
+
+                                                       Calendar No. 712
+106th CONGRESS
+  2d Session
+                                S. 2107
+
+                          [Report No. 106-360]
+
+To amend the Securities Act of 1933 and the Securities Exchange Act of 
+1934 to reduce securities fees in excess of those required to fund the 
+    operations of the Securities and Exchange Commission, to adjust 
+compensation provisions for employees of the Commission, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           February 28, 2000
+
+ Mr. Gramm (for himself, Mr. Grams, Mr. Schumer, Mr. Mack, Mr. Hagel, 
+  Mr. Bunning, Mr. Allard, Mr. Bennett, Mr. Bayh, Mr. Torricelli, Mr. 
+Crapo, Mr. Enzi, Mr. Bond, and Mr. Reid) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+                             July 25, 2000
+
+                 Reported by Mr. Gramm, with amendments
+  [Omit the part struck through and insert the part printed in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Securities Act of 1933 and the Securities Exchange Act of 
+1934 to reduce securities fees in excess of those required to fund the 
+    operations of the Securities and Exchange Commission, to adjust 
+compensation provisions for employees of the Commission, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Competitive Market 
+Supervision Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+<DELETED>Sec. 1. Short title; table of contents.
+<DELETED>Sec. 2. Reduction in registration fee rates; elimination of 
+                            general revenue component.
+<DELETED>Sec. 3. Reduction in merger and tender fee rates; 
+                            reclassification as offsetting collections.
+<DELETED>Sec. 4. Reduction in transaction fees; elimination of general 
+                            revenue component.
+<DELETED>Sec. 5. Adjustments to fees.
+<DELETED>Sec. 6. Comparability Provisions.
+<DELETED>Sec. 7. Effective date.
+
+</DELETED>Sec. 1. Short title; table of contents.
+
+                    TITLE I--FEES AND COMPARABILITY
+
+Sec. 101. Reduction in registration fee rates; elimination of general 
+                            revenue component.
+Sec. 102. Reduction in merger and tender fee rates; reclassification as 
+                            offsetting collections.
+Sec. 103. Reduction in transaction fees; elimination of general revenue 
+                            component.
+Sec. 104. Adjustments to fee rates.
+Sec. 105. Comparability provisions.
+Sec. 106. Authorization of appropriations.
+Sec. 107. Effective date.
+
+                TITLE II--SECURITIES MARKETS ENHANCEMENT
+
+Sec. 201. Short title.
+
+           Subtitle A--Reducing the Cost of Capital Formation
+
+Sec. 211. Exempted securities and organizations.
+Sec. 212. National market treatment for certain securities.
+
+Subtitle B--Enhancement of Disclosure and Investment Adviser Regulation
+
+Sec. 221. Ensuring adequate recordkeeping.
+Sec. 222. Elimination of barriers to providing services.
+Sec. 223. Reducing financial reporting burdens.
+Sec. 224. Enhancing transparency of records.
+
+                    TITLE I--FEES AND COMPARABILITY
+
+SEC. <DELETED>2. </DELETED>101. REDUCTION IN REGISTRATION FEE RATES; 
+              ELIMINATION OF GENERAL REVENUE COMPONENT.
+
+    Section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) is 
+amended--
+            (1) by striking paragraph (2) and inserting the following:
+            ``(2) Fee payment required.--At the time of filing a 
+        registration statement, the applicant shall pay to the 
+        Commission a fee that shall be equal to the amount determined 
+        under the rate established by paragraph (3). The Commission 
+        shall publish in the Federal Register notices of the fee rate 
+        applicable under this section for each fiscal year.'';
+            (2) by striking paragraph (3);
+            (3) by redesignating paragraphs (4) and (5) as paragraphs 
+        (3) and (4), respectively;
+            (4) in paragraph (3), as redesignated--
+                    (A) by striking subparagraph (A) and inserting the 
+                following:
+                    ``(A) In general.--Except as provided in 
+                subparagraphs (B) and (C), the rate determined under 
+                this paragraph is a rate equal to the following amount 
+                per $1,000,000 of the maximum aggregate price at which 
+                the securities are proposed to be offered:
+                            ``(i) $67 for each of fiscal years 2001 
+                        through 2006.
+                            ``(ii) $33 for fiscal year 2007 and each 
+                        fiscal year thereafter.''; and
+                    (B) in subparagraph (B), by striking ``this 
+                paragraph (4)'' and inserting ``this paragraph''; and
+            (5) by striking paragraph (4), as redesignated, and 
+        inserting the following:
+            ``(4) Pro rata application of rate.--The rate required by 
+        this subsection shall be applied pro rata to amounts and 
+        balances equal to or less than $1,000,000.''.
+
+SEC. <DELETED>3. </DELETED>102. REDUCTION IN MERGER AND TENDER FEE 
+              RATES; RECLASSIFICATION AS OFFSETTING COLLECTIONS.
+
+    (a) Section 13.--Section 13(e)(3) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78m(e)(3)) is amended to read as follows:
+            ``(3) Fees.--
+                    ``(A) In general.--At the time of the filing of any 
+                statement that the Commission may require by rule 
+                pursuant to paragraph (1), the person making the filing 
+                shall pay to the Commission a fee equal to--
+                            ``(i) $67 for each $1,000,000 of the value 
+                        of the securities proposed to be purchased, for 
+                        each of fiscal years 2001 through 2006; and
+                            ``(ii) $33 for each $1,000,000 of the value 
+                        of securities proposed to be purchased, for 
+                        fiscal year 2007 and each fiscal year 
+                        thereafter.
+                    ``(B) Reduction.--The fee required by this 
+                paragraph shall be reduced with respect to securities 
+                in an amount equal to any fee paid with respect to any 
+                securities issued in connection with the proposed 
+                transaction under section 6(b) of the Securities Act of 
+                1933, or the fee paid under that section shall be 
+                reduced in an amount equal to the fee paid to the 
+                Commission in connection with such transaction under 
+                this paragraph.
+                    ``(C) Limitation; deposit of fees.--
+                            ``(i) Limitation.--Except as provided in 
+                        subparagraph (D), no amounts shall be collected 
+                        pursuant to this paragraph for any fiscal year, 
+except to the extent provided in advance in appropriations Acts.
+                            ``(ii) Deposit of fees.--Fees collected 
+                        during any fiscal year pursuant to this 
+                        paragraph shall be deposited and credited as 
+                        offsetting collections in accordance with 
+                        appropriations Acts.
+                    ``(D) Lapse of appropriations.--If, on the first 
+                day of a fiscal year, a regular appropriation to the 
+                Commission has not been enacted for that fiscal year, 
+                the Commission shall continue to collect fees (as 
+offsetting collections) under this paragraph at the rate in effect 
+during the preceding fiscal year, until such a regular appropriation is 
+enacted.
+                    ``(E) Pro rata application of rate.--The rate 
+                required by this paragraph shall be applied pro rata to 
+                amounts and balances equal to or less than 
+                $1,000,000.''.
+    (b) Section 14.--
+            (1) Preliminary proxy solicitations.--Section 14(g)(1) of 
+        the Securities Exchange Act of 1934 (15 U.S.C. 78n(g)(1)) is 
+        amended--
+                    (A) in subparagraph (A), by striking ``Commission 
+                the following fees'' and all that follows through the 
+                end of the subparagraph and inserting ``Commission--
+                            ``(i) for preliminary proxy solicitation 
+                        material involving an acquisition, merger, or 
+                        consolidation, if there is a proposed payment 
+                        of each or transfer of securities or property 
+                        to shareholders, a fee equal to--
+                                    ``(I) $67 for each $1,000,000 of 
+                                such proposed payment, or of the value 
+                                of such securities or other property 
+                                proposed to be transferred, for each of 
+                                fiscal years 2001 through 2006; and
+                                    ``(II) $33 for each $1,000,000 of 
+                                such proposed payment, or of the value 
+                                of such securities or other property 
+                                proposed to be transferred, for fiscal 
+                                year 2007 and each fiscal year 
+                                thereafter; and
+                            ``(ii) for preliminary proxy solicitation 
+                        material involving a proposed sale or other 
+                        disposition of substantially all of the assets 
+                        of a company, a fee equal to--
+                                    ``(I) $67 for each $1,000,000 of 
+                                the cash or of the value of any 
+                                securities or other property proposed 
+                                to be received upon such sale or 
+                                disposition, for each of fiscal years 
+                                2001 through 2006; and
+                                    ``(II) $33 for each $1,000,000 of 
+                                the cash or of the value of any 
+                                securities or other property proposed 
+                                to be received upon such sale or 
+                                disposition, for fiscal year 2007 and 
+                                each fiscal year thereafter.'';
+                    (B) in subparagraph (B), by inserting 
+                ``Reduction.--'' before ``The fee''; and
+                    (C) by adding at the end the following:
+                    ``(C) Limitation; deposit of fees.--
+                            ``(i) Limitation.--Except as provided in 
+                        subparagraph (D), no amounts shall be collected 
+                        pursuant to this paragraph for any fiscal year, 
+                        except to the extent provided in advance in 
+                        appropriations Acts.
+                            ``(ii) Deposit of fees.--Fees collected 
+                        during any fiscal year pursuant to this 
+                        paragraph shall be deposited and credited as 
+                        offsetting collections in accordance with 
+                        appropriations Acts.
+                    ``(D) Lapse of appropriations.--If, on the first 
+                day of a fiscal year, a regular appropriation to the 
+                Commission has not been enacted for that fiscal year, 
+                the Commission shall continue to collect fees (as 
+                offsetting collections) under this paragraph at the 
+                rate in effect during the preceding fiscal year, until 
+                such a regular appropriation is enacted.
+                    ``(E) Pro rata application of rate.--The rate 
+                required by this paragraph shall be applied pro rata to 
+                amounts and balances equal to or less than 
+                $1,000,000.''.
+            (2) Other filings.--Section 14(g)(3) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78n(g)(3)) is amended--
+                    (A) by striking ``At the time'' and inserting the 
+                following: ``Other filings.--
+                    ``(A) Fee rate.--At the time'';
+                    (B) by striking ``the Commission a fee of'' and all 
+                that follows through ``The fee'' and inserting the 
+                following: ``the Commission a fee equal to--
+                            ``(i) $67 for each $1,000,000 of the 
+                        aggregate amount of cash or of the value of 
+                        securities or other property proposed to be 
+                        offered, for each of fiscal years 2001 through 
+                        2006; and
+                            ``(ii) $33 for each $1,000,000 of the 
+                        aggregate amount of cash or of the value of 
+                        securities or other property proposed to be 
+                        offered, for fiscal year 2007 and each fiscal 
+                        year thereafter.
+                    ``(B) Reduction.--The fee required under 
+                subparagraph (A)''; and
+                    (C) by adding at the end the following:
+                    ``(C) Limitation; deposit of fees.--
+                            ``(i) Limitation.--Except as provided in 
+                        subparagraph (D), no amounts shall be collected 
+                        pursuant to this paragraph for any fiscal year, 
+                        except to the extent provided in advance in 
+                        appropriations Acts.
+                            ``(ii) Deposit of fees.--Fees collected 
+                        during any fiscal year pursuant to this 
+                        paragraph shall be deposited and credited as 
+                        offsetting collections in accordance with 
+                        appropriations Acts.
+                    ``(D) Lapse of appropriations.--If, on the first 
+                day of a fiscal year, a regular appropriation to the 
+                Commission has not been enacted for that fiscal year, 
+                the Commission shall continue to collect fees (as 
+                offsetting collections) under this paragraph at the 
+                rate in effect during the preceding fiscal year, until 
+                such a regular appropriations is enacted.
+                    ``(E) Pro rata application of rate.--The rate 
+                required by this paragraph shall be applied pro rata to 
+                amounts and balances equal to or less than 
+                $1,000,000.''.
+
+SEC. <DELETED>4. </DELETED>103. REDUCTION IN TRANSACTION FEES; 
+              ELIMINATION OF GENERAL REVENUE COMPONENT.
+
+    Section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee) 
+is amended--
+            (1) by striking subsections (b) through (d) and inserting 
+        the following:
+    ``(b) Transaction Fees.--
+            ``(1) In general.--Each national securities exchange and 
+        national securities association shall pay to the Commission a 
+        fee at a rate equal to the transaction offsetting collection 
+        rate described in paragraph (2) of the aggregate dollar amount 
+        of sales of securities (other than bonds, debentures, and other 
+        evidences of indebtedness)--
+                    ``(A) transacted on such national securities 
+                exchange;
+                    ``(B) transacted by or through any member of such 
+                association otherwise than on a national securities 
+                exchange of securities registered on such an exchange; 
+                and
+                    ``(C) transacted by or through any member of such 
+                association otherwise than on a national securities 
+                exchange of securities that are subject to prompt last 
+                sale reporting pursuant to the rules of the Commission 
+                or a registered national securities association, 
+                excluding any sales for which a fee is paid under 
+                subparagraph (B).
+            ``(2) Fee rate.--
+                    ``(A) Transaction offsetting collection rate.--For 
+                purposes of this subsection, the `transaction 
+                offsetting collection rate' for a fiscal year is the 
+                uniform rate required to reach the transaction fee cap 
+                for that fiscal year.
+                    ``(B) Transaction fee cap.--For purposes of this 
+                paragraph, the `transaction fee cap' shall be equal 
+                to--
+                            ``(i) $413,000,000 for fiscal year 2001;
+                            ``(ii) $497,000,000 for fiscal year 2002;
+                            ``(iii) $607,000,000 for fiscal year 2003;
+                            ``(iv) $706,000,000 for fiscal year 2004;
+                            ``(v) $896,000,000 for fiscal year 2005;
+                            ``(vi) $1,094,000,000 for fiscal year 2006;
+                            ``(vii) $554,000,000 for fiscal year 2007;
+                            ``(viii) $580,000,000 for fiscal year 2008;
+                            ``(ix) $719,000,000 for fiscal year 2009; 
+                        and
+                            ``(x) $884,000,000 for fiscal year 2010 and 
+                        each fiscal year thereafter.
+    ``(c) Limitation; Deposit of Fees.--
+            ``(1) Limitation.--Except as provided in subsection (d), no 
+        amount may be collected pursuant to subsection (b) for any 
+        fiscal year, except to the extent provided in advance in 
+        appropriation Acts.
+            ``(2) Deposit of fees.--Fees collected during any fiscal 
+        year pursuant to this section shall be deposited and credited 
+        as offsetting collections in accordance with appropriations 
+        Acts.
+    ``(d) Lapse of Appropriations.--If, on the first day of a fiscal 
+year, a regular appropriation to the Commission has not been enacted 
+for that fiscal year, the Commission shall continue to collect fees (as 
+offsetting collections) under this section at the rate in effect during 
+the preceding fiscal year (prior to adjustments, if any, under 
+subsections (b) and (c) of section <DELETED>5 </DELETED>104 of the 
+Competitive Market Supervision Act), until such a regular 
+appropriations is enacted.'';
+            (2) in subsection (e), by striking ``subsections (b), (c), 
+        and (d)'' and inserting ``subsection (b)''; and
+            (3) in subsection (g), by striking ``rates'' and inserting 
+        ``rate''.
+
+SEC. <DELETED>5. </DELETED>104. ADJUSTMENTS TO FEE RATES.
+
+    (a) Estimates of Collections.--
+            (1) The Securities and Exchange Commission (hereafter in 
+        this Act referred to as the ``Commission'') shall, 1 month 
+        after submission of its initial report under subsection (e)(1) 
+        and on a monthly basis thereafter, project the aggregate amount 
+        of fees from all sources likely to be collected by the 
+        Commission during the current fiscal year.
+            (2) Each national securities exchange and national 
+        securities association shall file with the Commission within 10 
+days after the end of each month an estimate of the fee required to be 
+paid pursuant to section 31 of the Securities Exchange Act of 1934 by 
+such national securities exchange or national securities association 
+for transactions and sales occurring during such month and such other 
+information and documents as the Commission may require as necessary or 
+appropriate to project the aggregate amount of fees pursuant to 
+paragraph (1).
+    (b) Floor for Total Fee Collections.--If, at any time after the end 
+of the first half of the fiscal year, the Commission projects under 
+subsection (a) that the aggregate amount of fees collected by the 
+Commission will, during that fiscal year, fall below an amount equal to 
+the floor for total fee collections, the Commission may by order, 
+subject to subsection (e), increase the fee rate established under 
+section 31 of the Securities Exchange Act of 1934 to the extent 
+necessary to bring estimated collections to an amount equal to the 
+floor for total fee collections. Such increase shall apply only to 
+transactions and sales occurring on or after the effective date 
+specified in such order through August 31 of that fiscal year. Such 
+increase shall not affect the obligation of each national securities 
+exchange and national securities association to pay the Commission the 
+fee required by section 31 of the Securities Exchange Act of 1934 at 
+the fee rate in effect prior to the effective date of such order for 
+transactions and sales occurring prior to the effective date of such 
+order. In exercising its authority under this subsection, the 
+Commission shall not be required to comply with the provisions of 
+section 553 of title 5, United States Code.
+    (c) Cap on Total Fee Collections.--If, at any time after the end of 
+the first half of the fiscal year, the Commission projects under 
+subsection (a) that the aggregate amount of fees collected by the 
+Commission will exceed the cap on total fee collections by more than 
+<DELETED>five </DELETED>5 percent during any fiscal year, the 
+Commission shall by order, subject to subsection (e), decrease the fee 
+rate or suspend collection of fees under section 31 of the Securities 
+Exchange Act of 1934 to the extent necessary to bring estimated 
+collections to an amount equal to the cap on total fee collections. 
+Such decrease or suspension shall apply only to transactions and sales 
+occurring on or after the effective date specified in such order 
+through August 31 of that fiscal year. Such decrease or suspension 
+shall not affect the obligation of each national securities exchange 
+and national securities association to pay the Commission the fee 
+required by section 31 of the Securities Exchange Act of 1934 at the 
+fee rate in effect prior to the effective date of such order for 
+transactions and sales occurring prior to the effective date of such 
+order. In exercising its authority under this subsection, the 
+Commission shall not be required to comply with the provisions of 
+section 553 of title 5, United States Code.
+    (d) Definitions.--
+            (1) For purposes of this section, the term ``floor for 
+        total fee collections'' means the greater of--
+                    (A) the total amount appropriated to the Commission 
+                for fiscal year 2001 (adjusted annually, based on the 
+                annual percentage change, if any, in the Consumer Price 
+                Index for all urban consumers, as published by the 
+                Department of Labor); or
+                    (B) the amount authorized for the Commission 
+                pursuant to section 35 of the Securities Exchange Act 
+                of 1934 (15 U.S.C. 78kk), if applicable.
+            (2) For purposes of this section, the term ``cap on total 
+        fee collections'' means--
+                    (A) for fiscal years 2001 through 2010, the 
+                baseline amount for aggregate offsetting collections 
+                for such fiscal year under section 6(b) of the 
+                Securities Act of 1933 and section 31 of the Securities 
+                Exchange Act of 1934, as projected for such fiscal year 
+                by the Congressional Budget Office pursuant to section 
+                257 of the Balanced Budget and Emergency Deficit 
+                Control Act of 1985 in its most recently published 
+                report of its baseline projection before the date of 
+                enactment of this Act; and
+                    (B) for fiscal years 2011 and thereafter, the 
+                amount authorized for the Commission pursuant to 
+                section 35 of the Securities Exchange Act of 1934 (15 
+                U.S.C. 78kk).
+    (e) Reports to Congress; Judicial Review; Notice.--
+            (1) Initial report.--Not later than 90 days after the date 
+        of enactment of this Act, the Commission shall report to the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate 
+        and the Committee on Commerce of the House of Representatives 
+        to explain the methodology used by the Commission to make 
+        projections under subsection (a). Within 30 days after the 
+        beginning of each fiscal year, the Commission may report to the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate 
+        and the Committee on Commerce of the House of Representatives 
+        on revisions to the methodology used by the Commission to make 
+        projections under subsection (a) for such fiscal year and 
+        subsequent fiscal years.
+            (2) Judicial review; reports of intent to act.--The 
+        determinations made and the actions taken by the Commission 
+        under this subsection shall not be subject to judicial review. 
+        Not later than 45 days before taking action under subsection 
+        (b) or (c), the Commission shall report to the Committee on 
+Banking, Housing, and Urban Affairs of the Senate and the Committee on 
+Commerce of the House of Representatives on its intent to take such 
+action.
+            (3) Notice.--Not later than 30 days before taking action 
+        under subsection (b) or (c), the Commission shall notify each 
+        national securities exchange and national securities 
+        association of its intent to take such action.
+
+SEC. <DELETED>6. </DELETED>105. COMPARABILITY PROVISIONS.
+
+    (a) Securities and Exchange Commission Employees.--
+            (1) In general.--Section 4(b) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78d(b)) is amended by redesignating 
+        paragraph (3) as paragraph (2), and by striking paragraphs (1) 
+        and (2) and inserting the following:
+            ``(1) Appointment and compensation.--
+                    ``(A) In general.--The Commission may appoint and 
+                fix the compensation of such officers, attorneys, 
+                economists, examiners, and other employees as may be 
+                necessary for carrying out its functions under this 
+                Act.
+                    ``(B) Rates of pay.--Rates of basic pay for all 
+                employees of the Commission may be set and adjusted by 
+                the Commission without regard to the provisions of 
+                chapter 51 or subchapter III of chapter 53 of title 5, 
+                United States Code.
+                    ``(C) Comparability.--The Commission may provide 
+                additional compensation and benefits to employees of 
+                the Commission if the same type of compensation or 
+                benefits are then being provided by any agency referred 
+                to under section 1206(a) of the Financial Institutions 
+                Reform, Recovery, and Enforcement Act of 1989 (12 
+                U.S.C. 1833b) or, if not then being provided, could be 
+                provided by such an agency under applicable provisions 
+                of law, rule, or regulation. In setting and adjusting 
+                the total amount of compensation and benefits for 
+                employees, the Commission shall consult with, and seek 
+                to maintain comparability with, the agencies referred 
+                to under section 1206(a) of the Financial Institutions 
+                Reform, Recovery, and Enforcement Act of 1989 (12 
+                U.S.C. 1833b).''.
+            (2) Employees represented by labor organizations.--To the 
+        extent that any employee of the Commission is represented by a 
+        labor organization with exclusive recognition in accordance 
+        with chapter 71 of title 5, United States Code, no reduction in 
+        base pay of such employee shall be made by reason of enactment 
+        of this subsection.
+    (b) Reporting on Information by the Commission.--Section 1206 of 
+the Financial Institutions Reform, Recovery, and Enforcement Act of 
+1989 (12 U.S.C. 1833b) is amended--
+            (1) by inserting ``(a) In General.--'' before ``The Federal 
+        Deposit'';
+            (2) by striking ``the Thrift Depositor Protection Oversight 
+        Board of the Resolution Trust Corporation''; and
+            (3) by adding at the end the following:
+    ``(b) In establishing and adjusting schedules of compensation and 
+benefits for employees of the Securities and Exchange Commission under 
+applicable provisions of law, the Commission shall inform the heads of 
+the agencies referred to under subsection (a) and Congress of such 
+compensation and benefits and shall seek to maintain comparability with 
+such agencies regarding compensation and benefits.''.
+    (c) Technical Amendments.--
+            (1) Section 3132(a)(1) of title 5, United States Code, is 
+        amended--
+                    (A) in subparagraph (C), by striking ``or'' after 
+                the semicolon;
+                    (B) in subparagraph (D), by inserting ``or'' after 
+                the semicolon; and
+                    (C) by adding at the end the following:
+                    ``(E) the Securities and Exchange Commission.''.
+            (2) Section 5373(a) of title 5, United States Code, is 
+        amended--
+                    (A) in paragraph (2), by striking ``or'' after the 
+                semicolon;
+                    (B) in paragraph (3), by striking the period and 
+                inserting ``; or''; and
+                    (C) by adding at the end the following:
+            ``(4) section 4(b) of the Securities Exchange Act of 
+        1934.''.
+
+SEC. 106. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 35(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78kk(a)) is amended by striking ``$351,280,000'' and all that follows 
+through ``1999'' and inserting ``$422,800,000 for fiscal year 2001''.
+
+SEC. <DELETED>7. </DELETED>107. EFFECTIVE DATE.
+
+    (a) In General.--Subject to subsection (b), this <DELETED>Act</DELETED> 
+title and the amendments made by this <DELETED>Act </DELETED>title 
+shall become effective on October 1, 2000.
+    (b) Exceptions.--The authorities provided by section 13(e)(3)(D), 
+section 14(g)(1)(D), section 14(g)(3)(D), and section 31(d) of the 
+Securities Exchange Act of 1934, as so designated by this <DELETED>Act </DELETED> 
+title, shall not apply until October 1, 2001.
+
+                TITLE II--SECURITIES MARKETS ENHANCEMENT
+
+SEC. 201. SHORT TITLE.
+
+    This title may be cited as the ``Securities Markets Enhancement Act 
+of 2000''.
+
+           Subtitle A--Reducing the Cost of Capital Formation
+
+SEC. 211. EXEMPTED SECURITIES AND ORGANIZATIONS.
+
+    (a) Securities Exemption Threshold.--Section 3(b) of the Securities 
+Act of 1933 (15 U.S.C. 77c(b)) is amended by striking ``$5,000,000'' 
+and inserting ``$12,000,000 (adjusted annually, based on the annual 
+percentage change, if any, in the Consumer Price Index for all urban 
+consumers, as published by the Department of Labor)''.
+    (b) Charitable Gift Annuities.--Section 3(e)(2) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78c(e)(2)) is amended--
+            (1) by striking ``The exemption'' and inserting the 
+        following:
+                    ``(A) In general.--The exemption''; and
+            (2) by adding at the end the following:
+                    ``(B) Exception.--The limitation on compensation 
+                provided under subparagraph (A) does not apply to 
+                compensation paid to any person for any service 
+                rendered in connection with the issuance by a 
+                charitable organization of a charitable gift annuity or 
+                other exempted security described in subsection 
+                (a)(12)(A)(v), if--
+                            ``(i) the charitable organization has been 
+                        in continuous operation for not less than 10 
+                        years and has total net assets of not less than 
+                        $10,000,000; and
+                            ``(ii) the person receiving compensation--
+                                    ``(I) is registered, licensed, or 
+                                certified by a Federal or State agency, 
+                                self-regulatory organization, or 
+                                professional licensing authority as an 
+                                attorney, financial planner, insurance 
+                                agent, insurance broker, investment 
+                                adviser, or public accountant;
+                                    ``(II) is not subject to any 
+                                suspension order or other disciplinary 
+                                action from the Commission;
+                                    ``(III) before completion of the 
+                                exempted security transaction, clearly 
+                                and conspicuously discloses in writing 
+                                to the purchaser of the exempted 
+                                security the fact that such person is 
+                                receiving compensation in connection 
+                                with the transaction; and
+                                    ``(IV) obtains from the purchaser 
+                                at the time of the purchase of the 
+                                exempted security a signed statement 
+                                acknowledging that the purchaser has 
+                                received and understands the disclosure 
+                                required under this clause.''.
+
+SEC. 212. NATIONAL MARKET TREATMENT FOR CERTAIN SECURITIES.
+
+    Section 18 of the Securities Act of 1933 (15 U.S.C. 77r) is 
+amended--
+            (1) in subsection (b)--
+                    (A) in paragraph (1)--
+                            (i) in subparagraph (B), by striking ``or'' 
+                        at the end;
+                            (ii) in subparagraph (C), by striking the 
+                        period at the end and inserting a semicolon; 
+                        and
+                            (iii) by adding at the end the following:
+                    ``(D) a warrant or right to purchase or subscribe 
+                to any security described in subparagraph (A), (B), or 
+                (C);
+                    ``(E) a security issued by a foreign government, or 
+                a political subdivision thereof, for which Schedule B 
+                has been filed with the Commission pursuant to section 
+                7; or
+                    ``(F) an interest in an employee benefit plan and 
+                the security underlying the employee benefit plan, if 
+                the underlying security is--
+                            ``(i) a security described in subparagraph 
+                        (A), (B), or (C); or
+                            ``(ii) a foreign equity security that is a 
+                        `margin security', as that term (or any 
+                        successor term) is defined in rules and 
+                        regulations prescribed by the Board of 
+                        Governors of the Federal Reserve System.''; and
+                    (B) in paragraph (4)--
+                            (i) by striking subparagraph (A) and 
+                        inserting the following:
+                    ``(A) paragraph (1) or (3) of section 4, if--
+                            ``(i) the issuer of such security files 
+                        reports with the Commission pursuant to section 
+                        13 or 15(d) of the Securities Exchange Act of 
+                        1934; or
+                            ``(ii) the transaction involves a foreign 
+                        equity security that is a `margin security', as 
+                        that term (or any successor term) is defined in 
+                        rules or regulations prescribed by the Board of 
+                        Governors of the Federal Reserve System;''; and
+                            (ii) in subparagraph (D), by inserting 
+                        before the period at the end the following: ``, 
+                        including any form prescribed by rule or 
+                        regulation of the Commission that includes a 
+                        listing of the States in which the securities 
+                        are intended to be sold'';
+            (2) in subsection (c)(2), by striking subparagraphs (C) and 
+        (D) and inserting the following:
+                    ``(C) Elimination of paperwork and fees on certain 
+                covered securities.--Notwithstanding subparagraphs (A) 
+                and (B), no State securities commission (or agency or 
+                office performing like functions) may require a notice 
+                filing or fee with respect to any security that is a 
+                covered security pursuant to--
+                            ``(i) subsection (b)(1), or will be such a 
+                        covered security upon completion of the 
+                        transaction; or
+                            ``(ii) subparagraph (A), (B), or (C) of 
+                        subsection (b)(4).''; and
+            (3) by adding at the end the following:
+    ``(e) Issuer Agents.--No law of any State, or political subdivision 
+thereof, that requires the registration, licensing, or qualification of 
+any individual who represents an issuer in effecting or attempting to 
+effect the purchase or sale of securities of the issuer shall apply to 
+any individual who represents an issuer in a transaction involving a 
+covered security, as described in subsection (b)(4)(D), if the 
+individual receives no compensation, directly or indirectly, in 
+connection with the offer, sale, or purchase of the security.''.
+
+Subtitle B--Enhancement of Disclosure and Investment Adviser Regulation
+
+SEC. 221. ENSURING ADEQUATE RECORDKEEPING.
+
+    Section 203A of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+3a) is amended--
+            (1) by striking subsection (d);
+            (2) by redesignating subsection (e) as subsection (d); and
+            (3) in subsection (b)(2)--
+                    (A) by striking ``this subsection'' and inserting 
+                ``this title'';
+                    (B) by striking ``from investigating'' and 
+                inserting ``from--
+                    ``(A) investigating'';
+                    (C) by striking the period at the end and inserting 
+                ``; or''; and
+                    (D) by adding at the end the following:
+                    ``(B) except as provided in subsection (e), 
+                requiring an investment adviser registered under 
+                section 203 to file any document filed with the 
+                Commission under this title solely for notice purposes, 
+                together with a consent to service of process and any 
+                required fee.''.
+
+SEC. 222. ELIMINATION OF BARRIERS TO PROVIDING SERVICES.
+
+    Section 203A of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+3a) is amended by adding at the end the following:
+    ``(e) Certain State Filings and Fees Prohibited; National De 
+Minimis Standard for All Investment Advisers.--Notwithstanding 
+subsection (b)(2)(B), no law of any State or political subdivision 
+thereof requiring the registration, licensing, or qualification of an 
+investment adviser shall require--
+            ``(1) the filing of any document with respect to, or any 
+        payment of any fee for, a supervised person of an investment 
+        adviser registered under section 203, if the supervised person 
+        does not have a place of business located in the State;
+            ``(2) an investment adviser registered under section 203 to 
+        file any document or pay any fee, unless the investment 
+        adviser--
+                    ``(A) has a place of business located within the 
+                State; or
+                    ``(B) during the 12-month period preceding the date 
+                on which such filing or payment is required under the 
+                State law, had more than 5 clients who are residents of 
+                that State; or
+            ``(3) an investment adviser to register, license, qualify, 
+        or otherwise comply with such law (other than any provision 
+        thereof prohibiting fraudulent conduct), or to file any 
+        document or pay any fee, unless the investment adviser--
+                    ``(A) has a place of business located within the 
+                State; or
+                    ``(B) during the 12-month period preceding the date 
+                on which such compliance, filing, or payment is 
+                required under the State law, had more than 5 clients 
+                who are residents of that State.
+    ``(f) Preservation of State Filing Fees.--Subject to the 
+limitations provided in this title, a State or political subdivision 
+thereof may require an investment adviser registered under section 203 
+to pay filing fees.''.
+
+SEC. 223. REDUCING FINANCIAL REPORTING BURDENS.
+
+    Section 222 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+18a) is amended by striking subsection (d) and inserting the following:
+    ``(d) Limitation on Financial Reporting Requirements.--No State may 
+enforce any law or regulation that would require an investment adviser 
+to maintain or file with that State any financial report, in addition 
+to those required under the laws of the State in which the investment 
+adviser maintains its principal place of business, if the investment 
+adviser--
+            ``(1) is registered or licensed as an investment adviser in 
+        the State in which it maintains its principal place of 
+        business;
+            ``(2) is in compliance with the applicable financial 
+        reporting requirements of the State in which it maintains its 
+        principal place of business; and
+            ``(3) has not taken custody of the assets of any client 
+        residing in that State at any time during the 12-month period 
+        preceding the date on which the financial report otherwise 
+        would be required to be filed with that State.
+    ``(e) Limitation on State Fees and Filings.--
+            ``(1) In general.--Beginning 90 days after the date of 
+        enactment of this subsection, no law of any State or political 
+        subdivision thereof requiring the registration, licensing, or 
+        qualification of an investment adviser may require an 
+        investment adviser registered under section 203, an investment 
+        adviser having its principal place of business in another 
+        State, or an investment adviser representative of either such 
+        adviser to pay any fee to or file any document with the 
+        securities commission (or any agency or office performing like 
+        functions) of that State, unless the State or the securities 
+        commission accepts registration and renewal materials, 
+        documents filed solely for notice purposes, and related fees 
+        through an entity designated under section 204(b), except as 
+        provided in paragraph (2).
+            ``(2) Exception for direct payments and filings.--A State 
+        may require the direct payment of any fees to and the paper 
+        filing of any registration materials or documents with the 
+        State, filed solely for notice purposes, if--
+                    ``(A) the entity designated under section 204(b) is 
+                not capable of electronically transmitting such fees, 
+                filings, and documents to the State;
+                    ``(B) the investment adviser having its principal 
+                place of business in another State does not file 
+                through the entity designated under section 204(b); or
+                    ``(C) the investment adviser has otherwise been 
+                granted regulatory relief from filing or payment in 
+                accordance with paragraph (1) for hardship reasons.''.
+
+SEC. 224. ENHANCING TRANSPARENCY OF RECORDS.
+
+    (a) Disciplinary and Other Records of Brokers, Dealers, and 
+Associated Persons.--Section 15A(i) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78o-3(i)) is amended--
+            (1) by striking ``(i) A registered'' and inserting the 
+        following:
+    ``(i) Access to Disciplinary and Other Information.--
+            ``(1) Telephone access.--A registered'';
+            (2) by striking ``section, (1) establish'' and inserting 
+        the following: ``section--
+                    ``(A) establish'';
+            (3) by striking ``, and (2) promptly'' and all that follows 
+        through the end and inserting the following: ``and the members 
+        and associated persons of any registered national securities 
+        exchange; and
+                    ``(B) promptly respond to such inquiries in 
+                writing.''; and
+            (4) by adding at the end the following:
+            ``(2) Electronic access.--A registered securities 
+        association shall--
+                    ``(A) establish and maintain a readily accessible 
+                electronic process to receive inquiries about its 
+                members and their associated persons, and the members 
+                and associated persons of any registered national 
+                securities exchange, regarding--
+                            ``(i) disciplinary actions, proceedings, 
+                        and arbitrations involving members and their 
+                        associated persons, including those that have 
+                        been reported to the Central Registration 
+                        Depository; and
+                            ``(ii) the employment history, registration 
+                        status, and licensing status of such members 
+                        and their associated persons; and
+                    ``(B) promptly respond to such inquiries.
+            ``(3) Recovery of costs.--A registered securities 
+        association may charge persons, other than individual 
+        investors, reasonable fees for responses to inquiries referred 
+        to in paragraphs (1) and (2).
+            ``(4) Limitation on liability.--A registered securities 
+        association or registered national securities exchange shall 
+        not have any liability to any person for any action taken or 
+        omitted in good faith under this subsection.''.
+    (b) Disciplinary and Other Records of Investment Advisers and 
+Associated Persons.--Section 204 of the Investment Advisers Act of 1940 
+(15 U.S.C. 80b-4) is amended--
+            (1) by inserting ``(a) In General.--'' after ``Sec. 204.''; 
+        and
+            (2) by adding at the end the following:
+    ``(b) Filing Depositories.--The Commission, by rule, may require an 
+investment adviser--
+            ``(1) to file with the Commission any application, report, 
+        or notice required to be filed by this title or the rules 
+        issued under this title through an entity designated by the 
+        Commission for that purpose; and
+            ``(2) to pay the reasonable costs associated with such 
+        filing and the establishment and maintenance of the systems 
+        required by subsection (c).
+    ``(c) Access to Disciplinary and Other Information.--
+            ``(1) Maintenance of system to respond to inquiries.--The 
+        Commission shall require an entity designated by the Commission 
+        under subsection (b)(1)--
+                    ``(A) to establish and maintain a toll-free 
+                telephone listing or other readily accessible 
+                electronic process to receive inquiries about 
+                investment advisers and persons associated with 
+                investment advisers concerning--
+                            ``(i) disciplinary actions, proceedings, 
+                        and arbitrations involving such investment 
+                        advisers and associated persons; and
+                            ``(ii) the registration status of such 
+                        investment advisers and associated persons; and
+                    ``(B) to respond promptly to such inquiries.
+            ``(2) Recovery of costs.--An entity designated by the 
+        Commission under subsection (b)(1) may charge persons, other 
+        than individual investors, reasonable fees for responses to 
+        inquiries made under paragraph (1).
+            ``(3) Limitation on liability.--An entity designated by the 
+        Commission under subsection (b)(1) shall not have any liability 
+        to any person for any action taken or omitted in good faith 
+        under this subsection.''.
+    (c) Conforming Amendment to NSMIA of 1996.--Sections 306 and 307 of 
+the National Securities Markets Improvement Act of 1996 (Public Law 
+104-290; 110 Stat. 3438) are repealed.
+
+
+
+
+                                                       Calendar No. 712
+
+106th CONGRESS
+
+  2d Session
+
+                                S. 2107
+
+                          [Report No. 106-360]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+To amend the Securities Act of 1933 and the Securities Exchange Act of 
+1934 to reduce securities fees in excess of those required to fund the 
+    operations of the Securities and Exchange Commission, to adjust 
+compensation provisions for employees of the Commission, and for other 
+                               purposes.
+
+_______________________________________________________________________
+
+                             July 25, 2000
+
+                        Reported with amendments
+

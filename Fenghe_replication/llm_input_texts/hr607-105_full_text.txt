@@ -1,0 +1,311 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 607 Received in Senate (RDS)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 607
+
+
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 17, 1997
+
+                                Received
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend the Real Estate Settlement Procedures Act of 1974 to require 
+    notice of cancellation rights with respect to private mortgage 
+  insurance which is required as a condition of entering into certain 
+  federally related mortgage loans and to provide for cancellation of 
+                such insurance, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Homeowners Insurance Protection 
+Act''.
+
+SEC. 2. PROVISIONS RELATING TO PRIVATE MORTGAGE INSURANCE.
+
+    (a) In General.--Section 6 of the Real Estate Settlement Procedures 
+Act of 1974 (12 U.S.C. 2605) is amended--
+            (1) by redesignating subsections (f), (g), (h), (i), and 
+        (j) as subsections (k), (l), (m), (n), and (o), respectively; 
+        and
+            (2) by inserting after subsection (e) the following new 
+        subsections:
+    ``(f) Disclosures Relating to Private Mortgage Insurance.--
+            ``(1) Disclosure at settlement relating to existence of 
+        pmi.--With regard to any covered mortgage loan, the lender 
+        shall disclose, in writing at or before the settlement of such 
+        covered mortgage loan, whether any private mortgage insurance 
+        will be required to be obtained or maintained with respect to 
+        such mortgage loan, including any lender-paid private mortgage 
+        insurance, and the period during which such insurance will be 
+        required to be in effect.
+            ``(2) Disclosure at settlement relating to terminability of 
+        pmi.--If the lender requires, as a condition for entering into 
+        a covered mortgage loan, the borrower to assume an obligation 
+        to make separately designated payments toward the premiums for 
+        private mortgage insurance with respect to such loan, the 
+        lender shall disclose, in writing at or before the settlement 
+        of such covered mortgage loan any of the following notices 
+        which are applicable with respect to such loan:
+                    ``(A) PMI obligations terminable upon request.--In 
+                the case of a loan described in paragraph (3), that--
+                            ``(i) the borrower's obligation to make 
+                        separately designated payments toward the 
+                        premiums for private mortgage insurance may be 
+                        able to be terminated while the mortgage is 
+                        outstanding (including a cancellation permitted 
+                        before the date of automatic termination under 
+                        subsection (g)); and
+                            ``(ii) the borrower will be notified by the 
+                        servicer not less frequently than annually of 
+                        an address and a toll-free or collect-call 
+                        telephone number which the borrower may use to 
+                        contact the servicer to determine--
+                                    ``(I) whether the borrower's 
+                                obligation to make separately 
+                                designated payments toward the premium 
+                                for private mortgage insurance may be 
+                                terminated while the mortgage loan is 
+                                outstanding (or before the date of 
+                                automatic termination); and
+                                    ``(II) if such obligation may be 
+                                terminated while the loan is 
+                                outstanding (or before such date), the 
+                                conditions and procedures for such 
+                                termination.
+                    ``(B) PMI obligations terminable by operation of 
+                law.--That the borrower's obligation to make separately 
+                designated payments toward the premiums for private 
+                mortgage insurance will be terminated by operation of 
+                law under subsection (g).
+                    ``(C) Nonterminable pmi obligations.--In the case 
+                of a loan not described in paragraph (3), that the 
+                borrower's obligation to pay any amount to be applied 
+                to any portion of the premiums for private mortgage 
+                insurance will not be terminated at the request of the 
+                borrower.
+            ``(3) Disclosure with annual statements or other 
+        communications.--If--
+                    ``(A) private mortgage insurance is required as a 
+                condition for entering into a covered mortgage loan; 
+                and
+                    ``(B) the borrower's obligation to make separately 
+                designated payments toward the premiums for such 
+                insurance may be terminated at the borrower's request,
+        the servicer shall, not less frequently than annually, disclose 
+        to the borrower a clear and conspicuous statement containing 
+        the disclosures set forth in subparagraphs (A) and (B) of 
+        paragraph (2), including the address and telephone number 
+        referred to in such paragraph, based on the servicer's 
+        knowledge at the time such periodic communication is given. 
+        Such disclosure shall be included with any annual statement of 
+        account, escrow statement, or related annual communications 
+        provided to the borrower, while such private mortgage insurance 
+        is in effect.
+            ``(4) Disclosures furnished without cost to borrower.--No 
+        fee or other cost may be imposed on any borrower for preparing 
+        and delivering any disclosure to the borrower pursuant to this 
+        subsection.
+    ``(g) Mandatory Termination of PMI Obligations at 75 Percent Loan-
+to-Value Ratio.--
+            ``(1) In general.--Notwithstanding any provision of a 
+        covered mortgage loan, any obligation of the borrower to make 
+        separately designated payments toward the premiums for any 
+        private mortgage insurance in effect with respect to such loan 
+        shall terminate, except as provided in paragraph (3), by 
+        operation of law as of the 1st day of the 1st month which 
+        begins after the date on which the principal balance 
+        outstanding on all residential mortgages on the property 
+        securing the loan is equal to or less than 75 percent of the 
+        lesser of--
+                    ``(A) if the loan was made for purchase of the 
+                property, the sales price of the property under such 
+                purchase; or
+                    ``(B) the appraised value of the property, as 
+                determined by the appraisal conducted in connection 
+                with the making of the loan.
+            ``(2) Disclosure upon termination.--Not later than 45 days 
+        after the date of termination pursuant to paragraph (1) of a 
+        private mortgage insurance requirement for a covered mortgage 
+        loan, the servicer shall notify the borrower under the loan, in 
+        writing, that--
+                    ``(A) the private mortgage insurance has terminated 
+                and the borrower no longer has private mortgage 
+                insurance: and
+                    ``(B) no further premiums, payments, or other fees 
+                shall be due or payable by the borrower in connection 
+                with the private mortgage insurance.
+            ``(3) Exception for delinquent borrowers.--
+                    ``(A) In general.--Paragraph (1) shall not apply 
+                with respect to any covered mortgage loan on which the 
+                payments are not current as of the date that the 
+                obligation to make private mortgage insurance premium 
+                payments in connection with the loan would otherwise 
+                terminate pursuant to paragraph (1).
+                    ``(B) Effectiveness once payments are current.--In 
+                the case of any covered mortgage loan to which 
+                subparagraph (A) applies, paragraph (1) shall apply 
+                with respect to such loan as of the 1st day of the 1st 
+                month which begins after the date that such payments 
+                become current.
+            ``(4) Return of payments toward premiums.--
+                    ``(A) Return of payments to borrower.--The servicer 
+                for a covered mortgage loan shall promptly return to 
+                the borrower any payments toward the premiums for any 
+                private mortgage insurance for such loan covering any 
+                period occurring after the date of automatic 
+                termination for such loan under this subsection.
+                    ``(B) Return of payments to servicer.--The private 
+                mortgage insurer for a covered mortgage loan shall 
+                promptly return to the servicer any payments received 
+                from the servicer toward the premiums for any private 
+                mortgage insurance for such loan covering any period 
+                occurring after the date of automatic termination for 
+                such loan under this subsection.
+    ``(h) Lenders' Conditions for PMI.--
+            ``(1) Conditions for termination of borrower's obligation 
+        to pay pmi.--The conditions for the termination of the 
+        borrower's obligation to make separately designated payments 
+        toward the premium for private mortgage insurance with respect 
+        to a covered mortgage loan, including any changes in such 
+        conditions, shall be reasonably related to the purposes for 
+        which the requirement for private mortgage insurance was 
+        imposed at the time the loan was made.
+            ``(2) Borrower's right to terminate in accordance with 
+        conditions.--In the case of any covered mortgage loan described 
+        in subsection (f)(3), the borrower shall have the right under 
+        this paragraph to terminate the borrower's obligation to make 
+        separately designated payments toward the premiums for such 
+        insurance if the conditions and procedures for such termination 
+        most recently communicated to the borrower (pursuant to a 
+        request by the borrower pursuant to notice under subsection 
+        (f)(3) or otherwise) have been met.
+    ``(i) Effect on Other Agreements.--The provisions of subsections 
+(f), (g), and (h) shall supersede any conflicting provision contained 
+in any agreement relating to the servicing of a covered mortgage loan 
+entered into by the Federal National Mortgage Association, the Federal 
+Home Loan Mortgage Corporation, or any private investor or noteholder 
+(or any successors thereto). A servicer which cancels private mortgage 
+insurance on a covered mortgage loan in compliance with the provisions 
+of subsection (g) or (h) or in accordance with investor guidelines in 
+existence at the time concerning the cancellation of private mortgage 
+insurance (regardless of whether the cancellation by the servicer was 
+mandated by such subsections or initiated by the borrower) shall not be 
+required to repurchase such mortgage loan from the investor or holder 
+of such mortgage loan solely on the grounds that the private mortgage 
+insurance was canceled in accordance with the provisions of such 
+subsections or investor guidelines, as applicable.
+    ``(j) Limitations on Liability.--If the servicer for a covered 
+mortgage loan has complied with the requirements under subsections (f) 
+and (g) to provide disclosures, the servicer shall not be considered to 
+have violated any provision of subsection (f), (g), or (h) and shall 
+not be liable for any such violation--
+            ``(1) due to any failure on the part of the servicer to 
+        provide disclosures required under such subsections resulting 
+        from the failure of any mortgage insurer, any mortgage holder, 
+        or any other party to timely provide accurate information to 
+        the servicer necessary to permit the disclosures; or
+            ``(2) due to any failure on the part of any private 
+        mortgage insurer, any mortgage holder, or any other party to 
+        comply with the provisions of such subsections.
+Each private mortgage insurer and each mortgage holder for a covered 
+mortgage loan shall provide accurate and timely information to the 
+servicer for such loan necessary to permit the disclosures required by 
+subsections (f) and (g). In the event of a dispute regarding liability 
+for a violation of subsection (f), (g), or (h), and upon request by the 
+borrower, a servicer shall provide the borrower with information 
+stating the identity of the insurer or mortgage holder.''.
+    (b) Definitions.--Subsection (n) of section 6 of the Real Estate 
+Settlement Procedures Act of 1974 (as redesignated by subsection 
+(a)(1)) is amended--
+            (1) by redesignating paragraphs (1), (2), and (3) as 
+        paragraphs (2), (5), and (6), respectively;
+            (2) by inserting before paragraph (2) (as redesignated by 
+        paragraph (1) of this subsection) the following new paragraph:
+            ``(1) Covered mortgage loan.--The term `covered mortgage 
+        loan' means a federally related mortgage loan under which the 
+        property securing the loan is used by the borrower as the 
+        borrower's principal residence.''; and
+            (3) by inserting after paragraph (2) (as so redesignated) 
+        the following new paragraphs:
+            ``(3) Mortgage insurance.--The term `mortgage insurance' 
+        means insurance, including any mortgage guaranty insurance, 
+        against the nonpayment of, or default on, a mortgage or loan 
+        involved in a residential mortgage transaction, the premiums 
+        for which are paid by the borrower.
+            ``(4) Private mortgage insurance.--The term `private 
+        mortgage insurance' means mortgage insurance other than 
+        mortgage insurance made available under the National Housing 
+        Act, title 38 of the United States Code, or title V of the 
+        National Housing Act of 1949.''.
+
+SEC. 3. SCOPE OF APPLICABILITY.
+
+    (a) Notice at or Before Settlement.--Paragraphs (1) and (2) of 
+section 6(f) of the Real Estate Settlement Procedures Act of 1974 (as 
+added by section 2(a) of this Act) shall apply only with respect to 
+covered mortgage loans made after the end of the 1-year period 
+beginning on the date of the enactment of this Act.
+    (b) Notice of PMI Obligation Terminability.--Paragraphs (3) and (4) 
+of section 6(f) of the Real Estate Settlement Procedures Act of 1974 
+(as added by section 2(a) of this Act) shall apply beginning upon the 
+end of the 1-year period that begins on the date of the enactment of 
+this Act and with respect to any covered mortgage loan without regard 
+to the date on which such loan was made.
+    (c) Termination of PMI Obligation by Operation of Law.--Subsections 
+(g) and (h) of section 6 of the Real Estate Settlement Procedures Act 
+of 1974 (as added by section 2(a) of this Act) shall apply only with 
+respect to covered mortgage loans made after the end of the 1-year 
+period beginning on the date of the enactment of this Act.
+
+SEC. 4. CONFORMING AMENDMENTS.
+
+    (a) Section 6.--Section 6(m) of the Real Estate Settlement 
+Procedures Act of 1974 (12 U.S.C. 2605) (as redesignated by section 
+2(a)(1) of this Act) is amended--
+            (1) by inserting ``(not including subsection (f))'' before 
+        ``regarding timing''; and
+            (2) by adding at the end the following new sentence: ``The 
+        preceding sentence shall not apply to any State law or 
+        regulation relating to notice or disclosure to a borrower 
+        regarding obtaining, maintaining, or terminating private 
+        mortgage insurance and such State laws and regulations shall be 
+        subject to the provisions of section 18.''.
+    (b) Section 10.--Section 10(b) of the Real Estate Settlement 
+Procedures Act of 1974 (12 U.S.C. 2609(b)) is amended by striking 
+``section 6(i)'' and inserting ``section 6(n)''.
+    (c) Section 12.--Section 12 of the Real Estate Settlement 
+Procedures Act of 1974 (12 U.S.C. 2610) is amended by striking 
+``section 6(i)'' and inserting ``section 6(n)''.
+
+            Passed the House of Representatives April 16, 1997.
+
+            Attest:
+
+                                                ROBIN H. CARLE,
+
+                                                                 Clerk.
+

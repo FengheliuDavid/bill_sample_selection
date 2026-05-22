@@ -1,0 +1,89 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1332 Introduced in House (IH)]
+
+
+
+
+
+
+
+106th CONGRESS
+  1st Session
+                                H. R. 1332
+
+ To amend the Truth in Lending Act to expand protections for consumers 
+   by adjusting statutory exemptions and civil penalties to reflect 
+inflation, to eliminate the Rule of 78s accounting for interest rebates 
+        in consumer credit transactions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 25, 1999
+
+ Mr. LaFalce (for himself, Mr. Vento, Mr. Frank of Massachusetts, and 
+ Mr. Hinchey) introduced the following bill; which was referred to the 
+              Committee on Banking and Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Truth in Lending Act to expand protections for consumers 
+   by adjusting statutory exemptions and civil penalties to reflect 
+inflation, to eliminate the Rule of 78s accounting for interest rebates 
+        in consumer credit transactions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Truth in Lending Modernization Act 
+of 1999''.
+
+SEC. 2. APPLICABLE CONSUMER CREDIT AND LEASE TRANSACTIONS.
+
+    (a) Credit Transactions.--Section 104(3) of the Consumer Credit 
+Protection Act (15 U.S.C. 1603(3)) is amended by striking ``$25,000'' 
+and inserting ``$50,000''.
+    (b) Lease Transactions.--Section 181(1) of the Consumer Credit 
+Protection Act (15 U.S.C. 1667(1)) is amended by striking ``$25,000'' 
+and inserting ``$50,000''.
+
+SEC. 3. CIVIL LIABILITY.
+
+    (a) In General.--Section 130(a)(2)(A) of the Consumer Credit 
+Protection Act (15 U.S.C. 1640(a)(2)(A)) is amended--
+            (1) in clause (ii)--
+                    (A) by striking ``$100'' and inserting ``$200''; 
+                and
+                    (B) by striking ``$1,000'' and inserting 
+                ``$5,000''; and
+            (2) in clause (iii), by striking ``$2,000'' and inserting 
+        ``$5,000''.
+    (b) Maximum Amount.--Section 130(a)(2)(B) (15 U.S.C. 1640(a)(2)(B)) 
+is amended by striking ``$500,000'' and inserting ``$1,000,000''.
+
+SEC. 4. USE OF RULE OF 78S PROHIBITED.
+
+    Section 933(b) of the Housing and Community Development Act of 1992 
+(15 U.S.C. 1615(b)) is amended--
+            (1) by striking ``of a term exceeding 61 months''; and
+            (2) by striking ``September 30, 1993'' and inserting 
+        ``September 30, 1999''.
+
+SEC. 5. REGULATIONS.
+
+    Before the end of the 6-month period beginning on the date of the 
+enactment of this Act, the Board of Governors of the Federal Reserve 
+System shall issue regulations in final form to implement the 
+amendments made by this Act.
+                                 <all>
+

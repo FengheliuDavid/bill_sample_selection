@@ -1,0 +1,1081 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4956 Introduced in House (IH)]
+
+103d CONGRESS
+  2d Session
+                                H. R. 4956
+
+ To create an open and competitive marketplace for financial services 
+which ensures the safety and soundness of the Nation's financial system 
+   as well as the availability of innovative financial products and 
+services for consumers, business, and government at the lowest possible 
+                     cost, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            August 12, 1994
+
+Mr. Neal of North Carolina (for himself, Mr. McCollum, Mr. LaFalce, Mr. 
+Frank of Massachusetts, Mr. LaRocco, Mr. Orton, Mr. Dooley, Mr. Ridge, 
+ Mr. Baker of Louisiana, and Mr. King) introduced the following bill; 
+ which was referred jointly to the Committees on Banking, Finance and 
+                 Urban Affairs and Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To create an open and competitive marketplace for financial services 
+which ensures the safety and soundness of the Nation's financial system 
+   as well as the availability of innovative financial products and 
+services for consumers, business, and government at the lowest possible 
+                     cost, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Financial Services 
+Competitiveness Act''.
+    (b) Table of Contents.--
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings and purposes.
+Sec. 3. Definitions.
+Sec. 4. Establishment of a diversified financial services holding 
+                            company.
+Sec. 5. Compliance with change in control requirements.
+Sec. 6. Adequate capitalization.
+Sec. 7. Additional provisions relating to regulation of insured 
+                            depository institution subsidiaries.
+Sec. 8. Insider lending and tying provisions.
+Sec. 9. Enforcement and examination; payment system services; 
+                            oversight.
+Sec. 10. Criminal and civil penalties.
+Sec. 11. Technical and conforming amendments.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--The Congress hereby finds that--
+            (1) outdated laws and regulations inhibit innovation, 
+        efficiency, and competition in the financial services industry 
+        to the detriment of consumers and providers;
+            (2) a new legal framework for financial services must be 
+        created which will accord all financial service companies equal 
+        opportunity to serve the full range of credit and financial 
+        needs in the marketplace;
+            (3) expanded product and service opportunities for all 
+        components of the financial services industry would strengthen 
+        individual intermediaries as well as the overall financial 
+        system;
+            (4) the rapid globalization of the financial service 
+        marketplace and the emerging interdependence of major financial 
+        markets further underscore the necessity for modernizing 
+        domestic laws to maintain the competitiveness of United States 
+        financial markets; and
+            (5) the regulation of separate segments, subsidiaries, and 
+        affiliates along functional lines without regard to ownership 
+        or control would serve national priorities better than the 
+        present system.
+    (b) Purposes.--The purposes of this Act are as follows:
+            (1) To promote the safety and soundness of the Nation's 
+        financial system.
+            (2) To promote the availability of financial products and 
+        services to consumers, businesses, charitable institutions and 
+        government in an efficient and cost-effective manner.
+            (3) To promote a legal structure governing providers of 
+        financial services that permits open and fair competition and 
+        affords all financial services companies equal opportunity to 
+        serve the full range of credit and financial needs in the 
+        marketplace.
+            (4) To ensure that domestic financial institutions and 
+        companies are able to compete effectively in international 
+        financial markets.
+            (5) To encourage regulation of financial activities and 
+        companies along functional lines without regard to ownership, 
+        control, or affiliation.
+
+SEC. 3. DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Affiliate.--Except as provided in section 105(e), the 
+        term ``affiliate'' means any company which controls, is 
+        controlled by, or is under common control with another company.
+            (2) Adequately capitalized.--With respect to an insured 
+        depository institution, the term ``adequately capitalized'' has 
+        the same meaning as in section 38(b) of the Federal Deposit 
+        Insurance Act.
+            (3) Appropriate federal banking agency.--The term 
+        ``appropriate Federal banking agency'' has the same meaning as 
+        in section 3(q) of the Federal Deposit Insurance Act.
+            (4) Bank holding company.--The term ``bank holding 
+        company'' has the same meaning as in section 2(a) of the Bank 
+        Holding Company Act of 1956.
+            (5) Board.--The term ``Board'' means the Board of Governors 
+        of the Federal Reserve System.
+            (6) Company.--The term ``company'' has the same meaning as 
+        in section 2(b) of the Bank Holding Company Act of 1956.
+            (7) Control.--
+                    (A) In general.--Except as provided in subparagraph 
+                (B) and section 7(e), the term ``control'' has the same 
+                meaning as in paragraphs (2) and (3) of section 2(a) of 
+                the Bank Holding Company Act of 1956.
+                    (B) Exceptions.--
+                            (i) Acquisitions incidental to other 
+                        business.--No company shall be deemed to 
+                        control or to have acquired control of any 
+                        other company for purposes of this title by 
+                        virtue of the company's ownership of the voting 
+                        securities of such other company if the voting 
+                        securities were--
+                                    (I) acquired or held in an agency, 
+                                trust, or other fiduciary capacity 
+                                (whether with or without the sole 
+                                discretion to vote such securities);
+                                    (II) acquired or held in connection 
+                                with, or incidental to, the 
+                                underwriting of securities if such 
+                                securities are held only for such 
+                                period of time as will permit the sale 
+                                of the securities on a reasonable 
+                                basis;
+                                    (III) acquired or held in 
+                                connection with, or incidental to, 
+                                market making, dealing, trading, 
+                                brokerage or other securities-related 
+                                activities and not with a view to 
+                                acquiring, exercising, or transferring 
+                                any control over the management of 
+                                policies of such company; or
+                                    (IV) acquired in securing or 
+                                collecting a debt previously contracted 
+                                in good faith, until 2 years after the 
+                                date of acquisition or for such 
+                                additional period of time as the 
+                                appropriate Federal banking agency may 
+                                permit.
+                            (ii) Proxy solicitation.--No company formed 
+                        for the sole purpose of participating in a 
+                        proxy solicitation shall be deemed to control 
+                        another company by virtue of the company's 
+                        acquisition of voting rights with respect to 
+                        shares of such other company which are acquired 
+                        in the course of such solicitation.
+            (8) Depository institution holding company.--The term 
+        ``depository institution holding company'' has the same meaning 
+        as in section 3(w)(1) of the Federal Deposit Insurance Act.
+            (9) Diversified financial services holding company.--The 
+        term ``diversified financial services holding company'' means a 
+        company--
+                    (A) that has filed a notice with the Board of such 
+                company's intent to become a diversified financial 
+                services holding company and comply with the 
+                requirements of this Act and has not withdrawn such 
+                notice; and
+                    (B) which is described in at least 1 of the 
+                following clauses:
+                            (i) The company controls an insured 
+                        depository institution.
+                            (ii) The company has, within the preceding 
+                        12 months, filed a notice under section 4 to 
+                        acquire control of an insured depository 
+                        institution or a depository institution holding 
+                        company and such notice has not been 
+                        disapproved.
+                            (iii) The company controls a company which 
+                        has, within the preceding 12 months, filed an 
+                        application for deposit insurance under section 
+                        4 or 5 of the Federal Deposit Insurance Act 
+                        which has not been disapproved.
+            (10) Financial institution.--The term ``financial 
+        institution'' means--
+                    (A) any bank (as defined in section 3(a)(1) of the 
+                Federal Deposit Insurance Act), savings association (as 
+                defined in section 3(b)(1) of such Act), insurance 
+                company, finance company, real estate company, 
+                investment company (as defined in section 3 of the 
+                Investment Company Act of 1940), or investment adviser 
+                (as defined in section 202 of the Investment Advisers 
+                Act of 1940);
+                    (B) any broker, dealer, government securities 
+                broker, government securities dealer, municipal 
+                securities broker, or municipal securities dealer (as 
+                such terms are defined in the Securities Exchange Act 
+                of 1934); or
+                    (C) any other financial services company that is 
+                regulated, supervised, or examined under the laws of 
+                any State.
+            (11) Insured depository institution.--The term ``insured 
+        depository institution'' has the same meaning as in section 
+        3(c)(2) of the Federal Deposit Insurance Act.
+            (12) Representative.--The term ``representative'' includes 
+        any agent, principal, solicitor, broker, director, officer, 
+        employee, institution-affiliated party (as defined in section 3 
+        of the Federal Deposit Insurance Act), or other representative 
+        of any company or insured depository institution or any 
+        affiliate of any such company or institution.
+            (13) Savings and loan holding company.--The term ``savings 
+        and loan holding company'' has the same meaning as in section 
+        10(a) of the Home Owners' Loan Act.
+            (14) Savings association.--The term ``savings association'' 
+        has the same meaning as in section 3(b) of the Federal Deposit 
+        Insurance Act.
+            (15) State.--The term ``State'' has the same meaning as in 
+        section 3(a) of the Federal Deposit Insurance Act.
+
+SEC. 4. ESTABLISHMENT OF A DIVERSIFIED FINANCIAL SERVICES HOLDING 
+              COMPANY.
+
+    (a) In General.--No person may take any action which causes any 
+company to become a diversified financial services holding company 
+without submitting prior notice to the Board in accordance with this 
+section of such person's intention to establish a diversified financial 
+services holding company.
+    (b) Notice Requirements and Procedures.--The Board shall establish 
+requirements and procedures for the submission of the notice required 
+under this section with respect to the establishment of a diversified 
+financial services holding company.
+    (c) Compliance.--Any diversified financial services holding company 
+that fails to comply with this Act and regulations prescribed under 
+this Act shall cease to be a diversified financial services holding 
+company as of the date of such failure to comply.
+    (d) Regulations.--The Board shall prescribe such regulations as the 
+Board determines to be appropriate to administer and carry out the 
+purposes of this Act.
+    (e) Termination of Bank Holding Company Status Upon Filing as 
+Diversified Financial Services Holding Company.--Section 2 of the Bank 
+Holding Company Act of 1956 (12 U.S.C. 1841) is amended by adding at 
+the end the following new subsection:
+    ``(n) Treatment as Bank Holding Company.--If--
+            ``(1) a bank holding company files a notice with the Board 
+        of such company's intent to become a diversified financial 
+        services holding company and to comply with the requirements of 
+        the Financial Services Competitiveness Act; and
+            ``(2) all the banks which are controlled directly or 
+        indirectly by a bank holding company are insured banks (as 
+        defined in section 3(h) of the Federal Deposit Insurance Act) 
+        as of the time of the filing of such notice,
+such company shall not be treated as a bank holding company for 
+purposes of this Act after such filing so long as such notice remains 
+in effect.''.
+    (f) Termination of S&L Holding Company Status Upon Filing as 
+Diversified Financial Services Holding Company.--Section 10 of the Home 
+Owners' Loan Act (12 U.S.C. 1467a) is amended by adding at the end the 
+following new subsection:
+    ``(t) Treatment as S&L Holding Company.--If--
+            ``(1) a savings and loan holding company files a notice 
+        with the Board of Governors of the Federal Reserve System of 
+        such company's intent to become a diversified financial 
+        services holding company and to comply with the requirements of 
+        the Financial Services Competitiveness Act; and
+            ``(2) all the savings associations which are controlled 
+        directly or indirectly by a savings and loan holding company 
+        are insured depository institutions (as defined in section 3(c) 
+        of the Federal Deposit Insurance Act) as of the time of the 
+        filing of such notice,
+such company shall not be treated as a savings and loan holding company 
+for purposes of this Act after such filing so long as such notice 
+remains in effect.''.
+    (g) Inapplicability of Glass-Steagall to Diversified Financial 
+Service Holding Companies.--
+            (1) Section 20 of the Banking Act of 1933 (12 U.S.C. 377) 
+        is amended by inserting after the 1st undesignated paragraph 
+        the following new paragraph:
+    ``The provisions of this section shall not apply with respect to 
+the affiliation of--
+            ``(A) any bank that is an affiliate of a diversified 
+        financial services holding company (as defined in section 3 of 
+        the Financial Services Competitiveness Act), with
+            ``(B) such company or any other affiliate of the 
+        company.''.
+            (2) Section 32 of the Banking Act of 1933 (12 U.S.C. 78) is 
+        amended by inserting after the 1st undesignated paragraph the 
+        following new paragraph:
+    ``The provisions of this section shall not apply with respect to 
+relationships involving--
+            ``(A) an affiliate of a diversified financial services 
+        holding company (as defined in the Financial Services 
+        Competitiveness Act); and
+            ``(B) such company or any other affiliate of such 
+        company.''.
+
+SEC. 5. COMPLIANCE WITH CHANGE IN CONTROL REQUIREMENTS.
+
+    (a) In General.--No diversified financial services holding company, 
+acting directly or indirectly, or through or in concert with 1 or more 
+other persons, may acquire control of an insured depository 
+institution, a depository institution holding company, or another 
+diversified financial services holding company through a purchase, 
+assignment, transfer, pledge or other disposition of voting stock of 
+any such institution or company unless the diversified financial 
+services holding company has complied with the requirements of section 
+7(j) of the Federal Deposit Insurance Act.
+    (b) Applicability of Section 7(j) of the Federal Deposit Insurance 
+Act.--
+            (1) In general.--Section 7(j) of the Federal Deposit 
+        Insurance Act shall apply with respect to a diversified 
+        financial services holding company for purposes of subsection 
+        (a) in the same manner and to the same extent such section 
+        applies to any acquiring party described in such section.
+            (2) Treatment of acquired company.--In applying section 
+        7(j) of the Federal Deposit Insurance Act for purposes of this 
+        section--
+                    (A) the acquisition of a depository institution 
+                holding company or a diversified financial services 
+                holding company shall be treated as the acquisition of 
+                an insured depository institution; and
+                    (B) the appropriate Federal banking agency shall 
+                be--
+                            (i) in the case of a depository institution 
+                        holding company, the appropriate Federal 
+                        banking agency designated under section 3(q) of 
+                        such Act with respect to the company; and
+                            (ii) in the case of a diversified financial 
+                        services company, the Board.
+
+SEC. 6. ADEQUATE CAPITALIZATION.
+
+    (a) Notification.--If an appropriate Federal banking agency finds 
+that an insured depository institution subsidiary of a diversified 
+financial services holding company is not adequately capitalized (as 
+defined by such agency pursuant to section 38 of the Federal Deposit 
+Insurance Act), the agency shall immediately provide a written notice 
+of such fact to the diversified financial services holding company.
+    (b) Bond, Guarantee, Deposit, or Surplus Capital.--
+            (1) In general.--In addition to any requirement of section 
+        38 of the Federal Deposit Insurance Act applicable to an 
+        undercapitalized insured depository institution (as defined 
+        pursuant to such section), an appropriate Federal banking 
+        agency may require a diversified financial services holding 
+        company to which written notice has been provided under 
+        subsection (a), with respect to an insured depository 
+        institution subsidiary, to--
+                    (A) provide a bond, guarantee or similar 
+                undertaking, in a form prescribed by the appropriate 
+                Federal banking agency;
+                    (B) place and maintain on deposit cash or 
+                investment securities (calculated on the basis of 
+                principal face amount or the fair market value, 
+                whichever is lower) in a segregated, earmarked account 
+                at the insured depository institution;
+                    (C) contribute to the surplus capital of the 
+                insured depository institution an amount necessary to 
+                adequately capitalize the insured depository 
+                institution; or
+                    (D) reduce the amount of total assets of the 
+                institution,
+        until the insured depository institution is adequately 
+        capitalized pursuant to an agreement described in subsection 
+        (c) or otherwise or the diversified financial services holding 
+        company divests control of the insured depository institution 
+        pursuant to subsection (d).
+            (2) Treatment of contribution.--To the extent that a 
+        contribution to surplus is made pursuant to paragraph (1), the 
+        contribution shall be segregated from, and not treated as, 
+        capital for any purpose unless and until the contribution is 
+        applied as a capital contribution pursuant to this section.
+            (3) Investment securities.--For purposes of this 
+        subsection, the term ``investment securities'' means--
+                    (A) any security which may be held by a national 
+                bank for the bank's own account pursuant to section 
+                5136 of the Revised Statutes of the United States; and
+                    (B) may include such other liquid assets as the 
+                appropriate Federal banking agency permits under this 
+                paragraph.
+            (4) Dividends.--Upon receipt of a notice by a diversified 
+        financial services holding company pursuant to subsection (a) 
+        relating to an insured depository institution controlled by 
+        such company--
+                    (A) the insured depository institution may not 
+                declare or pay a dividend to any shareholder; and
+                    (B) the diversified financial services holding 
+                company shall immediately return to the institution any 
+                dividend received from the institution during the 270-
+                day period ending on the date the written notice is 
+                received by the company.
+    (c) Appointment of Conservator.--
+            (1) In general.--If--
+                    (A) a diversified financial services holding 
+                company fails to comply with any of the requirements of 
+                subsection (b); or
+                    (B) before the end of the 45-day period beginning 
+                on the date a diversified financial services holding 
+                company receives a notice pursuant to subsection (a) 
+                with respect to an insured depository institution 
+                controlled by such company, the company has not--
+                            (i) caused the institution to become 
+                        adequately capitalized; or
+                            (ii) entered into an agreement acceptable 
+                        to the appropriate Federal banking agency to 
+                        cause the institution to become adequately 
+                        capitalized within a reasonable time,
+        the appropriate Federal banking agency shall appoint a 
+        conservator for the insured depository institution in 
+        accordance with the provisions of section 11 of the Federal 
+        Deposit Insurance Act.
+            (2) Suspension of appointment.--An appropriate Federal 
+        banking agency may, in the agency's discretion, suspend the 
+        appointment of a conservator under paragraph (1) if--
+                    (A) the diversified financial services holding 
+                company divests, or agrees to divest, control of the 
+                insured depository institution in an orderly manner; 
+                and
+                    (B) the appropriate Federal banking agency 
+                determines that such divestiture will meet the 
+                requirements of subsection (d).
+            (3) Extension of 45-day period.--The appropriate Federal 
+        banking agency may, in the agency's discretion and for good 
+        cause shown, extend the 45-day period described in paragraph 
+        (1) if the agency determines that the condition of the insured 
+        depository institution is not likely to weaken materially 
+        during any such extension.
+    (d) Divestiture.--
+            (1) In general.--If, before the end of the 90-day period 
+        beginning on the date a diversified financial services holding 
+        company receives a notice pursuant to subsection (a) with 
+        respect to an insured depository institution subsidiary, the 
+        holding company has not--
+                    (A) caused the insured depository institution to 
+                become adequately capitalized; or
+                    (B) entered into an agreement acceptable to the 
+                appropriate Federal banking agency to adequately 
+                capitalize the insured depository institution within a 
+                reasonable time,
+        the appropriate Federal banking agency shall order the 
+        diversified financial services holding company to divest 
+        control of the institution.
+            (2) Extension of 90-day period.--The appropriate Federal 
+        banking agency may, in the agency's discretion and for good 
+        cause shown, extend the 90-day period described in paragraph 
+        (1) if the agency determines that the condition of the insured 
+        depository institution is not likely to weaken materially 
+        during any such extension.
+            (3) Additional capital.--In connection with any divestiture 
+        of an insured depository institution pursuant to this 
+        subsection or subsection (c)(2) by any diversified financial 
+        services holding company and subject to subsection (e), the 
+        appropriate Federal banking agency shall order such company to 
+        contribute additional capital to such institution or take any 
+        other action described in subsection (b) with respect to such 
+        institution to the extent necessary for the institution to be 
+        adequately capitalized immediately following the consummation 
+        of the divestiture.
+            (4) Appointment of conservator.--The appropriate Federal 
+        banking agency may appoint a conservator for an insured 
+        depository institution in accordance with section 11 of the 
+        Federal Deposit Insurance Act at any time during the 90-day 
+        period described in paragraph (1) or any extension of such 
+        period.
+    (e) Termination of Conservatorship; Rescission of Divestiture 
+Order.--If, at any time after the appointment of a conservator under 
+subsection (c) or the issuance of an order under subsection (d) by an 
+appropriate Federal banking agency, the insured depository 
+institution--
+            (1) for which the conservator has been appointed; or
+            (2) which is the subject of such order,
+becomes adequately capitalized, the appropriate Federal banking agency 
+shall terminate such conservatorship or rescind such order, as the case 
+may be.
+    (f) Aggregate Limit on Required Capital Infusions; Relation to 
+Other Laws.--The maximum amount of liability for a diversified 
+financial services holding company for any capital assistance pursuant 
+to an order issued under this section by an appropriate Federal banking 
+agency with respect to any particular insured depository institution 
+subsidiary shall not exceed the amounts necessary for the institution 
+to become adequately capitalized.
+    (g) Judicial Review.--
+            (1) In general.--Before the end of the 10-day period 
+        beginning on the date of the appointment of a conservator by 
+        the appropriate Federal banking agency under this section or 
+        the receipt of an order issued by any such agency under 
+        subsection (d) with respect to an insured depository 
+        institution subsidiary of a diversified financial services 
+        holding company, the company may apply to the United States 
+        district court for the judicial district in which the principal 
+        office of the diversified financial services holding company is 
+        located, or the United States District Court for the District 
+        of Columbia, for an order requiring the removal of the 
+        conservator or for an injunction setting aside, limiting, or 
+        suspending the enforcement, operation, or effectiveness of any 
+        such order issued.
+            (2) Court action.--The court may, upon the merits in any 
+        action brought under paragraph (1), dismiss any such action, 
+        direct the removal of the conservator, or provide any 
+        appropriate relief.
+    (h) Capital of Diversified Financial Services Holding Company.--No 
+appropriate Federal banking agency may impose by regulation, order, 
+agreement, or any other means any requirement pertaining to the capital 
+of a diversified financial services holding company.
+    (i) Termination of Agreements.--Any agreement entered into pursuant 
+to this section between a diversified financial services holding 
+company and an appropriate Federal banking agency with respect to the 
+capital of an undercapitalized insured depository institution 
+subsidiary of such company shall terminate when the institution becomes 
+adequately capitalized.
+
+SEC. 7. ADDITIONAL PROVISIONS RELATING TO REGULATION OF INSURED 
+              DEPOSITORY INSTITUTION SUBSIDIARIES.
+
+    (a) Differential Treatment Prohibition.--Notwithstanding any other 
+Federal law or the law of any State, no Federal regulatory agency and 
+no State may take any action pursuant to any law, regulation, order, or 
+other authority other than this subtitle if the effect of such action 
+would be--
+            (1) to differentiate between--
+                    (A) insured depository institutions which are 
+                controlled by diversified financial services holding 
+                companies; and
+                    (B) other insured depository institutions,
+        in a manner which discriminates against insured depository 
+        institutions described in subparagraph (A); or
+            (2) to differentiate between--
+                    (A) diversified financial services holding 
+                companies or affiliates of such companies; and
+                    (B) bank holding companies, savings and loan 
+                holding companies, or affiliates of any such company
+        in a manner which discriminates against diversified financial 
+        services holding companies and affiliates of any such company.
+    (b) Relation to State Law.--
+            (1) In general.--No provision of the law or the 
+        constitution of any State, including any State law relating to 
+        State banks, savings association, real estate, securities, 
+        insurance, finance company, retail or the provision of 
+        financial or other services, shall prevent or impede or shall 
+        be interpreted or applied by any administrative, executive or 
+        judicial authority with the purpose or effect of preventing or 
+        impeding--
+                    (A) any insured depository institution, any 
+                affiliate of any such institution, or any 
+                representative of any such institution or affiliate 
+                from being acquired, owned, or controlled by, or from 
+                being affiliated in any manner with, any company which 
+                is or becomes a diversified financial services holding 
+                company, or any affiliate of such company, because of--
+                            (i) the types of activities engaged in, 
+                        directly or indirectly, by such insured 
+                        depository institution, any affiliate of such 
+                        institution, or any representative of any such 
+                        institution or affiliate; or
+                            (ii) the types of activities engaged in, 
+                        directly or indirectly, by such diversified 
+                        financial services holding company, any 
+                        affiliate of such company, or any 
+                        representative of any such company or 
+                        affiliate;
+                    (B) any company which is or becomes a diversified 
+                financial services holding company, any affiliate of 
+                any such company, or any representative of any such 
+                company or affiliate from acquiring, owning, or 
+                controlling, or being affiliated in any way with, any 
+                insured depository institution or any affiliate of any 
+                such institution because of--
+                            (i) the types of activities engaged in, 
+                        directly or indirectly, by any such company or 
+                        affiliate, or any representative of any such 
+                        company or affiliate; or
+                            (ii) the types of activities engaged in, 
+                        directly or indirectly, by any such insured 
+                        depository institution, any affiliate of any 
+                        such institution, or any representative of such 
+                        institution or affiliate; or
+                    (C) any insured depository institution, any 
+                affiliate of any such institution, or any 
+                representative of any such institution or affiliate 
+                from--
+                            (i) offering or marketing products or 
+                        services of any affiliated diversified 
+                        financial services holding company or any 
+                        affiliate of such company; or
+                            (ii) from having the products or services 
+                        of such insured depository institution, any 
+                        affiliate of any such institution, or any 
+                        representative of any such institution or 
+                        affiliate offered or marketed by such 
+                        diversified financial services holding company, 
+                        an affiliate of such company, or by any 
+                        representative of such company or affiliate.
+            (2) Rule of construction.--No provision of paragraph (1) 
+        shall be construed as superseding, altering, or otherwise 
+        affecting the application of the laws of any State relating to 
+        the examination, supervision, or regulation of providers of 
+        financial services or the protection of consumers, or as 
+        exempting any company which is or becomes a diversified 
+        financial services holding company, any affiliate of any such 
+        company, or any representative of any such company or 
+        affiliate, except to the extent that the intent, purpose, or 
+        effect of those laws is inconsistent with this subsection or 
+        with the purposes of this Act and then only to the extent of 
+        such inconsistency.
+            (3) Judicial determination.--Any interested party may 
+        institute an action in the United States District Court for the 
+        District of Columbia or any other appropriate district court of 
+        the United States, including an action for declaratory 
+        judgment, as may be appropriate to determine whether and to 
+        what extent any provision of the constitution or law of any 
+        State is superseded by any provision of this subsection or to 
+        enjoin application of any such provision.
+    (c) Access to State Courts.--
+            (1) In general.--No State may, directly or indirectly, deny 
+        an insured depository institution which is not located in that 
+        State the right to maintain or defend in a court in that State 
+        any action which could be maintained or defended under similar 
+        circumstances by a company which--
+                    (A) is not located in that State; and
+                    (B) is not an insured depository institution.
+            (2) Exception for certain institutions.--Paragraph (1) 
+        shall not apply in the case of an insured depository 
+        institution described in such paragraph which establishes or 
+        maintains a domestic branch (as defined in section 3(o) of the 
+        Federal Deposit Insurance Act) in the State referred to in such 
+        paragraph if the laws of such State do not permit an out-of-
+        State insured depository institution to establish a domestic 
+        branch in such State.
+            (3) Applicability of various conditions.--If the 
+        maintenance or defense of an action in the courts of a State by 
+        a company which is not located in that State and is not an 
+        insured depository institution is subject to conditions which 
+        are applied in a nondiscriminatory manner to fulfill legitimate 
+        State objectives, the maintenance or defense of such an action 
+        by an insured depository institution described in paragraph (1) 
+        may be subject to the same conditions to the extent that the 
+        conditions do not have the effect, directly or indirectly, of 
+        denying the institution the opportunity to maintain or defend 
+        such action.
+    (d) Representatives.--
+            (1) In general.--No State may, directly or indirectly, 
+        limit or deny the authority of any diversified financial 
+        services holding company or any affiliate of such company to 
+        utilize or compensate any representative or other person who is 
+        located in that State and is representing such company or 
+        affiliate in any lawful capacity.
+            (2) Exception for certain laws applied in nondiscriminatory 
+        manner.--Paragraph (1) shall not apply with respect to any 
+        licensing, marketing, compensation, or employment law or 
+        requirement of a State--
+                    (A) which is applied in a nondiscriminatory manner 
+                to fulfill legitimate State regulatory objectives; and
+                    (B) the intent, purpose, or effect of which is not 
+                inconsistent with the purposes of this Act.
+            (3) Exception for certain activities.--In the case of any 
+        State the laws of which do not permit an out-of-State insured 
+        depository institution to establish a domestic branch (as 
+        defined in section 3(o) of the Federal Deposit Insurance Act) 
+        in such State, paragraph (1) shall not apply with respect to 
+        the performance of activities in such State by any 
+        representative or other person described in paragraph (1) on 
+        behalf of an insured depository institution if the performance 
+        of such activities at any location within a State other than 
+        the main office or any branch office of such insured depository 
+        institution would constitute, under any Federal law or the law 
+        of the State, the establishment and operation of a domestic 
+        branch in the State.
+    (e) Affiliate and Control Defined.--Notwithstanding section 3, the 
+following definitions shall apply for purposes of this section:
+            (1) Affiliate.--The term ``affiliate'' means a person that 
+        directly or indirectly controls or is controlled by, or is 
+        under common control with another person.
+            (2) Control.--
+                    (A) In general.--The term ``control'' means the 
+                power, directly or indirectly, to direct the management 
+                or policies of a person.
+                    (B) Presumption.--A person shall be presumed to 
+                control another person if the person, directly or 
+                indirectly, owns, controls, or holds with power to vote 
+                10 percent or more of the voting securities of such 
+                other person.
+
+SEC. 8. INSIDER LENDING AND TYING PROVISIONS.
+
+    (a) Applicability of Insider Lending Restrictions.--A diversified 
+financial services holding company shall be treated as a bank holding 
+company for purposes of section 22(h) of the Federal Reserve Act and 
+any regulation prescribed under such section.
+    (b) Tying.--
+            (1) In general.--Any diversified financial services holding 
+        company and any subsidiary of such company shall be subject to 
+        the restrictions of section 106 of the Bank Holding Company Act 
+        Amendments of 1970 in connection with any transaction involving 
+        the products or services of such company or subsidiary or an 
+        insured depository institution affiliate of such company, in 
+        the same manner such section would apply if the company or 
+        subsidiary was a bank and the insured depository institution 
+        subsidiary was a subsidiary of the bank holding company.
+            (2) Subsidiary defined.--For purposes of paragraph (1), the 
+        term ``subsidiary'' has the same meaning as in section 2(d) of 
+        the Bank Holding Company Act of 1956.
+
+SEC. 9. ENFORCEMENT AND EXAMINATION; PAYMENT SYSTEM SERVICES; 
+              OVERSIGHT.
+
+    (a) Administrative Enforcement.--
+            (1) In general.--Compliance with the requirements imposed 
+        under this Act and regulations prescribed by any appropriate 
+        Federal banking agency shall be enforced by the appropriate 
+        Federal banking agency under section 8 of the Federal Deposit 
+        Insurance Act.
+            (2) Additional enforcement powers.--
+                    (A) Violation of this act treated as violation of 
+                other acts.--For purposes of applying section 8 of the 
+                Federal Deposit Insurance Act with respect to any 
+                diversified financial services holding company or any 
+                affiliate of such company pursuant to paragraph (1), a 
+                violation of a requirement imposed under this Act shall 
+                be deemed to be a violation of a requirement imposed 
+                under section 8 of the Federal Deposit Insurance Act.
+                    (B) Enforcement authority under other acts.--In 
+                addition to any appropriate Federal banking agency's 
+                powers under section 8 of the Federal Deposit Insurance 
+                Act, each such agency may exercise, for purposes of 
+                enforcing compliance with any requirement imposed under 
+                this Act, any other authority conferred on such agency 
+                by any other law.
+    (b) Examination.--The appropriate Federal banking agency may 
+examine the books, records and affairs of, or require reports from, any 
+affiliate of an insured depository institution which is a subsidiary of 
+a diversified financial services holding company in order to ensure 
+compliance with the requirements of this Act.
+    (c) Federal Reserve Payment Services.--
+            (1) In general.--All Federal reserve bank services 
+        described in section 13 of the Federal Reserve Act, the 14th 
+        undesignated paragraph of section 16 of such Act, and the 
+        Expedited Funds Availability Act shall be available to all 
+        insured depository institutions, on the same terms and 
+        conditions and subject to the same limitations and 
+        restrictions, without regard to the identity of the insured 
+        depository institution's affiliates, except to the extent 
+        necessary to avoid a material adverse effect on a large dollar 
+        payment system.
+            (2) Definition.--For purposes of this subsection, the term 
+        ``a material adverse effect on a large dollar payment system'' 
+        means any activity of an insured depository institution which 
+        results in violations of any uniformly applied payment system 
+        risk-reduction policy cap or limitation established by the 
+        Board of Governors of the Federal Reserve System which--
+                    (A) occur during any period consisting of 5 
+                consecutive business days; and
+                    (B) exceed the median number of violations for all 
+                users of the applicable large dollar payment services 
+                during that same period.
+            (3) Federal reserve enforcement power.--
+                    (A) Administrative enforcement.--In the case of an 
+                insured depository institution which has engaged in any 
+                activity that has resulted in a material adverse effect 
+                on a large dollar payment system, the Board of 
+                Governors of the Federal Reserve System shall be 
+                treated as the appropriate Federal banking agency for 
+                such institution with respect to such activity for 
+                purposes of subsection (a).
+                    (B) Examination.--The Board of Governors of the 
+                Federal Reserve System may examine the books, records 
+                and affairs of any insured depository institution which 
+                has engaged in any activity that has resulted in a 
+                material adverse effect on a large dollar payment 
+                system, or require reports from any such institution 
+                with respect to any such activity.
+
+SEC. 10. CRIMINAL AND CIVIL PENALTIES.
+
+    (a) Knowing and Intentional Violations.--
+            (1) In general.--Whoever knowingly violates or participates 
+        in a violation of--
+                    (A) any provision of this Act, or any regulation 
+                prescribed or order issued by an appropriate Federal 
+                banking agency pursuant to this Act;
+                    (B) being a company, violates any regulation 
+                prescribed or order issued by the Board under this Act; 
+                or
+                    (C) any written agreement between--
+                            (i) any diversified financial services 
+                        holding company or any affiliate of such 
+                        company which is not an insured depository 
+                        institution; and
+                            (ii) any appropriate Federal banking 
+                        agency,
+        shall be fined under title 18, United States Code, for each day 
+        during which the violation continues, imprisoned for not more 
+        than 1 year, or both.
+            (2) Violations with intent to deceive, defraud, or 
+        profit.--Whoever, with the intent to deceive, defraud, or 
+        profit significantly, knowingly commits a violation, or 
+        participates in a violation, described in paragraph (1) shall 
+        be fined not more than $1,000,000 for each day during which the 
+        violation continues, imprisoned for not more than 5 years, or 
+        both.
+    (b) False Entry or Statement.--Each officer, director, employee, 
+and agent of a diversified financial services holding company or any 
+affiliate of any such company which is not an insured depository 
+institution, shall be subject to the same penalties for false entries 
+in any book, report, or statement of such company as are applicable to 
+officers, directors, employees and agents of member banks, bank holding 
+companies, and savings and loan holding companies for false entries in 
+any books, reports, or statements of member banks, bank holding 
+companies, and savings and loan holding companies under section 1005 of 
+title 18, United States Code, to the extent that any such false entry 
+refers in any material way to the affairs of an insured depository 
+institution affiliate of such company.
+    (c) Civil Penalty.--
+            (1) First tier.--Any person who--
+                    (A) violates this Act or any regulation prescribed 
+                or order issued by the Board under this Act; or
+                    (B) violates any written agreement between such 
+                person and the Board;
+        shall forfeit and pay a civil penalty of not more than $5,000 
+        for each day during which such violation continues.
+            (2) Second tier.--Notwithstanding subparagraph (A), if any 
+        person--
+                    (A) commits any violation described in any clause 
+                of subparagraph (A) or breaches any fiduciary duty; and
+                    (B) such violation or breach--
+                            (i) is part of a pattern of misconduct;
+                            (ii) causes or is likely to cause more than 
+                        a minimal loss to a depository institution; or
+                            (iii) results in pecuniary gain or other 
+                        benefit to such person,
+        such person shall forfeit and pay a civil penalty of not more 
+        than $25,000 for each day during which such violation or breach 
+        continues.
+            (3) Third tier.--Notwithstanding subparagraphs (A) and (B), 
+        if any person--
+                    (A) knowingly commits any violation described in 
+                subparagraph (A) or breaches any fiduciary duty; and
+                    (B) knowingly or recklessly causes a substantial 
+                loss to a depository institution or a substantial 
+                pecuniary gain or other benefit to such person by 
+                reason of such violation or breach,
+        such person shall forfeit and pay a civil penalty in an amount 
+        not to exceed the applicable maximum amount determined under 
+        paragraph (4) for each day during which such violation or 
+        breach continues.
+            (4) Maximum amounts of penalties for any violation 
+        described in subparagraph (c).--The maximum daily amount of any 
+        civil penalty which may be assessed pursuant to paragraph (3) 
+        for any violation or breach described in such paragraph is--
+                    (A) in the case of any person other than an insured 
+                depository institution, an amount not to exceed 
+                $1,000,000; and
+                    (B) in the case of any insured depository 
+                institution, an amount not to exceed the lesser of--
+                            (i) $1,000,000; or
+                            (ii) 1 percent of the total assets of such 
+                        institution.
+            (5) Assessment.--
+                    (A) Written notice.--Any penalty imposed under 
+                paragraph (1), (2), or (3) may be assessed and 
+                collected by the Board by written notice.
+                    (B) Finality of assessment.--If, with respect to 
+                any assessment under subparagraph (A), a hearing is not 
+                requested pursuant to paragraph (8) within the period 
+                of time allowed under such subparagraph, the assessment 
+                shall constitute a final and unappealable order.
+            (6) Authority to modify or remit penalty.--The Board may 
+        compromise, modify, or remit any penalty which the Board may 
+        assess or had already assessed under paragraph (1), (2), or 
+        (3).
+            (7) Mitigating factors.--In determining the amount of any 
+        penalty imposed under paragraph (1), (2), or (3), the Board 
+        shall take into account the appropriateness of the penalty with 
+        respect to--
+                    (A) the size of financial resources and good faith 
+                of the person charged;
+                    (B) the gravity of the violation;
+                    (C) the history of previous violations; and
+                    (D) such other matters as justice may require.
+            (8) Hearing.--The person against whom any penalty is 
+        assessed under this paragraph shall be afforded an agency 
+        hearing if such person submits a request for such hearing 
+        within 20 days after the issuance of the notice of assessment.
+            (9) Collection.--
+                    (A) Referral.--If any person fails to pay an 
+                assessment after any penalty assessed under this 
+                subsection has become final, the Board shall recover 
+                the amount assessed by action in the appropriate United 
+                States district court.
+                    (B) Appropriateness of penalty not reviewable.--In 
+                any civil action under subparagraph (A), the validity 
+                and appropriateness of the penalty shall not be subject 
+                to review.
+            (10) Disbursement.--All penalties collected under authority 
+        of this paragraph shall be deposited into the Treasury.
+            (11) Regulations.--The Board shall prescribe regulations 
+        establishing such procedures as may be necessary to carry out 
+        this paragraph.
+    (d) Violate Defined.--For purposes of this section, the term 
+``violate'' includes any action (alone or with another or others) for 
+or toward causing, bringing about, participating in, counseling, or 
+aiding and abetting a violation.
+
+SEC. 11. TECHNICAL AND CONFORMING AMENDMENTS.
+
+    (a) Bank Holding Company Act of 1956.--
+            (1) Section 2(a)(1) of the Bank Holding Company Act of 1956 
+        (12 U.S.C. 1841(a)(1)) is amended by inserting ``or subsection 
+        (n)'' after ``paragraph (5) of this subsection''.
+            (2) Section 2(c)(2) of the Bank Holding Company Act of 1956 
+        (12 U.S.C. 1841(c)) is amended by adding at the end the 
+        following new subparagraph:
+                    ``(K) An insured bank (as defined in section 3(h) 
+                of the Federal Deposit Insurance Act) which is not 
+                controlled by any company other than a diversified 
+                financial services holding company (as defined in the 
+                Financial Services Competitiveness Act).''.
+            (3) Section 5(d) of the Bank Holding Company Act of 1956 
+        (12 U.S.C. 1844(d)) is amended by inserting ``or the Financial 
+        Services Competitiveness Act'' after ``this Act''.
+    (b) Amendment to the Bank Holding Company Act Amendments of 1970.--
+Section 106(b) of the Bank Holding Company Act Amendments of 1970 (12 
+U.S.C. 1972) is amended--
+            (1) by adding at the end the following new paragraphs:
+            ``(3) Exemption for certain tying arrangements.--A bank 
+        shall not be prohibited from providing a loan, discount, 
+        deposit, or trust service, or fixing or varying the 
+        consideration of any of the foregoing, on the condition or 
+        requirement that--
+                    ``(A) the customer shall obtain or provide some 
+                additional loan, discount, deposit, or trust service 
+                from, or to, such bank or from, or to, such bank 
+                holding company of such bank or from, or to, any 
+                subsidiary of such bank holding company; or
+                    ``(B) the customer provide some additional credit, 
+                property, or service to such bank, or to such bank 
+                holding company of such bank, or to any subsidiary of 
+                such bank holding company, if such additional credit, 
+                property, or service is related to and usually provided 
+                in connection with a loan, discount, deposit, or trust 
+                service.
+            ``(4) Exceptions by regulation or order.--The Board may, by 
+        regulation or order, permit such exceptions to the prohibitions 
+        contained in paragraph (1) as the Board considers will not be 
+        contrary to the purposes of this title.'';
+            (2) in paragraph (1), by striking ``(1) A bank'' and 
+        inserting ``(1) In general.--Except as provided in paragraph 
+        (3), a bank'';
+            (3) in paragraph (1)(A) by striking ``other than a loan, 
+        discount, deposit, or trust service'';
+            (4) in paragraph (1)(C) by striking ``other than those 
+        related to and usually provided in connection with a loan, 
+        discount, deposit or trust service''; and
+            (5) by striking the last sentence of paragraph (1).
+    (c) Amendments to the Federal Reserve Act.--Section 23A of the 
+Federal Reserve Act (12 U.S.C. 371c) is amended by--
+            (1) inserting at the end of subsection (a) the following 
+        new paragraph:
+            ``(5) Certain loans not treated as transactions with 
+        affiliates.--Notwithstanding paragraph (2), a loan or extension 
+        of credit shall not be deemed to be made to any affiliate, for 
+        purposes of this section, if--
+                    ``(A) the member bank approves such loan or 
+                extension of credit in accordance with substantially 
+                the same standards and procedures and on substantially 
+                the same terms that it applies to similar loans or 
+                extensions of credit the proceeds of which are not 
+                transferred to or for the benefit of an affiliate; and
+                    ``(B) such loan or extension of credit is not made 
+                for the purposes of evading any of the requirements of 
+                this section.''; and
+            (2) by adding at the end the following new subsection:
+    ``(f) Coordination With Financial Services Competitiveness Act.--
+The provisions of this section shall be subject to section 102 of the 
+Financial Services Competitiveness Act.''.
+    (d) Amendments to the Federal Deposit Insurance Act.--
+            (1) Section 7(j)(8) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1817(j)(8)) is amended to read as follows:
+            ``(8) Control defined.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term ``control'' has the same meaning as in section 
+                2(a) of the Bank Holding Company Act of 1956.
+                    ``(B) Exception for securities acquired in certain 
+                capacities.--For purposes of this subsection, no 
+                company shall be deemed to control or to have acquired 
+                control of any other company by virtue of the company's 
+                ownership of the voting securities of such other 
+                company which were--
+                            ``(i) acquired or held in an agency, trust, 
+                        or other fiduciary capacity (whether with or 
+                        without the sole discretion to vote such 
+                        securities);
+                            ``(ii) acquired or held in connection with 
+                        or incidental to--
+                                    ``(I) the underwriting of 
+                                securities if such securities are held 
+                                only for such period of time as will 
+                                permit the sale thereof on a reasonable 
+                                basis; or
+                                    ``(II) acquired or held in 
+                                connection with or incidental to market 
+                                making, dealing, trading, brokerage or 
+                                other securities related activities and 
+                                not with a view to acquiring, 
+                                exercising or transferring any control 
+                                over the management or policies of such 
+                                company; or
+                            ``(iii) acquired in securing or collecting 
+                        a debt previously contracted in good faith, 
+                        during the 2-year period beginning on the date 
+                        of such acquisition or for such additional time 
+                        (not exceeding 3 years) as the appropriate 
+                        Federal banking agency may permit if the 
+                        appropriate Federal banking agency determines 
+                        that such extension will not be detrimental to 
+                        the public interest.
+                    ``(C) Exception for companies formed for proxy 
+                solicitations.--For purposes of this subsection, no 
+                company formed for the sole purpose of participating in 
+                a proxy solicitation shall be deemed to control or to 
+                have acquired control of any other company by virtue of 
+                the company's acquisition of voting rights with respect 
+                to shares of such other company which were acquired in 
+                the course of such solicitation.''.
+            (2) Paragraph (9) of section 5(e) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1815 (e)(9)) is amended--
+                    (A) by striking ``or'' at the end of subparagraph 
+                (A);
+                    (B) by redesignating subparagraph (B) as 
+                subparagraph (C); and
+                    (C) by inserting after subparagraph (A) the 
+                following new subparagraph:
+            ``(B) such institutions are controlled by the same 
+        diversified financial services holding company (as defined in 
+        section 3(a) of the Financial Services Competitiveness Act); 
+        or''.
+            (3) Section 3(u) of the Federal Deposit Insurance Act (12 
+        U.S.C. section 1813(u)) is amended--
+                    (A) in paragraph (1), by inserting ``, a 
+                diversified financial services holding company,'' after 
+                ``bank holding company''; and
+                    (B) by adding at the end the following new 
+                paragraph:
+            ``(7) Diversified financial services holding company.--The 
+        term `diversified financial services holding company'' has the 
+        same meaning as in section 3(9) of the Financial Services 
+        Competitiveness Act.''.
+    (e) Amendment to the Clayton Act.--Section 7A(c)(8) of the Clayton 
+Act (15 U.S.C. 18a(C)(8)), is amended by striking ``of 1933 (12 U.S.C. 
+1464)'' and inserting ``(12 U.S.C. 1464) or transactions which require 
+agency notification under section 4 of the Financial Services 
+Competitiveness Act or section 7(j) of the Federal Deposit Insurance 
+Act''.
+    (f) Amendments to the Community Reinvestment Act.--Section 803(3) 
+of the Community Reinvestment Act (12 U.S.C. 2902(3)) is amended--
+            (1) by inserting ``or notice, as the case may be,'' after 
+        ``an application'';
+            (2) by striking ``or'' at the end of subparagraph (E);
+            (3) by striking the period at the end of subparagraph (F) 
+        and inserting ``; or''; and
+            (4) by adding at the end the following new subparagraph:
+                    ``(G) the acquisition of an insured bank or an 
+                insured institution requiring prior notice under 
+                section 4 of the Financial Services Competitiveness 
+                Act.''.
+                                 <all>
+HR 4956 IH----2
+HR 4956 IH----3
+HR 4956 IH----4
+

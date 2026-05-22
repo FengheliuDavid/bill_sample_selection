@@ -1,0 +1,933 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 1633 Introduced in Senate (IS)]
+
+103d CONGRESS
+  1st Session
+                                S. 1633
+
+ To consolidate under a new Federal Banking Commission the supervision 
+   of all depository institutions insured under the Federal Deposit 
+                 Insurance Act, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+             November 8 (legislative day, November 2), 1993
+
+Mr. Riegle (for himself and Mr. D'Amato) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To consolidate under a new Federal Banking Commission the supervision 
+   of all depository institutions insured under the Federal Deposit 
+                 Insurance Act, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Regulatory 
+Consolidation Act of 1993''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+                  TITLE I--FEDERAL BANKING COMMISSION
+
+Sec. 101. Establishment. 
+Sec. 102. Management.
+Sec. 103. Federal banking commissioners.
+Sec. 104. Powers and duties of the Commission.
+Sec. 105. Conforming amendment relating to transfers of functions.
+Sec. 106. Designated transfer date.
+Sec. 107. Timing of initial appointments.
+Sec. 108. Access by the Federal Reserve Board to the Commission's 
+                            records.
+            TITLE II--ABOLITION OF FEDERAL BANKING AGENCIES
+
+Sec. 201. Office of Comptroller of the Currency and position of 
+                            Comptroller of the Currency abolished.
+Sec. 202. Office of Thrift Supervision and position of Director of the 
+                            Office of Thrift Supervision abolished.
+Sec. 203. Savings provisions.
+Sec. 204. References in Federal law to Federal banking agencies.
+Sec. 205. Disposition of affairs.
+Sec. 206. Status of employees.
+Sec. 207. Transfer of property.
+Sec. 208. Conforming changes in Federal Deposit Insurance Corporation 
+                            Board of Directors.
+Sec. 209. Comptroller's currency-related functions repealed.
+Sec. 210. Federal Financial Institutions Examination Council abolished.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Appointed commissioner.--The term ``appointed 
+        commissioner'' means a commissioner appointed by the President 
+        under section 102(3).
+            (2) Chairperson.--The term ``Chairperson'' means the 
+        Chairperson of the Federal Banking Commission.
+            (3) Commission.--The term ``Commission'' means the Federal 
+        Banking Commission.
+            (4) Designated transfer date.--The term ``designated 
+        transfer date'' means the date designated under section 106.
+            (5) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Treasury.
+            (6) Certain other terms.--The terms ``company'', 
+        ``control'' (when used with respect to an insured depository 
+        institution), and ``insured depository institution'' have the 
+        same meaning as in section 3 of the Federal Deposit Insurance 
+        Act.
+
+                  TITLE I--FEDERAL BANKING COMMISSION
+
+SEC. 101. ESTABLISHMENT.
+
+    There is established the Federal Banking Commission as an 
+independent establishment in the executive branch.
+
+SEC. 102. MANAGEMENT.
+
+    The management of the Commission shall be vested in 5 
+commissioners, including--
+            (1) the Secretary of the Treasury (or the Secretary's 
+        designee);
+            (2) 1 member of the Board of Governors of the Federal 
+        Reserve System designated as a commissioner by resolution of 
+        the Board of Governors; and
+            (3) 3 commissioners appointed by the President, by and with 
+        the advice and consent of the Senate, from among individuals 
+        who are citizens of the United States.
+
+SEC. 103. FEDERAL BANKING COMMISSIONERS.
+
+    (a) Political Affiliation.--Not more than 3 commissioners may be 
+members of the same political party.
+    (b) Chairperson and Vice Chairperson.--
+            (1) Chairperson.--The President shall, by and with the 
+        advice and consent of the Senate, designate 1 of the appointed 
+        commissioners, at the time of that person's appointment to the 
+        Commission, to serve as the Chairperson of the Commission for a 
+        term of 6 years (or, in the case of any appointment under 
+        subsection (c)(2), for the remainder of the commissioner's term 
+        as a commissioner).
+            (2) Vice chairperson.--The President shall, by and with the 
+        advice and consent of the Senate, designate 1 of the appointed 
+        commissioners, at the time of that person's appointment to the 
+        Commission, to serve as the Vice Chairperson of the Commission 
+        for a term of 6 years (or, in the case of any appointment under 
+        subsection (c)(2), for the remainder of the commissioner's term 
+        as a commissioner).
+            (3) Acting chairperson.--The Vice Chairperson shall act as 
+        Chairperson if--
+                    (A) the position of Chairperson is vacant; or
+                    (B) the Chairperson is absent or disabled.
+    (c) Appointed Commissioners' Terms.--
+            (1) 6-year term.--Except as provided in paragraphs (3) and 
+        (4), each appointed commissioner shall be appointed for a term 
+        of 6 years.
+            (2) Unexpired terms.--Any commissioner appointed to fill a 
+        vacancy occurring before the end of the term to which the 
+        commissioner's predecessor was appointed shall be appointed 
+        only for the remainder of the term.
+            (3) Initial appointments staggered.--Of the first 
+        commissioners to be appointed under section 102(3)--
+                    (A) 1 shall be appointed for a term to expire 6 
+                years after the designated transfer date;
+                    (B) 1 shall be appointed for a term to expire 4 
+                years after the designated transfer date; and
+                    (C) 1 shall be appointed for a term to expire 2 
+                years after the designated transfer date,
+        as designated by the President at the time of the appointment.
+    (d) Vacancy.--Any vacancy on the Commission shall be filled in the 
+same manner in which the original appointment was made.
+    (e) Employment and Other Restrictions.--
+            (1) In general.--During service on the Commission, no 
+        commissioner may--
+                    (A) hold any office or position, or otherwise be 
+                employed by, any insured depository institution or 
+                company having control of an insured depository 
+                institution;
+                    (B) hold stock or other securities of any insured 
+                depository institution or company having control of an 
+                insured depository institution;
+                    (C) serve as an officer, director, or employee of 
+                any Federal Reserve bank or Federal home loan bank; or
+                    (D) serve as an officer, director, or employee of 
+                any organization other than a nonprofit organization 
+                organized for charitable, educational, or other public 
+                purposes.
+            (2) Certification.--Upon taking office, each commissioner 
+        shall file with the Commission a certification under penalty of 
+        perjury that the commissioner is in compliance with paragraph 
+        (1).
+            (3) Appointed commissioners' post-service employment 
+        restricted.--
+                    (A) In general.--No appointed commissioner may hold 
+                any office or position in, or otherwise be employed by, 
+                any insured depository institution or company having 
+                control of an insured depository institution, during 
+                the 2-year period beginning on the date on which the 
+                commissioner ceases to serve on the Commission.
+                    (B) Exception for commissioners who serve full 
+                terms.--Subparagraph (A) does not apply to any 
+                commissioner who has served the full term for which 
+                that commissioner was appointed.
+    (f) Compensation.--
+            (1) Chairperson.--Section 5313 of title 5, United States 
+        Code, is amended by adding at the end the following new item:
+            ``Chairperson of the Federal Banking Commission.''.
+            (2) Other appointed commissioners.--Section 5314 of title 
+        5, United States Code, is amended by adding at the end the 
+        following new item:
+            ``Presidentially appointed members of the Federal Banking 
+        Commission (2).''.
+
+SEC. 104. POWERS AND DUTIES OF THE COMMISSION.
+
+    (a) Regulation of National Banks.--
+            (1) Transfer of functions.--All functions of the 
+        Comptroller of the Currency are transferred to the Commission.
+            (2) Commission's authority.--The Commission shall have all 
+        powers and duties that were vested in the Comptroller of the 
+        Currency before the designated transfer date.
+    (b) Regulation of Savings Associations and Savings and Loan Holding 
+Companies.--
+            (1) Transfer of functions.--All functions of the Director 
+        of the Office of Thrift Supervision are transferred to the 
+        Commission.
+            (2) Commission's authority.--The Commission shall have all 
+        powers and duties that were vested in the Director of the 
+        Office of Thrift Supervision before the designated transfer 
+        date.
+    (c) Regulation of Member Banks, Bank Holding Companies and 
+Affiliates, and Various International Banking Entities.--
+            (1) Transfer of functions.--All functions of the Board of 
+        Governors of the Federal Reserve System (and any Federal 
+        Reserve bank) relating to the supervision and regulation of the 
+        following entities are transferred to the Commission:
+                    (A) Banks that are members of the Federal Reserve 
+                System.
+                    (B) Bank holding companies and their subsidiaries 
+                and affiliates.
+                    (C) Companies operating under the International 
+                Banking Act of 1978 and sections 25 and 25A of the 
+                Federal Reserve Act.
+                    (D) Companies that are subject to supervision or 
+                regulation by the Board of Governors of the Federal 
+                Reserve System under any title of the Consumer Credit 
+                Protection Act.
+            (2) Commission's authority.--The Commission shall have all 
+        powers and duties that, before the designated transfer date, 
+        were vested in the Board of Governors of the Federal Reserve 
+        System under the following provisions of law:
+                    (A) Sections 6 (other than the 1st and 2d 
+                paragraphs), 9, 19(h), 23, 23A, 23B, 24(a), 24A, 25, 
+                25A, and 29, and subsections (g) and (h) of section 22, 
+                of the Federal Reserve Act.
+                    (B) The Bank Holding Company Act of 1956.
+                    (C) The Bank Holding Company Act Amendments of 
+                1970.
+                    (D) The International Banking Act of 1978.
+                    (E) Sections 20, 31, and 32 of the Banking Act of 
+                1933.
+                    (F) The Federal Deposit Insurance Act.
+                    (G) Any title of the Consumer Credit Protection 
+                Act.
+                    (H) The Bank Protection Act of 1968.
+                    (I) The Home Mortgage Disclosure Act of 1975.
+                    (J) The Community Reinvestment Act of 1977.
+                    (K) The Depository Institution Management 
+                Interlocks Act.
+                    (L) The Bank Service Corporation Act.
+                    (M) The Federal Financial Institutions Examination 
+                Council Act of 1978.
+                    (N) The Right to Financial Privacy Act of 1978.
+                    (O) The Alternative Mortgage Transaction Parity Act 
+                of 1982.
+                    (P) The International Lending Supervision Act of 
+                1983.
+                    (Q) The Expedited Funds Availability Act.
+                    (R) The Financial Institutions Reform, Recovery, 
+                and Enforcement Act of 1989.
+                    (S) The Federal Deposit Insurance Corporation 
+                Improvement Act of 1991.
+                    (T) The Depository Institutions Disaster Relief Act 
+                of 1992.
+    (d) Regulation of State Nonmember Banks.--
+            (1) Transfer of functions.--
+                    (A) In general.--Except as provided in subparagraph 
+                (B), all functions of the Federal Deposit Insurance 
+                Corporation (and its Board of Directors) relating to 
+                the supervision and regulation of State nonmember banks 
+                are transferred to the Commission.
+                    (B)  Insurance-related functions excepted.--The 
+                functions of the Federal Deposit Insurance Corporation 
+                relating to insurance, conservatorship, or receivership 
+                functions shall not be transferred to the Commission.
+            (2) Commission's authority.--The Commission shall have all 
+        powers and duties that, before the designated transfer date, 
+        were vested in the Federal Deposit Insurance Corporation under 
+        the following provisions of law:
+                    (A) Sections 7(a), 20, 21, 22, 27, 30(c), 32, 33, 
+                34, 35, 36, 37, and 39, subsections (b) through (n), 
+                (r), (s), (u), and (v) of section 8, subsections 
+                (b)(2)(A), (c), (d), and (e) of section 10, and 
+                subsections (c) (other than paragraph (1)), (d), (g), 
+                (i), (j), (l), (o), and (p) of section 18 of the 
+                Federal Deposit Insurance Act.
+                    (B) Any title of the Consumer Credit Protection 
+                Act.
+                    (C) The Depository Institution Management 
+                Interlocks Act.
+                    (D) The Federal Financial Institutions Examination 
+                Council Act of 1978.
+                    (E) The Home Mortgage Disclosure Act of 1975.
+                    (F) The Right to Financial Privacy Act of 1978.
+                    (G) The Alternative Mortgage Transaction Parity Act 
+                of 1982.
+                    (H) The Bank Service Corporation Act.
+                    (I) The Expedited Funds Availability Act.
+                    (J) The Financial Institutions Reform, Recovery, 
+                and Enforcement Act of 1989.
+                    (K) The Community Reinvestment Act of 1977.
+                    (L) The Federal Deposit Insurance Corporation 
+                Improvement Act of 1991.
+                    (M) The Depository Institutions Disaster Relief Act 
+                of 1992.
+    (e) Schools for Examiners.--All functions of the Federal Financial 
+Institutions Examination Council relating to the conduct of schools for 
+examiners and assistant examiners pursuant to section 1006(d) of the 
+Federal Financial Institutions Examination Council Act of 1978 (12 
+U.S.C. 3305(d)) are transferred to the Commission.
+    (f) Effective Date.--Subsections (a) through (e) shall become 
+effective on the designated transfer date.
+    (g) Regulations and Orders.--In addition to any powers transferred 
+to the Commission under subsections (a) through (e), the Commission may 
+prescribe such regulations and issue such orders as the Commission may 
+determine to be appropriate to carry out this Act and the powers and 
+duties of the Commission transferred under subsections (a) through (e).
+
+SEC. 105. CONFORMING AMENDMENT RELATING TO TRANSFERS OF FUNCTIONS.
+
+    Effective on the designated transfer date, section 3(q) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1813(q)) is amended to read as 
+follows:
+    ``(q) Appropriate Federal Banking Agency.--The term `appropriate 
+Federal banking agency' means the Federal Banking Commission.''.
+
+SEC. 106. DESIGNATED TRANSFER DATE.
+
+    (a) In General.--Not later than 60 days after the date of enactment 
+of this Act, the Secretary, in consultation with the Comptroller of the 
+Currency, the Director of the Office of Thrift Supervision, the 
+Chairman of the Board of Governors of the Federal Reserve System, and 
+the Chairperson of the Federal Deposit Insurance Corporation, shall, by 
+order, designate a single calendar date by which to complete the 
+transfer of functions to the Commission under section 104.
+    (b) Amended Designation.--The Secretary may, by order, change the 
+date designated under subsection (a).
+    (c) Permissible Dates.--
+            (1) In general.--Except as provided in paragraph (2), any 
+        date designated under this section shall be not earlier than 
+        120 days nor later than 300 days after the date of enactment of 
+        this Act.
+            (2) Extension of time.--The Secretary may designate a date 
+        that is later than 300 days after the date of enactment of this 
+        Act if the Secretary transmits to the Committee on Banking, 
+        Housing, and Urban Affairs of the Senate and the Committee on 
+        Banking, Finance and Urban Affairs of the House of 
+        Representatives a written certification that orderly 
+        implementation of this Act is not feasible before the last date 
+        designated under this section together with--
+                    (A) an explanation of why orderly implementation of 
+                this Act is not feasible before any other date 
+                designated under this section;
+                    (B) a description of the steps that have been taken 
+                to effect an orderly implementation of this Act--
+                            (i) within the period described in 
+                        paragraph (1); or
+                            (ii) if the Secretary has previously 
+                        designated a date under this paragraph, before 
+                        that date; and
+                    (C) a description of the steps that will be taken 
+                to effect an orderly and timely implementation of this 
+                Act.
+            (3) Extension limitation.--In no case shall any date 
+        designated under this section be later than 450 days after the 
+        date of enactment of this Act.
+
+SEC. 107. TIMING OF INITIAL APPOINTMENTS.
+
+    It is the sense of the Senate that--
+            (1) it is highly desirable that all of the first 
+        commissioners to be appointed by the President under section 
+        102(3) be appointed and qualified not later than 20 days before 
+        the designated transfer date; and
+            (2) accordingly--
+                    (A) the President should transmit those 
+                commissioners' appointments to the Senate not later 
+                than 90 days before the designated transfer date; and
+                    (B) the Committee on Banking, Housing, and Urban 
+                Affairs of the Senate should act on those appointments 
+                not later than 45 days before the designated transfer 
+                date.
+
+SEC. 108. ACCESS BY THE FEDERAL RESERVE BOARD TO THE COMMISSION'S 
+              RECORDS.
+
+    For the purpose of carrying out its functions under the Federal 
+Reserve Act, the Board of Governors of the Federal Reserve System shall 
+have access to--
+            (1) all books, accounts, records, reports, files, 
+        memoranda, papers, things, property belonging to or in use by 
+        the Commission; and
+            (2) all reports of examination;
+that relate to insured depository institutions or other depository 
+institutions (as defined in section 19(b)(1)(A) of the Federal Reserve 
+Act) or companies having control of insured depository institutions or 
+other depository institutions; and together with related work papers 
+and correspondence files, and all without any deletions.
+
+            TITLE II--ABOLITION OF FEDERAL BANKING AGENCIES
+
+SEC. 201. OFFICE OF COMPTROLLER OF THE CURRENCY AND POSITION OF 
+              COMPTROLLER OF THE CURRENCY ABOLISHED.
+
+    (a) In General.--Effective on the designated transfer date, the 
+Office of the Comptroller of the Currency and the position of 
+Comptroller of the Currency are abolished.
+    (b) Technical and Conforming Amendments.--Effective--
+            (1) on the designated transfer date--
+                    (A) chapter 9 of title VII of the Revised Statutes 
+                is amended by striking sections 324, 325, and 326; and
+                    (B) subchapter I of chapter 3 of title 31, United 
+                States Code, is amended by striking section 307; and
+            (2) 90 days after the designated transfer date, section 
+        5314 of title 5, United States Code, is amended by striking 
+        ``Comptroller of the Currency.''.
+
+SEC. 202. OFFICE OF THRIFT SUPERVISION AND POSITION OF DIRECTOR OF THE 
+              OFFICE OF THRIFT SUPERVISION ABOLISHED.
+
+    (a) In General.--Effective on the designated transfer date, the 
+Office of Thrift Supervision and the position of Director of the Office 
+of Thrift Supervision are abolished.
+    (b) Technical and Conforming Amendments.--Effective--
+            (1) on the designated transfer date--
+                    (A) the Home Owners' Loan Act (12 U.S.C. 1461 et 
+                seq.) is amended by striking section 3; and
+                    (B) subchapter I of chapter 3 of title 31, United 
+                States Code, is amended by striking section 309; and
+            (2) 90 days after the designated transfer date, section 
+        5314 of title 5, United States Code is amended by striking 
+        ``Director of the Office of Thrift Supervision.''.
+
+SEC. 203. SAVINGS PROVISIONS.
+
+    (a) Savings Provisions Relating to the Comptroller of the 
+Currency.--
+            (1) Existing rights, duties, and obligations not 
+        affected.--Sections 104(a)(1) and 201 shall not affect the 
+        validity of any right, duty, or obligation of the United 
+        States, the Comptroller of the Currency, the Office of the 
+        Comptroller of the Currency, or any other person, that existed 
+        on the day before the designated transfer date.
+            (2) Continuation of suits.--This Act shall not abate any 
+        proceeding commenced by or against the Comptroller of the 
+        Currency or the Office of the Comptroller of the Currency, 
+        except that the Commission shall be substituted for the 
+        Comptroller or the Office as a party to any such proceeding as 
+        of the designated transfer date.
+    (b) Savings Provisions Relating to the Director of the Office of 
+Thrift Supervision.--
+            (1) Existing rights, duties, and obligations not 
+        affected.--Sections 104(b)(1) and 202 shall not affect the 
+        validity of any right, duty, or obligation of the United 
+        States, the Director of the Office of Thrift Supervision, the 
+        Office of Thrift Supervision, or any other person, that existed 
+        on the day before the designated transfer date.
+            (2) Continuation of suits.--This Act shall not abate any 
+        proceeding commenced by or against the Director of the Office 
+        of Thrift Supervision or the Office of Thrift Supervision, 
+        except that the Commission shall be substituted for the 
+        Director or the Office as a party to any such proceeding as of 
+        the designated transfer date.
+    (c) Savings Provisions Relating to the Board of Governors of the 
+Federal Reserve System.--
+            (1) Existing rights, duties, and obligations not 
+        affected.--Section 104(c)(1) shall not affect the validity of 
+        any right, duty, or obligation of the United States, the Board 
+        of Governors of the Federal Reserve System, or any other person 
+        that--
+                    (A) arises under any provision of law referred to 
+                in section 104(c)(1); and
+                    (B) existed on the day before the date of enactment 
+                of this Act.
+            (2) Continuation of suits.--This Act shall not abate any 
+        proceeding commenced by or against the Board of Governors of 
+        the Federal Reserve System with respect to any function 
+        transferred to the Commission, except that the Commission shall 
+        be substituted for the Board of Governors as a party to any 
+        such proceeding as of the designated transfer date.
+    (d) Savings Provisions Relating to the Federal Deposit Insurance 
+Corporation.--
+            (1) Existing rights, duties, and obligations not 
+        affected.--Section 104(d)(1) shall not affect the validity of 
+        any right, duty, or obligation of the United States, the 
+        Federal Deposit Insurance Corporation, the Board of Directors 
+        of that Corporation, or any other person, that--
+                    (A) arises under any provision of law referred to 
+                in section 104(d)(2); and
+                    (B) existed on the day before the designated 
+                transfer date.
+            (2) Continuation of suits.--This Act shall not abate any 
+        proceeding commenced by or against the Federal Deposit 
+        Insurance Corporation or the Board of Directors of that 
+        Corporation with respect to any function transferred to the 
+        Commission, except that the Commission shall be substituted for 
+        the Corporation or Board of Directors, as the case may be, as a 
+        party to any such proceeding as of the designated transfer 
+        date.
+    (e) Continuation of Orders, Resolutions, Determinations, and 
+Regulations.--All orders, resolutions, determinations, and regulations, 
+which have been issued, made, prescribed, or allowed to become 
+effective by the Comptroller of the Currency, the Director of the 
+Office of Thrift Supervision, the Board of Governors of the Federal 
+Reserve System, or the Federal Deposit Insurance Corporation (including 
+orders, resolutions, determinations, and regulations that relate to the 
+conduct of conservatorships and receiverships), or by a court of 
+competent jurisdiction, in the performance of functions that are 
+transferred by this Act and that are in effect on the designated 
+transfer date, shall continue in effect according to the terms of those 
+orders, resolutions, determinations, and regulations and shall be 
+enforceable by or against the Federal Banking Commission until 
+modified, terminated, set aside, or superseded in accordance with 
+applicable law by the Commission, by any court of competent 
+jurisdiction, or by operation of law.
+
+SEC. 204. REFERENCES IN FEDERAL LAW TO FEDERAL BANKING AGENCIES.
+
+    (a) Comptroller of the Currency and Director of the Office of 
+Thrift Supervision.--Any reference in any Federal law to the 
+Comptroller of the Currency, the Office of the Comptroller of the 
+Currency, the Director of the Office of Thrift Supervision, or the 
+Office of Thrift Supervision shall be deemed to be a reference to the 
+Federal Banking Commission.
+    (b) Board of Governors of the Federal Reserve System.--Any 
+reference in any Federal law to the Board of Governors of the Federal 
+Reserve System in connection with any function of the Board of 
+Governors under any provision of law referred to in section 104(c)(2) 
+shall be deemed to be a reference to the Federal Banking Commission.
+    (c) Federal Deposit Insurance Corporation.--Any reference in any 
+Federal law to the Federal Deposit Insurance Corporation or the Board 
+of Directors of such Corporation in connection with any function of the 
+Corporation or Board of Directors under any provision of law referred 
+to in section 104(d)(2) shall be deemed to be a reference to the 
+Federal Banking Commission.
+
+SEC. 205. DISPOSITION OF AFFAIRS.
+
+    (a) In General.--During the 90-day period beginning on the 
+designated transfer date, the Board of Governors of the Federal Reserve 
+System, the Board of Directors of the Federal Deposit Insurance 
+Corporation, the Comptroller of the Currency, and the Director of the 
+Office of Thrift Supervision--
+            (1) shall, solely for the purpose of winding up the affairs 
+        of their respective agencies related to any functions 
+        transferred to the Commission under this Act--
+                    (A) manage the employees of those agencies and 
+                provide for the payment of the compensation and 
+                benefits of any such employee which accrue before the 
+                designated transfer date; and
+                    (B) manage any property of those agencies until the 
+                property is transferred under section 209; and
+            (2) may take any other action necessary to wind up the 
+        affairs of their respective agencies relating to the 
+        transferred functions.
+    (b) Authority and Status of Executives.--
+            (1) In general.--Notwithstanding the transfers of functions 
+        under this Act, the Board of Governors of the Federal Reserve 
+        System, the Board of Directors of the Federal Deposit Insurance 
+        Corporation, the Comptroller of the Currency, and the Director 
+        of the Office of Thrift Supervision shall, during the 90-day 
+        period beginning on the designated transfer date, have any 
+        authority vested in those persons before that date that is 
+        necessary to carry out the requirements of this Act during that 
+        period.
+            (2) Other provisions.--For purposes of paragraph (1), the 
+        Comptroller of the Currency and the Director of the Office of 
+        Thrift Supervision shall continue--
+                    (A) to be treated as officers of the United States 
+                during the 90-day period referred to in paragraph (1); 
+                and
+                    (B) to be entitled to receive compensation during 
+                that period at the same annual rate of basic pay that 
+                they were receiving before the designated transfer 
+                date.
+
+SEC. 206. STATUS OF EMPLOYEES.
+
+    (a) Status of Employees Before Transfer.--The transfer of functions 
+under this Act and the abolition of the Office of the Comptroller of 
+the Currency and the Office of Thrift Supervision shall not be 
+construed as affecting the status of those agencies' employees as 
+employees of an agency of the United States for purposes of any other 
+provision of law.
+    (b) Continuation of Services.--
+            (1) Use of employees and property.--The Commission may use 
+        the services of employees and other personnel and the property 
+        of the Office of the Comptroller of the Currency, the Office of 
+        Thrift Supervision, the Board of Governors of the Federal 
+        Reserve System, and the Federal Deposit Insurance Corporation, 
+        on a reimbursable basis, to perform functions that have been 
+        transferred from those agencies for such time as is reasonable 
+        to facilitate the orderly transfer of functions under this Act.
+            (2) Agency services.--Any agency, department, or other 
+        instrumentality of the United States, and any successor to any 
+        such agency, department, or instrumentality, that was providing 
+        supporting services to the Office of the Comptroller of the 
+        Currency, the Office of Thrift Supervision, the Board of 
+        Governors of the Federal Reserve System, or the Federal Deposit 
+        Insurance Corporation, before the designated transfer date 
+        shall, in connection with those transfers to the Commission--
+                    (A) continue to provide those services, on a 
+                reimbursable basis, until the transfer of those 
+                functions is complete; and
+                    (B) consult with any such agency to coordinate and 
+                facilitate a prompt and orderly transition.
+    (c) Transfer of Employees.--Employees of the Office of the 
+Comptroller of the Currency and the Office of Thrift Supervision, and 
+employees of the Board of Governors of the Federal Reserve System, and 
+the Federal Deposit Insurance Corporation engaged in performing 
+functions transferred to the Commission on the designated transfer 
+date, shall be transferred to the Commission.
+    (d) Rights of Employees.--Employees transferred under subsection 
+(c) shall have the following rights:
+            (1) Transfer.--Each employee shall be transferred to the 
+        Commission for employment not later than 90 days after the 
+        designated transfer date, and the transfer shall be deemed a 
+        transfer of function for the purpose of section 3503 of title 
+        5, United States Code.
+            (2) Equal position.--Each transferred employee shall be 
+        guaranteed a position with not less than the same status, 
+        tenure, and pay as that held December 31, 1992.
+            (3) 1-year preservation of permanent positions.--No 
+        employee holding a permanent position shall be involuntarily 
+        separated or reduced in grade or compensation for 1 year after 
+        the date of transfer, except for cause.
+            (4) Special appointment authority.--In the case of 
+        employees occupying positions in the excepted service or the 
+        Senior Executive Service, any appointment authority established 
+        pursuant to law or regulations of the Office of Personnel 
+        Management for filling such positions shall be transferred.
+            (5) Work force reorganization.--If the Commission 
+        determines, after the end of the 1-year period beginning on the 
+        designated transfer date, that a reorganization of the combined 
+        work force is required, that reorganization shall be deemed a 
+        ``major reorganization'' for purposes of affording affected 
+        employees retirement under section 8336(d)(2) or 8414(b)(1)(B) 
+        of title 5, United States Code.
+            (6) Employee benefit programs.--Any employee transferred to 
+        the Commission may retain for 1 year after the date the 
+        transfer occurs membership in any employee benefit program of 
+        the transferring agency, including insurance, to which the 
+        employee belongs on the designated transfer date if--
+                    (A) the employee does not elect to give up the 
+                benefit or membership in the program; and
+                    (B) the benefit or program is continued by the 
+                Commission.
+        The Commission shall pay the difference in the costs between 
+        the benefits which would have been provided by the agency or 
+        entity and those provided by this section. If any employee 
+        elects to give up membership in a health insurance program or 
+        the Commission does not continue the health insurance program, 
+        the employee shall be permitted to select an alternate Federal 
+        health insurance program not later than 30 days after the 
+        election or notice, without regard to any regularly scheduled 
+        open season.
+            (7) Senior executive service employees.--A transferring 
+        employee in the Senior Executive Service shall be placed in a 
+        comparable position at the agency or entity to which the 
+        employee is transferred.
+            (8) Notice of position assignments.--Transferring employees 
+        shall receive notice of their position assignments not later 
+        than 120 days after the effective date of their transfer.
+
+SEC. 207. TRANSFER OF PROPERTY.
+
+    (a) In General.--Not later than the end of the 90-day period 
+beginning on the designated transfer date--
+            (1) the property of the Office of the Comptroller of the 
+        Currency and the Office of Thrift Supervision shall be 
+        transferred to the Commission; and
+            (2) any property of the Board of Governors of the Federal 
+        Reserve System and the Federal Deposit Insurance Corporation 
+        used in performing functions of those agencies transferred to 
+        the Commission under this Act shall be transferred to the 
+        Commission.
+    (b) Preservation of Property.--Property transferred under this 
+section shall not be altered, destroyed, or deleted before transfer 
+under this section.
+    (c) Property Defined.--For purposes of this section, the term 
+``property'' includes all real property, books, accounts, records, 
+reports, files, memoranda, paper, reports of examination, work papers 
+and correspondence related to such reports, and any other information 
+or materials of the agencies specified in subsection (a) on the 
+designated transfer date.
+    (d) Administrative Provision.--For purposes of this section, the 
+Board of Governors of the Federal Reserve System and the Board of 
+Directors of the Federal Deposit Insurance Corporation shall determine 
+what property is used in performing functions to be transferred under 
+this Act.
+
+SEC. 208. CONFORMING CHANGES IN FEDERAL DEPOSIT INSURANCE CORPORATION 
+              BOARD OF DIRECTORS.
+
+    (a) In General.--Subparagraphs (A) and (B) of section 2(a)(1) of 
+the Federal Deposit Insurance Act (12 U.S.C. 1812(a)(1)) are amended to 
+read as follows:
+            ``(A) 1 of whom is the Secretary of the Treasury (or the 
+        Secretary's designee);
+            ``(B) 1 of whom is the Chairperson of the Federal Banking 
+        Commission; and''.
+    (b) Vacancy.--Section 2(d)(2) of the Federal Deposit Insurance Act 
+(12 U.S.C. 1812(d)(2)) is amended to read as follows:
+            ``(2) Acting official may serve.--
+                    ``(A) Secretary of the treasury.--In the event of a 
+                vacancy in the position of the Secretary of the 
+                Treasury or during the absence or disability of the 
+                Secretary of the Treasury, the acting Secretary or the 
+                acting Secretary's designee shall serve as a member of 
+                the Board of Directors.
+                    ``(B) Chairperson of the federal banking 
+                commission.--In the event of a vacancy in the position 
+                of Chairperson of the Federal Banking Commission or 
+                during the absence or disability of the Chairperson, 
+                the acting Chairperson shall serve as a member of the 
+                Board of Directors.''.
+
+SEC. 209. COMPTROLLER'S CURRENCY-RELATED FUNCTIONS REPEALED.
+
+    (a) Obsolete Currency Provisions Repealed.--
+            (1) Repeal of revised statutes provisions.--The following 
+        sections of the Revised Statutes are repealed:
+                    (A) Section 5203 (12 U.S.C. 87).
+                    (B) Section 5206 (12 U.S.C. 88).
+                    (C) Section 5196 (12 U.S.C. 89).
+                    (D) Section 5158 (12 U.S.C. 102).
+                    (E) Section 5159 (12 U.S.C. 101a).
+                    (F) Section 5172 (12 U.S.C. 104).
+                    (G) Section 5173 (12 U.S.C. 107).
+                    (H) Section 5174 (12 U.S.C. 108).
+                    (I) Section 5182 (12 U.S.C. 109).
+                    (J) Section 5183 (12 U.S.C. 110).
+                    (K) Section 5195 (12 U.S.C. 123).
+                    (L) Section 5184 (12 U.S.C. 124).
+                    (M) Section 5226 (12 U.S.C. 131).
+                    (N) Section 5227 (12 U.S.C. 132).
+                    (O) Section 5228 (12 U.S.C. 133).
+                    (P) Section 5229 (12 U.S.C. 134).
+                    (Q) Section 5230 (12 U.S.C. 137).
+                    (R) Section 5231 (12 U.S.C. 138).
+                    (S) Section 5232 (12 U.S.C. 135).
+                    (T) Section 5233 (12 U.S.C. 136).
+                    (U) Section 5185 (12 U.S.C. 151).
+                    (V) Section 5186 (12 U.S.C. 152).
+                    (W) Section 5160 (12 U.S.C. 168).
+                    (X) Section 5161 (12 U.S.C. 169).
+                    (Y) Section 5162 (12 U.S.C. 170).
+                    (Z) Section 5163 (12 U.S.C. 171).
+                    (AA) Section 5164 (12 U.S.C. 172).
+                    (BB) Section 5165 (12 U.S.C. 173).
+                    (CC) Section 5166 (12 U.S.C. 174).
+                    (DD) Section 5167 (12 U.S.C. 175).
+                    (EE) Section 5222 (12 U.S.C. 183).
+                    (FF) Section 5223 (12 U.S.C. 184).
+                    (GG) Section 5224 (12 U.S.C. 185).
+                    (HH) Section 5225 (12 U.S.C. 186).
+                    (II) Section 5237 (12 U.S.C. 195).
+            (2) Currency provisions in other statutes repealed.--The 
+        following provisions of law are repealed:
+                    (A) Section 12 of the Act entitled ``An Act to 
+                define and fix the standard of value, to maintain the 
+                parity of all forms of money issued or coined by the 
+                United States, to refund the public debt, and for other 
+                purposes.'' and approved March 14, 1900 (12 U.S.C. 
+                101).
+                    (B) Section 3 of the Act entitled ``An Act to amend 
+                the laws relating to the denominations, and notes by 
+                national banks and to permit the issuance of notes of 
+                small denominations, and for other purposes.'' and 
+                approved October 5, 1917 (12 U.S.C. 103).
+                    (C) The following sections of the Act entitled ``An 
+                Act fixing the amount of United States notes, providing 
+                for a redistribution of the national-bank currency, and 
+                for other purposes.'' and approved June 20, 1874:
+                            (i) Section 5 (12 U.S.C. 105).
+                            (ii) Section 3 (12 U.S.C. 121).
+                            (iii) Section 8 (12 U.S.C. 126).
+                            (iv) Section 4 (12 U.S.C. 176).
+                    (D) The following sections of the Act entitled ``An 
+                Act to enable national-banking associations to extend 
+                their corporate existence, and for other purposes.'' 
+                and approved July 12, 1882:
+                            (i) Section 8 (12 U.S.C. 177).
+                            (ii) Section 9 (12 U.S.C. 178).
+            (3) Other statutes repealed.--
+                    (A) The Act entitled ``An Act to amend the National 
+                Bank Act in providing for redemption of national bank 
+                notes stolen from or lost by banks of issue.'' and 
+                approved July 28, 1892 (12 U.S.C. 125) is repealed.
+                    (B) The Act entitled ``An Act authorizing the 
+                conversion of national gold banks.'' and approved 
+                February 14, 1880 (12 U.S.C. 153) is repealed.
+    (b) Federal Reserve Act and Other Laws Amended.--
+            (1) Federal reserve act.--
+                    (A) The 1st sentence of the 8th undesignated 
+                paragraph of section 16 of the Federal Reserve Act (12 
+                U.S.C. 418) is amended by striking ``the Comptroller of 
+                the Currency shall, under the direction of the 
+                Secretary of the Treasury,'' and inserting ``the 
+                Secretary of the Treasury shall''.
+                    (B) The 9th undesignated paragraph of section 16 of 
+                the Federal Reserve Act (12 U.S.C. 419) is amended to 
+                read as follows: ``When such notes have been prepared, 
+                the notes shall be delivered to the Board of Governors 
+                of the Federal Reserve System subject to the order of 
+                the Secretary of the Treasury for the delivery of such 
+                notes in accordance with this Act.''.
+                    (C) The 10th undesignated paragraph of section 16 
+                of the Federal Reserve Act (12 U.S.C. 420) is amended--
+                            (i) by striking ``Comptroller of the 
+                        Currency'' and inserting ``Secretary of the 
+                        Treasury''; and
+                            (ii) by striking ``Federal Reserve Board'' 
+                        and inserting ``Board of Governors of the 
+                        Federal Reserve System''.
+                    (D) The 11th undesignated paragraph of section 16 
+                of the Federal Reserve Act (12 U.S.C. 421) is amended 
+                to read as follows: ``The Secretary of the Treasury may 
+                examine the plates, dies, bed pieces, and other 
+                material used in the printing of Federal Reserve notes 
+                and may issue regulations relating to such 
+                examinations.''.
+            (2) Other laws.--
+                    (A) The Act entitled ``An Act to provide for the 
+                redemption of national-bank notes, Federal Reserve 
+                notes, and Federal Reserve notes which cannot be 
+                identified as to the bank of issue.'' and approved June 
+                13, 1933, is amended--
+                            (i) in the 1st section (12 U.S.C. 121a)--
+                                    (I) by striking ``whenever any 
+                                national-bank notes, Federal Reserve 
+                                bank notes,'' and inserting ``whenever 
+                                any Federal Reserve bank notes''; and
+                                    (II) by striking ``, and the notes, 
+                                other than Federal Reserve notes, so 
+                                redeemed shall be forwarded to the 
+                                Comptroller of the Currency for 
+                                cancellation and destruction''; and
+                            (ii) in the 2d section (12 U.S.C. 122a)--
+                                    (I) by striking ``National-bank 
+                                notes and''; and
+                                    (II) by striking ``national-bank 
+                                notes and''.
+                    (B) The 1st section of the Act entitled ``An Act 
+                making appropriations for sundry civil expenses of the 
+                Government for the fiscal year ending June thirtieth, 
+                eighteen hundred and seventy-six, and for other 
+                purposes.'' and approved March 3, 1875 (12 U.S.C. 106), 
+                is amended in the first paragraph that appears under 
+                the heading ``National currency.'' by striking 
+                ``Secretary of the Treasury: Provided, That'' and all 
+                that follows through the period and inserting 
+                ``Secretary of the Treasury.''.
+                    (C) The Act entitled ``An Act to simplify the 
+                accounts of the Treasurer of the United States, and for 
+                other purposes.'' and approved October 10, 1940 (12 
+                U.S.C. 177a) is amended by striking all after the 
+                enacting clause and inserting the following: ``The cost 
+                of transporting and redeeming outstanding national bank 
+                notes and Federal Reserve bank notes as may be 
+                presented to the Treasurer of the United States for 
+                redemption shall be paid from the regular annual 
+                appropriation for the Department of the Treasury.''.
+                    (D) Section 5234 of the Revised Statutes (12 U.S.C. 
+                192) is amended by striking ``has refused to pay its 
+                circulating notes as therein mentioned, and''.
+                    (E) Section 5236 of the Revised Statutes (12 U.S.C. 
+                194) is amended by striking ``, after full provision 
+                has been first made for refunding to the United States 
+                any deficiency in redeeming the notes of such 
+                association,''.
+                    (F) Section 5238 of the Revised Statutes (12 U.S.C. 
+                196) is amended by striking the first sentence.
+                    (G) Section 5119(b)(2) of title 31, United States 
+                Code, is amended by adding at the end the following: 
+                ``The Secretary shall not be required to reissue United 
+                States currency notes upon redemption.''.
+
+SEC. 210. FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL ABOLISHED.
+
+    (a) In General.--The Federal Financial Institutions Examination 
+Council is abolished.
+    (b) Conforming Amendments.--
+            (1) In general.--The Federal Financial Institutions 
+        Examination Council Act of 1978 is amended by striking sections 
+        1002, 1004, 1005, 1007, 1008, 1009, and 1009A.
+            (2) Training.--Section 1006 of the Federal Financial 
+        Institutions Examination Council Act of 1978 (12 U.S.C. 3305) 
+        is amended by striking subsections (a), (b), (c), (e), and (f).
+            (3) Definition.--Section 1003 of the Federal Financial 
+        Institutions Examination Council Act of 1978 (12 U.S.C. 3302) 
+        is amended--
+                    (A) by inserting ``and'' at the end of paragraph 
+                (1);
+                    (B) by striking paragraph (2); and
+                    (C) by redesignating paragraph (3) as paragraph 
+                (2).
+    (c) Redesignation of Appraisal Subcommittee.--
+            (1) In general.--The Appraisal Subcommittee established by 
+        section 1011 of the Federal Financial Institutions Examination 
+        Council Act of 1978 (12 U.S.C. 3310) shall be redesignated the 
+        ``Appraisal Committee''.
+            (2) Amendment to section 1011.--The first sentence of 
+        section 1011 of the Federal Financial Institutions Examination 
+        Council Act of 1978 (12 U.S.C. 3310) is amended to read as 
+        follows: ``There shall be a committee to be known as the 
+        `Appraisal Committee', which shall consist of the designees of 
+        the Chairperson of the Federal Banking Commission, the 
+        Chairperson of the Federal Deposit Insurance Corporation, and 
+        the Chairman of the National Credit Union Administration 
+        Board.''.
+            (3) Amendment to section heading.--The heading of section 
+        1011 of the Federal Financial Institutions Examination Council 
+        Act of 1978 is amended to read as follows:
+
+``SEC. 1011. ESTABLISHMENT OF APPRAISAL COMMITTEE.''.
+
+    (d) References in Other Law.--Any reference in any Federal law to 
+the Federal Financial Institutions Examination Council shall be deemed 
+to be a reference to the Commission.
+    (e) Effective Date.--This section and the amendments made by this 
+section shall take effect on the designated transfer date.
+
+                                 <all>
+
+S 1633 IS----2
+S 1633 IS----3
+S 1633 IS----4
+

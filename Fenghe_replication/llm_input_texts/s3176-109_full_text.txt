@@ -1,0 +1,490 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3176 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                S. 3176
+
+To protect the privacy of veterans and spouses of veterans affected by 
+  the security breach at the Department of Veterans Affairs on May 3, 
+                     2006, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 25, 2006
+
+Mr. Reid (for Mr. Rockefeller) introduced the following bill; which was 
+read twice and referred to the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To protect the privacy of veterans and spouses of veterans affected by 
+  the security breach at the Department of Veterans Affairs on May 3, 
+                     2006, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Veterans Privacy Protection Act of 
+2006''.
+
+SEC. 2. FEDERAL TRADE COMMISSION PROGRAM FOR VETERANS AN SPOUSES OF 
+              VETERANS AT RISK OF IDENTITY THEFT.
+
+    (a) Program Required.--The Federal Trade Commission shall, in 
+consultation with the Secretary of Veterans Affairs, develop and 
+implement a program to provide financial counseling and support to any 
+veteran or spouse described in subsection (e).
+    (b) Access.--The program required by subsection (a) shall be 
+accessible through a toll-free telephone number (commonly referred to 
+as an ``800 number'') established and operated by the Federal Trade 
+Commission for purposes of the program.
+    (c) Elements.--Under the program required by subsection (a), the 
+Federal Trade Commission shall--
+            (1) provide to veterans and spouses described in subsection 
+        (e) such financial and other counseling as the Commission 
+        considers appropriate relating to identity theft and the theft 
+        of data as described in that subsection; and
+            (2) upon request of any veteran or spouse described in 
+        subsection (e), assist such veteran or spouse in securing the 
+        placement of an extended fraud alert or credit security freeze 
+        under sections 605A(b)(3) and 605C of the Fair Credit Reporting 
+        Act, as added by this Act, respectively.
+    (d) Veterans Not Subject to Identity Theft.--
+            (1) Notice to ftc of identification of veterans not subject 
+        to identity theft.--Upon conclusively identifying any veteran 
+        otherwise described in subsection (e) as not being at risk of 
+        identity theft as described in that subsection, the Secretary 
+        shall immediately notify the Federal Trade Commission of such 
+        identification.
+            (2) Notice to veterans.--The program required by subsection 
+        (a) shall include mechanisms to ensure that any veteran who 
+        seeks counseling and support under the program after receipt by 
+        the Commission of notice under paragraph (1) covering such 
+        veteran is informed that such veteran is no longer subject to 
+        identity theft as described in subsection (e).
+    (e) Applicability.--This section shall apply with respect to--
+            (1) any veteran, as defined in section 101 of title 38, 
+        United States Code, who may be a victim of identity theft as a 
+        result of the security breach at the Department of Veterans 
+        Affairs on May 3, 2006; and
+            (2) any spouse (or former spouse) of such veteran who the 
+        Secretary of Veterans Affairs has conclusively identified as 
+        being at risk of identity theft as a result of that security 
+        breach.
+
+SEC. 3. EXTENDED CONSUMER CREDIT FRAUD ALERTS AND SECURITY FREEZES FOR 
+              VETERANS AND SPOUSES OF VETERANS AFFECTED BY SECURITY 
+              BREACH.
+
+    (a) Automatic Fraud Alerts.--Section 605A(b) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681c-1(b)) is amended by adding at the end 
+the following:
+            ``(3) Automatic extended fraud alerts for certain 
+        veterans.--
+                    ``(A) In general.--Upon the direct request of a 
+                veteran or spouse described in subparagraph (D), each 
+                consumer reporting agency described in section 
+                603(p)(1) that maintains a file on the veteran shall 
+                take the actions specified in subparagraphs (A) through 
+                (C) of paragraph (1) with respect to the veteran or 
+                spouse.
+                    ``(B) Automatic alerts.--Notwithstanding the 
+                requirements of paragraph (1), a veteran or spouse 
+                described in subparagraph (D) is not required to submit 
+                any identity theft report, proof of identity, or other 
+                documentation with respect to an extended fraud alert 
+                required by subparagraph (A).
+                    ``(C) Veterans not subject to identity theft.--Upon 
+                conclusively identifying any veteran as not being at 
+                risk of identity theft as a result of the security 
+                breach described in subparagraph (A)--
+                            ``(i) the Secretary of Veterans Affairs 
+                        shall immediately notify each consumer 
+                        reporting agency and the veteran involved that 
+                        such veteran is no longer subject to identity 
+                        theft as a result of the security breach 
+                        described in subparagraph (A); and
+                            ``(ii) the requirements of subparagraph (A) 
+                        shall no longer apply with respect to any such 
+                        veteran as of the date of such notification.
+                    ``(D) Applicability.--This paragraph shall apply 
+                to--
+                            ``(i) each veteran, as defined in section 
+                        101 of title 38, United States Code, who may be 
+                        a victim of identity theft as a result of the 
+                        security breach at the Department of Veterans 
+                        Affairs on May 3, 2006; and
+                            ``(ii) each spouse (or former spouse) of 
+                        such veteran who the Secretary of Veterans 
+                        Affairs has conclusively identified as being at 
+                        risk of identity theft as a result of that 
+                        security breach.''.
+    (b) Security Freezes for Veterans.--The Fair Credit Reporting Act 
+(15 U.S.C. 1681 et seq.) is amended by inserting after section 605B the 
+following:
+
+``SEC. 605C. SECURITY FREEZES FOR CERTAIN VETERANS.
+
+    ``(a) Applicability.--This section shall apply with respect to--
+            ``(1) any veteran, as defined in section 101 of title 38, 
+        United States Code, who may be a victim of identity theft as a 
+        result of the security breach at the Department of Veterans 
+        Affairs on May 3, 2006; and
+            ``(2) any spouse (or former spouse) of such veteran who the 
+        Secretary of Veterans Affairs has conclusively identified as 
+        being at risk of identity theft as a result of that security 
+        breach.
+    ``(b) Security Freezes.--
+            ``(1) Emplacement.--A veteran or spouse described in 
+        subsection (a) may include a security freeze in the file of 
+        that veteran or spouse maintained by a consumer reporting 
+        agency described in section 603(p)(1), by making a request to 
+        the consumer reporting agency in writing, by telephone, or 
+        through a secure electronic connection made available by the 
+        consumer reporting agency.
+            ``(2) Consumer disclosure.--If a veteran or spouse 
+        described in subsection (a) requests a security freeze under 
+        this section, the consumer reporting agency shall disclose to 
+        that person the process of placing and removing the security 
+        freeze and explain to that veteran or spouse the potential 
+        consequences of the security freeze. A consumer reporting 
+        agency may not imply or inform a veteran or spouse that the 
+        placement or presence of a security freeze on the file of that 
+        veteran or spouse may negatively affect their credit score.
+    ``(c) Effect of Security Freeze.--
+            ``(1) Release of information blocked.--If a security freeze 
+        is in place in the file of a veteran or spouse described in 
+        subsection (a), a consumer reporting agency may not release 
+        information from the file of that veteran or spouse for 
+        consumer credit purposes to a third party without prior express 
+        written authorization from that veteran or spouse.
+            ``(2) Information provided to third parties.--Paragraph (2) 
+        does not prevent a consumer reporting agency from advising a 
+        third party that a security freeze is in effect with respect to 
+        the file of a veteran or spouse described in subsection (a). If 
+        a third party, in connection with an application for credit, 
+        requests access to a consumer file on which a security freeze 
+        is in place under this section, the third party may treat the 
+        application as incomplete.
+            ``(3) Credit score not affected.--The placement of a 
+        security freeze under this section may not be taken into 
+        account for any purpose in determining the credit score of the 
+        veteran or spouse to whom the security freeze relates.
+    ``(d) Removal; Temporary Suspension.--
+            ``(1) In general.--Except as provided in paragraph (4), a 
+        security freeze under this section shall remain in place until 
+        the veteran or spouse to whom it relates requests that the 
+        security freeze be removed. A veteran or spouse may remove a 
+        security freeze on his or her credit report by making a request 
+        to the consumer reporting agency in writing, by telephone, or 
+        through a secure electronic connection made available by the 
+        consumer reporting agency.
+            ``(2) Conditions.--A consumer reporting agency may remove a 
+        security freeze placed in the file of a veteran or spouse under 
+        this section only--
+                    ``(A) upon request of that veteran or spouse, 
+                pursuant to paragraph (1); or
+                    ``(B) if the agency determines that the file of 
+                that veteran or spouse was frozen due to a material 
+                misrepresentation of fact by that veteran or spouse.
+            ``(3) Notification to consumer.--If a consumer reporting 
+        agency intends to remove a security freeze pursuant to 
+        paragraph (2)(B), the consumer reporting agency shall notify 
+        the veteran or spouse to whom the security freeze relates in 
+        writing prior to removing the freeze.
+            ``(4) Temporary suspension.--A veteran or spouse described 
+        in subsection (a) may have a security freeze under this section 
+        temporarily suspended by making a request to the consumer 
+        reporting agency in writing or by telephone and specifying 
+        beginning and ending dates for the period during which the 
+        security freeze is not to apply.
+    ``(e) Response Times; Notification of Other Entities.--
+            ``(1) In general.--A consumer reporting agency shall--
+                    ``(A) place a security freeze in the file of a 
+                veteran or spouse under subsection (b) not later than 5 
+                business days after receiving a request from the 
+                veteran or spouse under subsection (b)(1); and
+                    ``(B) remove or temporarily suspend a security 
+                freeze not later than 3 business days after receiving a 
+                request for removal or temporary suspension from the 
+                veteran or spouse under subsection (d).
+            ``(2) Notification of other agencies.--A consumer reporting 
+        agency shall notify all other consumer reporting agencies 
+        described in section 603(p)(1) of a request under this section 
+        not later than 3 days after placing, removing, or temporarily 
+        suspending a security freeze in the file of the veteran or 
+        spouse under subsection (b), (d)(2)(A), or (d)(4).
+            ``(3) Implementation by other agencies.--A consumer 
+        reporting agency that is notified of a request under paragraph 
+        (2) to place, remove, or temporarily suspend a security freeze 
+        in the file of a veteran or spouse shall--
+                    ``(A) request proper identification from the 
+                veteran or spouse, in accordance with subsection (g), 
+                not later than 3 business days after receiving the 
+                notification; and
+                    ``(B) place, remove, or temporarily suspend the 
+                security freeze on that credit report not later than 3 
+                business days after receiving proper identification.
+    ``(f) Confirmation.--Except as provided in subsection (c)(3), 
+whenever a consumer reporting agency places, removes, or temporarily 
+suspends a security freeze at the request of a veteran or spouse under 
+subsection (b) or (d), respectively, it shall send a written 
+confirmation thereof to the veteran or spouse not later than 10 
+business days after placing, removing, or temporarily suspending the 
+security freeze. This subsection does not apply to the placement, 
+removal, or temporary suspension of a security freeze by a consumer 
+reporting agency because of a notification received under subsection 
+(e)(2).
+    ``(g) ID Required.--A consumer reporting agency may not place, 
+remove, or temporarily suspend a security freeze in the file of a 
+veteran or spouse described in subsection (a) at the request of the 
+veteran or spouse, unless the veteran or spouse provides proper 
+identification (within the meaning of section 610(a)(1)) and the 
+regulations thereunder.
+    ``(h) Exceptions.--This section does not apply to the use of the 
+file of a veteran or spouse described in subsection (a) maintained by a 
+consumer reporting agency by any of the following:
+            ``(1) A person or entity, or a subsidiary, affiliate, or 
+        agent of that person or entity, or an assignee of a financial 
+        obligation owing by the veteran or spouse to that person or 
+        entity, or a prospective assignee of a financial obligation 
+        owing by the veteran or spouse to that person or entity in 
+        conjunction with the proposed purchase of the financial 
+        obligation, with which the veteran or spouse has or had prior 
+        to assignment an account or contract, including a demand 
+        deposit account, or to whom the veteran or spouse issued a 
+        negotiable instrument, for the purposes of reviewing the 
+        account or collecting the financial obligation owing for the 
+        account, contract, or negotiable instrument.
+            ``(2) Any Federal, State, or local agency, law enforcement 
+        agency, trial court, or private collection agency acting 
+        pursuant to a court order, warrant, subpoena, or other 
+        compulsory process.
+            ``(3) A child support agency or its agents or assigns 
+        acting pursuant to subtitle D of title IV of the Social 
+        Security Act (42 U.S.C. et seq.) or similar State law.
+            ``(4) The Department of Health and Human Services, a 
+        similar State agency, or the agents or assigns of the Federal 
+        or State agency acting to investigate medicare or medicaid 
+        fraud.
+            ``(5) The Internal Revenue Service or a State or municipal 
+        taxing authority, or a State department of motor vehicles, or 
+        any of the agents or assigns of these Federal, State, or 
+        municipal agencies acting to investigate or collect delinquent 
+        taxes or unpaid court orders or to fulfill any of their other 
+        statutory responsibilities.
+            ``(6) The use of consumer credit information for the 
+        purposes of prescreening, as provided for under this title.
+            ``(7) Any person or entity administering a credit file 
+        monitoring subscription to which the veteran or spouse has 
+        subscribed.
+            ``(8) Any person or entity for the purpose of providing a 
+        veteran or spouse with a copy of his or her credit report or 
+        credit score upon request of the veteran or spouse.
+    ``(i) Fees.--
+            ``(1) In general.--Except as provided in paragraph (2), a 
+        consumer reporting agency may charge a reasonable fee, for 
+        placing, removing, or temporarily suspending a security freeze 
+        in the file of the veteran or spouse described in subsection 
+        (a), which cost shall be submitted to and paid by the 
+        Department of Veterans Affairs, pursuant to procedures 
+        established by the Secretary of Veterans Affairs.
+            ``(2) ID theft victims.--A consumer reporting agency may 
+        not charge a fee for placing, removing, or temporarily 
+        suspending a security freeze in the file of a veteran or spouse 
+        described in subsection (a), if--
+                    ``(A) the veteran or spouse is a victim of identity 
+                theft;
+                    ``(B) the veteran or spouse requests the security 
+                freeze in writing;
+                    ``(C) the veteran or spouse has filed a police 
+                report with respect to the theft, or an identity theft 
+                report (as defined in section 603(q)(4), within 90 days 
+                after the date on which the theft occurred or was 
+                discovered by the veteran or spouse; and
+                    ``(D) the veteran or spouse provides a copy of the 
+                report to the reporting agency.
+    ``(j) Limitation on Information Changes in Frozen Reports.--
+            ``(1) In general.--If a security freeze is in place in the 
+        file of a veteran or spouse described in subsection (a), the 
+        consumer reporting agency may not change any of the following 
+        official information in that file without sending a written 
+        confirmation of the change to the veteran or spouse within 30 
+        days after the date on which the change is made:
+                    ``(A) Name.
+                    ``(B) Date of birth.
+                    ``(C) Social Security number.
+                    ``(D) Address.
+            ``(2) Confirmation.--Paragraph (1) does not require written 
+        confirmation for technical modifications of the official 
+        information of a veteran or spouse, including name and street 
+        abbreviations, complete spellings, or transposition of numbers 
+        or letters. In the case of an address change, the written 
+        confirmation shall be sent to both the new address and to the 
+        former address of the veteran or spouse.
+    ``(k) Certain Entity Exemptions.--
+            ``(1) Aggregators and other agencies.--The provisions of 
+        this section do not apply to a consumer reporting agency that 
+        acts only as a reseller of credit information by assembling and 
+        merging information contained in the data base of another 
+        consumer reporting agency or multiple consumer reporting 
+        agencies, and does not maintain a permanent data base of credit 
+        information from which new consumer credit reports are 
+        produced.
+            ``(2) Other exempted entities.--The following entities are 
+        not required to place a security freeze in the file of a 
+        veteran or spouse described in subsection (a) in accordance 
+        with this section:
+                    ``(A) A check services or fraud prevention services 
+                company, which issues reports on incidents of fraud or 
+                authorizations for the purpose of approving or 
+                processing negotiable instruments, electronic fund 
+                transfers, or similar methods of payments.
+                    ``(B) A deposit account information service 
+                company, which issues reports regarding account 
+                closures due to fraud, substantial overdrafts, ATM 
+                abuse, or similar negative information regarding such 
+                veteran or spouse, to inquiring banks or other 
+                financial institutions for use only in reviewing the 
+                request of such veteran or spouse for a deposit account 
+                at the inquiring bank or financial institution.''.
+    (c) Fees.--Any fee associated with an extended fraud alert or 
+security freeze required by the amendments made by this section that 
+would otherwise be required to be paid by the consumer shall be paid by 
+the Department of Veterans Affairs.
+
+SEC. 4. PENALTIES FOR IDENTITY THEFT OF VETERANS.
+
+    Section 1028 of title 18, United States Code, is amended--
+            (1) in subsection (b), by striking ``The punishment for'' 
+        and inserting the following ``Except as provided in subsection 
+        (j), the punishment for''; and
+            (2) by adding at the end the following:
+    ``(j) Identity Theft of Veterans.--
+            ``(1) In general.--In determining the punishment applicable 
+        under subsection (b), if the offense is an offense described in 
+        paragraph (2), the fine and term of imprisonment otherwise 
+        applicable under subsection (b) shall be doubled.
+            ``(2) Type of offense.--An offense described in this 
+        paragraph is an offense under subsection (a) that--
+                    ``(A) involves any document or other information--
+                            ``(i) relating to a veteran (as defined in 
+                        section 101 of title 38) or a spouse of a 
+                        veteran; and
+                            ``(ii) obtained as a direct or indirect 
+                        result of the security breach at the Department 
+                        of Veterans Affairs on May 3, 2006; and
+                    ``(B) was committed after the date of enactment of 
+                this subsection.''.
+
+SEC. 5. FUNDING.
+
+    (a) Reimbursement.--The Secretary of Veterans Affairs shall 
+reimburse the Federal Trade Commission for any costs incurred by the 
+Commission in carrying out this Act and the amendments made by this 
+Act.
+    (b) Availability of Funds.--Amounts appropriated to the Secretary 
+and available for obligation may be utilized for purposes of 
+reimbursement of the Federal Trade Commission under subsection (a).
+
+SEC. 6. COMPTROLLER GENERAL STUDIES ON DATA PROTECTION AND OTHER 
+              MATTERS.
+
+    (a) Study on Data Protection by Department of Veterans Affairs.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a study of the data protection procedures 
+        of the Department of Veterans Affairs.
+            (2) Elements.--The study required by paragraph (1) shall 
+        include the following:
+                    (A) A review and assessment of the data protection 
+                procedures of the Department of Veterans Affairs in 
+                effect before May 3, 2006.
+                    (B) A review and assessment of any modifications of 
+                the data protection procedures of the Department of 
+                Veterans Affairs adopted as a result of the loss of 
+                data resulting from the security breach at the 
+                Department on May 3, 2006.
+    (b) Study on Security Breach Investigation by Department of 
+Veterans Affairs.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a review and assessment of the 
+        investigation carried out by the Department of Veterans Affairs 
+        with respect to the security breach at the Department on May 3, 
+        2006.
+            (2) Cooperation.--The Secretary of Veterans Affairs shall 
+        ensure that the personnel of the Department of Veterans Affairs 
+        cooperate fully with the Comptroller General in the conduct of 
+        the review and assessment required by paragraph (1).
+    (c) Study on FTC Program for Veterans and Spouses at Risk of 
+Identity Theft.--The Comptroller General of the United States shall 
+conduct a study of the program of the Federal Trade Commission for 
+veterans and spouses of veterans at risk of identity theft required by 
+section 2. The study shall include an assessment of the effectiveness 
+of the program in meeting the financial counseling and similar needs of 
+individuals seeking counseling and support through the program.
+    (d) Study on Compliance of Federal Agencies With Requirements on 
+Personal Data.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a study of the compliance of the 
+        departments and agencies of the Federal Government with 
+        applicable requirements relating to the preservation of the 
+        confidentiality of personal data.
+            (2) Elements.--The study required by paragraph (1) shall 
+        include the following:
+                    (A) A review and assessment of the current 
+                procedures and practices of the departments and 
+                agencies of the Federal Government regarding the 
+                preservation of the confidentiality of personal data.
+                    (B) A comparative analysis of the procedures 
+                practices referred to in subparagraph (A) with current 
+                standards of the Federal Trade Commission for the 
+                preservation of the confidentiality of personal data by 
+                commercial and non-commercial private entities.
+                    (C) A review and assessment of the modifications of 
+                the data protection procedures adopted by the 
+                Department of Veterans Affairs as a result of the loss 
+                of data resulting from the security breach on May 3, 
+                2006, including an assessment of the feasibility and 
+                advisability of the adoption of any such modifications 
+                by other departments and agencies of the Federal 
+                Government.
+                    (D) An identification of recommendations for 
+                improvements to the procedures and practices of the 
+                departments and agencies of the Federal Government 
+                regarding the preservation of the confidentiality of 
+                personal data.
+    (e) Report.--Not later than 18 months after the date of the 
+enactment of this Act, the Comptroller General of the United States 
+shall submit to Congress a report setting forth the results of each 
+study conducted under this section. The report shall set forth the 
+results of each study separately, and shall include such 
+recommendations for legislative and administrative action as the 
+Comptroller General considers appropriate in light of the studies.
+
+SEC. 7. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated to the Secretary of 
+Veterans Affairs, such sums as may be necessary to carry out this Act 
+and the amendments made by this Act.
+                                 <all>
+

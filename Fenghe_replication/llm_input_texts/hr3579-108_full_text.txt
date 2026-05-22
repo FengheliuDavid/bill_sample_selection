@@ -1,0 +1,372 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3579 Introduced in House (IH)]
+
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                H. R. 3579
+
+ To ease credit union regulatory burdens, advance credit union efforts 
+    to promote economic growth, and modernize credit union capital 
+                               standards.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           November 21, 2003
+
+    Mr. Royce (for himself, Mr. Kanjorski, Mr. LaTourette, and Mrs. 
+   Maloney) introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To ease credit union regulatory burdens, advance credit union efforts 
+    to promote economic growth, and modernize credit union capital 
+                               standards.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Credit Union Regulatory Improvements 
+Act of 2003''.
+
+                    TITLE I--REGULATORY FLEXIBILITY
+
+SEC. 102. LEASES OF LAND ON FEDERAL FACILITIES FOR CREDIT UNIONS.
+
+    (a) In General.--Section 124 of the Federal Credit Union Act (12 
+U.S.C. 1770) is amended--
+            (1) by striking ``Upon application by any credit union'' 
+        and inserting ``Notwithstanding any other provision of law, 
+        upon application by any credit union'';
+            (2) by inserting ``on lands reserved for the use of, and 
+        under the exclusive or concurrent jurisdiction of, the United 
+        States or'' after ``officer or agency of the United States 
+        charged with the allotment of space'';
+            (3) by inserting ``lease land or'' after ``such officer or 
+        agency may in his or its discretion''; and
+            (4) by inserting ``or the facility built on the leased 
+        land'' after ``credit union to be served by the allotment of 
+        space''.
+    (b) Clerical Amendment.--The heading for section 124 is amended by 
+inserting ``or federal land'' after ``buildings''.
+
+SEC. 103. INVESTMENTS IN SECURITIES BY FEDERAL CREDIT UNIONS.
+
+    Section 107 of the Federal Credit Union Act (12 U.S.C. 1757) is 
+amended--
+            (1) in the matter preceding paragraph (1) by striking ``A 
+        Federal credit union'' and inserting ``(a) In General.--Any 
+        Federal credit union''; and
+            (2) by adding at the end the following new subsection:
+    ``(b) Investment for the Credit Union's Own Account.--
+            ``(1) In general.--A Federal credit union may purchase and 
+        hold for its own account such investment securities of 
+        investment grade as the Board may authorize by regulation, 
+        subject to such limitations and restrictions as the Board may 
+        prescribe in the regulations.
+            ``(2) Percentage limitations.--
+                    ``(A) Single obligor.--In no event may the total 
+                amount of investment securities of any single obligor 
+                or maker held by a Federal credit union for the credit 
+                union's own account exceed at any time an amount equal 
+                to 10 percent of the net worth of the credit union.
+                    ``(B) Aggregate investments.--In no event may the 
+                aggregate amount of investment securities held by a 
+                Federal credit union for the credit union's own account 
+                exceed at any time an amount equal to 10 percent of the 
+                assets of the credit union.
+            ``(3) Investment security defined.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term `investment security' means marketable 
+                obligations evidencing the indebtedness of any person 
+                in the form of bonds, notes, or debentures and other 
+                instruments commonly referred to as investment 
+                securities.
+                    ``(B) Further definition by board.--The Board may 
+                further define the term `investment security'.
+            ``(4) Investment grade defined.--The term `investment 
+        grade' means with respect to an investment security purchased 
+        by a credit union for its own account, an investment security 
+        that at the time of such purchase is rated in one of the 4 
+        highest rating categories by at least 1 nationally recognized 
+        statistical rating organization.
+            ``(5) Clarification of prohibition on stock ownership.--No 
+        provision of this subsection shall be construed as authorizing 
+        a Federal credit union to purchase shares of stock of any 
+        corporation for the credit union's own account, except as 
+otherwise permitted by law.''.
+
+SEC. 104. INCREASE IN GENERAL 12-YEAR LIMITATION OF TERM OF FEDERAL 
+              CREDIT UNION LOANS TO 15 YEARS.
+
+    Section 107(a)(5) of the Federal Credit Union Act (12 U.S.C. 
+1757(5)) (as so designated by section 103 of this title) is amended--
+            (1) in the matter preceding subparagraph (A), by striking 
+        ``to make loans, the maturities of which shall not exceed 
+        twelve years except as otherwise provided herein'' and 
+        inserting ``to make loans, the maturities of which shall not 
+        exceed 15 years or any longer maturity as the Board may allow, 
+        in regulations, except as otherwise provided in this Act'';
+            (2) in subparagraph (A)--
+                    (A) by striking clause (ii);
+                    (B) by redesignating clauses (iii) through (x) as 
+                clauses (ii) through (ix), respectively; and
+                    (C) by inserting ``and'' after the semicolon at the 
+                end of clause (viii) (as so redesignated).
+
+SEC. 105. INCREASE IN 1 PERCENT INVESTMENT LIMIT IN CREDIT UNION 
+              SERVICE ORGANIZATIONS.
+
+    Section 107(a)(7)(I) of the Federal Credit Union Act (12 U.S.C. 
+1757(7)(I)) (as so designated by section 103 of this title) is amended 
+by striking ``up to 1 per centum of the total paid'' and inserting ``up 
+to 3 percent of the total paid''.
+
+SEC. 106. MEMBER BUSINESS LOAN EXCLUSION FOR LOANS TO NONPROFIT 
+              RELIGIOUS ORGANIZATIONS.
+
+    Section 107A(a) of the Federal Credit Union Act (12 U.S.C. 
+1757a(a)) is amended by inserting ``, excluding loans made to nonprofit 
+religious organizations,'' after ``total amount of such loans''.
+
+SEC. 107. CHECK CASHING AND MONEY TRANSFER SERVICES OFFERED WITHIN THE 
+              FIELD OF MEMBERSHIP.
+
+    Paragraph (12) of section 107(a) of the Federal Credit Union Act 
+(12 U.S.C. 1757(12)) (as so designated by section 103 of this title) is 
+amended to read as follows:
+            ``(12) in accordance with regulations prescribed by the 
+        Board--
+                    ``(A) to sell, to persons in the field of 
+                membership, negotiable checks (including travelers 
+                checks), money orders, and other similar money transfer 
+                instruments (including electronic fund transfers); and
+                    ``(B) to cash checks and money orders and provide 
+                electronic fund transfer services for persons in the 
+                field of membership for a fee;''.
+
+SEC. 108. VOLUNTARY MERGERS INVOLVING MULTIPLE COMMON-BOND CREDIT 
+              UNIONS.
+
+    Section 109(d)(2) of the Federal Credit Union Act (12 U.S.C. 
+1759(d)(2)) is amended--
+            (1) by striking ``or'' at the end of clause (ii) of 
+        subparagraph (B);
+            (2) by striking the period at the end of subparagraph (C) 
+        and inserting ``; or''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(D) a merger involving any such Federal credit 
+                union approved by the Board on or after August 7, 
+                1998.''.
+
+SEC. 109. CONVERSIONS INVOLVING COMMON-BOND CREDIT UNIONS.
+
+    Section 109(g) of the Federal Credit Union Act (12 U.S.C. 1759(g)) 
+is amended by inserting after paragraph (2) the following new 
+paragraph:
+            ``(3) Criteria for continued membership of certain member 
+        groups in community charter conversions.--In the case of a 
+        voluntary conversion of a common-bond credit union described in 
+        paragraph (1) or (2) of subsection (b) into a community credit 
+        union described in subsection (b)(3), the Board shall 
+        prescribe, by regulation, the criteria under which the Board 
+        may determine that a member group or other portion of a credit 
+        union's existing membership, that is located outside the well-
+        defined local community, neighborhood, or rural district that 
+        shall constitute the community charter, can be satisfactorily 
+        served by the credit union and remain within the community 
+        credit union's field of membership.''.
+
+SEC. 110. CREDIT UNION GOVERNANCE.
+
+    (a) Expulsion of Members for Just Cause.--Subsection (b) of section 
+118 of the Federal Credit Union Act (12 U.S.C. 1764(b)) is amended to 
+read as follows:
+    ``(b) Policy and Actions of Boards of Directors of Federal Credit 
+Unions.--
+            ``(1) Expulsion of members for nonparticipation or for just 
+        cause.--The board of directors of a Federal credit union may, 
+        by majority vote of a quorum of directors, adopt and enforce a 
+        policy with respect to expulsion from membership, by a majority 
+        vote of such board of directors, based on just cause, including 
+        disruption of credit union operations, or on nonparticipation 
+        by a member in the affairs of the credit union.
+            ``(2) Written notice of policy to members.--If a policy 
+        described in paragraph (1) is adopted, written notice of the 
+        policy as adopted and the effective date of such policy shall 
+        be provided to--
+                    ``(A) each existing member of the credit union not 
+                less than 30 days prior to the effective date of such 
+                policy; and
+                    ``(B) each new member prior to or upon applying for 
+                membership.''.
+    (b) Term Limits Authorized for Board Members of Federal Credit 
+Unions.--Section 111(a) of the Federal Credit Union Act (12 U.S.C. 
+1761(a)) is amended by adding at the end the following new sentence: 
+``The bylaws of a Federal credit union may limit the number of 
+consecutive terms any person may serve on the board of directors of 
+such credit union.''.
+    (c) Reimbursement for Lost Wages Due to Service on Credit Union 
+Board Not Treated as Compensation.--Section 111(c) of the Federal 
+Credit Union Act (12 U.S.C. 1761(c)) is amended by inserting ``, 
+including lost wages,'' after ``the reimbursement of reasonable 
+expenses''.
+
+SEC. 111. PROVIDING THE NATIONAL CREDIT UNION ADMINISTRATION WITH 
+              GREATER FLEXIBILITY IN RESPONDING TO MARKET CONDITIONS.
+
+    Section 107(a)(5)(A)(v)(I) of the Federal Credit Union Act (12 
+U.S.C. 1757(5)(A)(v)(I)) (as so designated by sections 103 and 104 of 
+this title) is amended by striking ``six-month period and that 
+prevailing interest rate levels'' and inserting ``6-month period or 
+that prevailing interest rate levels''.
+
+SEC. 112. CREDIT UNIONS AUTHORIZED TO LEASE SPACE IN BUILDINGS IN 
+              CREDIT UNION OFFICES IN UNDERSERVED AREAS.
+
+    (a) In General.--Section 107(a) of the Federal Credit Union Act (12 
+U.S.C. 1757) (as so designated by section 103 of this title) is 
+amended--
+            (1) by striking ``and'' at the end of paragraph (16);
+            (2) by redesignating paragraph (17) as paragraph (18); and
+            (3) by inserting after paragraph (16) the following new 
+        paragraph:
+            ``(17) with regard to any building purchased or constructed 
+        by the credit union for a credit union office or credit union 
+        operations in an underserved area, to lease office space in 
+        such building that is separate and clearly distinct from any 
+        office or operation of the credit union to any business 
+        enterprise, subject to such regulations the Board may 
+        prescribe, taking into account the safety and soundness of the 
+        credit union; and''.
+    (b) Underserved area defined.--Section 101 of the Federal Credit 
+Union Act (12 U.S.C. 1752) is amended by adding at the end the 
+following new paragraph:
+            ``(10) Underserved area.--The term `underserved area' means 
+        an area consisting of 1 or more census tracts that have--
+                    ``(A) a poverty rate of 20 percent or greater, 
+                based on the most recent census data; or
+                    ``(B) a median family income that does not exceed 
+                80 percent of the greater of--
+                            ``(i) the median family income for the 
+                        metropolitan area in which such census tract or 
+                        tracts are located; or
+                            ``(ii) the median family income for the 
+                        State in which such census tract or tracts are 
+                        located.''.
+
+SEC. 113. CREDIT UNION CONVERSION VOTING REQUIREMENTS.
+
+    Section 205(b)(2)(B) of the Federal Credit Union Act (12 U.S.C. 
+1785(b)(2)(B)) is amended by inserting ``, in a vote in which at least 
+20 percent of the credit union membership participates'' before the 
+period at the end.
+
+SEC. 114. EXEMPTION FROM PRE-MERGER NOTIFICATION REQUIREMENT OF THE 
+              CLAYTON ACT.
+
+    Section 7A(c)(7) of the Clayton Act (15 U.S.C. 18a(c)(7)) is 
+amended by inserting ``section 205(b)(3) of the Federal Credit Union 
+Act (12 U.S.C. 1785(b)(3)),'' before ``or section 3''.
+
+SEC. 115. TREATMENT OF CREDIT UNIONS AS DEPOSITORY INSTITUTIONS UNDER 
+              SECURITIES LAWS.
+
+    (a) Definition of Bank Under the Securities Exchange Act of 1934.--
+Section 3(a)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78c(a)(6)) (as amended by section 201(a)(1) of this Act) is amended--
+            (1) by striking ``this title, and (D) a receiver'' and 
+        inserting ``this title, (D) an insured credit union (as defined 
+        in section 101(7) of the Federal Credit Union Act) but only for 
+        purposes of paragraphs (4) and (5) of this subsection and only 
+        for activities otherwise authorized by applicable laws to which 
+        such credit unions are subject, and (E) a receiver''; and
+            (2) in subparagraph (E) (as so redesignated by paragraph 
+        (1) of this subsection) by striking ``(A), (B), or (C)'' and 
+        inserting ``(A), (B), (C), or (D)''.
+    (b) Definition of Bank Under the Investment Advisers Act of 1940.--
+Section 202(a)(2) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2(a)(2)) (as amended by section 201(b)(1) of this Act) is amended--
+            (1) by striking ``this title, and (D) a receiver'' and 
+        inserting ``this title, (D) an insured credit union (as defined 
+        in section 101(7) of the Federal Credit Union Act) but only for 
+        activities otherwise authorized by applicable laws to which 
+        such credit unions are subject, and (E) a receiver''; and
+            (2) in subparagraph (E) (as so redesignated by paragraph 
+        (1) of this subsection) by striking ``(A), (B), or (C)'' and 
+        inserting ``(A), (B), (C), or (D)''.
+    (c) Definition of Appropriate Federal Banking Agency.--Section 
+210A(c) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-10a(c)) 
+is amended by inserting ``and includes the National Credit Union 
+Administration Board, in the case of an insured credit union (as 
+defined in section 101(7) of the Federal Credit Union Act)'' before the 
+period at the end.
+
+                   TITLE II--MEMBER BUSINESS LENDING
+
+SEC. 201. LIMITS ON MEMBER BUSINESS LOANS.
+
+    Section 107A(a) of the Federal Credit Union Act (12 U.S.C. 
+1757a(a)) is amended by striking `` the lesser
+of--'' and all that follows and inserting ``20 percent of the total 
+assets of the credit union.''.
+
+SEC. 202. DEFINITION OF MEMBER BUSINESS LOAN.
+
+    Section 107A(c)(1)(B)(iii) of the Federal Credit Union Act (12 
+U.S.C. 1757a(c)(1)(B)(iii)) is amended by striking ``$50,000'' and 
+inserting ``an amount, not to exceed $100,000, which the Board shall 
+prescribe by regulation''.
+
+SEC. 203. RESTRICTION ON MEMBER BUSINESS LOANS.
+
+    Section 216(g)(2) of the Federal Credit Union Act (12 U.S.C. 
+1790d(g)(2)) is amended by striking ``until such time as the credit 
+union becomes adequately capitalized'' and inserting ``unless otherwise 
+approved by the Board''.
+
+                       TITLE III--CAPITAL LEVELS
+
+SEC. 301. AMENDMENTS TO NET WORTH CATEGORIES.
+
+    Section 216 of the Federal Credit Union Act (12 U.S.C. 1790d) is 
+amended--
+            (1) by striking subsection (o)(3) and inserting the 
+        following new paragraph:
+            ``(3) Net worth ratio.--The term `net worth ratio' means, 
+        with respect to a credit union, the ratio of the net worth of 
+        the credit union to the risk assets of the credit union as 
+        defined by the Board.'';
+            (2) by striking subsection (d) and inserting the following 
+        new subsection
+    ``(d) [Repealed]''; and
+            (3) by striking subparagraph (E) of subsection (c)(1) and 
+        inserting the following new subparagraph:
+                    ``(E) Critically undercapitalized.--An insured 
+                credit union is `critically undercapitalized' if the 
+                credit union has--
+                            ``(i) a net worth of less than 2 percent of 
+                        actual assets; or
+                            ``(ii) a net worth ratio of less than a 
+                        minimum net worth ratio prescribed by the Board 
+                        in excess of 2 percent but not more than 3 
+                        percent.''.
+                                 <all>
+

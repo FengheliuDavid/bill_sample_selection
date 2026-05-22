@@ -1,0 +1,2442 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[S. 816 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+104th CONGRESS
+  1st Session
+                                 S. 816
+
+  To provide equal protection for victims of crime, to facilitate the 
+ exchange of information between Federal and State law enforcement and 
+  investigation entities, to reform criminal procedure, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                 May 17 (legislative day, May 15), 1995
+
+Mr. DeWine (for himself, Mr. Stevens, Mr. Ashcroft, Mr. Hatch, and Mr. 
+  Thurmond) introduced the following bill; which was referred to the 
+                       Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To provide equal protection for victims of crime, to facilitate the 
+ exchange of information between Federal and State law enforcement and 
+  investigation entities, to reform criminal procedure, and for other 
+                               purposes.
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Local Law Enforcement Enhancement 
+Act of 1995''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+                            TITLE I--PRISONS
+
+Sec. 101. Truth-in-sentencing.
+Sec. 102. Stopping abusive prisoner lawsuits.
+Sec. 103. Appropriate remedies for prison conditions.
+                       TITLE II--POLICE OFFICERS
+
+Sec. 201. Cops on the beat.
+                       TITLE III--LAW ENFORCEMENT
+
+Sec. 301. Block grant program.
+                          TITLE IV--TECHNOLOGY
+
+Sec. 401. Funding for DNA identification.
+Sec. 402. State compatibility with Federal Bureau of Investigation 
+                            systems.
+Sec. 403. Funding for Drugfire.
+Sec. 404. Funding for the FBI DNA system covering Federal crimes and 
+                            crime committed in the District of 
+                            Columbia.
+                          TITLE V--TRIGGERLOCK
+
+Sec. 501. Congressional oversight.
+Sec. 502. Pretrial detention for possession of firearms or explosives 
+                            by convicted felons.
+Sec. 503. Conforming scienter change for transferring a firearm to 
+                            commit a crime of violence.
+Sec. 504. Firearms possession by violent felons and serious drug 
+                            offenders.
+                 TITLE VI--EQUAL PROTECTION FOR VICTIMS
+
+Sec. 601. Right of victims to restitution.
+Sec. 602. Right of victim to an impartial jury.
+Sec. 603. Rebuttal of attacks on the victim's character.
+Sec. 604. Rules of procedure and evidence; method of prescribing.
+Sec. 605. HIV testing of defendants in sexual assault cases.
+Sec. 606. Clarifying amendment to extraterritorial child pornography 
+                            offense.
+                          TITLE VII--MILITARY
+
+Sec. 701. Prohibition on accrual of pay and allowances by members of 
+                            the Armed Forces who are confined pending 
+                            dishonorable discharge.
+Sec. 702. Criminal offenses committed outside the United States by 
+                            persons accompanying the Armed Forces.
+                     TITLE VIII--EXCLUSIONARY RULE
+
+Sec. 801. Admissibility of certain evidence.
+                     TITLE IX--HABEAS CORPUS REFORM
+
+Sec. 901. Filing deadlines.
+Sec. 902. Appeal.
+Sec. 903. Amendment of Federal Rules of Appellate Procedure.
+Sec. 904. Section 2254 amendments.
+Sec. 905. Section 2255 amendments.
+Sec. 906. Limits on second or successive applications.
+Sec. 907. Death penalty litigation procedures.
+Sec. 908. Technical amendment.
+Sec. 909. Severability.
+                            TITLE I--PRISONS
+
+SEC. 101. TRUTH-IN-SENTENCING.
+
+    (a) Truth-in-Sentencing Grant Program.--Title V of the Violent 
+Crime Control and Law Enforcement Act of 1994 is amended to read as 
+follows:
+
+                 ``TITLE V--TRUTH-IN-SENTENCING GRANTS
+
+``SEC. 50001. AUTHORIZATION OF GRANTS.
+
+    ``(a) In General.--The Attorney General is authorized to provide 
+grants to eligible States and to eligible States organized as a 
+regional compact--
+            ``(1) to build or expand correctional facilities to 
+        increase the prison bed capacity for the confinement of persons 
+        convicted of a serious violent felony; and
+            ``(2) to build, expand, and operate temporary or permanent 
+        correctional facilities, including facilities on military bases 
+        and boot camps, for the confinement of convicted nonviolent 
+        offenders and criminal aliens for the purpose of freeing 
+        suitable existing prison space for the confinement of persons 
+        convicted of a serious violent felony.
+    ``(b) Limitation.--An eligible State or eligible States organized 
+as a regional compact may receive either a general grant under section 
+50002 or a truth-in-sentencing incentive grant under section 50003.
+
+``SEC. 50002. GENERAL GRANTS.
+
+    ``(a) Distribution.--50 percent of the total amount of funds made 
+available pursuant to section 50007 for each of the fiscal years 1995 
+through 2000 shall be made available for general eligibility grants for 
+each State or States organized as a regional compact that meets the 
+requirements of subsection (b).
+    ``(b) Eligibility.--To be eligible to receive funds under 
+subsection (a), a State or States organized as a regional compact shall 
+submit an application to the Attorney General that provides assurances 
+that such State or States have, since 1990--
+            ``(1) increased the percentage of convicted violent 
+        offenders sentenced to prison;
+            ``(2) increased the average prison time actually to be 
+        served in prison by convicted violent offenders sentenced to 
+        prison; and
+            ``(3) increased the percentage of sentence to be actually 
+        served in prison by violent offenders sentenced to prison.
+
+``SEC. 50003. TRUTH-IN-SENTENCING GRANTS.
+
+    ``(a) Truth-in-Sentencing Incentive Grants.--50 percent of the 
+total amount of funds made available pursuant to section 50007 for each 
+of the fiscal years 1995 through 2000 shall be made available for 
+truth-in-sentencing incentive grants to each State or States organized 
+as a regional compact that meet the requirements of subsection (b).
+    ``(b) Eligibility.--To be eligible to receive funds under 
+subsection (a), a State or States organized as a regional compact shall 
+submit an application to the Attorney General that provides assurances 
+that each State applying has--
+            ``(1)(A) enacted truth-in-sentencing laws that require 
+        persons convicted of a serious violent felony to serve not less 
+        than 85 percent of the sentence imposed, or 85 percent of the 
+        court-ordered maximum sentence for States that practice 
+        indeterminate sentencing; or
+            ``(B) enacted truth-in-sentencing laws that have been 
+        enacted, but not yet implemented, that require such State, not 
+        later than 3 years after such State submits an application to 
+        the Attorney General, to provide that persons convicted of a 
+        serious violent felony serve not less than 85 percent of the 
+        sentence imposed, or 85 percent of the court-ordered maximum 
+        sentence for States that practice indeterminate sentencing; and
+            ``(2) enacted laws requiring that the sentencing or 
+        releasing authorities notify and allow the victims of the 
+        defendant or the family of such victims the opportunity to be 
+        heard regarding the issue of sentencing and any postconviction 
+        release.
+
+``SEC. 50004. SPECIAL RULES.
+
+    ``(a) Additional Requirements.--To be eligible to receive a grant 
+under section 50002 or 50003, a State or States organized as a regional 
+compact shall provide an assurance to the Attorney General that--
+            ``(1) to the extent practicable, inmate labor will be used 
+        to build and expand correctional facilities;
+            ``(2) each State will involve counties and other units of 
+        local government, when appropriate, in the construction, 
+        development, expansion, modification, operation, or improvement 
+        of correctional facilities designed to ensure the incarceration 
+        of offenders;
+            ``(3) each State will share funds received under this title 
+        with any county or other unit of local government that is 
+        housing State prisoners, taking into account the burden placed 
+        on such county or unit of local government in confining 
+        prisoners due to overcrowding in State prison facilities in 
+        furtherance of the purposes of this Act; and
+            ``(4) the State has implemented or will implement, not 
+        later than 18 months after the date of the enactment of the 
+        Local Law Enforcement Enhancement Act of 1995, policies to 
+        determine the veteran status of inmates and to ensure that 
+        incarcerated veterans receive the veterans benefits to which 
+        they are entitled.
+    ``(b) Indeterminate Sentencing Exception.--Notwithstanding section 
+50002(b)(3), a State shall be eligible for grants under this title if 
+the State, not later than the date of the enactment of this title--
+            ``(1) practices indeterminate sentencing; and
+            ``(2) the average time served in such State for the 
+        offenses of murder, rape, robbery, and assault exceed, by 10 
+        percent or more, the national average of time served for such 
+        offenses.
+    ``(c) Exception.--Notwithstanding section 50002(b), a State may 
+provide that the Governor of the State may allow for earlier release of 
+a geriatric prisoner or a prisoner whose medical condition precludes 
+the prisoner from posing a threat to the public after a public hearing 
+in which representatives of the public and the prisoner's victims have 
+an opportunity to be heard regarding a proposed release.
+
+``SEC. 50005. FORMULA FOR GRANTS.
+
+    ``To determine the amount of funds that each eligible State or 
+eligible States organized as a regional compact may receive to carry 
+out programs under section 50002 or 50003, the Attorney General shall 
+apply the following formula:
+            ``(1) $500,000 or 0.40 percent, whichever is greater, shall 
+        be allocated to each participating State or compact, as the 
+        case may be.
+            ``(2) Of the total amount of funds remaining after the 
+        allocation under paragraph (1), there shall be allocated to 
+        each State or compact, as the case may be, an amount which 
+        bears the same ratio to the amount of remaining funds described 
+        in this paragraph as the population of such State or compact, 
+        as the case may be, bears to the population of all the States.
+
+``SEC. 50006. ACCOUNTABILITY.
+
+    ``(a) Fiscal Requirements.--A State or States organized as a 
+regional compact that receives funds under this title shall use 
+accounting, audit, and fiscal procedures that conform to guidelines 
+prescribed by the Attorney General.
+    ``(b) Reporting.--Beginning on January 1, 1996, and each January 1 
+thereafter, each State that receives funds under this title shall 
+submit an annual report to
+ the Congress regarding compliance with the requirements of this title.
+    ``(c) Administrative Provisions.--The administrative provisions of 
+sections 801 and 802 of the Omnibus Crime Control and Safe Streets Act 
+of 1968 shall apply to the Attorney General in the same manner as such 
+provisions apply to the officials listed in such sections.
+
+``SEC. 50007. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``(a) In General.--There are authorized to be appropriated from the 
+Violent Crime Reduction Trust Fund to carry out this title--
+            ``(1) $900,000,000 for fiscal year 1996;
+            ``(2) $1,150,000,000 for fiscal year 1997;
+            ``(3) $2,200,000,000 for fiscal year 1998;
+            ``(4) $2,300,000,000 for fiscal year 1999; and
+            ``(5) $2,400,000,000 for fiscal year 2000.
+    ``(b) Limitations on Funds.--
+            ``(1) Uses of funds.--Funds made available under this title 
+        shall be used only to carry out the purposes stated in section 
+        50001(a).
+            ``(2) Nonsupplanting requirement.--Funds made available 
+        pursuant to this section shall not be used to supplant State 
+        funds, but shall be used to increase the amount of funds that 
+        would, in the absence of Federal funds, be made available from 
+        State sources.
+            ``(3) Administrative costs.--Not more than 3 percent of the 
+        funds made available pursuant to this section shall be used for 
+        administrative costs.
+            ``(4) Matching funds.--The Federal share of a grant 
+        received under this title shall not exceed 75 percent of the 
+        costs of a proposal as described in an application approved 
+        under this title.
+            ``(5) Carry over of appropriations.--Any funds appropriated 
+        but not expended as provided by this section during any fiscal 
+        year shall remain available until expended.
+
+``SEC. 50008. DEFINITIONS.
+
+    ``As used in this title--
+            ``(1) the term `indeterminate sentencing' means a system by 
+        which--
+                    ``(A) the court has discretion with respect to the 
+                actual length of the sentence imposed, up to the 
+                statutory maximum; and
+                    ``(B) an administrative agency, generally the 
+                parole board, controls release between court ordered 
+                minimum and maximum sentences;
+            ``(2) the term `serious violent felony' means--
+                    ``(A) an offense that is a felony and has as an 
+                element the use, attempted use, or threatened use of 
+                physical force against the person or property of 
+                another and has a maximum term of imprisonment of 10 
+                years or more;
+                    ``(B) any other offense that is a felony and that, 
+                by its nature, involves a substantial risk that 
+                physical force against the person or property of 
+                another may be used in the course of committing the 
+                offense and has a maximum term of imprisonment of 10 
+                years or more; or
+                    ``(C) murder, assault with intent to commit murder, 
+                arson, armed burglary, rape, assault with intent to 
+                commit rape, kidnapping, and armed robbery; and
+            ``(3) the term `State' means a State of the United States, 
+        the District of Columbia, or any commonwealth, territory, or 
+        possession of the United States.''.
+    (b) Conforming Amendments.--
+            (1) Omnibus crime control and safe streets act of 1968.--
+                    (A) Part v.--Part V of title I of the Omnibus Crime 
+                Control and Safe Streets Act of 1968 is repealed.
+                    (B) Funding.--(A) Section 1001(a) of the Omnibus 
+                Crime Control and Safe Streets Act of 1968 is amended 
+                by striking paragraph (20).
+                    (C) Notwithstanding subparagraph (A), any funds 
+                that remain available to an applicant under paragraph 
+                (20) of title I of the Omnibus Crime Control and Safe 
+                Streets Act of 1968 on the date of enactment of this 
+                Act shall be used in accordance with part V of such Act 
+                as such Act was in effect on the day preceding the date 
+                of enactment of this Act.
+            (2) Violent crime control and law enforcement act of 
+        1994.--
+                    (A) Repeal.--(i) Subtitle A of title II of the 
+                Violent Crime Control and Law Enforcement Act of 1994 
+                is repealed.
+                    (ii) The table of contents of the Violent Crime 
+                Control and Law Enforcement Act of 1994 is amended by 
+                striking the matter relating to subtitle A of title II.
+                    (B) Compliance.--Notwithstanding the provisions of 
+                subparagraph (A), any funds that remain available to an 
+                applicant under subtitle A of title II of the Violent 
+                Crime Control and Law Enforcement Act of 1994 on the 
+                date of enactment of this Act shall be used in 
+                accordance with such subtitle as such subtitle was in 
+                effect on the day preceding the date of enactment of 
+                this Act.
+                    (C) Truth-in-sentencing.--The table of contents of 
+                the Violent Crime Control and Law Enforcement Act of 
+                1994 is amended by striking the matter relating to 
+                title V and inserting the following:
+                 ``TITLE V--TRUTH-IN-SENTENCING GRANTS
+
+``Sec. 50001. Authorization of grants.
+``Sec. 50002. General grants.
+``Sec. 50003. Truth-in-sentencing grants.
+``Sec. 50004. Special rules.
+``Sec. 50005. Formula for grants.
+``Sec. 50006. Accountability.
+``Sec. 50007. Authorization of appropriations.
+``Sec. 50008. Definitions.''.
+SEC. 102. STOPPING ABUSIVE PRISONER LAWSUITS.
+
+    (a) Exhaustion Requirement.--Section 7(a)(1) of the Civil Rights of 
+Institutionalized Persons Act (42 U.S.C. 1997e) is amended--
+            (1) by striking ``in any action brought'' and inserting 
+        ``no action shall be brought'';
+            (2) by striking ``the court shall'' and all that follows 
+        through ``require exhaustion of'' and insert ``until''; and
+            (3) by inserting ``are exhausted'' after ``available''.
+    (b) Frivolous Actions.--Section 7(a) of the Civil Rights of 
+Institutionalized Persons Act (42 U.S.C. 1997e(a)) is amended by adding 
+at the end the following:
+    ``(3) The court shall on its own motion or on motion of a party 
+dismiss any action brought pursuant to section 1979 of the Revised 
+Statutes of the United States by an adult convicted of a crime and 
+confined in any jail, prison, or other correctional facility, if the 
+court is satisfied that the action fails to state a claim upon which 
+relief can be granted or is frivolous or malicious.''.
+    (c) Modification of Requirement Minimum Standards.--Section 7(b)(2) 
+of the Civil Rights of Institutionalized Persons Act (42 U.S.C. 
+1997e(b)(2)) is amended by striking subparagraph (A) and redesignating 
+subparagraphs (B) through (E) as subparagraphs (A) through (D), 
+respectively.
+    (d) Proceedings In Forma Pauperis.--
+            (1) Dismissal.--Section 1915(d) of title 28, United States 
+        Code, is amended--
+                    (A) by inserting ``at any time'' after ``counsel 
+                and may'';
+                    (B) by striking ``and may'' and inserting ``and 
+                shall'';
+                    (C) by inserting ``fails to state a claim upon 
+                which relief may be granted or'' after ``that the 
+                action''; and
+                    (D) by inserting ``, even if partial filing fees 
+                have been imposed by the court'' before the period.
+            (2) Prisoner's statement of assets.--Section 1915 of title 
+        28, United States Code, is amended by adding at the end the 
+        following new subsection:
+    ``(f) If a prisoner in a correctional institution files an 
+affidavit in accordance with subsection (a), such prisoner shall 
+include in that affidavit a statement of all assets such prisoner 
+possesses. The court shall make inquiry of the correctional institution 
+in which the prisoner is incarcerated for information available to that 
+institution relating to the extent of the prisoner's assets. The court 
+shall require full or partial payment of filing fees according to the 
+prisoner's ability to pay.''.
+
+SEC. 103. APPROPRIATE REMEDIES FOR PRISON CONDITIONS.
+
+    (a) In General.--Section 3626 of title 18, United States Code (as 
+added by section 20409 of the Violent Crime Control and Law Enforcement 
+Act of 1994), is amended to read as follows:
+``Sec. 3626. Appropriate remedies with respect to prison conditions
+    ``(a) Requirements for Relief.--
+            ``(1) Limitations on prospective relief.--Prospective 
+        relief in a civil action with respect to prison conditions 
+        shall extend no further than necessary to remove the conditions 
+        that are causing the deprivation of the Federal rights of 
+        individual plaintiffs in the civil action. The court shall not 
+        grant or approve any prospective relief unless the court finds 
+        that such relief is narrowly drawn and the least intrusive 
+        means to remedy the violation of the Federal right. In 
+        determining the intrusiveness of the relief, the court shall 
+        give substantial weight to any adverse impact on public safety 
+        or the operation of a criminal justice system caused by the 
+        relief.
+            ``(2) Prison population reduction relief.--In any civil 
+        action with respect to prison conditions, the court shall not 
+        grant or approve any relief the purpose or effect of which is 
+        to reduce or limit the prison population, unless the plaintiff 
+        proves that crowding is the primary cause of the deprivation of 
+        the Federal right and no other relief will remedy that 
+        deprivation.
+    ``(b) Termination of Relief.--
+            ``(1) Automatic termination of prospective relief after 2-
+        year period.--In any civil action with respect to prison 
+        conditions, any prospective relief shall automatically 
+        terminate 2 years after the later of--
+                    ``(A) the date the court issued the judgment 
+                finding a violation of a Federal right that was the 
+                basis for the relief; or
+                    ``(B) the date of the enactment of the Local Law 
+                Enforcement Enhancement Act of 1995.
+            ``(2) Immediate termination of prospective relief.--In any 
+        civil action with respect to prison conditions, a defendant or 
+        intervenor shall be entitled to the immediate termination of 
+        any prospective relief if that relief was approved or granted 
+        in the absence of a finding by the court that prison conditions 
+        violated a Federal right.
+    ``(c) Procedure for Motions Affecting Prospective Relief.--
+            ``(1) Generally.--The court shall promptly rule on any 
+        motion to modify or terminate prospective relief in a civil 
+        action with respect to prison conditions.
+            ``(2) Automatic stay.--Any prospective relief subject to a 
+        pending motion shall be automatically stayed during the 
+        period--
+                    ``(A) beginning on the 30th day after such motion 
+                is filed, in the case of a motion made under subsection 
+                (b); or
+                    ``(B) beginning on the 180th day after such motion 
+                is filed, in the case of a motion made under any other 
+                law;
+        and ending on the date the court enters a final order ruling on 
+        that motion.
+    ``(d) Standing.--Any Federal, State, or local government whose 
+jurisdiction or function includes the prosecution or custody of persons 
+in a prison subject to any relief whose purpose or effect is to reduce 
+or limit the prison population shall have standing to oppose the 
+imposition or continuation in effect of that relief and may intervene 
+in any proceeding relating to that relief. Standing shall be liberally 
+conferred under this subsection so as to effectuate the remedial 
+purposes of this section.
+    ``(e) Special Masters.--In any civil action in a Federal court with 
+respect to prison conditions, any special master or monitor shall be a 
+United States magistrate and shall make proposed findings on the record 
+on complicated factual issues submitted to the special master or 
+monitor by the court, but shall have no other function. The parties may 
+not by consent extend the function of a special master beyond the 
+function permitted under this subsection.
+    ``(f) Attorney's Fees.--No attorney's fee under section 722 of the 
+Revised Statutes of the United States (42 U.S.C. 1988) may be granted 
+to a plaintiff in a civil action with respect to prison conditions 
+except to the extent such fee is--
+            ``(1) directly and reasonably incurred in proving an actual 
+        violation of the plaintiff's Federal rights; and
+            ``(2) proportionally related to the extent the plaintiff 
+        obtains court ordered relief for that violation.
+    ``(g) Definitions.--As used in this section--
+            ``(1) the term `prison' means any Federal, State, or local 
+        facility that incarcerates or detains juveniles or adults 
+        accused of, convicted of, sentenced for, or adjudicated 
+        delinquent for, violations of criminal law;
+            ``(2) the term `relief' means all relief in any form which 
+        may be granted or approved by the court, and includes consent 
+        decrees and settlement agreements; and
+            ``(3) the term `prospective relief' means all relief other 
+        than compensatory monetary damages.''.
+    (b) Application of Amendment.--Section 3626 of title 18, United 
+States Code, as amended by this section, shall apply with respect to 
+all relief (as defined in such section) whether such relief was 
+originally granted or approved before, on, or after the date of the 
+enactment of this Act.
+    (c) Clerical Amendment.--The item relating to section 3626 in the 
+table of sections at the beginning of subchapter C of chapter 229 of 
+title 18, United States Code, is amended by striking ``crowding'' and 
+inserting ``conditions''.
+                       TITLE II--POLICE OFFICERS
+
+SEC. 201. COPS ON THE BEAT.
+
+    (a) In General.--Part Q of title I of the Omnibus Crime Control and 
+Safe Streets Act of 1968 (42 U.S.C. 3796dd et seq.) is amended to read 
+as follows:
+
+    ``PART Q--PUBLIC SAFETY AND COMMUNITY POLICING; COPS ON THE BEAT
+
+``SEC. 1701. AUTHORITY TO MAKE PUBLIC SAFETY AND COMMUNITY POLICING 
+              GRANTS.
+
+    ``(a) Grant Authorization.--The Attorney General may make grants to 
+cities to increase police presence, to expand and improve cooperative 
+efforts between law enforcement agencies and members of the community 
+to address crime and disorder problems, and otherwise to enhance public 
+safety.
+    ``(b) Rehiring, Hiring, and Initial Redeployment Grant Projects.--
+            ``(1) In general.--Grants made under subsection (a) may be 
+        used for programs, projects, and other activities to--
+                    ``(A) rehire law enforcement officers who have been 
+                laid off as a result of State and local budget 
+                reductions for deployment in community-oriented 
+                policing;
+                    ``(B) hire and train new, additional career law 
+                enforcement officers for deployment in community-
+                oriented policing across the Nation; and
+                    ``(C) procure equipment, technology, or support 
+                systems, or pay overtime, if the applicant for such a 
+                grant demonstrates to the satisfaction of the Attorney 
+                General that expenditures for such purposes would 
+                result in an increase in the number of officers 
+                deployed in community-oriented policing equal to or 
+                greater than the increase in the number of officers 
+                that would result from a grant for a like amount for
+                 the purposes specified in subparagraph (A) or (B).
+            ``(2) Grants for equipment, technology, and support 
+        systems.--Grants pursuant to paragraph (1)(C)--
+                    ``(A) may not exceed--
+                            ``(i) 20 percent of the funds available for 
+                        grants pursuant to this subsection in fiscal 
+                        year 1995;
+                            ``(ii) 20 percent of the funds available 
+                        for grants pursuant to this subsection in 
+                        fiscal year 1996; or
+                            ``(iii) 10 percent of the funds available 
+                        for grants pursuant to this subsection in 
+                        fiscal years 1997, 1998, 1999, and 2000; and
+                    ``(B) may not be awarded in fiscal years 1998, 
+                1999, or 2000 unless the Attorney General has certified 
+                that grants awarded in fiscal years 1995, 1996, and 
+                1997 pursuant to subparagraph (1)(C) have resulted in 
+                an increase in the number of officers deployed in 
+                community-oriented policing equal to or greater than 
+                the increase in the number of officers that have 
+                resulted from the grants in like amounts awarded in 
+                fiscal years 1995, 1996, and 1997 pursuant to paragraph 
+                (1) (A) and (B).
+    ``(c) Troops-to-Cops Programs.--
+            ``(1) In general.--Grants made under subsection (a) may be 
+        used to hire former members of the Armed Forces to serve as 
+        career law enforcement officers for deployment in community-
+        oriented policing, particularly in communities that are 
+        adversely affected by a recent military base closing.
+            ``(2) Definition.--In this subsection, `former member of 
+        the Armed Forces' means a member of the Armed Forces of the 
+        United States who is involuntarily separated from the Armed 
+        Forces within the meaning of section 1141 of title 10, United 
+        States Code.
+    ``(d) Technical Assistance.--
+            ``(1) In general.--The Attorney General may provide 
+        technical assistance to cities in furtherance of the purposes 
+        of the Public Safety Partnership and Community Policing Act of 
+        1994.
+            ``(2) Model.--The technical assistance provided by the 
+        Attorney General may include the development of a flexible 
+        model that will define for State and local governments, and 
+        other public and private entities, definitions and strategies 
+        associated with community or problem-oriented policing and 
+        methodologies for its implementation.
+            ``(3) Training centers and facilities.--The technical 
+        assistance provided by the Attorney General may include the 
+        establishment and operation of training centers or facilities, 
+        either directly or by contracting or cooperative arrangements. 
+        The functions of the centers or facilities established under 
+        this paragraph may include instruction and seminars for police 
+        executives, managers, trainers, supervisors, and such others as 
+        the Attorney General considers to be appropriate concerning 
+        community or problem-oriented policing and improvements in 
+        police-community interaction and cooperation that further the 
+        purposes of the Public Safety Partnership and Community 
+        Policing Act of 1994.
+    ``(e) Utilization of Components.--The Attorney General may utilize 
+any component or components of the Department of Justice in carrying 
+out this part.
+    ``(f) Allocation of Funds.--The funds available under this part 
+shall be allocated as provided in section 1703.
+    ``(g) Termination of Grants for Hiring Officers.--The authority 
+under subsection (a) of this section to make grants for the hiring and 
+rehiring of additional career law enforcement officers shall lapse at 
+the conclusion of 6 years from the date of enactment of this part. 
+Prior to the expiration of this grant authority, the Attorney General 
+shall submit a report to Congress concerning the experience with and 
+effects of such grants. The report may include any recommendations the 
+Attorney General may have for amendments to this part and related 
+provisions of law in light of the termination of the authority to make 
+grants for the hiring and rehiring of additional career law enforcement 
+officers.
+
+``SEC. 1702. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``There are authorized to be appropriated from the Violent Crime 
+Reduction Trust Fund to carry out this part, $1,000,000,000 in each of 
+the fiscal years 1995 through 2000, to remain available until expended.
+
+``SEC. 1703. ALLOCATION AND DISTRIBUTION OF FUNDS.
+
+    ``The Attorney General shall allocate funds made available pursuant 
+to this part shall be allocated using the following formula:
+            ``(1) For each city reporting part 1 violent crimes to the 
+        Federal Bureau of Investigation, the Attorney General shall 
+        multiply the population of the city by the number of part 1 
+        violent crimes reported in the previous year to calculate the 
+        crime weighted population.
+            ``(2) The Attorney General shall allocate funds to each of 
+        the 250 cities with the highest crime weighted populations 
+        under paragraph (1) an amount bearing the same ratio as the 
+        crime weighted population of such city bears to the total crime 
+        weighted population of such 250 cities.
+
+``SEC. 1704. RENEWAL OF GRANTS.
+
+    ``(a) In General.--Except for grants made for hiring or rehiring 
+additional career law enforcement officers, a grant under this part may 
+be renewed for up to 4 additional years after the first fiscal year 
+during which a recipient receives its initial grant, if the Attorney 
+General determines that the funds made available to the recipient were 
+used in a manner required under an approved application and if the 
+recipient can demonstrate significant progress in achieving the 
+objectives of the initial application.
+    ``(b) Grants for Hiring.--Grants made for hiring or rehiring 
+additional career law enforcement officers may be renewed for up to 4 
+years, subject to the requirements of subsection (a), but 
+notwithstanding the limitation in that subsection concerning the number 
+of years for which grants may be renewed.
+    ``(c) Multiyear Grants.--A grant for a period exceeding 1 year may 
+be renewed as provided in this section, except that the total duration 
+of such a grant including any renewals may not exceed 5 years.
+
+``SEC. 1705. LIMITATION ON USE OF FUNDS.
+
+    ``Funds made available under this part to cities shall not be used 
+to supplant State or local funds, but shall be used to increase the 
+amount of funds that would, in the absence of Federal funds received 
+under this part, be made available from State or local sources.
+
+``SEC. 1706. PERFORMANCE EVALUATION.
+
+    ``(a) Monitoring Components.--Each program, project, or activity 
+funded under this part shall contain a monitoring component, developed 
+pursuant to guidelines established by the Attorney General. The 
+monitoring required by this subsection shall include systematic 
+identification and collection of data about activities, 
+accomplishments, and programs throughout the life of the program, 
+project, or activity and presentation of such data in a usable form.
+    ``(b) Evaluation Components.--Selected grant recipients shall be 
+evaluated on the local level or as part of a national evaluation, 
+pursuant to guidelines established by the Attorney General. Such 
+evaluations may include assessments of individual program 
+implementations. In selected jurisdictions that are able to support 
+outcome evaluations, the effectiveness of funded programs, projects, 
+and activities may be required. Outcome measures may include crime and 
+victimization indicators, quality of life measures, community 
+perceptions, and police perceptions of their own work.
+    ``(c) Periodic Review and Reports.--The Attorney General may 
+require a grant recipient to submit to the Attorney General the results 
+of the monitoring and evaluations required under subsections (a) and 
+(b) and such other data and information as the Attorney General deems 
+reasonably necessary.
+
+``SEC. 1707. REVOCATION OR SUSPENSION OF FUNDING.
+
+    ``If the Attorney General determines, as a result of the reviews 
+required by section 1706, or otherwise, that a grant recipient under 
+this part is not in substantial compliance with the terms and 
+requirements of an approved grant application submitted under section 
+1702, the Attorney General may revoke or suspend funding of that grant, 
+in whole or in part.
+
+``SEC. 1708. ACCESS TO DOCUMENTS.
+
+    ``(a) By the Attorney General.--The Attorney General shall have 
+access for the purpose of audit and examination to any pertinent books, 
+documents, papers, or records of a grant recipient under this part and 
+to the pertinent books, documents, papers, or records of State and 
+local governments, persons, businesses, and other entities that are 
+involved in programs, projects, or activities for which assistance is 
+provided under this part.
+    ``(b) By the Comptroller General.--Subsection (a) shall apply with 
+respect to audits and examinations conducted by the Comptroller General 
+of the United States or by an authorized representative of the 
+Comptroller General.
+
+``SEC. 1709. GENERAL REGULATORY AUTHORITY.
+
+    ``The Attorney General may promulgate regulations and guidelines to 
+carry out this part.
+
+``SEC. 1710. DEFINITION.
+
+    ``In this part, the term `career law enforcement officer' means a 
+person hired on a permanent basis who is authorized by law or by a 
+State or local public agency to engage in or supervise the prevention, 
+detection, or investigation of violations of criminal laws.''.
+    (b) Technical and Conforming Amendments.--
+            (1) Table of contents.--The table of contents of title I of 
+        the Omnibus Crime Control and Safe Streets Act of 1968 (42 
+        U.S.C. 3711, et seq.) is amended by striking the item relating 
+        to part Q and inserting the following:
+   ``Part Q--Public Safety and Community Policing; Cops and the Beat
+
+        ``Sec. 1701. Authority to make public safety and community 
+                            policing grants.
+        ``Sec. 1702. Authorization of appropriations.
+        ``Sec. 1703. Allocation and distribution of funds.
+        ``Sec. 1704. Renewal of grants.
+        ``Sec. 1705. Limitation on use of funds.
+        ``Sec. 1706. Performance evaluation.
+        ``Sec. 1707. Revocation or suspending of funding.
+        ``Sec. 1708. Access to documents.
+        ``Sec. 1709. General regulatory authority.
+        ``Sec. 1710. Definitions.''.
+            (2) Conforming amendments.--Section 1001(a) of title I of 
+        the Omnibus Crime Control and Safe Streets Act of 1968 (42 
+        U.S.C. 3793) is amended--
+                    (A) in paragraph (3) by striking ``O, P, and Q'' 
+                and inserting ``O, and P''; and
+                    (B) by striking paragraph (11).
+
+                       TITLE III--LAW ENFORCEMENT
+
+SEC. 301. BLOCK GRANT PROGRAM.
+
+    (a) Block Grant Program.--Title I of the Violent Crime Control and 
+Law Enforcement Act of 1994 is amended to read as follows:
+
+                ``TITLE I--LAW ENFORCEMENT BLOCK GRANTS
+
+``SEC. 101. PAYMENTS TO LOCAL GOVERNMENTS.
+
+    ``(a) Payment and Use.--
+            ``(1) Payment.--The Director of the Bureau of Justice 
+        Assistance shall pay to each unit of local government that 
+        qualifies for a payment under this title an amount equal to the 
+        sum of any amounts allocated to such unit under this title for 
+        each payment period. The Director shall pay such amount from 
+        amounts appropriated to carry out this title.
+            ``(2) Use.--Amounts paid to a unit of local government 
+        under this section shall be used by the unit of local 
+        government for reducing crime and improving public safety, 
+        including 1 or more of the following purposes:
+                    ``(A)(i) Hiring, training, and employing on a 
+                continuing basis new law enforcement officers and 
+                necessary support personnel.
+                    ``(ii) Paying overtime to presently employed law 
+                enforcement officers and necessary support personnel 
+                for the purpose of increasing the number of hours 
+                worked by such personnel.
+                    ``(iii) Procuring equipment, technology, and other 
+                material directly related to basic law enforcement 
+                functions.
+                    ``(B) Enhancing school security measures by--
+                            ``(i) providing increased law enforcement 
+                        patrols in and around schools, whether through 
+                        the hiring of additional law enforcement 
+                        officers or paying overtime to presently 
+                        employed officers;
+                            ``(ii) purchasing law enforcement equipment 
+                        necessary to carry out normal law enforcement 
+                        functions in and around schools;
+                            ``(iii) equipping schools with metal 
+                        detectors, fences, closed circuit cameras, and 
+                        other physical safety measures;
+                            ``(iv) establishing gun hotlines designed 
+                        to facilitate the reporting of weapons 
+                        possession by students and other individuals in 
+                        and around schools; and
+                            ``(v) preventing and suppressing violent 
+                        youth gang activity.
+                    ``(C) Establishing crime prevention programs that 
+                may involve law enforcement officials and that are 
+                intended to discourage, disrupt, or interfere with the 
+                commission of criminal activity, including neighborhood 
+                watch and citizen patrol programs, sexual assault and 
+                domestic violence programs, and programs intended to 
+                prevent juvenile crime.
+                    ``(D) Establishing or supporting drug courts.
+                    ``(E) Establishing early intervention and 
+                prevention programs for juveniles to reduce or 
+                eliminate crime.
+                    ``(F) Enhancing the adjudication process of cases 
+                involving violent offenders, including the adjudication 
+                process of cases involving violent juvenile offenders.
+            ``(3) Definitions.--For purposes of this subsection--
+                    ``(A) the term `violent offender' means a person 
+                charged with committing a part I violent crime; and
+                    ``(B) the term `drug courts' means a program that 
+                involves--
+                            ``(i) continuing judicial supervision of 
+                        offenders with substance abuse problems who are 
+                        not violent offenders; and
+                            ``(ii) the integrated administration of 
+                        other sanctions and services, including--
+                                    ``(I) mandatory periodic testing 
+                                for the use of controlled substances or 
+                                other addictive substances during any 
+                                period of supervised release or 
+                                probation for each participant;
+                                    ``(II) substance abuse treatment 
+                                for each participant;
+                                    ``(III) probation, or other 
+                                supervised release involving the 
+                                possibility of prosecution, 
+                                confinement, or incarceration based on 
+                                noncompliance with program requirements 
+                                or failure to show satisfactory 
+                                progress; and
+                                    ``(IV) programmatic, offender 
+                                management, and aftercare services such 
+                                as relapse prevention, vocational job 
+                                training, job placement, and housing 
+                                placement.
+    ``(b) Prohibited Uses.--Notwithstanding any other provision of this 
+Act, a unit of local government may not expend any of the funds 
+provided under this title to purchase, lease, rent, or otherwise 
+acquire--
+            ``(1) tanks or armored personnel carriers;
+            ``(2) fixed wing aircraft;
+            ``(3) limousines;
+            ``(4) real estate; or
+            ``(5) yachts,
+unless the Attorney General certifies that extraordinary and exigent 
+circumstances exist that make the use of funds for such purposes 
+essential to the maintenance of public safety and good order in such 
+unit of local government.
+    ``(c) Timing of Payments.--The Director shall pay each unit of 
+local government that has submitted an application under this title not 
+later than--
+            ``(1) 90 days after the date that the amount is available; 
+        or
+            ``(2) the first day of the payment period if the unit of 
+        local government has provided the Director with the assurances 
+        required by section 103(d),
+whichever is later.
+    ``(d) Adjustments.--
+            ``(1) In general.--Subject to paragraph (2), the Director 
+        shall adjust a payment under this title to a unit of local 
+        government to the extent that a prior payment to the unit of 
+        local government was more or less than the amount required to 
+        be paid.
+            ``(2) Considerations.--The Director may increase or 
+        decrease a payment to a unit of local government only if the 
+        Director determines the need for the increase or decrease, or 
+        if the unit requests the increase or decrease, not later than 1 
+        year after the end of the payment period for which a payment 
+        was made.
+    ``(e) Reservation for Adjustment.--The Director may reserve a 
+percentage of not more than 2 percent of the amount under this section 
+for a payment period for all units of local government in a State if 
+the Director considers the reserve is necessary to ensure the 
+availability of sufficient amounts to pay adjustments after the final 
+allocation of amounts among the units of local government in the State.
+    ``(f) Repayment of Unexpended Amounts.--
+            ``(1) Repayment required.--A unit of local government shall 
+        repay to the Director, by not later than 27 months after 
+        receipt of funds from the Director, any amount that is--
+                    ``(A) paid to the unit from amounts appropriated 
+                under the authority of this section; and
+                    ``(B) not expended by the unit within 2 years after 
+                receipt of such funds from the Director.
+            ``(2) Penalty for failure to repay.--If the amount required 
+        to be repaid is not repaid, the Director shall reduce payment 
+        in future payment periods accordingly.
+            ``(3) Deposit of amounts repaid.--Amounts received by the 
+        Director as repayments under this subsection shall be deposited 
+        in a designated fund for future payments to units of local 
+        government.
+    ``(g) Nonsupplanting Requirement.--Funds made available under this 
+title to units of local government shall not be used to supplant State 
+or local funds, but shall be used to increase the amount of funds that 
+would, in the absence of funds made available under this title, be made 
+available from State or local sources.
+
+``SEC. 102. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``(a) Authorization of Appropriations.--There are authorized to be 
+appropriated from the Violent Crime Reduction Trust Fund to carry out 
+this title $1,130,000,000 for each of the fiscal years 1996, 1997, 
+1998, 1999, and 2000, to remain available until expended.
+    ``(b) Administrative Costs.--Not more than 2.5 percent of the 
+amount authorized to be appropriated under subsection (a) for each of 
+the fiscal years 1996 through 2000 shall be available to the Director 
+for administrative costs to carry out this title. Such sums shall 
+remain available until expended.
+
+``SEC. 103. QUALIFICATION FOR PAYMENT.
+
+    ``(a) In General.--The Director shall issue regulations 
+establishing procedures under which a unit of local government is 
+required to provide notice to the Director regarding the proposed use 
+of funds made available under this title.
+    ``(b) Program Review.--The Director shall establish a process for 
+the ongoing evaluation of projects developed with funds made available 
+under this title.
+    ``(c) General Requirements for Qualification.--A unit of local 
+government qualifies for a payment under this title for a payment 
+period only if the unit of local government submits an application to 
+the Director and establishes, to the satisfaction of the Director, 
+that--
+            ``(1) the unit of local government has established a local 
+        advisory board that--
+                    ``(A) includes a representative from--
+                            ``(i) the local police department or local 
+                        sheriff's department;
+                            ``(ii) the local prosecutor's office;
+                            ``(iii) the local court system;
+                            ``(iv) the local public school system; and
+                            ``(v) a local nonprofit, educational, 
+                        religious, or community group active in crime 
+                        prevention or drug use prevention or treatment;
+                    ``(B) has reviewed the application; and
+                    ``(C) is designated to make nonbinding 
+                recommendations to the unit of local government for the 
+                use of funds received under this title;
+            ``(2) the chief executive officer of the State has had not 
+        less than 45 days to review and comment on the application 
+        prior to submission to the Director;
+            ``(3) the unit of local government will establish a trust 
+        fund in which the government will deposit all payments received 
+        under this title;
+            ``(4) the unit of local government will use amounts in the 
+        trust fund (including interest) during a period not to exceed 2 
+        years from the date the first grant payment is made to the unit 
+        of local government;
+            ``(5) the unit of local government will expend the payments 
+        received in accordance with the laws and procedures that are 
+        applicable to the expenditure of revenues of the unit of local 
+        government;
+            ``(6) the unit of local government will use accounting, 
+        audit, and fiscal procedures that conform to guidelines which 
+        shall be prescribed by the Director after consultation with the 
+        Comptroller General and as applicable, amounts received under 
+        this title shall be audited in compliance with the Single Audit 
+        Act of 1984;
+            ``(7) after reasonable notice from the Director or the 
+        Comptroller General to the unit of local government, the unit 
+        of local government will make available to the Director and the 
+        Comptroller General, with the right to inspect, records that 
+        the Director reasonably requires to review compliance with this 
+        title or that the Comptroller General reasonably requires to 
+        review compliance and operation;
+            ``(8) a designated official of the unit of local government 
+        shall make reports the Director reasonably requires, in 
+        addition to the annual reports required under this title; and
+            ``(9) the unit of local government will spend the funds 
+        made available under this title only for the purposes set forth 
+        in section 101(a)(2).
+    ``(d) Sanctions for Noncompliance.--
+            ``(1) In general.--If the Director determines that a unit 
+        of local government has not complied substantially with the 
+        requirements or regulations prescribed under subsections (a) 
+        and (c), the Director shall notify the unit of local government 
+        that if the unit of local government does not take corrective 
+        action within 60 days of such notice, the Director will 
+        withhold additional payments to the unit of local government 
+        for the current and future payment periods until the Director 
+        is satisfied that the unit of local government--
+                    ``(A) has taken the appropriate corrective action; 
+                and
+                    ``(B) will comply with the requirements and 
+                regulations prescribed under subsections (a) and (c).
+            ``(2) Notice.--Before giving notice under paragraph (1), 
+        the Director shall give the chief executive officer of the unit 
+        of local government reasonable notice and an opportunity for 
+        comment.
+
+``SEC. 104. ALLOCATION AND DISTRIBUTION OF FUNDS.
+
+    ``(a) State Set-Aside.--
+            ``(1) In general.--Of the total amounts appropriated for 
+        this title for each payment period, the Director shall allocate 
+        for units of local government in each State an amount that 
+        bears the same ratio to such total as the average annual number 
+        of part 1 violent crimes reported by such State to the Federal 
+        Bureau of Investigation for the 3 most recent calendar years 
+        for which such data is available, bears to the number of part 1 
+        violent crimes reported by all States to the Federal Bureau of 
+        Investigation for such years.
+            ``(2) Minimum requirement.--Each State shall receive not 
+        less than .25 percent of the total amounts appropriated under 
+        section 102 under this subsection for each payment period.
+            ``(3) Proportional reduction.--If amounts available to 
+        carry out paragraph (2) for any payment period are insufficient 
+        to pay in full the total payment that any State is otherwise 
+        eligible to receive under paragraph (1) for such period, then 
+        the Director shall reduce payments under paragraph (1) for such 
+        payment period to the extent of such insufficiency. Reductions 
+        under the preceding sentence shall be allocated among the 
+        States (other than States whose payment is determined under 
+        paragraph (2)) in the same proportions as amounts would be 
+        allocated under paragraph (1) without regard to paragraph (2).
+    ``(b) Local Distribution.--
+            ``(1) In general.--From the amount reserved for each State 
+        under subsection (a), the Director shall allocate--
+                    ``(A) among reporting units of local government the 
+                reporting units' share of such reserved amount; and
+                    ``(B) among nonreporting units of local government 
+                the nonreporting units' share of the reserved amount.
+            ``(2) Amounts.--
+                    ``(A) The reporting units' share of the reserved 
+                amount is the amount equal to the product of such 
+                reserved amount multiplied by the percentage which the 
+                population living in reporting units of local 
+                government in the State bears to the population of all 
+                units of local government in the State.
+                    ``(B) The nonreporting units' share of the reserved 
+                amount is the reserved amount reduced by the reporting 
+                units' share of the reserved amount.
+            ``(3) Allocation to each reporting unit.--From the 
+        reporting units' share of the reserved amount for each State 
+        under subsection (a), the Director shall allocate to each 
+        reporting unit of local government an amount which bears the 
+        same ratio to such share as the average annual number of part 1 
+        violent crimes reported by such unit to the Federal Bureau of 
+        Investigation for the 3 most recent calendar years for which 
+        such data is available bears to the number of part 1 violent 
+        crimes reported by all units of local government in the State 
+        in which the unit is located to the Federal Bureau of 
+        Investigation for such years.
+            ``(4) Allocation to each nonreporting unit.--From the 
+        nonreporting units' share of the reserved amount for each State 
+        under subsection (a), the Director shall allocate to each 
+        nonreporting unit of local government an amount which bears the 
+        same ratio to such share as the average number of part 1 
+        violent crimes of like governmental units in the same 
+        population class as such unit bears to the average annual 
+        imputed number of part 1 violent crimes of all nonreporting 
+        units in the State for the 3 most recent calendar years.
+            ``(5) Limitation on allocations.--A unit of local 
+        government shall not receive an allocation which exceeds 100 
+        percent of such unit's expenditures on law enforcement services 
+        as reported by the Bureau of the Census for the most recent 
+        fiscal year. Any amount in excess of 100 percent of such unit's 
+        expenditures on law enforcement services shall be distributed 
+        proportionally among units of local government whose allocation 
+        does not exceed 100 percent of expenditures on law enforcement 
+        services.
+            ``(6) Definitions.--For purposes of this subsection--
+                    ``(A) The term `reporting unit of local government' 
+                means any unit of local government that reported part 1 
+                violent crimes to the Federal Bureau of Investigation 
+                for the 3 most recent calendar years for which such 
+                data is available.
+                    ``(B) The term `nonreporting unit of local 
+                government' means any unit of local government that is 
+                not a reporting unit of local government.
+                    ``(C)(i) The term `like governmental units' means 
+                any like unit of local government as defined by the 
+                Secretary of Commerce for general statistical purposes, 
+                and means--
+                            ``(I) all counties are treated as like 
+                        governmental units;
+                            ``(II) all cities are treated as like 
+                        governmental units;
+                            ``(III) all townships are treated as like 
+                        governmental units.
+                    ``(ii) Similar rules shall apply to other types of 
+                governmental units.
+                    ``(D) The term `same population class' means a like 
+                unit within the same population category as another 
+                like unit with the categories determined as follows:
+                            ``(i) 0 through 9,999.
+                            ``(ii) 10,000 through 49,999.
+                            ``(iii) 50,000 through 149,999.
+                            ``(iv) 150,000 through 299,999.
+                            ``(v) 300,000 or more.
+            ``(7) Local governments with allocations of less than 
+        $10,000.--If under paragraph (3) or (4) a unit of local 
+        government is allotted less than $10,000 for the payment 
+        period, the amount allotted shall be transferred to the chief 
+        executive officer of the State who shall distribute such funds 
+        among units of local government whose allotment is less than 
+        such amount in a manner which reduces crime and improves public 
+        safety.
+            ``(8) Special rules.--
+                    ``(A) If a unit of local government in a State that 
+                has been incorporated since the date of the collection 
+                of the data used by the Director in making allocations 
+                pursuant to this section, such unit shall be treated as 
+                a nonreporting unit of local government for purposes of 
+                this subsection.
+                    ``(B) If a unit of local government in the State 
+                has been annexed since the date of the collection of 
+                the data used by the Director in making allocations 
+                pursuant to this section, the Director shall pay the 
+                amount that would have been allocated to such unit of 
+                local government to the unit of local government that 
+                annexed it.
+    ``(c) Unavailability of Information.--For purposes of this section, 
+if data regarding part 1 violent crimes in any State for the 3 most 
+recent calendar years is unavailable or substantially inaccurate, the 
+Director shall utilize the best available comparable data regarding the 
+number of violent crimes for such years for such State for the purposes 
+of allocation of any funds under this title.
+
+``SEC. 105. UTILIZATION OF PRIVATE SECTOR.
+
+    ``Funds or a portion of funds allocated under this title may be 
+utilized to contract with private, nonprofit entities or community-
+based organizations to carry out the purposes specified under section 
+101(a)(2).
+
+``SEC. 106. PUBLIC PARTICIPATION.
+
+    ``(a) In General.--A unit of local government expending payments 
+under this title shall hold not less than 1 public hearing on the 
+proposed use of the payment from the Director in relation to its entire 
+budget.
+    ``(b) Views.--At the hearing, persons shall be given an opportunity 
+to provide written and oral views to the unit of local government 
+authority responsible for enacting the budget and to ask questions 
+about the entire budget and the relation of the payment from the 
+Director to the entire budget.
+    ``(c) Time and Place.--The unit of local government shall hold the 
+hearing at a time and place that allows and encourages public 
+attendance and participation.
+
+``SEC. 107. ADMINISTRATIVE PROVISIONS.
+
+    ``The administrative provisions of part H of the Omnibus Crime 
+Control and Safe Streets Act of 1968, shall apply to this title and for 
+purposes of this section any reference in such provisions to title I of 
+the Omnibus Crime Control and Safe Streets Act of 1968 shall be deemed 
+to be a reference to this title.
+
+``SEC. 108. DEFINITIONS.
+
+    ``For the purposes of this title:
+            ``(1) The term `unit of local government' means--
+                    ``(A) a county, township, city, or political 
+                subdivision of a county, township, or city, that is a 
+                unit of local government as determined by
+                 the Secretary of Commerce for general statistical 
+purposes; and
+                    ``(B) the District of Columbia and the recognized 
+                governing body of an Indian tribe or Alaska Native 
+                village that carries out substantial governmental 
+                duties and powers.
+            ``(2) The term `payment period' means each 1-year period 
+        beginning on October 1 of any year in which a grant under this 
+        title is awarded.
+            ``(3) The term `State' means any State of the United 
+        States, the District of Columbia, the Commonwealth of Puerto 
+        Rico, the Virgin Islands, American Samoa, Guam, and the 
+        Northern Mariana Islands, except that American Samoa, Guam, and 
+        the Northern Mariana Islands shall be considered as 1 State and 
+        that, for purposes of section 104(a), 33 percent of the amounts 
+        allocated shall be allocated to American Samoa, 50 percent to 
+        Guam, and 17 percent to the Northern Mariana Islands.
+            ``(4) The term `juvenile' means an individual who is 17 
+        years of age or younger.
+            ``(5) The term `part 1 violent crimes' means murder and 
+        nonnegligent manslaughter, forcible rape, robbery, and 
+        aggravated assault as reported to the Federal Bureau of 
+        Investigation for purposes of the Uniform Crime Reports.
+            ``(6) The term `Director' means the Director of the Bureau 
+        of Justice Assistance.''.
+    (b) Conforming Amendments.--
+            (1) Ounce of prevention council.--
+                    (A) In general.--Subtitle A of title III of the 
+                Violent Crime Control and Law Enforcement Act of 1994 
+                is repealed.
+                    (B) Funding.--Notwithstanding subparagraph (A), any 
+                funds that remain available to an applicant under 
+                subtitle A of title III of the Violent Crime Control 
+                and Law Enforcement Act of 1994 on the date of 
+                enactment of this Act shall be used in accordance with 
+                such subtitle as in effect on the day preceding the 
+                date of enactment of this Act.
+            (2) Local crime prevention block grant program.--Subtitle B 
+        of title III of the Violent Crime Control and Law Enforcement 
+        Act of 1994 is repealed.
+            (3) Model intensive block grant programs.--Subtitle C of 
+        title III of the Violent Crime Control and Law Enforcement Act 
+        of 1994 is repealed.
+            (4) Family and community endeavor schools grant program.--
+                    (A) In general.--Subtitle D of title III of the 
+                Violent Crime Control and Law Enforcement Act of 1994 
+                is repealed.
+                    (B) Funding.--Notwithstanding subparagraph (A), any 
+                funds that remain available to an applicant under 
+                subtitle D of title III of the Violent Crime Control 
+                and Law Enforcement Act of 1994 on the date of 
+                enactment of this Act shall be used in accordance with 
+                such subtitle as in effect on the day preceding the 
+                date of enactment of this Act.
+            (5) Assistance for delinquent and at-risk youth.--Subtitle 
+        G of title III of the Violent Crime Control and Law Enforcement 
+        Act of 1994 is repealed.
+            (6) Police retirement.--Subtitle H of title III of the 
+        Violent Crime Control and Law Enforcement Act of 1994 is 
+        repealed.
+            (7) Local partnership act.--
+                    (A) Subtitle j.--Subtitle J of title III of the 
+                Violent Crime Control and Law Enforcement Act of 1994 
+                is repealed.
+                    (B) Federal payments.--Chapter 67 of title 31, 
+                United States Code is repealed.
+                    (C) Table of chapters.--The table of chapters at 
+                the beginning of subtitle V of title 31, United States 
+                Code, is amended by striking the matter relating to 
+                chapter 67.
+                    (D) Funding.--Notwithstanding subparagraph (B), any 
+                funds that remain available to an applicant under 
+                chapter 67 of title 31, United States Code, on the date 
+                of enactment of this Act shall be used in accordance 
+                with such chapter as in effect on the day preceding the 
+                date of enactment of this Act.
+            (8) National community economic partnership.--Subtitle K of 
+        title III of the Violent Crime Control and Law Enforcement Act 
+        of 1994 is repealed.
+            (9) Urban recreation and at-risk youth.--
+                    (A) Recreation.--Subtitle O of title III of the 
+                Violent Crime Control and Law Enforcement Act of 1994 
+                is repealed.
+                    (B) Urban park and recreation recovery.--The Urban 
+                Park and Recreation Recovery Act of 1978 (16 U.S.C. 
+                2501 et seq.) is amended--
+                            (i) in section 1004--
+                                    (I) by striking subsection (d); and
+                                    (II) by redesignating subsections 
+                                (e) through (k) as subsection (d) 
+                                through (j), respectively;
+                            (ii) in section 1005(c)--
+                                    (I) by inserting ``and'' at the end 
+                                of paragraph (6);
+                                    (II) in paragraph (7), by striking 
+                                ``; and'' and inserting a period; and
+                                    (III) by striking paragraph (8);
+                            (iii) in section 1007(b), by striking the 
+                        last 2 sentences; and
+                            (iv) in section 1013--
+                                    (I) by striking ``(a) In General.--
+                                ''; and
+                                    (II) by striking subsection (b).
+    (c) Community-Based Justice Grants for Prosecutors.--Subtitle Q of 
+title III of the Violent Crime Control and Law Enforcement Act of 1994 
+is repealed.
+    (d) Family Unity Demonstration Project.--Subtitle S of title III of 
+the Violent Crime Control and Law Enforcement Act of 1994 is repealed.
+    (e) Gang Resistance and Education Training.--(1) Subtitle X of 
+title III of the Violent Crime Control and Law Enforcement Act of 1994 
+is repealed.
+    (2) Notwithstanding paragraph (1), any funds that remain available 
+to an applicant under subtitle X of title III of the Violent Crime 
+Control and Law Enforcement Act of 1994 on the date of enactment of 
+this Act shall be used in accordance with such subtitle as in effect on 
+the day preceding the date of enactment of this Act.
+    (f) Clerical Amendments.--
+            (1) The matter relating to title I in the table of contents 
+        of the Violent Crime Control and Law Enforcement Act of 1994 is 
+        amended to read as follows:
+                ``TITLE I--LAW ENFORCEMENT BLOCK GRANTS
+
+``Sec. 101. Payments to local governments.
+``Sec. 102. Authorization of appropriations.
+``Sec. 103. Qualification for payment.
+``Sec. 104. Allocation and distribution of funds.
+``Sec. 105. Utilization of private sector.
+``Sec. 106. Public participation.
+``Sec. 107. Administrative provisions.
+``Sec. 108. Definitions.''.
+            (2) The table of contents of the Violent Crime Control and 
+        Law Enforcement Act of 1994 is amended by striking the matter 
+        relating to subtitles A, B, C, D, G, H, J, K, O, Q, S, and X of 
+        title III.
+                          TITLE IV--TECHNOLOGY
+
+SEC. 401. FUNDING FOR DNA IDENTIFICATION.
+
+    Section 1001(a)(22) of the Omnibus Crime Control and Safe Streets 
+Act of 1968 (42 U.S.C. 3793(a)(22)) is amended to read as follows:
+    ``(22) There are authorized to be appropriated to carry out part 
+X--
+            ``(A) $8,000,000 for fiscal year 1996;
+            ``(B) $12,000,000 for fiscal year 1997;
+            ``(C) $10,000,000 for fiscal year 1998;
+            ``(D) $6,000,000 for fiscal year 1999; and
+            ``(E) $4,000,000 for fiscal year 2000.''.
+
+SEC. 402. STATE COMPATIBILITY WITH FEDERAL BUREAU OF INVESTIGATION 
+              SYSTEMS.
+
+    (a) Grant Authorization.--
+            (1) In general.--The Attorney General shall make funds 
+        available to the chief executive officer of each State to carry 
+        out the activities described in paragraph (2).
+            (2) Uses.--The executive officer of each State shall use 
+        the funds made available under this section in conjunction with 
+        units of local government, other States, or combinations 
+        thereof, to carry out all or part of a program to establish, 
+        develop, update, or upgrade--
+                    (A) computerized identification systems that are 
+                compatible and integrated with the databases of the 
+                National Crime Information Center of the Federal Bureau 
+                of Investigation;
+                    (B) ballistics identification programs that are 
+                compatible and integrated with the Drugfire Program of 
+                the Federal Bureau of Investigation;
+                    (C) the capability to analyze deoxyribonucleic acid 
+                (DNA) in a forensic laboratory in ways that are 
+                compatible and integrated with the combined DNA 
+                Identification System (CODIS) of the Federal Bureau of 
+                Investigation; and
+                    (D) automated fingerprint identification systems 
+                that are compatible and integrated with the Integrated 
+                Automated Fingerprint Identification System (IAFIS) of 
+                the Federal Bureau of Investigation.
+    (b) Eligibility.--To be eligible to receive a grant under this 
+section, a State shall require that each person convicted of a felony 
+of a sexual nature shall provide a sample of blood, saliva, or other 
+specimen necessary to conduct a DNA analysis consistent with the 
+standards established for DNA testing by the Director of the Federal 
+Bureau of Investigation.
+    (c) Interstate Compacts.--A State may enter into a compact or 
+compacts with another State or States to carry out this section.
+    (d) Allocation.--The Attorney General shall allocate the funds made 
+available pursuant to subsection (d) to each State based on the 
+population of the State as reported in the most recent decennial census 
+of the population.
+    (e) Authorization of Appropriations.--There are authorized to be 
+appropriated from the Violent Crime Reduction Trust Fund to carry out 
+this section--
+            (1) $200,000,000 in fiscal year 1996;
+            (2) $200,000,000 in fiscal year 1997;
+            (3) $250,000,000 in fiscal year 1998;
+            (4) $250,000,000 in fiscal year 1999; and
+            (5) $100,000,000 in fiscal year 2000.
+
+SEC. 403. FUNDING FOR DRUGFIRE.
+
+    There are authorized to be appropriated $2,050,000 for fiscal year 
+1995 to carry out the Drugfire Program of the Federal Bureau of 
+Investigation established under section 210501(a)(2)(D) of the Violent 
+Crime Control and Law Enforcement Act of 1994.
+SEC. 404. FUNDING FOR THE FBI DNA SYSTEM COVERING FEDERAL CRIMES AND 
+              CRIME COMMITTED IN THE DISTRICT OF COLUMBIA.
+
+    (a) Expansion of System.--The Director of the Federal Bureau of 
+Investigation shall expand the Combined DNA Identification System 
+(CODIS) to include Federal crimes and crimes committed in the District 
+of Columbia.
+    (b) Authorization of Appropriations.--There are authorized to be 
+appropriated from the Violent Crime Reduction Trust Fund to carry out 
+this section--
+            (1) $8,500,000 for fiscal year 1996;
+            (2) $1,600,000 for fiscal year 1997;
+            (3) $1,600,000 for fiscal year 1998;
+            (4) $1,600,000 for fiscal year 1999; and
+            (5) $1,600,000 for fiscal year 2000.
+
+                          TITLE V--TRIGGERLOCK
+
+SEC. 501. CONGRESSIONAL OVERSIGHT.
+
+    (a) Report to Attorney General.--Not later than 90 days after the 
+date of the enactment of this Act, the Attorney General shall require 
+each United States Attorney to--
+            (1) establish an armed violent criminal apprehension task 
+        force comprised of appropriate law enforcement representatives 
+        which shall be responsible for developing strategies for 
+        removing armed violent criminals from the streets; and
+            (2) not less frequently than monthly, report to the 
+        Attorney General on the number of defendants charged with, or 
+        convicted of, violating section 922(g) or 924 of title 18, 
+        United States Code, in the district for which the United States 
+        Attorney is appointed.
+    (b) Report to Congress.--The Attorney General shall prepare and 
+submit a report to Congress every 6 months detailing the contents of 
+the reports submitted pursuant to subsection (a).
+
+SEC. 502. PRETRIAL DETENTION FOR POSSESSION OF FIREARMS OR EXPLOSIVES 
+              BY CONVICTED FELONS.
+
+    Section 3156(a)(4) of title 18, United States Code, is amended--
+            (1) by striking ``or'' at the end of subparagraph (B);
+            (2) by striking the period at the end of subparagraph (C) 
+        and inserting ``; or''; and
+            (3) by adding after subparagraph (C) the following new 
+        subparagraph:
+                    ``(D) an offense that is a violation of section 
+                842(i) or 922(g) (relating to possession of explosives 
+                or firearms by convicted felons).''.
+
+SEC. 503. CONFORMING SCIENTER CHANGE FOR TRANSFERRING A FIREARM TO 
+              COMMIT A CRIME OF VIOLENCE.
+
+    Section 924(h) of title 18, United States Code, is amended by 
+inserting ``or having reasonable cause to believe'' after ``knowing''.
+
+SEC. 504. FIREARMS POSSESSION BY VIOLENT FELONS AND SERIOUS DRUG 
+              OFFENDERS.
+
+    Section 924(a)(2) of title 18, United States Code, is amended--
+            (1) by striking ``(2) Whoever'' and inserting ``(2)(A) 
+        Subject to subparagraphs (B) and (C), whoever'';
+    (2) by adding at the end the following:
+    ``(B) If the violation is of section 922(g)(1) by a person who has 
+a previous conviction for a violent felony (as defined in subsection 
+(e)(2)(B)) or a serious drug offense (as defined in subsection 
+(a)(2)(A)), a sentence imposed under this paragraph shall include a 
+term of imprisonment of not less than 5 years.
+    ``(C)(i) Notwithstanding subparagraph (B), if the violation is of 
+section 922(g)(1) by a person who has more
+ than 1 previous conviction for a violent felony or a serious drug 
+offense, committed under different circumstances, such person shall be 
+fined under this title, imprisoned not less than 10 years and not more 
+than 20 years, or both.
+    ``(ii) Notwithstanding any other provision of law, the court shall 
+not grant a probationary sentence to a person described in clause (i) 
+with respect to the conviction under section 922(g).''.
+
+                 TITLE VI--EQUAL PROTECTION FOR VICTIMS
+
+SEC. 601. RIGHT OF VICTIMS TO RESTITUTION.
+
+    (a) Order of Restitution.--Section 3663 of title 18, United States 
+Code, is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1)--
+                            (i) by striking ``may order, in addition to 
+                        or, in the case of a misdemeanor, in lieu of 
+                        any other penalty authorized by law,'' and 
+                        inserting ``shall order''; and
+                            (ii) by adding at the end the following: 
+                        ``This paragraph does not affect the power of 
+                        the court to impose any other penalty 
+                        authorized by law. In the case of a 
+                        misdemeanor, the court may impose restitution 
+                        in lieu of any other penalty authorized by 
+                        law.'';
+                    (B) by adding at the end the following new 
+                paragraph:
+    ``(4) In addition to ordering restitution to the victim of the 
+offense for which a defendant is convicted, a court may order 
+restitution to any person who, as shown by a preponderance of evidence, 
+was harmed physically, emotionally, or pecuniarily, by unlawful conduct 
+of the defendant during--
+            ``(A) the criminal episode during which the offense 
+        occurred;
+            ``(B) the course of a scheme, conspiracy, or pattern of 
+        unlawful activity related to the offense.'';
+            (2) in subsection (b)(1)(B) by striking ``impractical'' and 
+        inserting ``impracticable'';
+            (3) in subsection (b)(2) by inserting ``emotional or'' 
+        after ``resulting in'';
+            (4) in subsection (c) by striking ``If the court decides to 
+        order restitution under this section, the'' and inserting 
+        ``The'';
+            (5) by striking subsections (d), (e), (f), (g), and (h);
+            (6) by redesignating subsection (i) as subsection (m); and
+            (7) by inserting after subsection (c) the following:
+    ``(d)(1) The court shall order restitution to a victim in the full 
+amount of the victim's losses as determined by the court and without 
+consideration of--
+            ``(A) the economic circumstances of the offender; or
+            ``(B) the fact that a victim has received or is entitled to 
+        receive compensation with respect to a loss from insurance or 
+        any other source.
+    ``(2) Upon determination of the amount of restitution owed to each 
+victim, the court shall specify in the restitution order the manner in 
+which and the schedule according to which the restitution is to be 
+paid, in consideration of--
+            ``(A) the financial resources and other assets of the 
+        offender;
+            ``(B) projected earnings and other income of the offender; 
+        and
+            ``(C) any financial obligations of the offender, including 
+        obligations to dependents.
+    ``(3) A restitution order may direct the offender to make a single, 
+lump-sum payment, partial payment at specified intervals, or such in-
+kind payments as may be agreeable to the victim and the offender. A 
+restitution order shall direct the offender to give appropriate notice
+ to victims and other persons in cases where there are multiple victims 
+or other persons who may receive restitution, and where the identity of 
+such victims and other persons can be reasonably determined.
+    ``(4) An in-kind payment described in paragraph (3) may be in the 
+form of--
+            ``(A) return of property;
+            ``(B) replacement of property; or
+            ``(C) services rendered to the victim or to a person or 
+        organization other than the victim.
+    ``(e) When the court finds that more than 1 offender has 
+contributed to the loss of a victim, the court may make each offender 
+liable for payment of the full amount of restitution or may apportion 
+liability among the offenders to reflect the level of contribution and 
+economic circumstances of each offender.
+    ``(f) When the court finds that more than 1 victim has sustained a 
+loss requiring restitution by an offender, the court shall order full 
+restitution to each victim but may provide for different payment 
+schedules to reflect the economic circumstances of each victim.
+    ``(g)(1) If the victim has received or is entitled to receive 
+compensation with respect to a loss from insurance or any other source, 
+the court shall order that restitution be paid to the person who 
+provided or is obligated to provide the compensation, but the 
+restitution order shall provide that all restitution to victims 
+required by the order be paid to the victims before any restitution is 
+paid to such a provider of compensation.
+    ``(2) The issuance of a restitution order shall not affect the 
+entitlement of a victim to receive compensation with respect to a loss 
+from insurance or any other source until the payments actually received 
+by the victim under the restitution order fully compensate the victim 
+for the loss, at which time a person that has provided compensation to 
+the victim shall be entitled to receive any payments remaining to be 
+paid under the restitution order.
+    ``(3) Any amount paid to a victim under an order of restitution 
+shall be set off against any amount later recovered as compensatory 
+damages by the victim in--
+            ``(A) any Federal civil proceeding; and
+            ``(B) any State civil proceeding, to the extent provided by 
+        the law of the State.
+    ``(h) A restitution order shall provide that--
+            ``(1) all fines, penalties, costs, restitution payments and 
+        other forms of transfers of money or property made pursuant to 
+        the sentence of the court shall be made by the offender to an 
+        entity designated by the Director of the Administrative Office 
+        of the United States Courts for accounting and payment by the 
+        entity in accordance with this subsection;
+            ``(2) the entity designated by the Director of the 
+        Administrative Office of the United States Courts shall--
+                    ``(A) log all transfers in a manner that tracks the 
+                offender's obligations and the current status in 
+                meeting those obligations, unless, after efforts have 
+                been made to enforce the restitution order and it 
+                appears that compliance cannot be obtained, the court 
+                determines that continued recordkeeping under this 
+                subparagraph would not be useful; and
+                    ``(B) notify the court and the interested parties 
+                when an offender is 30 days in arrears in meeting those 
+                obligations; and
+            ``(3) the offender shall advise the entity designated by 
+        the Director of the Administrative Office of the United States 
+        Courts of any change in the offender's address during the term 
+        of the restitution order.
+    ``(i) A restitution order shall constitute a lien against all 
+property of the offender and may be recorded in any Federal or State 
+office for the recording of liens against real or personal property.
+    ``(j) Compliance with the schedule of payment and other terms of a 
+restitution order shall be a condition of any probation, parole, or 
+other form of release of an offender. If a defendant fails to comply 
+with a restitution order, the court may revoke probation or a term of 
+supervised release, modify the term or conditions of probation or a 
+term of supervised release, hold the defendant in contempt of court, 
+enter a restraining order or injunction, order the sale of property of 
+the defendant, accept a performance bond, or take any other action 
+necessary to obtain compliance with the restitution order. In 
+determining what action to take, the court shall consider the 
+defendant's employment status, earning ability, financial resources, 
+the willfulness in failing to comply with the restitution order, and 
+any other circumstances that may have a bearing on the defendant's 
+ability to comply with the restitution order.
+    ``(k) An order of restitution may be enforced--
+            ``(1) by the United States--
+                    ``(A) in the manner provided for the collection and 
+                payment of fines in subchapter B of chapter 229 of this 
+                title; or
+                    ``(B) in the same manner as a judgment in a civil 
+                action; and
+            ``(2) by a victim named in the order to receive the 
+        restitution, in the same manner as a judgment in a civil 
+        action.
+    ``(l) A victim or the offender may petition the court at any time 
+to modify a restitution order as appropriate in view of a change in the 
+economic circumstances of the offender.''.
+    (b) Procedure for Issuing Order of Restitution.--Section 3664 of 
+title 18, United States Code, is amended--
+            (1) by striking subsection (a);
+            (2) by redesignating subsections (b), (c), (d), and (e) as 
+        subsections (a), (b), (c), and (d), respectively;
+            (3) by amending subsection (a), as redesignated by 
+        paragraph (2), to read as follows:
+    ``(a) The court may order the probation service of the court to 
+obtain information pertaining to the amount of loss sustained by any 
+victim as a result of the offense, the financial resources of the 
+defendant, the financial needs and earning ability of the defendant and 
+the defendant's dependents, and such other factors as the court deems 
+appropriate. The probation service of the court shall include the 
+information collected in the report of presentence investigation or in 
+a separate report, as the court directs.''; and
+            (4) by adding at the end the following new subsection:
+    ``(e) The court may refer any issue arising in connection with a 
+proposed order of restitution to a magistrate or special master for 
+proposed findings of fact and recommendations as to disposition, 
+subject to a de novo determination of the issue by the court.''.
+
+SEC. 602. RIGHT OF VICTIM TO AN IMPARTIAL JURY.
+
+    Rule 24(b) of the Federal Rules of Criminal Procedure is amended by 
+striking ``the government is entitled to 6 peremptory challenges and 
+the defendant or defendants jointly to 10 peremptory challenges'' and 
+inserting ``each side is entitled to 6 peremptory challenges''.
+
+SEC. 603. REBUTTAL OF ATTACKS ON THE VICTIM'S CHARACTER.
+
+    Rule 404(a)(1) of the Federal Rules of Evidence is amended by 
+inserting before the semicolon the following: ``, or, if an accused 
+offers evidence of a pertinent trait of character of the victim of the 
+crime, evidence of a pertinent trait of character of the accused 
+offered by the prosecution.''.
+SEC. 604. RULES OF PROCEDURE AND EVIDENCE; METHOD OF PRESCRIBING.
+
+    Section 2073 of title 28, United States Code, is amended--
+            (1) in subsection (a)(2), by adding at the end the 
+        following: ``On each such committee that makes recommendations 
+        concerning rules that affect criminal cases, including the 
+        Federal Rules of Criminal Procedure, the Federal Rules of 
+        Evidence, the Federal Rules of Appellate Procedure, the Rules 
+        Governing Section 2254 Cases, and the Rules Governing Section 
+        2255 Cases, the number of members who represent or supervise 
+        the representation of defendants in the trial, direct review, 
+        or collateral review of criminal cases shall not exceed the 
+        number of members who represent or supervise the representation 
+        of the Government or a State in the trial, direct review, or 
+        collateral review of criminal cases.''; and
+            (2) in subsection (b), by adding at the end the following: 
+        ``The number of members of the standing committee who represent 
+        or supervise the representation of defendants in the trial, 
+        direct review, or collateral review of criminal cases shall not 
+        exceed the number of members who represent or supervise the 
+        representation of the Government or a State in the trial, 
+        direct review, or collateral review of criminal cases.''.
+
+SEC. 605. HIV TESTING OF DEFENDANTS IN SEXUAL ASSAULT CASES.
+
+    (a) In General.--Chapter 109A of title 18, United States Code, is 
+amended by adding at the end the following new section:
+``Sec. 2249. Testing for human immunodeficiency virus; disclosure of 
+              test results to victim; effect on penalty
+    ``(a) Testing at Time of Pretrial Release Determination.--In a case 
+in which a person is charged with an offense under this chapter, a 
+judicial officer issuing an order pursuant to section 3142(a) shall 
+include in the order a requirement that a test for the human 
+immunodeficiency virus be performed upon the person, and that followup 
+tests for the virus be performed 6 months and 12 months following the 
+date of the initial test, unless the judicial officer determines that 
+the conduct of the person created no risk of transmission of the virus 
+to the victim, and so states in the order. The order shall direct that 
+the initial test be performed within 24 hours, or as soon thereafter as 
+feasible after the order is issued. The person shall not be released 
+from custody until the test is performed.
+    ``(b) Testing at Later Time.--If a person charged with an offense 
+under this chapter was not tested for the human immunodeficiency virus 
+pursuant to subsection (a), the court may at a later time direct that 
+such a test be performed upon the person, and that followup tests be 
+performed 6 months and 12 months following the date of the initial 
+test, if it appears to the court that the conduct of the person may 
+have risked transmission of the virus to the victim. A testing 
+requirement under this subsection may be imposed at any time while the 
+charge is pending, or following conviction at any time prior to the 
+person's completion of service of the sentence.
+    ``(c) Termination of Testing Requirement.--A requirement of 
+followup testing imposed under this section shall be canceled if any 
+test is positive for the virus or the person obtains an acquittal on, 
+or dismissal of, all charges under this chapter.
+    ``(d) Disclosure of Test Results.--The results of any test for the 
+human immunodeficiency virus performed pursuant to an order under this 
+section shall be provided to the judicial officer or court. The 
+judicial officer or court shall ensure that the results are disclosed 
+to the victim (or to the victim's parent or legal guardian, as 
+appropriate), the attorney for the government, and the person tested.
+    ``(e) Effect on Penalty.--The United States Sentencing Commission 
+shall amend existing guidelines for sentences for offenses under this 
+chapter to enhance the sentence if the offender knew or had reason to 
+know that the offender was infected with the human immunodeficiency 
+virus, except where the offender did not engage or attempt to engage in 
+conduct creating a risk of transmission of the virus to the victim.''.
+    (b) Clerical Amendment.--The table of sections for chapter 109A of 
+title 18, United States Code, is amended by inserting at the end the 
+following new item:
+
+``2249. Testing for human immunodeficiency virus; disclosure of test 
+                            results to victim; effect on penalty.''.
+    (c) Repeal of Superseded Provisions.--Subsection (b) of section 
+40503 of the Violent Crime Control and Law Enforcement Act of 1994 is 
+repealed.
+
+SEC. 606. CLARIFYING AMENDMENT TO EXTRATERRI- TORIAL CHILD PORNOGRAPHY 
+              OFFENSE.
+
+    Subsections (a) and (b) of section 2258 of title 18, United States 
+Code, are each amended by inserting ``by any means, including by 
+computer or mails,'' after ``imported''.
+                          TITLE VII--MILITARY
+
+SEC. 701. PROHIBITION ON ACCRUAL OF PAY AND ALLOWANCES BY MEMBERS OF 
+              THE ARMED FORCES WHO ARE CONFINED PENDING DISHONORABLE 
+              DISCHARGE.
+
+    (a) Revision of Prohibition.--
+            (1) In general.--Section 804 of title 37, United States 
+        Code, is amended to read as follows:
+``Sec. 804. Prohibition of accrual of pay and allowances during 
+              confinement pending dishonorable discharge
+    ``(a) Pay and Allowances Not To Accrue.--A member of the Armed 
+Forces sentenced by a court-martial to a dishonorable discharge is not 
+entitled to pay and allowances for any period during which the member 
+is in confinement after the adjournment of the court-martial that 
+adjudged the sentence.
+    ``(b) Restoration of Entitlement.--If a sentence of a member of the 
+Armed Forces to dishonorable discharge is disapproved, mitigated, 
+changed, or set aside by an official authorized to do so, the 
+prohibition in subsection (a) shall cease to apply to the member on the 
+basis of that sentence. In such cases, the member shall be entitled to 
+receive the pay and allowances retroactive to the date of the 
+sentence.''.
+            (2) Clerical amendment.--The item relating to section 804 
+        in the table of sections at the beginning of chapter 15 of such 
+        title is amended to read as follows:
+
+``804. Prohibition of accrual of pay and allowances during confinement 
+                            pending dishonorable discharge.''.
+    (b) Prospective Applicability.--The amendment made by subsection 
+(a)(1) shall not apply to pay periods beginning before the date of the 
+enactment of this Act.
+
+SEC. 702. CRIMINAL OFFENSES COMMITTED OUTSIDE THE UNITED STATES BY 
+              PERSONS ACCOM- PANYING THE ARMED FORCES.
+
+    (a) In General.--Title 18, United States Code, is amended by 
+inserting after chapter 211 the following new chapter:
+
+  ``CHAPTER 212--CRIMINAL OFFENSES COMMITTED OUTSIDE THE UNITED STATES
+
+``Sec.
+``3261. Criminal offenses committed by persons formerly serving with, 
+                            or presently employed by or accompanying, 
+                            the armed forces outside the United States.
+``3262. Delivery to authorities of foreign countries.
+``3263. Regulations.
+``3264. Definitions for chapter.
+``Sec. 3261. Criminal offenses committed by persons formerly serving 
+              with, or presently employed by or accompanying, the Armed 
+              Forces outside the United States
+    ``(a) Whoever, while serving with, employed by, or accompanying the 
+Armed Forces outside the United States, engages in conduct that would 
+constitute an offense punishable by imprisonment for more than 1 year 
+if the conduct had been engaged in within the special maritime and 
+territorial jurisdiction of the United States, shall be guilty of a 
+like offense and subject to a like punishment.
+    ``(b) Nothing contained in this chapter deprives courts-martial, 
+military commissions, provost courts, or other military tribunals of 
+concurrent jurisdiction with respect to offenders or offenses that by 
+statute or by the law of war may be tried by courts-martial, military 
+commissions, provost courts, or other military tribunals.
+    ``(c) No prosecution may be commenced under this section if a 
+foreign government, in accordance with jurisdiction recognized by the 
+United States, has prosecuted or is prosecuting such person for the 
+conduct constituting such offense, except upon the approval of the 
+Attorney General of the United States or the Deputy Attorney General of 
+the United States (or a person acting in either such capacity), which 
+function of approval shall not be delegated.
+    ``(d)(1) The Secretary of Defense may designate and authorize any 
+person serving in a law enforcement position in the Department of 
+Defense to arrest outside the United States any person described in 
+subsection (a) who there is probable cause to believe engaged in 
+conduct which constitutes a criminal offense under such subsection.
+    ``(2) A person arrested under paragraph (1) shall be released to 
+the custody of civilian law enforcement authorities of the United 
+States for removal to the United States for judicial proceedings in 
+relation to conduct referred to in such paragraph unless--
+            ``(A) such person is delivered to authorities of a foreign 
+        country under section 3262; or
+            ``(B) such person has had charges brought against him or 
+        her under chapter 47 of title 10 for such conduct.
+``Sec. 3262. Delivery to authorities of foreign countries
+    ``(a) Any person designated and authorized under section 3261(d) 
+may deliver a person described in section 3261(a) to the appropriate 
+authorities of a foreign country in which the person is alleged to have 
+engaged in conduct described in subsection (a) if--
+            ``(1) the appropriate authorities of that country request 
+        the delivery of the person to such country
+         for trial for such conduct as an offense under the laws of 
+that country; and
+            ``(2) the delivery of such person to that country is 
+        authorized by a treaty or other international agreement to 
+        which the United States is a party.
+    ``(b) The Secretary of Defense shall determine which officials of a 
+foreign country constitute appropriate authorities for the purpose of 
+this section.
+``Sec. 3263. Regulations
+    ``The Secretary of Defense shall issue regulations governing the 
+apprehension, detention, and removal of persons under this chapter. 
+Such regulations shall be uniform throughout the Department of Defense.
+``Sec. 3264. Definitions for chapter
+    ``As used in this chapter--
+            ``(1) a person is `employed by the Armed Forces outside the 
+        United States'--
+                    ``(A) if the person is employed as a civilian 
+                employee of a military department or of the Department 
+                of Defense, as a Department of Defense contractor, or 
+                as an employee of a Department of Defense contractor;
+                    ``(B) is present or residing outside the United 
+                States in connection with such employment; and
+                    ``(C) is not a national of the host nation;
+            ``(2) a person is `accompanying the Armed Forces outside 
+        the United States' if the person--
+                    ``(A) is a dependent of a member of the Armed 
+                Forces;
+                    ``(B) is a dependent of a civilian employee of a 
+                military department or of the Department of Defense; 
+                and
+                    ``(C) is residing with the member or civilian 
+                employee outside the United States.''.
+    (b) Clerical Amendment.--The table of chapters at the beginning of 
+part II of title 18, United States Code, is amended by inserting after 
+the item relating to chapter 211 the following:
+
+``212. Criminal Offenses Committed Outside the United States    3261''.
+                     TITLE VIII--EXCLUSIONARY RULE
+
+SEC. 801. ADMISSIBILITY OF CERTAIN EVIDENCE.
+
+    (a) In General.--Chapter 223 of title 18, United States Code, is 
+amended by adding at the end the following new section:
+``Sec. 3510. Admissibility of evidence obtained by search or seizure
+    ``(a) Evidence Obtained by Objectively Reasonable Search or 
+Seizure.--Evidence that is obtained as a result of a search or seizure 
+shall not be excluded in a proceeding in a court of the United States 
+on the ground that the search or seizure was in violation of the fourth 
+amendment to the Constitution of the United States if the search or 
+seizure was carried out in circumstances justifying an objectively 
+reasonable belief that it was in conformity with the fourth amendment. 
+The fact that evidence was obtained pursuant to, and within the scope 
+of, a warrant constitutes prima facie evidence of the existence of such 
+circumstances.
+    ``(b) Evidence Not Excludable by Statute or Rule.--
+            ``(1) Generally.--Evidence shall not be excluded in a 
+        proceeding in a court of the United States on the ground that 
+        it was obtained in violation of a statute, an administrative 
+        rule or regulation, or a rule of procedure unless exclusion is 
+        expressly authorized by statute or by a rule prescribed by the 
+        Supreme Court pursuant to statutory authority.
+            ``(2) Special rule relating to objectively reasonable 
+        searches and seizures.--Evidence that is otherwise excludable 
+        under paragraph (1) shall not be excluded if the search or 
+        seizure was carried out in circumstances justifying an 
+        objectively
+         reasonable belief that the search or seizure was in conformity 
+with the statute, administrative rule or regulation, or rule of 
+procedure.
+    ``(c) Rule of Construction.--This section shall not be construed to 
+require or authorize the exclusion of evidence in any proceeding.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 223 of title 18, United States Code, is amended by adding at 
+the end the following:
+
+``3510. Admissibility of evidence obtained by search or seizure.''.
+                     TITLE IX--HABEAS CORPUS REFORM
+
+SEC. 901. FILING DEADLINES.
+
+    Section 2244 of title 28, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(d)(1) A 1-year period of limitation shall apply to an 
+application for a writ of habeas corpus by a person in custody pursuant 
+to the judgment of a State court. The limitation period shall run from 
+the latest of--
+            ``(A) the date on which the judgment became final by the 
+        conclusion of direct review or the expiration of the time for 
+        seeking such review;
+            ``(B) the date on which the impediment to filing an 
+        application created by State action in violation of the 
+        Constitution or laws of the United States is removed, if the 
+        applicant was prevented from filing by such State action;
+            ``(C) the date on which the constitutional right asserted 
+        was initially recognized by the Supreme Court, if the right has 
+        been newly recognized by the Supreme Court and is made 
+        retroactively applicable; or
+            ``(D) the date on which the factual predicate of the claim 
+        or claims presented could have been discovered through the 
+        exercise of due diligence.
+    ``(2) The time during which a properly filed application for State 
+post-conviction or other collateral review with respect to the 
+pertinent judgment or claim shall not be counted toward any period of 
+limitation under this subsection.''.
+
+SEC. 902. APPEAL.
+
+    Section 2253 of title 28, United States Code, is amended to read as 
+follows:
+``Sec. 2253. Appeal
+    ``(a) In a habeas corpus proceeding or a proceeding under section 
+2255 before a district judge, the final order shall be subject to 
+review, on appeal, by the court of appeals for the circuit in which the 
+proceeding is held.
+    ``(b) There shall be no right of appeal from a final order in a 
+proceeding to test the validity of a warrant to remove to another 
+district or place for commitment or trial a person charged with a 
+criminal offense against the United States, or to test the validity of 
+such person's detention pending removal proceedings.
+    ``(c)(1) Unless a circuit justice or judge issues a certificate of 
+appealability, an appeal may not be taken to the court of appeals 
+from--
+            ``(A) the final order in a habeas corpus proceeding in 
+        which the detention complained of arises out of process issued 
+        by a State court; or
+            ``(B) the final order in a proceeding under section 2255.
+    ``(2) A certificate of appealability may issue under paragraph (1) 
+only if the applicant has made a substantial showing of the denial of a 
+constitutional right.
+    ``(3) The certificate of appealability under paragraph (1) shall 
+indicate which specific issue or issues satisfy the showing required by 
+paragraph (2).''.
+
+SEC. 903. AMENDMENT OF FEDERAL RULES OF APPELLATE PROCEDURE.
+
+    Rule 22 of the Federal Rules of Appellate Procedure is amended to 
+read as follows:
+``Rule 22. Habeas corpus and section 2255 proceedings
+    ``(a) Application for the Original Writ.--An application for a writ 
+of habeas corpus shall be made to the appropriate district court. If 
+application is made to a circuit judge, the application shall be 
+transferred to the appropriate district court. If an application is 
+made to or transferred to the district court and denied, renewal of the 
+application before a circuit judge shall not be permitted. The 
+applicant may, pursuant to section 2253 of title 28, United States 
+Code, appeal to the appropriate court of appeals from the order of the 
+district court denying the writ.
+    ``(b) Certificate of Appealability.--In a habeas corpus proceeding 
+in which the detention complained of arises out of process issued by a 
+State court, an appeal by the applicant for the writ may not proceed 
+unless a district or a circuit judge issues a certificate of 
+appealability pursuant to section 2253(c) of title 28, United States 
+Code. If an appeal is taken by the applicant, the district judge who 
+rendered the judgment shall either issue a certificate of appealability 
+or state the reasons why such a certificate should not issue. The 
+certificate or the statement shall be forwarded to the court of appeals 
+with the notice of appeal and the file of the proceedings in the 
+district court. If the district judge has denied the certificate, the 
+applicant for the writ may then request issuance of the certificate by 
+a circuit judge. If such a request is addressed to the court of 
+appeals, it shall be deemed addressed to the judges thereof and shall 
+be considered by a circuit judge or judges as the court deems 
+appropriate. If no express request for a certificate is filed, the 
+notice of appeal shall be deemed to constitute a request addressed to 
+the judges of the court of appeals. If an appeal is taken by a State or 
+its representative, a certificate of appealability is not required.''.
+
+SEC. 904. SECTION 2254 AMENDMENTS.
+
+    Section 2254 of title 28, United States Code, is amended--
+            (1) by amending subsection (b) to read as follows:
+    ``(b)(1) An application for a writ of habeas corpus on behalf of a 
+person in custody pursuant to the judgment of a State court shall not 
+be granted unless it appears that--
+            ``(A) the applicant has exhausted the remedies available in 
+        the courts of the State; or
+            ``(B)(i) there is an absence of available State corrective 
+        process; or
+            ``(ii) circumstances exist that render such process 
+        ineffective to protect the rights of the applicant.
+    ``(2) An application for a writ of habeas corpus may be denied on 
+the merits, notwithstanding the failure of the applicant to exhaust the 
+remedies available in the courts of the State.
+    ``(3) A State shall not be deemed to have waived the exhaustion 
+requirement or be estopped from reliance upon the requirement unless 
+the State, through counsel, expressly waives the requirement.'';
+            (2) by redesignating subsections (d), (e), and (f) as 
+        subsections (e), (f), and (g), respectively;
+            (3) by inserting after subsection (c) the following new 
+        subsection:
+    ``(d) An application for a writ of habeas corpus on behalf of a 
+person in custody pursuant to the judgment of a State court shall not 
+be granted with respect to any claim that was adjudicated on the merits 
+in State court proceedings unless the adjudication of the claim--
+            ``(1) resulted in a decision that was contrary to, or 
+        involved an unreasonable application of, clearly established 
+        Federal law, as determined by the Supreme Court of the United 
+        States; or
+            ``(2) resulted in a decision that was based on an 
+        unreasonable determination of the facts in light of the 
+        evidence presented in the State court proceeding.'';
+            (4) by amending subsection (e), as redesignated by 
+        paragraph (2), to read as follows:
+    ``(e)(1) In a proceeding instituted by an application for a writ of 
+habeas corpus by a person in custody pursuant to the judgment of a 
+State court, a determination of a factual issue made by a State court 
+shall be presumed to be correct. The applicant shall have the burden of 
+rebutting the presumption of correctness by clear and convincing 
+evidence.
+    ``(2) If the applicant has failed to develop the factual basis of a 
+claim in State court proceedings, the court shall not hold an 
+evidentiary hearing on the claim unless the applicant shows that--
+            ``(A) the claim relies on--
+                    ``(i) a new rule of constitutional law, made 
+                retroactive by the Supreme Court, that was previously 
+                unavailable; or
+                    ``(ii) a factual predicate that could not have been 
+                previously discovered through the exercise of due 
+                diligence; and
+            ``(B) the facts underlying the claim would be sufficient to 
+        establish by clear and convincing evidence that but for 
+        constitutional error, no reasonable factfinder would have found 
+        the applicant guilty of the underlying offense.''; and
+            (5) by adding at the end the following new subsections:
+    ``(h) Notwithstanding any other provision of law, in all 
+proceedings brought under this section, and any subsequent proceedings 
+on review, appointment of counsel for an applicant who is or becomes 
+financially unable to afford counsel shall be in the discretion of the 
+court, except as provided by a rule promulgated by the Supreme Court 
+pursuant to statutory authority. Appointment of counsel under this 
+section shall be governed by section 3006A of title 18.
+    ``(i) The ineffectiveness or incompetence of counsel during Federal 
+or State collateral post-conviction proceedings shall not be a ground 
+for relief in a proceeding arising under section 2254.''.
+
+SEC. 905. SECTION 2255 AMENDMENTS.
+
+    Section 2255 of title 28, United States Code, is amended--
+            (1) by striking the second and fifth paragraphs; and
+            (2) by adding at the end the following new paragraphs:
+    ``A one-year period of limitation shall apply to a motion under 
+this section. The limitation period shall run from the latest of--
+            ``(1) the date on which the judgment of conviction becomes 
+        final;
+            ``(2) the date on which the impediment to making a motion 
+        created by governmental action in violation of the Constitution 
+        or laws of the United States is removed, if the movant was 
+        prevented from making a motion by such governmental action;
+            ``(3) the date on which the right asserted was initially 
+        recognized by the Supreme Court, if that right has been newly 
+        recognized by the Supreme Court and is made retroactively 
+        applicable; or
+            ``(4) the date on which the facts supporting the claim or 
+        claims presented could have been discovered through the 
+        exercise of due diligence.
+    ``In all proceedings brought under this section, and any subsequent 
+proceedings on review, appointment of counsel for a movant who is or 
+becomes financially unable to afford counsel shall be in the discretion 
+of the court, except as provided by a rule promulgated by the Supreme 
+Court pursuant to statutory authority. Appointment of counsel under 
+this section shall be governed by section 3006A of title 18.
+    ``A second or successive motion must be certified as provided in 
+section 2244 by a panel of the appropriate court of appeals to 
+contain--
+            ``(1) newly discovered evidence that, if proven and viewed 
+        in light of the evidence as a whole, would
+         be sufficient to establish by clear and convincing evidence 
+that no reasonable factfinder would have found the movant guilty of the 
+offense; or
+            ``(2) a new rule of constitutional law, made retroactive by 
+        the Supreme Court, that was previously unavailable.''.
+
+SEC. 906. LIMITS ON SECOND OR SUCCESSIVE APPLICATIONS.
+
+    (a) Conforming Amendment to Section 2244(a).--Section 2244(a) of 
+title 28, United States Code, is amended by striking ``and the 
+petition'' and all that follows through ``by such inquiry.'' and 
+inserting ``, except as provided in section 2255.''.
+    (b) Limits on Second or Successive Applications.--Section 2244(b) 
+of title 28, United States Code, is amended to read as follows:
+    ``(b)(1) A claim presented in a second or successive habeas corpus 
+application under section 2254 that was presented in a prior 
+application shall be dismissed.
+    ``(2) A claim presented in a second or successive habeas corpus 
+application under section 2254 that was not presented in a prior 
+application shall be dismissed unless--
+            ``(A) the applicant shows that the claim relies on a new 
+        rule of constitutional law, made retroactive by the Supreme 
+        Court, that was previously unavailable; or
+            ``(B)(i) the factual predicate for the claim could not have 
+        been discovered previously through the exercise of due 
+        diligence; and
+            ``(ii) the facts underlying the claim, if proven and viewed 
+        in light of the evidence as a whole, would be sufficient to 
+        establish by clear and convincing evidence that, but for 
+        constitutional error, no reasonable factfinder would have found 
+        the applicant guilty of the underlying offense.
+    ``(3)(A) Before a second or successive application permitted by 
+this section is filed in the district court, the applicant shall move 
+in the appropriate court of appeals for an order authorizing the 
+district court to consider the application.
+    ``(B) A motion in the court of appeals for an order authorizing the 
+district court to consider a second or successive application shall be 
+determined by a three-judge panel of the court of appeals.
+    ``(C) The court of appeals may authorize the filing of a second or 
+successive application only if it determines that the application makes 
+a prima facie showing that the application satisfies the requirements 
+of this subsection.
+    ``(D) The court of appeals shall grant or deny the authorization to 
+file a second or successive application not later than 30 days after 
+the filing of the motion.
+    ``(E) The grant or denial of an authorization by a court of appeals 
+to file a second or success application shall not be appealable and 
+shall not be the subject of a petition for rehearing or for a writ of 
+certiorari.
+    ``(4) A district court shall dismiss any claim presented in a 
+second or successive application that the court of appeals has 
+authorized to be filed unless the applicant shows that the claim 
+satisfies the requirements of this section.''.
+
+SEC. 907. DEATH PENALTY LITIGATION PROCEDURES.
+
+    (a) Addition of Chapter to Title 28, United States Code.--Title 28, 
+United States Code, is amended by inserting after chapter 153 the 
+following new chapter:
+
+    ``CHAPTER 154--SPECIAL HABEAS CORPUS PROCEDURES IN CAPITAL CASES
+``Sec.
+``2261. Prisoners in State custody subject to capital sentence; 
+                            appointment of counsel; requirement of rule 
+                            of court or statute; procedures for 
+                            appointment.
+``2262. Mandatory stay of execution; duration; limits on stays of 
+                            execution; successive petitions.
+``2263. Filing of habeas corpus application; time requirements; tolling 
+                            rules.
+``2264. Scope of Federal review; district court adjudications.
+``2265. Application to State unitary review procedure.
+``2266. Limitation periods for determining applications and motions.
+``Sec. 2261. Prisoners in State custody subject to capital sentence; 
+              appointment of counsel; requirement of rule of court or 
+              statute; procedures for appointment
+    ``(a) This chapter shall apply to cases arising under section 2254 
+brought by prisoners in State custody who are subject to a capital 
+sentence. It shall apply only if the provisions of subsections (b) and 
+(c) are satisfied.
+    ``(b) This chapter is applicable if a State establishes by statute, 
+rule of its court of last resort, or by another agency authorized by 
+State law, a mechanism for the appointment, compensation, and payment 
+of reasonable litigation expenses of competent counsel in State post-
+conviction proceedings brought by indigent prisoners whose capital 
+convictions and sentences have been upheld on direct appeal to the 
+court of last resort in the State or have otherwise become final for 
+State law purposes. The rule of court or statute must provide standards 
+of competency for the appointment of such counsel.
+    ``(c) Any mechanism for the appointment, compensation, and 
+reimbursement of counsel as provided in subsection (b) must offer 
+counsel to all State prisoners under capital sentence and must provide 
+for the entry of an order by a court of record--
+            ``(1) appointing one or more counsel to represent the 
+        prisoner upon a finding that the prisoner is indigent and 
+        accepted the offer or is unable competently to decide whether 
+        to accept or reject the offer;
+            ``(2) finding, after a hearing if necessary, that the 
+        prisoner rejected the offer of counsel and made the decision 
+        with an understanding of its legal consequences; or
+            ``(3) denying the appointment of counsel upon a finding 
+        that the prisoner is not indigent.
+    ``(d) No counsel appointed pursuant to subsections (b) and (c) to 
+represent a State prisoner under capital sentence shall have previously 
+represented the prisoner at trial or on direct appeal in the case for 
+which the appointment is made unless the prisoner and counsel expressly 
+request continued representation.
+    ``(e) The ineffectiveness or incompetence of counsel during State 
+or Federal post-conviction proceedings in a capital case shall not be a 
+ground for relief in a proceeding arising under section 2254. This 
+limitation shall not preclude the appointment of different counsel, on 
+the court's own motion or at the request of the prisoner, at any phase 
+of State or Federal post-conviction proceedings on the basis of the 
+ineffectiveness or incompetence of counsel in such proceedings.
+``Sec. 2262. Mandatory stay of execution; duration; limits on stays of 
+              execution; successive petitions
+    ``(a) Upon the entry in the appropriate State court of record of an 
+order under section 2261(c), a warrant or order setting an execution 
+date for a State prisoner shall be stayed upon application to any court 
+that would have jurisdiction over any proceedings filed under section 
+2254. The application shall recite that the State has invoked the post-
+conviction review procedures of this chapter and that the scheduled 
+execution is subject to stay.
+    ``(b) A stay of execution granted pursuant to subsection (a) shall 
+expire if--
+            ``(1) a State prisoner fails to file a habeas corpus 
+        application under section 2254 within the time required in 
+        section 2263;
+            ``(2) before a court of competent jurisdiction, in the 
+        presence of counsel, unless the prisoner has competently and 
+        knowingly waived such counsel, and after having been advised of 
+        the consequences, a State prisoner under capital sentence 
+        waives the right to pursue habeas corpus review under section 
+        2254; or
+            ``(3) a State prisoner files a habeas corpus petition under 
+        section 2254 within the time required by section 2263 and fails 
+        to make a substantial showing of the denial of a Federal right 
+        or is denied relief in the district court or at any subsequent 
+        stage of review.
+    ``(c) If one of the conditions in subsection (b) has occurred, no 
+Federal court thereafter shall have the authority to enter a stay of 
+execution in the case, unless the court of appeals approves the filing 
+of a second or successive application under section 2244(b).
+``Sec. 2263. Filing of habeas corpus application; time requirements; 
+              tolling rules
+    ``(a) Any application under this chapter for habeas corpus relief 
+under section 2254 must be filed in the appropriate district court not 
+later than 180 days after final State court affirmance of the 
+conviction and sentence on direct review or the expiration of the time 
+for seeking such review.
+    ``(b) The time requirements established by subsection (a) shall be 
+tolled--
+            ``(1) from the date that a petition for certiorari is filed 
+        in the Supreme Court until the date of final disposition of the 
+        petition if a State prisoner files the petition to secure 
+        review by the Supreme Court of the affirmance of a capital 
+        sentence on direct review by the court of last resort of the 
+        State or other final State court decision on direct review;
+            ``(2) from the date on which the first petition for post-
+        conviction review or other collateral relief is filed until the 
+        final State court disposition of such petition; and
+            ``(3) during an additional period not to exceed 30 days, 
+        if--
+                    ``(A) a motion for an extension of time is filed in 
+                the Federal district court that would have jurisdiction 
+                over the case upon the filing of a habeas corpus 
+                application under section 2254; and
+                    ``(B) a showing of good cause is made for the 
+                failure to file the habeas corpus application within 
+                the time period established by this section.
+``Sec. 2264. Scope of Federal review; district court adjudications
+    ``(a) Whenever a State prisoner under capital sentence files a 
+petition for habeas corpus relief to which this chapter applies, the 
+district court shall only consider a claim or claims that have been 
+raised and decided on the merits in the State courts, unless the 
+failure to raise the claim properly is--
+            ``(1) the result of State action in violation of the 
+        Constitution or laws of the United States;
+            ``(2) the result of the Supreme Court recognition of a new 
+        Federal right that is made retroactively applicable; or
+            ``(3) based on a factual predicate that could not have been 
+        discovered through the exercise of due diligence in time to 
+        present the claim for State or Federal post-conviction review.
+    ``(b) Following review subject to subsections (a), (d), and (e) of 
+section 2254, the court shall rule on the claims properly before it.
+``Sec. 2265. Application to State unitary review procedure
+    ``(a) For purposes of this section, a `unitary review' procedure 
+means a State procedure that authorizes a person under sentence of 
+death to raise, in the course of direct review of the judgment, such 
+claims as could be raised on collateral attack. This chapter shall 
+apply, as provided in this section, in relation to a State unitary 
+review procedure if the State establishes by rule of its court of last 
+resort or by statute a mechanism for the appointment, compensation, and 
+payment of reasonable litigation expenses of competent counsel in the 
+unitary review proceedings, including expenses relating to the 
+litigation of collateral claims in the proceedings. The rule of court 
+or statute must provide standards of competency for the appointment of 
+such counsel.
+    ``(b) To qualify under this section, a unitary review procedure 
+must include an offer of counsel following trial for the purpose of 
+representation on unitary review, and entry of an order, as provided in 
+section 2261(c), concerning appointment of counsel or waiver or denial 
+of appointment of counsel for that purpose. No counsel appointed to 
+represent the prisoner in the unitary review proceedings shall have 
+previously represented the prisoner at trial in the case for which the 
+appointment is made unless the prisoner and counsel expressly request 
+continued representation.
+    ``(c) Sections 2262, 2263, 2264, and 2266 shall apply in relation 
+to cases involving a sentence of death from any State having a unitary 
+review procedure that qualifies under this section. References to State 
+`post-conviction review' and `direct review' in such sections shall be 
+understood as referring to unitary review under the State procedure. 
+The reference in section 2262(a) to `an order under section 2261(c)' 
+shall be understood as referring to the post-trial order under 
+subsection (b) concerning representation in the unitary review 
+proceedings, but if a transcript of the trial proceedings is 
+unavailable at the time of the filing of such an order in the 
+appropriate State
+ court, then the start of the 180-day limitation period under section 
+2263 shall be deferred until a transcript is made available to the 
+prisoner or counsel of the prisoner.
+``Sec. 2266. Limitation periods for determining applications and 
+              motions
+    ``(a) The adjudication of any application under section 2254 that 
+is subject to this chapter, and the adjudication of any motion under 
+section 2255 by a person under sentence of death, shall be given 
+priority by the district court and by the court of appeals over all 
+noncapital matters.
+    ``(b)(1)(A) A district court shall render a final determination and 
+enter a final judgment on any application for a writ of habeas corpus 
+brought under this chapter in a capital case not later than 180 days 
+after the date on which the application is filed.
+    ``(B) A district court shall afford the parties at least 120 days 
+in which to complete all actions, including the preparation of all 
+pleadings and briefs, and if necessary, a hearing, prior to the 
+submission of the case for decision.
+    ``(C)(i) A district court may delay for not more than one 
+additional 30-day period beyond the period specified in subparagraph 
+(A), the rendering of a determination of an application for a writ of 
+habeas corpus if the court issues a written order making a finding, and 
+stating the reasons for the finding, that the ends of justice that 
+would be served by allowing the delay outweigh the best interests of 
+the public and the applicant in a speedy disposition of the 
+application.
+    ``(ii) The factors, among others, that a court shall consider in 
+determining whether a delay in the disposition of an application is 
+warranted are as follows:
+            ``(I) Whether the failure to allow the delay would be 
+        likely to result in a miscarriage of justice.
+            ``(II) Whether the case is so unusual or so complex, due to 
+        the number of defendants, the nature of the prosecution, or the 
+        existence of novel questions of fact or law, that it is 
+        unreasonable to expect adequate briefing within the time 
+        limitations established by subparagraph (A).
+            ``(III) Whether the failure to allow a delay in a case, 
+        that, taken as a whole, is not so unusual or so complex as 
+        described in subclause (II), but would otherwise deny the 
+        applicant reasonable time to obtain counsel, would unreasonably 
+        deny the applicant or the government continuity of counsel, or 
+        would deny counsel for the applicant or the government the 
+        reasonable time necessary for effective preparation, taking 
+        into account the exercise of due diligence.
+    ``(iii) No delay in disposition shall be permissible because of 
+general congestion of the court's calendar.
+    ``(iv) The court shall transmit a copy of any order issued under 
+clause (i) to the Director of the Administrative Office of the United 
+States Courts for inclusion in the report under paragraph (5).
+    ``(2) The time limitations under paragraph (1) shall apply to--
+            ``(A) an initial application for a writ of habeas corpus;
+            ``(B) any second or successive application for a writ of 
+        habeas corpus; and
+            ``(C) any redetermination of an application for a writ of 
+        habeas corpus following a remand by the court of appeals or the 
+        Supreme Court for further proceedings, in which case the 
+        limitation period shall run from the date the remand is 
+        ordered.
+    ``(3)(A) The time limitations under this section shall not be 
+construed to entitle an applicant to a stay of execution, to which the 
+applicant would otherwise not be entitled, for the purpose of 
+litigating any application or appeal.
+    ``(B) No amendment to an application for a writ of habeas corpus 
+under this chapter shall be permitted after the filing of the answer to 
+the application, except on the grounds specified in section 2244(b).
+    ``(4)(A) The failure of a court to meet or comply with a time 
+limitation under this section shall not be a ground for granting relief 
+from a judgment of conviction or sentence.
+    ``(B) The State may enforce a time limitation under this section by 
+petitioning for a writ of mandamus to the court of appeals. The court 
+of appeals shall act on the petition for a writ or mandamus not later 
+than 30 days after the filing of the petition.
+    ``(5)(A) The Administrative Office of United States Courts shall 
+submit to Congress an annual report on the compliance by the district 
+courts with the time limitations under this section.
+    ``(B) The report described in subparagraph (A) shall include copies 
+of the orders submitted by the district courts under paragraph 
+(1)(B)(iv).
+    ``(c)(1)(A) A court of appeals shall hear and render a final 
+determination of any appeal of an order granting or denying, in whole 
+or in part, an application brought under this chapter in a capital case 
+not later than 120 days after the date on which the reply brief is 
+filed, or if no reply brief is filed, not later than 120 days after the 
+date on which the answering brief is filed.
+    ``(B)(i) A court of appeals shall decide whether to grant a 
+petition for rehearing or other request for rehearing en banc not later 
+than 30 days after the date on which the petition for rehearing is 
+filed unless a responsive pleading is required, in which case the court 
+shall decide whether to grant the petition not later than 30 days after 
+the date on which the responsive pleading is filed.
+    ``(ii) If a petition for rehearing or rehearing en banc is granted, 
+the court of appeals shall hear and render a final determination of the 
+appeal not later than 120 days after the date on which the order 
+granting rehearing or rehearing en banc is entered.
+    ``(2) The time limitations under paragraph (1) shall apply to--
+            ``(A) an initial application for a writ of habeas corpus;
+            ``(B) any second or successive application for a writ of 
+        habeas corpus; and
+            ``(C) any redetermination of an application for a writ of 
+        habeas corpus or related appeal following a remand by the court 
+        of appeals en banc or the Supreme Court for further 
+        proceedings, in which case the limitation period shall run from 
+        the date the remand is ordered.
+    ``(3) The time limitations under this section shall not be 
+construed to entitle an applicant to a stay of execution, to which the 
+applicant would otherwise not be entitled, for the purpose of 
+litigating any application or appeal.
+    ``(4)(A) The failure of a court to meet or comply with a time 
+limitation under this section shall not be a ground for granting relief 
+from a judgment of conviction or sentence.
+    ``(B) The State may enforce a time limitation under this section by 
+applying for a writ of mandamus to the Supreme Court.
+    ``(5) The Administrative Office of United States Courts shall 
+submit to Congress an annual report on the compliance by the courts of 
+appeals with the time limitations under this section.''.
+    (b) Technical Amendment.--The part analysis for part IV of title 
+28, United States Code, is amended by adding after the item relating to 
+chapter 153 the following new item:
+
+``154. Special habeas corpus procedures in capital cases....   2261.''.
+SEC. 908. TECHNICAL AMENDMENT.
+
+    Section 408(q) of the Controlled Substances Act (21 U.S.C. 848(q)) 
+is amended--
+            (1) in paragraph (4)(A), by striking ``shall'' and 
+        inserting ``may'';
+            (2) in paragraph (4)(B), by striking ``shall'' and 
+        inserting ``may''; and
+            (3) by amending paragraph (9) to read as follows:
+    ``(9) Upon a finding that investigative, expert, or other services 
+are reasonably necessary for the representation of the defendant, 
+whether in connection with issues relating to guilt or the sentence, 
+the court may authorize the defendant's attorneys to obtain such 
+services on behalf of the defendant and, if so authorized, shall order 
+the payment of fees and expenses therefor under paragraph (10). No ex 
+parte proceeding, communication, or request may be considered pursuant 
+to this section unless a proper showing is made concerning the need for 
+confidentiality. Any such proceeding, communication, or request shall 
+be transcribed and made a part of the record available for appellate 
+review.''.
+
+SEC. 909. SEVERABILITY.
+
+    If any provision of this title, an amendment made by this title, or 
+the application of such provision or amendment to any person or 
+circumstance is held to be unconstitutional, the remainder of this 
+title, the amendments made by this title, and the application of the 
+provisions of such to any person or circumstance shall not be affected 
+thereby.
+                                 <all>
+S 816 IS----2
+S 816 IS----3
+S 816 IS----4
+S 816 IS----5
+S 816 IS----6
+S 816 IS----7
+S 816 IS----8
+

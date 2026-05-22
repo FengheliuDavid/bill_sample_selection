@@ -1,0 +1,121 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5199 Introduced in House (IH)]
+
+111th CONGRESS
+  2d Session
+                                H. R. 5199
+
+ To authorize the Board of Governors of the Federal Reserve System to 
+ promulgate regulations regarding interchange transaction fees and to 
+amend the Truth in Lending Act to prohibit certain restrictions put in 
+                     place by credit card networks.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 4, 2010
+
+  Mr. Welch introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To authorize the Board of Governors of the Federal Reserve System to 
+ promulgate regulations regarding interchange transaction fees and to 
+amend the Truth in Lending Act to prohibit certain restrictions put in 
+                     place by credit card networks.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Electronic Check Parity Act of 
+2010''.
+
+SEC. 2. REGULATORY AUTHORITY OF THE BOARD OF GOVERNORS OF THE FEDERAL 
+              RESERVE SYSTEM FOR ELECTRONIC DEBIT TRANSACTIONS.
+
+    (a) Finding.--The Congress finds that electronic debit transactions 
+serve as a functional replacement for check transactions.
+    (b) Rulemaking.--
+            (1) In general.--The Board shall have authority to 
+        promulgate rules regarding any interchange transaction fee that 
+        is charged with respect to an electronic debit transaction.
+            (2) Considerations.--Rules promulgated by the Board 
+        pursuant to paragraph (1) shall be based on--
+                    (A) historic policies implemented by the Board that 
+                have ensured that checks clear at par; and
+                    (B) the Congressional finding under subsection (a) 
+                that electronic debit transactions serve as a 
+                functional replacement for check transactions.
+    (c) Exemptions.--The Board may exempt financial institutions, 
+including those regulated by the National Credit Union Administration, 
+that, together with affiliates, have assets of less than $1,000,000,000 
+from the rules promulgated by the Board pursuant to subsection (b).
+    (d) Definitions.--For purposes of this section:
+            (1) Board.--The term ``Board'' means the Board of Governors 
+        of the Federal Reserve System.
+            (2) Electronic debit transaction.--The term ``electronic 
+        debit transaction'' means a transaction in which a person uses 
+        a debit card or other device that has been approved for use in 
+        a payment card network to debit an account for the purpose of 
+        transferring money between accounts or obtaining goods or 
+        services.
+            (3) Interchange transaction fee.--The term ``interchange 
+        transaction fee'' means any fee established, charged, or 
+        received by an issuer or a payment card network on a per-
+        transaction basis that has been established for the purpose of 
+        compensating the issuer or payment card network for its role in 
+        authorizing, clearing, settling, or otherwise processing an 
+        electronic debit transaction.
+            (4) Issuer.--The term ``issuer'' means a financial 
+        institution that issues cards or other devices that have been 
+        approved for use in a payment card network.
+            (5) Payment card network.--The term ``payment card 
+        network'' means an entity that directly, or through licensed 
+        members, processors, or agents, provides the proprietary 
+        services, infrastructure and software that route information 
+        and data to conduct transaction authorization, clearance and 
+        settlement, and that a person is required to access in order to 
+        accept a specific brand of credit card, debit card, prepaid 
+        card or similar device as a form of payment.
+
+SEC. 3. LIMITATION ON CREDIT CARD NETWORK RESTRICTIONS.
+
+    (a) In General.--Chapter 2 of the Truth in Lending Act (15 U.S.C. 
+1631 et seq.) is amended by adding at the end the following new 
+section:
+``Sec. 140B. Limitation on credit card network restrictions.
+    ``(a) In General.--A credit card network may not, directly or 
+through any agent, processor, or licensed member of the network, by 
+contract or otherwise, inhibit the ability of any person--
+            ``(1) to set a minimum or maximum dollar value for such 
+        person's acceptance of any form of payment; or
+            ``(2) to offer a discount, benefit, or anything else of 
+        value to customers in order to create an incentive for 
+        customers to pay such person using a form of payment that 
+        carries lower transaction fees or costs for such person.
+    ``(b) Credit Card Network Defined.--For purposes of this section, 
+the term `credit card network' means an entity that directly, or 
+through licensed members, processors, or agents, provides the 
+proprietary services, infrastructure, and software that route 
+information and data to facilitate transaction authorization, 
+clearance, and settlement that a person must access in order to accept 
+a specific brand of general-purpose credit card as payment for goods or 
+services.''.
+    (b) Clerical Amendment.--The table of sections for chapter 2 of the 
+Truth in Lending Act is amended by inserting after the item relating to 
+section 140A the following new item:
+
+``140B. Limitation on credit card network restrictions''.
+                                 <all>
+

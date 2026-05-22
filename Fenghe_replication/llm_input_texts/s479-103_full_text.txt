@@ -1,0 +1,332 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 479 Introduced in Senate (IS)]
+
+103d CONGRESS
+  1st Session
+                                 S. 479
+
+ To amend the Securities Act of 1933 and the Investment Company Act of 
+   1940 to promote capital formation for small businesses and others 
+    through exempted offerings under the Securities Act and through 
+ investment pools that are excepted or exempted from regulation under 
+  the Investment Company Act of 1940 and through business development 
+                               companies.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+               March 2 (legislative day, January 5), 1993
+
+ Mr. Dodd (for himself, Mr. Riegle, Mr. D'Amato, Mr. Kerry, Mr. Bryan, 
+ Mr. Mack, and Mr. Domenici) introduced the following bill; which was 
+read twice and referred to the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Securities Act of 1933 and the Investment Company Act of 
+   1940 to promote capital formation for small businesses and others 
+    through exempted offerings under the Securities Act and through 
+ investment pools that are excepted or exempted from regulation under 
+  the Investment Company Act of 1940 and through business development 
+                               companies.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Small Business Incentive Act of 
+1993''.
+
+            TITLE I--AMENDMENT TO THE SECURITIES ACT OF 1933
+
+SEC. 101. EXEMPTED SECURITIES.
+
+    Section 3(b) of the Securities Act of 1933 (15 U.S.C. 77c(b)) is 
+amended by striking ``$5,000,000'' and inserting ``$10,000,000''.
+
+       TITLE II--AMENDMENTS TO THE INVESTMENT COMPANY ACT OF 1940
+
+SEC. 201. EXCLUSIONS FROM THE DEFINITION OF INVESTMENT COMPANY.
+
+    Section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+3(c)) is amended--
+            (1) In paragraph (1) by adding after the first sentence the 
+        following new sentence: ``Such issuer shall be deemed to be an 
+        investment company for purposes of the limitations set forth in 
+        subparagraphs (A)(i) and (B)(i) of section 12(d)(1) governing 
+        the purchase or other acquisition by such issuer of any 
+        security issued by a registered investment company and the sale 
+        of any security issued by a registered open-end investment 
+        company to any such issuer.'';
+            (2) In paragraph (1)(A)--
+                    (A) by inserting after ``issuer,'' the first place 
+                it appears ``and the company is or, but for the 
+                exceptions set forth in this paragraph and paragraph 
+                (7), would be an investment company,'';
+                    (B) by striking ``paper) unless as of the date'' 
+                and all that follows through the end of subparagraph 
+                (A) and inserting the following: ``paper).'';
+            (3) by amending paragraph (7) to read as follows:
+            ``(7) Any issuer whose outstanding securities are owned 
+        exclusively by persons who, at the time of acquisition of such 
+        securities, are qualified purchasers, except that such issuer 
+        shall be deemed to be an investment company for purposes of the 
+        limitations set forth in subparagraphs (A)(i) and (B)(i) of 
+        section 12(d)(1) governing the purchase or other acquisition by 
+        such issuer of any security issued by a registered investment 
+        company and the sale of any security issued by a registered 
+        open-end investment company to any such issuer.''.
+
+SEC. 202. DEFINITION OF QUALIFIED PURCHASER.
+
+    Section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+2(a)) is amended by adding at the end the following new paragraph:
+            ``(51) `Qualified purchaser' means any person whom the 
+        Commission, by rule or regulation, has determined does not need 
+        the protections of this title. The Commission's determination 
+        shall include consideration of a person's--
+                    ``(A) financial sophistication;
+                    ``(B) net worth;
+                    ``(C) knowledge of and experience in financial 
+                matters;
+                    ``(D) amount of assets owned or under management;
+                    ``(E) relationship with an issuer; or
+                    ``(F) such other factors as the Commission may 
+                determine to be consistent with the purposes of this 
+                paragraph.''.
+
+SEC. 203. DEFINITION OF INVESTMENT SECURITIES.
+
+    Section 3(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+3(a)) is amended in the last sentence by striking subparagraph (C) and 
+inserting the following: ``(C) securities issued by any majority-owned 
+subsidiary of the owner, unless such subsidiary is an investment 
+company or is excluded from the definition of an investment company 
+solely by virtue of paragraph (1) or (7) of section 3(c).''.
+
+SEC. 204. EXEMPTION FOR BUSINESS AND INDUSTRIAL DEVELOPMENT COMPANIES.
+
+    Section 6(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+6(a)) is amended by adding at the end the following new paragraph:
+            ``(5)(A) Any company that is not engaged in the business of 
+        issuing redeemable securities, the operations of which are 
+        subject to regulation by the State in which it is organized 
+        under a statute governing entities that provide financial or 
+        managerial assistance to enterprises doing business, or 
+        proposing to do business, primarily in that State if--
+                    ``(i) the organizational documents of such company 
+                state that the purpose of the company is limited to 
+                providing financial or managerial assistance to 
+                enterprises doing business, or proposing to do 
+                business, primarily in that State;
+                    ``(ii) immediately following each sale of the 
+                securities of such company by the company or any 
+                underwriter for the company, not less than 80 percent 
+                of the company's securities being offered in such sale, 
+                on a class-by-class basis, are held by persons who 
+                reside or have a substantial business presence in that 
+                State;
+                    ``(iii) the securities of such company are sold, or 
+                proposed to be sold, by the company or any underwriter 
+                for the company, solely to accredited investors, as 
+                defined in section 2(15) of the Securities Act of 1933, 
+                or to such other persons that the Commission, as 
+                necessary or appropriate in the public interest and 
+                consistent with the protection of investors, may permit 
+                by rule, regulation, or order; and
+                    ``(iv) the company does not purchase any security 
+                issued by an investment company, as defined in section 
+                3, or by any company that would be an investment 
+                company except for the exclusions from the definition 
+                of investment company in section 3(c), other than--
+                            ``(I) any security that is rated investment 
+                        grade by at least 1 nationally recognized 
+                        statistical rating organization; or
+                            ``(II) any security issued by a registered 
+                        open-end investment company that is required by 
+                        its investment policies to invest at least 65 
+                        percent of its total assets in securities 
+                        described in subclause (I) or securities that 
+                        are determined by such registered open-end 
+                        investment company to be comparable in quality 
+                        to securities described in subclause (I).
+            ``(B) Notwithstanding the exemption provided in this 
+        paragraph, the provisions of section 9 (and, to the extent 
+        necessary to enforce such provisions, sections 38 through 51) 
+        of this title shall apply to a company described in this 
+        paragraph as if the company were an investment company 
+        registered under this title.
+            ``(C) Any company proposing to rely on the exemption 
+        provided in this paragraph shall file with the Commission a 
+        notification stating that it intends to do so, in such form and 
+        manner as the Commission may by rule prescribe.
+            ``(D) Any company meeting the requirements of this 
+        paragraph may rely on the exemption provided herein immediately 
+        upon filing with the Commission the notification required by 
+        subparagraph (C), unless the Commission determines by order 
+        that such company's reliance is not in the public interest or 
+        consistent with the protection of investors.
+            ``(E) The exemption provided pursuant to this paragraph may 
+        be subject to such additional terms and conditions as the 
+        Commission may by rule, regulation, or order determine are 
+        necessary or appropriate in the public interest or for the 
+        protection of investors.''.
+
+SEC. 205. INTRA-STATE CLOSED-END INVESTMENT COMPANY EXEMPTION.
+
+    Section 6(d)(1) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-6(d)(1)) is amended by striking ``$100,000'' and inserting 
+``$10,000,000, or such other amount as the Commission may set by rule, 
+regulation, or order''.
+
+SEC. 206. DEFINITION OF ELIGIBLE PORTFOLIO COMPANY.
+
+    Section 2(a)(46)(C) of the Investment Company Act of 1940 (15 
+U.S.C. 80a-2(a)(46)(C)) is amended--
+            (1) in clause (ii), by striking ``or'' at the end;
+            (2) by redesignating clause (iii) as clause (iv); and
+            (3) by inserting after clause (ii) the following:
+                            ``(iii) it has total assets of not more 
+                        than $4,000,000, and capital and surplus 
+                        (shareholders equity less retained earnings) in 
+                        excess of $2,000,000, except that the 
+                        Commission may adjust such amounts by rule, 
+                        regulation, or order to reflect changes in 1 or 
+                        more generally accepted indices or other 
+                        indicators for small businesses; or''.
+
+SEC. 207. DEFINITION OF BUSINESS DEVELOPMENT COMPANY.
+
+    Section 2(a)(48)(B) of the Investment Company Act of 1940 (15 
+U.S.C. 80a-2(a)(48)(B)) is amended by inserting before the semicolon at 
+the end the following: 
+``: And provided further, That a business development company need not 
+make available significant managerial assistance with respect to any 
+company described in section 55(a)(7) or with respect to any other 
+company that meets such criteria as the Commission may by rule, 
+regulation, or order permit, as consistent with the public interest, 
+the protection of investors, and the purposes fairly intended by the 
+policy and provisions of this title''.
+
+SEC. 208. ACQUISITION OF ASSETS BY BUSINESS DEVELOPMENT COMPANIES.
+
+    Section 55(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+54(a)) is amended--
+            (1) by striking ``(7)'' the first 2 times such figure 
+        appears and inserting ``(8)'';
+            (2) by striking ``(6)'' the first time such figure appears 
+        and inserting ``(7)'';
+            (3) in subparagraph (1)(A)--
+                    (A) by striking ``, or from any person'' and 
+                inserting ``, from any person''; and
+                    (B) by inserting before the semicolon ``, or from 
+                any other person, subject to such rules and regulations 
+                as the Commission may prescribe as necessary or 
+                appropriate in the public interest or for the 
+                protection of investors'';
+            (4) in paragraph (6), by striking ``and'' at the end;
+            (5) by redesignating paragraph (7) as paragraph (8); and
+            (6) by inserting after paragraph (6) the following new 
+        paragraph:
+            ``(7) securities of any eligible portfolio company with 
+        respect to which the business development company satisfies the 
+        requirements of section 2(a)(46)(C)(iii); and''.
+
+SEC. 209. CAPITAL STRUCTURE AMENDMENTS.
+
+    Section 61(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+60(a)) is amended--
+            (1) by striking paragraph (1) and inserting the following:
+            ``(1)(A) The asset coverage requirements of subparagraphs 
+        (A) and (B) of section 18(a)(1) applicable to business 
+        development companies shall be 200 percent.
+            ``(B) Notwithstanding subsection (a)(1)(A) of this section 
+        and subparagraphs (A) and (B) of section 18(a)(2), a business 
+        development company may have an asset coverage of at least 110 
+        percent, if, immediately before the issuance or sale of senior 
+        securities, it has--
+                    ``(i) total interest and dividend income for the 12 
+                months preceding such issuance or sale that exceeds 120 
+                percent of the sum of its total expenses (including 
+                taxes and interest expenses accrued) and dividends 
+                declared on senior securities for that 12-month period; 
+                and
+                    ``(ii) either--
+                            ``(I) an average of not less than 50 
+                        percent of its assets invested in securities 
+                        described in paragraphs (1) through (5) of 
+                        section 55(a) throughout the preceding 12-month 
+                        period; or
+                            ``(II) not less than 50 percent of its 
+                        assets invested in securities described in 
+                        paragraphs (1) through (5) of section 55(a) 
+                        throughout 10 months of the preceding 12-month 
+                        period.
+            ``(C) It shall be unlawful for any business development 
+        company to issue any class of senior security representing 
+        indebtedness, or to sell any such security pursuant to 
+        subsection (a)(1)(B) of this section, unless provision is made 
+        to prohibit the declaration of any dividend (except a dividend 
+        payable in stock of the issuer), or the declaration of any 
+        other distribution upon any class of the capital stock of such 
+        business development company, or the purchase of any such 
+        capital stock, unless, in every such case--
+                    ``(i) such class of senior securities has, at the 
+                time of the declaration of any such dividend or 
+                distribution or at the time of any such purchase, an 
+                asset coverage of not less than 110 percent after 
+                deducting the amount of such dividend, distribution, or 
+                purchase price as the case may be; and
+                    ``(ii) the business development company complies 
+                with subparagraph (B)(i) except with respect to any 
+                amounts that are required to be distributed to maintain 
+                the company's status as a regulated investment company 
+                under the Internal Revenue Code of 1986.
+            ``(D) It shall be unlawful for any business development 
+        company to issue any class of senior security representing 
+        stock, or to sell any such security pursuant to subsection 
+        (a)(1)(B) of this section, unless provision is made to prohibit 
+        the declaration of any dividend (except a dividend payable in 
+        common stock of the issuer), or the declaration of any other 
+        distribution, upon the common stock of such business 
+        development company, or the purchase of any such common stock, 
+        unless, in every such case--
+                    ``(i) such class of senior securities has, at the 
+                time of the declaration of any such dividend or 
+                distribution or at the time of any such purchase an 
+                asset coverage of not less than 110 percent after 
+                deducting the amount of such dividend, distribution or 
+                purchase price; and
+                    ``(ii) the business development company complies 
+                with subparagraph (B)(i), except with respect to any 
+                amounts that are required to be distributed to maintain 
+                the company's status as a regulated investment company 
+                under the Internal Revenue Code of 1986.'';
+            (2) in paragraph (2), by striking ``if such business 
+        development company'' and all that follows through the end of 
+        paragraph (2) and inserting a period; and
+            (3) in paragraph (3)(A)--
+                    (A) by striking ``senior securities representing 
+                indebtedness accompanied by'';
+                    (B) inserting ``either alone or accompanied by 
+                securities,'' after ``of such company,''; and
+                    (C) in clause (ii), by striking ``senior''.
+
+SEC. 210. FILING OF WRITTEN STATEMENTS.
+
+    Section 64(b)(1) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-63(b)(1)) is amended by inserting ``and capital structure'' after 
+``portfolio''.
+
+                                 <all>
+

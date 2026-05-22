@@ -1,0 +1,170 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1344 Introduced in Senate (IS)]
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                S. 1344
+
+    To amend the Electronic Fund Transfer Act to require additional 
+     disclosures relating to exchange rates in transfers involving 
+          international transactions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 26, 2003
+
+ Mr. Corzine (for himself, Mr. Schumer, Mr. Akaka, and Mrs. Boxer) 
+        introduced the following bill; which was read twice and 
+        referred to the Committee on Banking, Housing, and Urban 
+        AffairsYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Electronic Fund Transfer Act to require additional 
+     disclosures relating to exchange rates in transfers involving 
+          international transactions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Money Wire Improvement and 
+Remittance Enhancement Act of 2003'' (or the ``Money WIRE Act of 
+2003'').
+
+SEC. 2. DISCLOSURE OF EXCHANGE RATES IN CONNECTION WITH INTERNATIONAL 
+              MONEY TRANSFERS.
+
+    (a) In General.--The Electronic Fund Transfer Act (15 U.S.C. 1693 
+et seq.) is amended--
+            (1) by redesignating sections 918, 919, 920, and 921 as 
+        sections 919, 920, 921, and 922, respectively; and
+            (2) by inserting after section 917 the following new 
+        section:
+
+``SEC. 918. DISCLOSURE OF EXCHANGE RATES IN CONNECTION WITH 
+              INTERNATIONAL MONEY TRANSFERS.
+
+    ``(a) Definitions.--
+            ``(1) International money transfer.--The term 
+        `international money transfer' means any money transmitting 
+        service involving an international transaction which is 
+        provided by a financial institution or a money transmitting 
+        business.
+            ``(2) Money transmitting service.--The term `money 
+        transmitting service' has the meaning given to such term in 
+        section 5330(d)(2) of title 31, United States Code.
+            ``(3) Money transmitting business.--The term `money 
+        transmitting business' means any business which--
+                    ``(A) provides check cashing, currency exchange, or 
+                money transmitting or remittance services, or issues or 
+                redeems money orders, travelers' checks, and other 
+                similar instruments; and
+                    ``(B) is not a depository institution (as defined 
+                in section 5313(g) of title 31, United States Code).
+    ``(b) Exchange Rate and Fees Disclosures Required.--
+            ``(1) In general.--Any financial institution or money 
+        transmitting business which initiates an international money 
+        transfer on behalf of a consumer (whether or not the consumer 
+        maintains an account at such institution or business) shall 
+        provide the following disclosures in the manner required under 
+        this section:
+                    ``(A) The exchange rate used by the financial 
+                institution or money transmitting business in 
+                connection with such transaction.
+                    ``(B) The exchange rate prevailing at a major 
+                financial center of the foreign country whose currency 
+                is involved in the transaction, as of the close of 
+                business on the business day immediately preceding the 
+                date of the transaction (or the official exchange rate, 
+                if any, of the government or central bank of such 
+                foreign country).
+                    ``(C) All commissions and fees charged by the 
+                financial institution or money transmitting business in 
+                connection with such transaction.
+                    ``(D) The exact amount of foreign currency to be 
+                received by the recipient in the foreign country, which 
+                shall be disclosed to the consumer before the 
+                transaction is consummated and printed on the receipt 
+                referred to in paragraph (3).
+            ``(2) Prominent disclosure inside and outside the place of 
+        business where an international money transfer is initiated.--
+        The information required to be disclosed under subparagraphs 
+        (A), (B), and (C) of paragraph (1) shall be prominently 
+        displayed on the premises of the financial institution or money 
+        transmitting business both at the interior location to which 
+        the public is admitted for purposes of initiating an 
+        international money transfer and on the exterior of any such 
+        premises.
+            ``(3) Prominent disclosure in all receipts and forms used 
+        in the place of business where an international money transfer 
+is initiated.--The information required to be disclosed under paragraph 
+(1) shall be prominently displayed on all forms and receipts used by 
+the financial institution or money transmitting business when 
+initiating an international money transfer in such premises.
+    ``(c) Advertisements in Print, Broadcast, and Electronic Media and 
+Outdoor Advertising.--The information required to be disclosed under 
+subparagraphs (A) and (C) of subsection (b)(1) shall be included--
+            ``(1) in any advertisement, announcements, or solicitation 
+        which is mailed by the financial institution or money 
+        transmitting business and pertains to international money 
+        transfer; or
+            ``(2) in any print, broadcast, or electronic medium or 
+        outdoor advertising display not on the premises of the 
+        financial institution or money transmitting business and 
+        pertaining to international money transfer.
+    ``(d) Disclosures in Languages Other Than English.--The disclosures 
+required under this section shall be in English and in the same 
+language as that principally used by the financial institution or money 
+transmitting business, or any of its agents, to advertise, solicit, or 
+negotiate, either orally or in writing, at that office if other than 
+English.''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect at the end of the 3-month period beginning on the date of 
+the enactment of this Act.
+
+SEC. 3. STUDY ON FEE DISCLOSURES FOR MONEY WIRE TRANSMISSIONS.
+
+    (a) Study.--The Federal banking agencies (as defined in section 3 
+of the Federal Deposit Insurance Act) and the Secretary of the Treasury 
+shall jointly conduct a study on fees charged and fee disclosures for 
+money wire transmissions.
+    (b) Comparison of Prices.--The study required by subsection (a) 
+shall compare the disclosures provided by federally insured depository 
+institutions for money wire transmissions with disclosures provided by 
+money transmitting businesses (as defined in section 5330(d)(1) of 
+title 31, United States Code) for such transmissions.
+    (c) Report Required.--The Federal banking agencies and the 
+Secretary of the Treasury shall jointly submit a report on the study 
+required under subsection (a) to the Congress before the end of the 1-
+year period beginning on the date of enactment of this Act.
+
+SEC. 4. FEDERAL CREDIT UNION ACT AMENDMENT.
+
+    Paragraph (12) of section 107 of the Federal Credit Union Act (12 
+U.S.C. 1757(12)) is amended to read as follows:
+            ``(12) in accordance with regulations prescribed by the 
+        Board--
+                    ``(A) to sell, to persons in the field of 
+                membership, negotiable checks (including travelers 
+                checks), money orders, and other similar money transfer 
+                instruments; and
+                    ``(B) to cash checks and money orders for persons 
+                in the field of membership for a fee;''.
+                                 <all>
+

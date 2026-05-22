@@ -1,0 +1,612 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 618 Reported in House (RH)]
+
+                                                 Union Calendar No. 145
+
+103d CONGRESS
+
+  1st Session
+
+                               H. R. 618
+
+                          [Report No. 103-255]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To extend and revise rulemaking authority with respect to government 
+ securities under the Federal securities laws, and for other purposes.
+
+_______________________________________________________________________
+
+                           September 23, 1993
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+
+
+
+
+
+                                                 Union Calendar No. 145
+103d CONGRESS
+  1st Session
+                                H. R. 618
+
+                          [Report No. 103-255]
+
+ To extend and revise rulemaking authority with respect to government 
+ securities under the Federal securities laws, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 26, 1993
+
+ Mr. Markey (for himself, Mr. Fields of Texas, Mr. Dingell, Mr. Wyden, 
+  Mr. Synar, and Mr. Cooper) introduced the following bill; which was 
+            referred to the Committee on Energy and Commerce
+
+                           September 23, 1993
+
+                   Additional sponsor: Mr. Moorhead.
+
+                           September 23, 1993
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+[For text of introduced bill, see copy of bill as introduced on January 
+                               26, 1993]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To extend and revise rulemaking authority with respect to government 
+ securities under the Federal securities laws, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Government Securities Reform Act of 
+1993''.
+
+SEC. 2. EXTENSION OF GOVERNMENT SECURITIES RULEMAKING AUTHORITY.
+
+    Section 15C of the Securities Exchange Act of 1934 (15 U.S.C. 78o-
+5) is amended by striking subsection (g).
+
+SEC. 3. TRANSACTION RECORDS.
+
+    (a) Amendment.--Section 15C(d) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78o-5(d)) is amended by adding at the end thereof the 
+following new paragraph:
+    ``(3) Government Securities Trade Reconstruction.--
+            ``(A) Furnishing records.--Every government securities 
+        broker and government securities dealer shall furnish to the 
+        Commission on request such records of government securities 
+        transactions, including records of the date and time of 
+        execution of trades, as the Commission may require to 
+        reconstruct trading in the course of a particular inquiry or 
+        investigation being conducted by the Commission. In requiring 
+        information pursuant to this paragraph, the Commission shall 
+        specify the information required, the period for which it is 
+        required, the time and date on which the information must be 
+        furnished, and whether the information is to be furnished 
+        directly to the Commission, to the Federal Reserve Bank of New 
+        York, or to an appropriate regulatory agency or self-regulatory 
+        organization with responsibility for examining the government 
+        securities broker or government securities dealer. The 
+        Commission may require that such information be furnished in 
+        machine readable form notwithstanding any limitation in 
+        subparagraph (B).
+            ``(B) Limitation; construction.--The Commission shall not 
+        utilize its authority under this paragraph to develop regular 
+        reporting requirements, except that the Commission may require 
+        information to be furnished under this paragraph as frequently 
+        as necessary for particular inquiries or investigations. This 
+        paragraph shall not be construed as requiring, or as 
+        authorizing the Commission to require, any government 
+        securities broker or government securities dealer to obtain or 
+        maintain any information for purposes of this paragraph which 
+        is not otherwise maintained by such broker or dealer in 
+        accordance with any other provision of law or usual and 
+        customary business practice. The Commission shall, where 
+        feasible, avoid requiring any information to be furnished under 
+        this paragraph that the Commission may obtain from the Federal 
+        Reserve Bank of New York.
+            ``(C) Procedures for requiring information.--At the time 
+        the Commission requests any information pursuant to 
+        subparagraph (A) with respect to any government securities 
+        broker or government securities dealer for which the Commission 
+        is not the appropriate regulatory agency, the Commission shall 
+        notify the appropriate regulatory agency for such government 
+        securities broker or government securities dealer and, upon 
+        request, furnish to the appropriate regulatory agency any 
+        information supplied to the Commission.
+            ``(D) Consultation.--Within 90 days after the date of the 
+        enactment of this paragraph, and annually thereafter, or upon 
+        the request of any other appropriate regulatory agency, the 
+        Commission shall consult with the other appropriate regulatory 
+        agencies to determine the availability of records that may be 
+        required to be furnished under this paragraph and, for those 
+        records available directly from the other appropriate 
+        regulatory agencies, to develop a procedure for furnishing such 
+        records expeditiously upon the Commission's request.
+            ``(E) Exclusion for examination reports.--Nothing in this 
+        paragraph shall be construed so as to permit the Commission to 
+        require any government securities broker or government 
+        securities dealer to obtain, maintain, or furnish any 
+        examination report of any appropriate regulatory agency other 
+        than the Commission or any supervisory recommendations or 
+        analysis contained in any such examination report.
+            ``(F) Authority to limit disclosure of information.--
+        Notwithstanding any other provision of law, the Commission and 
+        the appropriate regulatory agencies shall not be compelled to 
+        disclose any information required or obtained under this 
+        paragraph. Nothing in this paragraph shall authorize the 
+        Commission or any appropriate regulatory agency to withhold 
+        information from Congress, or prevent the Commission or any 
+        appropriate regulatory agency from complying with a request for 
+        information from any other Federal department or agency 
+        requesting information for purposes within the scope of its 
+        jurisdiction, or from complying with an order of a court of the 
+        United States in an action brought by the United States, the 
+        Commission, or the appropriate regulatory agency. For purposes 
+        of section 552 of title 5, United States Code, this 
+        subparagraph shall be considered a statute described in 
+        subsection (b)(3)(B) of such section 552.''.
+    (b) Conforming Amendments.--(1) Section 15C(a)(4) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78o-5(a)(4)) is amended by inserting 
+``, other than subsection (d)(3),'' after ``subsection (a), (b), or (d) 
+of this section''.
+    (2) Section 15C(f)(2) of such Act is amended--
+            (A) in the first sentence, by inserting ``, other than 
+        subsection (d)(3)'', after ``threatened violation of the 
+        provisions of this section''; and
+            (B) in the second sentence, by inserting ``(except 
+        subsection (d)(3))'' after ``other than this section''.
+
+SEC. 4. LARGE POSITION REPORTING.
+
+    Section 15C of the Securities Exchange Act of 1934 (15 U.S.C. 78o-
+5) is amended--
+            (1) by redesignating subsection (f) as subsection (h); and
+            (2) by inserting after subsection (e) the following new 
+        subsection:
+    ``(f) Large Position Reporting.--
+            ``(1) Reporting requirements.--The Secretary may adopt 
+        rules to require specified persons holding, maintaining, or 
+        controlling large positions in to-be-issued or recently issued 
+        Treasury securities to file such reports regarding such 
+        positions as the Secretary determines to be necessary or 
+        appropriate for the purpose of monitoring the impact in the 
+        Treasury securities market of concentrations of positions in 
+        Treasury securities and for the purpose of otherwise assisting 
+        the Commission in the enforcement of this title. Reports 
+        required under this subsection shall be filed with the Federal 
+        Reserve Bank of New York, acting as agent for the Secretary, 
+        and shall be provided by that Federal Reserve Bank to the 
+        Commission on a timely basis.
+            ``(2) Recordkeeping requirements.--Rules under this 
+        subsection may require persons holding, maintaining, or 
+        controlling large positions in Treasury securities to make and 
+        keep for prescribed periods such records as the Secretary 
+        determines are necessary or appropriate to ensure that such 
+        persons can comply with reporting requirements under this 
+        subsection.
+            ``(3) Aggregation rules.--Rules under this subsection--
+                    ``(A) may prescribe the manner in which positions 
+                and accounts shall be aggregated for the purpose of 
+                this subsection, including aggregation on the basis of 
+                common ownership or control; and
+                    ``(B) may define which persons (individually or as 
+                a group) hold, maintain, or control large positions.
+            ``(4) Definitional authority; determination of reporting 
+        threshold.--
+                    ``(A) In prescribing rules under this subsection, 
+                the Secretary may, consistent with the purpose of this 
+                subsection, define terms used in this subsection that 
+                are not otherwise defined in section 3 of this title.
+                    ``(B) Rules under this subsection shall specify--
+                            ``(i) the minimum size of positions subject 
+                        to reporting under this subsection, taking into 
+                        account the purposes of this subsection and the 
+                        potential for price distortions or other 
+                        anomalies resulting from large positions;
+                            ``(ii) the types of positions (which may 
+                        include financing arrangements) to be reported;
+                            ``(iii) the securities to be covered; and
+                            ``(iv) the form and manner in which reports 
+                        shall be transmitted, which may include 
+                        transmission in machine readable form.
+            ``(5) Limitation on disclosure of information.--
+        Notwithstanding any other provision of law, the Secretary and 
+        the Commission shall not be compelled to disclose any 
+        information required to be kept or reported under this 
+        subsection. Nothing in this subsection shall authorize the 
+        Secretary or the Commission to withhold information from 
+        Congress, or prevent the Secretary or the Commission from 
+        complying with a request for information from any other Federal 
+        department or agency requesting information for purposes within 
+        the scope of its jurisdiction, or from complying with an order 
+        of a court of the United States in an action brought by the 
+        United States, the Secretary, or the Commission. For purposes 
+        of section 552 of title 5, United States Code, this subsection 
+        shall be considered a statute described in subsection (b)(3)(B) 
+        of such section 552.''.
+
+SEC. 5. AUTHORITY OF THE COMMISSION TO REGULATE TRANSACTIONS IN 
+              EXEMPTED SECURITIES.
+
+    (a) Prevention of Fraudulent and Manipulative Acts and Practices.--
+Section 15(c)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o(c)(2)) is amended--
+            (1) by inserting ``(A)'' after ``(2)'';
+            (2) by striking ``fictitious quotation, and no municipal 
+        securities dealer'' and inserting the following:
+``fictitious quotation.
+    ``(B) No municipal securities dealer'';
+            (3) by striking ``fictitious quotation. The Commission 
+        shall'' and inserting the following:
+``fictitious quotation.
+    ``(C) No government securities broker or government securities 
+dealer shall make use of the mails or any means or instrumentality of 
+interstate commerce to effect any transaction in, or induce or attempt 
+to induce the purchase or sale of, any government security in 
+connection with which such government securities broker or government 
+securities dealer engages in any fraudulent, deceptive, or manipulative 
+act or practice, or makes any fictitious quotation.
+    ``(D) The Commission shall''; and
+            (4) by inserting at the end thereof the following:
+    ``(E) The Commission shall, prior to adopting any rule or 
+regulation under subparagraph (C), consult with and consider the views 
+of the Secretary of the Treasury and each appropriate regulatory 
+agency. If the Secretary of the Treasury or any appropriate regulatory 
+agency comments in writing on a proposed rule or regulation of the 
+Commission under such subparagraph (C) that has been published for 
+comment, the Commission shall respond in writing to such written 
+comment before adopting the proposed rule.''.
+    (b) Fraudulent and Manipulative Devices and Contrivances.--Section 
+15(c)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(c)(1)) 
+is amended--
+            (1) by inserting ``(A)'' after ``(c)(1)'';
+            (2) by striking ``contrivance, and no municipal securities 
+        dealer'' and inserting the following:
+``contrivance.
+    ``(B) No municipal securities dealer'';
+            (3) by striking ``contrivance. The Commission shall'' and 
+        inserting the following:
+``contrivance.
+    ``(C) No government securities broker or government securities 
+dealer shall make use of the mails or any means or instrumentality of 
+interstate commerce to effect any transaction in, or to induce or 
+attempt to induce the purchase or sale of, any government security by 
+means of any manipulative, deceptive, or other fraudulent device or 
+contrivance.
+    ``(D) The Commission shall''; and
+            (4) by inserting at the end thereof the following:
+    ``(E) The Commission shall, prior to adopting any rule or 
+regulation under subparagraph (C), consult with and consider the views 
+of the Secretary of the Treasury and each appropriate regulatory 
+agency. If the Secretary of the Treasury or any appropriate regulatory 
+agency comments in writing on a proposed rule or regulation of the 
+Commission under such subparagraph (C) that has been published for 
+comment, the Commission shall respond in writing to such written 
+comment before adopting the proposed rule.''.
+
+SEC. 6. BROKER/DEALER SUPERVISION RESPONSIBILITIES.
+
+    Section 15C of the Securities Exchange Act of 1934 (15 U.S.C. 78o-
+5) is amended by inserting after subsection (f) (as added by section 4 
+of this Act) the following new subsection:
+    ``(g) Policies and Procedures to Prevent and Detect Violations.--
+Every government securities broker and government securities dealer 
+shall establish, maintain, and enforce written policies and procedures 
+reasonably designed, taking into consideration the nature of such 
+person's business, to prevent and detect in connection with the 
+purchase or sale of government securities, insofar as practicable, 
+fraud and manipulation in violation of this title and the rules and 
+regulations thereunder and violations of such other provisions of this 
+title and the rules and regulations thereunder as the appropriate 
+regulatory agency for such government securities broker or government 
+securities dealer shall designate by rule.''.
+
+SEC. 7. SALES PRACTICE RULEMAKING AUTHORITY.
+
+    (a) Rules for Financial Institutions.--Section 15C(b) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78o-5(b)) is amended--
+            (1) by redesignating paragraphs (3), (4), (5), and (6) as 
+        paragraphs (4), (5), (6), and (7), respectively; and
+            (2) by inserting after paragraph (2) the following new 
+        paragraph:
+    ``(3) Sales Practice Rules.--(A) With respect to any financial 
+institution that has filed notice as a government securities broker or 
+government securities dealer or that is required to file notice under 
+subsection (a)(1)(B) of this section, the appropriate regulatory agency 
+for such government securities broker or government securities dealer 
+may issue such rules with respect to transactions in government 
+securities as may be necessary to prevent fraudulent and manipulative 
+acts and practices and to promote just and equitable principles of 
+trade.
+    ``(B) Each appropriate regulatory agency shall consult with the 
+other appropriate regulatory agencies for the purpose of ensuring the 
+consistency of the rules prescribed by such agencies under this 
+paragraph. The appropriate regulatory agencies shall consult with and 
+consider the views of the Secretary and the Commission with respect to 
+the impact of such rules on the operations of the market for government 
+securities, consistency with analogous rules of self-regulatory 
+organizations, and the enforcement and administration of such rules. 
+The consultation required by this paragraph shall be conducted prior to 
+the appropriate regulatory agency adopting a rule under this paragraph, 
+unless the appropriate regulatory agency determines that an emergency 
+exists requiring expeditious and summary action and publishes its 
+reasons therefor. If the Secretary or the Commission comments in 
+writing to the appropriate regulatory agency on a proposed rule that 
+has been published for comment, the appropriate regulatory agency shall 
+respond in writing to such written comment before adopting the rule.''.
+    (b) Rules by Registered Securities Associations.--
+            (1) Removal of limitations on authority.--(A) Section 15A 
+        of the Securities Exchange Act of 1934 (15 U.S.C. 78o-3) is 
+        amended--
+                    (i) by striking subsections (f)(1) and (f)(2); and
+                    (ii) by redesignating subsection (f)(3) as 
+                subsection (f).
+            (B) Section 15A(g) of such Act is amended--
+                    (i) by striking ``exempted securities'' in 
+                paragraph (3)(D) and inserting ``municipal 
+                securities'';
+                    (ii) by striking paragraph (4); and
+                    (iii) by redesignating paragraph (5) as paragraph 
+                (4).
+            (2) Oversight of registered securities associations.--
+        Section 19 of the Securities Exchange Act of 1934 (15 U.S.C. 
+        78s) is amended--
+                    (A) in subsection (b), by adding at the end thereof 
+                the following new paragraph:
+    ``(5) The Commission shall consult with and consider the views of 
+the Secretary of the Treasury prior to approving a proposed rule change 
+filed by a registered securities association that primarily concerns 
+conduct related to transactions in government securities, except where 
+the Commission determines that an emergency exists requiring 
+expeditious or summary action and publishes its reasons therefor. If 
+the Secretary comments in writing to the Commission on such proposed 
+rule change that has been published for comment, the Commission shall 
+respond in writing to such written comment before approving the 
+proposed rule change.'';
+                    (B) in subsection (c), by adding at the end thereof 
+                the following new paragraph:
+            ``(5) Before adopting a rule to amend a rule of a 
+        registered securities association that primarily concerns 
+        conduct related to transactions in government securities, the 
+        Commission shall consult with and consider the views of the 
+        Secretary, except where the Commission determines that an 
+        emergency exists requiring expeditious or summary action and 
+        publishes its reasons therefor. If the Secretary comments in 
+        writing to the Commission on such proposed rule change that has 
+        been published for comment, the Commission shall respond in 
+        writing to such written comment before approving the proposed 
+        rule change.''.
+            (3) Conforming amendment.--
+                    (A) Section 3(a)(12)(B)(ii) of such Act (15 U.S.C. 
+                78b(a)(12)(B)(ii)) is amended by striking ``15, 15A 
+                (other than subsection (g)(3)), and 17A'' and inserting 
+                ``15 and 17A''.
+                    (B) Section 15(b)(7) of such Act (15 U.S.C. 
+                78o(b)(7)) is amended by inserting ``or government 
+                securities broker or government securities dealer 
+                registered (or required to register) under section 
+                15C(a)(1)(A)'' after ``No registered broker or 
+                dealer''.
+
+SEC. 8. MARKET INFORMATION.
+
+    Section 23(b)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78w) is amended--
+            (1) by striking subparagraphs (C), (D), and (H);
+            (2) by redesignating subparagraphs (E), (F), and (G) as 
+        subparagraphs (C), (D), and (E), respectively;
+            (3) by redesignating subparagraphs (I), (J), and (K) as 
+        subparagraphs (F), (G), and (H), respectively;
+            (4) by striking ``and'' at the end of such redesignated 
+        subparagraph (G);
+            (5) by striking the period at the end of such redesignated 
+        subparagraph (H) and inserting ``; and''; and
+            (6) by inserting after such redesignated subparagraph (H) 
+        the following new subparagraph:
+            ``(I) the steps that have been taken and the progress that 
+        has been made in promoting the timely public dissemination and 
+        availability for analytical purposes (on a fair, reasonable, 
+        and nondiscriminatory basis) of information concerning 
+        government securities transactions and quotations, and its 
+        recommendations, if any, for legislation to assure timely 
+        dissemination of (i) information on transactions in regularly 
+        traded government securities sufficient to permit the 
+        determination of the prevailing market price for such 
+        securities, and (ii) reports of the highest published bids and 
+        lowest published offers for government securities (including 
+        the size at which persons are willing to trade with respect to 
+        such bids and offers).''.
+
+SEC. 9. STUDY OF REGULATORY SYSTEM FOR GOVERNMENT SECURITIES.
+
+    (a) Joint Study.--The Secretary of the Treasury, the Securities and 
+Exchange Commission, and the Board of Governors of the Federal Reserve 
+System shall--
+            (1) evaluate the effectiveness of any rules promulgated or 
+        amended after October 1, 1991, pursuant to section 15C of the 
+        Securities Exchange Act of 1934 or any amendment made by this 
+        title, and any national securities association rule changes 
+        applicable principally to government securities transactions 
+        approved after October 1, 1991, in carrying out the purposes of 
+        such Act;
+            (2) evaluate the effectiveness of surveillance and 
+        enforcement with respect to government securities, and the 
+        impact on such surveillance and enforcement of defects in any 
+        available audit trails with respect to transactions in such 
+        securities; and
+            (3) submit to the Congress, not later than March 31, 1998, 
+        any recommendations they may consider appropriate concerning--
+                    (A) the regulation of government securities brokers 
+                and government securities dealers,
+                    (B) the dissemination of information concerning 
+                quotations for and transactions in government 
+                securities,
+                    (C) the prevention of sales practice abuses in 
+                connection with transactions in government securities, 
+                and
+                    (D) such other matters as they consider 
+                appropriate.
+    (b) GAO Study.--The Comptroller General shall--
+            (1) conduct a study of the effectiveness of regulation of 
+        government securities brokers and government securities dealers 
+        pursuant to section 15C of the Securities Exchange Act of 1934 
+        and the effectiveness of the amendments made by this title; and
+            (2) submit to the Congress, not later than March 31, 1997, 
+        the Comptroller General's recommendations for change, if any, 
+        or such other recommendations as the Comptroller General 
+        considers appropriate.
+    (c) Treasury Study.--The Secretary of the Treasury, in consultation 
+with the Securities and Exchange Commission, shall--
+            (1) conduct a study of--
+                    (A) the identity and nature of the business of 
+                government securities brokers and government securities 
+                dealers that are registered with the Securities and 
+                Exchange Commission under section 15C of the Securities 
+                Exchange Act of 1934; and
+                    (B) the continuing need for, and regulatory and 
+                financial consequences of, a separate regulatory system 
+                for such government securities brokers and government 
+                securities dealers; and
+            (2) submit to the Congress, not later than 18 months after 
+        the date of enactment of this Act, the Secretary's 
+        recommendations for change, if any, or such other 
+        recommendations as the Secretary considers appropriate.
+
+SEC. 10. TECHNICAL AMENDMENTS.
+
+    (a) Amendments to Definitions.--Section 3(a) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended--
+            (1) in paragraph (34)(G) (relating to the definition of 
+        appropriate regulatory agency), by amending clauses (ii), 
+        (iii), and (iv) to read as follows:
+                            ``(ii) the Board of Governors of the 
+                        Federal Reserve System, in the case of a State 
+                        member bank of the Federal Reserve System, a 
+                        foreign bank, an uninsured State branch or 
+                        State agency of a foreign bank, a commercial 
+                        lending company owned or controlled by a 
+                        foreign bank (as such terms are used in the 
+                        International Banking Act of 1978), or a 
+                        corporation organized or having an agreement 
+                        with the Board of Governors of the Federal 
+                        Reserve System pursuant to section 25 or 
+                        section 25A of the Federal Reserve Act;
+                            ``(iii) the Federal Deposit Insurance 
+                        Corporation, in the case of a bank insured by 
+                        the Federal Deposit Insurance Corporation 
+                        (other than a member of the Federal Reserve 
+                        System or a Federal savings bank) or an insured 
+                        State branch of a foreign bank (as such terms 
+                        are used in the International Banking Act of 
+                        1978);
+                            ``(iv) the Director of the Office of Thrift 
+                        Supervision, in the case of a savings 
+                        association (as defined in section 3(b) of the 
+                        Federal Deposit Insurance Act) the deposits of 
+                        which are insured by the Federal Deposit 
+                        Insurance Corporation;'';
+            (2) by amending paragraph (46) (relating to the definition 
+        of financial institution) to read as follows:
+            ``(46) The term `financial institution' means--
+                    ``(A) a bank (as defined in paragraph (6) of this 
+                subsection);
+                    ``(B) a foreign bank (as such term is used in the 
+                International Banking Act of 1978); and
+                    ``(C) a savings association (as defined in section 
+                3(b) of the Federal Deposit Insurance Act) the deposits 
+                of which are insured by the Federal Deposit Insurance 
+                Corporation.''; and
+            (3) by redesignating paragraph (51) (as added by section 
+        204 of the International Securities Enforcement Cooperation Act 
+        of 1990) as paragraph (52).
+    (b) Effective Date of Broker/Dealer Registration.--
+            (1) Government securities brokers and dealers.--Section 
+        15C(a)(2)(ii) of the Securities Exchange Act of 1934 (15 U.S.C. 
+        78o-5(a)(2)(ii)) is amended by inserting before ``At the 
+        conclusion'' the following: ``The order granting registration 
+        shall not be effective until such government securities broker 
+        or government securities dealer has become a member of a 
+        national securities exchange registered under section 6 of this 
+        title, or a securities association registered under section 15A 
+        of this title, unless the Commission has exempted such 
+        government securities broker or government securities dealer, 
+        by rule or order, from such membership.''.
+            (2) Other brokers and dealers.--Section 15(b)(1)(B) of such 
+        Act (15 U.S.C. 78o(b)(1)(B)) is amended by inserting before 
+        ``At the conclusion'' the following: ``The order granting 
+        registration shall not be effective until such broker or dealer 
+        has become a member of a registered securities association, or 
+        until such broker or dealer has become a member of a national 
+        securities exchange if such broker or dealer effects 
+        transactions solely on that exchange, unless the Commission has 
+        exempted such broker or dealer, by rule or order, from such 
+        membership.''.
+    (c) Information Sharing.--Section 15C(d)(2) of such Act is amended 
+to read as follows:
+    ``(2) Information received by an appropriate regulatory agency, the 
+Secretary, or the Commission from or with respect to any government 
+securities broker, government securities dealer, any person associated 
+with a government securities broker or government securities dealer, or 
+any other person subject to this section or rules promulgated 
+thereunder, may be made available by the Secretary or the recipient 
+agency to the Commission, the Secretary, the Department of Justice, the 
+Commodity Futures Trading Commission, any appropriate regulatory 
+agency, any self-regulatory organization, or any Federal Reserve 
+Bank.''.
+
+SEC. 11. OFFERINGS OF CERTAIN GOVERNMENT SECURITIES.
+
+    Section 15(c) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o(c)) is amended by adding at the end the following new paragraph:
+    ``(7) In connection with any bid for or purchase of a government 
+security related to an offering of government securities by or on 
+behalf of an issuer, no government securities broker, government 
+securities dealer, or bidder for or purchaser of securities in such 
+offering shall knowingly or willfully make any false or misleading 
+written statement or omit any fact necessary to make any written 
+statement made not misleading. For purposes of the preceding sentence, 
+the term `government security' shall not include any obligation subject 
+to the public debt limit established in section 3101 of title 31, 
+United States Code.''.
+
+SEC. 12. RULE OF CONSTRUCTION.
+
+    (a) In General.--No provision of, or amendment made by, this Act 
+may be construed--
+            (1) to govern the initial issuance of any public debt 
+        obligation, or
+            (2) to grant any authority to (or extend any authority of) 
+        the Securities and Exchange Commission, any appropriate 
+        regulatory agency, or a self-regulatory organization--
+                    (A) to prescribe any procedure, term, or condition 
+                of such initial issuance,
+                    (B) to promulgate any rule or regulation governing 
+                such initial issuance, or
+                    (C) to otherwise regulate in any manner such 
+                initial issuance.
+    (b) Public Debt Obligation.--For purposes of this section, the term 
+``public debt obligation'' means an obligation subject to the public 
+debt limit established in section 3101 of title 31, United States Code.
+

@@ -1,0 +1,286 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1933 Introduced in Senate (IS)]
+
+112th CONGRESS
+  1st Session
+                                S. 1933
+
+  To increase American job creation and economic growth by improving 
+  access to the public capital markets for emerging growth companies.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            December 1, 2011
+
+   Mr. Schumer (for himself, Mr. Toomey, Mr. Warner, and Mr. Crapo) 
+introduced the following bill; which was read twice and referred to the 
+            Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To increase American job creation and economic growth by improving 
+  access to the public capital markets for emerging growth companies.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Reopening American Capital Markets 
+to Emerging Growth Companies Act of 2011''.
+
+SEC. 2. DEFINITIONS.
+
+    (a) Securities Act of 1933.--Section 2(a) of the Securities Act of 
+1933 (15 U.S.C. 77b(a)) is amended by adding at the end the following:
+            ``(19) The term `emerging growth company' means an issuer 
+        that had total annual gross revenues of less than 
+        $1,000,000,000 during its most recently completed fiscal year. 
+        An issuer that is an emerging growth company as of the first 
+        day of that fiscal year shall continue to be deemed an emerging 
+        growth company until the earliest of--
+                    ``(A) the last day of the fiscal year of the issuer 
+                during which it had total annual gross revenues of 
+                $1,000,000,000 or more;
+                    ``(B) the last day of the fiscal year of the issuer 
+                following the fifth anniversary of the date of the 
+                first sale of common equity securities of the issuer 
+                pursuant to an effective registration statement under 
+                this title; and
+                    ``(C) the date on which such issuer is deemed to be 
+                a `large accelerated filer', as defined in section 
+                240.12b-2 of title 17 of the Code of Federal 
+                Regulations, or any successor thereto.''.
+    (b) Securities Exchange Act of 1934.--Section 3(a) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended--
+            (1) by redesignating paragraph (77), as added by section 
+        941(a) of the Investor Protection and Securities Reform Act of 
+        2010 (Public Law 111-203, 124 Stat. 1890), as paragraph (79); 
+        and
+            (2) by adding at the end the following:
+            ``(80) The term `emerging growth company' means an issuer 
+        that had total annual gross revenues of less than 
+        $1,000,000,000 during its most recently completed fiscal year. 
+        An issuer that is an emerging growth company as of the first 
+        day of that fiscal year shall continue to be deemed an emerging 
+        growth company until the earliest of--
+                    ``(A) the last day of the fiscal year of the issuer 
+                during which it had total annual gross revenues of 
+                $1,000,000,000 or more;
+                    ``(B) the last day of the fiscal year of the issuer 
+                following the fifth anniversary of the date of the 
+                first sale of common equity securities of the issuer 
+                pursuant to an effective registration statement under 
+                the Securities Act of 1933; and
+                    ``(C) the date on which such issuer is deemed to be 
+                a `large accelerated filer', as defined in section 
+                240.12b-2 of title 17 of the Code of Federal 
+                Regulations, or any successor thereto.''.
+    (c) Other Definitions.--As used in this title, the following 
+definitions shall apply:
+            (1) Commission.--The term ``Commission'' means the 
+        Securities and Exchange Commission.
+            (2) Initial public offering date.--The term ``initial 
+        public offering date'' means the date of the first sale of 
+        common equity securities of an issuer pursuant to an effective 
+        registration statement under the Securities Act of 1933.
+
+SEC. 3. DISCLOSURE OBLIGATIONS.
+
+    (a) Executive Compensation.--
+            (1) Exemption.--Section 14A(e) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78n-1(e)) is amended--
+                    (A) by inserting ``An emerging growth company shall 
+                be exempt from the requirements of subsections (a) and 
+                (b).'' before ``The Commission may''; and
+                    (B) by striking ``an issuer'' and inserting ``any 
+                other issuer''.
+            (2) Proxies.--Section 14(i) of the Securities Exchange Act 
+        of 1934 (15 U.S.C. 78n(i)) is amended by inserting ``, for any 
+        issuer other than an emerging growth company,'' after 
+        ``including''.
+            (3) Compensation disclosures.--Section 953(b)(1) of the 
+        Dodd-Frank Wall Street Reform and Consumer Protection Act of 
+        2010 (Public Law 111-203; 124 Stat. 1904) is amended by 
+        inserting ``, other than an emerging growth company, as that 
+        term is defined in section 3(a) of the Securities Exchange Act 
+        of 1934,'' after ``require each issuer''.
+    (b) Financial Disclosures.--
+            (1) Securities act of 1933.--Section 7(a) of the Securities 
+        Act of 1933 (15 U.S.C. 77g(a)) is amended by adding at the end 
+        the following: ``An emerging growth company need not present 
+        more than 2 years of audited financial statements in order for 
+        the registration statement of such emerging growth company with 
+        respect to an initial public offering of its common equity 
+        securities to be effective, and in any other registration 
+        statement to be filed with the Commission, an emerging growth 
+        company need not present financial data for any period prior to 
+        the earliest audited period presented in connection with its 
+        initial public offering.''.
+            (2) Securities exchange act of 1934.--Section 13(a) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78m(a)) is amended 
+        by adding at the end the following: ``In any registration 
+        statement, periodic report, or other reports to be filed with 
+        the Commission, an emerging growth company need not present 
+        financial data for any period prior to the earliest audited 
+        period presented in connection with its initial public 
+        offering.''.
+    (c) New Accounting Pronouncements.--Section 19(b)(1)(A) of the 
+Securities Act of 1933 (15 U.S.C. 77s(b)(1)(A)) is amended--
+            (1) in clause (iv), by striking ``and'' at the end; and
+            (2) by adding at the end the following:
+                            ``(vi) has not established any accounting 
+                        principles that would require an emerging 
+                        growth company to comply with any new or 
+                        revised financial accounting standard as of an 
+                        effective date that is earlier than the 
+                        effective date that applies to a company that 
+                        is not an issuer, as defined in section 2(a)(7) 
+                        of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
+                        7201(a)(7)); and''.
+    (d) Other Disclosures.--An emerging growth company may comply with 
+section 229.303(a) of title 17 of the Code of Federal Regulations, or 
+any successor thereto, by providing information required by such 
+section with respect to the financial statements of the emerging growth 
+company for each period presented pursuant to subsection (b). An 
+emerging growth company may comply with section 229.402 of title 17 of 
+the Code of Federal Regulations, or any successor thereto, by 
+disclosing the same information as any issuer with a market value of 
+outstanding voting and nonvoting common equity held by non-affiliates 
+of less than $75,000,000.
+
+SEC. 4. INTERNAL CONTROLS AUDIT.
+
+    Section 404(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
+7262(b)) is amended by inserting ``, other than an issuer that is an 
+emerging growth company (as defined in section 3 of the Securities 
+Exchange Act of 1934),'' before ``shall attest to''.
+
+SEC. 5. AUDITING STANDARDS.
+
+    Section 103(a)(3) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
+7213(a)(3)) is amended by adding at the end the following:
+                    ``(C) Transition period for emerging growth 
+                companies.--Any rules of the Board requiring mandatory 
+                audit firm rotation or a supplement to the auditor's 
+                report in which the auditor would be required to 
+                provide additional information about the audit and the 
+                financial statements of the issuer (auditor discussion 
+                and analysis) shall not apply to an emerging growth 
+                company, as defined in section 3 of the Securities 
+                Exchange Act of 1934. Any additional rules adopted by 
+                the Board after the date of enactment of this 
+                subparagraph shall not apply to any emerging growth 
+                company, unless the Commission determines that the 
+                application of such additional requirements to emerging 
+                growth companies is necessary or appropriate in the 
+                public interest, after considering the protection of 
+                investors and whether the action will promote 
+                efficiency, competition, and capital formation.''.
+
+SEC. 6. AVAILABILITY OF INFORMATION ABOUT EMERGING GROWTH COMPANIES.
+
+    (a) Provision of Research.--Section 2(a)(3) of the Securities Act 
+of 1933 (15 U.S.C. 77b(a)(3)) is amended by adding at the end the 
+following: ``The publication or distribution by a broker or dealer of a 
+research report about an emerging growth company that is the subject of 
+a proposed public offering of the common equity securities of such 
+emerging growth company pursuant to a registration statement that the 
+issuer proposes to file, or has filed, or that is effective shall be 
+deemed for purposes of paragraph (10) of this subsection and section 
+5(c) not to constitute an offer for sale or offer to sell a security, 
+even if the broker or dealer is participating or will participate in 
+the registered offering of the securities of the issuer. As used in 
+this paragraph, the term ``research report'' means a written, 
+electronic, or oral communication that includes information, opinions, 
+or recommendations with respect to securities of an issuer or an 
+analysis of a security or an issuer, whether or not it provides 
+information reasonably sufficient upon which to base an investment 
+decision.''.
+    (b) Securities Analyst Communications.--Section 15D of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78o-6) is amended--
+            (1) by redesignating subsection (c) as subsection (d); and
+            (2) by inserting after subsection (b) the following:
+    ``(c) Limitation.--Notwithstanding subsection (a) or any other 
+provision of law, neither the Commission nor any national securities 
+association registered under section 15A may adopt or maintain any rule 
+or regulation in connection with an initial public offering of the 
+common equity of an emerging growth company--
+            ``(1) restricting, based on functional role, which 
+        associated persons of a broker, dealer, or member of a national 
+        securities association, may arrange for communications between 
+        a securities analyst and a potential investor; or
+            ``(2) restricting a securities analyst from participating 
+        in any communications with the management of an emerging growth 
+        company that is also attended by any other associated person of 
+        a broker, dealer, or member of a national securities 
+        association whose functional role is other than as a securities 
+        analyst.''.
+    (c) Expanding Permissible Communications.--Section 5 of the 
+Securities Exchange Act of 1933 (15 U.S.C. 77e) is amended--
+            (1) by redesignating subsection (d) as subsection (e); and
+            (2) by inserting after subsection (c) the following:
+    ``(d) Limitation.--Notwithstanding any other provision of this 
+section, an emerging growth company or any person authorized to act on 
+behalf of an emerging growth company may engage in oral or written 
+communications with potential investors that are qualified 
+institutional buyers or institutions that are accredited investors, as 
+such terms are respectively defined in section 230.144A and section 
+230.501(a) of title 17 of the Code of Federal Regulations, or any 
+successor thereto, to determine whether such investors might have an 
+interest in a contemplated securities offering, either prior to or 
+following the date of filing of a registration statement with respect 
+to such securities with the Commission, subject to the requirement of 
+subsection (b)(2).''.
+    (d) Post Offering Communications.--Neither the Commission nor any 
+national securities association registered under section 15A of the 
+Securities Exchange Act of 1934 may adopt or maintain any rule or 
+regulation prohibiting any broker, dealer, or member of a national 
+securities association from publishing or distributing any research 
+report or making a public appearance, with respect to the securities of 
+an emerging growth company, either--
+            (1) within any prescribed period of time following the 
+        initial public offering date of the emerging growth company; or
+            (2) within any prescribed period of time prior to the 
+        expiration date of any agreement between the broker, dealer, or 
+        member of a national securities association and the emerging 
+        growth company or its shareholders that restricts or prohibits 
+        the sale of securities held by the emerging growth company or 
+        its shareholders after the initial public offering date.
+
+SEC. 7. OTHER MATTERS.
+
+    Section 6 of the Securities Act of 1933 (15 U.S.C. 77f) is amended 
+by adding at the end the following:
+    ``(e) Emerging Growth Companies.--
+            ``(1) In general.--Any emerging growth company, prior to 
+        its initial public offering date, may confidentially submit to 
+        the Commission a draft registration statement, for confidential 
+        nonpublic review by the staff of the Commission prior to public 
+        filing, provided that the initial confidential submission and 
+        all amendments thereto shall be publicly filed with the 
+        Commission not later than 21 days before the date on which the 
+        issuer conducts a road show, as such term is defined in section 
+        230.433(h)(4) of title 17 of the Code of Federal Regulations, 
+        or any successor thereto.
+            ``(2) Confidentiality.--Notwithstanding any other provision 
+        of this title, the Commission shall not be compelled to 
+        disclose any information provided to or obtained by the 
+        Commission pursuant to this subsection. For purposes of section 
+        552 of title 5, United States Code, this subsection shall be 
+        considered a statute described in subsection (b)(3)(B) of such 
+        section 552. Information described in or obtained pursuant to 
+        this subsection shall be deemed to constitute confidential 
+        information for purposes of section 24(b)(2) of the Securities 
+        Exchange Act of 1934.''.
+                                 <all>
+

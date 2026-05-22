@@ -1,0 +1,474 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3447 Introduced in House (IH)]
+
+103d CONGRESS
+  1st Session
+                                H. R. 3447
+
+    To amend the Federal securities laws to equalize the regulatory 
+  treatment of participants in the securities industry, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            November 4, 1993
+
+ Mr. Dingell (for himself, Mr. Moorhead, Mr. Markey, and Mr. Fields of 
+    Texas) introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Federal securities laws to equalize the regulatory 
+  treatment of participants in the securities industry, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securities Regulatory Equality Act 
+of 1993''.
+
+TITLE I--REGULATION OF SECURITIES ACTIVITIES OF DEPOSITORY INSTITUTIONS
+
+                    PART A--BROKER-DEALER PROVISIONS
+
+SEC. 101. DEFINITION OF BROKER.
+
+    Section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78c(a)(4)) is amended to read as follows:
+            ``(4)(A) The term `broker' means any person engaged in the 
+        business of effecting transactions in securities for the 
+        account of others.
+            ``(B) A bank shall not be deemed to be a `broker' because 
+        it engages in one or more of the following activities:
+                    ``(i) Engages in fiduciary activities (including 
+                effecting transactions in the course of such fiduciary 
+                activities) permissible for national banks under the 
+                first section of the Act of September 28, 1962 (12 
+                U.S.C. 92a), or for State banks under relevant State 
+                trust law, except that a bank shall be deemed a broker 
+                if, in the conduct of such fiduciary activities, it--
+                            ``(I) publicly solicits brokerage business; 
+                        or
+                            ``(II) is compensated for such business by 
+                        the payment of commissions or similar 
+                        remuneration based on effecting transactions in 
+                        securities (excluding fees calculated as 
+                        percentage of assets under management).
+                    ``(ii) Effects transactions in exempted securities, 
+                other than municipal securities, or in commercial 
+                paper, bankers' acceptances, or commercial bills.''.
+
+SEC. 102. DEFINITION OF DEALER.
+
+    Section 3(a)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78c(a)(5)) is amended to read as follows:
+            ``(5)(A) The term `dealer' means any person engaged in the 
+        business of buying and selling securities for his own account 
+        through a broker or otherwise.
+            ``(B) Such term does not include--
+                    ``(i) any person insofar as he buys or sells 
+                securities for his own account, either individually or 
+                in some fiduciary capacity, but not as part of a 
+                regular business; or
+                    ``(ii) any bank insofar as the bank (I) buys and 
+                sells commercial paper, bankers' acceptances, or 
+                commercial bills, or exempted securities other than 
+                municipal securities; or (II) buys and sells securities 
+                for investment purposes for the bank or for accounts in 
+                which the bank, acting as trustee, is authorized to 
+                determine the securities to be purchased or sold.''.
+
+SEC. 103. POWER TO EXEMPT FROM THE DEFINITIONS OF BROKER AND DEALER.
+
+    Section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) is 
+amended by adding at the end the following:
+    ``(e) The Commission, by rule, regulation, or order, upon its own 
+motion or upon application, may conditionally or unconditionally exempt 
+any person or class of persons from the definitions of `broker' or 
+`dealer,' if the Commission finds that such exemption is consistent 
+with the public interest, the protection of investors, and the purposes 
+of this title.''.
+
+SEC. 104. REQUIREMENT THAT BANKS FALLING WITHIN THE DEFINITIONS OF 
+              BROKER OR DEALER PLACE THEIR SECURITIES ACTIVITIES IN A 
+              SEPARATE CORPORATE ENTITY.
+
+    Section 15(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o(a)) is amended to read as follows:
+    ``Sec. 15. (a)(1) It shall be unlawful for any broker or dealer 
+that is either a person other than a natural person or a natural person 
+not associated with a broker or dealer that is a person other than a 
+natural person (other than such a broker or dealer whose business is 
+exclusively intrastate and who does not make use of any facility of a 
+national securities exchange) to make use of the mails or any means or 
+instrumentality of interstate commerce to effect any transactions in, 
+or to induce or attempt to induce the purchase or sale of, any security 
+(other than an exempted security or commercial paper, bankers' 
+acceptances, or commercial bills) unless such broker or dealer is 
+registered in accordance with subsection (b) of this section.
+    ``(2) It shall be unlawful for any bank to act as a broker or 
+dealer, except in the course of an exclusively intrastate business.
+    ``(3) The Commission, by rule or order, as it deems consistent with 
+the public interest and the protection of investors, may conditionally 
+or unconditionally exempt from paragraphs (1) and (2) of this 
+subsection any broker or dealer or class of brokers or dealers 
+specified in such rule or order.''.
+
+               PART B--BANK-INVESTMENT COMPANY ACTIVITIES
+
+SEC. 111. CUSTODY OF INVESTMENT COMPANY ASSETS BY AFFILIATED BANKS.
+
+    (a) Management Companies.--Section 17(f) of the Investment Company 
+Act of 1940 (15 U.S.C. 80a-17(f)) is amended--
+            (1) by redesignating clauses (1), (2), and (3) of the first 
+        sentence as clauses (A), (B), and (C), respectively;
+            (2) by designating the five sentences of such section as 
+        paragraphs (1) through (5), respectively; and
+            (3) by adding at the end thereof the following new 
+        paragraph:
+    ``(6) Notwithstanding paragraph (1)(A) of this subsection, if a 
+bank described in such paragraph, or affiliated person thereof, is an 
+affiliated person of the registered management company, such bank may 
+not serve as custodian under this subsection unless permitted by such 
+rules, regulations, or orders as the Commission prescribes consistent 
+with the protection of investors.''.
+    (b) Unit Investment Trusts.--Section 26(a)(1) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-26(a)(1)) is amended by inserting 
+after ``bank'' the following: ``that is not an affiliated person of 
+such principal underwriter or depositor and is not an affiliated person 
+of an affiliated person of such principal underwriter or depositor, 
+unless permitted by such rules, regulations, or orders as the 
+Commission prescribes consistent with the protection of investors''.
+
+SEC. 112. AFFILIATED PERSONS AND TRANSACTIONS.
+
+    (a) Affiliated Persons.--Section 2(a)(3) of the Investment Company 
+Act of 1940 (15 U.S.C. 80a-2(a)(3)) is amended by--
+            (1) striking ``thereof; and'' and inserting in lieu thereof 
+        ``thereof;''; and
+            (2) by inserting before the period at the end of clause (F) 
+        the following: ``; and (G) if such other person is an 
+        investment company, any person or class of persons which the 
+        Commission by rule, regulation, or order shall have determined 
+        to be affiliated persons by reason of having had, at any time 
+        since the beginning of the last two completed fiscal years of 
+        such company, a material business or professional relationship 
+        with such company or with any person that is a principal 
+        underwriter for, or promoter or sponsor of, such company or any 
+        affiliated person (as described in clauses (A) through (F) of 
+        this paragraph) of such company''.
+    (b) Purchases or Acquisitions During Underwriting.--Section 10(f) 
+of the Investment Company Act of 1940 (15 U.S.C. 80a-10(f)) is amended 
+by--
+            (1) inserting ``(1)'' immediately before ``a principal 
+        underwriter'' the first place it appears; and
+            (2) inserting after ``for the issuer'' the following: ``; 
+        or (2) the proceeds of which will be used to retire any part of 
+        an indebtedness owed to a bank where the bank or an affiliated 
+        person thereof is an affiliated person of such registered 
+        company''.
+
+SEC. 113. PROHIBITION OF CONTROLLING INTEREST IN INVESTMENT COMPANY.
+
+    Section 15 of the Investment Company Act of 1940 (15 U.S.C. 80a-15) 
+is amended by adding at the end the following new subsection:
+    ``(g) Prohibition of Controlling Interest in Investment Company.--
+If any investment adviser to a registered investment company, or an 
+affiliated person of such investment adviser, also holds shares of the 
+investment company in a fiduciary capacity, that investment adviser or 
+affiliated person may own, directly or indirectly, a controlling 
+interest in such registered investment company only--
+            ``(1) if it passes through to the beneficial owners of the 
+        shares, including any person acting in a fiduciary capacity who 
+        is not an affiliated person of that investment adviser or any 
+        affiliated person thereof, the power to vote the shares of the 
+        investment company;
+            ``(2) if it votes the shares of the investment company held 
+        by it in the same proportion as shares held by all other 
+        shareholders of the investment company; or
+            ``(3) as otherwise permitted under such rules, regulations, 
+        or orders as the Commission may prescribe for the protection of 
+        investors.''.
+
+SEC. 114. BORROWING FROM AN AFFILIATED BANK.
+
+    Section 18(f) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+18(f)) is amended by adding at the end thereof the following new 
+paragraph:
+    ``(3) Notwithstanding the provisions of paragraph (1) of this 
+subsection, it shall be unlawful for any registered investment company 
+to borrow from any bank if such bank or any affiliated person thereof 
+is an affiliated person of such company, except that the Commission 
+may, by rule, regulation, or order, permit such borrowing which the 
+Commission finds to be in the public interest and consistent with the 
+protection of investors.''.
+
+SEC. 115. INDEPENDENT DIRECTORS.
+
+    (a) Definition of Interested Person.--Section 2(a)(19)(A) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(19)(A)) is amended--
+            (1) in clause (v), by striking out ``1934 or any affiliated 
+        person of such a broker or dealer, and'' and inserting in lieu 
+        thereof: ``1934 or any person that, at any time during the last 
+        6 months, has executed any portfolio transactions for, engaged 
+        in any principal transactions with, or loaned money to, the 
+        investment company or any other investment company having the 
+        same investment adviser, principal underwriter, sponsor, or 
+        promoter, or any affiliated person of such a broker, dealer, or 
+        person,'';
+            (2) by redesignating clause (vi) as clause (vii); and
+            (3) by inserting after clause (v) the following new clause:
+                            ``(vi) any employee of a bank that acts as 
+                        custodian or transfer agent for such company, 
+                        and''.
+    (b) Bank Holding Companies.--Section 10(c) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-10(c)) is amended by striking 
+``bank, except'' and inserting in lieu thereof: ``bank (together with 
+its subsidiaries) or any one bank holding company (together with its 
+affiliates and subsidiaries), as those terms are defined in the Bank 
+Holding Company Act of 1956, except''.
+    (c) Effective Date.--The provisions of subsection (a) of this 
+section shall become effective one year after the date of enactment of 
+this Act.
+
+SEC. 116. PROHIBITION AGAINST USE OF A BANK'S NAME BY AN AFFILIATED 
+              INVESTMENT COMPANY.
+
+    Section 35(d) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+35(d)) is amended by inserting after the first sentence thereof the 
+following: ``It shall be deceptive and misleading for any registered 
+investment company which has as an investment adviser or distributor a 
+bank or affiliated person thereof, to adopt, as part of the name, 
+title, or logo of such company, or of any security of which it is the 
+issuer, any word or design which is the same as or similar to, or a 
+variation of, the name, title, or logo of such bank.''.
+
+SEC. 117. DEFINITION OF BROKER.
+
+    Section 2(a)(6) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-2(a)(6)) is amended to read as follows:
+            ``(6) `Broker' has the same meaning as in the Securities 
+        Exchange Act of 1934, but does not include any person solely by 
+        reason of the fact that such person is an underwriter for one 
+        or more investment companies.''.
+
+SEC. 118. DEFINITION OF DEALER.
+
+    Section 2(a)(11) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-2(a)(11)) is amended to read as follows:
+            ``(11) `Dealer' has the same meaning as in the Securities 
+        Exchange Act of 1934, but does not include an insurance company 
+        or investment company.''.
+
+SEC. 119. TREATMENT OF PUBLICLY ADVERTISED COMMON TRUST FUNDS.
+
+    (a) Securities Act of 1933.--Section 3(a)(2) of the Securities Act 
+of 1933 (15 U.S.C. 77c(a)(2)) is amended--
+            (1) by inserting ``that is'' after ``common trust fund or 
+        similar fund''; and
+            (2) by inserting after ``administrator, or guardian'' the 
+        following: ``, and that is not offered to the general public''.
+    (b) Securities Exchange Act of 1934.--Section 3(a)(12)(A)(iii) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(12)(A)(iii)) is 
+amended--
+            (1) by inserting ``that is'' after ``common trust fund or 
+        similar fund''; and
+            (2) by inserting after ``administrator, or guardian'' the 
+        following: ``, and that is not offered to the general public''.
+    (c) Investment Company Act of 1940.--Section 3(c)(3) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-3(c)(3)) is amended--
+            (1) by inserting ``that is'' after ``common trust fund or 
+        similar fund''; and
+            (2) by inserting after ``administrator, or guardian'' the 
+        following: ``, and that is not offered to the general public''.
+
+SEC. 120. REMOVAL OF THE EXCLUSION FROM THE DEFINITION OF INVESTMENT 
+              ADVISER FOR BANKS THAT ADVISE INVESTMENT COMPANIES.
+
+    Section 202(a)(11)(A) of the Investment Advisers Act of 1940 (15 
+U.S.C. 80b-2(a)(11)(A)) is amended by striking out ``investment 
+company'' and inserting in lieu thereof ``investment company, except 
+that the term `investment adviser' includes any bank or bank holding 
+company to the extent that such bank or bank holding company acts as an 
+investment adviser to a registered investment company''.
+
+SEC. 121. DEFINITION OF BROKER.
+
+    Section 202(a)(3) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2(a)(3)) is amended to read as follows:
+            ``(3) `Broker' has the same meaning as in the Securities 
+        Exchange Act of 1934.''.
+
+SEC. 122. DEFINITION OF DEALER.
+
+    Section 202(a)(7) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2(a)(7)) is amended to read as follows:
+            ``(7) `Dealer' has the same meaning as in the Securities 
+        Exchange Act of 1934, but does not include an insurance company 
+        or investment company.''.
+
+TITLE II--ADMINISTRATION OF SECURITIES LAWS WITH RESPECT TO SECURITIES 
+                       OF DEPOSITORY INSTITUTIONS
+
+            PART A--AMENDMENTS TO THE SECURITIES ACT OF 1933
+
+SEC. 201. BANK-ISSUED SECURITIES.
+
+    Section 3(a)(2) of the Securities Act of 1933 (15 U.S.C. 77c(a)(2)) 
+is amended--
+            (1) by striking ``or any security issued or guaranteed by 
+        any bank'', and
+            (2) by striking ``For purposes of this paragraph, a 
+        security issued or guaranteed by a bank shall not include any 
+        interest or participation in any collective trust fund 
+        maintained by a bank; and'', and inserting in lieu thereof 
+        ``For purposes of this title,''.
+
+SEC. 202. SAVINGS ASSOCIATION-ISSUED SECURITIES.
+
+    Section 3(a)(5) of the Securities Act of 1933 (15 U.S.C. 77c(a)(5)) 
+is amended to read as follows:
+            ``(5) Any security issued by--
+                    ``(A) a farmer's cooperative organization exempt 
+                from tax under section 521 of the Internal Revenue Code 
+                of 1986,
+                    ``(B) a corporation described in section 501(c)(16) 
+                of such Code and exempt from tax under section 501(a) 
+                of such Code, or
+                    ``(C) a corporation described in section 501(c)(2) 
+                of such Code which is exempt for tax under section 
+                501(a) of such Code and is organized for the exclusive 
+                purpose of holding title to property, collecting income 
+                therefrom, and turning over the entire amount thereof, 
+                less expenses, to an organization or corporation 
+                described in subparagraph (A) or (C).''.
+
+SEC. 203. EXEMPTION TO PERMIT TRANSITION TO HOLDING COMPANY STRUCTURES.
+
+    Section 3(a)(9) of the Securities Act of 1933 (15 U.S.C. 77c(a)(9)) 
+is amended to read as follows:
+            ``(9) Except with respect to a security exchanged in a case 
+        under title 11 of the United States Code--
+                    ``(A) any security exchanged by the issuer with its 
+                existing security holders exclusively where no 
+                commission or other remuneration is paid or given 
+                directly or indirectly for soliciting such exchange; or
+                    ``(B) any security issued or exchanged in 
+                connection with a transaction solely involving 
+                exchanges or substitutions of securities as part of a 
+                reorganization of a corporation into a holding company, 
+                if--
+                            ``(i) as part of the reorganization, the 
+                        security holders exchange their securities of 
+                        the corporation for securities of a newly 
+                        formed holding company with no significant 
+                        assets other than securities of the corporation 
+                        and its existing subsidiaries, and receive 
+                        securities of the same class evidencing the 
+                        same proportional share or debt interests in 
+                        the holding company as they held in the 
+                        corporation prior to the transaction, except 
+                        for changes resulting from lawful elimination 
+                        of fractional interests and the exercise of 
+                        dissenting shareholder rights under applicable 
+                        law;
+                            ``(ii) the rights and interests of security 
+                        holders in the holding company are 
+                        substantially the same as those in the 
+                        corporation prior to the transaction other than 
+                        as may be required by law; and
+                            ``(iii) the holding company has 
+                        substantially the same assets and liabilities 
+                        as the corporation had prior to the 
+                        transaction.''.
+
+SEC. 204. TREATMENT OF CERTAIN BANK AND SAVINGS ASSOCIATION 
+              INSTRUMENTS.
+
+    Section 3 of the Securities Act of 1933 (15 U.S.C. 77c) is amended 
+by adding at the end thereof the following new subsection:
+    ``(d)(1) Except as hereinafter expressly provided, in those 
+circumstances in which an interest in any of the following is otherwise 
+deemed to be a `security' within the meaning of section 2, the 
+provisions of this Act shall not apply to--
+            ``(A) a deposit account, savings account, certificate of 
+        deposit, or other deposit instrument issued by a bank or 
+        savings association;
+            ``(B) a share account issued by a savings association if 
+        such account is insured by the Federal Deposit Insurance 
+        Corporation;
+            ``(C) a banker's acceptance;
+            ``(D) a letter of credit issued by a bank or savings 
+        association; or
+            ``(E) a debit account at a bank or savings association 
+        arising from a credit card or other similar arrangement.
+This paragraph shall not exempt from the provisions of this Act any 
+participation in such an interest, account, certificate, instrument, 
+acceptance, or letter other than a participation that is a direct 
+obligation of a bank or savings association.
+    ``(2) For purposes of this subsection, the term `deposit' means the 
+unpaid balance of money or its equivalent received or held by a bank or 
+savings association in the usual course of business--
+            ``(A) for which it has given or is obligated to give 
+        credit, either conditionally or unconditionally, to a 
+        commercial, checking, savings, time, or thrift account;
+            ``(B) which is evidenced by its certificate of deposit, a 
+        check or draft drawn against a deposit account and certified by 
+        a bank or savings association, a letter of credit or a 
+        traveler's check, or by any other similar instrument on which a 
+        bank or savings association is liable;
+            ``(C) which consists of nonpooled assets of individual 
+        trust funds received or held by bank or savings association 
+        whether held in the trust department or deposited in any other 
+        department of such bank or savings association; or
+            ``(D) which is received or held by a bank or savings 
+        association for a special or specific noninvestment purpose, 
+        including, without being limited to, escrow funds, funds held 
+        as security for any obligation due to the bank or savings 
+        association or others (including funds held as dealers' 
+        reserves) or for securities loaned by the bank or savings 
+        association, funds deposited by a debtor to meet maturing 
+        subscriptions to United States Government securities, funds 
+        held to meet its acceptances or letters of credit, and withheld 
+        taxes.
+    ``(3) For purposes of this subsection, the term `savings 
+association' shall have the meaning given in section 3 of the Federal 
+Deposit Insurance Act, as amended (12 U.S.C. 1813).''.
+
+SEC. 205. TECHNICAL AMENDMENT.
+
+    Section 12(2) of the Securities Act of 1933 (15 U.S.C. 771(2)) is 
+amended by inserting ``or subsection (d)'' after ``subsection (a)''.
+
+        PART B--SECURITIES EXCHANGE ACT ADMINISTRATION TRANSFER
+
+SEC. 211. AMENDMENT TO THE SECURITIES EXCHANGE ACT OF 1934.
+
+    Subsection (i) of section 12 of the Securities Exchange Act of 1934 
+(15 U.S.C. 781(i)) is repealed.
+
+                    PART C--MISCELLANEOUS PROVISION
+
+SEC. 221. TECHNICAL AMENDMENT.
+
+    Section 304(a)(4) of the Trust Indenture Act of 1939 (15 U.S.C. 
+77ddd(a)(4)) is amended by inserting ``or by section 3(d)'' after 
+``section 3(a)''.
+
+                                 <all>
+
+HR 3447 IH----2
+

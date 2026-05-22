@@ -1,0 +1,1352 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3970 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 3970
+
+    To improve the setting of accounting standards by the Financial 
+Accounting Standards Board, to provide sound and uniform accounting and 
+financial reporting for public utilities, to clarify the responsibility 
+    of issuers for the transparency and honesty of their financial 
+statements and reports, and to enhance the governance of the accounting 
+                              profession.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 14, 2002
+
+   Mr. Dingell (for himself, Mr. Towns, Mr. Markey, Ms. DeGette, Mr. 
+  Barrett of Wisconsin, and Mr. Engel) introduced the following bill; 
+   which was referred to the Committee on Financial Services, and in 
+ addition to the Committee on Energy and Commerce, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To improve the setting of accounting standards by the Financial 
+Accounting Standards Board, to provide sound and uniform accounting and 
+financial reporting for public utilities, to clarify the responsibility 
+    of issuers for the transparency and honesty of their financial 
+statements and reports, and to enhance the governance of the accounting 
+                              profession.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Truth and 
+Accountability in Accounting Act of 2002''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+TITLE I--FINANCIAL ACCOUNTING STANDARDS BOARD RESOLUTION OF ACCOUNTING 
+                            STANDARDS ISSUES
+
+Sec. 101. Findings.
+Sec. 102. Review and evaluation.
+Sec. 103. Response by Financial Accounting Standards Board.
+Sec. 104. GAO evaluation of review mechanism.
+    TITLE II--ACCOUNTING AND FINANCIAL REPORTING BY CERTAIN PUBLIC 
+                               UTILITIES
+
+Sec. 201. Rulemaking on exemptions, waivers, etc.
+Sec. 202. Report to Congress on implementation.
+Sec. 203. Annual report.
+ TITLE III--CERTIFICATION OF FINANCIAL STATEMENTS BY CORPORATE OFFICERS
+
+Sec. 301. Certification required.
+               TITLE IV--ACCOUNTING PROFESSION GOVERNANCE
+
+Sec. 401. Purpose.
+Sec. 402. Definitions.
+Sec. 403. Establishment of the Independent National Board of 
+                            Accountancy.
+Sec. 404. Registration with the Board.
+Sec. 405. Duties of the Board.
+Sec. 406. Auditor independence.
+Sec. 407. Investigations and disciplinary proceedings.
+Sec. 408. Securities and Exchange Commission oversight of the Board.
+Sec. 409. Foreign public accounting firms.
+Sec. 410. Transition.
+                   TITLE V--PRESERVATION OF AUTHORITY
+
+Sec. 501. Securities and Exchange Commission authority not impaired.
+
+TITLE I--FINANCIAL ACCOUNTING STANDARDS BOARD RESOLUTION OF ACCOUNTING 
+                            STANDARDS ISSUES
+
+SEC. 101. FINDINGS.
+
+    The Congress finds the following:
+            (1) Transparent accounting plays an important role in 
+        maintaining the efficiency and integrity of our capital 
+        markets.
+            (2) Investors, creditors, and other consumers of financial 
+        reports rely heavily on credible, transparent, and comparable 
+        financial information.
+            (3) It is in the public interest and appropriate for the 
+        protection of investors that accounting standards continue to 
+        be developed by an independent private sector organization that 
+        has an open, thorough, and credible process for the 
+        promulgation of generally accepted accounting standards.
+            (4) To achieve this goal, it is necessary and appropriate 
+        to provide a mechanism for the review of the funding and 
+        standard-setting process of the Financial Accounting Standards 
+        Board, the independent private-sector entity whose mission is 
+        to establish and improve standards of financial accounting and 
+        reporting for investors, creditors, and other consumers of 
+        financial reports.
+
+SEC. 102. REVIEW AND EVALUATION.
+
+    (a) Annual Review.--The Securities and Exchange Commission shall 
+conduct an annual review of the impact of unresolved accounting 
+standards issues on the clarity, transparency, and quality of financial 
+reporting by publicly traded companies. In conducting such review, the 
+Commission shall consider--
+            (1) the current state of financial reporting by publicly 
+        traded companies on such unresolved accounting standards 
+        issues, including the diversity of current practices;
+            (2) the materiality of any changes to financial results 
+        from changing these practices;
+            (3) the international standards of accounting and financial 
+        reporting on such unresolved accounting standards issues; and
+            (4) such other factors as the Commission deems necessary or 
+        appropriate.
+    (b) Unresolved Accounting Standards Issues.--For the purposes of 
+this section, the term ``unresolved accounting standards issue'' means 
+the open agenda items of the Financial Accounting Standards Board and 
+the Financial Accounting Standards Board's Emerging Issues Task Force, 
+and any other issues that the Securities and Exchange Commission has 
+recommended be added to that agenda.
+    (c) Report Required.--The Commission shall annually submit to the 
+Committee on Energy and Commerce of the House of Representatives, the 
+Committee on Banking, Housing, and Urban Affairs of the Senate, and the 
+Financial Accounting Standards Board a report on the results of the 
+review required by subsection (a). Such report shall include--
+            (1) an identification of the unresolved accounting 
+        standards issues that are the most significant in terms of 
+        their effect on the clarity, transparency, and quality of 
+        financial reporting by publicly traded companies;
+            (2) the different alternatives available for the resolution 
+        of such accounting standards issues;
+            (3) a prioritization of such issues based on the perceived 
+        needs of investors, creditors, and other consumers of financial 
+        reports;
+            (4) the resources required for such resolution, and the 
+        resources likely to be available for such resolution;
+            (5) an evaluation on the progress made in the resolution of 
+        issues identified in prior annual reports; and
+            (6) such other information as the Commission deems 
+        necessary or appropriate.
+
+SEC. 103. RESPONSE BY FINANCIAL ACCOUNTING STANDARDS BOARD.
+
+    (a) Response Required.--Within 60 days after receiving a report by 
+the Securities and Exchange Commission under section 102(c), the 
+Financial Accounting Standards Board shall submit to the Commission, 
+the Committee on Energy and Commerce of the House of Representatives, 
+and the Committee on Banking, Housing, and Urban Affairs of the Senate 
+a response to such report.
+    (b) Contents of Response.--The response required by subsection (a) 
+shall include an analysis of each of the conclusions contained in the 
+report pursuant to paragraphs (1) through (6) of section 102(c). Such 
+response shall also include--
+            (1) an analysis by the Board of the appropriateness of each 
+        of the unresolved accounting standards issues identified 
+        pursuant to section 102(c)(1);
+            (2) the plans of the Board to attempt to resolve the 
+        unresolved accounting standards issues identified in pursuant 
+        to section 102(c)(1);
+            (3) the alternatives that the Board intends to pursue for 
+        the resolution of such accounting standards issues;
+            (4) the timetable by which the Board will seek to resolve 
+        such issues;
+            (5) the resources the Board will require for such 
+        resolution, and the resources likely to be available for such 
+        resolution;
+            (6) reasons for any delays in accomplishing the timetables 
+        described in previous responses of the Board under this 
+        section; and
+            (7) such other information as the Financial Accounting 
+        Standards Board deems necessary or appropriate.
+
+SEC. 104. GAO EVALUATION OF REVIEW MECHANISM.
+
+    (a) Evaluation Required.--The Comptroller General shall conduct an 
+ongoing evaluation of the process established by sections 102 and 103 
+of this title for the identification and resolution of accounting 
+standards issues.
+    (b) Reports.--
+            (1) Interim report.--Within 2 years after the date of 
+        enactment of this Act, the Comptroller General shall submit an 
+        interim report on the evaluation required by subsection (a) to 
+        the Committee on Commerce of the House of Representatives and 
+        the Committee on Banking of the Senate.
+            (2) Final report.--The Comptroller General shall submit a 
+        final report on such evaluations to such Committees within 5 
+        years after such date of enactment.
+            (3) Contents of reports.--Each of such reports shall 
+        contain--
+                    (A) an analysis of whether the process is correctly 
+                identifying the current unresolved accounting standards 
+                issues;
+                    (B) an analysis of whether the process is 
+                facilitating the efficient resolution of these 
+                unresolved accounting standards issues;
+                    (C) such recommendations for legislative changes in 
+                the requirements of this title as the Comptroller 
+                General considers appropriate; and
+                    (D) such other information as the Comptroller 
+                General deems necessary or appropriate.
+
+    TITLE II--ACCOUNTING AND FINANCIAL REPORTING BY CERTAIN PUBLIC 
+                               UTILITIES
+
+SEC. 201. RULEMAKING ON EXEMPTIONS, WAIVERS, ETC.
+
+    Part III of the Federal Power Act is amended by inserting the 
+following new section after section 319 and by redesignating sections 
+320 and 321 as sections 321 and 322, respectively:
+
+``SEC. 320. CRITERIA FOR CERTAIN EXEMPTIONS, WAIVERS, ETC.
+
+    ``(a) Rule Required for Certain Waivers, Exemptions, Etc.-- Not 
+later than 6 months after the enactment of this Act, the Commission 
+shall promulgate a rule establishing specific criteria for providing an 
+exemption, waiver, or other reduced or abbreviated form of compliance 
+with the requirements of sections 204, 301, 304, and 305 (including any 
+prospective blanket order). Such criteria shall be sufficient to insure 
+that any such action taken by the Commission will be consistent with 
+the purposes of such requirements and will otherwise protect the public 
+interest.
+    ``(b) Moratorium on Certain Waivers, Exemptions, Etc.--After the 
+date of enactment of this section, the Commission may not issue, adopt, 
+order, approve, or promulgate any exemption, waiver, or other reduced 
+or abbreviated form of compliance with the requirements of section 204, 
+301, 304, or 305 (including any prospective blanket order) until after 
+the rule promulgated under subsection (a) has taken effect.
+    ``(c) Previous FERC Action.--The Commission shall undertake a 
+review, by rule or order, of each action described in subsection (a) 
+that was taken before the date of enactment of this section. No such 
+action may continue in force and effect after the date 18 months after 
+the date of enactment of this section unless the Commission finds that 
+such action complies with the rule under subsection (a).
+    ``(d) Exemption Under 204(f) Not Applicable.--For purposes of this 
+section, in applying section 204, the provisions of section 204(f) 
+shall not apply.''.
+
+SEC. 202. REPORT TO CONGRESS ON IMPLEMENTATION.
+
+    Within 12 months of the date of the enactment of this Act, the 
+Federal Energy Regulatory Commission shall report to the Committee on 
+Energy and Commerce of the United States House of Representatives and 
+the Committee on Energy and Natural Resources of the United States 
+Senate on what specific measures the Commission has taken to comply 
+with the amendments made by section 201.
+
+SEC. 203. ANNUAL REPORT.
+
+    The Federal Energy Regulatory Commission shall provide an annual 
+report to the Committee on Energy and Commerce of the United States 
+House of Representatives and the Committee on Energy and Natural 
+Resources of the United States Senate summarizing the financial and 
+operating condition of power marketers. Such report shall summarize the 
+information provided to the Commission in periodic and special reports 
+filed by power marketers, and include an analysis by the Commission of 
+key trends or issues affecting the capital structure and financial 
+condition of such companies, including use of leverage, derivatives 
+transactions, and other material information.
+
+ TITLE III--CERTIFICATION OF FINANCIAL STATEMENTS BY CORPORATE OFFICERS
+
+SEC. 301. CERTIFICATION REQUIRED.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) 
+is amended by adding at the end the following new subsection:
+    ``(i) Certification of Financial Statements by Corporate 
+Officers.--
+            ``(1) Statement to shareholders.--Any periodic report filed 
+        under this section shall include, in accordance with such rules 
+        as the Commission may prescribe under this section, a statement 
+        addressed to the investors and potential investors in the 
+        issuer and signed by the chief executive officer and chief 
+        financial officer of the issuer that attests that--
+                    ``(A) the financial statements contained in such 
+                report (including the balance sheet, income statement, 
+                and cash flow statement) have been prepared by the 
+                management of the issuer;
+                    ``(B) the signing officers believe and affirm that 
+                such financial statements fairly present to investors, 
+                with clarity and completeness, the issuer's financial 
+                position and performance for the reporting period in 
+                accordance with generally accepted accounting 
+                principles and the disclosure requirements of this 
+                title and the rules and regulations thereunder; and
+                    ``(C) the issuer's internal controls and internal 
+                audit procedures are consistent with best current 
+                accounting practices and fully comply with subsection 
+                (b)(2) of this section.
+            ``(2) No delegation.--The responsibility to sign the 
+        statements required by paragraph (1) may not be delegated to 
+        any officer, employee, or agent of the issuer, except that if 
+        an issuer does not have a chief executive officer or chief 
+        financial officer (as defined in rules prescribed by the 
+        Commission under this subsection), such rules may permit an 
+        specified alternative officer to sign such statements.''.
+
+               TITLE IV--ACCOUNTING PROFESSION GOVERNANCE
+
+SEC. 401. PURPOSE.
+
+    The purposes of this title are--
+            (1) to create a new organization, subject to Commission 
+        oversight, with adequate authority and resources--
+                    (A) to register public accounting firms that 
+                furnish accountant's reports with respect to financial 
+                statements, reports, or other documents required to be 
+                filed with the Commission under the securities laws;
+                    (B) to promulgate and enforce compliance with 
+                quality control and auditing standards designed to 
+                improve the quality of audits conducted by such firms;
+                    (C) to administer a continuing program of 
+                inspection of the accounting and auditing practices of 
+                public accounting firms registered with the Board; and
+                    (D) to investigate and discipline appropriately 
+                such firms, and persons associated with such firms, who 
+                violate this title, the securities laws, the rules and 
+                regulations thereunder, rules adopted by the Board, or 
+                professional standards;
+            (2) to require public accounting firms furnishing any 
+        report with respect to financial statements, reports, or other 
+        documents required to be filed with the Securities and Exchange 
+        Commission under the securities laws to be registered with that 
+        Board; and
+            (3) to authorize the Board to establish quality control and 
+        auditing standards for audits of public companies, administer 
+        an audit and professional services inspection program, and 
+        undertake investigations and disciplinary proceedings with 
+        respect to public accounting firms and persons associated with 
+        such firms.
+
+SEC. 402. DEFINITIONS.
+
+    As used in this title, unless the context otherwise -requires--
+            (1) Accountant's report.--The term ``accountant's report'' 
+        means a document in which a public accounting firm identifies a 
+        financial statement, report, or other document and sets forth 
+        its opinion regarding such financial statement, report, or 
+        other document, or an assertion that an opinion cannot be 
+        expressed.
+            (2) Board.--The term ``Board'' means the Independent 
+        National Board of Accountancy established under this title.
+            (3) Commission.--The term ``Commission'' means the 
+        Securities and Exchange Commission.
+            (4) Intermediary.--The term ``intermediary'' means those 
+        parties who may advise 1 or more principals to a transaction 
+        and may include, but are not limited to, attorneys and 
+        investment, merchant, and commercial bankers.
+            (5) Person associated with a public accounting firm.--The 
+        term ``person associated with a public accounting firm'' means 
+        any individual proprietor, partner, shareholder, principal, 
+        professional employee, or any other natural person or entity 
+        who--
+                    (A) shares in the profits of a public accounting 
+                firm; or
+                    (B) engages in any conduct or practice in 
+                connection with the preparation of any accountant's 
+                report with respect to any financial statement, report, 
+                or other document required to be filed with the 
+Commission under the securities laws.
+            (6) Professional standards.--The term ``professional 
+        standards'' means generally accepted accounting principles, 
+        generally accepted auditing standards, generally accepted 
+        standards for attestation engagements, generally accepted 
+        quality control policies and procedures, and any other 
+        standards related to the preparation of financial statements or 
+        accountant's reports, or to auditor ethics and independence, 
+        and promulgated by the Commission, the Board, or by a standard 
+        setting body generally recognized or endorsed by the Commission 
+        or the Board.
+            (7) Public accounting firm.--The term ``public accounting 
+        firm'' means--
+                    (A) a sole proprietorship, incorporated 
+                association, partnership, corporation, limited 
+                liability company, limited liability partnership, or 
+                other legal entity that is engaged in the practice of 
+                public accounting or furnishing reports with respect to 
+                financial statements, reports, or other documents filed 
+                with the Commission;
+                    (B) in the event an entity described in 
+                subparagraph (A) leases or otherwise acquires on a 
+                temporary or continuous basis the services of personnel 
+                or other assets employed full- or part-time by another 
+                entity (the ``lessor''), to the extent so designated by 
+                the Board, the lessor and the lessor's board of 
+                directors, management, employees, and shareholders of 
+                10 percent or more of the lessor's equity securities;
+                    (C) in the event an entity described in 
+                subparagraph (A) or an affiliate of such entity has 
+                public shareholders, to the extent so designated by the 
+                Board, those public shareholders and their affiliates; 
+                and
+                    (D) such other affiliates of an entity described in 
+                subparagraph (A) as designated by the Board.
+            (8) Securities law.--The term ``securities laws'' has the 
+        same meaning as prescribed in section 3(a)(47) of the 
+        Securities Exchange Act of 1934.
+            (9) State.--The term ``State'' means any State of the 
+        United States, the District of Columbia, Puerto Rico, the 
+        Virgin Islands, or any other possession of the United States.
+
+SEC. 403. ESTABLISHMENT OF THE INDEPENDENT NATIONAL BOARD OF 
+              ACCOUNTANCY.
+
+    (a) Establishment of the Board.--No later than 180 days after the 
+date of the enactment of this Act, the Commission shall establish an 
+Independent National Board of Accountancy to perform the duties set 
+forth in this title, which shall be located in the District of 
+Columbia.
+    (b) Membership of the Board.--
+            (1) Composition.--The Board shall be composed of 5 members. 
+        Members shall be prominent individuals of integrity and 
+        reputation who have a commitment to the interests of investors 
+        and the public. No more than 2 of the 5 members may be present 
+        or former certified public accountants who are eligible if 
+        they--
+                    (A) are not currently in public practice;
+                    (B) have not for a period of at least 3 years been 
+                associated with a public accounting firm; and
+                    (C) do not currently share in the profits of or 
+                receive payments from such a firm.
+            (2) Appointment.--The Chair and members of the Board shall 
+        be appointed by the Commission from a list of recommended 
+        individuals provided under paragraph (3).
+            (3) Recommendations.--At the time of any vacancy, the 
+        Comptroller General shall submit to the Commission a list of at 
+        least 3 individuals who are eligible for service on the Board 
+        or as Chair and who are recommended by the Comptroller General. 
+        The Commission may ask the Comptroller General to recommend 
+        additional individuals.
+            (4) Full-time service.--All members of the Board shall 
+        serve on a full-time basis, severing all ties with their former 
+        firms or employers, except as authorized by the Commission.
+            (5) Terms of office.--Each member of the Board shall hold 
+        office for a term of 5 years and until a successor is 
+        appointed, except that--
+                    (A) any member appointed to fill a vacancy 
+                occurring prior to the expiration of the term of a 
+                predecessor shall be eligible to serve for the 
+                remainder of that term; and
+                    (B) the terms of office of the initial Board 
+                members shall expire, as designated by the Commission 
+                at the time of appointment, 1 at the end of 1 year, 1 
+                at the end of 2 years, 1 at the end of 3 years, 1 at 
+                the end of 4 years, and 1 at the end of 5 years after 
+                the establishment of the Board.
+            (6) Multiple terms.--A member may be reappointed to the 
+        Board, but in no instance may a member serve more than 2 terms.
+            (7) Removal.--A member of the Board may be removed from 
+        office for cause prior to the expiration of his or her term by 
+        either a majority vote of the other members of the Board, 
+        subject to the approval of the Commission, or by the Commission 
+        pursuant to section 408(f)(2) of this title.
+    (c) Operation of the Board.--
+            (1) Rules.--The Board shall propose and adopt rules--
+                    (A) to provide for the operation and administration 
+                of the Board, and the compensation of the members of 
+                the Board;
+                    (B) to provide for the appointment and compensation 
+                of such accountants, attorneys, employees, and 
+                consultants as may be necessary or appropriate to carry 
+                out the Board's functions under this title;
+                    (C) to provide for the registration of public 
+                accounting firms with the Board pursuant to section 404 
+                of this title; and
+                    (D) to enter into contracts, incur expenses, and 
+                take such other actions as may be necessary or 
+                appropriate for it to perform its duties under this 
+                title.
+            (2) Compensation.--Members of the Board shall be 
+        compensated at a level comparable to similar professional 
+        positions in the private sector. Salaries of members of the 
+        Board shall be subject to annual review and approval by the 
+        Commission.
+    (d) Registration and Annual Fees.--The Board shall assess and 
+collect a registration fee and annual dues from each public accounting 
+firm registered with the Board. The fees shall be subject to the annual 
+review and approval of the Commission. Such fees and dues shall be 
+assessed at a level sufficient to recover the costs and expenses of the 
+Board and to permit the Board to operate on a self-funding basis. The 
+amount of fees and dues for each public accounting firm shall be based 
+upon--
+            (1) the annual revenues of such firm from accounting, 
+        auditing, and other professional services provided to 
+        Commission registrants;
+            (2) the number of persons associated with the firm;
+            (3) the number of entities for which the firm furnishes 
+        accountant's reports with respect to financial statements, 
+        reports, or other documents required to be filed with the 
+Commission under the securities laws; and
+            (4) such other criteria as the Board, with the approval of 
+        the Commission, may establish.
+    (e) Special Fees.--The Board may prescribe fees, and collect its 
+costs incurred, in connection with inspections and disciplinary actions 
+conducted in accordance with this title provided that such fees and 
+costs shall fairly reflect the cost to the Board of providing such 
+services.
+    (f) Annual Report.--The Board shall submit to the Commission for 
+its review and approval, an annual report and budget. The annual report 
+shall include a description of the Board's activities, its audited 
+financial statements and such other matters as the Board or the 
+Commission considers appropriate. The Board shall also submit its 
+annual report to Congress.
+
+SEC. 404. REGISTRATION WITH THE BOARD.
+
+    (a) Mandatory Registration With the Board.--Beginning 1 year after 
+the date of the establishment of the Board, it shall be unlawful for 
+any public accounting firm to furnish an accountant's report with 
+respect to any financial statement, report or other document required 
+to be filed with the Commission under the securities laws unless such 
+firm--
+            (1) is registered with the Board; and
+            (2) has paid all applicable registration and annual fees 
+        pursuant to section 403(d) of this title.
+    (b) Application for Registration.--A public accounting firm may be 
+registered under this title by filing with the Board an application for 
+registration in such form and containing such information as the Board, 
+by rule, may prescribe. Each application shall include the following:
+            (1) Clients and client fees.--The names of all clients of 
+        the public accounting firm for which the firm furnishes 
+        accountant's reports with respect to financial statements, 
+        reports, or other documents required to be filed with the 
+        Commission and, for each such client, the annual fees received 
+        from such client by such firm in connection with--
+                    (A) performance of the annual audit and quarterly 
+                interim reviews of the client's financial statements 
+                filed with the Commission under the securities laws;
+                    (B) other accounting and auditing services;
+                    (C) tax services;
+                    (D) information technology consulting services; and
+                    (E) all other consulting or advisory services in 
+                such detail as the Board shall determine.
+            (2) Firm financial information.--Financial information of 
+        the public accounting firm for its most recent fiscal year, 
+        including its annual revenues in total and the aggregate from 
+        each of accounting and auditing, tax and other professional 
+        services provided to Commission registrants, and the firm's 
+        total assets, total liabilities and net equity.
+            (3) Insurance information.--The names of the liability 
+        insurance carrier, if any, of the public accounting firm and of 
+        persons associated with the public accounting firm.
+            (4) Quality control.--A copy of the public accounting 
+        firm's policies and procedures with respect to quality control 
+        of its accounting and auditing practice.
+            (5) Associated persons.--A list of the persons associated 
+        with the public accounting firm, the license or certification 
+        number of such person, and a brief statement of each such 
+        person's education and experience.
+            (6) Pending proceedings.--Information relating to criminal, 
+        civil, or administrative actions or disciplinary proceedings 
+        pending against the firm or any person associated with the firm 
+        in connection with any accountant report furnished by such 
+        firm.
+            (7) Successor audit appointments.--A list of issuers for 
+        which the public accounting firm has been appointed as a 
+        successor auditor in the most recently completed fiscal year 
+        and where unresolved disagreements existed between the 
+        successor and predecessor auditor on the application of 
+        generally accepted accounting principles. The list shall also 
+        describe in adequate detail the nature of such disagreements.
+            (8) Additional information.--Such other information as the 
+        Board or the Commission considers necessary or appropriate.
+    (c) Periodic Reports.--Annually, or within 15 business days with 
+respect to matters reported pursuant to paragraphs (6) and (7) of 
+subsection (b) of this section, or more frequently as the Board may -
+prescribe, each public accounting firm registered with the Board shall 
+submit reports to the Board updating the information contained in its 
+application for registration and containing such additional information 
+as the Board may prescribe. Such annual or periodic reports, or parts 
+thereof as designated by the Board or the Commission, shall be 
+available for public inspection, including inspection by means of the 
+Internet.
+    (d) Exemptions and Delegation.--The Commission, by rule, upon its 
+own motion or upon application, may conditionally or unconditionally 
+exempt any public accounting firm or any accountant's report, or any 
+class of public accounting firms or any class of accountant's reports, 
+from any provisions of this title or the rules or regulations 
+thereunder, if the Commission finds that such exemption is consistent 
+with the public interest, the protection of investors, and the purposes 
+of this title. The Commission may delegate to the Board its authority, 
+including its remedial and disciplinary authority with respect to 
+public accounting firms, persons associated with public accounting 
+firms, and an accounting person associated with an issuer.
+
+SEC. 405. DUTIES OF THE BOARD.
+
+    (a) Quality Control Standards.--The Board shall seek to promote 
+high professional standards among public accounting firms registered 
+with the Board, to improve the quality of audit services provided by 
+such firms, and, in general, to protect investors and promote the 
+public interest. In furtherance of these goals, the Board shall take 
+the following actions:
+            (1) Promulgation and enforcement.--
+                    (A) Authority.--Promulgate and enforce compliance 
+                with such standards of quality control as the Board, by 
+                rule, shall prescribe as necessary or appropriate in 
+                the public interest or for the protection of investors 
+                in connection with the preparation and issuance by 
+                public accounting firms registered with the Board of 
+                accountant's reports with respect to financial 
+                statements, reports, or other documents required to be 
+                filed with the Commission under the securities laws. 
+                Such standards of quality control shall include, among 
+                such other requirements that the Board may prescribe, 
+                policies and procedures for the following:
+                            (i) The monitoring by the public accounting 
+                        firm of its professional ethics including its 
+                        independence from its audit clients.
+                            (ii) The assignment of personnel to 
+                        engagements.
+                            (iii) Consultation within the firm or with 
+                        other accountants on accounting and auditing 
+                        questions.
+                            (iv) The supervision of audit work.
+                            (v) The hiring, professional development, 
+                        and advancement of personnel.
+                            (vi) The acceptance and continuation of 
+                        clients.
+                            (vii) The internal inspection of the firm's 
+                        own compliance with such policies and 
+                        procedures.
+                    (B) Mandatory standards.--Such standards shall 
+                include the requirements that each public accounting 
+                firm registered with the Board--
+                            (i) prepare and maintain for a period of no 
+                        less than 7 years, audit work papers and other 
+                        information related to any accountant's report, 
+                        in sufficient detail to support the conclusions 
+                        reached in such accountant's report;
+                            (ii) provide a ``concurring'' or ``second'' 
+                        partner review of such audit work papers and 
+                        other related information by a qualified person 
+                        (as prescribed by the Board) associated with 
+                        the public accounting firm, other than the 
+                        person in charge of the audit, or by an 
+                        independent reviewer (as prescribed by the 
+                        Board); and
+                            (iii) secure the concurring approval of 
+                        such qualified person or independent reviewer 
+                        as a necessary prerequisite to the issuance of 
+                        the accountant's report.
+            (2) Inspections.--
+                    (A) In general.--Conduct a continuing program of 
+                inspections of each public accounting firm registered 
+                with the Board to assess compliance by such firm, and 
+                by persons associated with such firm, with applicable 
+                provisions of this title, the securities laws, the 
+                rules and regulations thereunder, the rules adopted by 
+                the Board, and professional standards.
+                    (B) Ongoing inspections.--Inspections of each firm 
+                that audits more than 100 issuers shall be conducted on 
+                an ongoing annual basis, and all other public 
+                accounting firms no less than at least once every 3 
+                years, and shall, among other matters that the Board 
+                may prescribe, identify and report any act or practice, 
+                or omission to act, by such firm, or by any person 
+                associated with such firm, that is found to be in 
+                violation of any such provision.
+                    (C) Required evaluations.--In conducting such 
+                inspections, the Board shall, among other things, 
+                inspect selected audit and review engagements performed 
+                at various offices and by various persons associated 
+                with the public accounting firm under inspection, and, 
+                in connection with the inspection, evaluate--
+                            (i) whether the firm's quality control 
+                        system is appropriate;
+                            (ii) whether the firm's policies and 
+                        procedures are adequately documented and 
+                        communicated to its personnel;
+                            (iii) whether there is compliance with such 
+                        policies and procedures sufficient to provide 
+                        reasonable assurance of conformity with 
+                        professional standards; and
+                            (iv) whether professional accounting, 
+                        auditing, and independence and ethics standards 
+                        were complied with.
+                    (D) Report of findings.--In connection with each 
+                review, the Board, shall prepare a report of its 
+                findings, and such report, accompanied by any letter of 
+                comments by the Board or reviewer and any letter of 
+                response from the firm under review, shall be made 
+                available to the public.
+            (3) Discipline.--Provide that public accounting firms 
+        registered with the Board, and persons associated with such 
+        firms, shall be appropriately disciplined in accordance with 
+        the provisions of section 407 of this title for violation of 
+        any provision of this title, the securities laws, the rules or 
+        regulations thereunder, the rules adopted by the Board, or 
+        professional standards.
+            (4) Records maintenance.--Prescribe records to be made and 
+        kept by public accounting firms and the periods for which, and 
+        physical location where, such records shall be kept to 
+        facilitate the reviews required under this title.
+    (b) Auditing Standards.--The Board shall promulgate and enforce 
+compliance with such auditing standards as the Board, by rule, shall 
+prescribe as necessary or appropriate in the public interest or for the 
+protection of investors in connection with the preparation and issuance 
+by public accounting firms registered with the Board of accountants' 
+reports with respect to financial statements, reports, or other 
+documents required to be filed with the Commission under the securities 
+laws.
+    (c) Other Duties.--The Board shall perform such other duties or 
+functions as the Commission determines are necessary or appropriate in 
+the public interest for the protection of investors and to carry out 
+the purposes of this title.
+
+SEC. 406. AUDITOR INDEPENDENCE.
+
+    (a) Rules; Criteria.--The Commission shall have the authority and 
+responsibility for promulgating and interpreting auditor independence 
+rules. For purposes of the securities laws, a public accounting firm 
+shall not be deemed independent of an audit client if any of the 
+following conditions or circumstances applies:--
+            (1) Prior employment of officers.--An issuer's chief 
+        executive officer, chief financial officer, controller or 
+        principal accounting officer, or any equivalent position was a 
+        person associated with the public accounting firm during any 
+        period in the most recent 2 years, on which the public 
+        accounting firm sets forth its independent accountant's report 
+        on the financial statements required to be filed with the 
+        Commission under the securities laws.
+            (2) Non-audit service.--
+                    (A) Limitation.--The auditor has provided services 
+                in any year other than those required by professional 
+                standards in connection with rendering an independent 
+                accountant's audit or review report on the financial 
+                statements of the issuer, and the audit committee has 
+                not preapproved those services that were individually 
+                or in the aggregate in excess of 20 percent of the fees 
+                for professional services for the audit and review of 
+the annual and interim financial statements, and in doing so, made a 
+determination they were in the best interest of investors and disclosed 
+that determination to the stockholders of the issuer.
+                    (B) Implementation.--The Board may issue rules for 
+                purposes of implementing this paragraph, and exempting 
+                services provided by the auditor from its provision, if 
+                the Board makes a finding that the services provided by 
+                the auditor are in the best interests of investors and 
+                will improve the quality of financial reporting and 
+                independent audits.
+            (3) Lack of auditor rotation.--The firm has served as the 
+        auditor of an issuer for more than 7 consecutive years during 
+        which the auditor issued its independent accountant's report on 
+        the financial statements of the issuer. However, an accounting 
+        firm shall be considered to be independent if after serving as 
+        the auditor of the issuer for 7 consecutive years, it has not 
+        issued its accountant's report on the financial statements of 
+        the issuer for at least 2 consecutive years, subsequent to the 
+        7-year term as auditor.
+            (4) Transaction design and evaluation.--
+                    (A) Advice or consultation.--With respect to any 
+                transaction that is accounted for in the issuer's 
+                audited or reviewed financial statements, and which is 
+                included in the transactions on which the firm issues 
+                its audit opinion or review report on the issuer's 
+                financial statements, the firm--
+                            (i) advised or consulted the issuer or an 
+                        intermediary in the design or structuring of 
+                        such transaction; or
+                            (ii) provided the issuer or intermediary a 
+                        report on the application of generally accepted 
+                        accounting principles or Federal tax laws or 
+                        regulations to the transaction.
+                    (B) Exception.--The firm's independence shall not 
+                be deemed to be impaired if the public accounting firm 
+                provides, in the performance of an audit engagement, a 
+                report to an audit client on the application of 
+                generally accepted accounting principles or Federal tax 
+                laws or regulations to a specific transaction on which 
+                the auditor has not otherwise advised or consulted on 
+                the design or structuring.
+            (5) Not supervised by audit committee.--The firm is not 
+        appointed by, and does not report directly to, the audit 
+        committee of the board of directors, or, in the absence of an 
+        audit committee, the board committee performing equivalent 
+        functions or the entire board of directors.
+    (b) Board Actions.--The Board shall seek to promote the 
+independence of auditors by--
+            (1) inspecting the compliance with professional standards 
+        by public accounting firms registered with the Board, pursuant 
+        to paragraphs (1), (2), and (3) of section 405(a); and
+            (2) appropriately disciplining the firm or persons 
+        associated with such firm in accordance with the provisions of 
+        section 407 of this title for violations of provisions of this 
+        title, the securities laws, the rules or regulations 
+        thereunder, the rules adopted by the Board or professional 
+        standards.
+
+SEC. 407. INVESTIGATIONS AND DISCIPLINARY PROCEEDINGS.
+
+    (a) Investigations and Disciplinary Proceedings.--The Board shall 
+establish fair procedures for investigating and disciplining public 
+accounting firms registered with the Board, and persons associated with 
+such firms, for violations of this title, the securities laws, the 
+rules or regulations thereunder, the rules adopted by the Board, or 
+professional standards.
+    (b) Investigation Procedures.--
+            (1) General authority.--The Board may conduct an 
+        investigation of any act or practice, or omission to act, by a 
+        public accounting firm registered with the Board, or by any 
+        person associated with such firm, that may violate any 
+        applicable provision of this title, the securities laws, the 
+        rules or regulations thereunder, the rules adopted by the 
+        Board, or professional standards, whether such act, practice, 
+        or omission is identified in a review conducted in accordance 
+        with the provisions of section 405 of this title, is the 
+        subject of a criminal, civil, or administrative action or 
+        disciplinary proceeding, or otherwise is brought to the 
+        attention of the Board. At the discretion of the Board, such an 
+        investigation, in light of the circumstances, may relate to the 
+        entire public accounting firm, to 1 or more persons associated 
+        with the firm, or to 1 or more offices, engagements, or 
+        transactions of such firm.
+            (2) Incidental authority.--For purposes of an investigation 
+        under this section, the Board may, in addition to such other 
+        actions as the Board determines to be necessary or 
+        appropriate--
+                    (A) require the testimony of any person associated 
+                with a public accounting firm registered with the 
+                Board, with respect to any matter which the Board 
+                considers relevant or material to the investigation;
+                    (B) require the production of audit work papers and 
+                of any other document or information in the possession 
+                of a public accounting firm registered with the Board 
+                or any person associated with such firm, wherever 
+                domiciled, that the Board considers relevant or 
+                material to the investigation, and may examine the 
+                books and records of such firm to verify the accuracy 
+                of any documents or information supplied; and
+                    (C) require the testimony of, and production of any 
+                document in the possession of, any person, including 
+                any client of a public accounting firm registered with 
+                the Board, that the Board considers relevant or 
+                material to the investigation.
+            (3) Sanctions.--Failure of any person to comply with the 
+        requirements of this section shall be subject to the same 
+        sanctions as are applicable for any failure to produce 
+        information or testimony to the Commission in the course of a 
+        formal investigation. In addition, the refusal of any person 
+        associated with a public accounting firm registered with the 
+        Board to testify, or the refusal of any such person, or of any 
+        public accounting firm, to produce documents or otherwise 
+        cooperate with the Board in connection with an investigation 
+        under this section, shall be cause for the suspension or 
+        revocation of registration of such public accounting firm, 
+        suspending or barring such person from being associated with an 
+        issuer or a public accounting firm registered with the Board, 
+        or such other appropriate sanction as the Board shall 
+        determine.
+            (4) Referral to commission.--The Board may refer any other 
+        investigation to the Commission as it deems appropriate. The 
+        Commission shall evaluate any such matter referred to it by the 
+        Board and shall take action with respect to the matter as it 
+        deems necessary or appropriate.
+            (5) Confidentiality of investigations.--
+                    (A) Information confidential.--Except as provided 
+                in subparagraph (B), all reports, memorandums, and 
+                other information prepared or received by, and 
+                deliberations of, the Board and its employees and 
+                agents in connection with an investigation under this 
+                section shall be confidential and privileged unless and 
+until presented in connection with a public proceeding or the public 
+release by the Board of its report of sanctions pursuant to subsection 
+(d).
+                    (B) Availability to other authorities.--All 
+                information referred to in subparagraph (A) of this 
+                paragraph--
+                            (i) shall be available to--
+                                    (I) the Commission and any other 
+                                Federal department or agency;
+                                    (II) the appropriate State 
+                                licensing board or boards; and
+                                    (III) Federal and State authorities 
+                                in connection with any criminal 
+                                investigation or proceeding; and
+                            (ii) shall be admissible--
+                                    (I) in any civil action brought by 
+                                the Commission or any other Federal 
+                                department or agency, or by any such 
+                                State licensing board; and
+                                    (II) in any criminal action.
+                Nothing in this subsection shall authorize the Board to 
+                withhold information from Congress.
+                    (C) Relation to foia.--For purposes of section 552 
+                of title 5, United States Code, this paragraph shall be 
+                considered a statute described in section 552(b)(3)(B) 
+                of such title.
+            (6) Investigative immunity.--Any employee of the Board 
+        engaged in carrying out an investigation under this section 
+        shall be immune from any civil liability arising out of such 
+        investigation in the same manner and to the same extent as an 
+        employee of the Federal Government in similar circumstances.
+    (c) Disciplinary Procedures.--
+            (1) Notice and hearing.--In any proceeding by the Board to 
+        determine whether a public accounting firm, or a person 
+        associated with such firm, should be disciplined, the Board 
+        shall bring specific charges, notify such firm or person of, 
+        and give such persons or firm an opportunity to defend against, 
+        such charges, and shall keep a record of the proceedings. All 
+        hearings under this subsection shall be public unless otherwise 
+        ordered by the Board on its own motion or after considering the 
+        motion of a party.
+            (2) Available remedies.--If the Board finds that a public 
+        accounting firm, or persons associated with a public accounting 
+        firm, has engaged in any act or practice, or omitted to act, in 
+        violation of this title, the securities laws, the rules or 
+        regulations thereunder, the rules adopted by the Board, or 
+        professional standards, then the Board may impose such 
+        disciplinary or remedial sanctions as it deems appropriate, 
+        including--
+                    (A) temporary or permanent revocation or suspension 
+                of registration with the Board;
+                    (B) temporary or permanent limitation of 
+                activities, functions, or operations;
+                    (C) civil money penalties;
+                    (D) censure and, in the case of a person associated 
+                with a public accounting firm, temporary or permanent 
+                suspension or bar from being associated with any public 
+                accounting firm registered with the Board; or
+                    (E) any other appropriate sanction.
+            (3) Authorized civil penalties.--
+                    (A) Determination by board.--Subject to 
+                subparagraphs (B) and (C), the Board may impose, and 
+                shall determine the amount of, civil money penalties in 
+                light of the facts and circumstances.
+                    (B) In general.--For each violation, the amount of 
+                the penalty shall not exceed the greater of $100,000 
+                for a natural person or $2,000,000 for any other 
+                persons.
+                    (C) Increased penalties.--Notwithstanding 
+                subparagraph (B), the amount of penalty for each such 
+                violation shall not exceed the greater of $750,000 for 
+                a natural person or $15,000,000 for any other persons, 
+                if the violation involved fraud, deceit, manipulation, 
+                or deliberate or reckless disregard of the regulatory 
+                standard.
+            (4) Statement of sanction.--A determination by the Board to 
+        impose a disciplinary or remedial sanction shall be supported 
+        by a statement setting forth--
+                    (A) any act or practice in which such firm or 
+                person associated with such firm has been found to have 
+                engaged, or which such firm or person has been found to 
+                have omitted;
+                    (B) the specific provision of this title, the 
+                securities laws, the rules or regulations thereunder, 
+                the rules adopted by the Board, or professional 
+                standards which any such act or practice, or omission 
+                to act, is deemed to violate; and
+                    (C) the sanction imposed and the reason for that 
+                sanction.
+            (5) Consequences of sanction.--
+                    (A) Association with firms.--It shall be unlawful 
+                for any person suspended or barred from being 
+                associated with a public accounting firm registered 
+                with the Board willfully to become or remain associated 
+                with such a firm without the consent of the Board or 
+                the Commission. It shall be unlawful for any public 
+                accounting firm registered with the Board to permit 
+                such a person to become or remain associated with such 
+                a firm without the consent of the Board or the 
+                Commission if such firm knew, or, in the exercise of 
+                reasonable care should have known, of such suspension 
+                or bar.
+            (6) Association with issuers.--It shall be unlawful for any 
+        person suspended or barred from being associated with an issuer 
+        willfully to become, or remain associated with such an issuer 
+        without the consent of the Board or the Commission. It shall be 
+        unlawful for any issuer to permit such a person to become, or 
+        remain a person associated with such issuer without the consent 
+        of the Board or the Commission if such issuer knew, or, in the 
+        exercise of reasonable care should have known, of such 
+        suspension or bar.
+    (d) Reporting of Sanctions.--
+            (1) Reporting required.--Whenever the Board imposes a 
+        disciplinary sanction against a public accounting firm or a 
+        person associated with a public accounting firm or any other 
+        person, the Board shall report the sanction to the Commission, 
+        to the appropriate State or foreign licensing board or boards 
+        with which such firm or person is licensed or certified to 
+        practice public accounting, and to the public.
+            (2) Information required.--The information required to be 
+        reported shall include--
+                    (A) the name of the public accounting firm, or 
+                accountant associated with an issuer, against whom the 
+                sanction is imposed;
+                    (B) a description of the acts or practices, or 
+                omissions to act, upon which the sanction is based;
+                    (C) the nature of the sanction; and
+                    (D) such other information respecting the 
+                circumstances of the disciplinary action as the Board 
+                deems appropriate.
+            (3) Availability to public.--In order to make the 
+        information required under paragraph (2) available to the 
+        public, the Board shall--
+                    (A) establish and maintain a toll-free telephone 
+                listing and any other readily accessible electronic 
+                process to receive inquiries regarding such 
+                information; and
+                    (B) respond promptly to such inquiries.
+
+SEC. 408. SECURITIES AND EXCHANGE COMMISSION OVERSIGHT OF THE BOARD.
+
+    (a) Proposed Rule Changes.--
+            (1) Filing, publication, and comment.--The Board shall file 
+        with the Commission, in accordance with such rules as the 
+        Commission may prescribe, copies of any proposed rule or any 
+        proposed change in, addition to, or deletion from the rules of 
+        the Board (hereinafter collectively referred to as ``proposed 
+        rule change'') accompanied by a concise general statement of 
+        the basis and purpose of such proposed rule change. Upon the 
+        filing of any proposed rule change, the Commission shall 
+        publish a public notice of the proposed rule change together 
+        with the terms and substance of the proposed rule change or a 
+        description of the subjects and issues involved in the Federal 
+        Register. The Commission shall give interested persons an 
+        opportunity to submit written data, views, and arguments 
+        concerning such proposed rule change. No proposed rule changes 
+        shall take effect unless approved by the Commission or 
+        otherwise permitted in accordance with the provisions of this 
+        section.
+            (2) Procedure.--
+                    (A) Approval or institution of proceedings.--Within 
+                35 days of the date of publication of notice of the 
+                filing of a proposed rule change in accordance with 
+                subsection (a)(1) of this section, or within such 
+                longer period as the Commission may designate up to 90 
+                days of such date if it finds such longer period to be 
+                appropriate and publishes its reasons for so finding or 
+                as to which the Board consents, the Commission shall--
+                            (i) by order approve such proposed rule 
+                        change; or
+                            (ii) institute proceedings to determine 
+                        whether the proposed rule change should be 
+                        disapproved.
+                    (B) Notice of grounds; approval or disapproval.--
+                Such proceedings shall include notice of the grounds 
+                for disapproval under consideration and opportunity for 
+                hearing and be concluded within 180 days of the date of 
+                publication of notice of the filing of the proposed 
+                rule change. At the conclusion of such proceedings the 
+                Commission, by order published in the Federal Register, 
+                shall approve or disapprove such proposed rule change. 
+                The Commission may extend the time for conclusion of 
+                such proceedings for up to 60 days if it finds good 
+                cause for such extension and publishes its reasons for 
+                so finding or for such longer period as to which the 
+                Board consents.
+                    (C) Grounds for decision.--The Commission shall 
+                approve a proposed rule change if it finds that such 
+                proposed rule change is consistent with the 
+                requirements of this title, the securities laws, and 
+                the rules and regulations thereunder. The Commission 
+                shall disapprove a proposed rule change if it does not 
+                make such a finding. The Commission shall not approve 
+                any proposed rule change prior to the 30th day after 
+                the date of publication of notice of the filing 
+                thereof, unless the Commission finds good cause for so 
+                doing and publishes its reasons for so doing.
+            (3) Rules effective upon filing.--
+                    (A) Rules permitted.--Notwithstanding the 
+                provisions of paragraph (2) of this subsection, a 
+                proposed rule change may take effect upon filing with 
+                the Commission if designated by the Board as--
+                            (i) constituting a stated policy, practice, 
+                        or interpretation with respect to the meaning, 
+                        administration, or enforcement of an existing 
+                        rule of the Board;
+                            (ii) establishing or changing a fee, or 
+                        other charge imposed by the Board; or
+                            (iii) concerned solely with the 
+                        administration of the Board or other matters 
+                        which the Commission, by rule, consistent with 
+                        the public interest and the purposes of this 
+                        section, may specify as outside the provisions 
+                        of such paragraph (2).
+                    (B) Authority.--Notwithstanding any other provision 
+                of this section, a proposed rule change may be put into 
+                effect summarily if it appears to the Commission, after 
+                consultation with the Board, or the Board after 
+                consultation with the Commission, that such action is 
+                necessary for the protection of investors. Any proposed 
+                rule change so put into effect shall be filed promptly 
+                thereafter in accordance with the provisions of 
+                paragraph (1) of this subsection.
+                    (C) Limitation on effect.--Any proposed rule change 
+                that has taken effect pursuant to subparagraph (A) or 
+                (B) of this paragraph may be enforced by the Board to 
+                the extent it is not inconsistent with the provisions 
+                of this title, the securities laws, the rules and 
+                regulations thereunder, the rules adopted by the Board, 
+                and other applicable Federal and State law.
+                    (D) Abrogation.--At any time within 60 days of the 
+                date of filing of such a proposed rule change in 
+                accordance with the provisions of this paragraph, the 
+                Commission summarily may abrogate the change in the 
+                rules of the Board made thereby and require that the 
+                proposed rule change be refiled in accordance with the 
+                provisions of paragraph (2) of this subsection, if it 
+                appears to the Commission that such action is necessary 
+                or appropriate in the public interest, for the 
+                protection of investors, or otherwise in furtherance of 
+                the purposes of this title or the securities laws. 
+                Commission action pursuant to the preceding sentence 
+                shall not affect the validity or force of the rule 
+                change during the period it was in effect and shall not 
+                be reviewable under section 25 of the Securities 
+                Exchange Act of 1934 nor deemed to be ``final agency 
+                action'' for purposes of section 704 of title 5, United 
+                States Code.
+    (b) Power of the Commission To Amend Rules of the Board.--The 
+Commission, by rule or order, may abrogate, add to, and delete from 
+(hereinafter collectively referred to as ``amend'') the rules of the 
+Board as the Commission deems necessary or appropriate to assure the 
+fair administration of the Board, to conform its rules to the 
+requirements of this title, the securities laws, and the rules and 
+regulations thereunder applicable to the Board, and otherwise in 
+furtherance of the purposes of this title or the securities laws, in 
+the following manner:
+            (1) Notice.--The Commission shall notify the Board and 
+        publish notice of the proposed rulemaking in the Federal 
+        Register. The notice shall include the text of the proposed 
+        amendment to the rules of the Board and a statement of the 
+        Commission's reasons, including the pertinent facts, for 
+        commencing such proposed rulemaking.
+            (2) Comment.--The Commission, at its discretion, may give 
+        interested persons an opportunity for the oral presentation of 
+        data, views, and arguments, in addition to an opportunity to 
+        make written submissions. A transcript shall be kept of any 
+        oral presentation.
+            (3) Text of rule and statement.--A rule adopted pursuant to 
+        this subsection shall incorporate the text of the amendment to 
+        the rules of the Board and a statement of the Commission's 
+        basis for and purpose in so amending such rules. The statement 
+        shall include an identification of any facts on which the 
+        Commission considers its determination to amend the rules of 
+        the Board to be based, including the reasons for the 
+        Commission's conclusions as to any of such facts that were 
+        disputed in the rulemaking.
+            (4) Additional provisions.--
+                    (A) Administrative procedure.--Except as provided 
+                in paragraphs (1) through (3) of this subsection, 
+                rulemaking under this subsection shall be in accordance 
+                with the procedures specified in section 553 of title 
+                5, United States Code, for rulemaking not on the 
+                record.
+                    (B) Preservation of commission authority.--Nothing 
+                in this subsection shall be construed to impair or 
+                limit the Commission's power to make, or to modify or 
+                alter the procedures the Commission may follow in 
+                making rules and regulations pursuant to any other 
+authority under this title or the securities laws.
+            (C) Rule of construction.--Any amendment to the rules of 
+        the Board made by the Commission pursuant to this subsection 
+        shall be considered for all purposes of this title and the 
+        securities laws to be part of the rules of the Board and shall 
+        not be considered to be a rule of the Commission.
+    (c) Commission Review of Disciplinary Action Taken by the Board.--
+            (1) Notice to commission.--If the Board imposes any final 
+        disciplinary or remedial sanction on any public accounting firm 
+        registered with the Board or on any person associated with a 
+        public accounting firm registered with the Board, the Board 
+        shall promptly file notice thereof with the Commission. The 
+        notice shall be in such form and contain such information as 
+        the Commission, by rule, may prescribe as necessary or 
+        appropriate in furtherance of the purposes of this title and 
+        the securities laws.
+            (2) Commission authority to review.--Any action with 
+        respect to which the Board is required by paragraph (1) of this 
+        subsection to file notice shall be subject to review by the 
+        Commission, on its own motion, or upon application by any 
+        person aggrieved thereby filed within 30 days after the date 
+        such notice was filed with the Commission and received by such 
+        aggrieved person, or within such longer period as the 
+        Commission may determine. Application to the Commission for 
+        review, or the institution of review by the Commission on its 
+        own motion, shall not operate as a stay of such action unless 
+        the Commission otherwise orders, summarily or after notice and 
+        opportunity for hearing on the question of a stay (which 
+        hearing may consist solely of the submission of affidavits or 
+        presentation of oral arguments). The Commission shall establish 
+        for appropriate cases an expedited procedure for consideration 
+        and determination of the question of a stay.
+    (d) Disposition of Review; Cancellation, Reduction, or Remission of 
+Sanction.--
+            (1) Authority to affirm, modify, or set aside.--In any 
+        proceeding to review a final disciplinary or remedial sanction 
+        imposed by the Board on a public accounting firm registered 
+        with the Board or a person associated with such a firm, after 
+        notice and opportunity for hearing (which hearing may consist 
+        solely of consideration of the record before the Board and 
+        opportunity for presentation of supporting reasons to affirm, 
+        modify, or set aside the sanction)--
+                    (A) if the Commission finds that such firm or 
+                person associated with such a firm has engaged in such 
+                acts or practices, or has omitted such acts, as the 
+                Board has found him or her to have engaged in or 
+                omitted, that such acts or practices, or omissions to 
+                act, are in violation of such provisions of this title, 
+                the securities laws, the rules or regulations 
+                thereunder, the rules adopted by the Board, or 
+                professional standards as have been specified in the 
+                determination of the Board, and that such provisions 
+                are and were applied in a manner consistent with the 
+                purposes of this title and the securities laws, then 
+                the Commission, by order, shall so declare and, as 
+                appropriate, affirm the sanction imposed by the Board, 
+                modify the sanction in accordance with paragraph (2) of 
+                this subsection, or remand to the Board for further 
+                proceedings; or
+                    (B) if the Commission does not make any such 
+                finding it shall, by order, set aside the sanction 
+                imposed by the Board and, if appropriate, remand to the 
+                Board for further proceedings.
+            (2) Alteration of sanction.--If the Commission, having due 
+        regard for the public interest and the protection of investors, 
+        finds after a proceeding in accordance with paragraph (1) of 
+        this subsection that a sanction imposed by the Board upon such 
+        firm or person associated is inadequate or inappropriate in 
+        light of the nature of the violation and the purposes of the 
+        securities laws, or is excessive or oppressive, the Commission 
+        may enhance, modify, cancel, reduce, or require the remission 
+        of such sanction.
+    (e) Board Compliance With Rules and Regulations.--
+            (1) Compliance.--The Board shall comply with the provisions 
+        of this title, the securities laws, the rules and regulations 
+        thereunder, and its own rules and (subject to the provisions of 
+        paragraph (2) of this subsection and the rules thereunder) 
+        absent reasonable justification or excuse enforce compliance 
+        with such provisions and with professional standards by public 
+        accounting firms registered with the Board and persons 
+        associated with such firms.
+            (2) Commission relief from compliance.--The Commission, by 
+        rule, consistent with the public interest, the protection of 
+        investors, and the other purposes of this title and the 
+        securities laws, may relieve the Board of any responsibility 
+        under this title to enforce compliance with any specified 
+        provision of this title, the securities laws, the rules or 
+        regulations thereunder, or professional standards by any public 
+        accounting firm registered with the Board or person associated 
+        with such a firm, or any class of such firms or persons 
+        associated with such firms if the Commission--
+                    (A) finds that relieving the Board of such 
+                responsibility is necessary in the public interest and 
+                for the protection of investors; and
+                    (B) the Commission assumes the responsibility for 
+                enforcing such compliance.
+    (f) Censure of the Board; Other Sanctions.--
+            (1) Commission authority over board.--The Commission is 
+        authorized, by order, if in its opinion such action is 
+        necessary or appropriate in the public interest, for the 
+        protection of investors, or otherwise in furtherance of the 
+        purposes of this title or the securities laws, to censure or 
+        impose limitations upon the activities, functions, and 
+        operations of the Board, if the Commission finds, on the record 
+after notice and opportunity for a hearing, that the Board has violated 
+or is unable to comply with any provision of this title, the securities 
+laws, the rules or regulations thereunder, or its own rules or without 
+reasonable justification or excuse has failed to enforce compliance 
+with any such provision or any professional standard by a public 
+accounting firm registered with the Board or a person associated with 
+such a firm.
+            (2) Commission authority to sanction members.--The 
+        Commission is authorized, if in its opinion such activity is 
+        necessary or appropriate in the public interest, for the 
+        protection of investors, or otherwise in furtherance of the 
+        purposes of this title or the securities laws, to remove from 
+        office or censure any member of the Board, if the Commission 
+        finds, on the record after notice and opportunity for a 
+        hearing, that such member has willfully violated any provision 
+        of this title, the securities laws, the rules or regulations 
+        thereunder, or the rules of the Board, willfully abused his or 
+        her authority, or without reasonable justification or excuse 
+        has failed to enforce compliance with any such provision or any 
+        professional standard by any public accounting firm registered 
+        with the Board or any person associated with such a firm.
+
+SEC. 409. FOREIGN PUBLIC ACCOUNTING FIRMS.
+
+    (a) Applicability.--Any foreign public accounting firm that 
+furnishes an independent accountant's report with respect to any 
+financial statement, report, or other document required to be filed 
+with the Commission under the securities laws shall be subject to the 
+provisions of this title in the same manner and to the same extent as a 
+domestic public accounting firm.
+    (b) Exemptions.--Notwithstanding subsection (a), the Commission or 
+Board may, by rule, regulation, or order and as it deems consistent 
+with the public interest and the protection of investors, either 
+unconditionally or upon specified terms and conditions--
+            (1) exempt any foreign public accounting firm, or any class 
+        of such firms, from 1 or more provisions of this title; or
+            (2) impose additional qualifications on any foreign public 
+        accounting firm, or any class of such firms, to assure such 
+        firm's knowledge of professional standards in the United States 
+        and that such firm has adequate procedures in place to assure 
+        compliance with those professional standards.
+    (c) Liaison.--The Board may, as it deems necessary, consult, 
+liaise, and meet with accounting professionals and regulators in other 
+countries.
+
+SEC. 410. TRANSITION.
+
+    Any person previously associated with a public accounting firm and 
+in the position of chief executive officer, chief financial officer, 
+controller or principal accounting officer, or any equivalent positions 
+of an issuer prior to the enactment of this Act, shall not impair the 
+independence of an accounting firm under section 406(a)(1). Until 1 
+year from the date of the enactment of this Act, providing those 
+services set forth in section 406(a)(2) will not impair the 
+independence of a public accounting firm, if performing those services 
+did not otherwise previously impair the firm's independence under 
+preexisting requirements of the Commission or professional standards. 
+Paragraphs (3) and (4) of section 406(a) shall not apply until 5 years 
+from the enactment of this Act. Section 406(a)(5) shall not apply to 
+audits commenced prior to the date of the enactment of this Act.
+
+                   TITLE V--PRESERVATION OF AUTHORITY
+
+SEC. 501. SECURITIES AND EXCHANGE COMMISSION AUTHORITY NOT IMPAIRED.
+
+    Nothing in this Act shall be construed to impair or limit the 
+Securities and Exchange Commission's authority over the accounting 
+profession, accounting firms, or persons associated with such firms, or 
+to set standards for accounting or auditing practices or auditor 
+independence, derived from other provisions of the securities laws (as 
+such term is defined in section 3(a)(47) of the Securities Exchange Act 
+of 1934) or the rules or regulations thereunder, or the Commission's 
+ability to take, on its own initiative, legal, administrative, or 
+disciplinary action against any public accounting firm registered with 
+the Board or any person associated with such a firm.
+                                 <all>
+

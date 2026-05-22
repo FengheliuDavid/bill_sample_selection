@@ -1,0 +1,251 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2972 Introduced in House (IH)]
+
+
+104th CONGRESS
+  2d Session
+                                H. R. 2972
+
+To authorize appropriations for the Securities and Exchange Commission, 
+to reduce the fees collected under the Federal securities laws, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 27, 1996
+
+ Mr. Bliley (for himself, Mr. Archer, Mr. Rogers, Mr. Fields of Texas, 
+  Mr. Dingell, Mr. Markey, Mr. Oxley, and Mr. Tauzin) introduced the 
+    following bill; which was referred to the Committee on Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To authorize appropriations for the Securities and Exchange Commission, 
+to reduce the fees collected under the Federal securities laws, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securities and Exchange Commission 
+Authorization Act of 1996''.
+
+SEC. 2. PURPOSES.
+
+    The purposes of this Act are--
+            (1) to authorize appropriations for the Securities and 
+        Exchange Commission for fiscal year 1997; and
+            (2) to reduce over time the rates of fees charged under the 
+        Federal securities laws.
+
+SEC. 3. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 35 of the Securities Exchange Act of 1934 is amended to 
+read as follows:
+
+``SEC. 35. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``There are authorized to be appropriated to carry out the 
+functions, powers, and duties of the Commission $317,000,000 for fiscal 
+year 1997.''.
+
+SEC. 4. REGISTRATION FEES.
+
+    Section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) is 
+amended to read as follows:
+    ``(b) Registration Fee.--
+            ``(1) Recovery of cost of services.--The Commission shall, 
+        in accordance with this subsection, collect registration fees 
+        that are designed to recover the costs to the government of the 
+        securities registration process, and costs related to such 
+        process, including enforcement activities, policy and 
+        rulemaking activities, administration, legal services, and 
+        international regulatory activities.
+            ``(2) Fee payment required.--At the time of filing a 
+        registration statement, or at a time otherwise determined by 
+        the Commission, the applicant shall pay to the Commission a fee 
+        that shall be equal to the sum of the amounts (if any) 
+        determined under the rates established by paragraphs (3) and 
+        (4). The Commission shall publish in the Federal Register 
+        notices of the fee rates applicable under this section for each 
+        fiscal year. In no case shall the fee required by this 
+        subsection be less than $200, except that during fiscal year 
+        2002 or any succeeding fiscal year such minimum fee shall be 
+        $182.
+            ``(3) General revenue fees.--The rate determined under this 
+        paragraph is a rate equal to $200 for each $1,000,000 of the 
+        maximum aggregate price at which such securities are proposed 
+        to be offered, except that during fiscal year 2002 and any 
+        succeeding fiscal year such rate is equal to $182 for each 
+        $1,000,000 of the maximum aggregate price at which such 
+        securities are proposed to be offered. Fees collected during 
+        any fiscal year pursuant to this paragraph shall be deposited 
+        and credited as general revenues of the Treasury.
+            ``(4) Offsetting collection fees.--
+                    ``(A) In general.--Except as provided in 
+                subparagraphs (B) and (C), the rate determined under 
+                this paragraph is a rate equal to the following amount 
+                for each $1,000,000 of the maximum aggregate price at 
+                which such securities are proposed to be offered:
+                            ``(i) $103 during fiscal year 1997;
+                            ``(ii) $70 during fiscal year 1998;
+                            ``(iii) $38 during fiscal year 1999;
+                            ``(iv) $17 during fiscal year 2000; and
+                            ``(v) $0 during fiscal year 2001 or any 
+                        succeeding fiscal year.
+                    ``(B) Limitation; deposit.--Except as provided in 
+                subparagraph (C), no amounts shall be collected 
+                pursuant to this paragraph (4) for any fiscal year 
+                except to the extent provided in advance in 
+                appropriations acts. Fees collected during any fiscal 
+                year pursuant to this paragraph shall be deposited and 
+                credited as offsetting collections in accordance with 
+                appropriations Acts.
+                    ``(C) Lapse of appropriations.--If on the first day 
+                of a fiscal year a regular appropriation to the 
+                Commission has not been enacted, the Commission shall 
+                continue to collect fees (as offsetting collections) 
+                under this paragraph at the rate in effect during the 
+                preceding fiscal year, until such a regular 
+                appropriation is enacted.''.
+
+SEC. 5. TRANSACTION FEES.
+
+    (a) Amendment.--Section 31 of the Securities Exchange Act of 1934 
+(15 U.S.C. 78ee) is amended to read as follows:
+
+``SEC. 31. TRANSACTION FEES.
+
+    ``(a) Recovery of Cost of Services.--The Commission shall, in 
+accordance with this subsection, collect transaction fees that are 
+designed to recover the costs to the Government of the supervision and 
+regulation of securities markets and securities professionals, and 
+costs related to such supervision and regulation, including enforcement 
+activities, policy and rulemaking activities, administration, legal 
+services, and international regulatory activities.
+    ``(b) Exchange-Traded Securities.--Every national securities 
+exchange shall pay to the Commission a fee at a rate equal to $33 for 
+each $1,000,000 of the aggregate dollar amount of sales of securities 
+(other than bonds, debentures, and other evidences of indebtedness) 
+transacted on such national securities exchange, except that for fiscal 
+year 2002 or any succeeding fiscal year such rate shall be equal to $25 
+for each $1,000,000 of such aggregate dollar amount of sales. Fees 
+collected pursuant to this subsection shall be deposited and collected 
+as general revenue of the Treasury.
+    ``(c) Off-Exchange-Trades of Exchange-Registered Securities.--Every 
+national securities association shall pay to the Commission a fee at a 
+rate equal $33 for each $1,000,000 of the aggregate dollar amount of 
+sales transacted by or through any member of such association otherwise 
+than on a national securities exchange of securities registered on such 
+an exchange (other than bonds, debentures, and other evidences of 
+indebtedness), except that for fiscal year 2002 or any succeeding 
+fiscal year such rate shall be equal to $25 for each $1,000,000 of such 
+aggregate dollar amount of sales. Fees collected pursuant to this 
+subsection shall be deposited and collected as general revenue of the 
+Treasury.
+    ``(d) Off-Exchange-Trades of Last-Sale-Reported Securities.--
+            ``(1) Covered transactions.--Every national securities 
+        association shall pay to the Commission a fee at a rate equal 
+        to the dollar amount determined under paragraph (2) for each 
+        $1,000,000 of the aggregate dollar amount of sales transacted 
+        by or through any member of such association otherwise than on 
+        a national securities exchange of securities (other than bonds, 
+        debentures, and other evidences of indebtedness) subject to 
+        prompt last sale reporting pursuant to the rules of the 
+        Commission or a registered national securities association, 
+        excluding any sales for which a fee is paid under subsection 
+        (c).
+            ``(2) Fee rates.--Except as provided in paragraph (4), the 
+        dollar amount determined under this paragraph is--
+                    ``(A) $12 for fiscal year 1997;
+                    ``(B) $14 for fiscal year 1998;
+                    ``(C) $17 for fiscal year 1999;
+                    ``(D) $18 for fiscal year 2000;
+                    ``(E) $20 for fiscal year 2001; and
+                    ``(F) $25 for fiscal year 2002 or for any 
+                succeeding fiscal year.
+            ``(3) Limitation; deposit of fees.--Except as provided in 
+        paragraph (4), no amounts shall be collected pursuant to this 
+        subsection (d) for any fiscal year beginning before October 1, 
+        2001, except to the extent provided in advance in 
+        appropriations Acts. Fees collected during any such fiscal year 
+        pursuant to this subsection shall be deposited and credited as 
+        offsetting collections to the account providing appropriations 
+to the Commission, except that any amounts in excess of the following 
+amounts (and any amount collected for fiscal years beginning on or 
+after October 1, 2001) shall be deposited and credited as general 
+revenues of the Treasury:
+                    ``(A) $20,000,000 for fiscal year 1997;
+                    ``(B) $26,000,000 for fiscal year 1998;
+                    ``(C) $32,000,000 for fiscal year 1999;
+                    ``(D) $32,000,000 for fiscal year 2000;
+                    ``(E) $32,000,000 for fiscal year 2001; and
+                    ``(F) $0 for fiscal year 2002 and any succeeding 
+                fiscal year.
+            ``(4) Lapse of appropriations.--If on the first day of a 
+        fiscal year a regular appropriation to the Commission has not 
+        been enacted, the Commission shall continue to collect fees (as 
+        offsetting collections) under this subsection at the rate in 
+        effect during the preceding fiscal year, until such a regular 
+        appropriation is enacted.''.
+    ``(e) Dates for Payment of Fees.--The fees required by subsections 
+(b), (c), and (d) of this section shall be paid--
+            ``(1) on or before March 15, with respect to transactions 
+        and sales occurring during the period beginning on the 
+        preceding September 1 and ending at the close of the preceding 
+        December 31; and
+            ``(2) on or before September 30, with respect to 
+        transactions and sales occurring during the period beginning on 
+        the preceding January 1 and ending at the close of the 
+        preceding August 31.
+    ``(f) Exemptions.--The Commission, by rule, may exempt any sale of 
+securities or any class of sales of securities from any fee imposed by 
+this section, if the Commission finds that such exemption is consistent 
+with the public interest, the equal regulation of markets and brokers 
+and dealers, and the development of a national market system.
+    ``(g) Publication.--The Commission shall publish in the Federal 
+Register notices of the fee rates applicable under this section for 
+each fiscal year.''.
+    (b) Effective Dates; Transition.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        amendment made by subsection (a) shall apply with respect to 
+        transactions in securities that occur on or after January 1, 
+        1997.
+            (2) Off-exchange trades of last sale reported 
+        transactions.--The amendment made by subsection (a) shall apply 
+        with respect to transactions described in section 31(d)(1) of 
+        the Securities Exchange Act of 1934 (as amended by subsection 
+        (a) of this section) that occur on or after September 1, 1996.
+            (3) Rule of construction.--Nothing in this subsection shall 
+        be construed to affect the obligation of national securities 
+        exchanges and registered brokers and dealers under section 31 
+        of the Securities Exchange Act of 1934 (15 U.S.C. 78ee) as in 
+        effect prior to the amendment made by subsection (a) to make 
+        the payments required by such section on March 15, 1997.
+
+SEC. 6. SENSE OF THE CONGRESS CONCERNING FEES.
+
+    It is the sense of the Congress that--
+            (1) the fees authorized by the amendments made by this Act 
+        are in lieu of, and not in addition to, any fees that the 
+        Securities and Exchange Commission is authorized to impose or 
+        collect pursuant to section 9701 of title 31, United States 
+        Code; and
+            (2) in order to maintain the competitiveness of United 
+        States securities markets relative to foreign markets, no fee 
+        should be assessed on transactions involving portfolios of 
+        equity securities taking place at times of day characterized by 
+        low volume and during non-traditional trading hours.
+                                 <all>
+

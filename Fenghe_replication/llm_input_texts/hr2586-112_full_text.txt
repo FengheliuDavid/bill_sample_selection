@@ -1,0 +1,233 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2586 Reported in House (RH)]
+
+                                                 Union Calendar No. 266
+112th CONGRESS
+   2d Session
+                                H. R. 2586
+
+                  [Report No. 112-345, Parts I and II]
+
+ To refine the definition of swap execution facility in the provisions 
+   regulating swap markets added by title VII of the Dodd-Frank Wall 
+               Street Reform and Consumer Protection Act.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 19, 2011
+
+   Mr. Garrett (for himself, Mrs. Maloney, Mr. Hurt, and Mr. Meeks) 
+ introduced the following bill; which was referred to the Committee on 
+ Financial Services, and in addition to the Committee on Agriculture, 
+for a period to be subsequently determined by the Speaker, in each case 
+for consideration of such provisions as fall within the jurisdiction of 
+                        the committee concerned
+
+                           December 23, 2011
+
+  Reported from the Committee on Financial Services with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+                           December 23, 2011
+
+ Referral to the Committee on Agriculture extended for a period ending 
+                    not later than February 1, 2012
+
+                            February 1, 2012
+
+ Referral to the Committee on Agriculture extended for a period ending 
+                    not later than February 8, 2012
+
+
+                            February 8, 2012
+
+ Additional sponsors: Mr. Grimm, Mr. Neugebauer, Mr. Fitzpatrick, Ms. 
+                          Moore, and Mr. Dold
+
+                            February 8, 2012
+
+Reported from the Committee on Agriculture with an amendment; committed 
+   to the Committee of the Whole House on the State of the Union and 
+                         ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                           in boldface roman]
+ [For text of introduced bill, see copy of bill as introduced on July 
+                               19, 2011]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To refine the definition of swap execution facility in the provisions 
+   regulating swap markets added by title VII of the Dodd-Frank Wall 
+               Street Reform and Consumer Protection Act.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Swap Execution Facility 
+Clarification Act''.
+
+SEC. 2. DEFINITION OF SWAP EXECUTION FACILITY.
+
+    (a) Commodity Exchange Act.--Section 1a(50) of the Commodity 
+Exchange Act (7 U.S.C. 1a(50)) is amended--
+            (1) by striking ``The term'' and inserting the following:
+                    ``(A) In general.--The term'';
+            (2) by redesignating subparagraphs (A) and (B) as clauses 
+        (i) and (ii), respectively (and by moving the margins 2 ems to 
+        the right); and
+            (3) by adding at the end the following:
+                    ``(B) Interpretation.--In interpreting or further 
+                defining the term `swap execution facility', the 
+                Commission shall not require a swap execution facility 
+                to--
+                            ``(i) have a minimum number of participants 
+                        receive a bid or offer or respond to any 
+                        trading system or platform functionality;
+                            ``(ii) display or delay bids or offers for 
+                        any period of time;
+                            ``(iii) limit the means of interstate 
+                        commerce utilized by market participants to 
+                        enter into and execute any swap transactions on 
+                        the trading system or platform; or
+                            ``(iv) require bids or offers on one 
+                        trading system or platform operated by the swap 
+                        execution facility to interact with bids or 
+                        offers on another trading system or platform 
+                        operated by the swap execution facility''.
+    (b) Securities Exchange Act of 1934.--Section 3(a)(77) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(77)) is amended--
+            (1) by striking ``The term'' and inserting the following:
+                    ``(A) In general.--The term'';
+            (2) by redesignating subparagraphs (A) and (B) as clauses 
+        (i) and (ii), respectively (and by moving the margins 2 ems to 
+        the right); and
+            (3) by adding at the end the following:
+                    ``(B) Interpretation.--In interpreting or further 
+                defining the term `security-based swap execution 
+                facility', the Commission shall not require a security-
+                based swap execution facility to--
+                            ``(i) have a minimum number of participants 
+                        receive a bid or offer or respond to any 
+                        trading system or platform functionality;
+                            ``(ii) display or delay bids or offers for 
+                        any period of time;
+                            ``(iii) limit the means of interstate 
+                        commerce utilized by market participants to 
+                        enter into and execute any security-based swap 
+                        transactions on the `method of trading 
+                        functionality; or
+                            ``(iv) require bids or offers on one 
+                        trading system or platform operated by the swap 
+                        execution facility to interact with bids or 
+                        offers on another method of trading 
+                        functionality operated by the swap execution 
+                        facility.''.
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Swap Execution Facility 
+Clarification Act''.
+
+SEC. 2. DEFINITION OF SWAP EXECUTION FACILITY.
+
+    (a) Commodity Exchange Act.--Section 1a(50) of the Commodity 
+Exchange Act (7 U.S.C. 1a(50)) is amended--
+            (1) by striking ``The term'' and inserting the following:
+                    ``(A) In general.--The term'';
+            (2) by redesignating subparagraphs (A) and (B) as clauses 
+        (i) and (ii), respectively, and increasing the indentation of 
+        each such provision by 2 ems; and
+            (3) by adding at the end the following:
+                    ``(B) Interpretation.--In interpreting or further 
+                defining the term `swap execution facility', the 
+                Commission shall not require a swap execution facility 
+                to--
+                            ``(i) have a minimum number of participants 
+                        receive a bid or offer or respond to any method 
+                        of trading functionality;
+                            ``(ii) delay bids or offers for any period 
+                        of time; or
+                            ``(iii) limit the means of interstate 
+                        commerce utilized by market participants to 
+                        enter into and execute any swap transactions on 
+                        the method of trading functionality.''.
+    (b) Securities Exchange Act of 1934.--Section 3(a)(77) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(77)), as added by 
+section 761(a)(6) of the Dodd-Frank Wall Street Reform and Consumer 
+Protection Act, is amended--
+            (1) by striking ``The term'' and inserting the following:
+                    ``(A) In general.--The term'';
+            (2) by redesignating subparagraphs (A) and (B) as clauses 
+        (i) and (ii), respectively, and increasing the indentation of 
+        each such provision by 2 ems; and
+            (3) by adding at the end the following:
+                    ``(B) Interpretation.--In interpreting or further 
+                defining the term `security-based swap execution 
+                facility', the Commission shall not require a security-
+                based swap execution facility to--
+                            ``(i) have a minimum number of participants 
+                        receive a bid or offer or respond to any 
+                        trading system or platform functionality;
+                            ``(ii) display or delay bids or offers for 
+                        any period of time;
+                            ``(iii) limit the means of interstate 
+                        commerce utilized by market participants to 
+                        enter into and execute any security-based swap 
+                        transactions on the trading system or platform; 
+                        or
+                            ``(iv) require bids or offers on one 
+                        trading system or platform operated by the swap 
+                        execution facility to interact with bids or 
+                        offers on another trading system or platform 
+                        operated by the swap execution facility.''.
+
+SEC. 3. IMPLEMENTATION.
+
+    The amendments made by this Act shall be implemented--
+            (1) without regard to--
+                    (A) chapter 35 of title 44, United States Code; and
+                    (B) the notice and comment provisions of section 
+                553 of title 5, United States Code; and
+            (2) through the promulgation of an interim final rule.
+                                                 Union Calendar No. 266
+
+112th CONGRESS
+
+   2d Session
+
+                               H. R. 2586
+
+                  [Report No. 112-345, Parts I and II]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To refine the definition of swap execution facility in the provisions 
+   regulating swap markets added by title VII of the Dodd-Frank Wall 
+               Street Reform and Consumer Protection Act.
+
+_______________________________________________________________________
+
+                            February 8, 2012
+
+Reported from the Committee on Agriculture with an amendment; committed 
+   to the Committee of the Whole House on the State of the Union and 
+                         ordered to be printed
+

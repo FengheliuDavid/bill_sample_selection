@@ -1,0 +1,281 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1349 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 1349
+
+  To establish the Federal Accounting Oversight Board to approve and 
+  oversee accounting principles and standards for the purposes of the 
+     Federal financial regulatory agencies, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 5, 2009
+
+  Mr. Perlmutter (for himself and Mr. Lucas) introduced the following 
+    bill; which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To establish the Federal Accounting Oversight Board to approve and 
+  oversee accounting principles and standards for the purposes of the 
+     Federal financial regulatory agencies, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Federal Accounting Oversight Board 
+Act of 2009''.
+
+SEC. 2. THE FEDERAL ACCOUNTING OVERSIGHT BOARD.
+
+    (a) Establishment.--There is hereby established the Federal 
+Accounting Oversight Board (hereinafter in this Act referred to as the 
+``FAOB'').
+    (b) Duties.--
+            (1) Approval of accounting policy.--The FAOB shall approve 
+        and oversee accounting principles and standards for purposes of 
+        the Federal financial regulatory agencies and reporting 
+        requirements required by such agencies. In approving and 
+        overseeing such accounting principles and standards, the FAOB 
+        shall consider--
+                    (A) the extent to which accounting principles and 
+                standards create systemic risk exposure for--
+                            (i) the United States public;
+                            (ii) the United States financial markets; 
+                        and
+                            (iii) global financial markets;
+                    (B) the extent to which various accounting 
+                principles and standards resolve questions concerning 
+                liquid and illiquid instruments;
+                    (C) whether certain accounting principles and 
+                standards should apply to distressed markets 
+                differently than well-functioning markets;
+                    (D) the balance between investors' need to know a 
+                value of a company or financial institution's balance 
+                sheet at any given time versus financial regulators' 
+                responsibility to examine a company or financial 
+                institution's capital and value on both a liquidation 
+                and going concern basis;
+                    (E) the accuracy and transparency of financial 
+                statements;
+                    (F) the ability of investors and regulators to 
+                accurately judge the current and long term financial 
+                condition of companies and financial institutions from 
+                their financial statements;
+                    (G) the need for accounting principles and 
+                standards to take into account the need for financial 
+                institutions to maintain adequate reserves to cover 
+                expected losses from assets held by such institution;
+                    (H) the extent to which accounting principles and 
+                standards can improve the usefulness of financial 
+                reporting by focusing on the characteristics of 
+                relevance and reliability and on the qualities of 
+                comparability and consistency;
+                    (I) the extent to which such principles and 
+                standards can be kept current to reflect changes in 
+                methods of doing business and changes in the economic 
+                environment; and
+                    (J) any other factors that the FAOB considers 
+                appropriate.
+            (2) Consultation and public comment.--
+                    (A) In general.--In carrying out its duties, the 
+                FAOB may consult with such organizations or entities as 
+                the FAOB believes to be appropriate, including, but not 
+                limited to, the Financial Accounting Standards Board, 
+                the International Accounting Standards Board, or the 
+                Public Company Accounting Oversight Board.
+                    (B) Consultation; public comment.--The FAOB shall, 
+                before approving a specific accounting principle or 
+                standard--
+                            (i) solicit input from financial regulators 
+                        on the principle or standard, including from 
+                        the Comptroller of the Currency, the Director 
+                        of the Office of Thrift Supervision, the 
+                        Federal Housing Finance Agency, the 
+                        Administrator of the National Credit Union 
+                        Administration, the President of the National 
+                        Association of Insurance Commissioners, and the 
+                        Chairman of the Commodities Future Trading 
+                        Commission; and
+                            (ii) provide the public with an opportunity 
+                        to comment on the principle or standard.
+                    (C) Safety and soundness considerations.--If any 
+                Federal financial regulatory agency determines that any 
+                accounting principle or standard approved by the FAOB, 
+                or any accounting principle or standard in effect on 
+                the effective date of this Act, has an adverse effect 
+                on the safety and soundness of the entities it 
+                regulates, the health of the United States financial 
+                system, or the United States economy, the agency may 
+                request authorization from the FAOB to review such 
+                accounting principle or standard for the agency, and 
+                the FAOB shall determine whether the standard or 
+                principle should continue to be applied or instead 
+                removed on either a temporary or permanent basis. The 
+                FAOB shall have 30 days or such additional time as it 
+                may need up to 180 days to review and act on such 
+                request. The agency may exercise discretion in ignoring 
+                the principle or standard on an emergency or temporary 
+                basis for up to 30 days unless otherwise extended by 
+                FAOB. The FAOB shall also consider whether any change 
+                authorized under this paragraph should be permanently 
+                approved by the FAOB as an accounting principle or 
+                standard.
+            (3) Reports.--The FAOB shall, not less often than yearly, 
+        compile a report on the accounting principles and standards 
+        that the FAOB has reviewed and approved either temporarily or 
+        permanently, and--
+                    (A) submit such report to the Congress;
+                    (B) submit such report to the Financial Accounting 
+                Standards Board;
+                    (C) submit such report to the International 
+                Accounting Standards Board; and
+                    (D) make such report available to the public on a 
+                website.
+    (c) Membership.--
+            (1) In general.--The FAOB shall consist of five members:
+                    (A) The Chairman of the Board of Governors of the 
+                Federal Reserve System.
+                    (B) The Secretary of the Treasury.
+                    (C) The Chairman of the Securities and Exchange 
+                Commission.
+                    (D) The Chairman of the Federal Deposit Insurance 
+                Corporation.
+                    (E) The Chairman of the Public Company Accounting 
+                Oversight Board.
+            (2) Chairman.--The Chairman of the Board of Governors of 
+        the Federal Reserve System shall serve as the chairman of the 
+        FAOB.
+    (d) Funding.--
+            (1) Annual budget.--The FAOB shall establish a budget for 
+        each fiscal year.
+            (2) Source of funds.--The budget of the FAOB shall be 
+        payable from annual support fees, in accordance with this 
+        subsection.
+            (3) Annual support fee for the faob.--
+                    (A) Establishment of fee.--The FAOB shall establish 
+                a reasonable annual support fee (or a formula for the 
+                computation thereof), as may be necessary or 
+                appropriate to establish and maintain the FAOB. Such 
+                fee may also cover costs incurred in the FAOB's first 
+                fiscal year (which may be a short fiscal year), or may 
+                be levied separately with respect to such short fiscal 
+                year.
+                    (B) Assessments.--The rules of the FAOB under 
+                subparagraph (A) shall provide for the equitable 
+                allocation, assessment, and collection by the FAOB (or 
+                an agent appointed by the FAOB) of the fee established 
+                under subparagraph (A), among registered public 
+                accounting firms, allowing for differentiation among 
+                classes of firms, as appropriate.
+            (4) Limitation on fee.--The amount of fees collected under 
+        this subsection for a fiscal year on behalf of the FAOB shall 
+        not exceed the recoverable budget expenses of the FAOB (which 
+        may include operating, capital, and accrued items), referred to 
+        in paragraph (2).
+            (5) Fee requirement for registration by the public company 
+        accounting oversight board.--Section 102 of the Sarbanes-Oxley 
+        Act of 2002 (15 U.S.C. 7212) is amended by adding at the end 
+        the following new subsection:
+    ``(g) Annual Fee To Support the Federal Accounting Oversight 
+Board.--In addition to any other fees required by this title, a 
+registered public accounting firm shall pay the annual support fee 
+allocated to the registered public accounting firm under section 2(d) 
+of the Federal Accounting Oversight Board Act of 2009.''.
+            (6) Start-up expenses.--From the unexpended balances of the 
+        appropriations to the Security and Exchange Commission for 
+        fiscal year 2009, the Secretary of the Treasury is authorized 
+        to advance to the FAOB funds not to exceed the amount necessary 
+        to cover the expenses of the FAOB during its first fiscal year 
+        (which may be a short fiscal year).
+    (e) Pay; Travel Expenses.--Members of the FAOB shall not receive 
+any additional pay, allowances, or benefits by reason of their service 
+on the FAOB, except that each member shall receive travel expenses, 
+including per diem in lieu of subsistence, in accordance with 
+applicable provisions under subchapter I of chapter 57 of title 5, 
+United States Code.
+    (f) Meetings.--The FAOB shall meet at the call of the Chairman of 
+the FAOB.
+    (g) Staff.--
+            (1) In general.--The FAOB may appoint and fix the pay of 
+        any personnel that the FAOB considers appropriate to carry out 
+        its duties under this Act.
+            (2) Experts and consultants.--The FAOB may procure 
+        temporary and intermittent services under section 3109(b) of 
+        title 5, United States Code.
+            (3) Staff of agencies.--Upon request of the FAOB, the head 
+        of any Federal department or agency may detail, on a 
+        reimbursable basis, any of the personnel of that department or 
+        agency to the FAOB to assist it in carrying out its duties 
+        under this Act.
+    (h) Powers.--
+            (1) Hearings and sessions.--The FAOB may, for the purpose 
+        of carrying out this Act, hold hearings, sit and act at times 
+        and places, take testimony, and receive evidence as the FAOB 
+        considers appropriate and may administer oaths or affirmations 
+        to witnesses appearing before it.
+            (2) Powers of members and agents.--Any member or agent of 
+        the FAOB may, if authorized by the FAOB, take any action which 
+        the FAOB is authorized to take by this Act.
+            (3) Obtaining official data.--The FAOB may secure directly 
+        from any department or agency of the United States information 
+        necessary to enable it to carry out this Act. Upon request of 
+        the Chairman of the FAOB, the head of that department or agency 
+        shall furnish that information to the FAOB.
+
+SEC. 3. REQUIRING AGENCIES TO CONFORM TO FAOB APPROVED ACCOUNTING 
+              PRACTICES AND STANDARDS.
+
+    Notwithstanding any other provision of law, a Federal financial 
+regulatory agency shall, not later than 180 days, or within a shorter 
+time period as the FAOB may prescribe, after the FAOB approves an 
+accounting principle or standard, ensure that all rules and regulations 
+made by such agency conform with the approval made by the FAOB.
+
+SEC. 4. TRANSFER OF STANDARD SETTING BODY OVERSIGHT AUTHORITY FROM THE 
+              SEC TO THE FAOB.
+
+    (a) Securities Act of 1933.--Section 19(b) of the Securities Act of 
+1933 (15 U.S.C. 77s(b)) is amended--
+            (1) by striking `` Commission'' each place it appears and 
+        inserting ``Federal Accounting Oversight Board'';
+            (2) by striking ``subsection (a) and under section 13(b) of 
+        the Securities Exchange Act of 1934'' and inserting ``the 
+        Federal Accounting Oversight Board Act of 2009''; and
+            (3) by striking ``subsection (a) and section 13(b) of the 
+        Securities Exchange Act of 1934'' and inserting ``the Federal 
+        Accounting Oversight Board Act of 2009''.
+
+SEC. 5. DEFINITIONS.
+
+    For the purposes of this Act:
+            (1) Federal financial regulatory agency.--The term 
+        ``Federal financial regulatory agency'' means--
+                    (A) the Office of Thrift Supervision;
+                    (B) the Federal Deposit Insurance Corporation;
+                    (C) the National Credit Union Administration;
+                    (D) the Securities and Exchange Commission;
+                    (E) the Federal Reserve System; and
+                    (F) the Office of the Comptroller of the Currency.
+            (2) Registered public accounting firm.--The term 
+        ``registered public accounting firm'' shall have the same 
+        meaning as in section 2(a)(12) of the Sarbanes-Oxley Act of 
+        2002 (15 U.S.C. 7201(a)(12)).
+            (3) Securities laws defined.--The term ``securities laws'' 
+        shall have the same meaning as in section 3(a)(47) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47)).
+                                 <all>
+

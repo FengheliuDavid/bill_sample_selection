@@ -1,0 +1,2418 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 31 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                 H. R. 31
+
+  To reform the Federal Home Loan Bank System, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 7, 1997
+
+  Mr. Baker (for himself and Mr. Kanjorski) introduced the following 
+  bill; which was referred to the Committee on Banking and Financial 
+                                Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To reform the Federal Home Loan Bank System, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS; FINDINGS.
+
+    (a) Short Title.--This Act may be cited as the ``Enterprise 
+Resource Bank Act of 1996''.
+    (b) Table of Contents.--The table of sections for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents; findings.
+Sec. 2. Redesignation of Federal home loan banks as enterprise resource 
+                            banks.
+Sec. 3. Provisions relating to banks and bank ownership.
+Sec. 4. Federal Housing Finance Board.
+Sec. 5. The Office of Finance.
+Sec. 6. Capital.
+Sec. 7. Prompt corrective action.
+Sec. 8. Management of banks.
+Sec. 9. Sustainable economic development program.
+Sec. 10. Enforcement authority to promote safety and soundness of 
+                            enterprise resource banks.
+Sec. 11. Resolution Funding Corporation obligation.
+Sec. 12. Powers and duties of banks; technical and conforming 
+                            amendments.
+Sec. 13. Incorporation of banks; corporate powers.
+Sec. 14. Succession of enterprise resource banks.
+Sec. 15. Definitions.
+Sec. 16. Study of overcollateralization.
+    (c) Findings.--The Congress finds the following:
+            (1) The Federal Home Loan Bank System was established in 
+        1932 primarily to provide a source of intermediate- and long-
+        term credit for State savings institutions to finance long-term 
+        residential mortgages and to provide a source for liquidity 
+        loans for such institutions, neither of which was readily 
+        available for such institutions at that time.
+            (2) Recently, the System's membership has been expanded to 
+        include other depository institutions that are significant 
+        housing lenders.
+            (3) That portion of depository institutions which are 
+        specialized mortgage lending has decreased, both with respect 
+        to the volume of loans and as a percentage of market share and 
+        may continue to decrease.
+            (4) The establishment of the Federal National Mortgage 
+        Association, the Federal Home Loan Mortgage Corporation, and 
+        the Government National Mortgage Association and the subsequent 
+        development of an extensive private secondary market for 
+        residential mortgages has challenged the Federal Home Loan Bank 
+        System as a source of intermediate- and long-term credit to 
+        support primary residential mortgage lenders.
+            (5) For most depository institutions, residential mortgage 
+        lending has been incorporated into a product mix of community 
+        banking that typically provides a range of mortgage, consumer, 
+        and commercial loans in their communities.
+            (6) Community banks have a difficult time accessing capital 
+        markets and adequately funding intermediate- and long-term 
+        assets held by the bank for investment purposes, particularly 
+        community banks located in rural areas where nonfarm businesses 
+        tend to rely heavily on community banks as their primary 
+        lender.
+            (7) Since community banks in rural areas, like savings 
+        associations in the 1930s, tend to draw most of their funds 
+        from local deposits, credit for borrowers in rural areas may be 
+        difficult to obtain and the economy of rural America could 
+        benefit from increased competition if community banks in rural 
+        areas were provided with enhanced access to capital markets.
+            (8) Access to liquidity through Federal home loan banks 
+        greatly benefits well-managed, adequately capitalized community 
+        banks because--
+                    (A) term advances reduce interest rate risk; and
+                    (B) the ability of a community bank to obtain 
+                advances to offset deposit decreases or to temporarily 
+                fund portfolios during an increase in loan demands 
+                reduces the bank's overall cost of operation and allows 
+                the community bank to better serve its market and 
+                community.
+            (9) Used prudently, the Federal Home Loan Bank System is an 
+        integral tool to assist properly regulated, well-capitalized 
+        community banks, especially community banks in rural areas and 
+        underserved neighborhoods, to obtain a more stable funding 
+        source for intermediate- and long-term assets.
+
+SEC. 2. REDESIGNATION OF FEDERAL HOME LOAN BANKS AS ENTERPRISE RESOURCE 
+              BANKS.
+
+    (a) In General.--Each Federal home loan bank is hereby redesignated 
+as an enterprise resource bank.
+    (b) Universal Conforming Amendments.--
+            (1) Federal home loan bank.--The Federal Home Loan Bank Act 
+        (12 U.S.C. 1421 et seq.) is amended by striking ``Federal Home 
+        Loan Bank'' and ``Federal Home Loan Banks'' each place such 
+        terms appear in such Act (other than in connection with a 
+        reference to the Federal Home Loan Bank System) and inserting 
+        ``enterprise resource bank'' and ``enterprise resource banks'', 
+        respectively.
+            (2) Federal home loan bank system.--The Federal Home Loan 
+        Bank Act (12 U.S.C. 1421 et seq.) is amended by striking 
+        ``Federal Home Loan Bank System'' and inserting ``enterprise 
+        resource bank system''.
+    (c) Redesignation of Act.--
+            (1) In general.--The Federal Home Loan Bank Act (12 U.S.C. 
+        1421 et seq.) is amended by striking the clause that appears 
+        after the enacting clause and before section 2 and inserting 
+        the following new section:
+
+``SECTION 1. SHORT TITLE.
+
+    ``This Act may be cited as the `Enterprise Resource Bank System 
+Act'.''.
+            (2) References to federal home loan bank act.--Any 
+        reference in this Act and any other Federal law to the Federal 
+        Home Loan Bank Act shall be deemed, as of the date of the 
+        enactment of this Act, to be a reference to the Enterprise 
+        Resource Bank System Act.
+    (d) References to Federal Home Loan Banks.--Any reference in a 
+Federal law to any Federal home loan bank shall be deemed, as of the 
+date of the enactment of this Act, to be a reference to an enterprise 
+resource bank.
+
+SEC. 3. PROVISIONS RELATING TO BANKS AND BANK OWNERSHIP.
+
+    The Federal Home Loan Bank Act (12 U.S.C. 1421) is amended by 
+inserting after section 4 the following new section:
+
+``SEC. 5. MISSION STATEMENT; ENTERPRISE RESOURCE BANKS.
+
+    ``(a) Mission.--The enterprise resource banks are established by 
+the Congress as profit-making financial institutions whose purposes are 
+as follows:
+            ``(1) To promote residential mortgage lending (including 
+        mortgages on housing for low- and moderate-income families).
+            ``(2) To facilitate community and economic development 
+        lending, including rural economic development lending.
+            ``(3) To assist such lending, safely and soundly, through a 
+        program of collateralized advances and other financial services 
+        that provide long-term funding, liquidity, operational, and 
+        interest rate risk management to the bank's shareholders and 
+        certain mortgagees who are not shareholders of the bank.
+    ``(b) Districts.--
+            ``(1) In general.--Subject to subsection (c), there are 12 
+        districts which shall be known as enterprise resource bank 
+        districts.
+            ``(2) Name of district.--Each district shall bear a name 
+        descriptive of the district.
+            ``(3) Districts designated.--Subject to subsection (c), the 
+        12 districts shall be comprised as follows:
+                    ``(A) District 1 shall be composed of the States of 
+                Connecticut, Maine, Massachusetts, New Hampshire, Rhode 
+                Island, and Vermont.
+                    ``(B) District 2 shall be composed of the States of 
+                New Jersey and New York, the Commonwealth of Puerto 
+                Rico, and the territory of the Virgin Islands.
+                    ``(C) District 3 shall be composed of the States of 
+                Delaware, Pennsylvania, and West Virginia.
+                    ``(D) District 4 shall be composed of the States of 
+                Alabama, Florida, Georgia, Maryland, North Carolina, 
+                South Carolina, and Virginia, and the District of 
+                Columbia.
+                    ``(E) District 5 shall be composed of the States of 
+                Kentucky, Ohio, and Tennessee.
+                    ``(F) District 6 shall be composed of the States of 
+                Indiana and Michigan.
+                    ``(G) District 7 shall be composed of the States of 
+                Illinois and Wisconsin.
+                    ``(H) District 8 shall be composed of the States of 
+                Iowa, Minnesota, Missouri, North Dakota, and South 
+                Dakota.
+                    ``(I) District 9 shall be composed of the states of 
+                Arkansas, Louisiana, Mississippi, New Mexico, and 
+                Texas.
+                    ``(J) District 10 shall be composed of the states 
+                of Colorado, Kansas, Nebraska, and Oklahoma.
+                    ``(K) District 11 shall be composed of the states 
+                of Arizona, California, and Nevada.
+                    ``(L) District 12 shall be composed of the states 
+                of Alaska, Hawaii, Idaho, Montana, Oregon, Utah, 
+                Washington, and Wyoming, and the territories of Guam 
+                and the Pacific Islands.
+            ``(4) Single bank in each district.--There shall be 1 
+        enterprise resource bank in each district.
+            ``(5) No additional banks authorized.--No additional 
+        enterprise resource banks may be chartered by the Finance Board 
+        after the date of the enactment of the Enterprise Resource Bank 
+        Act of 1996, except in connection with a transaction under 
+        subsection (c).
+    ``(c) Mergers, Consolidations and Combinations of Banks.--
+            ``(1) Merger, consolidation, and combination authority.--In 
+        addition to the authority of the Finance Board under section 24 
+        and notwithstanding subsection (b), 2 or more enterprise 
+        resource banks may merge or otherwise combine or consolidate.
+            ``(2) Prerequisites for transaction.--A merger, 
+        combination, or consolidation of enterprise banks may be 
+        consummated under this subsection only if the transaction is 
+        approved by--
+                    ``(A) a majority of the board of directors of each 
+                bank participating in the transaction;
+                    ``(B) the holders of a majority of the voting 
+                shares of capital stock of each such bank, in a vote by 
+                such shareholders in accordance with the applicable 
+                procedure under section 7(d); and
+                    ``(C) the Finance Board.
+            ``(3) Effective date of transaction.--If the requirements 
+        of paragraph (2) have been met, a merger, combination, or 
+        consolidation of enterprise resource banks shall be effective 
+        as of the date the following conditions are met:
+                    ``(A) A certificate of merger, combination, or 
+                consolidation (in such form as the Finance Board shall 
+                prescribe) is--
+                            ``(i) executed by the banks participating 
+                        in such transaction; and
+                            ``(ii) filed with the Finance Board in 
+                        accordance with section 12(a)(3).
+                    ``(B) The Finance Board has--
+                            ``(i) approved the transaction in 
+                        accordance with paragraph (12)(A); or
+                            ``(ii) not disapproved the transaction in 
+                        accordance with paragraph (12)(B) before the 
+                        end of the 120-day period beginning on the date 
+                        of the filing described in subparagraph 
+                        (A)(ii).
+            ``(4) Merger agreement.--
+                    ``(A) In general.--Any merger, combination, or 
+                consolidation of enterprise resource banks under this 
+                subsection shall be carried out pursuant to an 
+                agreement entered into by all the enterprise resource 
+                banks participating in the transaction.
+                    ``(B) Contents of agreement.--Any agreement 
+                referred to in subparagraph (A) shall specify--
+                            ``(i) the terms and conditions of the 
+                        merger, combination, or consolidation;
+                            ``(ii) the amendments to the charter 
+                        documents of the resulting bank to be affected 
+                        by the transaction, if any;
+                            ``(iii) the location of the principal 
+                        office of the resulting bank;
+                            ``(iv) the manner of converting the shares 
+                        of each of the banks participating in the 
+                        transaction into shares of the resulting bank; 
+                        and
+                            ``(v) such other details or provisions as 
+                        are appropriate.
+            ``(5) Succession in interest.--Upon the effective date of 
+        any merger, combination, or consolidation of enterprise 
+        resource banks under this subsection--
+                    ``(A) the separate existence of any bank 
+                participating in the transaction other than the 
+                resulting bank shall cease to exist;
+                    ``(B) the resulting bank shall--
+                            ``(i) succeed to all the rights and 
+                        properties of each of the banks described in 
+                        subparagraph (A) without other transfer; and
+                            ``(ii) be subject to all the debts and 
+                        liabilities of each such bank in the same 
+                        manner as if the resulting bank had incurred 
+                        such debts and liabilities.
+            ``(6) Existing rights not affected.--This subsection shall 
+        not affect any right of any creditor of any enterprise resource 
+        bank which is participating in any merger, combination, or 
+        consolidation under this subsection.
+            ``(7) Preservation of liens.--All liens upon the property 
+        of any enterprise resource bank which is participating in any 
+        merger, combination, or consolidation under this subsection 
+        shall continue to be effective after the consummation of the 
+        transaction except that any lien upon property of any bank 
+        other than the resulting bank shall be effective only with 
+        respect to the property which was subject to the lien 
+        immediately before consummation of the transaction.
+            ``(8) Continuation of suits.--
+                    ``(A) In general.--No action or other proceeding 
+                commenced by or against any enterprise resource bank 
+                which is participating in any merger, combination, or 
+                consolidation under this subsection shall abate by 
+                reason of the consummation of such transaction.
+                    ``(B) Substitution of resulting bank.--In any 
+                action or proceeding described in subparagraph (A), the 
+                enterprise resource bank resulting from the transaction 
+                referred to in such subparagraph shall be substituted 
+                for the enterprise resource bank involved in such 
+                action or proceeding before the consummation of the 
+                transaction.
+                    ``(C) Applicability to resulting bank.--Any final 
+                judgment or other determination which becomes final in 
+                any action or proceeding described in subparagraph (A) 
+                shall be binding on the bank resulting from the 
+                transaction referred to in such subparagraph.
+            ``(9) Number of elected directors of resulting bank.--
+        Subject to section 7(a), any enterprise resource bank resulting 
+        from a merger, combination, or consolidation pursuant to this 
+        section may have a number of elected directors equal to or less 
+        than the total number of elected directors of all the banks 
+        which participated in such transaction (as determined 
+        immediately before such transaction).
+            ``(10) Number of appointed directors of resulting bank.--
+        The number of appointed directors of any enterprise resource 
+        bank resulting from a merger, combination, or consolidation 
+        pursuant to this section shall be the amount which is 2 less 
+        than the number of elected directors.
+            ``(11) Adjustment of district boundaries.--After a merger, 
+        combination, or consolidation of 2 or more enterprise resource 
+        banks under this subsection is consummated, the Finance Board 
+        shall adjust the districts established pursuant to subsection 
+        (b) to reflect such merger, combination, or consolidation.
+            ``(12) Finance board authority.--Upon receipt of a 
+        certificate of merger, combination, or consolidation filed with 
+        the Finance Board in accordance with section 12(a)(3), the 
+        Finance Board may--
+                    ``(A) approve the transaction on the basis of a 
+                determination that the transaction provides for a 
+                resulting enterprise resource bank which is safe and 
+                sound; or
+                    ``(B) disapprove the transaction on the basis of a 
+                determination that the transaction does not provide for 
+                a resulting enterprise resource bank which is safe and 
+                sound.
+    ``(d) Prohibition on Joint Offices.--Except with regard to the 
+office of finance or to the extent specifically provided in this Act, 
+there shall be no joint or collective offices of the enterprise 
+resource banks.''.
+
+SEC. 4. FEDERAL HOUSING FINANCE BOARD.
+
+    (a) In General.--Section 3 of the Federal Home Loan Bank Act (12 
+U.S.C. 1423) is amended to read as follows:
+
+``SEC. 3. FEDERAL HOUSING FINANCE BOARD.
+
+    ``(a) Establishment.--
+            ``(1) In general.--There shall be a Federal Housing Finance 
+        Board in the executive branch which shall be an independent 
+        agency to regulate the safety and soundness of the enterprise 
+        resource banks.
+            ``(2) Duties.--The duties of the Finance Board shall be the 
+        following:
+                    ``(A) To ensure that the enterprise resource 
+                banks--
+                            ``(i) operate in accordance with this Act 
+                        and in a safe and sound manner; and
+                            ``(ii) remain adequately capitalized.
+                    ``(B) To ensure that programs administered by any 
+                enterprise resource bank are consistent with, and 
+                contribute to the fulfillment of, the mission of the 
+                bank.
+                    ``(C) To provide periodic reports to the Congress 
+                regarding the safety and soundness and the composition 
+                of the shareholders in the enterprise resource banks 
+                and the extent to which such banks are fulfilling their 
+                mission.
+            ``(3) Clarification of authority of finance board.--The 
+        Finance Board shall have no authority--
+                    ``(A) to manage the operations of any enterprise 
+                resource bank;
+                    ``(B) to manage the sustainable economic 
+                development program of any enterprise resource bank, 
+                including the community investment program or the 
+                affordable housing program of any such bank; or
+                    ``(C) to approve or disapprove funding by any such 
+                bank for any program referred to in subparagraph (B).
+            ``(4) Management of finance board.--The management of the 
+        Finance Board shall be vested in a chief executive officer.
+    ``(b) Composition of Finance Board.--
+            ``(1) In general.--Subject to paragraph (9), the Finance 
+        Board shall be composed of 5 directors as follows:
+                    ``(A) The Secretary of the Department of Housing 
+                and Urban Development, who shall serve without 
+                additional compensation.
+                    ``(B) 3 directors appointed by the President, by 
+                and with the advice and consent of the Senate, from 
+                among individuals who--
+                            ``(i) are citizens of the United States; 
+                        and
+                            ``(ii) have--
+                                    ``(I) extensive experience or 
+                                training in housing finance, community 
+                                and economic development (including 
+                                rural economic development), financial 
+                                safety and soundness regulation, or 
+                                extensive experience with an 
+                                organization which represents consumer 
+                                or community interest in banking 
+                                services, credit needs, housing, 
+                                financial consumer protection, or small 
+                                businesses; and
+                                    ``(II) a commitment to provide 
+                                specialized housing, small business, or 
+                                rural credit.
+                    ``(C) 1 director appointed by the President, by and 
+                with the advice and consent of the Senate, from among 
+                individuals who--
+                            ``(i) are citizens of the United States; 
+                        and
+                            ``(ii) have extensive experience or 
+                        training in financial safety and soundness 
+                        regulation.
+            ``(2) Terms.--
+                    ``(A) In general.--Except as provided in paragraph 
+                (10), each director of the Finance Board appointed 
+                under subparagraph (B) or (C) of paragraph (1) shall be 
+                appointed for a term of 7 years.
+                    ``(B) Interim appointments.--Any director appointed 
+                to fill a vacancy occurring before the expiration of 
+                the term for which such director's predecessor was 
+                appointed shall be appointed only for the remainder of 
+                such term.
+                    ``(C) Continuation of service.--Each director may 
+                continue to serve after the expiration of the term to 
+                which such director was appointed until a successor has 
+                been appointed and qualified.
+            ``(3) Chairperson and acting chairperson.--
+                    ``(A) Chairperson.--The President shall designate 1 
+                of the directors appointed pursuant to subparagraph (B) 
+                or (C) of paragraph (1) to be the Chairperson of the 
+                Finance Board.
+                    ``(B) Service as chief executive officer.--The 
+                Chairperson shall be the chief executive officer of the 
+                Finance Board.
+                    ``(C) Acting chairperson.--
+                            ``(i) In general.--The Chairperson shall 
+                        designate another director to serve as acting 
+                        Chairperson during the absence or disability of 
+                        the Chairperson.
+                            ``(ii) Selection by directors.--If a 
+                        designation by the Chairperson has not been 
+                        made pursuant to clause (i) and the position of 
+                        Chairperson becomes vacant, the remaining 
+                        directors shall elect a director to serve as 
+                        the Acting Chairperson until a Chairperson has 
+                        been appointed.
+                    ``(D) Powers and responsibility of ceo.--
+                            ``(i) In general.--As the chief executive 
+                        officer, the Chairperson shall be responsible 
+                        for--
+                                    ``(I) the overall management, 
+                                organization, and functioning of the 
+                                Finance Board in accordance with the 
+                                policies established and regulations 
+                                prescribed by the Finance Board;
+                                    ``(II) directing the implementation 
+                                of regulations prescribed and policies 
+                                established by the Finance Board; and
+                                    ``(III) appoint, remove, promote, 
+                                direct, and set rates of compensation 
+                                for employees, attorneys, and agents of 
+                                the Finance Board consistent with the 
+                                policies established by the Finance 
+                                Board pursuant to subsection (e)(1).
+                            ``(ii) Meetings.--The Chairperson may call 
+                        a meeting of the Finance Board.
+                            ``(iii) Delegation.--The Chairperson may 
+                        delegate any authority of the Chairperson as 
+                        the chief executive officer of the Finance 
+                        Board to any officer or employee of the Finance 
+                        Board, including another director of the 
+                        Finance Board.
+                            ``(iv) Governing standards.--In carrying 
+                        out the duties of the chief executive officer, 
+                        the Chairperson shall be subject to and 
+                        governed by the policies adopted by the Finance 
+                        Board and any regulatory decision, finding, or 
+                        determination made by the Finance Board.
+            ``(4) Representational requirements.--
+                    ``(A) Political affiliation.--Not more than 2 of 
+                the directors appointed under subparagraphs (B) and (C) 
+                of paragraph (1) may be members of the same political 
+                party.
+                    ``(B) District representation.--Not more than 1 
+                director may be appointed under subparagraphs (B) and 
+                (C) of paragraph (1) from any single district of the 
+                enterprise resource Bank System.
+            ``(5) Vacancy.--Any vacancy on the Finance Board shall be 
+        filled in the manner in which the original appointment was 
+        made.
+            ``(6) Limitations on conflicts of interest.--No director on 
+        the Finance Board may, while serving as a director--
+                    ``(A) serve as a director, officer, employee, 
+                counsel, or agent of any enterprise resource bank; or
+                    ``(B) hold shares of, serve as a director, officer, 
+                employee, counsel, or agent of, or have any other 
+                financial interest in any shareholder of any such bank.
+            ``(7) Full-time service.--No director other than the 
+        Chairperson (or any director serving as the acting Chairperson) 
+        may serve on the Finance Board on a full-time basis.
+            ``(8) Quorum.--A quorum of the Finance Board shall consist 
+        of at least one-half of all the directors serving on the 
+        Finance Board.
+            ``(9) Delegation by secretary.--The Secretary of Housing 
+        and Urban Development may delegate such Secretary's position on 
+        the Finance Board to an officer of such Secretary's agency who 
+        has been appointed to such office by the President, by and with 
+        the advice and consent of the Senate.
+            ``(10) Continued service of federal housing finance board 
+        directors.--Any director of the Federal Housing Finance Board 
+        whose term has not expired before the date of enactment of the 
+        Enterprise Resource Bank Act of 1996 shall remain a director of 
+        the Finance Board, in the same capacity, and shall be deemed to 
+        have been appointed under subparagraph (B) or (C) of paragraph 
+        (1).
+    ``(c) General Powers.--Subject to subsection (a)(3), the Finance 
+Board shall have the following powers:
+            ``(1) To maintain such oversight of the enterprise resource 
+        banks, subsidiaries of such banks, and the office of finance as 
+        may be necessary to ensure that such banks and subsidiaries and 
+        the office of finance operate in accordance with this Act and 
+        in a financially safe and sound manner.
+            ``(2) To prescribe or issue, and enforce, such regulations 
+        and orders as the Finance Board determines to be necessary to 
+        carry out the provisions of this Act.
+            ``(3) To suspend or remove for cause a director, officer, 
+        employee, or agent of any enterprise resource bank or the 
+        office of finance.
+            ``(4) To determine necessary expenditures of the Finance 
+        Board under this Act and the manner in which such expenditures 
+        shall be incurred, allowed, and paid.
+            ``(5) To use the United States mails in the same manner and 
+        under the same conditions as a department or agency of the 
+        United States.
+            ``(6) To sue and be sued and to complain and defend, by and 
+        through the Finance Board's own attorneys, in any action 
+        brought by or against the Finance Board in any court of 
+        competent jurisdiction.
+            ``(7) To make contracts.
+            ``(8) To exercise incidental powers that are consistent 
+        with this Act and are appropriate to carry out the provisions 
+        of this Act.
+    ``(d) Receipts of the Finance Board.--
+            ``(1) Deposit in treasury.--Receipts of the Finance Board 
+        derived from assessments imposed on the enterprise resource 
+        banks and from other sources shall be deposited in an account 
+        of the Finance Board in the Treasury of the United States.
+            ``(2) Payment of expenses.--Salaries of the directors and 
+        other employees of the Finance Board and all other expenses of 
+        the Finance Board may be paid from the receipts described in 
+        paragraph (1).
+            ``(3) Treatment of amounts received.--Notwithstanding any 
+        other provision of law--
+                    ``(A) no amount received by the Finance Board 
+                pursuant to any assessment imposed on any enterprise 
+                resource bank or any other income of the Finance Board 
+                may be construed to be Government funds or appropriated 
+                money;
+                    ``(B) no authority of the Finance Board to spend or 
+                otherwise obligate any such amount may be treated as 
+                budget authority, spending authority, or credit 
+                authority or as authority to obligate funds of the 
+                United States, notwithstanding the fact that the 
+                receipts described in paragraph (1) are deposited in 
+                the account of the Finance Board in the Treasury; and
+                    ``(C) no such amount shall be subject to 
+                apportionment for purposes of chapter 15 of title 31, 
+                United States Code, or under any other authority.
+    ``(e) Staff.--
+            ``(1) In general.--The Finance Board may provide for the 
+        employment, direction, compensation, and number of employees, 
+        attorneys, and agents of the Finance Board.
+            ``(2) Prohibition on delegation to banks or the office of 
+        finance.--The Finance Board may not delegate, or provide for 
+        the delegation of, any function of the Finance Board to any 
+        employee or administrative unit of any bank or the office of 
+        finance.
+            ``(3) Restatement of prior law.--The compensation of staff, 
+        attorneys, and agents shall be paid without regard to the 
+        provisions of other laws applicable to officers or employees of 
+        the United States, except that the chairperson and the other 
+        appointed directors shall be compensated pursuant to sections 
+        5314 and 5315 of title 5, United States Code, respectively.
+    ``(f) Annual Reports.--
+            ``(1) Board reports.--The Finance Board shall make an 
+        annual report to the Congress regarding--
+                    ``(A) the safety and soundness of the enterprise 
+                resource banks and the office of finance;
+                    ``(B) the fulfillment of the mission of the banks 
+                under this Act; and
+                    ``(C) the composition of the shareholders in the 
+                enterprise resource banks.
+            ``(2) Bank reports.--Each enterprise resource bank shall 
+        submit an annual report to the Finance Board on the fulfillment 
+        of the mission of the bank under this Act.
+            ``(3) Affordable housing advisory councils.--The affordable 
+        housing advisory councils of the enterprise resource banks 
+        shall each submit an annual report to the Finance Board on the 
+        fulfillment by such bank of its affordable housing mission 
+        under section 10.
+    ``(g) Suspension or Removal of Bank Employees for Cause.--
+            ``(1) Written notice.--In exercising any authority under 
+        subsection (c)(3) to suspend or remove for cause a director, 
+        officer, employee, or agent of any enterprise resource bank or 
+        the office of finance, the Finance Board shall provide written 
+        notice of such suspension or removal and the cause of the 
+        suspension or removal to such director, officer, employee, or 
+        agent and to such bank or office.
+            ``(2) Hearing.--The notice provided pursuant to paragraph 
+        (1) shall establish the time and place for a hearing on the 
+        suspension or removal in accordance with section 554 of title 
+        5, United States Code.''.
+    (b) Independence of Finance Board.--Section 111 of Public Law 93--
+495 (12 U.S.C. 250) is amended by striking ``the Federal Home Loan Bank 
+Board,'' and inserting ``the Director of the Office of Thrift 
+Supervision, the Federal Housing Finance Board,''.
+
+SEC. 5. THE OFFICE OF FINANCE.
+
+    Section 4 of the Federal Home Loan Bank Act (12 U.S.C. 1424) is 
+amended to read as follows:
+
+``SEC. 4. THE OFFICE OF FINANCE.
+
+    ``(a) Operation.--The enterprise resource banks shall operate 
+jointly an office of finance (hereafter in this section referred to as 
+the `office') to issue the notes, bonds, and debentures of the 
+enterprise resource banks in accordance with this Act.
+    ``(b) Powers.--Subject to the other provisions of this Act and such 
+safety and soundness regulations as the Finance Board may prescribe, 
+the office shall be authorized by the enterprise resource banks to act 
+as the agent of such banks to issue enterprise resource bank notes, 
+bonds and debentures pursuant to section 11 of this Act on behalf of 
+the banks.
+    ``(c) Central Board of Directors.--
+            ``(1) Establishment.--The enterprise resource banks shall 
+        establish a central board of directors of the office of finance 
+        to administer the affairs of the office in accordance with the 
+        provisions of this Act.
+            ``(2) Composition of board.--Each enterprise resource bank 
+        shall annually select 1 individual who, as of the time of the 
+        election, is an officer or director of such bank to serve as a 
+        member of the central board of directors.
+    ``(d) Status.--Except to the extent expressly provided in this Act, 
+the office shall be treated as an enterprise resource bank for purposes 
+of any law.
+    ``(e) Monitoring Investment Exposure.--
+            ``(1) Regular position reporting required.--
+                    ``(A) In general.--Beginning 30 days after the date 
+                of the enactment of the Enterprise Resource Bank Act of 
+                1996, each enterprise resource bank shall regularly 
+                report the bank's closing position on all of the bank's 
+                investments and qualified financial contracts (as 
+                defined in section 11(e)(8)(D) of the Federal Deposit 
+                Insurance Act) to the office of finance and the Finance 
+                Board.
+                    ``(B) Finance board requirements.--The Finance 
+                Board may specify the contents of the reports required 
+                under subparagraph (A).
+            ``(2) System procedures.--In addition to the reports 
+        required under paragraph (1), the Finance Board, the enterprise 
+        resource banks, and the office shall jointly establish 
+        procedures for monitoring the investment exposure, including 
+        credit and interest rate risk, of the banks' individual and 
+        combined investment portfolios.''.
+
+SEC. 6. CAPITAL.
+
+    (a) In General.--Section 6 of the Federal Home Loan Bank Act (12 
+U.S.C. 1426) is amended by striking all that precedes subsection (h) 
+and inserting the following:
+
+``SEC. 6. CAPITAL STRUCTURE OF ENTERPRISE RESOURCE BANKS.
+
+    ``(a) Capital Structure Plan.--Before the end of the 6-month period 
+beginning on the date of the enactment of the Enterprise Resource Bank 
+Act of 1996, the board of directors of each enterprise resource bank 
+shall complete, and file with the Finance Board for approval, a plan 
+for establishing and implementing a capital structure for such bank 
+which--
+            ``(1) the board of directors determines is the best suited 
+        for the condition and operation of the bank and the interests 
+        of the shareholders of the bank;
+            ``(2) meets the requirements of subsection (b); and
+            ``(3) meets the minimum capital standards and requirements 
+        established under subsection (c) and any regulations prescribed 
+        by the Finance Board pursuant to such subsection.
+    ``(b) Contents of Plan.--The capital structure plan of each 
+enterprise resource bank shall meet the following requirements:
+            ``(1) Adjustment of equity investments.--The plan shall 
+        include a timetable for adjusting, by such amount as the board 
+        of directors may determine to be appropriate, the amount of the 
+        equity investment of the shareholders of the bank as of the 
+        date of the enactment of the Enterprise Resource Bank Act of 
+        1996.
+            ``(2) Uniform standards for shareholders.--The plan shall 
+        establish uniform standards, criteria, and requirements for the 
+        issuance, purchase, trading, and transfer of shares of any 
+        class of stock of the bank.
+            ``(3) Procedure for meeting permanent capital 
+        requirement.--The plan shall establish the process by which the 
+        bank shall meet the permanent capital requirement in subsection 
+        (c)(5) as soon as practicable after the date of the enactment 
+        of the Enterprise Resource Bank Act of 1996.
+            ``(4) Limited transferability of stock.--The plan shall 
+        provide that any equity securities issued by the bank shall be 
+        available only to, held only by, and tradable only among, 
+        shareholders of the bank or institutions eligible to become 
+        shareholders of the bank under subsection (d).
+            ``(5) Description of stock and rights of shareholders.--The 
+        plan shall provide for and describe the terms, rights (voting, 
+        liquidation, and other rights), and preferences (such as 
+        dividends) of any class or series of stock and any other type 
+        of equity security issued or to be issued by the bank.
+            ``(6) Acquisition, transfer, and redemption of stock.--The 
+        plan shall identify the manner in which any equity securities 
+        to be issued by the bank may be sold, transferred, or redeemed.
+            ``(7) Final disposition of ownership interests of 
+        shareholder.--The plan shall provide for the manner of 
+        disposition of any outstanding equity securities held by, and 
+        the liquidation of any claims of the bank against, a 
+        shareholder who provides notice of intention to dispose of all 
+        ownership interest in the enterprise resource bank.
+            ``(8) Clarification of voting rights.--The voting rights of 
+        any shareholder of any enterprise resource bank shall cease 
+        upon disposition of all ownership interests of the shareholder 
+        in the bank.
+            ``(9) Approval of capital structure plans.--In approving 
+        capital structure plans under this subsection, the Finance 
+        Board shall ensure that--
+                    ``(A) the capital instruments, and the 
+                characteristics of such instruments, of the enterprise 
+                resource banks are consistent among all such banks; and
+                    ``(B) the plan for each enterprise resource bank 
+                establishes a process for managing the orderly 
+                redemption of redeemable stock and other equity 
+                interests in the bank.
+    ``(c) Capital Standards.--
+            ``(1) In general.--The Finance Board shall prescribe, by 
+        regulation, uniform capital standards applicable to each 
+        enterprise resource bank which shall include--
+                    ``(A) a leverage limit;
+                    ``(B) a risk-based capital requirement; and
+                    ``(C) a permanent capital requirement.
+            ``(2) Risk-based capital test.--The Finance Board shall 
+        adopt a capital stress test substantially similar to the risk-
+        based capital test established by the Director of the Office of 
+        Federal Housing Enterprise Oversight of the Department of 
+        Housing and Urban Development pursuant to section 1361 of the 
+        Federal Housing Enterprises Financial Safety and Soundness Act 
+        of 1992, with such modifications as the Finance Board 
+        determines appropriate to reflect differences in operation 
+        between the enterprise resource bank system and the enterprises 
+        (as defined in section 1303(6) of such Act).
+            ``(3) Minimum leverage limit.--The leverage limit 
+        established by the Finance Board shall require each enterprise 
+        resource bank to maintain total capital in an amount not less 
+        than the applicable amount in the following subparagraphs, as 
+        determined in accordance with generally accepted accounting 
+        principles:
+                    ``(A) 5 percent of the total assets of the bank, 
+                during any period in which--
+                            ``(i) the bank does not meet the 
+                        requirement of paragraph (5); and
+                            ``(ii) the amount of the capital of the 
+                        bank which is taken into account under 
+                        paragraph (5) is less than 0.5 percent of such 
+                        total assets.
+                    ``(B) 4.5 percent of the total assets of the bank, 
+                during any period in which--
+                            ``(i) the bank does not meet the 
+                        requirement of paragraph (5); and
+                            ``(ii) the amount of the capital of the 
+                        bank which is taken into account under 
+                        paragraph (5) is 0.5 percent or more, and less 
+                        than 1 percent, of such total assets.
+                    ``(C) 4 percent of the bank's total assets during 
+                any period in which--
+                            ``(i) the amount of the capital of the bank 
+                        which is taken into account under paragraph (5) 
+                        is 1 percent or more of such total assets; and
+                            ``(ii) the bank is obligated, under section 
+                        21B(f)(2)(C), to provide funding to cover 
+                        interest payments on obligations issued by the 
+                        Resolution Funding Corporation.
+                    ``(D) 3 percent of the bank's total assets during 
+                any other period.
+            ``(4) Risk-based capital standard.--The risk-based capital 
+        standard established by the Finance Board shall require each 
+        enterprise resource bank to maintain total capital in an amount 
+        not less than the greater of the following:
+                    ``(A) 10 percent of the risk-adjusted assets of the 
+                bank, as determined using the risk weighting 
+                established by the Bank for International Settlements 
+                pursuant to the Basel Accord.
+                    ``(B) The amount which enables the bank to maintain 
+                a positive equity account under the application of the 
+                capital stress test adopted established by the Finance 
+                Board pursuant to paragraph (2).
+            ``(5) Permanent capital requirement.--
+                    ``(A) In general.--Subject to subparagraph (B), the 
+                Finance Board shall require each enterprise resource 
+                bank to maintain, as soon as practicable after the date 
+                of the enactment of the Enterprise Resource Bank Act of 
+                1996, such amount of permanent capital as the Finance 
+                Board may prescribe in any of the following forms or 
+                combination of forms:
+                            ``(i) Retained earnings.
+                            ``(ii) A risk-insurance pool.
+                            ``(iii) Nonredeemable stock of the bank.
+                            ``(iv) Stock of the bank as to which any 
+                        right to redeem is explicitly suspended during 
+                        any period in which the bank is 
+                        undercapitalized.
+                    ``(B) Minimum amount.--The amount prescribed by the 
+                Finance Board under subparagraph (A) may not be less 
+                than 1 percent of the total assets of the bank.
+    ``(d) Criteria For Eligibility for Ownership Interest in a Bank.--
+            ``(1) In general.--Any insured depository institution and 
+        insured credit union, and, except as provided in paragraph (5), 
+        only such institutions and credit unions, may acquire and 
+        retain shares of stock of an enterprise resource bank.
+            ``(2) Whole mortgage test for large depository 
+        institutions.--
+                    ``(A) In general.--Notwithstanding paragraph (1), 
+                an institution which has an average annual amount of 
+                total assets of $500,000,000 or more at any time after 
+                June 30, 1998, shall maintain an investment in whole 
+                mortgage loans in accordance with the following table:
+
+``Annually--                        Not less than the following percent 
+                                            of the average annual 
+                                            amount of total assets of 
+                                            the institution are 
+                                            invested in whole mortgage 
+                                            loans--
+    During the 1-year period beginning on July 1,                   7% 
+        1998.
+    During the 1-year period beginning on July 1,                   8% 
+        1999.
+    During the 1-year period beginning on July 1,                   9% 
+        2000.
+    After June 30, 2001...........................                 10% 
+                    ``(B) Whole mortgage loan defined.--For purposes of 
+                this subsection, the term `whole mortgage loan' does 
+                not include--
+                            ``(i) a partial interest in a residential 
+                        mortgage on improved residential real property; 
+                        or
+                            ``(ii) a security that represents an 
+                        interest in a residential mortgage loan.
+                    ``(C) Other assets.--The Finance Board may identify 
+                other mission-related assets as assets which may be 
+                taken into account, in addition to whole mortgage 
+                loans, for purposes of subparagraph (A).
+                    ``(D) Penalties for failing to meet whole mortgage 
+                loan test.--An enterprise resource bank shall take the 
+                appropriate action under the following clauses with 
+                respect to an institution which is subject to the 
+                requirement of subparagraph (A) and fails to comply 
+                with such requirement:
+                            ``(i) An institution which fails to meet 
+                        such requirement shall not be eligible for any 
+                        long-term advance from the bank until the 
+                        institution has met such requirement on an 
+                        average daily basis for 2 consecutive calendar 
+                        quarters.
+                            ``(ii) An institution which fails to meet 
+                        such requirement for 4 consecutive calendar 
+                        quarters shall not be eligible for any advance 
+                        from the bank.
+                            ``(iii) An institution which fails to meet 
+                        such requirement for 8 consecutive calendar 
+                        quarters shall be required to divest all 
+                        ownership interests of the institution in the 
+                        bank in accordance with subsection (e)(2).
+                    ``(E) Indexing of total assets amount.--The Finance 
+                Board shall establish a methodology for adjusting the 
+                dollar amount of total assets in subparagraph (A) after 
+                December 31, 1998, to reflect asset inflation and other 
+                relevant factors.
+            ``(3) Designation of bank.--An institution which is 
+        eligible to acquire and retain shares of an enterprise resource 
+        bank under paragraph (1) may only acquire the shares of, or 
+        secure advances from--
+                    ``(A) the enterprise resource bank of the district 
+                in which is located the institution's principal place 
+                of business; or
+                    ``(B) the bank of a district adjoining the district 
+                described in subparagraph (A) if--
+                            ``(i) demanded by convenience; and
+                            ``(ii) an application by such institution 
+                        to the bank and the Finance Board for the 
+                        acquisition of shares of such bank is--
+                                    ``(I) approved by the bank; and
+                                    ``(II) not disapproved by the 
+                                Finance Board before the end of the 30-
+                                day period beginning on the date the 
+                                Finance Board receives the application 
+                                from such institution.
+            ``(4) Exception for certain nondepository institutions.--
+        Any company which, as of the day before the date of the 
+        enactment of the Enterprise Resource Bank Act of 1996, was a 
+        member of a Federal home loan bank may continue, subject to 
+        this Act, to be a voting shareholder of the bank after such 
+        date with all rights and privileges as a voting shareholder.
+    ``(e) Redemption of Capital.--
+            ``(1) In general.--Except as otherwise provided in the 
+        capital structure plan of an enterprise resource bank, any 
+        voting shareholder may dispose of all ownership interests of 
+        such shareholder in the bank in accordance with this subsection 
+        after the end of the 6-month period beginning on the date the 
+        shareholder files a written notice with the bank of the 
+        shareholder's intention to dispose of all such ownership 
+        interests.
+            ``(2) Divestiture.--The board of directors of any 
+        enterprise resource bank may order, after a hearing, the 
+        divestiture by any shareholder of all ownership interests of 
+        such shareholder in the bank, if--
+                    ``(A) in the opinion of the board of directors, 
+                such shareholder has failed to comply with a provision 
+                of this Act or any regulation prescribed under this 
+                Act; or
+                    ``(B) the shareholder has been determined to be 
+                insolvent, or otherwise subject to the appointment of a 
+                conservator, receiver, or other legal custodian, by a 
+                state or Federal authority with regulatory and 
+                supervisory responsibility for such shareholder.
+            ``(3) Impairment of capital.--If the Finance Board or the 
+        board of directors of an enterprise resource bank determines 
+        that the paid-in capital of the bank is, or is likely to be, 
+        impaired as a result of losses in or depreciation of the assets 
+        of the bank, the enterprise resource bank shall withhold that 
+        portion of the amount due any shareholder with respect to any 
+        redemption or retirement of any class of stock which bears the 
+        same ratio to the total of such amount as the amount of the 
+        impaired capital bears to the total amount of capital allocable 
+        to such class of stock.
+            ``(4) Policies.--Subject to the requirements of this 
+        section, the board of directors of each enterprise resource 
+        bank shall promptly establish policies, consistent with this 
+        Act, governing the capital stock of such bank and other 
+        provisions of this section.''.
+    (b) Reduction of Period Required Before Fully Divested Stockholder 
+May Reacquire Shares of a Bank.--Subsection (h) of section 6 of the 
+Federal Home Loan Bank Act (12 U.S.C. 1426) (as amended by subsection 
+(a)) is amended--
+            (1) by redesignating such subsection as subsection (f);
+            (2) by striking ``10'' and inserting ``5''; and
+            (3) by inserting before the period at the end ``, except 
+        that any institution that withdrew from membership in any such 
+        bank before December 31, 1995, may acquire an ownership 
+        interest in a enterprise resource bank at any time after such 
+        date subject to the requirements of this Act.''.
+    (c) Eligibility of Non-QTL Savings Associations To Obtain New 
+Advances and Maintain Advances.--Section 10(m)(3)(B) of the Home 
+Owners' Loan Act (12 U.S.C. 1467a(m)(3)(B)) is amended--
+            (1) in clause (i), by striking subclause (III) and 
+        redesignating subclause (IV) as subclause (III); and
+            (2) in clause (ii), by striking subclause (II).
+    (d) Voluntary Ownership Interests of Federal Savings 
+Associations.--Section 5(f) of the Home Owners' Loan Act (12 U.S.C. 
+1464(f)) is amended to read as follows:
+    ``(f) Voluntary Ownership Interests in Enterprise Resource Bank.--
+Each Federal savings association may be eligible to acquire shares of 
+stock in an enterprise resource bank in the manner provided in the 
+Enterprise Resource Bank System Act.''.
+
+SEC. 7. PROMPT CORRECTIVE ACTION.
+
+    Section 24 of the Federal Home Loan Bank Act (12 U.S.C. 1444) is 
+amended to read as follows:
+
+``SEC. 24. PROMPT CORRECTIVE ACTION.
+
+    ``(a) Purposes.--The purposes of this section are to ensure that 
+the enterprise resource banks remain--
+            ``(1) adequately capitalized;
+            ``(2) able to raise funds in the capital markets; and
+            ``(3) able to meet the obligations of such banks under this 
+        Act.
+    ``(b) Capital Classifications.--The Finance Board shall classify 
+the capital adequacy of enterprise resource banks in accordance with 
+the following capital categories:
+            ``(1) Adequately capitalized.--An enterprise resource bank 
+        shall be classified as adequately capitalized if such bank 
+        meets the required minimum level for each relevant capital 
+        measure.
+            ``(2) Undercapitalized.--An enterprise resource bank shall 
+        be classified as undercapitalized if such bank fails to meet 
+        the minimum level for any capital measure required by this Act, 
+        or any additional capital requirement that may be established 
+        for such bank by the Finance Board.
+            ``(3) Critically undercapitalized.--An enterprise resource 
+        bank shall be classified as critically undercapitalized for 
+        purposes of this section if the bank fails to meet the 
+        requirements specified by the Finance Board under paragraph (4) 
+        which must be met in order not to be treated as critically 
+        undercapitalized.
+            ``(4) Capital categories.--The Finance Board shall, by 
+        regulation, specify for each relevant capital measure the 
+        levels at which an enterprise resource bank is adequately 
+        capitalized, undercapitalized, and critically undercapitalized.
+            ``(5) Quarterly evaluation of capital adequacy.--
+                    ``(A) In general.--The Finance Board shall--
+                            ``(i) evaluate the capital adequacy of each 
+                        enterprise resource bank at least once in each 
+                        calendar quarter, and
+                            ``(ii) classify the capital adequacy of the 
+                        bank in accordance with the categories 
+                        established pursuant to paragraph (1).
+                    ``(B) Judicial review.--For the purpose of 
+                obtaining judicial review of--
+                            ``(i) any classification of the capital 
+                        adequacy of an enterprise resource bank under 
+                        subparagraph (A); or
+                            ``(ii) any action taken by the Finance 
+                        Board pursuant to such classification,
+                the classification, or the action taken pursuant to a 
+                classification, shall be treated as a final order of 
+                the Finance Board.
+    ``(c) Provision Applicable to All Enterprise Resource Banks.--
+            ``(1) Capital distributions restricted.--An enterprise 
+        resource bank shall make no capital distribution if, after 
+        making the distribution, the bank would be undercapitalized.
+            ``(2) Exceptions.--Notwithstanding paragraph (1)--
+                    ``(A) an enterprise resource bank may redeem a 
+                voting shareholder's stock in accordance with section 
+                6(e)(3); and
+                    ``(B) the Finance Board may permit an enterprise 
+                resource bank to repurchase, redeem, retire, or 
+                otherwise acquire the shares of the bank if the 
+                repurchase, redemption, retirement, or other 
+                acquisition--
+                            ``(i) is made in connection with the 
+                        issuance of additional shares of the bank in at 
+                        least an equivalent amount; and
+                            ``(ii) will reduce the bank's financial 
+                        obligations or otherwise improve the bank's 
+                        financial condition.
+    ``(d) Supervisory Actions Applicable to Undercapitalized Enterprise 
+Resource Banks.--
+            ``(1) Mandatory actions.--
+                    ``(A) Capital and income restoration plans.--Any 
+                undercapitalized enterprise resource bank shall file an 
+                acceptable capital and income restoration plan with the 
+                Finance Board, in accordance with subsection (f).
+                    ``(B) Reclassification from undercapitalized to 
+                critically undercapitalized.--The Finance Board shall 
+                reclassify as critically undercapitalized any 
+                enterprise resource bank that is classified as 
+                undercapitalized if--
+                            ``(i) the bank does not submit an 
+                        acceptable capital and income restoration plan 
+                        within the time periods prescribed; or
+                            ``(ii) the Finance Board determines that 
+                        the bank has failed to make, in good faith, 
+                        reasonable efforts to comply with an accepted 
+                        capital and income restoration plan.
+                    ``(C) Prior approval for new activities.--The 
+                Finance Board shall require an undercapitalized 
+                enterprise resource bank to obtain prior approval from 
+                the Finance Board before engaging in any new 
+                activities.
+            ``(2) Discretionary actions.--The Finance Board may, with 
+        respect to an undercapitalized enterprise resource bank, take 
+        such other actions as the Finance Board determines are 
+        necessary or appropriate to carry out the purpose of this 
+        section including--
+                    ``(A) imposition of restrictions on growth in 
+                assets;
+                    ``(B) limitations on increases in bank obligations;
+                    ``(C) imposition of restrictions on activities that 
+                the Finance Board determines create excessive risk to 
+                the bank; and
+                    ``(D) requiring changes in or any restriction on 
+                the board of directors or management of the bank.
+    ``(e) Supervisory Actions Applicable to Critically Undercapitalized 
+Enterprise Resource Banks.--
+            ``(1) Merger, liquidation, reorganization, or other action 
+        required.--The Finance Board shall--
+                    ``(A) combine, by merger or otherwise, any 
+                critically undercapitalized enterprise resource bank 
+                with another enterprise resource bank;
+                    ``(B) liquidate or reorganize any such critically 
+                undercapitalized bank; or
+                    ``(C) take such other action in connection with 
+                such bank as the Finance Board determines would better 
+                achieve the purpose of this section.
+            ``(2) Periodic redetermination required.--Any determination 
+        by the Finance Board under paragraph (1) to take any action 
+        with respect to a critically undercapitalized enterprise 
+        resource bank other than combining, reorganizing, or 
+        liquidating the bank shall cease to be effective not later than 
+        the end of the 90-day period after the determination was made 
+        and the bank shall be combined, reorganized or liquidated 
+        unless the Finance Board makes a new determination.
+            ``(3) Activities restrictions.--The Finance Board shall 
+        restrict and closely monitor the activities of a critically 
+        undercapitalized enterprise resource bank, including taking any 
+        of the discretionary actions applicable to an undercapitalized 
+        bank.
+    ``(f) Capital and Income Restoration Plans.--
+            ``(1) In general.--The Finance Board shall prescribe 
+        regulations which require any undercapitalized enterprise 
+        resource bank to file within the prescribed periods and 
+        implement an acceptable capital and income restoration plan 
+        with the Finance Board.
+            ``(2) Requirements relating to plan.--
+                    ``(A) Contents of plan.--A capital and income 
+                restoration plan shall--
+                            ``(i) specify the steps that the bank will 
+                        take to become adequately capitalized and to 
+                        increase earnings;
+                            ``(ii) specify the levels of capital to be 
+                        attained during each year in which the plan 
+                        will be in effect;
+                            ``(iii) describe how the bank will comply 
+                        with the restrictions or requirements in effect 
+                        under this section; and
+                            ``(iv) specify the types and levels of 
+                        activities in which the bank will engage during 
+                        the term of the plan.
+                    ``(B) Deadlines for submission.--
+                            ``(i) Initial period.--The Finance Board 
+                        shall, by regulation, establish a deadline for 
+                        submission of a capital and income restoration 
+                        plan which may not be more than 45 days after 
+                        the bank is notified that a plan is required.
+                            ``(ii) Extension of deadline.--The 
+                        regulations shall provide that the Finance 
+                        Board may extend, in writing, the deadline to a 
+                        date certain if the Finance Board determines 
+                        such extension is appropriate.
+                    ``(C) Approval.--
+                            ``(i) Review period.--The Finance Board 
+                        shall review each capital and income 
+                        restoration plan submitted under this section 
+                        and, not later than 30 days after receipt of 
+                        the plan, approve or disapprove the plan.
+                            ``(ii) Extension of review period.--The 
+                        Finance Board may extend, in writing, the 
+                        period for approval or disapproval for any plan 
+                        for a single additional 30-day period if the 
+                        Finance Board determines such extension is 
+                        appropriate.
+                    ``(D) Notice of board action.--The Finance Board 
+                shall provide written notice to any bank which submits 
+                a plan under this subsection of the approval or 
+                disapproval of the plan and shall include the reasons 
+                for any disapproval of the plan.
+                    ``(E) Resubmission.--If the Finance Board 
+                disapproves the initial capital and income restoration 
+                plan submitted by the bank, the bank shall submit an 
+                amended plan acceptable to the Finance Board within 30 
+                days or such longer period that the Finance Board 
+                determines is in the public interest.
+    ``(g) Appointment of Conservator for Critically Undercapitalized 
+Enterprise Resource Bank.--
+            ``(1) Grounds.--The Finance Board may appoint a conservator 
+        for a critically undercapitalized enterprise resource bank upon 
+        a written determination that--
+                    ``(A) the bank is not likely to pay obligations of 
+                the bank in the normal course of business;
+                    ``(B) the bank has incurred or is reasonably likely 
+                to incur losses, or has pending applications for stock 
+                redemptions, that would deplete substantially all of 
+                the capital of the bank and it is unlikely that the 
+                bank will replenish such capital within a reasonable 
+                period;
+                    ``(C) the bank has concealed or is concealing 
+                books, papers, records, or assets of the bank that are 
+                material to the discharge of the Finance Board's 
+                responsibilities under this subtitle, or has refused or 
+                is refusing to submit such books, papers, records, or 
+                information regarding the affairs of the bank for 
+                inspection to the Finance Board upon the demand of the 
+                Finance Board;
+                    ``(D) the bank has willfully violated, or is 
+                willfully violating, a final cease-and-desist order; or
+                    ``(E) the bank, by an affirmative vote of a 
+                majority of the bank's board of directors or an 
+                affirmative vote of the shareholders of the bank, 
+                consents to such appointment.
+            ``(2) Qualifications.--The Finance Board may appoint--
+                    ``(A) itself as the conservator for any enterprise 
+                resource bank;
+                    ``(B) as conservator for any such bank, any other 
+                Federal agency or department or other person that the 
+                Finance Board determines has--
+                            ``(i) no claim against, or financial 
+                        interest in, the bank;
+                            ``(ii) no other basis for a conflict of 
+                        interest with respect to the bank; and
+                            ``(iii) the financial and management 
+                        expertise necessary to direct the operations 
+                        and affairs of the bank.
+            ``(3) Appointment ex parte and without notice.--If, in the 
+        opinion of the Finance Board, a ground for the appointment of a 
+        conservator for an enterprise resource bank exists, the Finance 
+        Board may appoint a conservator for the bank ex parte and 
+        without notice.
+            ``(4) Judicial review.--
+                    ``(A) Jurisdiction.--Except as provided in 
+                subparagraph (D), a bank for which a conservator is 
+                appointed may bring an action during the 30-day period 
+                beginning upon the appointment of the conservator in 
+                the United States District Court for the District of 
+                Columbia for an order requiring the Finance Board to 
+                terminate the appointment of the conservator.
+                    ``(B) Standard of review.--A decision of the 
+                Finance Board to appoint a conservator may be set aside 
+                only if the court finds that the decision was 
+                arbitrary, capricious, an abuse of discretion, or 
+                otherwise not in accordance with applicable laws.
+                    ``(C) Limitation on jurisdiction.--Except as 
+                otherwise provided in this subsection, no court may 
+                take any action regarding the removal of a conservator 
+                or otherwise restrain or affect the exercise of powers 
+                or functions of a conservator.
+                    ``(D) Consensual appointments.--Appointment of a 
+                conservator pursuant to consent of the bank shall not 
+                be subject to judicial review under this subsection.
+            ``(5) Replacement.--
+                    ``(A) In general.--The Finance Board may, without 
+                notice or hearing, replace a conservator for an 
+                enterprise resource bank with another conservator.
+                    ``(B) No effect on judicial review.--The 
+                replacement of a conservator for an enterprise resource 
+                bank shall not affect the right of the bank to obtain 
+                judicial review under paragraph (4) of the Finance 
+                Board's decision to make the initial appointment of a 
+                conservator.
+            ``(6) Examinations.--The Finance Board may examine and 
+        supervise any enterprise resource bank for which a conservator 
+        has been appointed during the period in which the bank 
+        continues to operate as a going concern.
+            ``(7) Termination.--
+                    ``(A) In general.--If, at any time, the Finance 
+                Board determines that termination of a conservatorship 
+                for an enterprise resource bank is in the public 
+                interest and may safely be accomplished, the Finance 
+                Board may terminate the conservatorship and permit the 
+                bank to resume the transaction of the business of the 
+                bank subject to such terms, conditions, and limitations 
+                as the Finance Board may prescribe.
+                    ``(B) Enforcement of terms, conditions, and 
+                limitations.--Any terms, conditions, and limitations 
+                imposed by the Finance Board in accordance with 
+                subparagraph (A) upon termination of a conservatorship 
+                for an enterprise resource bank shall be enforceable 
+                and renewable to the same extent as any cease-and-
+                desist order issued by the Finance Board.
+    ``(h) Powers of Conservator.--A conservator appointed for an 
+enterprise resource bank shall have all the powers of the shareholders, 
+the directors, and the officers of the bank and may operate the bank in 
+the bank's own name or conserve the assets of the bank in the manner 
+and to the extent authorized by the Finance Board.
+    ``(i) Exception.--Notwithstanding any other provision of this 
+section, the Finance Board may permit an enterprise resource bank to 
+redeem the stock of a shareholder of such bank, repurchase, retire, or 
+otherwise acquire shares of the bank if the repurchase, redemption, 
+retirement, or other acquisition--
+            ``(1) is made in connection with the issuance of additional 
+        shares of the bank in at least an equivalent amount; and
+            ``(2) will reduce the bank's financial obligations or 
+        otherwise improve the bank's financial condition.''.
+
+SEC. 8. MANAGEMENT OF BANKS.
+
+    Section 7 of the Federal Home Loan Bank Act (12 U.S.C. 1427) is 
+amended to read as follows:
+
+``SEC. 7. MANAGEMENT OF BANKS.
+
+    ``(a) Board of Directors.--
+            ``(1) Composition of board.--Except as otherwise provided 
+        in this section, the management of each enterprise resource 
+        bank shall be vested in a board of directors consisting of 14 
+        directors selected as follows:
+                    ``(A) 8 shall be elected by the members of the bank 
+                as provided in paragraph (6).
+                    ``(B) 6 shall be appointed by the Finance Board.
+            ``(2) Qualifications.--
+                    ``(A) In general.--Each director of an enterprise 
+                resource bank shall be a citizen of the United States 
+                and a bona fide resident of the district in which such 
+                bank is located.
+                    ``(B) Disqualification.--An individual who is an 
+                officer or director of a depository institution that 
+                fails to meet any applicable capital requirement shall 
+                not be qualified to be a director on the board of 
+                directors of an enterprise resource bank.
+            ``(3) Representational criteria.--
+                    ``(A) Representation of states.--Subject to 
+                subparagraph (B), the bylaws of each enterprise 
+                resource bank shall provide for the manner in which the 
+                representation of the shareholders of the bank from the 
+                various States within such bank's district will be 
+                distributed among the positions of the elected 
+                directors of such bank.
+                    ``(B) Transition provision.--Notwithstanding 
+                subparagraph (A), the composition of the boards of 
+                directors of the 12 enterprise resource banks 
+                immediately after the effective date of the Enterprise 
+                Resource Bank Act of 1996 shall be the same as the 
+                composition of such boards of directors on January 1, 
+                1996.
+                    ``(C) Discretionary increase in overall number of 
+                directors.--
+                            ``(i) Elected directors.--In order to 
+                        ensure director representation on the board of 
+                        directors of an enterprise resource bank 
+                        consistent with this paragraph, the board of 
+                        directors of the bank may increase the number 
+                        of elected directors on the board of directors.
+                            ``(ii) Appointed directors.--If the board 
+                        of directors of an enterprise resource bank 
+                        increases the number of elected directors 
+                        pursuant to clause (i), the number of appointed 
+                        directors on such board of directors shall be 
+                        increased to the amount which is 2 less than 
+                        the number of elected directors.
+                    ``(D) Increase to achieve minimum state 
+                representation.--If, at any time, the number of elected 
+                directors of an enterprise resource bank is less than 
+                the number of States in the district of such bank, the 
+                board of directors of the bank may increase the number 
+                of elected directors on such board of directors to a 
+                number at least equal to the number of States in such 
+                district.
+                    ``(E) Representational composition of board of 
+                directors.--In establishing bylaws for the election of 
+                directors, and in appointing directors, to the board of 
+                directors of an enterprise resource bank, the board of 
+                directors shall establish such procedures as may be 
+                appropriate to achieve a board of directors which 
+                reflects the geographical diversity of the district and 
+                the representation of both large and small 
+                institutional shareholders.
+            ``(4) Chairperson and vice chairperson.--
+                    ``(A) In general.--The board of directors of each 
+                enterprise resource bank shall elect--
+                            ``(i) 1 of the directors appointed under 
+                        paragraph (1)(B) to be the chairperson of the 
+                        board of directors; and
+                            ``(ii) 1 of the directors to be vice 
+                        chairperson of the board of directors.
+                    ``(B) Limitation.--The president of an enterprise 
+                resource bank may not be designated under subparagraph 
+                (A) as the chairperson or vice chairperson of the bank.
+            ``(5) Provisions applicable to appointed directors.--
+                    ``(A) Representational requirement.--At least 2 of 
+                the directors of each enterprise resource bank who are 
+                appointed by the Finance Board shall be appointed from 
+                among representatives of organizations with more than a 
+                2-year history of representing consumer or community 
+interests on banking services, credit needs, housing, or financial 
+consumer protections.
+                    ``(B) Conflict of interest provision.--No director 
+                on the board of directors of an enterprise resource 
+                bank who is appointed pursuant to this subsection may, 
+                during such director's term of office, serve as an 
+                officer of any enterprise resource bank or as a 
+                director or officer of any shareholder of a bank.
+            ``(6) Provisions applicable to elected directors.--
+                    ``(A) Designation of state to be represented.--Each 
+                position of elected director on the board of directors 
+                of any enterprise resource bank shall be designated by 
+                the board of directors as a position to be filled by a 
+                director representing the voting shareholders of the 
+                bank whose principal places of business are located in 
+                a particular State.
+                    ``(B) Shareholders located in u.s. territories.--In 
+                the case of any voting shareholder (of an enterprise 
+                resource bank) whose principal place of business is not 
+                located in any State, the enterprise resource bank 
+                shall designate the State in such bank's district in 
+                which such shareholder shall be deemed to be located 
+                for purposes of this subsection.
+                    ``(C) Qualification.--Only presidents, chief 
+                executive officers, and other senior executive officers 
+                (as defined by the Finance Board) of voting 
+                shareholders whose principal places of business are 
+                located in a State shall be qualified to serve as a 
+                director representing such State.
+                    ``(D) Nomination of directors.--Each voting 
+                shareholder (of an enterprise resource bank) whose 
+                principal place of business is located in any State may 
+                nominate any qualified individual for election as a 
+                director representing such State.
+                    ``(E) Plurality decision.--Each position of elected 
+                director of an enterprise resource bank shall be filled 
+                by the nominee, for such position, who receives a 
+                larger number of the votes cast in an election held for 
+                the purpose of filling such position than any other 
+                nominee.
+            ``(7) Terms.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (E), the term of each director who is 
+                elected or appointed to the board of directors of an 
+                enterprise resource bank after the date of the 
+                enactment of the Enterprise Resource Bank Act of 1996 
+                shall be 4 years.
+                    ``(B) Term limits.--
+                            ``(i) Appointed directors.--No individual 
+                        may serve as an appointed director on the board 
+                        of directors of an enterprise resource bank for 
+                        more than 2 full consecutive 4-year terms.
+                            ``(ii) Elected directors.--If, during any 
+                        8-year period, the board of directors of any 
+                        enterprise resource bank has included, as an 
+                        elected director, any officer of a specific 
+                        voting shareholder of the bank, no officer of 
+                        such shareholder shall be eligible to serve as 
+                        an elected member of such board of directors 
+                        during the subsequent 4-year period.
+                    ``(C) Interim appointments.--Any director appointed 
+                or elected to fill a vacancy occurring before the 
+                expiration of the term for which such director's 
+                predecessor was appointed or elected shall be appointed 
+                or elected only for the remainder of such term.
+                    ``(D) Continuation of service.--Each director of an 
+                enterprise resource bank may continue to serve after 
+                the expiration of the term to which such director was 
+                appointed or elected until a successor has been 
+                qualified.
+                    ``(E) Staggered terms.--
+                            ``(i) In general.--The bylaws of each 
+                        enterprise resource bank shall provide for 
+                        staggering the terms of the elected and 
+                        appointed directors so that the positions of 
+                        approximately one-quarter of the appointed 
+                        directors and approximately one-quarter of the 
+                        elected directors shall become vacant each 
+                        year.
+                            ``(ii) Designation of shorter terms to 
+                        achieve staggering.--Whenever necessary to 
+                        achieve staggered terms for the directors of an 
+                        enterprise resource bank, the board of 
+                        directors of such bank, with respect to elected 
+                        directors, and the Finance Board, with respect 
+                        to appointed directors, may, by resolution (and 
+                        in accordance with the bylaws of the bank) and 
+                        before the election or appointment of a 
+                        director, designate a shorter term for such 
+                        position for the next succeeding term.
+            ``(8) Vacancies.--
+                    ``(A) Appointed director.--Any vacancy occurring in 
+                the position of appointed director of an enterprise 
+                resource bank shall be filled in the manner in which 
+                the original appointment was made.
+                    ``(B) Elected director.--Any vacancy occurring in 
+                the position of elected director of an enterprise 
+                resource bank shall be filled by an affirmative vote of 
+                a majority of the remaining directors of such bank, 
+                without regard to whether such remaining directors 
+                constitute a quorum of the board of directors.
+                    ``(C) Vacancy as a result of disqualification of 
+                director.--
+                            ``(i) In general.--If any director of an 
+                        enterprise resource bank ceases to meet any 
+                        qualification for such position--
+                                    ``(I) the position shall 
+                                immediately become vacant by operation 
+                                of law; and
+                                    ``(II) service by such director in 
+                                such position shall cease.
+                            ``(ii) Continuation.--Notwithstanding 
+                        clause (i)(II), an appointed director of an 
+                        enterprise resource bank whose position became 
+                        vacant pursuant to clause (i)(I) may continue 
+                        to serve in such position until a successor has 
+                        been qualified.
+            ``(9) Ineligibility of certain officers for position of 
+        director.--No officer or employee of, or any attorney or agent 
+        for, any enterprise resource bank who receives compensation for 
+        such service, other than the president of the bank, shall be 
+        eligible to serve on the board of directors of such bank or any 
+        other enterprise resource bank.
+            ``(10) Nominations and elections.--The bylaws of each 
+        enterprise resource bank shall provide procedures for the 
+        nomination and election of directors on the board of directors 
+        of the bank.
+            ``(11) Definitions.--For purposes of this subsection, the 
+        following definitions shall apply:
+                    ``(A) Voting shareholder.--The term `voting 
+                shareholder' means, with respect to any year, any 
+                institution which holds voting shares of an enterprise 
+                resource bank and held voting shares of such bank at 
+                the end of the immediately preceding calendar year.
+                    ``(B) State.--The term `State' means any State, the 
+                District of Columbia, and the Commonwealth of Puerto 
+                Rico.
+            ``(12) Applicability.--This subsection shall apply to 
+        elections and appointments of directors to terms that begin 
+        after the date of enactment of the Enterprise Resource Bank Act 
+        of 1996.
+    ``(b) Powers of Boards of Directors.--The board of directors of 
+each enterprise resource bank shall have all power necessary to 
+exercise the responsibility of such board with respect to such bank.
+    ``(c) Duties of Boards of Directors.--The board of directors of 
+each enterprise resource bank shall--
+            ``(1) administer the affairs of the bank fairly and 
+        impartially and without discrimination in favor of or against 
+        any voting shareholder or borrower; and
+            ``(2) subject to the provisions of this Act, extend to each 
+        institution authorized to secure advances such advances as may 
+        be made safely and soundly with due regard for--
+                    ``(A) the claims and demands of other institutions; 
+                and
+                    ``(B) the maintenance of adequate credit standing 
+                for the bank and the bank's obligations.
+    ``(d) Shareholder Voting Procedures.--
+            ``(1) Before approval of capital structure plan.--Before 
+        the capital structure plan of an enterprise resource bank is 
+        approved in accordance with section 6, each voting shareholder 
+        of the bank may, with respect to any matter on which voting 
+        shareholders of the bank are entitled to vote, cast a number of 
+        votes equal to the lesser of--
+                    ``(A) the minimum number of voting shares of the 
+                capital stock of such bank in which such shareholder is 
+                required to be invested as of the end of the calendar 
+                year immediately preceding the vote, as determined by 
+                the board of directors of the enterprise resource bank; 
+                and
+                    ``(B) the average of the minimum number of voting 
+                shares of such stock in which all voting shareholders 
+                whose principal places of business are located in the 
+                State in which is located the principal place of 
+                business of such shareholder are required to be 
+                invested as of the end of the calendar year immediately 
+                preceding the election, as so determined.
+            ``(2) After approval of capital structure plan.--After the 
+        capital structure plan of an enterprise resource bank is 
+        approved in accordance with section 6, votes of shareholders 
+        shall be conducted in accordance with the provisions of the 
+        plan.''.
+
+SEC. 9. SUSTAINABLE ECONOMIC DEVELOPMENT PROGRAM.
+
+    (a) Findings and Purpose.--
+            (1) Findings.--The Congress finds as follows:
+                    (A) In exchange for Federal deposit insurance, the 
+                Federal Government has placed regulations on financial 
+                institutions to ensure safety and soundness and to 
+                promote lending to underserved communities.
+                    (B) These regulations place a significant cost on 
+                financial institutions.
+                    (C) While there is a compelling need for solutions 
+                to the country's most difficult social problems, 
+                including poverty and high unemployment, in 
+                economically distressed communities, especially inner-
+                cities and rural areas, the most effective model for 
+                solutions to such problems is through the development 
+                of a sustainable economic base for these communities.
+                    (D) To develop a sustainable economic base the 
+                Government should encourage mainstream private 
+                institutions to improve the environment for growth and 
+                new business opportunities in distressed neighborhoods 
+                by providing incentives for such actions.
+                    (E) The Congress recognizes the difficulties facing 
+                community banks in attempting to increase the 
+                availability of credit in economically distressed 
+                neighborhoods, including--
+                            (i) the lack of a mutual understanding 
+                        between the lenders and the potential 
+                        borrowers;
+                            (ii) the perception that loans to borrowers 
+                        in such neighborhoods are or would be high-
+                        risk;
+                            (iii) the frequent need for credit 
+                        enhancement in connection with loans to 
+                        borrowers in such neighborhoods; and
+                            (iv) the higher costs involved in lending 
+                        in such neighborhoods due to the additional 
+                        time and effort which is frequently required in 
+conducting adequate credit analysis.
+                    (F) Lending in economically distressed 
+                neighborhoods is most effective if community banks make 
+                rational credit decisions with regard to--
+                            (i) the profitability of lending in such 
+                        neighborhoods; and
+                            (ii) the potential profits from the 
+                        establishment of a market presence by community 
+                        banks in such neighborhoods.
+                    (G) While it may be desirable for the Government to 
+                encourage depository institutions to provide banking 
+                services and extend credit in economically distressed 
+                communities, such encouragement should come in the form 
+                of incentives.
+            (2) Purpose.--It is the purpose of this section to enhance 
+        the efficiency of providing debt and equity capital and other 
+        financial services to underserved communities by encouraging, 
+        and creating incentives for, community banks to develop a 
+        sustainable economic base in such communities.
+    (b) Mission of Sustainable Economic Development.--The mission of 
+the community support requirements, the community investment program, 
+and the affordable housing program is to serve depository institutions 
+as an intermediary--
+            (1) to aid in the development of a sustainable economic 
+        base in the banks' communities;
+            (2) to promote access to credit throughout the Nation 
+        (including rural areas and underserved neighborhoods by 
+        increasing the liquidity of economic development financing and 
+        improving the distribution of investment capital available for 
+        economic development financing; and
+            (3) to assist with technical expertise for compliance with 
+        the Community Reinvestment Act of 1977.
+    (c) Availability of Portion of AHP Funds for CIP.--Section 10(j) of 
+the Federal Home Loan Bank Act (12 U.S.C. 1430(j)) is amended by adding 
+at the end the following new paragraph:
+            ``(13) Availability of contributions for community 
+        investment program.--The board of directors of each enterprise 
+        resource bank may, in the discretion of the board of directors, 
+        use not more than 25 percent of such bank's contribution 
+        pursuant to paragraph (5) to the affordable housing program of 
+        such bank for any year to provide funding under subsection (i) 
+        for new community-oriented mortgage lending, and for interest 
+        rate subsidies for advances, under the community investment 
+        program of such bank.''.
+    (d) Cash Advances Through Community Investment Program.--
+            (1) Annual goals.--
+                    (A) In general.--The Federal Housing Finance Board 
+                (hereafter in this subsection referred to as the 
+                ``Finance Board'') shall establish, by regulation, an 
+                annual goal for the volume of cash advances made by 
+                each of the enterprise resource banks through the 
+                Community Investment Program.
+                    (B) Subgoals for certain goals.--The Finance Board 
+                shall establish separate subgoals within the goal under 
+                this subsection for cash advances used for eligible 
+                community economic development activities, for low- and 
+                very-low income housing, and such other subgoals as the 
+                Finance Board may deem appropriate.
+                    (C) Consultation.--Such annual goals and subgoals 
+                shall be established by the Finance Board in 
+                consultation with each enterprise resource bank and 
+                each enterprise resource bank affordable housing 
+                advisory council.
+            (2) Factors to be applied.--In establishing the goals and 
+        subgoals under this subsection, the Finance Board shall 
+        consider--
+                    (A) regional economic conditions within each 
+                District;
+                    (B) low- and moderate-income housing and community 
+                economic development needs within each bank district;
+                    (C) the performance and effort of the banks toward 
+                achieving the goals and subgoals in previous years;
+                    (D) the total level of regular (nonspecialized cash 
+                advances) outstanding;
+                    (E) the size and scope of the conventional mortgage 
+                market serving low- and moderate-income families 
+                relative to the size of the overall conventional 
+                mortgage market;
+                    (F) the size and scope of the market serving 
+                eligible community economic development needs relative 
+                to the size of the overall commercial loan market;
+                    (G) the ability of the banks to encourage voting 
+                shareholders of the banks to make credit available for 
+                activities eligible under the community investment 
+                program;
+                    (H) the need to maintain the sound financial 
+                condition of the enterprise resource bank system; and
+                    (I) such other factors the Finance Board deems 
+                appropriate.
+            (3) Monitoring.--
+                    (A) General.--The Finance Board shall monitor the 
+                performance of each enterprise resource bank in 
+                carrying out the requirements of this subsection and 
+                enforce compliance with the goals and subgoals 
+                established under this subsection.
+                    (B) Guidelines.--The Finance Board shall establish 
+                guidelines to measure the extent of compliance with the 
+                goals and subgoals, which may assign full credit, 
+                partial credit, or no credit toward achievement of the 
+                goals and subgoals to different categories of housing 
+                and community economic activities, based on such 
+                criteria as the Finance Board deems appropriate.
+                    (C) Notice and determination of failure to meet 
+                goals.--
+                            (i) In general.--If the Finance Board 
+                        determines that an enterprise resource bank has 
+                        failed to meet any goal or subgoal established 
+                        under this subsection, the Finance Board shall 
+                        provide written notice to the bank of such 
+                        determination, the reasons for such 
+                        determination, and the information on which the 
+                        Finance Board based the determination.
+                            (ii) Response period.--During the 30-day 
+                        period beginning on the date that the 
+                        enterprise resource bank is provided notice 
+                        under clause (i), the bank may submit to the 
+                        Finance Board any written information that the 
+                        bank considers appropriate for consideration by 
+                        the Finance Board in determining whether such 
+                        failure has occurred or whether achievement of 
+                        such goal was or is feasible.
+                            (iii) Goal achievement plan.--If the 
+                        Finance Board finds pursuant to clause (i) that 
+                        an enterprise resource bank has failed or there 
+                        is a substantial probability that an enterprise 
+                        resource bank will fail to meet the goal or 
+                        subgoals established under this subsection, and 
+                        the achievement of that goal or subgoal was or 
+                        is feasible, the Finance Board shall require 
+                        the bank to submit a goal achievement plan for 
+                        approval describing the specific actions the 
+                        bank will undertake to achieve the goal or 
+                        subgoal for the next calendar year.
+    (e) Community Support Requirements.--Subsection (g) of section 10 
+of the Federal Home Loan Bank Act (12 U.S.C. 1430(g)) is amended by 
+adding at the end the following new paragraph:
+            ``(3) Safe harbor for shareholders receiving cra ratings of 
+        satisfactory or better.--Notwithstanding paragraphs (1) and 
+        (2), any depository institution which is a shareholder in an 
+        enterprise resource bank and receives a rating of satisfactory 
+        or outstanding pursuant to section 807 of the Community 
+        Reinvestment Act of 1977 in such shareholder's most recent 
+        examination, if any, shall be treated as having satisfied the 
+        requirements of such paragraphs.''.
+    (f) Prohibition on Delegation of Certain Funding Determinations to 
+Management of Bank.--The board of directors of an enterprise resource 
+may not delegate, or provide for the delegation of, any authority of 
+the board of directors to approve or disapprove funding by such bank 
+under the affordable housing program established pursuant to section 
+10(j) of the Federal Home Loan Bank Act to any officer or employee of 
+the bank.
+
+SEC. 10. ENFORCEMENT AUTHORITY TO PROMOTE SAFETY AND SOUNDNESS OF 
+              ENTERPRISE RESOURCE BANKS.
+
+    Section 3 of the Federal Home Loan Bank Act (as amended by section 
+4 of this Act) is amended--
+            (1) by redesignating subsections (f) and (g) as subsections 
+        (g) and (h), respectively; and
+            (2) by inserting after subsection (e) the following new 
+        subsection:
+    ``(f) Enforcement Powers.--The Finance Board shall have the same 
+powers, rights, and duties to enforce this Act with regard to the 
+enterprise resource banks as the appropriate Federal banking agencies 
+(as defined in section 3(q) of the Federal Deposit Insurance Act) have 
+under section 8 of the Federal Deposit Insurance Act with respect to 
+insured depository institutions (as defined in section 3(c) of such 
+Act).''.
+
+SEC. 11. RESOLUTION FUNDING CORPORATION OBLIGATION.
+
+    Effective on January 1, 1998, section 21B(f)(2)(C)(ii) of the 
+Federal Home Loan Bank Act (12 U.S.C. 1441b(f)(2)(C)(ii)) is amended to 
+read as follows:
+                            ``(C) Payments by enterprise resource 
+                        banks.--To the extent the amounts available 
+                        pursuant to subparagraphs (A) and (B) are 
+                        insufficient to cover the amount of interest 
+                        payments, each enterprise resource bank shall 
+                        pay to the Funding Corporation each calendar 
+                        year an amount equal to 23.7 percent of the 
+                        bank's net earnings for the year for which such 
+                        amount is required to be paid.''.
+
+SEC. 12. POWERS AND DUTIES OF BANKS; TECHNICAL AND CONFORMING 
+              AMENDMENTS.
+
+    (a) Section 9.--Section 9 of the Federal Home Loan Bank Act (12 
+U.S.C. 1429) is amended--
+            (1) in the 2d sentence, by striking ``with the approval of 
+        the Board''; and
+            (2) in the 3d sentence, by striking ``, subject to the 
+        approval of the Board,''.
+    (b) Section 10.--
+            (1) Subsection (a) of section 10 of the Federal Home Loan 
+        Bank Act (12 U.S.C. 1430(a)) is amended--
+                    (A) in that portion of the subsection which 
+                precedes paragraph (1)--
+                            (i) by inserting ``and subject to 
+                        regulations prescribed by the Finance Board'' 
+                        after ``in the judgment of the Bank''; and
+                            (ii) by striking the 2d sentence;
+                    (B) in paragraph (1), by inserting ``mortgages on 
+                improved residential property which are insured or 
+                guaranteed by the United States or any agency or 
+                department of the United States,'' after ``90 days 
+                delinquent),'';
+                    (C) in paragraph (3), by striking ``Deposits'' and 
+                inserting ``Cash or deposits'';
+                    (D) in paragraph (4), by striking ``30 percent'' 
+                and inserting ``50 percent''; and
+                    (E) by striking paragraph (5) and inserting the 
+                following new paragraphs:
+            ``(5) Assets consisting of small business loans the 
+        principal amounts of which do not exceed the maximum amount 
+        permitted for guaranteed loans under section 7(a)(3)(A) of the 
+        Small Business Act.
+            ``(6) Assets consisting of loans to municipalities and 
+        other units of general local government for maintenance and 
+        improvement of the infrastructure (as defined by the Finance 
+        Board) the principal amounts of which are less than $2,500,000.
+            ``(7) Municipal securities rated as investment grade by 1 
+        or more nationwide statistical rating organizations.''.
+            (2) Section 10(b) of the Federal Home Loan Bank Act (12 
+        U.S.C. 1430(b)) is amended--
+                    (A) by striking ``(b) For the purposes of this 
+                section'' and inserting ``(b) Protection of interest in 
+                collateral.--
+            ``(1) Investigations.--For the purposes of this section'';
+                    (B) by striking ``Board'' where such term appears 
+                in the last sentence and inserting ``bank''; and
+                    (C) by adding at the end the following new 
+                paragraphs:
+            ``(2) Adequacy of controls.--In order to minimize the 
+        various risks borne by an enterprise resource bank with regard 
+        to advances, each enterprise resource bank shall ensure that--
+                    ``(A) adequate controls exist to manage risk;
+                    ``(B) ensure that the collateral has a readily 
+                ascertainable market value; and
+                    ``(C) a security interest in such collateral can be 
+                perfected.
+            ``(3) Other protective measures.--
+                    ``(A) Additional collateral.--An enterprise 
+                resource bank may take such steps as the bank 
+                determines to be necessary to protect the security 
+                position of the bank with respect to outstanding 
+                advances, including requiring the deposit of additional 
+                collateral security whether or not such collateral 
+                would be eligible under subsection (a) to be eligible 
+                to be used as collateral for an advance at the time of 
+                origination.
+                    ``(B) Reduction in outstanding advance.--If a 
+                borrower from an enterprise resource bank has 
+                insufficient eligible collateral to support an 
+                outstanding advance to such borrower, the borrower 
+                shall promptly and prudently reduce the level of 
+                outstanding advances in accordance with a schedule 
+                determined by such bank.''.
+            (3) Section 10(c) of the Federal Home Loan Bank Act (12 
+        U.S.C. 1430(c)) is amended--
+                    (A) in the 1st sentence, by striking ``Board'' and 
+                inserting ``bank''; and
+                    (B) by striking the 2d sentence.
+            (4) Section 10(d) of the Federal Home Loan Bank Act (12 
+        U.S.C. 1430(d)) is amended--
+                    (A) in the first sentence, by striking ``and the 
+                approval of the Board''; and
+                    (B) in the last sentence, by striking ``Subject to 
+                the approval of the Board, any'' and inserting ``Any''.
+            (5) Section 10 of the Federal Home Loan Bank Act (12 U.S.C. 
+        1430) is amended by striking the first of the 2 subsections 
+        designated as subsection (e) (relating to qualified thrift 
+        lender status).
+            (6) Section 10(j)(1) of the Federal Home Loan Bank Act (12 
+        U.S.C. 1430(j)(1)) is amended--
+                    (A) by striking ``In general.--Pursuant to'' and 
+                inserting ``Establishment.--
+                    ``(A) In general.--Pursuant to'';
+                    (B) by striking ``to subsidize the interest rate on 
+                advances'' and inserting ``to provide subsidies, 
+                including subsidized interest rates on advances,''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(B) Bank approval authority.--The board of 
+                directors of each enterprise resource bank may--
+                            ``(i) approve or disapprove a request from 
+                        a shareholder of the bank for a subsidy under 
+                        the affordable housing program of the bank; and
+                            ``(ii) not delegate such approval or 
+                        disapproval authority.''.
+            (7) Section 10(j) of the Federal Home Loan Bank Act is 
+        amended by striking the terms ``advances'' and ``subsidized 
+        advances'' each place such terms appear in paragraphs (2), (3), 
+        (4), (5), (9), (10), (11), and (12) and inserting ``subsidies, 
+        including subsidized advances''.
+            (8) The 1st sentence of paragraph (11) of section 10(j) of 
+        the Federal Home Loan Bank Act is amended--
+                    (A) by striking ``drawn from community and 
+                nonprofit organizations'' and inserting ``representing 
+                consumer or community interests or nonprofit 
+                organizations''; and
+                    (B) by striking the period at the end and inserting 
+                ``, except that not more than 30 percent of the members 
+                of the advisory council may consist of representatives 
+                of State and local housing agencies''.
+            (9) Section 10 of the Federal Home Loan Bank Act (12 U.S.C. 
+        1430) is amended by adding at the end the following new 
+        subsection:
+    ``(k) Limitations on Advances to Undercapitalized Institutions.--
+            ``(1) Limitation on extended periods.--Except as provided 
+        in paragraph (2), no new advances to any undercapitalized 
+        depository institution by any enterprise resource bank under 
+        this section may be outstanding for more than 60 days in any 
+        120-day period.
+            ``(2) Viability exception.--
+                    ``(A) In general.--If the head of the appropriate 
+                Federal banking agency certifies in advance in writing 
+                to the enterprise resource bank that any depository 
+                institution is viable, the limitation contained in 
+                paragraph (1) shall not apply during the 60-day period 
+                beginning on the date such certification is received.
+                    ``(B) Extensions of period.--The 60-day period may 
+                be extended for additional 60-day periods upon receipt 
+                by the enterprise resource bank of additional written 
+                certifications under subparagraph (A) with respect to 
+                each such additional period.
+                    ``(C) Authority to issue a certificate of viability 
+                may not be delegated.--The authority of the head of any 
+                agency to issue a written certification of viability 
+                under this paragraph may not be delegated to any other 
+                person.
+            ``(3) Prohibition on advances to critically 
+        undercapitalized depository institutions.--Notwithstanding any 
+        other provision of this Act, no new advances may be made to a 
+        critically undercapitalized depository institution.
+            ``(4) No obligation to make advances.--An enterprise 
+        resource bank shall have no obligation to make, increase, 
+        renew, or extend any advance or discount under this Act to any 
+        shareholder.
+            ``(5) Definitions.--For purposes of this subsection, the 
+        following definitions shall apply:
+                    ``(A) Appropriate federal banking agency.--The term 
+                `appropriate Federal banking agency'--
+                            ``(i) has the same meaning as in section 3 
+                        of the Federal Deposit Insurance Act; and
+                            ``(ii) includes the National Credit Union 
+                        Administration.
+                    ``(B) Critically undercapitalized.--The term 
+                `critically undercapitalized' has the meaning given to 
+                such term in section 38 of the Federal Deposit 
+                Insurance Act.
+                    ``(C) New advance.--The term `new advance' includes 
+                a renewal or extension of, or an increase in, an 
+                outstanding advance.
+                    ``(D) Undercapitalized depository institution.--The 
+                term `undercapitalized depository institution' means 
+                any depository institution which--
+                            ``(i) is undercapitalized, as defined in 
+                        section 38 of the Federal Deposit Insurance Act 
+                        (or as defined by the National Credit Union 
+                        Administration Board, in the case of an insured 
+                        credit union); or
+                            ``(ii) has a composite CAMEL rating of 5 
+                        under the Uniform Financial Institutions Rating 
+                        System (or an equivalent rating by any such 
+                        agency under a comparable rating system) as of 
+                        the most recent examination of such 
+                        institution.
+                    ``(E) Viable.--The term `viable' means, with 
+                respect to a depository institution, a depository 
+                institution which the appropriate Federal banking 
+                agency determines, giving due regard to the economic 
+                conditions and circumstances in the market in which the 
+                institution operates--
+                            ``(i) is not critically undercapitalized;
+                            ``(ii) is not expected to become critically 
+                        undercapitalized; and
+                            ``(iii) is not expected to be placed in 
+                        conservatorship or receivership.''.
+    (c) Section 10b.--Subsection (a) of section 10b of the Federal Home 
+Loan Bank Act (12 U.S.C. 1430b) is amended to read as follows:
+    ``(a) In General.--
+            ``(1) Authority.--Each enterprise resource bank may make 
+        advances to a permissible nonshareholder mortgagee.
+            ``(2) Permissible nonshareholder mortgagee.--For purposes 
+        of paragraph (1), the term `permissible nonshareholder 
+        mortgagee' means--
+                    ``(A) any State or local housing finance agency or 
+                Indian housing authority (including any subsidiary of 
+                such agency or authority) approved under title II of 
+                the National Housing Act--
+                            ``(i) which is a chartered institution 
+                        having succession and subject to the inspection 
+                        and supervision of a governmental agency; and
+                            ``(ii) whose principal activity in the 
+                        mortgage field must consist of lending the 
+                        institution's own funds; or
+                    ``(B) any community development financial 
+                institution--
+                            ``(i) which is not an insured depository 
+                        institution or a subsidiary of an insured 
+                        depository institution;
+                            ``(ii) which, at the time the advance is 
+                        made, has been certified within the last year 
+                        as a community development financial 
+                        institution under the Community Development 
+                        Banking and Financial Institutions Act of 1994;
+                            ``(iii) which is a chartered institution 
+                        having succession; and
+                            ``(iv) whose principal activity in the 
+                        mortgage field must consist of lending the 
+                        institution's own funds.
+            ``(3) Security.--Advances under paragraph (1) shall be 
+        collateralized in accordance with the requirements of section 
+        10.
+            ``(4) Terms and conditions.--Advances made under the terms 
+        of this section shall be at such rates of interest and upon 
+        such terms and conditions as shall be determined by the 
+        enterprise resource bank.
+            ``(5) Definitions of community development financial 
+        institution.--The term `community development financial 
+        institution' has the same meaning as in section 103 of the 
+        Community Development Banking and Financial Institutions Act of 
+        1994.''.
+    (d) Section 11.--
+            (1) Subsection (a) of section 11 of the Federal Home Loan 
+        Bank Act (12 U.S.C. 1431(a)) is amended--
+                    (A) by striking ``(a) Each Federal Home Loan Bank'' 
+                and inserting ``(a) Borrowing Authority.--
+            ``(1) In general.--Each enterprise resource bank'';
+                    (B) by striking ``, subject to rules and 
+                regulations prescribed by the Board'';
+                    (C) by striking ``Board'' and inserting ``board of 
+                directors of the bank''; and
+                    (D) by adding at the end the following new 
+                paragraph:
+            ``(2) Borrowing through the office of finance only.--
+        Notwithstanding paragraph (1), all notes, bonds, and debentures 
+        issued by any enterprise resource bank shall be issued through 
+        the office of finance as agent for the banks.''.
+            (2) Subsection (b) of section 11 of the Federal Home Loan 
+        Bank Act (12 U.S.C. 1431(b)) is amended to read as follows:
+    ``(b) Issuance of Enterprise Resource Bank Bonds.--
+            ``(1) In general.--The office of finance may issue 
+        consolidated enterprise resource bank bonds and other 
+        consolidated obligations on behalf of the banks.
+            ``(2) Joint and several obligations.--Consolidated 
+        obligations issued by the office of finance under paragraph (1) 
+        shall be the joint and several obligations of all the 
+        enterprise resource banks.''.
+            (3) Subsection (c) of section 11 of the Federal Home Loan 
+        Bank Act (12 U.S.C. 1431(c)) is amended to read as follows:
+    ``(c) Separately Capitalized Subsidiaries.--
+            ``(1) Establishment authorized.--
+                    ``(A) In general.--Any enterprise resource bank 
+                may, subject to Finance Board approval, establish a 
+                subsidiary for the purpose of providing mission-related 
+                products and services as described in paragraph (2).
+                    ``(B) Separate capitalization from surplus 
+                capital.--In determining compliance by an enterprise 
+                resource bank with the capital standards established 
+                under section 6, all of the bank's investments in and 
+                extensions of credit to a subsidiary established 
+                pursuant to this paragraph shall be deducted from the 
+                capital of the bank.
+            ``(2) Products and services.--The board of directors of an 
+        enterprise resource bank may request authority to establish a 
+        subsidiary pursuant to paragraph (1) to provide products and 
+        services to shareholders which--
+                    ``(A) assist shareholders in providing credit for 
+                housing and other mission-related purposes;
+                    ``(B) facilitate the mission of the enterprise 
+                resource banks; and
+                    ``(C) do not duplicate credit products and services 
+                otherwise readily available in the district of the 
+                enterprise resource bank.
+            ``(3) Finance board approval.--In determining whether to 
+        approve the establishment, by an enterprise resource bank, of a 
+        subsidiary under paragraph (1), the Finance Board shall 
+        consider the impact of the subsidiary on the safe and sound 
+        operation of such bank.''.
+            (4) Section 11(d) of the Federal Home Loan Bank Act (12 
+        U.S.C. 1431(d)) is amended to read as follows:
+    ``(d) Additional or Substituted Collateral.--The Finance Board, for 
+safety and soundness reasons, may require any enterprise resource bank 
+to deposit additional collateral or to make substitutions of 
+collateral.''.
+            (5) Section 11(e) of the Federal Home Loan Bank Act (12 
+        U.S.C. 1431(e)) is amended to read as follows:
+    ``(e) Acceptance of Deposits; Regulations.--
+            ``(1) Acceptance of deposits.--Subject to regulations 
+        prescribed by the Finance Board, each enterprise resource bank 
+        may accept deposits made by shareholders of such bank or by any 
+        other enterprise resource bank or other instrumentality of the 
+        United States, upon such terms and conditions as the bank may 
+        determine.
+            ``(2) Collection and settlement of checks.--
+                    ``(A) In general.--Subject to regulations of the 
+                Finance Board, an enterprise resource bank may be a 
+                drawee of, and engage in, or be agents or 
+                intermediaries for, or otherwise participate or assist 
+                in, the collection and settlement of (including 
+                presentment, clearing, and payment of, and remitting 
+                for), checks, drafts, or any other negotiable or 
+                nonnegotiable items or instruments of payment drawn on 
+                or issued by shareholders of any enterprise resource 
+                bank or by institutions which are eligible to make 
+                application to become shareholders pursuant to section 
+                6, and to have such incidental powers as the Finance 
+                Board shall find necessary for the exercise of any such 
+                authorization.
+                    ``(B) Charges.--An enterprise resource bank shall 
+                make charges, to be determined by the bank consistent 
+                with the principles set forth in section 11A(c) of the 
+                Federal Reserve Act, or utilize the services of, or act 
+                as agent for, or be a member of, a Federal reserve 
+                bank, clearinghouse, or any other public or private 
+                financial institution or other agency, in the exercise 
+                of any powers or functions pursuant to this paragraph.
+                    ``(C) Regulations.--
+                            ``(i) In general.--The Finance Board may, 
+                        with respect to participation in the collection 
+                        and settlement of any items by enterprise 
+                        resource banks, and with respect to the 
+                        collection and settlement (including payment by 
+                        the payor institution) of items payable by 
+                        shareholders of such banks, to prescribe 
+                        regulations regarding the rights, powers, 
+                        responsibilities, duties, and liabilities, 
+                        including standards relating to such rights, 
+                        powers, responsibilities, duties, and 
+                        liabilities, of such enterprise resource banks, 
+                        shareholders, and other parties to any such 
+                        item or the collection and settlement of any 
+                        such item.
+                            ``(ii) Application of banking usage and 
+                        practice.--In prescribing such regulations, the 
+                        Finance Board may adopt or apply, in whole or 
+                        in part, general banking usage and practices, 
+                        and, in instances or respects in which they 
+                        would otherwise not be applicable, regulations 
+                        of the Board of Governors of the Federal 
+                        Reserve System and operating letters, the 
+                        Uniform Commercial Code, and clearinghouse 
+                        rules.
+            ``(3) Prohibition on other general banking activities.--An 
+        enterprise resource bank may not engage in any banking or other 
+        commercial activities other than the activities specifically 
+        authorized under this Act and activities incidental to such 
+        authorized activities.''.
+            (6) Subsection (f) of section 11 of the Federal Home Loan 
+        Bank Act is amended to read as follows:
+    ``(f) Rediscount of Notes Held by Other Banks; Purchase of Bonds of 
+Other Banks.--The enterprise resource banks may--
+            ``(1) rediscount the discounted notes of shareholders of an 
+        enterprise resource bank which are held by other enterprise 
+        resource banks;
+            ``(2) make loans to, or make deposits with, other 
+        enterprise resource banks; or
+            ``(3) purchase any bonds or debentures issued under this 
+        section.''.
+            (7) Subsection (h) of section 11 of the Federal Home Loan 
+        Bank Act is amended by striking ``section 301(d) of the Small 
+        Business Investment Act of 1958'' and inserting ``title III of 
+        the Small Business Investment Act of 1958''.
+            (8) Subsection (j) of section 11 of the Federal Home Loan 
+        Bank Act is amended to read as follows:
+    ``(j) Audits.--
+            ``(1) Audits by inspector general and gao.--The financial 
+        transactions of each enterprise resource bank and the office of 
+        finance shall be audited in accordance with paragraph (1) of 
+        section 9105(a) of title 31, United States Code, and may be 
+        audited in accordance with paragraph (4) of such section.
+            ``(2) Selection of external auditors.--
+                    ``(A) In general.--The enterprise resource banks 
+                and the office of finance shall contract jointly for an 
+                annual external audit.
+                    ``(B) Role of the board.--Notwithstanding any other 
+                provision of law, the Finance Board shall not 
+                participate in the audit contracting process under this 
+                paragraph except that the Finance Board may establish 
+                requirements for external audit contracts and 
+                requirements to assure consistency in financial 
+                report.''.
+    (e) Section 16.--
+            (1) Section 16(a) of the Federal Home Loan Bank Act (12 
+        U.S.C. 1436(a)) is amended in the 3d sentence, by striking 
+        ``and then only with the approval of the Federal Housing 
+        Finance Board'' and inserting ``subject to such regulations as 
+        may be prescribed by the Finance Board''.
+            (2) Section 16 of the Federal Home Loan Bank Act (12 U.S.C. 
+        1436) is amended by adding at the end the following new 
+        subsection:
+    ``(d) Ownership Interest in Retained Earnings Recognized.--Subject 
+to any other provision of this Act, each enterprise resource bank and, 
+indirectly, the voting shareholders of each bank, shall have an 
+ownership interest in, and a property right in, the retained earnings 
+of the bank.''.
+    (f) Repeal of Sections 2A, 2B, 26, and 27.--The Federal Home Loan 
+Bank Act (12 U.S.C. 1421 et seq.) is amended by striking sections 2A, 
+2B, 26, and 27.
+
+SEC. 13. INCORPORATION OF BANKS; CORPORATE POWERS.
+
+    Section 12 of the Federal Home Loan Bank Act is amended to read as 
+follows:
+
+``SEC. 12. INCORPORATION OF BANKS; CORPORATE POWERS.
+
+    ``(a) Organizational Certificates.--
+            ``(1) Custodianship.--The Finance Board shall be the 
+        custodian of the organizational certificates of the enterprise 
+        resource banks previously filed with the Federal Home Loan Bank 
+        Board (as in existence before the end of the 60-day period 
+        beginning on the date of the enactment of the Financial 
+        Institutions Reform, Recovery, and Enforcement Act of 1989) or 
+        the Finance Board.
+            ``(2) Replacement of lost or destroyed certificate.--If the 
+        organizational certificate of an enterprise resource bank is 
+        lost or destroyed, the board of directors of the bank shall 
+        provide the Finance Board with a substitute certificate 
+        containing such information as the Finance Board may require.
+            ``(3) Amendment in case of merger, combination, or 
+        consolidation.--If 2 or more enterprise resource banks merge, 
+        combine, or otherwise consolidate, the resulting bank shall 
+        provide the Finance Board with an amended organizational 
+        certificate containing such information as the Finance Board 
+        may require.
+    ``(b) Corporate Status.--Each enterprise resource bank shall be a 
+corporation.
+    ``(c) Powers.--Each enterprise resource bank shall have the 
+following powers:
+            ``(1) To adopt, alter, and use a corporate seal.
+            ``(2) To make contracts.
+            ``(3) To purchase or lease and hold or dispose of such real 
+        estate as may be necessary or convenient for the transaction of 
+        the business of the bank.
+            ``(4) To sue and be sued, to complain, and to defend, in 
+        any court of competent jurisdiction.
+            ``(5) To select, employ, and fix the compensation of such 
+        officers, employees, attorneys, and agents as the board of 
+        directors determines to be necessary for the transaction of the 
+        business of the bank.
+            ``(6) To define the duties of, and require bonds of, 
+        officers, employees, attorneys, and agents of the bank and fix 
+        the penalties of any such bonds.
+            ``(7) To dismiss, at pleasure, officers, employees, 
+        attorneys, and agents of the bank.
+            ``(8) By the board of directors, to prescribe, amend, and 
+        repeal bylaws and policies governing the manner in which the 
+        affairs of the bank may be administered.
+            ``(9) Such incidental powers as are not inconsistent with 
+        the provisions of this Act and are customary and usual in 
+        corporations generally.
+    ``(d) Prohibition on Excessive Compensation.--
+            ``(1) In general.--The Finance Board shall prohibit the 
+        enterprise resource banks from providing compensation to any 
+        employee of the bank that is not reasonable and comparable with 
+        compensation for employment in other similar businesses 
+        (including other financial institutions or major financial 
+        services companies) involving similar duties and 
+        responsibilities.
+            ``(2) Limitation on finance board's authority to set 
+        compensation.--In carrying out paragraph (1), the Financial 
+        Board may not prescribe or set a specific level or range of 
+        compensation.
+    ``(e) Status of Bank Employees.--Notwithstanding any other 
+provision of this Act, no officer, employee, or agent of an enterprise 
+resource bank or the office of finance of such banks shall be 
+considered to be an officer or employee of the United States for 
+purposes of title 5, United States Code.
+    ``(f) Guaranteed Housing Project Loans.--Subject to such 
+regulations as may be prescribed by the Finance Board, an enterprise 
+resource bank may acquire, hold, or dispose of, in whole or in part, or 
+facilitate the acquisition, holding, or disposition by shareholders of 
+such bank of, any housing project loan which has the benefit of any 
+guaranty under section 221, 222, or 224 of the Foreign Assistance Act 
+of 1961, any interest in any such loan, or any commitment or agreement 
+with respect to any such loan or interest.''.
+
+SEC. 14. SUCCESSION OF ENTERPRISE RESOURCE BANKS.
+
+    Section 25 of the Federal Home Loan Bank Act (12 U.S.C. 1445) is 
+amended by inserting ``, operation of law,'' after ``the Board under 
+this Act''.
+
+SEC. 15. DEFINITIONS.
+
+    (a) Finance Board Defined.--Paragraph (1) of section 2 of the 
+Federal Home Loan Bank Act (12 U.S.C. 1422(1)) is amended to read as 
+follows:
+            ``(1) Finance board.--The term `Finance Board' means the 
+        Federal Housing Finance Board established under section 3.''.
+    (b) Home Mortgage Loan Defined.--Section 2 of the Federal Home Loan 
+Bank Act (12 U.S.C. 1422) is amended by striking paragraphs (5) and (6) 
+and inserting the following new paragraph:
+            ``(5) Home mortgage loan.--
+                    ``(A) In general.--The term `home mortgage loan' 
+                means a loan made by a voting shareholder or 
+                nonshareholder borrower upon the security of--
+                            ``(i) a mortgage, deed of trust, or other 
+                        security arrangement upon qualified real 
+                        estate, in fee simple; or
+                            ``(ii) on a qualified leasehold--
+                                    ``(I) under a lease which has a 
+                                period to maturity of not less than 99 
+                                years and is renewable; or
+                                    ``(II) under a lease having a 
+                                period of not less than 50 years to run 
+                                from the date the mortgage, deed of 
+                                trust, or other security arrangement 
+                                was executed.
+                    ``(B) Certain loans included.--The term `home 
+                mortgage loan' includes--
+                            ``(i) such classes of first liens as are 
+                        commonly given to secure advances on real 
+                        estate, under the laws of the State in which 
+                        the real estate is located, by institutions 
+                        authorized under this Act to become 
+                        shareholders of an enterprise resource bank; 
+                        and
+                            ``(ii) the credit instruments, if any, 
+                        secured by such liens.
+                    ``(C) Qualified real estate; qualified leasehold.--
+                The term `qualified real estate' and `qualified 
+                leasehold' mean real estate upon which is located, or 
+                which comprises or includes, 1 or more homes or other 
+                dwelling units.
+                    ``(D) Definition of further terms.--The Finance 
+                Board may define any term used in this paragraph.''.
+    (c) Residential Mortgage Assets Defined.--Section 2 of the Federal 
+Home Loan Bank Act (12 U.S.C. 1422) is amended--
+            (1) by redesignating paragraphs (7), (8), (9), (10), (11), 
+        and (12) as paragraphs (6), (7), (8), (9), (10), and (11), 
+        respectively; and
+            (2) by adding at the end the following new paragraph:
+            ``(12) Residential mortgage assets.--The term `residential 
+        mortgage asset'--
+                    ``(A) means a home mortgage, deed of trust, or 
+                other security arrangement upon real estate that is 
+                solely residential; and
+                    ``(B) includes any mortgage pass-through security 
+                or mortgage debt security representing an interest in, 
+                or which is collateralized by, home mortgage loans.''.
+    (d) Regulated Financial Institution Defined.--Section 2 of the 
+Federal Home Loan Bank Act (12 U.S.C. 1422) is amended by adding after 
+paragraph (12) (as added by subsection (c) of this section) the 
+following new paragraph:
+            ``(13) Regulated financial institution.--The term 
+        `regulated financial institution' means--
+                    ``(A) any depository institution (as defined in 
+                section 3(c) of the Federal Deposit Insurance Act); and
+                    ``(B) any insured or noninsured credit union (as 
+                such terms are defined in section 101(7) of the Federal 
+                Credit Union Act).''.
+    (e) Capital Distribution Defined.--Section 2 of the Federal Home 
+Loan Bank Act (12 U.S.C. 1422) is amended by adding after paragraph 
+(13) (as added by subsection (d) of this section) the following new 
+paragraph:
+            ``(14) Capital distribution.--The term `capital 
+        distribution' means--
+                    ``(A) any dividend or other distribution in cash or 
+                other property made with respect to any shares of, or 
+                other ownership interest in, an enterprise resource 
+                bank, other than a dividend consisting only of shares 
+                of any such bank;
+                    ``(B) any payment in cash or other property made by 
+                an enterprise resource bank to repurchase, redeem, 
+                retire, or otherwise acquire any of the shares of the 
+                bank, including any extension of credit made to finance 
+                an acquisition by a bank of such shares; and
+                    ``(C) any transaction that the Finance Board 
+                determines by regulation to be, in substance, a 
+                distribution of capital of an enterprise resource 
+                bank.''.
+    (f) Bank-Affiliated Party.--Section 2 of the Federal Home Loan Bank 
+Act (12 U.S.C. 1422) is amended by adding after paragraph (14) (as 
+added by subsection (e) of this section) the following new paragraph:
+            ``(15) Bank-affiliated party.--The term `bank-affiliated 
+        party' means--
+                    ``(A) any director, officer, or employee of, or 
+                agent for, an enterprise resource bank;
+                    ``(B) any voting shareholder, consultant, joint 
+                venture partner, and any other person as determined by 
+                the Finance Board who participates in the conduct of 
+                the affairs of an enterprise resource bank; and
+                    ``(C) any independent contractor (including any 
+                attorney, appraiser, or accountant) who knowingly or 
+                recklessly participates in--
+                            ``(i) any violation of any law or 
+                        regulation;
+                            ``(ii) any breach of fiduciary duty; or
+                            ``(iii) any unsafe or unsound practice,
+                which caused or is likely to cause more than a minimal 
+                financial loss to, or a significant adverse effect on, 
+                the enterprise resource bank.''.
+    (g) Voting Shareholder.--Section 2 of the Federal Home Loan Bank 
+Act (12 U.S.C. 1422) is amended by adding after paragraph (15) (as 
+added by subsection (f) of this section) the following new paragraph:
+            ``(16) Voting shareholder.--The term `voting shareholder' 
+        means any regulated financial institution or insurance company 
+        which holds any voting stock of an enterprise resource bank.''.
+
+SEC. 16. STUDY OF OVERCOLLATERALIZATION.
+
+    (a) Study Required.--The Federal Housing Finance Board shall 
+conduct a study on the effects of the requirement for 
+overcollateralization of advances from enterprise resource banks and 
+issues relating to such requirement, including the benefits and 
+drawbacks of such requirement as it relates to the banks, the voting 
+shareholders of the banks, and State and local housing finance 
+agencies, and the availability and usefulness of advances for housing 
+and State and local housing finance agencies.
+    (b) Report Required.--Before the end of the 1-year period beginning 
+on the date of the enactment of this Act, the Federal Housing Finance 
+Board shall submit a report to the Congress on the findings and 
+conclusions of the Finance Board in connection with the study conducted 
+pursuant to subsection (a).
+    (c) Recommendations.--The report submitted pursuant to subsection 
+(b) shall include such recommendations for legislative or 
+administrative actions as the Federal Housing Finance Board may 
+determine to be appropriate.
+                                 <all>
+

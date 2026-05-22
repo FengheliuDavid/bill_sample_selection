@@ -1,0 +1,510 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[S. 1663 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+106th CONGRESS
+  1st Session
+                                S. 1663
+
+  To combat money laundering and protect the United States financial 
+                    system, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 29, 1999
+
+ Mr. Schumer (for himself and Mr. Coverdell) introduced the following 
+  bill; which was referred to the Committee on Banking, Housing, and 
+                             Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To combat money laundering and protect the United States financial 
+                    system, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Foreign Money Laundering Deterrence 
+and Anticorruption Act''.
+
+SEC. 2. FINDINGS.
+
+    The Congress finds as follows:
+            (1) Money laundering enables international organized crime 
+        groups to control and legitimize proceeds from a wide variety 
+        of illegal activities including theft, racketeering, terrorism, 
+        tax evasion, fraud, insider trading, and traffic in narcotics, 
+        arms, and other contraband. In many instances, these activities 
+        impact United States citizens and territory and frustrate 
+        United States foreign policy.
+            (2) Money laundering by international criminal enterprises 
+        challenges the legitimate authority of national governments, 
+        corrupts officials and professionals, endangers the financial 
+        and economic stability of nations, diminishes the efficiency of 
+        global interest rate markets, and routinely violates legal 
+        norms, property rights, and human rights.
+            (3) In some countries, such as Colombia, Mexico, and 
+        Russia, the wealth and power of organized criminal enterprises 
+        rival the wealth and power of the government of the country.
+            (4) Organized criminal enterprises, such as the Colombian 
+        and Mexican cartels, the Russian ``mafiya'', Sicilian crime 
+        families, and Chinese gangs, are highly resistant to 
+        conventional law enforcement techniques, and the financial 
+        management and organizational infrastructure of such 
+        enterprises are highly sophisticated and difficult to track 
+        because of the globalization of the financial services 
+        industry.
+            (5) In addition to organized crime enterprises, corrupt 
+        government officials around the world increasingly employ 
+        sophisticated money laundering schemes to conceal wealth they 
+        have plundered or extorted from their nations or received as 
+        bribes, and these practices weaken the legitimacy of foreign 
+        states, threaten the integrity of international financial 
+        markets, and harm foreign populations--sometimes to the point 
+        of impoverishment.
+            (6) The existence of ``offshore financial centers'' 
+        (nations, regions, zones, and cities that in many instances 
+        have virtually impenetrable financial secrecy laws and weak 
+        financial regulatory and reporting regimes, which are tailored 
+        to violate or circumvent the laws of other nations) facilitates 
+        global money laundering and, as some of the long-established 
+        offshore financial centers begin to respond to international 
+        pressure to implement internationally acceptable standards, 
+        money-laundering transactions have started migrating to new 
+        centers that have been rapidly proliferating.
+            (7) Recent advances in communications and information 
+        technology, particularly in the fields of online transactions, 
+        have meant that offshore financial centers, originally 
+        concentrated near the ``onshore'' nations whose rules they 
+        circumvented, are being established in increasingly remote 
+        locations that are difficult and costly for law enforcement and 
+        supervisory authorities to monitor and visit.
+
+SEC. 3. REQUIREMENTS RELATING TO TRANSACTIONS AND ACCOUNTS WITH OR ON 
+              BEHALF OF FOREIGN ENTITIES.
+
+    (a) In General.--Subchapter II of chapter 53 of title 31, United 
+States Code, is amended by adding at the end the following new section:
+``Sec. 5331. Requirements relating to transactions and accounts with or 
+              on behalf of foreign entities.
+    ``(a) Prohibition on Opening or Maintaining Accounts Belonging To 
+or For the Benefit of Unidentified Owners.--A financial institution may 
+not open or maintain any account in the United States for a foreign 
+entity or a representative of a foreign entity, unless--
+            ``(1) the institution identifies, and maintains a record of 
+        the identity of, each person having a direct or beneficial 
+        ownership interest in the account; or
+            ``(2) some or all of the shares of the foreign entity are 
+        publicly traded.
+    ``(b) Prohibition on Opening or Maintaining Correspondent Accounts 
+or Correspondent Bank Relationship With Certain Foreign Banks.--
+            ``(1) In general.--A depository institution may not open or 
+        maintain a correspondent account in the United States for or on 
+        behalf of a foreign banking institution, or establish or 
+        maintain a correspondent bank relationship with a foreign 
+        banking institution, that--
+                    ``(A) is organized under the laws of a jurisdiction 
+                outside the United States but is not licensed or 
+                permitted to offer, or is not offering, any banking 
+                service to any resident of such jurisdiction; and
+                    ``(B) is not subject to comprehensive supervision 
+                or regulation on a consolidated basis by the 
+                appropriate authorities in such jurisdiction.
+            ``(2) Exception.--Paragraph (1) shall not apply to a 
+        foreign banking institution, if the institution is an affiliate 
+        of--
+                    ``(A) a depository institution; or
+                    ``(B) a foreign bank (as defined in section 1(b)(7) 
+                of the International Banking Act of 1978) that is 
+                subject to comprehensive supervision or regulation on a 
+                consolidated basis by the appropriate authorities in 
+                the foreign jurisdiction under whose laws it is 
+                organized.
+    ``(c) Prohibition on Opening or Maintaining Payable-Through 
+Accounts for Foreign Banking Institutions.--A depository institution 
+may not open or maintain a payable-through account in the United States 
+for a foreign banking institution, unless the depository institution is 
+able--
+            ``(1) to identify each customer of the foreign banking 
+        institution who is permitted to use the account; and
+            ``(2) with respect to each such customer, to obtain the 
+        same information about the customer that it obtains, in the 
+        ordinary course, with respect to a customer residing in the 
+        United States who opens or maintains an account through which 
+        they are authorized to conduct the same transactions as may be 
+conducted through the payable-through account.
+    ``(d) Definitions.--Notwithstanding any other provision of this 
+subchapter, for purposes of this section, the following definitions 
+shall apply:
+            ``(1) Account.--The term `account'--
+                    ``(A) means a formal banking or business 
+                relationship established to provide regular services, 
+                dealings, and other financial transactions; and
+                    ``(B) includes a demand deposit, savings deposit, 
+                or other asset account and a credit account or other 
+                extension of credit.
+            ``(2) Correspondent account.--The term `correspondent 
+        account' means an account established to receive deposits from 
+        and make payments on behalf of a correspondent bank.
+            ``(3) Correspondent bank.--The term `correspondent bank' 
+        means a depository institution that accepts deposits from 
+        another financial institution and provides services on behalf 
+        of such other financial institution.
+            ``(4) Depository institution.--The term `depository 
+        institution' has the meaning given such term in section 
+        19(b)(1)(A) of the Federal Reserve Act.
+            ``(5) Foreign banking institution.--The term `foreign 
+        banking institution' means a foreign entity that engages in the 
+        business of banking, and includes foreign commercial banks, 
+        foreign merchant banks, and other foreign institutions that 
+        engage in banking activities usual in connection with the 
+        business of banking in the countries where they are organized 
+        or operating.
+            ``(6) Foreign entity.--The term `foreign entity' means an 
+        entity that is not organized under the laws of the Federal 
+        Government of the United States, any State of the United 
+        States, the District of Columbia, the Commonwealth of Puerto 
+        Rico, the Virgin Islands, Guam, American Samoa, the 
+        Commonwealth of the Northern Mariana Islands, the Republic of 
+        the Marshall Islands, the Federated States of Micronesia, or 
+        the Republic of Palau.
+            ``(7) Payable-through account.--The term `payable-through 
+        account' means an account, including a transaction account (as 
+        defined in section 19(b)(1)(C) of the Federal Reserve Act), 
+        opened at a depository institution by a foreign banking 
+        institution by means of which the foreign banking institution 
+        permits its customers to engage, either directly or through a 
+        sub-account, in banking activities usual in connection with the 
+        business of banking in the United States.''.
+    (b) Clerical Amendment.--The table of sections for subchapter II of 
+chapter 53 of title 31, United States Code, is amended by inserting 
+after the item relating to section 5330 the following new item:
+
+``5331. Requirements relating to transactions and accounts with or on 
+                            behalf of foreign entities.''.
+    (c) Effective Date.--The amendments made by subsection (a) shall 
+apply--
+            (1) with respect to accounts opened on or after the date of 
+        the enactment of this Act, as of such date; and
+            (2) with respect to accounts opened before the date of the 
+        enactment of this Act, as of the end of the 6-month period 
+        beginning on such date.
+    (d) Rule of Construction.--No provision of the amendment made by 
+subsection (a) shall be construed as requiring or authorizing a 
+financial institution to disclose any information described in such 
+amendment to any other entity.
+
+SEC. 4. CORRUPTION IN FOREIGN GOVERNMENTS.
+
+    (a) In General.--It is the sense of the Congress that, in 
+deliberations between the United States Government and any other 
+country on money laundering and corruption issues, the United States 
+Government should--
+            (1) emphasize an approach that addresses not only the 
+        laundering of the proceeds of traditional criminal activity but 
+        also the increasingly endemic problem of governmental 
+        corruption and the corruption of ruling elites; and
+            (2) encourage the enactment and enforcement of laws in such 
+        country to prevent money laundering and systemic corruption.
+    (b) United States Votes in International Financial Institutions.--
+The Secretary of the Treasury shall instruct the United States 
+Executive Directors of each international financial institution (as 
+defined in section 1701(c) of the International Financial Institutions 
+Act) to oppose any loan, disbursement, or other utilization of 
+resources by the international financial institution, other than to 
+address basic human needs, for any country that the Secretary of the 
+Treasury determines--
+            (1) has a high level of corruption;
+            (2) is not effectively implementing good governance and 
+        anticorruption measures; and
+            (3) is not taking meaningful steps to improve good 
+        governance and reduce corruption.
+    (c) Report Required.--
+            (1) In general.--The Secretary of the Treasury shall submit 
+        an annual report to the Congress on the deliberations between 
+        the United States and other countries on money laundering and 
+        corruption issues.
+            (2) Contents of report.--Each report submitted under 
+        paragraph (1) shall contain--
+                    (A) an assessment by the Secretary of the extent of 
+                corruption in each country covered by the report; and
+                    (B) an assessment by the Secretary of the extent to 
+                which such country maintains effective money laundering 
+                and corruption prevention measures or is implementing 
+                such measures.
+
+SEC. 5. AMENDMENTS RELATING TO REPORTING OF SUSPICIOUS ACTIVITIES.
+
+    (a) Amendment Relating to Civil Liability Immunity for 
+Disclosures.--Section 5318(g)(3) of title 31, United States Code, is 
+amended to read as follows:
+            ``(3) Liability for disclosures.--
+                    ``(A) In general.--Notwithstanding any other 
+                provision of law--
+                            ``(i) any financial institution that--
+                                    ``(I) makes a disclosure of any 
+                                possible violation of law or regulation 
+                                to an appropriate government agency; or
+                                    ``(II) makes a disclosure pursuant 
+                                to this subsection or any other 
+                                authority;
+                            ``(ii) any director, officer, employee, or 
+                        agent of such institution who makes, or 
+                        requires another to make any such disclosure; 
+                        and
+                            ``(iii) any independent public accountant 
+                        who audits any such financial institution and 
+                        makes a disclosure described in clause (i),
+                shall not be liable to any person under any law or 
+                regulation of the United States, any constitution, law, 
+                or regulation of any State or political subdivision 
+                thereof, or under any contract or other legally 
+                enforceable agreement (including any arbitration 
+                agreement), for such disclosure or for any failure to 
+                notify the person who is the subject of such disclosure 
+                or any other person identified in the disclosure.
+                    ``(B) Exception.--Subparagraph (A) shall not apply 
+                to a disclosure or communication required under Federal 
+                securities law, other than provisions of law that 
+                specifically refer to the Currency and Foreign 
+                Transactions Reporting Act of 1970.
+                    ``(C) Rule of construction.--Subparagraph (A) shall 
+                not be construed as creating--
+                            ``(i) any inference that the term `person', 
+                        as used in such subparagraph, may be construed 
+                        more broadly than its ordinary usage so to 
+                        include any government or agency of government; 
+                        or
+                            ``(ii) any immunity against, or otherwise 
+                        affecting, any civil or criminal action brought 
+                        by any government or agency of government to 
+                        enforce any constitution, law, or regulation of 
+                        such government or agency.''.
+    (b) Prohibition on Notification of Disclosures.--Section 5318(g)(2) 
+of title 31, United States Code, is amended to read as follows:
+            ``(2) Notification prohibited.--
+                    ``(A) In general.--If a financial institution, any 
+                director, officer, employee, or agent of any financial 
+                institution, or any independent public accountant who 
+                audits any financial institution, voluntarily or 
+                pursuant to this section or any other authority, 
+                reports a suspicious transaction to an appropriate 
+                government agency--
+                            ``(i) the financial institution, director, 
+                        officer, employee, agent, or accountant may not 
+                        notify any person involved in the transaction 
+                        that the transaction has been reported and may 
+                        not disclose any information included in the 
+                        report to any such person; and
+                            ``(ii) any other person, including any 
+                        officer or employee of any government, who has 
+                        any knowledge that such report was made may not 
+                        disclose to any person involved in the 
+                        transaction that the transaction has been 
+                        reported or any information included in the 
+                        report.
+                    ``(B) Coordination with paragraph (5).--
+                Subparagraph (A) shall not be construed as prohibiting 
+                any financial institution, or any director, officer, 
+                employee, or agent of such institution, from including, 
+                in a written employment reference that is provided in 
+                accordance with paragraph (5) in response to a request 
+                from another financial institution, information that 
+                was included in a report to which subparagraph (A) 
+                applies, but such written employment reference may not 
+                disclose that such information was also included in any 
+                such report or that such report was made.''.
+    (c) Authorization To Include Suspicions of Illegal Activity in 
+Employment References.--Section 5318(g) of title 31, United States 
+Code, is amended by adding at the end the following new paragraph:
+            ``(5) Employment references may include suspicions of 
+        involvement in illegal activity.--
+                    ``(A) In general.--Notwithstanding any other 
+                provision of law and subject to subparagraph (B) of 
+                this paragraph and paragraph (2)(C), any financial 
+                institution, and any director, officer, employee, or 
+                agent of such institution, may disclose, in any written 
+                employment reference relating to a current or former 
+                institution-affiliated party of such institution which 
+                is provided to another financial institution in 
+                response to a request from such other institution,
+                information concerning the possible involvement of such 
+                institution-affiliated party in any suspicious 
+                transaction relevant to a possible violation of law or 
+                regulation.
+                    ``(B) Limit on liability for disclosures.--A 
+                financial institution, and any director, officer, 
+                employee, or agent of such institution, shall not be 
+                liable to any person under any law or regulation of the 
+                United States, any constitution, law, or regulation of 
+                any State or political subdivision thereof, or under 
+                any contract or other legally enforceable agreement 
+                (including any arbitration agreement), for any 
+                disclosure under subparagraph (A), to the extent--
+                            ``(i) the disclosure does not contain 
+                        information which the institution, director, 
+                        officer, employee, agent, or accountant knows 
+                        to be false; and
+                            ``(ii) the institution, director, officer, 
+                        employee, agent, or accountant has not acted 
+                        with malice or with reckless disregard for the 
+                        truth in making the disclosure.
+                    ``(C) Institution-affiliated party defined.--For 
+                purposes of this paragraph, the term `institution-
+                affiliated party' has the meaning given to such term in 
+                section 3(u) of the Federal Deposit Insurance Act, 
+                except such section 3(u) shall be applied by 
+                substituting `financial institution' for `insured 
+                depository institution'.''.
+    (d) Amendments Relating to Availability of Suspicious Activity 
+Reports for Other Agencies.--Section 5319 of title 31, United States 
+Code, is amended--
+            (1) in the 1st sentence, by striking ``5314, or 5316'' and 
+        inserting ``5313A, 5314, 5316, or 5318(g)'';
+            (2) in the last sentence, by inserting ``under section 
+        5313, 5313A, 5314, 5316, or 5318(g)'' after ``records of 
+        reports''; and
+            (3) by adding the following new sentence after the last 
+        sentence: ``The Secretary of the Treasury may permit the 
+        dissemination of information in any such reports to any self-
+        regulatory organization (as defined in section 3(a)(26) of the 
+        Securities Exchange Act of 1934), if the Securities and 
+        Exchange Commission determines that such dissemination is 
+        necessary or appropriate to permit such organization to perform 
+        its function under the Securities Exchange Act of 1934 and 
+        regulations prescribed under such Act.''.
+
+SEC. 6. SPECIFIED UNLAWFUL ACTIVITIES FOR MONEY LAUNDERING.
+
+    Section 1956(c)(7) of title 18, United States Code, is amended--
+            (1) in subparagraph (B)--
+                    (A) by striking clause (ii) and inserting the 
+                following new clause:
+                            ``(ii) any conduct constituting a crime of 
+                        violence;''; and
+                    (B) by adding at the end the following new clauses:
+                            ``(iv) fraud, or any scheme to defraud, 
+                        committed against a foreign government or 
+                        foreign governmental entity;
+                            ``(v) bribery of a public official, or the 
+                        misappropriation, theft, or embezzlement of 
+                        public funds, by or for the benefit of a public 
+                        official;
+                            ``(vi) smuggling or export control 
+                        violations involving munitions listed in the 
+                        United States Munitions List or technologies 
+                        with military applications, as defined in the 
+Commerce Control List of the Export Administration Regulations;
+                            ``(vii) an offense with respect to which 
+                        the United States would be obligated by a 
+                        multilateral treaty either to extradite the 
+                        alleged offender or to submit the case for 
+                        prosecution, if the offender were found within 
+                        the territory of the United States; or
+                            ``(viii) the misuse of funds of, or 
+                        provided by, the International Monetary Fund in 
+                        contravention of the Articles of Agreement of 
+                        the Fund or the misuse of funds of, or provided 
+                        by, any other international financial 
+                        institution (as defined in section 1701(c)(2) 
+                        of the International Financial Institutions 
+                        Act) in contravention of any international 
+                        treaty or other international agreement to 
+                        which the United States is a party, including 
+                        any article of agreement of the members of such 
+                        international financial institution.'';
+            (2) in subparagraph (D)--
+                    (A) by inserting ``section 541 (relating to goods 
+                falsely classified),'' before ``section 542'';
+                    (B) by inserting ``section 924(m) (relating to 
+                firearms trafficking),'' before ``section 956'';
+                    (C) by inserting ``section 1030 (relating to 
+                computer fraud and abuse),'' before ``1032''; and
+                    (D) by inserting ``any felony violation of the 
+                Foreign Agents Registration Act of 1938, as amended,'' 
+                before ``or any felony violation of the Foreign Corrupt 
+                Practices Act'';
+            (3) in subparagraph (E)--
+                    (A) by inserting ``section 42 or 43 of this title 
+                (commonly called the Lacey Act),'' after ``a felony 
+                violation of'';
+                    (B) by inserting ``the Clean Air Act (42 U.S.C. 
+                7401 et seq.),'' after ``the Safe Drinking Water Act 
+                (42 U.S.C. 300f et seq.),''; and
+            (4) by adding at the end the following new subparagraph:
+                    ``(G) Any offense under any Federal law consisting 
+                of the failure to report to an appropriate Federal 
+                agency the ownership or control of a foreign 
+                corporation, the ownership or control of a foreign 
+                financial account, or a beneficial interest in a 
+                foreign trust.''.
+
+SEC. 7. FALSE STATEMENTS TO FINANCIAL INSTITUTIONS CONCERNING THE 
+              IDENTITY OF A CUSTOMER.
+
+    (a) In General.--Chapter 47 of title 18, United States Code 
+(relating to fraud and false statements) is amended by inserting after 
+section 1007 the following new section:
+``Sec. 1008. False statements concerning the identity of customers of 
+              financial institutions
+    ``(a) In General.--Whoever knowingly in any manner--
+            ``(1) falsifies, conceals, or covers up, or attempts to 
+        falsify, conceal, or cover up, the identity of any person in 
+        connection with any transaction with a financial institution; 
+        or
+            ``(2) makes, or attempts to make, any materially false, 
+        fraudulent, or fictitious statement or representation of the 
+        identity of any person in connection with a transaction with a 
+        financial institution; or
+            ``(3) makes or uses, or attempts to make or use, any false 
+        writing or document knowing the same to contain any materially 
+        false, fictitious, or fraudulent statement or entry concerning 
+        the identity of any person in connection with a transaction 
+        with a financial institution; or
+            ``(4) uses or presents, or attempts to use or present, in 
+        connection with a transaction with a financial institution, an 
+        identification document or means of identification the 
+        possession of which is a violation of section 1028,
+shall be fined under this title, imprisoned for not more than 5 years, 
+or both.
+    ``(b) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Identification document and means of 
+        identification.--The terms `identification document' and `means 
+        of identification' have the meanings given to such terms in 
+        section 1028(d).
+            ``(2) Financial institution.--In addition to the meaning 
+        given to the term `financial institution' by section 20, the 
+        term `financial institution' also has the meaning given to such 
+        term in section 5312(a)(2) of title 31.''.
+    (b) Technical and Conforming Amendment.--Section 1956(c)(7)(D) of 
+title 18, United States Code (as amended by section 6(2) of this Act) 
+is amended by striking ``1014 (relating to fraudulent loan'' and 
+inserting ``section 1008 (relating to false statements concerning the 
+identity of customers of financial institutions), section 1014 
+(relating to fraudulent loan''.
+    (c) Clerical Amendment.--The table of sections for chapter 47 of 
+title 18, United States Code, is amended by inserting after the item 
+relating to section 1007 the following new item:
+
+``1008. False statements concerning the identity of customers of 
+                            financial institutions.''.
+                                 <all>
+

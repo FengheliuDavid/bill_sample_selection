@@ -1,0 +1,149 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[S. 1549 Introduced in Senate (IS)]
+
+  2d Session
+                                S. 1549
+
+To improve regulation of the purchase and sale of municipal securities, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            February 1, 1996
+
+   Mr. Brown introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To improve regulation of the purchase and sale of municipal securities, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Municipal Securities Investor 
+Protection Act of 1996''.
+
+SEC. 2. TREATMENT OF MUNICIPAL SECURITIES IN THE SECURITIES ACT OF 
+              1933.
+
+    Section 3 of the Securities Act of 1933 (15 U.S.C. 77c) is amended 
+by adding at the end the following new subsection:
+    ``(d)(1) Notwithstanding subsection (a)(2), a security issued by a 
+municipal issuer shall only be exempt from the provisions of this 
+title--
+            ``(A) if the municipal issuer pledges the full faith and 
+        credit or the taxing power of that municipal issuer to make 
+        timely payments of principal and interest on the obligation; or
+            ``(B) if the municipal issuer--
+                    ``(i) offers or sells such securities in a single 
+                transaction in an aggregate principal amount equal to 
+                less than $1,000,000,000; or
+                    ``(ii) offers or sells such securities in a series 
+                of related transactions, and at the time of the offer 
+                or sale of such securities, does not reasonably 
+                anticipate that the aggregate principal amount of the 
+                series of related transactions will exceed 
+                $1,000,000,000.
+    ``(2) For purposes of this subsection--
+            ``(A) the term `municipal issuer' means--
+                    ``(i) a State, the District of Columbia, or a 
+                Territory of the United States; or
+                    ``(ii) a public instrumentality or political 
+                subdivision of an entity referred to in clause (i);
+            ``(B) the term `series of related transactions' means a 
+        series of separate securities offerings made--
+                    ``(i) as part of a single plan of financing; or
+                    ``(ii) for the same general purpose; and
+            ``(C) the term `reasonably anticipate' shall have the 
+        meaning provided that term by the Commission by regulation, 
+        taking into consideration, as necessary or appropriate--
+                    ``(i) the public interest;
+                    ``(ii) the protection of investors; and
+                    ``(iii) the need to prevent the circumvention of 
+                the requirements of this subsection.''.
+
+SEC. 3. TREATMENT OF MUNICIPAL SECURITIES IN THE SECURITIES EXCHANGE 
+              ACT OF 1934.
+
+    (a) In General.--Section 3(a)(12) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78c(a)(12)) is amended--
+            (1) in subparagraph (A), by striking clause (ii) and 
+        inserting the following:
+            ``(ii) any security issued by a municipal issuer with 
+        respect to which the municipal issuer--
+                    ``(I) pledges the full faith and credit or the 
+                taxing power of that municipal issuer to make timely 
+                payments of principal and interest on the obligation; 
+                or
+                    ``(II)(aa) offers or sells such securities in a 
+                single transaction in an aggregate principal amount 
+                equal to less than $1,000,000,000; or
+                    ``(bb) offers or sells such securities in a series 
+                of related transactions, and at the time of the offer 
+                or sale of such securities, does not reasonably 
+                anticipate that the aggregate principal amount of the 
+                series of related transactions will exceed 
+                $1,000,000,000;'';
+            (2) in subparagraph (B)(ii), by striking ``municipal 
+        securities'' and inserting ``the securities described in 
+        subparagraph (A)(ii)'';
+            (3) by redesignating subparagraph (C) as subparagraph (D); 
+        and
+            (4) by inserting after subparagraph (B) the following:
+    ``(C) For purposes of subparagraph (A)(ii)--
+            ``(i) the term `municipal issuer' means--
+                    ``(I) a State or any political subdivision thereof, 
+                or an agency or instrumentality of a State or any 
+                political subdivision thereof; or
+                    ``(II) any municipal corporate instrumentality of a 
+                State;
+            ``(ii) the term `series of related transactions' means a 
+        series of separate securities offerings made--
+                    ``(I) as part of a single plan of financing; or
+                    ``(II) for the same general purpose; and
+            ``(iii) the term `reasonably anticipate' shall have the 
+        meaning provided that term by the Commission by regulation, 
+        taking into consideration, as necessary or appropriate--
+                    ``(I) the public interest;
+                    ``(II) the protection of investors; and
+                    ``(III) the need to prevent the circumvention of 
+                the requirements of subparagraph (A)(ii).''.
+    (b) Treatment of Municipal Securities That Are Not Exempted 
+Securities.--The third sentence of section 15(d) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78o(d)) is amended by inserting before 
+the period the following: ``, except that, with respect to a class of 
+municipal securities that are not exempted securities, the duty to file 
+under this subsection may not be suspended by reason of the number of 
+security holders of record of that class of municipal securities''.
+    (c) Reporting Prior to the Sale of Securities.--Section 15B(d)(1) 
+of the Securities Exchange Act of 1934 (15 U.S.C. 78o-4(d)(1)) is 
+amended--
+            (1) by striking ``(d)(1) Neither'' and inserting 
+        ``(d)(1)(A) Except as provided in subparagraph (B), neither''; 
+        and
+            (2) by adding at the end the following new subparagraph:
+    ``(B) Subparagraph (A) does not apply to an issuer of any municipal 
+security that is not an exempted security.''.
+
+SEC. 4. TREATMENT OF CERTAIN MUNICIPAL SECURITIES IN THE TRUST 
+              INDENTURE ACT OF 1939.
+
+    Section 304(a)(4) of the Trust Indenture Act of 1939 (15 U.S.C. 
+77ddd(a)(4)) is amended by striking ``of subsection 3(a) thereof'' and 
+inserting ``of subsection (a), or subsection (d) of section 3 of that 
+Act''.
+                                 <all>
+

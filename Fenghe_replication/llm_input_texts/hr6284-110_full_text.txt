@@ -1,0 +1,123 @@
+[Congressional Bills 110th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6284 Introduced in House (IH)]
+
+
+
+
+
+
+
+110th CONGRESS
+  2d Session
+                                H. R. 6284
+
+ To amend the Commodity Exchange Act to prevent price manipulation and 
+  excessive speculation and to increase transparency with respect to 
+energy trading on foreign exchanges conducted within the United States.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 17, 2008
+
+ Mr. Matheson (for himself and Mr. Melancon) introduced the following 
+        bill; which was referred to the Committee on Agriculture
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Commodity Exchange Act to prevent price manipulation and 
+  excessive speculation and to increase transparency with respect to 
+energy trading on foreign exchanges conducted within the United States.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Close the London Loophole Act of 
+2008''.
+
+SEC. 2. COMMISSION AUTHORITY OVER TRADERS.
+
+    Section 4 of the Commodity Exchange Act (7 U.S.C. 6) is amended by 
+adding at the end the following:
+    ``(e) Commission Authority Over Traders.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        this section or any determination made by the Commission to 
+        grant relief from the requirements of subsection (a) to become 
+        a designated contract market, derivatives transaction execution 
+        facility, or other registered entity, in the case of a person 
+        located within the United States, or otherwise subject to the 
+        jurisdiction of the Commission, trading on a foreign board of 
+        trade, exchange, or market located outside the United States 
+        (including the territories and/or possessions of the United 
+        States), the Commission shall have authority under this Act--
+                    ``(A) to apply and enforce section 9, including 
+                provisions relating to manipulation or attempted 
+                manipulation, the making of false statements, and 
+                willful violations of this Act;
+                    ``(B) to require or direct the person to limit, 
+                reduce, or liquidate any position to prevent or reduce 
+                the threat of price manipulation, excessive 
+                speculation, price distortion, or disruption of 
+                delivery or the cash settlement process; and
+                    ``(C) to apply such recordkeeping requirements as 
+                the Commission determines are necessary.
+            ``(2) Consultation.--Prior to the issuance of any order 
+        under paragraph (1) to reduce a position on a foreign board of 
+        trade, exchange, or market located outside the United States 
+        (including the territories and possessions of the United 
+        States), the Commission shall consult with the foreign board of 
+        trade, exchange, or market and the appropriate regulatory 
+        authority.
+            ``(3) Administration.--Nothing in this subsection limits 
+        any of the otherwise applicable authorities of the 
+        Commission.''.
+
+SEC. 3. SPECULATIVE LIMITS AND TRANSPARENCY FOR OFF-SHORE OIL TRADING.
+
+    Section 4 of the Commodity Exchange Act (7 U.S.C. 6) (as amended by 
+section 2) is amended by adding at the end the following:
+    ``(f) Foreign Boards of Trade.--
+            ``(1) In general.--In the case of any foreign board of 
+        trade for which the Commission has granted or is considering an 
+        application to grant a board of trade located outside of the 
+        United States relief from the requirement of subsection (a) to 
+        become a designated contract market, derivatives transaction 
+        execution facility, or other registered entity, with respect to 
+        an energy commodity that is physically delivered in the United 
+        States, prior to continuing to or initially granting the 
+        relief, the Commission shall determine that the foreign board 
+        of trade--
+                    ``(A) applies comparable principles or requirements 
+                regarding the daily publication of trading information 
+                and position limits or accountability levels for 
+                speculators as apply to a designated contract market, 
+                derivatives transaction execution facility, or other 
+                registered entity trading energy commodities physically 
+                delivered in the United States; and
+                    ``(B) provides such information to the Commission 
+                regarding the extent of speculative and nonspeculative 
+                trading in the energy commodity that is comparable to 
+                the information the Commission determines necessary to 
+                publish a Commitment of Traders report for a designated 
+                contract market, derivatives transaction execution 
+                facility, or other registered entity trading energy 
+                commodities physically delivered in the United States.
+            ``(2) Existing foreign boards of trade.--During the period 
+        beginning 1 year after the date of enactment of this subsection 
+        and ending 18 months after the date of enactment of this 
+        subsection, the Commission shall determine whether to continue 
+        to grant relief in accordance with paragraph (1) to any foreign 
+        board of trade for which the Commission granted relief prior to 
+        the date of enactment of this subsection.''.
+                                 <all>
+

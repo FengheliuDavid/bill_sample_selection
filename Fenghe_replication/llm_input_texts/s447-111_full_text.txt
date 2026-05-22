@@ -1,0 +1,566 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[S. 447 Introduced in Senate (IS)]
+
+111th CONGRESS
+  1st Session
+                                 S. 447
+
+    To amend the Commodity Exchange Act to prevent excessive price 
+ speculation with respect to energy and agricultural commodities, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           February 13, 2009
+
+   Mr. Levin introduced the following bill; which was read twice and 
+   referred to the Committee on Agriculture, Nutrition, and Forestry
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Commodity Exchange Act to prevent excessive price 
+ speculation with respect to energy and agricultural commodities, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Prevent Excessive 
+Speculation Act''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definition of energy and agricultural commodity.
+Sec. 3. Speculative limits and transparency of off-shore trading.
+Sec. 4. Authority of Commodity Futures Trading Commission with respect 
+                            to certain traders.
+Sec. 5. Working group of international regulators.
+Sec. 6. Position limits for energy and agricultural commodities.
+Sec. 7. Over-the-counter transactions.
+Sec. 8. Index traders and swap dealers.
+Sec. 9. Disaggregation of index funds and other data in energy and 
+                            agricultural markets.
+Sec. 10. Additional Commodity Futures Trading Commission employees for 
+                            improved enforcement.
+
+SEC. 2. DEFINITIONS OF ENERGY AND AGRICULTURAL COMMODITY.
+
+    (a) Definition of Energy Commodity.--Section 1a of the Commodity 
+Exchange Act (7 U.S.C. 1a) is amended--
+            (1) by redesignating paragraphs (13) through (34) as 
+        paragraphs (14) through (35), respectively; and
+            (2) by inserting after paragraph (12) the following:
+            ``(13) Energy commodity.--The term `energy commodity' 
+        means--
+            ``(A) crude oil;
+            ``(B) natural gas;
+            ``(C) coal;
+            ``(D) gasoline, heating oil, diesel fuel, and any other 
+        source of energy derived from coal, crude oil, or natural gas;
+            ``(E) electricity;
+            ``(F) ethanol and any other fuel derived from a renewable 
+        biomass;
+            ``(G) any commodity that results from the management of air 
+        emissions, including but not limited to greenhouse gases, 
+        sulfur dioxide, and nitrogen oxides; and
+            ``(H) any other substance that is used as a source of 
+        energy, as the Commission, in its discretion, deems 
+        appropriate.''.
+    (b) Definition of Agricultural Commodity.--Section 1a of the 
+Commodity Exchange Act (7 U.S.C. 1a) is amended--
+            (1) by redesignating paragraphs (1) through (35) as 
+        paragraphs (2) through (36), respectively; and
+            (2) by inserting a new paragraph (1) as follows:
+            ``(1) Agricultural commodity.--The term `agricultural 
+        commodity' means any commodity specifically described in 
+        paragraph (5).''.
+    (c) Conforming Amendments.--
+            (1) Section 2(c)(2)(B)(i)(II)(cc) of the Commodity Exchange 
+        Act (7 U.S.C. 2(c)(2)(B)(i)(II)(cc)) is amended--
+                    (A) in subitem (AA), by striking ``section 1a(20)'' 
+                and inserting ``section 1a(21)''; and
+                    (B) in subitem (BB), by striking ``section 1a(20)'' 
+                and inserting ``section 1a(21)''.
+            (2) Section 13106(b)(1) of the Food, Conservation, and 
+        Energy Act of 2008 is amended by striking ``section 1a(32)'' 
+        and inserting ``section 1a''.
+            (3) Section 402 of the Legal Certainty for Bank Products 
+        Act of 2000 (7 U.S.C. 27) is amended--
+                    (A) in subsection (a)(7), by striking ``section 
+                1a(20)'' and inserting ``section 1a''; and
+                    (B) in subsection (d)--
+                            (i) in paragraph (1)(B), by striking 
+                        ``section 1a(33)'' and inserting ``section 
+                        1a''; and
+                            (ii) in paragraph (2)(D), by striking 
+                        ``section 1a(13)'' and inserting ``section 
+                        1a''.
+
+SEC. 3. SPECULATIVE LIMITS AND TRANSPARENCY OF OFF-SHORE TRADING.
+
+    Section 4 of the Commodity Exchange Act (7 U.S.C. 6) is amended by 
+adding at the end the following:
+    ``(e) Foreign Boards of Trade.--
+            ``(1) In general.--The Commission may not permit a foreign 
+        board of trade to provide to the members of the foreign board 
+        of trade or other participants located in the United States, or 
+        otherwise subject to the jurisdiction of the Commission, direct 
+        access to the electronic trading and order matching system of 
+        the foreign board of trade with respect to an agreement, 
+        contract, or transaction in an energy commodity that settles 
+        against any price (including the daily or final settlement 
+        price) of one or more contracts listed for trading on a 
+        registered entity, unless--
+                    ``(A) the foreign board of trade--
+                            ``(i) makes public daily trading 
+                        information regarding the agreement, contract, 
+                        or transaction that is comparable to the daily 
+                        trading information published by the registered 
+                        entity for the one or more contracts against 
+                        which the agreement, contract or transaction 
+                        traded on the foreign board of trade settles; 
+                        and
+                            ``(ii) promptly notifies the Commission of 
+                        any change regarding--
+                                    ``(I) the information that the 
+                                foreign board of trade will make 
+                                publicly available;
+                                    ``(II) the position limits and 
+                                position accountability provisions that 
+                                the foreign board of trade will adopt 
+                                and enforce;
+                                    ``(III) the position reductions 
+                                required to prevent manipulation; and
+                                    ``(IV) any other area of interest 
+                                expressed by the Commission to the 
+                                foreign board of trade; and
+                    ``(B) the foreign board of trade (or the foreign 
+                futures authority that oversees the foreign board of 
+                trade)--
+                            ``(i) adopts position limits or position 
+                        accountability provisions for the agreement, 
+                        contract, or transaction that are comparable to 
+                        the position limits or position accountability 
+                        provisions adopted by the registered entity for 
+                        the one or more contracts against which the 
+                        agreement, contract or transaction traded on 
+                        foreign board of trade settles;
+                            ``(ii) has the authority to require or 
+                        direct market participants to limit, reduce, or 
+                        liquidate any position the foreign board of 
+                        trade (or the foreign futures authority that 
+                        oversees the foreign board of trade) determines 
+                        to be necessary to prevent or reduce the threat 
+                        of price manipulation, excessive speculation, 
+                        price distortion, or disruption of delivery or 
+                        the cash settlement process; and
+                            ``(iii) provides information to the 
+                        Commission that is comparable to the 
+                        information that the Commission determines to 
+                        be necessary to publish the commitments of 
+                        traders report of the Commission for the one or 
+                        more contracts against which the agreement, 
+                        contract or transaction traded on the foreign 
+                        board of trade settles.
+            ``(2) Existing foreign boards of trade.--Paragraph (1) 
+        shall not be effective with respect to any agreement, contract, 
+        or transaction in an energy commodity executed on a foreign 
+        board of trade to which the Commission had granted direct 
+        access permission prior to the date of enactment of this 
+        subsection until the date that is 180 days after the date of 
+        enactment of this subsection.
+            ``(3) Existing contracts.--No contract of sale of a 
+        commodity for future delivery traded or executed on or through 
+        the facilities of a board of trade, exchange or market located 
+        outside the United States for purposes of subsection (a) shall 
+        be void, voidable or unenforceable and no party to such 
+        contract shall be entitled to rescind or recover any payments 
+        made with respect to such contract based upon the failure of 
+        the foreign board of trade to comply with any provision of this 
+        Act.''.
+
+SEC. 4. AUTHORITY OF COMMODITY FUTURES TRADING COMMISSION WITH RESPECT 
+              TO CERTAIN TRADERS.
+
+    (a) In General.--
+            (1) Restriction of futures trading to contract markets or 
+        derivatives transaction execution facilities.--Section 4(b) of 
+        the Commodity Exchange Act (7 U.S.C. 6(b)) is amended by 
+        inserting after the first sentence the following: ``The 
+        Commission may adopt rules and regulations requiring the 
+        maintenance of books and records by any person that is located 
+        within the United States (including the territories and 
+        possessions of the United States) or that enters trades 
+        directly into the trade matching system of a foreign board of 
+        trade from the United States (including the territories and 
+        possessions of the United States).''
+            (2) Commission authority over traders.--Section 4 of the 
+        Commodity Exchange Act (7 U.S.C. 6) is amended by adding at the 
+        end the following:
+    ``(e) The Commission shall have authority under this Act to require 
+or direct a person located in the United States, or otherwise subject 
+to the jurisdiction of the Commission, to limit, reduce, or liquidate 
+any position on a foreign board of trade to prevent or reduce the 
+threat of price manipulation, excessive speculation, price distortion, 
+or disruption of delivery or the cash settlement process with respect 
+to any contract listed for trading on a registered entity.
+    ``(f) Consultation.--Before taking any action under subsection (e), 
+the Commission shall consult with the appropriate--
+            ``(1) foreign board of trade; and
+            ``(2) foreign futures authority.''.
+            (3) Violations.--Section 9(a) of the Commodity Exchange Act 
+        (7 U.S.C. 13(a)) is amended by inserting ``(including any 
+        person trading on a foreign board of trade)'' after ``Any 
+        person'' each place it appears.
+            (4) Effect.--No amendment made by this subsection limits 
+        any of the otherwise applicable authorities of the Commodity 
+        Futures Trading Commission.
+
+SEC. 5. WORKING GROUP OF INTERNATIONAL REGULATORS.
+
+    Section 4a of the Commodity Exchange Act (7 U.S.C. 6a) (as amended 
+by section 4(a)(2)(B)) is amended by adding at the end the following:
+    ``(g) Working Group of International Regulators.--Not later than 90 
+days after the date of enactment of this subsection, the Commission 
+shall invite regulators of foreign boards of trade to participate in a 
+working group of international regulators to develop uniform 
+international reporting and regulatory standards to ensure the 
+protection of the energy and agricultural futures markets from 
+excessive speculation, manipulation, and other trading practices that 
+may pose systemic risks to energy and agricultural futures markets, 
+countries, and consumers.''.
+
+SEC. 6. POSITION LIMITS FOR ENERGY AND AGRICULTURAL COMMODITIES.
+
+    Section 4a of the Commodity Exchange Act (7 U.S.C. 6a) is amended--
+            (1) in subsection (a)--
+                    (A) by inserting ``(1)'' after ``(a)''; and
+                    (B) by adding after and below the end the 
+                following:
+            ``(2) In accordance with the standards set forth in 
+        paragraph (1) of this subsection and consistent with the good 
+        faith exception cited in subsection (b)(2), with respect to 
+        energy and agricultural commodities, the Commission, within 90 
+        days after the date of the enactment of this paragraph, shall 
+        issue a proposed rule, and within 180 days after issuance of 
+        such proposed rule shall adopt a final rule, after notice and 
+        an opportunity for public comment, to establish limits on the 
+        amount of positions that may be held by any person with respect 
+        to contracts of sale for future delivery or with respect to 
+        options on such contracts or commodities traded on or subject 
+        to the rules of a contract market or derivatives transaction 
+        execution facility, or on an electronic trading facility with 
+        respect to a significant price discovery contract.
+            ``(3) In establishing the limits required in paragraph (2), 
+        the Commission shall set limits--
+                    ``(A) on the number of positions that may be held 
+                by any person for the spot month, each other month, and 
+                the aggregate number of positions that may be held by 
+                any person for all months; and
+                    ``(B) to the maximum extent practicable, in its 
+                discretion--
+                            ``(i) to diminish, eliminate, or prevent 
+                        excessive speculation;
+                            ``(ii) to deter and prevent market 
+                        manipulation, squeezes, and corners;
+                            ``(iii) to ensure sufficient market 
+                        liquidity; and
+                            ``(iv) to ensure that the price discovery 
+                        function of the underlying cash market is not 
+                        distorted or disrupted.
+            ``(4) In addition to the position limits for energy and 
+        agricultural commodities that the Commission establishes under 
+        paragraph (2), the Commission may require or permit a contract 
+        market, derivatives transaction execution facility, or 
+        electronic trading facility with respect to a significant price 
+        discovery contract, to establish and enforce position 
+        accountability, as the Commission determines may be necessary 
+        and appropriate to accomplish the objectives set forth in 
+        paragraph (3)(B), provided that the number of positions that 
+        may be authorized under position accountability may not exceed 
+        the position limits established under paragraph (2).
+            ``(5) Nothing in this section shall require the Commission 
+        to revise any position limit for an agricultural commodity that 
+        is in effect on the date of enactment of this Act.''.
+
+SEC. 7. OVER-THE-COUNTER TRANSACTIONS.
+
+    Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is amended by 
+adding at the end the following:
+    ``(j) Over-the-Counter Transactions.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Covered person.--The term `covered person' 
+                means a person that enters into an over-the-counter 
+                transaction that is required to be reported under 
+                paragraph (3)(C).
+                    ``(B) Over-the-counter transaction.--The term 
+                `over-the-counter transaction' means a contract, 
+                agreement, or transaction in an energy or agricultural 
+                commodity that is--
+                            ``(i) entered into only between persons 
+                        that are eligible contract participants at the 
+                        time the persons enter into the agreement, 
+                        contract, or transaction;
+                            ``(ii) not entered into on a trading 
+                        facility; and
+                            ``(iii) not a sale of any cash commodity 
+                        for delivery.
+            ``(2) Authority in major market disturbances.--
+                    ``(A) In general.--In the case of a major market 
+                disturbance, as determined by the Commission, the 
+                Commission may require any trader subject to the 
+                reporting requirements described in paragraph (3) to 
+                take such action as the Commission considers to be 
+                necessary to maintain or restore orderly trading in any 
+                contract listed for trading on a registered entity, 
+                including--
+                            ``(i) the liquidation of any futures 
+                        contract; and
+                            ``(ii) the fixing of any limit that may 
+                        apply to a market position involving any over-
+                        the-counter transaction acquired in good faith 
+                        before the date of the determination of the 
+                        Commission.
+                    ``(B) Major market disturbance.--The term `major 
+                market disturbance' means any disturbance in a 
+                commodity market that disrupts the liquidity and price 
+                discovery function of that market from accurately 
+                reflecting the forces of supply and demand for a 
+                commodity, including--
+                            ``(i) a threatened or actual market 
+                        manipulation or corner;
+                            ``(ii) excessive speculation; and
+                            ``(iii) any action of the United States or 
+                        a foreign government that affects a commodity.
+                    ``(C) The term `market disturbance' shall be 
+                interpreted in a manner consistent with section 8a(9).
+                    ``(D) Judicial review.--Any action taken by the 
+                Commission under subparagraph (A) shall be subject to 
+                judicial review carried out in accordance with section 
+                8a(9).
+            ``(3) Reporting; recordkeeping.--
+                    ``(A) In general.--The Commission shall require 
+                each covered person to submit to the Commission a 
+                report--
+                            ``(i) at such time and in such manner as 
+                        the Commission determines to be appropriate; 
+                        and
+                            ``(ii) containing the information required 
+                        under subparagraph (B) to assist the Commission 
+                        in detecting and preventing potential price 
+                        manipulation of, or excessive speculation in, 
+                        any contract listed for trading on a registered 
+                        entity.
+                    ``(B) Contents of report.--A report required under 
+                subparagraph (A) shall contain--
+                            ``(i) information describing large trading 
+                        positions of the covered person obtained 
+                        through one or more over-the-counter 
+                        transactions that involve--
+                                    ``(I) substantial quantities of a 
+                                commodity in the cash market; or
+                                    ``(II) substantial positions, 
+                                investments, or trades in agreements or 
+                                contracts relating to the commodity; 
+                                and
+                            ``(ii) any other information relating to 
+                        over-the-counter transactions required to be 
+                        reported under subparagraph (C) carried out by 
+                        the covered person that the Commission 
+                        determines to be necessary to accomplish the 
+                        purposes described in subparagraph (A).
+                    ``(C) Over-the-counter transactions to be 
+                reported.--
+                            ``(i) In general.--The Commission shall 
+                        identify each large over-the-counter 
+                        transaction or class of large over-the-counter 
+                        transactions the reporting of which the 
+                        Commission determines to be appropriate to 
+                        assist the Commission in detecting and 
+                        preventing potential price manipulation of, or 
+                        excessive speculation in, any contract listed 
+                        for trading on a registered entity.
+                            ``(ii) Mandatory factors for 
+                        determinations.--
+                                    ``(I) In general.--In carrying out 
+                                a determination under clause (i), the 
+                                Commission shall consider the extent to 
+                                which each factor described in 
+                                subclause (II) applies.
+                                    ``(II) Factors.--The factors 
+                                required for carrying out a 
+                                determination under clause (i) include 
+                                whether--
+                                            ``(aa) a standardized 
+                                        agreement is used to execute 
+                                        the over-the-counter 
+                                        transaction;
+                                            ``(bb) the over-the-counter 
+                                        transaction settles against any 
+                                        price (including the daily or 
+                                        final settlement price) of one 
+                                        or more contracts listed for 
+                                        trading on a registered entity;
+                                            ``(cc) the price of the 
+                                        over-the-counter transaction is 
+                                        reported to a third party, 
+                                        published, or otherwise 
+                                        disseminated;
+                                            ``(dd) the price of the 
+                                        over-the-counter transaction is 
+                                        referenced in any other 
+                                        transaction;
+                                            ``(ee) there is a 
+                                        significant volume of the over-
+                                        the-counter transaction or 
+                                        class of over-the-counter 
+                                        transactions; and
+                                            ``(ff) there is any other 
+                                        factor that the Commission 
+                                        determines to be appropriate.
+                            ``(iii) Periodic review.--The Commission 
+                        shall periodically conduct a review, but not 
+                        less than once every 2 years, to determine 
+                        whether to initiate a rulemaking to include any 
+                        additional transactions or classes of 
+                        transactions or to exclude any transactions or 
+                        classes of transactions from the reporting 
+                        requirements of this paragraph.
+                    ``(D) Alternate reporting.--The Commission may 
+                permit any report required to be reported under 
+                paragraph (A) by--
+                            ``(i) a member of a derivatives clearing 
+                        organization; or
+                            ``(ii) only one of the persons entering 
+                        into the transaction, provided that each person 
+                        entering into the transaction or transactions 
+                        has notified the Commission, in the manner 
+                        specified by the Commission, that one of the 
+                        persons to the transaction or transactions has 
+                        assumed, on behalf of the other person to the 
+                        transaction, the legal obligations for such 
+                        other person to submit reports under this 
+                        section, including liabilities for failure to 
+                        file such reports in accordance with the 
+                        Commission's regulations. Any notification 
+                        provided under this paragraph shall be 
+                        effective in imposing such legal obligations 
+                        and liabilities upon such person.
+                    ``(E) Recordkeeping.--The Commission, by rule, 
+                shall require each covered person--
+                            ``(i) in accordance with section 4i, to 
+                        maintain such records as directed by the 
+                        Commission for a period of 5 years, or longer, 
+                        if directed by the Commission; and
+                            ``(ii) to provide such records upon request 
+                        to the Commission or the Department of Justice.
+            ``(4) Position limits for over-the-counter transactions.--
+        Upon review of the information reported to the Commission under 
+        paragraph (3), or following a major market disturbance as 
+        determined by the Commission under paragraph (2), the 
+        Commission may establish, after due notice and opportunity for 
+        hearing, by rule, regulation, or order, such limits on the 
+        amount of trading in over-the-counter transactions as the 
+        Commission determines are necessary and appropriate to 
+        accomplish one or more of the following objectives with respect 
+        to any contract listed for trading on a registered entity--
+                    ``(A) diminish, eliminate, or prevent excessive 
+                speculation;
+                    ``(B) deter and prevent market manipulation, 
+                squeezes, and corners;
+                    ``(C) ensure sufficient market liquidity; and
+                    ``(D) ensure that the price discovery function of 
+                the underlying cash market is not distorted or 
+                disrupted.
+            ``(5) Protection of proprietary information.--In carrying 
+        out this subsection, the Commission may not--
+                    ``(A) require the publication of any proprietary 
+                information;
+                    ``(B) prohibit the commercial sale or licensing of 
+                any proprietary information; and
+                    ``(C) except as provided in section 8, publicly 
+                disclose any information relating to any market 
+                position, business transaction, trade secret, or name 
+                of any customer of a covered person.
+            ``(6) Applicability.--Notwithstanding subsections (g) and 
+        (h), and any exemption issued by the Commission for any energy 
+        or agricultural commodity, each over-the-counter transaction 
+        shall be subject to this subsection.
+            ``(7) Savings clause.--Nothing in this subsection modifies 
+        or alters--
+                    ``(A) the guidance of the Commission; or
+                    ``(B) any applicable requirements with respect the 
+                disclosure of proprietary information.
+            ``(8) Bona fide hedging transaction review.--
+                    ``(A) In general.--The Commission shall review and 
+                revise the definition of bona fide hedging transaction 
+                in subsection (c) of Section 4a of the Commodity 
+                Exchange Act (7 U.S.C 2(h)(2)(A)) as the Commission 
+                determines is necessary and appropriate to ensure that 
+                the commodity markets effectively perform their risk 
+                management and price discovery functions.''.
+
+SEC. 8. INDEX TRADERS AND SWAP DEALERS.
+
+    Section 4 of the Commodity Exchange Act (7 U.S.C. 6) (as amended by 
+section 3) is amended by adding at the end the following:
+    ``(f) Index Traders and Swap Dealers.--Not later than 60 days after 
+the date of enactment of this subsection, the Commission shall--
+            ``(1) routinely require detailed reporting from index 
+        traders and swap dealers in markets under the jurisdiction of 
+        the Commission;
+            ``(2) reclassify the types of traders for regulatory and 
+        reporting purposes to distinguish between index traders and 
+        swaps dealers; and
+            ``(3) review the trading practices for index traders in 
+        markets under the jurisdiction of the Commission--
+                    ``(A) to ensure that index trading is not adversely 
+                impacting the price discovery process; and
+                    ``(B) to determine whether different practices or 
+                regulations should be implemented.''.
+
+SEC. 9. DISAGGREGATION OF INDEX FUNDS AND OTHER DATA IN ENERGY AND 
+              AGRICULTURAL MARKETS.
+
+    Section 4 of the Commodity Exchange Act (7 U.S.C. 6) (as amended by 
+section 8) is amended by adding at the end the following:
+    ``(g) Disaggregation of Index Funds and Other Data in Energy and 
+Agricultural Markets.--The Commission shall disaggregate and make 
+public monthly--
+            ``(1) the number of positions and total value of index 
+        funds and other passive, long-only positions in energy and 
+        agricultural markets; and
+            ``(2) data on speculative positions relative to bona fide 
+        physical hedgers in those markets.''.
+
+SEC. 10. ADDITIONAL COMMODITY FUTURES TRADING COMMISSION EMPLOYEES FOR 
+              IMPROVED ENFORCEMENT.
+
+    Section 2(a)(7) of the Commodity Exchange Act (7 U.S.C. 2(a)(7)) is 
+amended by adding at the end the following:
+                    ``(D) Additional employees.--As soon as practicable 
+                after the date of enactment of this subparagraph, the 
+                Commission shall appoint at least 100 full-time 
+                employees (in addition to the employees employed by the 
+                Commission as of the date of enactment of this 
+                subparagraph)--
+                            ``(i) to increase the public transparency 
+                        of operations in energy futures markets;
+                            ``(ii) to improve the enforcement of this 
+                        Act in those markets; and
+                            ``(iii) to carry out such other duties as 
+                        are prescribed by the Commission.''.
+                                 <all>
+

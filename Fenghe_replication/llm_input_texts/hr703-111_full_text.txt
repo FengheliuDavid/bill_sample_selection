@@ -1,0 +1,291 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 703 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 703
+
+ To promote bank liquidity and lending through deposit insurance, the 
+          HOPE for Homeowners Program, and other enhancements.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 27, 2009
+
+  Mr. Frank of Massachusetts introduced the following bill; which was 
+            referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To promote bank liquidity and lending through deposit insurance, the 
+          HOPE for Homeowners Program, and other enhancements.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. PERMANENT INCREASE IN DEPOSIT INSURANCE.
+
+    (a) Amendments to Federal Deposit Insurance Act.--Section 11(a)(1) 
+of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)) is amended--
+            (1) in paragraph (1)(E), by striking ``$100,000'' and 
+        inserting ``$250,000'';
+            (2) in paragraph (1)(F)(i), by striking ``2010'' and 
+        inserting ``2015'';
+            (3) in subclause (I) of paragraph (1)(F)(i), by striking 
+        ``$100,000'' and inserting ``$250,000'';
+            (4) in subclause (II) of paragraph (1)(F)(i), by striking 
+        ``the calendar year preceding the date this subparagraph takes 
+        effect under the Federal Deposit Insurance Reform Act of 2005'' 
+        and inserting ``calendar year 2008''; and
+            (5) in paragraph (3)(A)(iii), by striking ``, except that 
+        $250,000 shall be substituted for $100,000 wherever such term 
+        appears in such paragraph''.
+    (b) Repeal of EESA Provision.--Section 136 of the Emergency 
+Economic Stabilization Act (Public Law 110-343; 122 Stat. 3765) is 
+hereby repealed.
+    (c) Amendment to Federal Credit Union Act.--Section 207(k) of the 
+Federal Credit Union Act (12 U.S.C. 1787(k)) is amended--
+            (1) in paragraph (3)--
+                    (A) by striking the opening quotation mark before 
+                ``$250,000'';
+                    (B) by striking ``, except that $250,000 shall be 
+                substituted for $100,000 wherever such term appears in 
+                such section''; and
+                    (C) by striking the closing quotation mark after 
+                the closing parenthesis; and
+            (2) in paragraph (5), by striking ``$100,000'' and 
+        inserting ``$250,000''.
+
+SEC. 2. EXTENSION OF RESTORATION PLAN PERIOD.
+
+    Section 7(b)(3)(E)(ii) of the Federal Deposit Insurance Act (12 
+U.S.C. 1817(b)(3)(E)(ii)) is amended by striking ``5-year period'' and 
+inserting ``8-year period''.
+
+SEC. 3. FDIC BORROWING AUTHORITY.
+
+    Section 14(a) of the Federal Deposit Insurance Act (12 U.S.C. 
+1824(a)) is amended--
+            (1) by striking ``$30,000,000,000'' and inserting 
+        ``$100,000,000,000''; and
+            (2) by inserting prior to the last sentence, the following 
+        new sentence: ``The Corporation may request in writing to 
+        borrow, and the Secretary may authorize and approve the 
+        borrowing of, additional amounts above $100,000,000,000 to the 
+        extent that the Board of Directors and the Secretary determine 
+        such borrowing to be necessary.''.
+
+SEC. 4. FDIC SYSTEMIC RISK SPECIAL ASSESSMENTS.
+
+    Section 13(c)(4)(G)(ii) of the Federal Deposit Insurance Act (12 
+U.S.C. 1823(c)(4)(G)(ii)) is amended to read as follows:
+                            ``(ii) Repayment of loss.--
+                                    ``(I) In general.--The Corporation 
+                                shall recover the loss to the Deposit 
+                                Insurance Fund arising from any action 
+                                taken or assistance provided with 
+                                respect to an insured depository 
+                                institution under clause (i) from 1 or 
+                                more special assessments on insured 
+                                depository institutions, depository 
+                                institution holding companies (with the 
+                                concurrence of the Secretary of the 
+                                Treasury with respect to holding 
+                                companies), or both, as the Corporation 
+                                determines to be appropriate.
+                                    ``(II) Treatment of depository 
+                                institution holding companies.--For 
+                                purposes of this clause, sections 
+                                7(c)(2) and 18(h) shall apply to 
+                                depository institution holding 
+                                companies as if they were insured 
+                                depository institutions.
+                                    ``(III) Regulations.--The 
+                                Corporation shall prescribe such 
+                                regulations as it deems necessary to 
+                                implement this clause. In prescribing 
+                                such regulations, defining terms, and 
+                                setting the appropriate assessment rate 
+                                or rates, the Corporation shall 
+                                consider: the types of entities that 
+                                benefit from any action taken or 
+                                assistance provided under this 
+                                subparagraph; economic conditions; the 
+                                effects on the industry; and such other 
+                                factors as the Corporation deems 
+                                appropriate.''.
+
+SEC. 5. CHANGES TO HOPE FOR HOMEOWNERS PROGRAM.
+
+    Section 257 of the National Housing Act (12 U.S.C. 1715z-23) is 
+amended--
+            (1) in subsection (e)--
+                    (A) in paragraph (1), by striking subparagraph (B);
+                    (B) in paragraph (2)(B), by striking ``90 percent'' 
+                and inserting ``93 percent'';
+                    (C) by striking paragraph (7); and
+                    (D) by redesignating paragraphs (8), (9), (10), and 
+                (11) as paragraphs (7), (8), (9), and (10), 
+                respectively;
+            (2) in subsection (h)(2), by striking ``, or in any case in 
+        which a mortgagor fails to make the first payment on a 
+        refinanced eligible mortgage'';
+            (3) by striking subsection (i) and inserting the following 
+        new subsection:
+    ``(i) Annual Premiums.--
+            ``(1) In general.--For each refinanced eligible mortgage 
+        insured under this section, the Secretary shall establish and 
+        collect an annual premium in an amount equal to not less than 
+        0.55 percent of the amount of the remaining insured principal 
+        balance of the mortgage and not more than 0.75 percent of such 
+        remaining insured principal balance, as determined according to 
+        a schedule established by the Board that assigns such annual 
+        premiums based upon the credit risk of the mortgage.
+            ``(2) Reduction or termination during mortgage term.--
+        Notwithstanding paragraph (1), the Secretary may provide that 
+        the annual premiums charged for refinanced eligible mortgages 
+        insured under this section are reduced over the term of the 
+        mortgage or that the collection of such premiums is 
+        discontinued at some time during the term of the mortgage, in a 
+        manner that is consistent with policies for such reduction or 
+        discontinuation of annual premiums charged for mortgages in 
+        accordance with section 203(c).'';
+            (4) in subsection (k)--
+                    (A) by striking the subsection heading and 
+                inserting ``Exit Fee'';
+                    (B) in paragraph (1), in the matter preceding 
+                subparagraph (A), by striking ``such sale or 
+                refinancing'' and inserting ``the mortgage being 
+                insured under this section''; and
+                    (C) by striking paragraph (2);
+            (5) in subsection (s)(3)(A)(ii), by striking ``subsection 
+        (e)(1)(B) and such other'' and inserting ``such'';
+            (6) in subsection (v), by inserting after the period at the 
+        end the following: ``The Board shall conform documents, forms, 
+        and procedures for mortgages insured under this section to 
+        those in place for mortgages insured under section 203(b) to 
+        the maximum extent possible consistent with the requirements of 
+        this section.'';
+            (7) in subsection (w)(1)(C), by striking ``(e)(4)(A)'' and 
+        inserting ``(e)(3)(A)''; and
+            (8) by adding at the end the following new subsection:
+    ``(x) Payment to Existing Loan Servicer.--The Board may establish a 
+payment to the servicer of the existing senior mortgage for every loan 
+insured under the HOPE for Homeowners Program.''.
+
+SEC. 6. SERVICER SAFE HARBOR.
+
+    (a) Safe Harbor.--
+            (1) Loan modifications and workout plans.--Notwithstanding 
+        any other provision of law, and notwithstanding any investment 
+        contract between a servicer and a securitization vehicle or 
+        investor, a servicer that acts consistent with the duty set 
+        forth in section 129A(a) of Truth in Lending Act (15 U.S.C. 
+        1639a) shall not be liable for entering into a loan 
+        modification or workout plan with respect to any such mortgage 
+        that meets all of the criteria set forth in paragraph (2)(B) 
+        to--
+                    (A) any person, based on that person's ownership of 
+                a residential mortgage loan or any interest in a pool 
+                of residential mortgage loans or in securities that 
+                distribute payments out of the principal, interest and 
+                other payments in loans on the pool;
+                    (B) any person who is obligated to make payments 
+                determined in reference to any loan or any interest 
+                referred to in subparagraph (A); or
+                    (C) any person that insures any loan or any 
+                interest referred to in subparagraph (A) under any law 
+                or regulation of the United States or any law or 
+                regulation of any State or political subdivision of any 
+                State.
+            (2) Ability to modify mortgages.--
+                    (A) Ability.--Notwithstanding any other provision 
+                of law, and notwithstanding any investment contract 
+                between a servicer and a securitization vehicle or 
+                investor, a servicer--
+                            (i) shall not be limited in the ability to 
+                        modify mortgages, the number of mortgages that 
+                        can be modified, the frequency of loan 
+                        modifications, or the range of permissible 
+                        modifications; and
+                            (ii) shall not be obligated to repurchase 
+                        loans from or otherwise make payments to the 
+                        securitization vehicle on account of a 
+                        modification, workout, or other loss mitigation 
+                        plan for a residential mortgage or a class of 
+                        residential mortgages that constitute a part or 
+                        all of the mortgages in the securitization 
+                        vehicle,
+                if any mortgage so modified meets all of the criteria 
+                set forth in subparagraph (B).
+                    (B) Criteria.--The criteria under this subparagraph 
+                with respect to a mortgage are as follows:
+                            (i) Default on the payment of such mortgage 
+                        has occurred or is reasonably foreseeable.
+                            (ii) The property securing such mortgage is 
+                        occupied by the mortgagor of such mortgage.
+                            (iii) The servicer reasonably and in good 
+                        faith believes that the anticipated recovery on 
+                        the principal outstanding obligation of the 
+                        mortgage under the particular modification or 
+                        workout plan or other loss mitigation action 
+                        will exceed, on a net present value basis, the 
+                        anticipated recovery on the principal 
+                        outstanding obligation of the mortgage to be 
+                        realized through foreclosure.
+            (3) Applicability.--This subsection shall apply only with 
+        respect to modifications, workouts, and other loss mitigation 
+        plans initiated before January 1, 2012.
+    (b) Reporting.--Each servicer that engages in loan modifications or 
+workout plans subject to the safe harbor in subsection (a) shall report 
+to the Secretary on a regular basis regarding the extent, scope and 
+results of the servicer's modification activities. The Secretary shall 
+prescribe regulations specifying the form, content, and timing of such 
+reports.
+    (c) Definition of Securitization Vehicles.--For purposes of this 
+section, the term ``securitization vehicle'' means a trust, 
+corporation, partnership, limited liability entity, special purpose 
+entity, or other structure that--
+            (1) is the issuer, or is created by the issuer, of mortgage 
+        pass-through certificates, participation certificates, 
+        mortgage-backed securities, or other similar securities backed 
+        by a pool of assets that includes residential mortgage loans; 
+        and
+            (2) holds such mortgages.
+
+SEC. 7. AVAILABILITY OF TARP FUNDS TO SMALLER COMMUNITY INSTITUTIONS.
+
+    (a) Prompt Action.--The Secretary shall promptly take all necessary 
+actions to provide assistance under title I of the Emergency Economic 
+Stabilization Act of 2008 to smaller community financial institutions, 
+including such institutions that are privately held.
+    (b) Comparable Terms.--An institution that receives assistance 
+after the date of the enactment of the this Act, shall do so on terms 
+comparable to the terms applicable to institutions that received 
+assistance prior to the date of the enactment of this Act if the 
+institution--
+            (1) has submitted an application on which no action has 
+        been taken, such as institutions that are C corporations 
+        (including privately held institutions) and community 
+        development financial institutions; or
+            (2) is of a type for which the Secretary has not yet 
+        established an application deadline or for which any such 
+        deadline has not yet occurred as of the date of the enactment 
+        of this Act, such as institutions that are non-stock 
+        corporations, S-corporations, mutually owned insured depository 
+        institutions (as defined in section 3 of the Federal Deposit 
+        Insurance Act).
+    (c) Definitions.--For purposes of this section, the terms ``S 
+Corporation'' and ``C Corporation'' shall have the same meaning given 
+to those terms in section 1361(a) of the Internal Revenue Code of 1986.
+                                 <all>
+

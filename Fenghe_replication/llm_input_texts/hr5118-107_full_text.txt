@@ -1,0 +1,332 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5118 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 5118
+
+     To provide for enhanced penalties for accounting and auditing 
+  improprieties at publicly traded companies, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 15, 2002
+
+Mr. Sensenbrenner (for himself, Mr. Smith of Texas, Mr. Goodlatte, Mr. 
+ Gekas, Mr. Tauzin, Mr. Coble, Ms. Hart, and Mr. Hyde) introduced the 
+ following bill; which was referred to the Committee on the Judiciary, 
+and in addition to the Committee on Financial Services, for a period to 
+      be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+     To provide for enhanced penalties for accounting and auditing 
+  improprieties at publicly traded companies, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Corporate Fraud Accountability Act 
+of 2002''.
+
+SEC. 2. HIGHER MAXIMUM PENALTIES FOR MAIL AND WIRE FRAUD.
+
+    (a) Mail Fraud.--Section 1341 of title 18, United States Code, is 
+amended by striking ``five'' and inserting ``20''.
+    (b) Wire Fraud.--Section 1343 of title 18, United States Code, is 
+amended by striking ``five'' and inserting ``20''.
+    (c) Securities Fraud.--Chapter 63 of title 18, United States Code, 
+is amended by adding at the end the following:
+``Sec. 1348. Securities fraud
+    ``Whoever knowingly executes a scheme or artifice--
+            ``(1) to defraud any person in connection with any security 
+        registered under section 12 or 15(d) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78l, 78o(d)) or section 6 of the 
+        Securities Act of 1933 (15 U.S.C. 77f); or
+            ``(2) to obtain, by means of false or fraudulent pretenses, 
+        representations, or promises, any money or property in 
+        connection with the purchase or sale of any security registered 
+        under section 12 or 15(d) of the Securities Exchange Act of 
+        1934 (15 U.S.C. 78l, 78o(d)) or section 6 of the Securities Act 
+        of 1933 (15 U.S.C. 77f),
+shall be fined under this title, or imprisoned not more than 25 years, 
+or both.''.
+    (d) Clerical Amendment.--The table of sections at the beginning of 
+chapter 63 of title 18, United States Code, is amended by adding at the 
+end the following:
+
+``1348. Securities fraud.'.
+
+SEC. 3. TAMPERING WITH A RECORD OR OTHERWISE IMPEDING AN OFFICIAL 
+              PROCEEDING.
+
+    Section 1512 of title 18, United States Code, is amended--
+            (1) by redesignating subsections (c) through (i) as 
+        subsections (d) through (j), respectively; and
+            (2) by inserting after subsection (b) the following new 
+        subsection:
+    ``(c) Whoever corruptly--
+            ``(1) alters, destroys, mutilates, or conceals a record, 
+        document, or other object, or attempts to do so, with the 
+        intent to impair the object's integrity or availability for use 
+        in an official proceeding; or
+            ``(2) otherwise obstructs, influences, or impedes any 
+        official proceeding, or attempts to do so,
+shall be fined under this title or imprisoned not more than 20 years, 
+or both.''.
+
+SEC. 4. AMENDMENT TO THE FEDERAL SENTENCING GUIDELINES.
+
+    (a) Request for Immediate Consideration by the United States 
+Sentencing Commission.--Pursuant to its authority under section 994(p) 
+of title 28, United States Code, and in accordance with this section, 
+the United States Sentencing Commission is requested to--
+            (1) promptly review the sentencing guidelines applicable to 
+        securities and accounting fraud and related offenses;
+            (2) expeditiously consider the promulgation of new 
+        sentencing guidelines or amendments to existing sentencing 
+        guidelines to provide an enhancement for officers or directors 
+        of publicly traded corporations who commit fraud and related 
+        offenses; and
+            (3) submit to Congress an explanation of actions taken by 
+        the Sentencing Commission pursuant to paragraph (2) and any 
+        additional policy recommendations the Sentencing Commission may 
+        have for combating offenses described in paragraph (1).
+    (b) Considerations in Review.--In carrying out this section, the 
+Sentencing Commission is requested to--
+            (1) ensure that the sentencing guidelines and policy 
+        statements reflect the serious nature of securities, pension, 
+        and accounting fraud and the need for aggressive and 
+appropriate law enforcement action to prevent such offenses;
+            (2) assure reasonable consistency with other relevant 
+        directives and with other guidelines;
+            (3) account for any aggravating of mitigating circumstances 
+        that might justify exceptions, including circumstances for 
+        which the sentencing guidelines currently provide sentencing 
+        enhancements;
+            (4) ensure that guideline offense levels and enhancements 
+        for an obstruction of justice offense are adequate in cases 
+        where documents or other physical evidence are actually 
+        destroyed or fabricated;
+            (5) ensure that the guideline offense levels and 
+        enhancements under United States Sentencing Guideline 2B1.1 (as 
+        in effect on the date of enactment of this Act) are sufficient 
+        for a fraud offense when the number of victims adversely 
+        involved is significantly greater than 50;
+            (6) make any necessary conforming changes to the sentencing 
+        guidelines; and
+            (7) assure that the guidelines adequately meet the purposes 
+        of sentencing as set forth in section 3553(a)(2) of title 18, 
+        United States Code.
+    (c) Emergency Authority and Deadline For Commission Action.--The 
+United States Sentencing Commission is requested to promulgate the 
+guidelines or amendments provided for under this sections as soon as 
+practicable, and in any event not later than the 120 days after the 
+date of enactment of this Act, in accordance with the procedures set 
+forth in section 21(a) of the Sentencing Reform Act of 1987, as though 
+the authority under that Act had not expired.
+
+SEC. 5. DEBTS NONDISCHARGEABLE IF INCURRED IN VIOLATION OF SECURITIES 
+              FRAUD LAWS.
+
+    Section 523(a) of title 11, United States Code, is amended--
+            (1) in paragraph (17), by striking ``or'' after the 
+        semicolon;
+            (2) in paragraph (18), by striking the period at the end 
+        and inserting ``; or''; and
+            (3) by adding at the end, the following:
+            ``(19) that--
+                    ``(A) is a claim for--
+                            ``(i) the violation of any of the Federal 
+                        securities laws (as that term is defined in 
+                        section 3(a)(47) of the Securities Exchange Act 
+                        of 1934), any of the State securities laws, or 
+                        any regulation or order issued under such 
+                        Federal or State securities laws; or
+                            ``(ii) common law fraud, deceit, or 
+                        manipulation in connection with the purchase or 
+                        sale of any security; and
+                    ``(B) results, in relation to any claim described 
+                in subparagraph (A), from--
+                            ``(i) any judgment, order, consent order, 
+                        or decree entered in any Federal or State 
+                        judicial or administrative proceeding;
+                            ``(ii) any settlement agreement entered 
+                        into by the debtor; or
+                            ``(iii) any court or administrative order 
+                        for any damages, fine, penalty, citation, 
+                        restitutionary payment, disgorgement payment, 
+                        attorney fee, cost, or other payment owed by 
+                        the debtor.''.
+
+SEC. 6. CORPORATE RESPONSIBILITY FOR FINANCIAL REPORTS.
+
+    (a) In General.--Chapter 63 of title 18, United States Code, is 
+amended by adding at the end the following:
+``Sec. 1349. Failure of corporate officers to certify financial reports
+    ``(a) Certification of Periodic Financial Reports.--Each periodic 
+report containing financial statements filed by an issuer with the 
+Securities Exchange Commission pursuant to section 13(a) or 15(d) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78o(d)) shall 
+be accompanied by a written statement by the chairman of the board, 
+chief executive officer, and chief financial officer (or equivalent 
+thereof) of the issuer.
+    ``(b) Content.--The statement required under subsection (a) shall 
+certify that those financial statements fairly and accurately 
+represent, in all material respects, the operations and financial 
+condition of the issuer.
+    ``(c) Criminal Penalties.--Whoever--
+            ``(1) knowingly violates this section shall be fined not 
+        more than $1,000,000, or imprisoned not more than 10 years, or 
+        both; or
+            ``(2) willfully violates this section shall be fined not 
+        more than $5,000,000, or imprisoned not more than 20 years, or 
+        both.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 63 of title 18, United States Code, is amended by adding at the 
+end the following:
+
+``1349. Failure of corporate officers to certify financial reports.''.
+
+SEC. 7. ATTEMPTS AND CONSPIRACIES.
+
+    Section 1 of title 18 is amended to provide:
+``Sec. 1. Attempt and conspiracy
+    ``Any person who attempts or conspires to commit any offense 
+against the United States shall be subject to the same penalties as 
+those prescribed for the offense, the commission of which was the 
+object of the attempt or conspiracy.''.
+
+SEC. 8. INCREASED CRIMINAL PENALTIES UNDER SECURITIES EXCHANGE ACT OF 
+              1934.
+
+    Section 32(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78ff(a)) is amended--
+            (1) by striking ``$1,000,000, or imprisoned not more than 
+        10 years'' and inserting ``$5,000,000, or imprisoned not more 
+        than 20 years''; and
+            (2) by striking ``$2,500,000'' and inserting 
+        ``$25,000,000''.
+
+SEC. 9. TEMPORARY FREEZE AUTHORITY FOR THE SECURITIES AND EXCHANGE 
+              COMMISSION.
+
+    (a) In General.--Section 21C(c) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78u-3(c)) is amended by adding at the end the 
+following:
+            ``(3) Temporary freeze.--
+                    ``(A) In general.--
+                            ``(i) Issuance of temporary order.--
+                        Whenever, during the course of a lawful 
+                        investigation involving possible violations of 
+                        the Federal securities laws by an issuer of 
+                        publicly traded securities or any of its 
+                        directors, officers, partners, controling 
+persons, agents, or employees, it shall appear to the Commission that 
+it is likely that the issuer will make extraordinary payments (whether 
+compensation or otherwise) to any of the foregoing persons, the 
+Commission may petition a Federal district court for a temporary order 
+requiring the issuer to escrow, subject to court supervision, those 
+payments in an interest-bearing account for 45 days.
+                            ``(ii) Standard.--A temporary order shall 
+                        be entered under clause (i), only after notice 
+                        and opportunity for a hearing, unless the court 
+                        determines that notice and hearing prior to 
+                        entry of the order would be impracticable or 
+                        contrary to the public interest.
+                            ``(iii) Effective period.--A temporary 
+                        order issued under clause (i) shall--
+                                    ``(I) become effective immediately;
+                                    ``(II) be served upon the parties 
+                                subject to it; and
+                                    ``(III) unless set aside, limited 
+                                or suspended by a court of competent 
+                                jurisdiction, shall remain effective 
+                                and enforceable for 45 days.
+                            ``(iv) Extensions authorized.--The 
+                        effective period of an order under this 
+                        subparagraph may be extended by the court upon 
+                        good cause shown for not longer than 45 
+                        additional days, provided that the combined 
+                        period of the order shall not exceed 90 days.
+                    ``(B) Process on determination of violations.--
+                            ``(i) Violations charged.--If the issuer or 
+                        other person described in subparagraph (A) is 
+                        charged with any violation of the Federal 
+                        securities laws before the expiration of the 
+                        effective period of a temporary order under 
+                        subparagraph (A) (including any applicable 
+                        extension period), the order shall remain in 
+                        effect, subject to court approval, until the 
+                        conclusion of any legal proceedings related 
+                        thereto, and the affected issuer or other 
+                        person, shall have the right to petition the 
+                        court for review of the order.
+                            ``(ii) Violations not charged.--If the 
+                        issuer or other person described in 
+                        subparagraph (A) is not charged with any 
+                        violation of the Federal securities laws before 
+                        the expiration of the effective period of a 
+                        temporary order under subparagraph (A) 
+                        (including any applicable extension period), 
+                        the escrow shall terminate at the expiration of 
+                        the 45-day effective period (or the expiration 
+                        of any extension period, as applicable), and 
+                        the disputed payments (with accrued interest) 
+                        shall be returned to the issuer or other 
+                        affected person.''.
+    (b) Technical Amendment.--Section 21C(c)(2) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78u-3(c)(2)) is amended by striking 
+``This'' and inserting ``paragraph (1)''.
+
+SEC. 10. AUTHORITY OF THE COMMISSION TO PROHIBIT PERSONS FROM SERVING 
+              AS OFFICERS OR DIRECTORS.
+
+    (a) Securities Exchange Act of 1934.--Section 21C of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78u-3) is amended by adding at the end 
+the following:
+    ``(f) Authority of the Commission To Prohibit Persons From Serving 
+as Officers or Directors.--In any cease-and-desist proceeding under 
+subsection (a), the Commission may issue an order to prohibit, 
+conditionally or unconditionally, and permanently or for such period of 
+time as it shall determine, any person who has violated section 10(b) 
+or the rules or regulations thereunder, from acting as an officer or 
+director of any issuer that has a class of securities registered 
+pursuant to section, or that is required to file reports pursuant to 
+section (d), if the conduct of that person demonstrates unfitness to 
+serve as an officer or director of any such Issuer.''.
+    (b) Securities Act of 1933.--Section 8A of the Securities Act of 
+1933 (15 U.S.C. 77h-1) is amended by adding at the end of the 
+following:
+    ``(f) Authority of the Commission To Prohibit Persons From Serving 
+as Officers or Directors.--In any cease-and-desist proceeding under 
+subsection (a), the Commission may issue an order to prohibit, 
+conditionally or unconditionally, and permanently or for such period of 
+time as it shall determine, any person who has violated section 
+17(a)(1) or the rules or regulations thereunder, from acting as an 
+officer or director of any issuer that has a class of securities 
+registered pursuant to section of the Securities Exchange Act of 1934, 
+or that is required to file reports pursuant to section 15(d) of that 
+Act, if the conduct of that person demonstrates unfitness to serve as 
+an officer or director of any such issuer.''.
+                                 <all>
+

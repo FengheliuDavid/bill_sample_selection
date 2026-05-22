@@ -1,0 +1,93 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4084 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 4084
+
+   To amend the Securities Exchange Act of 1934 to prohibit certain 
+employees and shareholders from obtaining special loans, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 9, 2002
+
+  Ms. Rivers introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Securities Exchange Act of 1934 to prohibit certain 
+employees and shareholders from obtaining special loans, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Corporate Asset Protection Act of 
+2002''.
+
+SEC. 2. PROHIBITION ON SPECIAL EMPLOYEE OR SHAREHOLDER LOANS BY 
+              PUBLICLY TRADED COMPANIES.
+
+    (a) In General.--The Securities Exchange Act of 1934 (15 U.S.C. 78a 
+et seq.) is amended by inserting after section 21E the following new 
+section:
+
+``SEC. 21F. PROHIBITION ON INSIDER LOANS.
+
+    ``(a) Offering or Providing Loans.--A reporting issuer may not 
+offer or provide a loan to an insider and no insider may accept such a 
+loan, unless the issuer is a financial institution and the loan is not 
+substantially more advantageous for the insider than for an individual 
+who is not an insider.
+    ``(b) Civil Penalty.--The following persons shall each be liable to 
+the United States for a civil penalty, not to exceed the greater of 
+three times the amount of the loan that violates this section or 
+$100,000, imposed in an action brought by the Commission:
+            ``(1) A reporting issuer that offers or provides a loan in 
+        violation of subsection (a).
+            ``(2) An official who has exercised decisionmaking 
+        authority on behalf of a reporting issuer with respect to a 
+        loan that violates subsection (a).
+            ``(3) An insider who obtains a loan in knowing violation of 
+        subsection (a).
+    ``(c) Definitions.--In this section:
+            ``(1) The term `reporting issuer' means any registrant 
+        under section 12 or any other issuer required to file periodic 
+        reports under section 13 or 15, or an affiliate (including a 
+        wholly owned subsidiary) of such registrant or issuer.
+            ``(2) The term `insider' means an individual who is an 
+        employee, officer, board member, shareholder, consultant, or 
+        independent contractor of a reporting issuer, or any entity in 
+        which such an individual has an ownership interest greater than 
+        1 percent (in accordance with regulations of the Commission to 
+        determine such ownership interest).
+            ``(3) The term `financial institution' has the meaning 
+        given that term in section 509 of the Gramm-Leach-Bliley Act 
+        (15 U.S.C. 6809).
+    ``(d) Rulemaking.--The Commission may prescribe regulations to 
+carry out this section.''.
+    (b) Conforming Amendment.--Section 32(a) of such Act (15 U.S.C. 
+78ff(a)) is amended by inserting ``or section 21F'' after ``other than 
+section 30A''.
+                                 <all>
+

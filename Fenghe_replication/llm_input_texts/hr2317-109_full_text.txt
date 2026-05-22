@@ -1,0 +1,591 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2317 Introduced in House (IH)]
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 2317
+
+  To modernize credit union net worth standards, advance credit union 
+ efforts to promote economic growth, and modify and ease credit union 
+       regulatory standards and burdens, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 12, 2005
+
+ Mr. Royce (for himself, Mr. Kanjorski, Mr. LaTourette, Mrs. Maloney, 
+ Mr. Tancredo, Mr. Sanders, Mr. Boehlert, Mr. Gutierrez, Mr. Burton of 
+  Indiana, Mr. Case, Mr. Brown of South Carolina, Ms. Jackson-Lee of 
+ Texas, Mr. Paul, Mr. Chabot, Mr. Cannon, Mr. Cunningham, Mr. Kuhl of 
+  New York, and Mr. Sherman) introduced the following bill; which was 
+            referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To modernize credit union net worth standards, advance credit union 
+ efforts to promote economic growth, and modify and ease credit union 
+       regulatory standards and burdens, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Credit Union Regulatory Improvements 
+Act of 2005''.
+
+                        TITLE I--CAPITAL REFORM
+
+SEC. 101. AMENDMENTS TO NET WORTH CATEGORIES.
+
+    Section 216(c)(1) of the Federal Credit Union Act (12 U.S.C. 
+1790d(c)(1)) is amended as follows:
+            (1) Well capitalized.--
+                    (A) In subparagraph (A)(i), by striking ``7 
+                percent'' and inserting ``5 percent''.
+                    (B) In subparagraph (A)(ii), by striking ``it meets 
+                any applicable risk-based net worth requirement under 
+                subsection (d) of this section'' and inserting ``it has 
+                a risk-based net worth ratio of not less than 8 
+                percent''.
+            (2) Adequately capitalized.--
+                    (A) In subparagraph (B)(i), by striking ``6 
+                percent'' and inserting ``4 percent''.
+                    (B) In subparagraph (B)(ii), by striking ``it meets 
+                any applicable risk-based net worth requirement under 
+                subsection (d) of this section'' and inserting ``it has 
+                a risk-based net worth ratio of not less than 8 
+                percent''.
+            (3) Under capitalized.--
+                    (A) In subparagraph (C)(i), by striking ``6 
+                percent'' and inserting ``4 percent''.
+                    (B) In subparagraph (C)(ii), by striking ``it fails 
+                to meet any applicable risk-based net worth requirement 
+                under subsection (d)'' and inserting ``it has a risk-
+                based net worth ratio of less than 8 percent''.
+            (4) Significantly undercapitalized.--
+                    (A) In that portion of subparagraph (D) that 
+                precedes clause (i), by inserting ``if'' after 
+                ```significantly undercapitalized'''.
+                    (B) In subparagraph (D)(i)--
+                            (i) by striking ``if'';
+                            (ii) by striking ``4 percent'' and 
+                        inserting ``3 percent''; and
+                            (iii) by striking ``or'' after the 
+                        semicolon.
+                    (C) By striking clause (ii) of subparagraph (D) and 
+                inserting the following new clauses:
+                            ``(ii) the insured credit union has a risk-
+                        based net worth ratio of less than 6 percent; 
+                        or
+                            ``(iii) the insured credit union has a net 
+                        worth ratio of less than 4 percent, and--
+                                    ``(I) fails to submit an acceptable 
+                                net worth restoration plan within the 
+                                time allowed under subsection (f); or
+                                    ``(II) materially fails to 
+                                implement a net worth restoration plan 
+                                accepted by the Board.''.
+            (5) Relevant capital measures.--Section 216(c)(2) is 
+        amended by striking ``leverage limit'' and inserting ``relevant 
+        capital measures''.
+
+SEC. 102. AMENDMENTS RELATING TO RISK-BASED NET WORTH REQUIREMENTS.
+
+    (a) In General.--Section 216(d) of the Federal Credit Union Act (12 
+U.S.C. 1790d(d)) is amended--
+            (1) in paragraph (1)--
+                    (A) by striking ``that are complex, as defined by 
+                the Board''; and
+                    (B) by inserting ``, as defined by the Board'' 
+                before the period at the end; and
+            (2) by striking paragraph (2) and inserting the following 
+        new paragraph:
+            ``(2) Standard.--The Board shall design the risk-based net 
+        worth requirement in relation to risk assets, as defined by the 
+        Board, to take account of any material risks to insured credit 
+        unions, based on comparable standards for taking into account 
+        material risks to insured depository institutions under the 
+        Federal Deposit Insurance Act that are applicable to credit 
+        unions.''.
+    (b) Technical and Conforming Amendment.--The heading for subsection 
+(d) of section 216 of the Federal Credit Union Act (12 U.S.C. 1790d(d)) 
+is amended by striking ``for Complex Credit Unions''.
+
+SEC. 103. TREATMENT BASED ON OTHER CRITERIA.
+
+    Section 216(h)(2) of the Federal Credit Union Act (12 U.S.C. 
+1790d(h)(2)) is amended by inserting ``, except to reclassify an 
+insured credit union into the next lower net worth category, based on 
+interest rate risk, to the extent any such reclassification by a 
+delegatee may be reviewed by the Board,'' after ``to reclassify an 
+insured credit union into a lower net worth category''.
+
+SEC. 104. DEFINITIONS RELATING TO NET WORTH.
+
+    (a) Net Worth.--Section 216(o)(2) of the Federal Credit Union Act 
+(12 U.S.C. 1790d(o)(2)) is amended--
+            (1) in subparagraph (A)--
+                    (A) by inserting ``the'' before ``retained earnings 
+                balance''; and
+                    (B) by inserting ``, together with any amounts that 
+                were previously retained earnings of any other credit 
+                union with which the credit union has combined'' before 
+                the semicolon at the end; and
+            (2) in subparagraph (B), by inserting ``, subject to 
+        paragraph (6),'' after ``includes''.
+    (b) Secondary Capital Accounts.--Section 216(o) of the Federal 
+Credit Union Act (12 U.S.C. 1790d(o)) is amended by adding at the end 
+the following new paragraph:
+            ``(6) Secondary capital accounts for purposes of 
+        determining net worth.--The Board may establish, by regulation, 
+        the following limitations on the secondary capital accounts 
+        that may be included for purposes of determining the net worth 
+        of any low-income credit union pursuant to paragraph (2)(B):
+                    ``(A) A limitation on the initial maturity of any 
+                such account.
+                    ``(B) A reduction or limitation on the net worth 
+                valuation of any such account based on the remaining 
+                period to maturity.
+                    ``(C) Any other limitation the Board determines to 
+                be appropriate, for safety and soundness purposes, with 
+                respect to credit unions that are not defined as small 
+                credit unions by the Board.''.
+    (c) Net Worth Ratio.--Paragraph (3) of section 216(o) of the 
+Federal Credit Union Act (12 U.S.C. 1790d(o)(3)) is amended--
+            (1) by inserting ``minus the credit union's deposit in the 
+        Fund'' after ``net worth of the credit union''; and
+            (2) by inserting ``minus the credit union's deposit in the 
+        Fund'' after ``total assets of the credit union''.
+    (d) Risk-Based Net Worth Ratio.--Section 216(o) of the Federal 
+Credit Union Act (12 U.S.C. 1790d)(o)) is amended by inserting after 
+paragraph (4) the following new paragraph:
+            ``(5) Risk-based net worth ratio.--The term `risk-based net 
+        worth ratio' means, with respect to any credit union, the ratio 
+        of--
+                    ``(A) the sum of the amount of the net worth of the 
+                credit union and the amount of the loan loss reserves 
+                held by the credit union (subject to such limits on the 
+                extent to which loan loss reserves may be taken into 
+                account for purposes of determining such ratio as the 
+                Board may prescribe), minus the amount of the credit 
+                union's deposit in the Fund; to
+                    ``(B) the amount of the risk assets of the credit 
+                union,
+        as defined by the Board by regulation.''.
+
+SEC. 105. AMENDMENTS RELATING TO NET WORTH RESTORATION PLANS.
+
+    (a) Short-Term Waiver of Requirement for Net Worth Restoration Plan 
+Allowed Under Certain Circumstances.--
+            (1) In general.--Subsection (f) of section 216 of the 
+        Federal Credit Union Act (12 U.S.C. 1790d(f)) is amended by 
+        adding at the end the following new paragraph:
+            ``(6) Short-term waiver for certain marginally 
+        undercapitalized credit unions.--The Board may, by order on a 
+        case-by-case basis, waive the applicability of the requirement 
+        for an undercapitalized credit union to submit an acceptable 
+        net worth restoration plan to the Board if the Board determines 
+        that--
+                    ``(A) the loss of adequately capitalized status by 
+                the credit union is growth-related;
+                    ``(B) the credit union is only marginally 
+                undercapitalized; and
+                    ``(C) the credit union will only remain 
+                undercapitalized for a relatively short period of 
+                time.''.
+            (2) Technical and conforming amendment.--Paragraph (1) of 
+        section 216(f) of the Federal Credit Union Act (12 U.S.C. 
+        1790d(f)(1)) is amended by inserting ``(other than a credit 
+        union for which an order under paragraph (6) is in effect)'' 
+        after ``credit union that is undercapitalized''.
+    (b) Treatment of Approval of Plan.--Paragraph (2) of section 216(e) 
+of the Federal Credit Union Act (12 U.S.C. 1790d(e)(2)) is amended by 
+inserting ``, or approve a net worth restoration plan of such credit 
+union that by its terms provides for such a decrease,'' after ``to a 
+credit union''.
+    (c) Board Action May Include Order to Credit Union.--Subparagraph 
+(B) of section 216(i)(1) of the Federal Credit Union Act (12 U.S.C. 
+1790d(i)(1)(B)) is amended--
+            (1) by inserting ``, in the discretion of the Board,'' 
+        after ``as the Board''; and
+            (2) by inserting ``including issuing an order to the credit 
+        union requiring the credit union to take action that the Board 
+        determines would achieve such purpose,'' after ``the purpose of 
+        this section,''.
+    (d) Substitution of 3-Month Period for Calendar Quarter.--
+Subparagraph (A) of section 216(i)(3) of the Federal Credit Union Act 
+(12 U.S.C. 1790d(i)(3)(A)) is amended--
+            (1) by striking ``calendar quarter'' and inserting ``3-
+        month period''; and
+            (2) by inserting ``first'' after ``the date on which the 
+        credit union''.
+    (e) Clarification of Coordination Requirement.--Clause (ii) of 
+section 216(l)(3)(A) of the Federal Credit Union Act (12 U.S.C. 
+1790d(l)(3)(A)) is amended by inserting ``if the Board determines that 
+such action by the official will carry out the purposes of this 
+section''.
+
+                       TITLE II--ECONOMIC GROWTH
+
+SEC. 201. LIMITS ON MEMBER BUSINESS LOANS.
+
+    Section 107A(a) of the Federal Credit Union Act (12 U.S.C. 
+1757a(a)) is amended by striking ``the lesser of--'' and all that 
+follows and inserting ``20 percent of the total assets of the credit 
+union.''.
+
+SEC. 202. DEFINITION OF MEMBER BUSINESS LOAN.
+
+    Section 107A(c)(1)(B)(iii) of the Federal Credit Union Act (12 
+U.S.C. 1757a(c)(1)(B)(iii)) is amended by striking ``$50,000'' and 
+inserting ``an amount, not to exceed $100,000, that the Board shall 
+prescribe by regulation''.
+
+SEC. 203. RESTRICTION ON MEMBER BUSINESS LOANS.
+
+    Section 216(g)(2) of the Federal Credit Union Act (12 U.S.C. 
+1790d(g)(2)) is amended by striking ``until such time as the credit 
+union becomes adequately capitalized'' and inserting ``unless otherwise 
+approved by the Board''.
+
+SEC. 204. MEMBER BUSINESS LOAN EXCLUSION FOR LOANS TO NONPROFIT 
+              RELIGIOUS ORGANIZATIONS.
+
+    Section 107A(a) of the Federal Credit Union Act (12 U.S.C. 
+1757a(a)) is amended by inserting ``, excluding loans made to nonprofit 
+religious organizations,'' after ``total amount of such loans''.
+
+SEC. 205. CREDIT UNIONS AUTHORIZED TO LEASE SPACE IN BUILDINGS IN 
+              CREDIT UNION OFFICES IN UNDERSERVED AREAS.
+
+    Section 107 of the Federal Credit Union Act (12 U.S.C. 1757) is 
+amended--
+            (1) by striking ``and'' at the end of paragraph (16);
+            (2) by redesignating paragraph (17) as paragraph (18);
+            (3) by inserting after paragraph (16) the following new 
+        paragraph:
+            ``(17) with regard to any building purchased or constructed 
+        by the credit union for a credit union office or credit union 
+        operations in an underserved area, to lease office space in 
+        such building that is separate and clearly distinct from any 
+        office or operation of the credit union to any business 
+        enterprise, subject to such regulations the Board may 
+        prescribe, taking into account the safety and soundness of the 
+        credit union; and'';
+            (4) in the matter preceding paragraph (1) by striking ``A 
+        Federal credit union'' and inserting ``(a) In General.--Any 
+        Federal credit union''; and
+            (5) adding at the end the following new subsection:
+    ``(c) Underserved Area Defined.--For purposes of subsection 
+(a)(17), the term `underserved area' means an area consisting of 1 or 
+more census tracts that have--
+            ``(1) a poverty rate of 20 percent or greater, based on the 
+        most recent census data; or
+            ``(2) a median family income that does not exceed 80 
+        percent of the greater of--
+                    ``(A) the median family income for the metropolitan 
+                area in which such census tract or tracts are located; 
+                or
+                    ``(B) the median family income for the State in 
+                which such census tract or tracts are located.''.
+
+                  TITLE III--REGULATORY MODERNIZATION
+
+SEC. 301. LEASES OF LAND ON FEDERAL FACILITIES FOR CREDIT UNIONS.
+
+    (a) In General.--Section 124 of the Federal Credit Union Act (12 
+U.S.C. 1770) is amended--
+            (1) by striking ``Upon application by any credit union'' 
+        and inserting ``Notwithstanding any other provision of law, 
+        upon application by any credit union'';
+            (2) by inserting ``on lands reserved for the use of, and 
+        under the exclusive or concurrent jurisdiction of, the United 
+        States or'' after ``officer or agency of the United States 
+        charged with the allotment of space'';
+            (3) by inserting ``lease land or'' after ``such officer or 
+        agency may in his or its discretion''; and
+            (4) by inserting ``or the facility built on the leased 
+        land'' after ``credit union to be served by the allotment of 
+        space''.
+    (b) Clerical Amendment.--The heading for section 124 is amended by 
+inserting ``or on federal land'' after ``buildings''.
+
+SEC. 302. INVESTMENTS IN SECURITIES BY FEDERAL CREDIT UNIONS.
+
+    Section 107 of the Federal Credit Union Act (12 U.S.C. 1757) (as 
+amended by section 205 of this Act) is amended by inserting after 
+subsection (a) the following new subsection:
+    ``(b) Investment for the Credit Union's Own Account.--
+            ``(1) In general.--In addition to the investments 
+        authorized in subsection (a), a Federal credit union may 
+        purchase and hold for its own account such investment 
+        securities of investment grade as the Board may authorize by 
+        regulation, subject to such limitations and restrictions as the 
+        Board may prescribe in the regulations.
+            ``(2) Percentage limitations.--
+                    ``(A) Single obligor.--In no event may the total 
+                amount of investment securities of any single obligor 
+                or maker held by a Federal credit union for the credit 
+                union's own account exceed at any time an amount equal 
+                to 10 percent of the net worth of the credit union.
+                    ``(B) Aggregate investments.--In no event may the 
+                aggregate amount of investment securities held by a 
+                Federal credit union for the credit union's own account 
+                exceed at any time an amount equal to 10 percent of the 
+                assets of the credit union.
+            ``(3) Investment security defined.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term `investment security' means marketable 
+                obligations evidencing the indebtedness of any person 
+                in the form of bonds, notes, or debentures and other 
+                instruments commonly referred to as investment 
+                securities.
+                    ``(B) Further definition by board.--The Board may 
+                further define the term `investment security'.
+            ``(4) Investment grade defined.--The term `investment 
+        grade' means with respect to an investment security purchased 
+        by a credit union for its own account, an investment security 
+        that at the time of such purchase is rated in one of the 4 
+        highest rating categories by at least 1 nationally recognized 
+        statistical rating organization.
+            ``(5) Clarification of prohibition on stock ownership.--No 
+        provision of this subsection shall be construed as authorizing 
+        a Federal credit union to purchase shares of stock of any 
+        corporation for the credit union's own account, except as 
+        otherwise permitted by law.''.
+
+SEC. 303. INCREASE IN GENERAL 12-YEAR LIMITATION OF TERM OF FEDERAL 
+              CREDIT UNION LOANS TO 15 YEARS.
+
+    Section 107(a)(5) of the Federal Credit Union Act (12 U.S.C. 
+1757(5)) (as so designated by section 205 of this Act) is amended--
+            (1) in the matter preceding subparagraph (A), by striking 
+        ``to make loans, the maturities of which shall not exceed 
+        twelve years except as otherwise provided herein'' and 
+        inserting ``to make loans, the maturities of which shall not 
+        exceed 15 years or any longer maturity as the Board may allow, 
+        in regulations, except as otherwise provided in this Act'';
+            (2) in subparagraph (A)--
+                    (A) by striking clause (ii);
+                    (B) by redesignating clauses (iii) through (x) as 
+                clauses (ii) through (ix), respectively; and
+                    (C) by inserting ``and'' after the semicolon at the 
+                end of clause (viii) (as so redesignated).
+
+SEC. 304. INCREASE IN 1 PERCENT INVESTMENT LIMIT IN CREDIT UNION 
+              SERVICE ORGANIZATIONS.
+
+    Section 107(a)(7)(I) of the Federal Credit Union Act (12 U.S.C. 
+1757(7)(I)) (as so designated by section 205 of this Act) is amended by 
+striking ``up to 1 per centum of the total paid'' and inserting ``up to 
+3 percent of the total paid''.
+
+SEC. 305. CHECK CASHING AND MONEY TRANSFER SERVICES OFFERED WITHIN THE 
+              FIELD OF MEMBERSHIP.
+
+    Paragraph (12) of section 107(a) of the Federal Credit Union Act 
+(12 U.S.C. 1757(12)) (as so designated by 205 of this Act) is amended 
+to read as follows:
+            ``(12) in accordance with regulations prescribed by the 
+        Board--
+                    ``(A) to sell, to persons in the field of 
+                membership, negotiable checks (including travelers 
+                checks), money orders, and other similar money transfer 
+                instruments (including international and domestic 
+                electronic fund transfers); and
+                    ``(B) to cash checks and money orders and receive 
+                international and domestic electronic fund transfers 
+                for persons in the field of membership for a fee;''.
+
+SEC. 306. VOLUNTARY MERGERS INVOLVING MULTIPLE COMMON-BOND CREDIT 
+              UNIONS.
+
+    Section 109(d)(2) of the Federal Credit Union Act (12 U.S.C. 
+1759(d)(2)) is amended--
+            (1) by striking ``or'' at the end of clause (ii) of 
+        subparagraph (B);
+            (2) by striking the period at the end of subparagraph (C) 
+        and inserting ``; or''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(D) a merger involving any such Federal credit 
+                union approved by the Board on or after August 7, 
+                1998.''.
+
+SEC. 307. CONVERSIONS OF CERTAIN CREDIT UNIONS TO A COMMUNITY CHARTER.
+
+    Section 109(g) of the Federal Credit Union Act (12 U.S.C. 1759(g)) 
+is amended by inserting after paragraph (2) the following new 
+paragraph:
+            ``(3) Criteria for continued membership of certain member 
+        groups in community charter conversions.--In the case of a 
+        voluntary conversion of a credit union described in paragraph 
+        (1) or (2) of subsection (b) into a community credit union 
+        described in subsection (b)(3), the Board shall prescribe, by 
+        regulation, the criteria under which the Board may determine 
+        that a member group or other portion of a credit union's 
+        existing membership, that is located outside the well-defined 
+        local community, neighborhood, or rural district that shall 
+        constitute the community charter, can be satisfactorily served 
+        by the credit union and remain within the community credit 
+        union's field of membership permitting new members to be added 
+        from such groups.''.
+
+SEC. 308. CREDIT UNION GOVERNANCE.
+
+    (a) Expulsion of Members for Just Cause.--Subsection (b) of section 
+118 of the Federal Credit Union Act (12 U.S.C. 1764(b)) is amended to 
+read as follows:
+    ``(b) Policy and Actions of Boards of Directors of Federal Credit 
+Unions.--
+            ``(1) Expulsion of members for nonparticipation or for just 
+        cause.--The board of directors of a Federal credit union may, 
+        by majority vote of a quorum of directors, adopt and enforce a 
+        policy with respect to expulsion from membership, by a majority 
+        vote of such board of directors, based on just cause, including 
+        disruption of credit union operations, or on nonparticipation 
+        by a member in the affairs of the credit union.
+            ``(2) Written notice of policy to members.--If a policy 
+        described in paragraph (1) is adopted, written notice of the 
+        policy as adopted and the effective date of such policy shall 
+        be provided to--
+                    ``(A) each existing member of the credit union not 
+                less than 30 days prior to the effective date of such 
+                policy; and
+                    ``(B) each new member prior to or upon applying for 
+                membership.''.
+    (b) Term Limits Authorized for Board Members of Federal Credit 
+Unions.--Section 111(a) of the Federal Credit Union Act (12 U.S.C. 
+1761(a)) is amended by adding at the end the following new sentence: 
+``The bylaws of a Federal credit union may limit the number of 
+consecutive terms any person may serve on the board of directors of 
+such credit union.''.
+    (c) Reimbursement for Lost Wages Due to Service on Credit Union 
+Board not Treated as Compensation.--Section 111(c) of the Federal 
+Credit Union Act (12 U.S.C. 1761(c)) is amended by inserting ``, 
+including lost wages,'' after ``the reimbursement of reasonable 
+expenses''.
+
+SEC. 309. PROVIDING THE NATIONAL CREDIT UNION ADMINISTRATION WITH 
+              GREATER FLEXIBILITY IN RESPONDING TO MARKET CONDITIONS.
+
+    Section 107(a)(5)(A)(vi)(I) of the Federal Credit Union Act (12 
+U.S.C. 1757(5)(A)(vi)(I)) (as so designated and amended by sections 205 
+and 303 of this Act) is amended by striking ``six-month period and that 
+prevailing interest rate levels'' and inserting ``6-month period or 
+that prevailing interest rate levels''.
+
+SEC. 310. CREDIT UNION CONVERSION VOTING REQUIREMENTS.
+
+    Section 205(b)(2)(B) of the Federal Credit Union Act (12 U.S.C. 
+1785(b)(2)(B)) is amended by inserting ``, in a vote in which at least 
+20 percent of the credit union membership participates'' before the 
+period at the end.
+
+SEC. 311. EXEMPTION FROM PRE-MERGER NOTIFICATION REQUIREMENT OF THE 
+              CLAYTON ACT.
+
+    Section 7A(c)(7) of the Clayton Act (15 U.S.C. 18a(c)(7)) is 
+amended by inserting ``section 205(b)(3) of the Federal Credit Union 
+Act (12 U.S.C. 1785(b)(3)),'' before ``or section 3''.
+
+SEC. 312. TREATMENT OF CREDIT UNIONS AS BANKS UNDER SECURITIES LAWS.
+
+    (a) Definition of Bank Under the Securities Exchange Act of 1934.--
+Section 3(a)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78c(a)(6)) is amended--
+            (1) by striking ``this title, and (D) a receiver'' and 
+        inserting ``this title, (D) an insured credit union (as defined 
+        in section 101(7) of the Federal Credit Union Act) but only for 
+        purposes of paragraphs (4) and (5) of this subsection and only 
+        for activities otherwise authorized by applicable laws to which 
+        such credit unions are subject, and (E) a receiver''; and
+            (2) in subparagraph (E) (as so redesignated by paragraph 
+        (1) of this subsection) by striking ``(A), (B), or (C)'' and 
+        inserting ``(A), (B), (C), or (D)''.
+    (b) Definition of Bank Under the Investment Advisers Act of 1940.--
+Section 202(a)(2) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2(a)(2)) is amended--
+            (1) by striking ``this title, and (D) a receiver'' and 
+        inserting ``this title, (D) an insured credit union (as defined 
+        in section 101(7) of the Federal Credit Union Act) but only for 
+        activities otherwise authorized by applicable laws to which 
+        such credit unions are subject, and (E) a receiver''; and
+            (2) in subparagraph (E) (as so redesignated by paragraph 
+        (1) of this subsection) by striking ``(A), (B), or (C)'' and 
+        inserting ``(A), (B), (C), or (D)''.
+    (c) Definition of Appropriate Federal Banking Agency Under the 
+Securities Exchange Act of 1934.--Section 3(a)(34) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78c(a)(34)) is amended--
+            (1) in subparagraph (A)--
+                    (A) by striking ``and'' at the end of clause (iii);
+                    (B) by redesignating clause (iv) as clause (v); and
+                    (C) by inserting the following new clause after 
+                clause (iii):
+                            ``(iv) the National Credit Union 
+                        Administration Board, in the case of an insured 
+                        credit union (as defined in section 101(7) of 
+                        the Federal Credit Union Act) or a subsidiary 
+                        or a department or division of any such insured 
+                        credit union; and'';
+            (2) in subparagraph (B)--
+                    (A) by striking ``and'' at the end of clause (iii);
+                    (B) by redesignating clause (iv) as clause (v); and
+                    (C) by inserting the following new clause after 
+                clause (iii):
+                            ``(iv) the National Credit Union 
+                        Administration Board, in the case of an insured 
+                        credit union (as defined in section 101(7) of 
+                        the Federal Credit Union Act) or a subsidiary 
+                        of any such insured credit union; and'';
+            (3) in subparagraph (C)--
+                    (A) by striking ``and'' at the end of clause (iii);
+                    (B) by redesignating clause (iv) as clause (v); and
+                    (C) by inserting the following new clause after 
+                clause (iii):
+                            ``(iv) the National Credit Union 
+                        Administration Board, in the case of an insured 
+                        credit union (as defined in section 101(7) of 
+                        the Federal Credit Union Act) or a subsidiary 
+                        of any such insured credit union; and'';
+            (4) in subparagraph (D)--
+                    (A) by striking ``and'' at the end of clause (ii);
+                    (B) by redesignating clause (iii) as clause (iv); 
+                and
+                    (C) by inserting the following new clause after 
+                clause (ii):
+                            ``(iii) the National Credit Union 
+                        Administration Board, in the case of an insured 
+                        credit union (as defined in section 101(7) of 
+                        the Federal Credit Union Act); and''; and
+            (5) in subparagraph (F)--
+                    (A) by redesignating clauses (ii), (iii), and (iv) 
+                as clauses (iii), (iv), and (v), respectively; and
+                    (B) by inserting the following new clause after 
+                clause (i):
+                            ``(ii) the National Credit Union 
+                        Administration Board, in the case of an insured 
+                        credit union (as defined in section 101(7) of 
+                        the Federal Credit Union Act);''.
+    (d)  Definition of Appropriate Federal Banking Agency Under the 
+Investment Advisers Act of 1940.--Section 210A(c) of the Investment 
+Advisers Act of 1940 (15 U.S.C. 80b-10a(c)) is amended by inserting 
+``and includes the National Credit Union Administration Board, in the 
+case of an insured credit union (as defined in section 101(7) of the 
+Federal Credit Union Act)'' before the period at the end.
+                                 <all>
+

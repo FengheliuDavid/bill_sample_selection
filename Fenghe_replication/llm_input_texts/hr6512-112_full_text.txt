@@ -1,0 +1,59 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6512 Introduced in House (IH)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 6512
+
+  To amend the Securities Exchange Act of 1934 to require nationally 
+   recognized statistical rating organizations to certify that they 
+monitor the accuracy of each credit ratings issued by the organization.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 21, 2012
+
+ Mr. Fitzpatrick introduced the following bill; which was referred to 
+                  the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Securities Exchange Act of 1934 to require nationally 
+   recognized statistical rating organizations to certify that they 
+monitor the accuracy of each credit ratings issued by the organization.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Credible Ratings Act of 2012''.
+
+SEC. 2. PROCEDURES AND METHODOLOGIES ATTESTATION REQUIREMENT.
+
+    Section 15E(c)(3)(B) of the Securities Exchange Act of 1934 (15 
+U.S.C. 78o-7(c)(3)(B)) is amended--
+            (1) in clause (ii), by striking ``and'' at the end;
+            (2) by redesignating clause (iii) as clause (iv); and
+            (3) by inserting after clause (ii) the following:
+                            ``(iii) a certification that the nationally 
+                        recognized statistical rating organization 
+                        monitors credit ratings issued by the 
+                        organization, on at least a quarterly basis, to 
+                        ensure that they are as accurate as possible 
+                        based on the organization's procedures and 
+                        methodologies furnished to the Commission 
+                        pursuant to subsection (a)(1)(B)(ii), as 
+                        applied to the most recently available data; 
+                        and''.
+                                 <all>
+

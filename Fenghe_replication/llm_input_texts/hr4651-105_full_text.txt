@@ -1,0 +1,1158 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4651 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                H. R. 4651
+
+To make minor and technical amendments relating to Federal criminal law 
+                             and procedure.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 28, 1998
+
+  Mr. McCollum (for himself and Mr. Conyers) introduced the following 
+       bill; which was referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To make minor and technical amendments relating to Federal criminal law 
+                             and procedure.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Federal Criminal Law Improvements 
+Act of 1998''.
+
+         TITLE I--AMENDMENTS RELATING TO COURTS AND SENTENCING
+
+SEC. 101. ELIMINATION OF OUTMODED CERTIFICATION REQUIREMENT.
+
+    Section 3731 of title 18, United States Code, is amended in the 
+second paragraph by striking ``, if the United States attorney 
+certifies to the district court that the appeal is not taken for 
+purpose of delay and that the evidence is a substantial proof of a fact 
+material in the proceeding''.
+
+SEC. 102. CORRECTION OF ABERRANT STATUTES TO PERMIT IMPOSITION OF BOTH 
+              A FINE AND IMPRISONMENT RATHER THAN ONLY EITHER PENALTY.
+
+    (a) Contempt Power.--Section 401 of title 18, United States Code, 
+is amended by inserting ``or both,'' after ``fine or imprisonment,''.
+    (b) Destruction of Letter Boxes.--Section 1705 of title 18, United 
+States Code, is amended by inserting ``, or both'' after ``years''.
+    (c) Various Breaches of Official Duty.--Sections 1916, 2234, and 
+2235 of title 18, United States Code, are each amended by inserting ``, 
+or both'' after ``year''.
+
+SEC. 103. ALLOWING A REDUCTION OF SENTENCE FOR PROVIDING USEFUL 
+              INVESTIGATIVE INFORMATION ALTHOUGH NOT REGARDING A 
+              PARTICULAR INDIVIDUAL.
+
+    Section 3553(e) of title 18, United States Code, section 994(n) of 
+title 28, United States Code, and Rule 35(b) of the Federal Rules of 
+Criminal Procedure are each amended by striking ``substantial 
+assistance in the investigation or prosecution of another person who 
+has committed an offense'' and inserting ``substantial assistance in an 
+investigation of any offense or the prosecution of another person who 
+has committed an offense''.
+
+SEC. 104. APPEALS FROM CERTAIN DISMISSALS.
+
+    Section 3731 of title 18, United States Code, is amended by 
+inserting ``or any part thereof'' after ``as to any one or more 
+counts''.
+
+SEC. 105. IMPROVEMENT OF HATE CRIMES SENTENCING PROCEDURE.
+
+    Section 280003(b) of Public Law 103-322 is amended by striking 
+``the finder of fact at trial'' and inserting ``the court at 
+sentencing''.
+
+SEC. 106. CLARIFICATION OF LENGTH OF SUPERVISED RELEASE TERMS IN 
+              CONTROLLED SUBSTANCE CASES.
+
+    Sections 401(b)(1)(A), (B), (C), and (D) of the Controlled 
+Substances Act (21 U.S.C. 841(b)(1)(A), (B), (C), and (D)) are each 
+amended by striking ``Any sentence'' and inserting ``Notwithstanding 
+section 3583 of title 18, United States Code, any sentence''.
+
+SEC. 107. AUTHORITY OF COURT TO IMPOSE A SENTENCE OF PROBATION OR 
+              SUPERVISED RELEASE WHEN REDUCING A SENTENCE OF 
+              IMPRISONMENT IN CERTAIN CASES.
+
+    Section 3582(c)(1)(A) of title 18, United States Code, is amended 
+by inserting ``(and may impose a sentence of probation or supervised 
+release with or without conditions)'' after ``may reduce the term of 
+imprisonment''.
+
+SEC. 108. GOOD TIME CALCULATION FOR FOREIGN PRISONERS TRANSFERRED TO 
+              THE UNITED STATES.
+
+    (a) In General.--Section 4105(c) of title 18, United States Code, 
+is amended--
+            (1) in paragraph (1) by inserting ``by the Bureau of 
+        Prisons and deducted from the sentence imposed by the foreign 
+        court'' after ``These credits shall be combined'';
+            (2) by redesignating paragraphs (3) and (4) as paragraphs 
+        (5) and (6), respectively; and
+            (3) by inserting after paragraph (2) the following:
+    ``(3) If the term of imprisonment under section 4106A(b)(1)(A) is 
+less than or equal to the total sentence imposed and certified by the 
+foreign authorities on the basis of considerations other than the 
+limitation arising under section 4106A(b)(1)(C), the Bureau of Prisons 
+shall calculate credits for satisfactory behavior at the rate provided 
+in section 3624(b) and computed on the basis of the term of 
+imprisonment under section 4106A(b)(1)(A). If the credits calculated 
+under this paragraph produce a release date that is earlier than the 
+release date otherwise determined under this section, the release date 
+calculated under this paragraph shall apply to the transferred 
+offender.
+    ``(4) Upon release from prison, the offender shall commence service 
+of any period of supervised release established pursuant to section 
+4106A(b)(1)(A), and the balance of the foreign sentence remaining at 
+the time of release from prison shall not be reduced by credits for 
+satisfactory behavior, or labor, or any other credit that has been 
+applied to establish the offender's release date.''.
+    (b) Conforming Amendment.--Section 4106A(b)(1)(A) of title 18, 
+United States Code, is amended by striking ``release date'' and 
+inserting ``term of imprisonment''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to offenders transferred to the custody of the Attorney General 
+on or after the date of enactment of this Act.
+
+  TITLE II--AMENDMENTS RELATING TO WHITE COLLAR AND OTHER NONVIOLENT 
+                                 CRIME
+
+SEC. 201. ADDITION OF ATTEMPTED THEFT AND COUNTERFEITING OFFENSES TO 
+              ELIMINATE GAPS AND INCONSISTENCIES IN COVERAGE.
+
+    Title 18, United States Code, is amended--
+            (1) in section 153(a), by inserting ``, or attempts to do 
+        so,'' after ``any property'';
+            (2) in section 641, by inserting ``or attempts to do so'' 
+        after ``agency thereof'' the second place it appears;
+            (3) in section 655, by inserting ``or attempts to steal or 
+        so take,'' after ``unlawfully takes,'';
+            (4) in each of sections 656 and 657--
+                    (A) by inserting ``, or attempts to do so,'' after 
+                ``willfully misapplies''; and
+                    (B) by inserting ``or attempted to be embezzled, 
+                abstracted, purloined, or misapplied'' after 
+                ``misapplied'';
+            (5) in section 658, by inserting ``or attempts to do so,'' 
+        before ``shall be fined'';
+            (6) in section 659--
+                    (A) in the first and third paragraphs by inserting 
+                ``or attempts to embezzle, steal, or so take or carry 
+                away,'' after ``carries away,''; and
+                    (B) in the fourth paragraph by inserting ``or 
+                attempts to embezzle, steal, or so take,'' before 
+                ``from any railroad car'';
+            (7) in section 661--
+                    (A) by inserting ``, or attempts to do so,'' after 
+                ``of another''; and
+                    (B) by inserting ``or attempted to be taken'' after 
+                ``taken'' each place it appears;
+            (8) in section 664, by inserting ``or attempts to do so,'' 
+        before ``shall be fined'';
+            (9) in section 665(a)--
+                    (A) by inserting ``, or attempts to do so,'' before 
+                ``shall be fined''; and
+                    (B) by inserting ``or attempted to be embezzled, 
+                misapplied, stolen, or obtained by fraud'' after 
+                ``obtained by fraud'';
+            (10) in section 666(a)(1)(A), by inserting ``or attempts to 
+        do so,'' after ``property'';
+            (11) in section 1025--
+                    (A) by inserting ``or attempts to obtain'' after 
+                ``obtains''; and
+                    (B) by inserting ``or attempted to be obtained'' 
+                after ``obtained'';
+            (12) in section 1163, by inserting ``attempts so to 
+        embezzle, steal, convert, or misapply,'' after ``willfully 
+        misapplies,'';
+            (13) in each of subsections (a) and (b) of section 1167, by 
+        inserting ``or attempts to do so,'' before ``shall be fined'';
+            (14) in each of subsections (a) and (b) of section 1168, by 
+        inserting ``or attempts to do so,'' before ``shall be fined'';
+            (15) in section 1707--
+                    (A) by inserting ``, or attempts to steal, purloin, 
+                or embezzle,'' before ``any property''; and
+                    (B) by inserting ``or attempts to appropriate'' 
+                after ``appropriates'';
+            (16) in the second paragraph of section 1708 by inserting 
+        ``or attempts to steal, take, or abstract,'' after 
+        ``abstracts,'';
+            (17) in section 1709--
+                    (A) by inserting ``or attempts to embezzle'' after 
+                ``embezzles''; and
+                    (B) by inserting ``, or attempts to steal, 
+                abstract, or remove,'' after ``removes'';
+            (18) in section 1711, by inserting ``or attempts to loan, 
+        use, pledge, hypothecate, or convert to his own use'' after 
+        ``use'';
+            (19) in each of the paragraphs of section 2113(b), by 
+        inserting ``or attempts to do so,'' before ``shall be fined'';
+            (20) in section 477, by inserting ``, or attempts to do 
+        so'' after ``other person'';
+            (21) in section 479, by inserting ``or attempts to utter or 
+        pass,'' after ``passes,'';
+            (22) in section 490, by inserting ``attempts to pass, 
+        utter, or sell,'' before ``or possesses''; and
+            (23) in section 513(a), by inserting ``or attempts to 
+        utter,'' after ``utters''.
+
+SEC. 202. CLARIFICATION OF SCIENTER REQUIREMENT FOR RECEIVING PROPERTY 
+              STOLEN FROM AN INDIAN TRIBAL ORGANIZATION.
+
+    Section 1163 of title 18, United States Code, is amended in the 
+second paragraph by striking ``so''.
+
+SEC. 203. LARCENY INVOLVING POST OFFICE BOXES AND POSTAL STAMP VENDING 
+              MACHINES.
+
+    Section 2115 of title 18, United States Code, is amended--
+            (1) by striking ``or'' before ``any building'';
+            (2) by inserting ``or any post office box or postal stamp 
+        vending machine for the sale of stamps owned by the Postal 
+        Service,'' after ``used in whole or in part as a post 
+        office,''; and
+            (3) by inserting ``or in such box or machine,'' after ``so 
+        used,''.
+
+SEC. 204. THEFT OF VESSELS.
+
+    (a) Definition.--Section 2311 of title 18, United States Code, is 
+amended by adding at the end the following:
+    ```Vessel' means any watercraft or other contrivance used or 
+designed for transportation or navigation on, under, or immediately 
+above, water.''.
+    (b) Offenses.--Sections 2312 and 2313(a) of title 18, United States 
+Code, are each amended by striking ``motor vehicle or aircraft'' and 
+inserting ``motor vehicle, vessel, or aircraft''.
+
+SEC. 205. CONFORMING AMENDMENT TO LAW PUNISHING OBSTRUCTION OF JUSTICE 
+              BY NOTIFICATION OF EXISTENCE OF A SUBPOENA FOR RECORDS IN 
+              CERTAIN TYPES OF INVESTIGATIONS.
+
+    Section 1510(b)(3)(B) of title 18, United States Code, is amended--
+            (1) by striking ``or'' at the end of clause (i);
+            (2) by striking the period and inserting ``; or'' at the 
+        end of clause (ii); and
+            (3) by adding the following new clause:
+                    ``(iii) the Controlled Substances Act, the 
+                Controlled Substances Import and Export Act, or section 
+                6050I of the Internal Revenue Code of 1986.''.
+
+SEC. 206. CONFORMING AMENDMENT TO INJUNCTION AGAINST FRAUD STATUTE.
+
+    Section 1345(a)(2) of title 18, United States Code, is amended by 
+inserting ``violation of this chapter or section 287, 371 (insofar as 
+such violation involves a conspiracy to defraud the United States or 
+any agency thereof), or 1001 of this title or of a'' after ``as a 
+result of a''.
+
+SEC. 207. INJUNCTIONS AGAINST COUNTERFEITING AND FORGERY.
+
+    (a) In General.--Chapter 25 of title 18, United States Code, is 
+amended by adding at the end the following new section:
+``Sec. 515. Injunctions against counterfeiting and forgery
+    ``(a)(1) If a person is violating or about to violate any provision 
+of this chapter, the Attorney General may commence a civil action in 
+any Federal court to enjoin such violation.
+    ``(2) A permanent or temporary injunction or restraining order 
+shall be granted without bond.
+    ``(b) The court shall proceed as soon as practicable to the hearing 
+and determination of such an action, and may, at any time before final 
+determination, enter such a restraining order or prohibition, or take 
+such other action as is warranted in its discretion. A proceeding under 
+this section is governed by the Federal Rules of Civil Procedure, 
+except that, if an indictment has been returned against the respondent, 
+discovery is governed by the Federal Rules of Criminal Procedure.''.
+    (b) In General.--The table of sections at the beginning of chapter 
+25 of title 18, United States Code, is amended by adding at the end the 
+following item:
+
+``515. Injunctions against counterfeiting and forgery.''.
+
+SEC. 208. CORRECTION OF ERROR IN PERJURY RECANTATION STATUTE.
+
+    Section 1623(d) of title 18, United States Code, is amended by 
+striking ``or'' the second place it appears and inserting ``and''.
+
+SEC. 209. AMENDMENT OF INTERSTATE TRAVEL FRAUD STATUTE TO COVER TRAVEL 
+              BY PERPETRATOR.
+
+    Section 2314 of title 18, United States Code, is amended in the 
+second undesignated paragraph by inserting ``travels in,'' before 
+``transports or causes to be transported, or induces any person or 
+persons to travel in''.
+
+SEC. 210. CONFORMING STATUTE OF LIMITATIONS AMENDMENT FOR CERTAIN BANK 
+              FRAUD OFFENSES.
+
+    Section 3293 of title 18, United States Code, is amended--
+            (1) by inserting ``225,'' after ``215,''; and
+            (2) by inserting ``1032,'' before ``1033''.
+
+SEC. 211. COVERAGE OF FOREIGN BANK BRANCHES IN THE TERRITORIES.
+
+    Section 20(9) of title 18, United States Code, is amended by 
+inserting before the period following: ``, except that for purposes of 
+this section the definition of the term ``State'' in such Act shall be 
+deemed to include a commonwealth, territory, or possession of the 
+United States''.
+
+                  TITLE III--MISCELLANEOUS AMENDMENTS
+
+SEC. 301. CONFORMING AMENDMENTS RELATING TO SUPERVISED RELEASE.
+
+    (a) Tampering With a Witness, Victim, or Informant.--Sections 
+1512(a)(1)(C), 1512(b)(3), 1512(c)(2), 1513(a)(1)(B), and 1513(b)(2) of 
+title 18, United States Code, are each amended by striking ``violation 
+of conditions of probation, parole, or release pending judicial 
+proceedings'' and inserting ``violation of conditions of probation, 
+supervised release, parole, or release pending judicial proceedings''.
+    (b) Release or Detention Pending Trial.--Section 3142 of title 18, 
+United States Code, is amended--
+            (1) in subsection (d)(1)(A)(iii), by inserting ``, 
+        supervised release,'' after ``probation''; and
+            (2) in subsection (g)(3)(B), by inserting ``or supervised 
+        release'' after ``probation''.
+
+SEC. 302. REPEAL OF OUTMODED PROVISIONS BARRING FEDERAL PROSECUTION OF 
+              CERTAIN OFFENSES.
+
+    (a) Title 18 Offenses.--Title 18, United States Code, is amended--
+            (1) in each of sections 659 and 2117, by striking the first 
+        sentence of the last undesignated paragraph;
+            (2) in section 660, by striking the last undesignated 
+        paragraph; and
+            (3) in section 2101, by striking subsection (c) and by 
+        redesignating subsections (d), (e), and (f) as subsections (c), 
+        (d), and (e), respectively.
+    (b) Investment Company Act of 1940.--Section 37 of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-36) is amended by striking the last 
+sentence.
+
+SEC. 303. STRENGTHENING OF STATUTE PUNISHING EVASION OR EMBEZZLEMENT OF 
+              CUSTOMS DUTIES.
+
+    Section 542 of title 18, United States Code, is amended--
+            (1) by striking ``two years'' and inserting ``five years''; 
+        and
+            (2) by inserting after the third undesignated paragraph the 
+        following:
+    ``This section shall not be construed to require proof of any 
+mental state with respect to whether the defendant's willful act or 
+omission would deprive the Government of any lawful duties.''.
+
+SEC. 304. CLARIFYING OR CONFORMING AMENDMENTS ARISING FROM THE 
+              ENACTMENT OF PUBLIC LAW 103-322.
+
+    (a) Juvenile Delinquency.--Section 5032 of title 18, United States 
+Code, is amended by striking ``1111, 1113'' and inserting ``1111, 1112, 
+1113''.
+    (b) Definition of ``Sells''.--Section 704(b)(2) of title 18, United 
+States Code, is amended by striking ``with respect to a Congressional 
+Medal of Honor''.
+    (c) Controlled Substances Offenses.--Section 408 of the Controlled 
+Substances Act (21 U.S.C. 848) is amended--
+            (1) by striking subsections (g) through (p), (q)(1) through 
+        (3), and (r); and
+            (2) by redesignating subsection (q)(4) through (10) as 
+        subsection (f)(1) through (7).
+    (d) Clarifying or Conforming Amendments to Sections 2261, 2261A, 
+and 2262.--
+            (1) Section 2261A of title 18, United States Code, is 
+        amended by striking ``injure or harass'' and inserting 
+        ``injure, harass, or intimidate'';
+            (2)(A) Sections 2261(b)(3) and 2262(b)(3) of title 18, 
+        United States Code, are each amended by inserting ``(as defined 
+        in section 2119(2) of this title)'' after ``serious bodily 
+        injury'';
+            (B) Section 2261A of title 18, United States Code, is 
+        amended by striking ``section 1365(g)(3)'' and inserting 
+        ``section 2119(2)'';
+            (3)(A) Section 2261 of title 18, United States Code, is 
+        amended--
+                    (i) in subsection (a)(1), by striking ``with the 
+                intent to injure, harass, or intimidate'' and inserting 
+                ``with the intent to kill, injure, harass, or 
+                intimidate''; and
+                    (ii) in subsection (a)(1) and (a)(2), by inserting 
+                ``or death'' after ``and thereby causes bodily 
+                injury'';
+            (B) Section 2262 of title 18, United States Code, is 
+        amended--
+                    (i) in subsection (a)(1), by inserting ``or death'' 
+                after ``bodily injury''; and
+                    (ii) in subsection (a)(2), by striking ``commits an 
+                act that injures'' and inserting ``commits an act that 
+                causes bodily injury or death to''.
+
+SEC. 305. CONFORMING ADDITION TO OBSTRUCTION OF CIVIL INVESTIGATIVE 
+              DEMAND STATUTE.
+
+    Section 1505 of title 18, United States Code, is amended by 
+inserting ``section 1968 or 3486 of this title or'' before ``the 
+Antitrust Civil Process Act''.
+
+SEC. 306. ELIMINATION OF PROOF OF VALUE REQUIREMENT FOR FELONY THEFT OR 
+              CONVERSION OF GRAND JURY MATERIAL.
+
+    Section 641 of title 18, United States Code, is amended by striking 
+``but if the value of such property does not exceed the sum of $1,000, 
+he'' and inserting ``but if the value of such property, other than 
+property constituting `matters occurring before the grand jury' within 
+the meaning of Rule 6(e) of the Federal Rules of Criminal Procedure, 
+does not exceed the sum of $1,000,''.
+
+SEC. 307. CLARIFICATION OF INAPPLICABILITY OF 18 UNITED STATES CODE 
+              2515 TO CERTAIN DISCLOSURES.
+
+    Section 2515 of title 18, United States Code, is amended by adding 
+at the end the following: ``This section does not apply to the 
+disclosure by the United States, a State, or political subdivision in a 
+criminal trial or hearing or before a grand jury of the contents of a 
+wire or oral communication, or evidence derived therefrom, the 
+interception of which was in violation of section 2511(2)(d) (relating 
+to certain interceptions not involving governmental misconduct).''.
+
+SEC. 308. CLARIFICATION OF JURISDICTIONAL BASE INVOLVING THE MAIL.
+
+    Section 2422(b) of title 18, United States Code, is amended--
+            (1) by inserting ``the mail or'' after ``using''; and
+            (2) by striking ``including the mail,''.
+
+SEC. 309. AMENDMENT TO SECTION 1547 TO CONFORM TO ENACTMENT OF THE 
+              IMMIGRATION BILL.
+
+    Section 1547 of title 18, United States Code, is amended by 
+striking ``under this chapter (other than an offense under section 
+1545)'' and inserting ``under section 1546(b)''.
+
+SEC. 310. EXPANDED JURISDICTION OVER CHILD BUYING AND SELLING OFFENSES.
+
+    Section 2251A(c)(3) of title 18, United States Code, is amended by 
+striking ``in any territory or possession of the United States'' and 
+inserting ``in the special maritime and territorial jurisdiction of the 
+United States or in any commonwealth, territory, or possession of the 
+United States''.
+
+SEC. 311. CONFORMING AMENDMENT RELATING TO FLUNITRAZEPAM PENALTIES.
+
+    Section 401(b) of the Controlled Substances Act (21 U.S.C. 841(b)) 
+is amended--
+            (1) in paragraph (1)(C), by striking ``1 gram of'' before 
+        ``flunitrazepam,''; and
+            (2) in paragraph (1)(D), by striking ``or 30 milligrams of 
+        flunitrazepam,''.
+
+SEC. 312. AMENDMENT OF STATUTE PROHIBITING THE BRINGING OF HAZARDOUS 
+              SUBSTANCES ABOARD AN AIRCRAFT.
+
+    Section 46312 of title 49, United States Code, is amended--
+            (1) by inserting ``(a) In General.--'' before ``A person''; 
+        and
+            (2) by adding at the end the following:
+    ``(b) State of Mind Requirement.--Knowledge by the person of the 
+existence of a regulation or requirement prescribed by the Secretary is 
+not an element of an offense under this section.''.
+
+SEC. 313. DEFINITION OF STATE FOR CHAPTER 123.
+
+    Section 2725 of title 18, United States Code, is amended--
+            (1) by striking ``and'' at the end of paragraph (2);
+            (2) by striking the period and inserting ``; and'' at the 
+        end of paragraph (3); and
+            (3) by adding the following new paragraph at the end:
+            ``(4) `State' means a State of the United States, the 
+        District of Columbia, or any commonwealth, territory, or 
+        possession of the United States.''.
+
+SEC. 314. MINOR AND CONFORMING AMENDMENTS TO CHAPTER 90.
+
+    (a) Definition of State.--Section 1839 of title 18, United States 
+Code, is amended--
+            (1) by striking ``and'' at the end of paragraph (3);
+            (2) by striking the period and inserting ``; and'' at the 
+        end of paragraph (4); and
+            (3) by adding the following new paragraph at the end:
+            ``(5) the term `State' means a State of the United States, 
+        the District of Columbia, or any commonwealth, territory, or 
+        possession of the United States.''.
+    (b) Conforming Amendment.--Section 1838 of title 18, United States 
+Code, is amended by striking ``United States Federal, State, 
+commonwealth, possession, or territory law'' and inserting ``United 
+States or State law''.
+
+SEC. 315. COMMISSION AMENDMENTS.
+
+    (a) Salary Level Increase for Executive Director.--Section 
+806(d)(3) of Public Law 104-132 (110 Stat.1307) is amended by striking 
+the period at the end and inserting ``, except that the rate of pay for 
+Executive Director may not exceed the rate payable for Level IV of the 
+Executive Schedule under section 5316 of that title.''.
+    (b) Expedited Administrative Support.--Section 806(d) of Public Law 
+104-132 (110 Stat.1307) is amended by adding at the end the following:
+            ``(4) Details to commission without reimbursement.-- Any 
+        Federal Government employee may be detailed to the Commission 
+        without reimbursement from the Commission, and such detailee 
+        shall retain the rights, status, and privileges of his or her 
+        regular employment without interruption.''.
+            ``(5) Expedited security clearances.--The Commission and 
+        selected staff designated by the Chairman shall be granted the 
+        necessary security clearances in an accelerated manner subject 
+        to the standard procedures for granting such clearances.''.
+
+SEC. 316. ELIMINATION OF SENTENCING INEQUITIES FOR DRUG OFFENDERS.
+
+    (a) In General.--Subparagraph (B) of section 3621(e)(2) of title 
+18, United States Code, is amended to read as follows:
+                    ``(B) Administration of treatment programs.--The 
+                Attorney General shall ensure through the use of all 
+                appropriate and available incentives and sanctions that 
+                eligible prisoners undergo a program of substance abuse 
+                treatment.''.
+    (b) Conforming Amendment.--The heading for paragraph (2) of section 
+3621(e) of title 18, United States Code, is amended by striking 
+``Incentive for prisoners' successful completion of treatment program'' 
+and inserting ``Treatment requirement''.
+    (c) Eligibility.--Clause (ii) of section 3621(e)(5)(B) of title 18, 
+United States Code, is amended to read as follows:
+                            ``(ii) within 24 months of the date of 
+                        release, or is otherwise designated by the 
+                        Bureau of Prisons for participation in a 
+                        residential substance abuse treatment program; 
+                        and''.
+
+SEC. 317. SENTENCING GUIDELINES AMENDMENT PROCESS.
+
+    Section 2(g) of the No Electronic Theft (NET) Act is amended by 
+inserting ``as though the authority under that Act had not expired'' 
+after ``18 U.S.C. 994 note)''.
+
+SEC. 318. TECHNICAL AMENDMENT TO RESTORE WIRETAP AUTHORITY FOR CERTAIN 
+              MONEY LAUNDERING OFFENSES.
+
+    Section 2516(1)(g) of title 18, United States Code, is amended by 
+striking ``a violation of section 5322 of title 31, United States Code 
+(dealing with the reporting of currency transactions)'' and inserting 
+``a violation of section 5322 or 5324 of title 31, United States Code 
+(dealing with the reporting and illegal structuring of currency 
+transactions)''.
+
+SEC. 319. APPLICABILITY OF LEAVE PROVISIONS TO EMPLOYEES OF THE UNITED 
+              STATES SENTENCING COMMISSION.
+
+    (a) In General.--Section 996(b) of title 28, United States Code, is 
+amended--
+            (1) by striking ``the following chapters:'' and inserting 
+        ``the following:'';
+            (2) by inserting ``Chapters'' before ``45'';
+            (3) by inserting ``63 (Leave),'' before ``81''; and
+            (4) by striking ``Insurance).'' and inserting ``Insurance), 
+        and subchapter VI of chapter 55 (Payment for accumulated and 
+        accrued leave).''.
+    (b) Savings Provision.--Any leave that an individual accrued or 
+accumulated (or that otherwise became available to such individual) 
+under the leave system of the United States Sentencing Commission and 
+that remains unused as of the date of enactment of this Act shall, on 
+and after such date of enactment, be treated as leave accrued or 
+accumulated (or that otherwise became available to such individual) 
+under chapter 63 of title 5, United States Code.
+
+      TITLE IV--AMENDMENTS RELATING TO VIOLENT CRIME AND TERRORISM
+
+SEC. 401. AMENDMENTS TO ANTI-TERRORISM STATUTES.
+
+    (a) Modification of Definition of ``Biological Agent''.--Section 
+178 of title 18, United States Code, is amended--
+            (1) in paragraph (1), by striking ``means any 
+        microorganism, virus, or infectious substance, or biological 
+        product that may be engineered as a result of biotechnology, or 
+        any naturally occurring or bioengineered component of any such 
+        microorganism, virus, infectious substance, or biological 
+        product'' and inserting the following: ``means any 
+        microorganism (including bacteria, viruses, fungi, rickettsiae, 
+        or protozoa), or infectious substance, or any naturally 
+        occurring, bioengineered or synthesized component of any such 
+        microorganism or infectious substance'';
+            (2) in paragraph (2), by striking ``means the toxic 
+        material of plants, animals, microorganisms, viruses, fungi, or 
+        infectious substances, or a recombinant molecule, whatever its 
+        origin or method of production, including'' and inserting the 
+        following: ``means the toxic material or product of plants, 
+        animals, microorganisms (including bacteria, viruses, fungi, 
+        rickettsiae or protozoa), or infectious substances, or a 
+        recombinant or synthesized molecule, whatever their origin and 
+        method of production, and includes''; and
+            (3) in paragraph (4), by striking ``recombinant molecule, 
+        or biological product that may be engineered as a result of 
+        biotechnology'' and inserting ``recombinant or synthesized 
+        molecule''.
+    (b) Conforming Amendment.--Section 2332a of title 18, United States 
+Code, is amended--
+            (1) in subsection (a), by striking ``, including any 
+        biological agent, toxin, or vector (as those terms are defined 
+        in section 178)''; and
+            (2) in subsection (c)(2)(C), by striking ``a disease 
+        organism'' and inserting ``any biological agent, toxin, or 
+        vector (as those terms are defined in section 178 of this 
+        title)''.
+    (c) Addition of Threat Offense.--Section 2332c(a)(1) is amended by 
+striking ``uses, or attempts'' and inserting ``uses, or threatens, 
+attempts''.
+
+SEC. 402. PRETRIAL DETENTION ELIGIBILITY FOR CERTAIN CONVICTED FELONS.
+
+    Section 3156(a)(4) of title 18, United States Code, is amended--
+            (1) by striking ``or'' at the end of subparagraph (B);
+            (2) by striking ``; and'' at the end of subparagraph (C) 
+        and inserting ``; or''; and
+            (3) by adding after subparagraph (C) the following new 
+        subparagraph:
+                    ``(D) an offense that is a violation of section 
+                842(i) or 922(g) of this title (relating to possession 
+                of explosives or firearms by convicted felons and other 
+                categories of prohibited persons); and''.
+
+SEC. 403. ELIMINATION OF UNJUSTIFIED SCIENTER ELEMENT FOR CARJACKING.
+
+    Section 2119 of title 18, United States Code, is amended by 
+striking ``, with the intent to cause death or serious bodily harm''.
+
+SEC. 404. CRIMINAL OFFENSES COMMITTED OUTSIDE THE UNITED STATES BY 
+              PERSONS ACCOMPANYING THE ARMED FORCES.
+
+    (a) In General.--Title 18, United States Code, is amended by 
+inserting after chapter 211 the following:
+
+  ``CHAPTER 212--CRIMINAL OFFENSES COMMITTED OUTSIDE THE UNITED STATES
+
+``Sec. 3261. Criminal offenses committed by persons formerly serving 
+              with, or presently employed by or accompanying, the armed 
+              forces outside the United States
+    ``(a) Whoever, while serving with, employed by, or accompanying the 
+armed forces outside the United States, engages in conduct which would 
+constitute an offense punishable by imprisonment for more than 1 year 
+if the conduct had been engaged in within the special maritime and 
+territorial jurisdiction of the United States, shall be guilty of a 
+like offense and subject to a like punishment.
+    ``(b) Nothing contained in this chapter deprives courts-martial, 
+military commissions, provost courts, or other military tribunals of 
+concurrent jurisdiction with respect to offenders or offenses that by 
+statute or by the law of war may be tried by courts-martial, military 
+commissions, provost courts, or other military tribunals.
+    ``(c) No prosecution may be commenced under this section if a 
+foreign government, in accordance with jurisdiction recognized by the 
+United States, has prosecuted or is prosecuting such person for the 
+conduct constituting such offense, except upon the approval of the 
+Attorney General of the United States or the Deputy Attorney General of 
+the United States (or a person acting in either such capacity), which 
+function of approval may not be delegated.
+    ``(d)(1) The Secretaries of Defense and Transportation may 
+designate and authorize any person serving in a law enforcement 
+position in the Department of Defense and the Department of 
+Transportation when the Coast Guard is not operating as part of the 
+Navy to arrest outside the United States any person described in 
+subsection (a) of this section who there is probable cause to believe 
+engaged in conduct which constitutes a criminal offense under such 
+section.
+    ``(2) A person arrested under paragraph (1) of this section shall 
+be released to the custody of civilian law enforcement authorities of 
+the United States for removal to the United States for judicial 
+proceedings in relation to conduct referred to in such paragraph 
+unless--
+            ``(A) such person is delivered to authorities of a foreign 
+        country under section 3262 of this title; or
+            ``(B) charges are preferred against such person under 
+        chapter 47 of title 10 for such conduct.
+``Sec. 3262. Delivery to authorities of foreign countries
+    ``(a) A person described in section 3261(a) of this title may be 
+delivered to the appropriate authorities of a foreign country in which 
+such person is alleged to have engaged in conduct described in such 
+subsection (a) of this section if--
+            ``(1) the appropriate authorities of that country request 
+        the delivery of the person to such country for trial for such 
+        conduct as an offense under the laws of that country; and
+            ``(2) the delivery of such person to that country is 
+        authorized by a treaty or other international agreement to 
+        which the United States is a party.
+    ``(b) The Secretary of Defense, in consultation with the Secretary 
+of State, shall determine what officials of a foreign country 
+constitute appropriate authorities for the purpose of this section.
+``Sec. 3263. Regulations
+    ``The Secretary of Defense, in consultation with the Secretary of 
+State, shall issue regulations governing the apprehension, detention, 
+and removal of persons under this chapter. Such regulations shall be 
+uniform throughout the Department of Defense.
+``Sec. 3264. Definitions for chapter
+    ``As used in this chapter--
+            ``(1) a person is employed by the armed forces outside the 
+        United States if that person--
+                    ``(A) is employed as a civilian employee of a 
+                military department or of the Department of Defense, as 
+                a Department of Defense contractor, or as an employee 
+                of a Department of Defense contractor;
+                    ``(B) is present or residing outside the United 
+                States in connection with such employment; and
+                    ``(C) is not a national of the host nation.
+            ``(2) a person is accompanying the armed forces outside the 
+        United States if that person--
+                    ``(A) is a dependent of a member of the armed 
+                forces or of a civilian employee of a military 
+                department or of the Department of Defense;
+                    ``(B) is residing with the member or civilian 
+                employee outside the United States; and
+                    ``(C) is not a national of the host nation.''.
+    (b) The table of chapters at the beginning of part II of title 18, 
+United States Code, is amended by inserting after the item relating to 
+chapter 211 the following:
+
+``212. Criminal Offenses Committed Outside the United States    3261''.
+
+SEC. 405. CLARIFICATION OF INTERSTATE THREAT STATUTE.
+
+    Subsection 875(b) and (c) of title 18, United States Code, and the 
+2d and 3d undesignated paragraphs of sections 876 and 877 of title 18, 
+United States Code, are each amended by striking ``any threat to 
+injure'' and inserting ``any threat to kill or injure''.
+
+SEC. 406. ELIMINATION OF SUPERFLUOUS ELEMENT IN ASSAULT WITH A 
+              DANGEROUS WEAPON OFFENSE.
+
+    Section 113(a)(3) of title 18, United States Code, is amended by 
+striking ``with intent to do bodily harm, and''.
+
+SEC. 407. ADDITION OF ATTEMPT COVERAGE FOR INTERSTATE DOMESTIC VIOLENCE 
+              OFFENSE.
+
+    Section 2261(a) of title 18, United States Code, is amended--
+            (1) in paragraph (1) by inserting ``or attempts to do so,'' 
+        after ``thereby causes bodily injury to such spouse or intimate 
+        partner,''; and
+            (2) in paragraph (2) by inserting ``or attempts to do so,'' 
+        after ``thereby causes bodily injury to the person's spouse or 
+        intimate partner,''.
+
+SEC. 408. ASSAULTS OR OTHER CRIMES OF VIOLENCE FOR HIRE.
+
+    Section 1958(a) of title 18, United States Code, is amended by 
+inserting ``or other felony crime of violence against the person'' 
+after ``murder''.
+
+SEC. 409. INCREASE IN MAXIMUM PENALTY FOR VOLUNTARY MANSLAUGHTER.
+
+    Section 1112(b) of title 18, United States Code, is amended by 
+striking ``ten years'' and inserting ``20 years''.
+
+SEC. 410. VIOLENCE DIRECTED AT DWELLINGS AND OTHER STRUCTURES IN INDIAN 
+              COUNTRY.
+
+    Section 1153(a) of title 18, United States Code, is amended by 
+inserting ``or 1363'' after ``section 661''.
+
+SEC. 411. AMENDMENTS OF DRIVE-BY SHOOTING STATUTE.
+
+    (a) In General.--Section 36 of title 18, United States Code, is 
+amended--
+            (1) by amending the title to read as follows:
+``Sec. 36. Shooting into a group in furtherance of a major drug 
+              offense'';
+            (2) in subsection (a)(1), by striking ``punishable under 
+        section 408(c) of the Controlled Substances Act'' and inserting 
+        ``punishable under section 408(a) of the Controlled Substances 
+        Act'';
+            (3) by adding ``or'' at the end of subsection (a)(1) and by 
+        striking subsections (a)(2) and (a)(3) and inserting the 
+        following: ``(2) an offense punishable under section 
+        401(b)(1)(A) of the Controlled Substances Act or section 
+        1010(b)(1) of the Controlled Substances Import and Export Act 
+        or a conspiracy or attempt to commit such an offense.''; and
+            (4) in subsection (b)(1) and (b)(2), by striking ``with the 
+        intent to intimidate,'' and inserting ``with the intent to 
+        kill, intimidate.''.
+    (b) Clerical Amendment.--The item relating to section 36 in the 
+table of sections at the beginning of chapter 2 of title 18, United 
+States Code, is amended by striking ``Drive-by shooting'' and inserting 
+``Shooting into a group in furtherance of a major drug offense''.
+
+SEC. 412. AMENDMENT TO SECTION 879 OF TITLE 18, UNITED STATES CODE.
+
+    (a) Generally.--Section 879 of title 18, United States Code, is 
+amended to read as follows:
+``Sec. 879. Threats against former Presidents, the immediate family of 
+              the President and Vice President, major Presidential and 
+              Vice-Presidential candidates, and certain other persons 
+              protected by the Secret Service
+    ``(a) Whoever knowingly and willfully threatens to kill, kidnap, or 
+inflict bodily harm upon--
+            ``(1) a former President or a former President's spouse;
+            ``(2) a member of the immediate family of the President, 
+        the President-elect, the Vice President, or the Vice President-
+        elect; or
+            ``(3) a major candidate for the office of President or Vice 
+        President, the spouse or a member of the immediate family of 
+        such candidate;
+shall be fined under this title or imprisoned not more than three 
+years, or both.
+    ``(b) Whoever knowingly and willfully threatens to kill, kidnap, or 
+inflict bodily harm upon--
+            ``(1) a member of the immediate family of a former 
+        President; or
+            ``(2) any other person for whom the President directs 
+        protection be provided, pursuant to section 3056(a)(6) of this 
+        title;
+who is protected by the Secret Service as provided by law, shall be 
+fined under this title or imprisoned not more than three years, or 
+both.
+    ``(c) As used in this section--
+            ``(1) with respect to subsection (a)(1) of this section, 
+        the term `spouse of a former President' means the former 
+        President's current spouse or the widow or widower of a former 
+        President until the widow's or widower's remarriage;
+            ``(2) the term `immediate family' means--
+                    ``(A) with respect to subsections (a)(2) and (b)(1) 
+                of this section, a person to whom the President, 
+                President-elect, Vice President, Vice President-elect, 
+                or former President--
+                            ``(i) is related by blood, marriage, or 
+                        adoption; or
+                            ``(ii) stands in loco parentis; and
+                    ``(B) with respect to subsection (a)(3) of this 
+                section, the major candidate's children who are--
+                            ``(i) related by blood, marriage, or 
+                        adoption; or
+                            ``(ii) a person to whom the major candidate 
+                        stands in loco parentis;
+            ``(3) the term `major candidate for the office of President 
+        or Vice President' means a candidate referred to in section 
+        3056(a)(7) of this title; and
+            ``(4) the terms `President-elect' and `Vice President-
+        elect' have the meanings given those terms in section 871(b) of 
+        this title.''.
+    (b) Clerical Amendment.--The item in the table of sections at the 
+beginning of chapter 41 of title 18, United States Code, relating to 
+section 879 is amended to read as follows:
+
+``879. Threats against former Presidents, the immediate family of the 
+                            President and Vice President, major 
+                            Presidential and Vice-Presidential 
+                            candidates, and certain other persons 
+                            protected by the Secret Service.''.
+
+    TITLE V--CLARIFYING THE METHOD OF EXECUTION OF FEDERAL PRISONERS
+
+SEC. 501. IMPLEMENTATION OF SENTENCE OF DEATH.
+
+    Subsection (a) of section 3596 of title 18, United States Code, is 
+amended to read as follows:
+    ``(a) In General.--A person who is sentenced to death shall be 
+committed to the custody of the Attorney General. At the time the 
+sentence is to be carried out, it shall be implemented pursuant to 
+regulations prescribed by the Attorney General.''.
+
+SEC. 502. USE OF FEDERAL FACILITIES.
+
+    Subsection (a) of section 3597 of title 18, United States Code, is 
+amended to read as follows:
+    ``(a) In General.--A United States marshal charged with supervising 
+the implementation of a sentence of death shall use the appropriate 
+Federal facilities for this purpose.''.
+
+SEC. 503. CONFORMING AMENDMENTS.
+
+    (a) Elimination of Reference to State Employees.--Section 3597(b) 
+of title 18, United States Code, is amended by striking ``any State 
+department of corrections,''.
+    (b) Conforming Section Heading.--The heading for section 3597 of 
+title 18, United States Code, is amended to read as follows:
+``Sec. 3597. Use of Federal facilities and employees''.
+    (c) Conforming Table of Sections.--The item relating to section 
+3597 in the table of sections at the beginning of chapter 228 of title 
+18, United States Code, is amended to read as follows:
+
+``3597. Use of Federal facilities and employees.''.
+
+ TITLE VI--TECHNICAL AMENDMENTS RELATING TO CRIMINAL LAW AND PROCEDURE
+
+SEC. 601. TECHNICAL AMENDMENTS RELATING TO CRIMINAL LAW AND PROCEDURE.
+
+    (a) Missing and Incorrect Words.--
+            (1) Correction of garbled sentence.--Section 510(c) of 
+        title 18, United States Code, is amended by striking ``fine of 
+        under this title'' and inserting ``fine under this title''.
+            (2) Insertion of missing words.--Section 981(d) of title 
+        18, United States Code, is amended by striking ``proceeds from 
+        the sale of this section'' and inserting ``proceeds from the 
+        sale of such property under this section''.
+            (3)  Correction of incorrect word.--Sections 1425 through 
+        1427, 1541 through 1544 and 1546(a) of title 18, United States 
+        Code, are each amended by striking ``to facility'' and 
+        inserting ``to facilitate''.
+            (4) Correcting erroneous amendatory language on executed 
+        amendment.--Effective on the date of the enactment of Public 
+        Law 103-322, section 60003(a)(13) of Public Law 103-322 is 
+        amended by striking ``$1,000,000 or imprisonment'' and 
+        inserting ``$1,000,000 and imprisonment''.
+            (5) Insertion of missing word.--Section 3286 of title 18, 
+        United States Code, is amended by inserting ``section'' before 
+        ``2332b''.
+            (6) Correction of reference to short title of law.--Section 
+        2332d(a) of title 18, United States Code, is amended by 
+        inserting ``of 1979'' after ``Export Administration Act''.
+            (7) Elimination of typo.--Section 1992(b) of title 18, 
+        United States Code, is amended by striking ``term or years'' 
+        and inserting ``term of years''.
+            (8) Spelling correction.--Section 2339A(a) of title 18, 
+        United States Code, is amended by striking ``or an escape'' and 
+        inserting ``of an escape''.
+            (9) Section 3553.--Section 3553(e) of title 18, United 
+        States Code, is amended by inserting ``a'' before ``minimum''.
+            (10) Misplaced words in statement of penalty.--Section 
+        2251(d) of title 18, United States Code, is amended by striking 
+        ``or imprisoned not less than 10 years nor more than 20 years, 
+        and both'' and inserting ``and imprisoned not less than 10 nor 
+        more than 20 years''.
+    (b) Margins, Punctuation, and Similar Errors.--
+            (1) Margin error.--Section 1030(c)(2) of title 18, United 
+        States Code, is amended so that the margins of subparagraph (B) 
+        and each of its clauses, are moved 2 ems to the left.
+            (2) Correcting capitalization in language to be stricken.--
+        Effective on the date of its enactment, section 607(g)(2) of 
+        the Economic Espionage Act of 1996 is amended by striking 
+        ``territory'' and inserting ``Territory''.
+            (3) Correcting paragraphing.--The material added to section 
+        521(a) of title 18, United States Code, by section 607(q) of 
+        the Economic Espionage Act of 1996 is amended to appear as a 
+        paragraph indented 2-ems from the left margin.
+            (4) Subsection placement correction.--Section 1513 of title 
+        18, United States Code, is amended by transferring subsection 
+        (d) so that it appears following subsection (c).
+            (5) Insertion of parenthetical descriptions.--Section 
+        2332b(g)(5) of title 18, United States Code, is amended--
+                    (A) by inserting ``(relating to certain killings in 
+                Federal facilities)'' after ``930(c)'';
+                    (B) by inserting ``(relating to wrecking trains)'' 
+                after ``1992''; and
+                    (C) by inserting ``(relating to use of chemical 
+                weapons)'' after ``2332c''.
+            (6) Correction to allow for insertion of new 
+        subparagraph.--Section 1956(c)(7) of title 18, United States 
+        Code, is amended--
+                    (A) by striking ``or'' at the end of subparagraph 
+                (D);
+                    (B) by striking the period at the end of 
+                subparagraph (E) and inserting ``; or''; and
+                    (C) in subparagraph (F), by striking ``Any'' and 
+                inserting ``any''.
+            (7) Redesignation of duplicate paragraph.--Section 982(a) 
+        of title 18, United States Code, is amended by redesignating 
+        the second paragraph (6) as paragraph (7).
+            (8) Correction of confusing subdivision designation.--
+        Section 1716 of title 18, United States Code, is amended--
+                    (A) in the first undesignated paragraph, by 
+                inserting ``(j)(1)'' before ``Whoever'';
+                    (B) in the second undesignated paragraph--
+                            (i) by striking ``not more than $10,000'' 
+                        and inserting ``under this title''; and
+                            (ii) by inserting ``(2)'' at the beginning 
+                        of that paragraph;
+                    (C) by inserting ``(3)'' at the beginning of the 
+                third undesignated paragraph; and
+                    (D) by redesignating subsection (j) as subsection 
+                (k).
+            (9) Punctuation correction in section 1091.--Section 
+        1091(b)(1) of title 18, United States Code, is amended by 
+        striking ``subsection (a)(1),'' and inserting ``subsection 
+        (a)(1)''.
+            (10) Punctuation correction in section 2311.--Section 2311 
+        of title 18, United States Code, is amended by striking the 
+        period after ``carcasses thereof'' the second place that term 
+        appears and inserting a semicolon.
+            (11) Syntax correction.--Section 115(b)(2) of title 18 is 
+        amended by striking ``, attempted kidnapping, or conspiracy to 
+        kidnap of a person'' and inserting ``or attempted kidnapping 
+        of, or a conspiracy to kidnap, a person''.
+    (c) Elimination of Redundancies.--
+            (1) Elimination of redundant provision.--Section 2516(1) of 
+        title 18, United States Code, is amended--
+                    (A) by striking the first paragraph (p); and
+                    (B) by inserting ``or'' at the end of paragraph 
+                (o).
+            (2) Elimination of duplicate amendments.--Effective on the 
+        date of its enactment, paragraphs (1), (2), and (4) of section 
+        601(b), paragraph (2) of section 601(d), paragraphs (2) and (6) 
+        of section 601(f), paragraphs (1) and (2)(A) of section 601(j), 
+        paragraphs (1) and (2) of section 601(k), subsection (d) of 
+        section 602, paragraph (4) of section 604(b), and subsection 
+        (r) of section 605 of the Economic Espionage Act of 1996 are 
+        repealed.
+            (3) Elimination of extra comma.--Section 1956(c)(7)(D) of 
+        title 18, United States Code, is amended--
+                    (A) by striking ``Code,,'' and inserting ``Code,''; 
+                and
+                    (B) by striking ``services),,'' and inserting 
+                ``services),''.
+            (4) Repeal of section granting duplicative authority.--
+                    (A) Section 3503 of title 18, United States Code, 
+                is repealed.
+                    (B) The table of sections at the beginning of 
+                chapter 223 of title 18, United States Code, is amended 
+                by striking the item relating to section 3503.
+            (5) Elimination of outmoded reference to parole.--Section 
+        929(b) of title 18, United States Code, is amended by striking 
+        the last sentence.
+    (d) Correction of Outmoded Fine Amounts.--
+            (1) In title 18, united states code.--
+                    (A) In section 665.--Section 665(c) of title 18, 
+                United States Code, is amended by striking ``a fine of 
+                not more than $5,000'' and inserting ``a fine under 
+                this title''.
+                    (B) In sections 1924, 2075, 2113(b), and 2236.--
+                            (i) Section 1924(a) of title 18, United 
+                        States Code, is amended by striking ``not more 
+                        than $1,000,'' and inserting ``under this 
+                        title''.
+                            (ii) Sections 2075, 2113(b), and 2236 of 
+                        title 18, United States Code, are each amended 
+                        by striking ``not more than $1,000'' and 
+                        inserting ``under this title''.
+                    (C) In section 372 and 752.--Sections 372 and 
+                752(a) of title 18, United States Code, are each 
+                amended by striking ``not more than $5,000'' and 
+                inserting ``under this title''.
+                    (D) In section 924(e)(1).--Section 924(e)(1) of 
+                title 18, United States Code, is amended by striking 
+                ``not more than $25,000'' and inserting ``under this 
+                title''.
+            (2) In the controlled substances act.--
+                    (A) In section 401.--Section 401(e) of the 
+                Controlled Substances Act (21 U.S.C. 841(e)) is 
+                amended--
+                            (i) in paragraph (1), by striking ``and 
+                        shall be fined not more than $10,000'' and 
+                        inserting ``or fined under title 18, United 
+                        States Code, or both''; and
+                            (ii) in paragraph (2), by striking ``and 
+                        shall be fined not more than $20,000'' and 
+                        inserting ``or fined under title 18, United 
+                        States Code, or both''.
+                    (B) In section 402.--Section 402(c)(2) of the 
+                Controlled Substances Act (21 U.S.C. 842(c)) is 
+                amended--
+                            (i) in subparagraph (A), by striking ``of 
+                        not more than $25,000'' and inserting ``under 
+                        title 18, United States Code''; and
+                            (ii) in subparagraph (B), by striking ``of 
+                        $50,000'' and inserting ``under title 18, 
+                        United States Code''.
+                    (C) In section 403.--Section 403(d) of the 
+                Controlled Substances Act (21 U.S.C. 843(d)) is 
+                amended--
+                            (i) by striking ``of not more than 
+                        $30,000'' each place that term appears and 
+                        inserting ``under title 18, United States 
+                        Code''; and
+                            (ii) by striking ``of not more than 
+                        $60,000'' each place it appears and inserting 
+                        ``under title 18, United States Code''.
+    (e) Cross Reference Corrections.--
+            (1) Cross reference corrections occasioned by enactment of 
+        intervening law.--
+                    (A) Section 3583.--Section 3583(d) of title 18, 
+                United States Code, is amended by striking ``section 
+                3563(b)(1) through (b)(10) and (b)(12) through 
+                (b)(20)'' and inserting ``paragraphs (1) through (9) 
+                and (11) through (19) of section 3563(b)''.
+                    (B) Section 3563.--Section 3563(a)(2) of title 18, 
+                United States Code, is amended by striking ``, (b)(3), 
+                or (b)(13)'' and inserting ``or (b)(12)''.
+            (2) Section 3664.--Section 3664(o)(1)(C) of title 18, 
+        United States Code, is amended by striking ``section 
+        3664(d)(3)'' and inserting ``subsection (d)(5)''.
+            (3) Chapter 228.--Section 3592(c)(1) of title 18, United 
+        States Code, is amended by striking ``section 36'' and 
+        inserting ``section 37''.
+            (4) Correcting erroneous cross reference in controlled 
+        substances act.--Section 511(a)(10) of the Controlled 
+        Substances Act (21 U.S.C. 881(a)(10)) is amended by striking 
+        ``1822 of the Mail Order Drug Paraphernalia Control Act'' and 
+        inserting ``422''.
+            (5) Correction to reflect cross reference change made by 
+        other law.--Effective on the date of its enactment, section 
+        601(c)(3) of the Economic Espionage Act of 1996 is amended by 
+        striking ``247(d)'' and inserting ``247(e)''.
+            (6) Typographical and typeface error in table of 
+        chapters.--The item relating to chapter 123 in the table of 
+        chapters at the beginning of part I of title 18, United States 
+        Code, is amended--
+                    (A) by striking ``2271'' and inserting ``2721''; 
+                and
+                    (B) so that the item appears in bold face type.
+            (7) Correction occasioned by enactment of intervening 
+        law.--Section 3563(a) of title 18, United States Code, is 
+        amended by striking ``paragraph (4)'' each place it appears and 
+        inserting ``paragraph (5)''.
+            (8) Section 3565.--Section 3565(b)(3) of title 18, United 
+        States Code, is amended by striking ``3563(a)(4)'' and 
+        inserting ``3563(a)(5)''.
+            (9) Section 4104.--Section 4104(d) of title 18, United 
+        States Code, is amended by striking ``section 3653 of this 
+        title and rule 32(f) of'' and inserting ``section 3565 of this 
+        title and the applicable provisions of''.
+            (10) Error in amendatory language.--Effective on the date 
+        of its enactment, section 583 of the Foreign Operations, Export 
+        Financing, and Related Programs Appropriations Act, 1998 (111 
+        Stat. 2436) is amended by striking ``Section 2401'' and 
+        inserting ``Section 2441''.
+            (11) Error in cross reference to court rules.--The first 
+        sentence of section 3593(c) of title 18, United States Code, is 
+        amended by striking ``rule 32(c)'' and inserting ``rule 32''.
+            (12) Correction of erroneous cite in amendatory language.--
+        Effective on the date of the enactment of section 102 of the 
+        Economic Espionage Act of 1996, such section is amended by 
+        striking ``Section 2516(1)(c)'' and inserting ``Section 
+        2516(1)(a)''.
+            (13) Section 1836.--Section 1836(a) of title 18, United 
+        States Code, is amended by striking ``this section'' and 
+        inserting ``this chapter''.
+            (14) Correction of erroneous cite in chapter 119.--Section 
+        2510(10) of title 18, United States Code, is amended by 
+        striking ``shall have'' and all that follows through ``United 
+        States Code;'' and inserting ``has the meaning given that term 
+        in section 3 of the Communications Act of 1934;''.
+    (f) Tables of Sections Corrections.--
+            (1) Conforming table of sections to heading of section.--
+        The item relating to section 1837 in the table of sections at 
+        the beginning of chapter 90 of title 18, United States Code, is 
+        amended by striking ``Conduct'' and inserting ``Applicability 
+        to conduct''.
+            (2) Conforming heading to table of sections entry.--The 
+        heading of section 1920 of title 18, United States Code, is 
+        amended by striking ``employee's'' and inserting 
+        ``employees'''.
+                                 <all>
+

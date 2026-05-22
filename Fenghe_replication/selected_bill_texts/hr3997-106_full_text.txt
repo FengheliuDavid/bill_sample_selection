@@ -1,0 +1,265 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3997 Introduced in House (IH)]
+
+
+
+
+
+
+
+106th CONGRESS
+  2d Session
+                                H. R. 3997
+
+ To improve systems for the delivery of dividends, interest, and other 
+           valuable property rights to lost security holders.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 15, 2000
+
+  Mrs. Wilson (for herself, Mr. Kasich, and Mr. Oxley) introduced the 
+following bill; which was referred to the Committee on Commerce, and in 
+    addition to the Committee on the Judiciary, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To improve systems for the delivery of dividends, interest, and other 
+           valuable property rights to lost security holders.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Money Return Act of 2000''.
+
+SEC. 2. FINDINGS.
+
+    The Congress finds the following:
+            (1) The intent and purpose of Federal securities law is to 
+        protect the general investing public and to make the regulation 
+        and control required by national public interest reasonably 
+        complete and effective.
+            (2) The United States Securities and Exchange Commission 
+        has acknowledged that there are millions of lost security 
+        holders in the United States, who are, thereby, deprived of the 
+        benefit of their investments valued by the Commission in the 
+        hundreds of millions of dollars.
+            (3) The Commission's current regulations relating to lost 
+        security holders apply only to recordkeeping transfer agents 
+        who handle approximately half of all security holders, thereby 
+        denying the same benefits to the other half.
+            (4) Available technologies can locate 80 percent or more of 
+        corrected addresses for security holders, who have not received 
+        the benefit of the dividends and interest earned by their 
+        securities and other valuable property rights.
+            (5) The Federal Government, through its agencies, holds 
+        large sums of money owed to others, who cannot reasonably 
+        obtain their money, because of a lack of information about 
+        these sums and how to claim them.
+
+  TITLE I--RESPONSIBILITIES OF THE SECURITIES AND EXCHANGE COMMISSION
+
+SEC. 101. ADDITIONAL RESPONSIBILITIES TO SECURE DELIVERY OF DIVIDENDS, 
+              INTEREST, AND OTHER VALUABLE PROPERTY RIGHTS.
+
+    Section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-
+1) is amended by adding at the end the following new subsection:
+    ``(g) Due Diligence for the Delivery of Dividends, Interest, and 
+Other Valuable Property Rights.--
+            ``(1) Due diligence obligation.--Each issuer of any 
+        security registered pursuant to section 12 of this title shall 
+        exercise due diligence in delivering dividends, interest, and 
+        other valuable property rights to their owners, whether such 
+        dividends, interest, or other valuable property rights are 
+        delivered by any issuer or on behalf of any issuer by any 
+        paying agent.
+            ``(2) Revision of regulations required.--The Commission 
+        shall amend the provisions of section 240.17Ad-17 of the 
+        Commission's regulations (17 C.F.R. 240.17Ad-17) as in effect 
+        on December 8, 1997--
+                    ``(A) to extend the application of such section to 
+                all such paying agents, including the obligation to use 
+                database searches as required of transfer agents; and
+                    ``(B) to extend the application of such section to 
+                security holders who became lost security holders 
+                before such date.
+            ``(3) Notices.--
+                    ``(A) Notice on checks or other valuable property 
+                rights to security holders.--Any check or notice to any 
+                security holder who has failed to cash or deposit a 
+                previous check for any dividend or interest payment or 
+                has failed to process a valuable property right as 
+                instructed shall bear a printed notice to the effect--
+                            ``(i) if a check or other valuable property 
+                        right has been sent to a security holder, and 
+                        the check or other valuable property right has 
+                        been returned to the sender, the security 
+                        holder is considered a `lost security holder' 
+                        whenever that expression is used by the Unites 
+States Securities and Exchange Commission; and
+                            ``(ii) if a check or other valuable 
+                        property right is sent to a security holder, 
+                        and the check is not negotiated within 7 months 
+                        or the other valuable property right is not 
+                        processed as instructed within 7 months, then 
+                        that security holder shall be considered a 
+                        `lost security holder' and shall be treated in 
+                        the same way as lost security holders are 
+                        treated under subparagraph (A).
+                    ``(B) Notices on subsequent communications.--If the 
+                lost security holder (as defined in subparagraphs 
+                (A)(i) and (A)(ii)) is to be sent another regularly 
+                scheduled communication, including a dividend or 
+                interest check, then that next communication shall 
+                notify the security holder--
+                            ``(i) that a previous check or valuable 
+                        property right has been returned to the sender 
+                        or has not been negotiated or processed as 
+                        instructed, and such notice shall request the 
+                        security holder promptly to negotiate the 
+                        received check or process the received valuable 
+                        property right as instructed; and
+                            ``(ii) that if such check or other valuable 
+                        property right has not been received by the 
+                        security holder, then the security holder 
+                        should call the sender at the toll free number 
+                        in the notice or should write or otherwise 
+                        contact the sender at the address or addresses 
+                        in the notice.
+                In no event shall the next regularly scheduled 
+                communication occur longer than 7 months after the 
+                original sending.
+                    ``(C) Exceptions.--Paying agents may exclude from 
+                the search requirements any lost security holder when 
+                the value of all dividend, interest, or other valuable 
+                property rights due to the security holder plus the 
+                value of all assets listed in the lost security 
+                holder's account is less than $25.
+            ``(4) Listing of lost security holders.--The Commission 
+        shall establish, or provide for the establishment by others, of 
+        a database that is accessible from the Internet and that 
+        contains a list of the names of persons who are lost security 
+        holders, the names of those issuers or paying agents who are 
+        obligated to deliver to them their dividends, interest, and 
+        other valuable property rights, and, in the case of paying 
+        agents, the identity of the issuer. The database and Internet 
+        site shall be created or caused to be created by the Commission 
+        in accordance with such procedures as the Commission shall 
+        prescribe by rule, regulation, or order.
+            ``(5) Interest on unpaid amounts; trust for security 
+        holders.--Any amounts to which security holders are entitled 
+        shall be held in trust by any issuers or any paying agents for 
+        the benefit of the security holders. Interest on the amounts 
+        held in trust shall--
+                    ``(A) accrue for the benefit of an issuer or its 
+                paying agent as provided for by agreement between them 
+                for the first 6 months after the return of any 
+                undelivered dividend or interest payment or 7 months 
+                after a payment has been sent but remains uncashed;
+                    ``(B) accrue for the benefit of the security 
+                holders beginning 6 months after the return of any 
+                undelivered dividend or interest payment or 7 months 
+                after a payment has been sent but remains uncashed; and
+                    ``(C) end upon the delivery as escheated or 
+                unclaimed property to a State pursuant to State law.
+            ``(6) Use of professional search firms.--
+                    ``(A) No lost security holder shall be turned over 
+                to a professional search firm for locating until after 
+                two database searches have been conducted, regardless 
+                of whether the security holder was deemed `lost' 
+                before, on, or after December 8, 1997.
+                    ``(B) The issuer or its paying agent shall solicit 
+                competing bids for locating lost security holders in 
+                accordance with such procedures as the Commission shall 
+                prescribe by rule, regulation, or order. Any successful 
+                bidder shall report to the issuer, its paying agent, 
+                and the Commission the number of accounts pursued, the 
+                percentage of accounts recovered, the amount and 
+                percentage of funds recovered, the names of those who 
+                recovered, and the gross and net amounts each received.
+            ``(7) Liability.--Any issuer or paying agent that fails to 
+        exercise due diligence in accordance with the requirements of 
+        this subsection shall be liable to any lost security holders or 
+        class of lost security holders for damages. If the court 
+        determines that such failure constitutes gross negligence or 
+        wanton misconduct, the court may award punitive damages in an 
+        amount equal to triple the amount of such damages. An action 
+        under this paragraph may be brought in any Federal court of 
+        competent jurisdiction.
+            ``(8) Regulations; report.--The Commission shall--
+                    ``(A) adopt such rules, regulations, and orders 
+                necessary to implement this subsection no later than 3 
+                months after the date of enactment of this subsection;
+                    ``(B) provide a report to Congress concerning its 
+                progress toward implementation of this subsection no 
+                later than 6 months after such date of enactment; and
+                    ``(C) thereafter include in its annual report 
+                similar information.
+            ``(9) Definition of paying agent.--For purposes of this 
+        subsection, the term `paying agent' includes any issuer, 
+        transfer agent, broker, dealer, investment company, mutual 
+        fund, investment adviser, indenture trustee, custodian, or any 
+        other person obligated to deliver dividends, interest, or 
+        valuable property rights.''.
+
+            TITLE II--UNITED STATES MONEY RETURN COMMISSION
+
+SEC. 201. ESTABLISHMENT.
+
+    (a) In General.--There is established the United States Money 
+Return Commission. The Commission shall be composed of 5 members 
+appointed by the President.
+    (b) Chairman.--The President shall designate a Chairman from among 
+the members of the Commission.
+    (c) Terms.--Each member shall serve for a term of 5 years, except 
+that from the first 5 appointees, one shall serve for 1 year, one shall 
+serve for 2 years, one shall serve for 3 years, one shall serve for 4 
+years, and one, the chairman, shall serve for 5 years.
+    (d) Limitation.--No more than 2 members shall be appointed who are 
+employees of the United States of America or any of its agencies.
+
+SEC. 202. FUNCTIONS.
+
+    (a) In General.--The Commission shall--
+            (1) collect and publish on the Internet and other 
+        appropriate media information on all money held by the United 
+        States that is owed to any person or entity; and
+            (2) establish procedures for the use of state-of-the-art 
+        technology to restore such moneys to their rightful owners 
+        without charge.
+    (b) Report.--The Commission shall report on its activities to the 
+President not later than 1 year after the date of the enactment of this 
+Act, and annually thereafter.
+
+SEC. 203. ADMINISTRATION.
+
+    (a) Information From Executive Agencies.--The heads of executive 
+agencies shall, to the extent permitted by law, provide the Commission 
+such information as it may require for the purpose of carrying out is 
+functions.
+    (b) Pay.--Members of the Commission shall serve without any 
+additional Federal compensation for their work on the Commission. 
+However, members appointed from among private citizens of the United 
+States may be allowed travel expenses, including per diem in lieu of 
+subsistence, as authorized by law for persons serving intermittently in 
+the government service (5 U.S.C. 5701-5707), to the extent funds are 
+available therefor.
+    (c) Staff.--The Commission shall have a staff headed by an 
+Executive Director. Any expenses of the Commission shall be paid from 
+such funds as may be available to the Secretary of the Treasury.
+                                 <all>
+

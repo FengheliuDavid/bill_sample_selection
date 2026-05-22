@@ -1,0 +1,110 @@
+[Congressional Bills 116th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 528 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+116th CONGRESS
+  1st Session
+                                H. R. 528
+
+ To provide a safe harbor from licensing and registration for certain 
+   non-controlling blockchain developers and providers of blockchain 
+                               services.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 14, 2019
+
+  Mr. Emmer (for himself and Mr. Soto) introduced the following bill; 
+   which was referred to the Committee on Financial Services, and in 
+    addition to the Committee on the Judiciary, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To provide a safe harbor from licensing and registration for certain 
+   non-controlling blockchain developers and providers of blockchain 
+                               services.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Blockchain Regulatory Certainty 
+Act''.
+
+SEC. 2. SAFE HARBOR FOR NON-CONTROLLING BLOCKCHAIN DEVELOPERS AND 
+              PROVIDERS OF BLOCKCHAIN SERVICES.
+
+    (a) Protection for Non-Controlling Blockchain Services and Software 
+Developers.--No blockchain developer or provider of a blockchain 
+service shall be treated as a money transmitter (as defined under State 
+licensing laws, section 1960 of title 18, United States Code, and 
+section 1010.100 of title 31, Code of Federal Regulations), money 
+services business (as defined under section 1010.100 of title 31, Code 
+of Federal Regulation), financial institution (as defined under section 
+5312 of title 31, United States Code), or any other State or Federal 
+legal designation requiring licensing or registration as a condition to 
+acting as a blockchain developer or provider of a blockchain service, 
+unless the developer or provider has, in the regular course of 
+business, control over digital currency to which a user is entitled 
+under the blockchain service or the software created, maintained, or 
+disseminated by the blockchain developer.
+    (b) Effect on Other Laws.--
+            (1) Criminal law.--Nothing in this section shall be 
+        construed to impair the enforcement of any Federal criminal 
+        statute that is consistent with this section.
+            (2) Intellectual property law.--Nothing in this section 
+        shall be construed to limit or expand any law pertaining to 
+        intellectual property.
+            (3) State law.--Nothing in this section shall be construed 
+        to prevent any State from enforcing any State law that is 
+        consistent with this section. No cause of action may be brought 
+        and no liability may be imposed under any State or local law 
+        that is inconsistent with this section.
+    (c) Definitions.--As used in this section:
+            (1) Blockchain network.--The term ``blockchain network'' 
+        means any system of networked computers that cooperates to 
+        reach consensus over the state of a computer program and allows 
+        users to participate in the consensus-making process without 
+        the need to license proprietary software or obtain permission 
+        from any other user. The term includes, specifically, a public 
+        network of computers that cooperates to reach consensus over 
+        the state of a distributed ledger describing transactions in a 
+        digital currency.
+            (2) Blockchain developer.--The term ``blockchain 
+        developer'' means any person or business that creates, 
+        maintains, or disseminates software facilitating the creation 
+        or maintenance of a blockchain network or a blockchain service.
+            (3) Blockchain service.--The term ``blockchain service'' 
+        means any information, transaction, or computing service or 
+        system that provides or enables access to a blockchain network 
+        by multiple users, including specifically a service or system 
+        that enables users to send, receive, exchange, or store digital 
+        currencies described by blockchain networks.
+            (4) Control.--The term ``control'' means the legal right, 
+        authority, or ability to obtain upon demand data sufficient to 
+        initiate transactions spending an amount of digital currency.
+            (5) Digital currency.--The term ``digital currency'' means 
+        a medium of exchange, a unit of account, or a store of value 
+        that is represented by entries in a distributed ledger 
+        generated by a blockchain network.
+                                 <all>
+

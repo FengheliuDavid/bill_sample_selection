@@ -1,0 +1,76 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1037 Introduced in House (IH)]
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                H. R. 1037
+
+ To prevent terrorists and money launderers from establishing accounts 
+ for illegal money transfers through the use of false Social Security 
+  numbers or taxpayer identification numbers, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 27, 2003
+
+ Mr. Sweeney introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To prevent terrorists and money launderers from establishing accounts 
+ for illegal money transfers through the use of false Social Security 
+  numbers or taxpayer identification numbers, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Prevent Bank Fraud by Terrorists Act 
+of 2003''.
+
+SEC. 2. REPORTING OF TAXPAYER IDENTIFICATION NUMBERS UPON OPENING OF 
+              NEW ACCOUNTS.
+
+    (a) In General.--Subchapter II of chapter 53 of title 31, United 
+States Code, is amended by adding at the end the following new section:
+``Sec. 5333. Reporting of taxpayer identification numbers upon opening 
+              of new accounts
+    ``(a) In General.--Whenever a financial institution establishes an 
+account for any person and obtains the Social Security number or 
+taxpayor identification number of any accountholder or beneficiary of 
+the account, the financial institution shall promptly report the name 
+of each such person together with the Social Security number or 
+taxpayor identification number, as the case may be, associated with 
+such person to the appropriate regulatory agency in accordance with 
+regulations that the Secretary of the Treasury shall prescribe.
+    ``(b) Appropriate Regulatory Agency.--For purposes of subsection 
+(a), the term `appropriate regulatory agency' means--
+            ``(1) the Social Security Administration, in the case of a 
+        Social Security number; and
+            ``(2) the Internal Revenue Service, in the case of a 
+        taxpayor identification number that is not a Social Security 
+        number.''.
+    (b) Clerical Amendment.--The table of sections for subchapter II of 
+chapter 53 of title 31, United States Code, is amended by inserting 
+after the item relating to section 5332 the following new item:
+
+``5333. Reporting of taxpayer identification numbers upon opening of 
+                            new accounts.''.
+                                 <all>
+

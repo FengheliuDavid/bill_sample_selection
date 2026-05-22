@@ -1,0 +1,11 @@
+CFPB Data Accountability Act
+
+This bill amends the Consumer Financial Protection Act of 2010 to prescribe requirements for the consumer complaint website the Consumer Financial Protection Bureau (CFPB) must establish.
+
+The CFPB may only make consumer complaint information available to the public on the website in an aggregated format and after taking steps to ensure that proprietary, personal, or confidential consumer information is not made public.
+
+The CFPB must verify any consumer complaint information where the complaint alleges a violation of a law, regulation, or contractual agreement between a consumer and a covered person who offered or provided the consumer financial product or service.
+
+The CFPB may only make such information available if the CFPB accompanies it with statistics on how many consumer complaints it receives regarding the particular consumer financial product or service compared to the total number of consumers making use of that consumer financial product or service.
+
+The CFPB shall comply with all guidelines issued by the Office of Management and Budget pursuant to the Treasury and General Government Appropriations Act, 2001, as enacted by the Consolidated Appropriations Act, 2001, to ensure and maximize the quality, objectivity, utility, and integrity of information (including statistical information) disseminated by federal agencies in fulfillment of the Paperwork Reduction Act.

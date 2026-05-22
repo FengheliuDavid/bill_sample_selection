@@ -1,0 +1,9 @@
+Financial Institution Legislative Edict Simplification Act of 2015 or the FILES Act of 2015
+
+This bill amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to exempt from specified titles of the Act "safe and sound financial institutions," including any depository institution, credit union, bank holding company, or savings and loan holding company having:
+
+ total consolidated assets of less than $50 billion, and a composite CAMELS rating of 1 or 2 under the Uniform Financial Institutions Rating System (or under an equivalent rating under a comparable rating system) as of the entity's most recent examination. A CAMELS rating assesses a bank's capital adequacy, assets, management capability, earnings, liquidity, and sensitivity.
+
+The bill exempts such institutions from the titles of the Act that address:
+
+ financial stability; orderly liquidation authority; improvements to regulation of bank and savings association holding companies and depository institutions; and mortgage reform and anti-predatory lending.

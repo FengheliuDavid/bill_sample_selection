@@ -1,0 +1,215 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 421 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 421
+
+ To amend the Emergency Economic Stabilization Act of 2008 to restrict 
+ which assets banks can write off as loss for purposes of the Troubled 
+             Assets Relief Program, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 9, 2009
+
+ Mr. Meek of Florida introduced the following bill; which was referred 
+                 to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Emergency Economic Stabilization Act of 2008 to restrict 
+ which assets banks can write off as loss for purposes of the Troubled 
+             Assets Relief Program, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Troubled Assets Relief Program 
+Targeted Assets Act of 2009''.
+
+SEC. 2. DEFINITIONS.
+
+    Section 3 of the Emergency Economic Stabilization Act of 2008 
+(division A of Public Law 110-343) is amended by striking paragraph (9) 
+and inserting the following new paragraphs:
+            ``(9) Troubled assets.--The term `troubled assets' means--
+                    ``(A) any residential mortgage, and any security, 
+                obligation, or other instrument that is based on or 
+                related to such mortgage--
+                            ``(i) is in pre-foreclosure;
+                            ``(ii) with respect to which the borrower 
+                        has missed at least 2 payments within the last 
+                        6 months; or
+                            ``(iii) which is in forbearance; or
+                    ``(B) any other financial instrument that the 
+                Secretary, after consultation with the Chairman of the 
+                Board of Governors of the Federal Reserve System, 
+                determines the purchase of which is necessary to 
+                promote financial market stability, but only upon 
+                transmittal of such determination, in writing, to the 
+                appropriate committees of Congress.
+            ``(10) Rehabilitated mortgage.--The term `rehabilitated 
+        mortgage' means a mortgage which has been restructured, 
+        refinanced or otherwise modified to lower the borrower's 
+        monthly payment--
+                    ``(A) creating a front-end debt ratio, including 
+                the cost of mortgage principal, interest, taxes, and 
+                insurance, of no more than 30 percent of the gross 
+                monthly income of the borrower; or
+                    ``(B) to a term deemed affordable by the borrower 
+                after full disclosure by the lender and pursuant to 
+                rules as may be established by the Secretary.
+            ``(11) Independent appraiser.--The term `independent 
+        appraiser' means a person who--
+                    ``(A) is licensed pursuant to the laws and 
+                regulations of the State where the person practices;
+                    ``(B) is disclosed to the borrower or buyer; and
+                    ``(C) is not coerced, extorted, induced, 
+                intimidated, bribed or otherwise influenced by or in 
+                collusion with the mortgage lender, mortgaged broker, 
+                mortgage banker, real estate broker, appraisal 
+                management company or other persons or companies having 
+                a vested interest in the transaction.''.
+
+SEC. 3. LIMIT ON AUTHORITY TO WRITE OFF LOSSES.
+
+    Section 101 of the Emergency Economic Stabilization Act of 2008 
+(division A of Public Law 110-343) is amended by striking subsection 
+(a) and inserting the following new subsection:
+    ``(a) Authority.--
+            ``(1) In general.--The Secretary is authorized to establish 
+        the Troubled Asset Restoration and Assistance Program 
+        (hereafter in this title referred to as the `TARAP') to allow 
+        the Treasury to purchase lender or servicer `losses' on 
+        rehabilitated mortgages, on such terms and conditions as are 
+        defined in this Act and determined by the Secretary.
+            ``(2) Authority to purchase.--Through the TARAP, the 
+        Treasury shall pay up to 80 percent of the difference between 
+        the original asset and the rehabilitated asset to the lender or 
+        servicer under certain conditions.
+            ``(3) Write off of remainder.--That portion of the 
+        difference between the original asset and the rehabilitated 
+        asset to the lender or servicer that is not paid for by the 
+        Secretary under paragraph (2) may be written to loss.''.
+
+SEC. 4. REGULATIONS AND GUIDELINES.
+
+    Section 101(c) of the Emergency Economic Stabilization Act of 2008 
+(division A of Public Law 110-343) is amended by striking paragraph (5) 
+and inserting the following new paragraphs:
+            ``(5) Issuing such regulations and other guidance as may be 
+        necessary or appropriate to define terms or carry out the 
+        authorities or purposes of this title including determining 
+        qualifications for an independent appraiser, making the final 
+        determinations as to whether an asset is troubled, what the 
+        values are that will determine the amount of purchase, the 
+        amount of reductions in the purchase price for purposes of 
+        subsection (d)(2), and any other functionality issues required 
+        to operate the program.
+            ``(6) Conforming to guidelines established in subsection 
+        (g), the Secretary is authorized to make all necessary rules 
+        and determinations regarding documented best efforts, required 
+        timelines, and other processes and procedures.''.
+
+SEC. 5. ELIGIBLE ASSET.
+
+    Section 101 of the Emergency Economic Stabilization Act of 2008 
+(division A of Public Law 110-343) is amended--
+            (1) by striking subsection (d);
+            (2) by redesignating subsection (e) as subsection (i); and
+            (3) by inserting after subsection (c) the following new 
+        subsections:
+    ``(d) Eligible Assets.--
+            ``(1) In general.--An asset is eligible for TARAP if--
+                    ``(A) it is the borrower's primary residence; and
+                    ``(B) it--
+                            ``(i) is a troubled asset, as defined in 
+                        section 3(9); or
+                            ``(ii) it was a troubled asset but has been 
+                        rehabilitated by the servicer or lender (as 
+                        defined in section 3(10)) on or after October 
+                        3, 2008, and allowing the borrower to remain in 
+                        the borrower's home.
+            ``(2) Assets not included.--An asset is not eligible for 
+        TARAP if--
+                    ``(A) it was valued at more than 150 percent of the 
+                current fair market value; and
+                    ``(B) the original value was assessed solely by the 
+                lender's appraiser,
+        unless the servicer or lender agrees to such reduction in the 
+        purchase amount as the Secretary may require as a condition for 
+        the purchase.
+    ``(f) Eligible Lender or Servicer.--A lender or servicer is 
+eligible for TARAP assistance if--
+            ``(1) the lender or servicer has agreed to full disclosure 
+        requirements as may be established by the Secretary; or
+            ``(2) the lender or servicer has agreed to use an 
+        independent appraiser and standard appraisal practices as may 
+        be established by the Secretary;
+    ``(g) Program Guidelines.--
+            ``(1) TARAP shall pay a servicer or lender up to 80 percent 
+        of the difference between the original asset and rehabilitated 
+        asset pursuant to such regulations as may be prescribed by the 
+        Secretary.
+            ``(2) The servicer or lender shall use documented best 
+        efforts, prior to foreclosure, to work with the borrower to 
+        create an affordable front-end debt ratio of up to 30 percent 
+        of the borrower's gross monthly income.
+            ``(3) The Secretary may establish mechanisms to provide for 
+        those assets which cannot be rehabilitated under the preceding 
+        guidelines.
+    ``(h) Program Termination.--All authority under this section ceases 
+no later than December 31, 2009.''.
+
+SEC. 6. DEFERRAL OF ALL FORECLOSURES ON ANY PRINCIPAL DWELLING OF A 
+              CONSUMER FOR A 90-DAY PERIOD.
+
+    (a) In General.--Notwithstanding any provision of any State or 
+Federal law, after the date of the enactment of this Act, no creditor, 
+servicer, or holder of such mortgage, or any other person acting on 
+behalf of any such creditor, servicer, or holder, may take any action 
+to initiate a foreclosure, whether judicial or nonjudicial, or any 
+action in connection with a foreclosure already instituted other than 
+to suspend such foreclosure, with respect to any eligible mortgage of a 
+consumer, until the end of the 90-day period beginning on the date of 
+the enactment of this Act.
+    (b) Action by Consumer.--
+            (1) In general.--After the date of the enactment of this 
+        Act, any consumer shall have the right to defer any initiation 
+        of a foreclosure, whether judicial or nonjudicial, or any 
+        action in connection with a foreclosure already instituted, 
+        including any foreclosure sale, with respect to any eligible 
+        mortgage by any creditor, servicer, or holder of such mortgage, 
+        or any other person acting on behalf of any such creditor, 
+        servicer, or holder, until the end of the 90-day period 
+        beginning on the date of the enactment of this Act.
+            (2) Enforcement of right.--Any consumer may defend against 
+        a foreclosure or bring an action in any court of competent or 
+        general jurisdiction to compel compliance with the right of the 
+        consumer under paragraph (1) to defer any initiation of a 
+        foreclosure or any action in connection with a foreclosure 
+        already instituted, including any foreclosure sale, with 
+        respect to any eligible mortgage.
+    (c) Rule of Construction.--No provision of this section shall be 
+construed as affecting or altering the obligations of the consumer 
+under the terms of the eligible mortgage notwithstanding any deferral 
+of foreclosure.
+    (d) Eligible Mortgage Defined.--For purposes of this section, the 
+term ``eligible mortgage'' means any residential mortgage loan to any 
+consumer that constitutes a first lien on the dwelling or real property 
+securing the loan which constitutes, or on which is located, the 
+principal residence of the consumer.
+                                 <all>
+

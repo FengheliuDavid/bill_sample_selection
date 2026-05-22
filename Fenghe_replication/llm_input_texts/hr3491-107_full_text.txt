@@ -1,0 +1,222 @@
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3491 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 3491
+
+To conduct a study on the effectiveness of ballistic imaging technology 
+       and evaluate its effectiveness as a law enforcement tool.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           December 13, 2001
+
+   Ms. Hart introduced the following bill; which was referred to the 
+                       Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To conduct a study on the effectiveness of ballistic imaging technology 
+       and evaluate its effectiveness as a law enforcement tool.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Ballistic Imaging Evaluation and 
+Study Act of 2001''.
+
+SEC. 2. PURPOSES.
+
+    The purposes of this Act are the following:
+            (1) To conduct a comprehensive study of ballistic imaging 
+        technology and evaluate design parameters for packing and 
+        shipping of fired cartridge cases and projectiles.
+            (2) To determine the effectiveness of the National 
+        Integrated Ballistic Information Network (NIBIN) as a tool in 
+        investigating crimes committed with handguns and rifles.
+            (3) To establish the cost and overall effectiveness of 
+        State-mandated ballistic imaging systems and the sharing and 
+        retention of the data collected by the systems.
+
+SEC. 3. STUDY.
+
+    (a) In General.--Not later than 12 months after the date of the 
+enactment of this Act, the Attorney General shall enter into an 
+arrangement with the National Research Council of the National Academy 
+of Sciences, which shall have sole responsibility for conducting under 
+the arrangement a study to determine the following:
+            (1) The design parameters for an effective and uniform 
+        system for packing fired cartridge cases and projectiles, and 
+        for collecting information that will accompany a fired 
+        cartridge case and projectile and be entered into a ballistic 
+        imaging system.
+            (2) The most effective method for projectile recovery that 
+        can be used to collect fired projectiles for entry into a 
+        ballistic imaging system and the cost of such recovery 
+        equipment.
+            (3) Which countries are employing ballistic imaging systems 
+        and the results of the systems as a tool in investigating 
+        crimes committed with handguns and rifles.
+            (4) The comprehensive cost, to date, for Federal, State, 
+        and local jurisdictions that have implemented a ballistic 
+        imaging system to include startup, operating costs, and outlays 
+        for personnel and administration.
+            (5) The estimated yearly cost for administering a ballistic 
+        imaging system, the storage of cartridge cases and projectiles 
+        on a nationwide basis, and the costs to industry and consumers 
+        of doing so.
+            (6) How many revolvers, manually operated handguns, 
+        semiautomatic handguns, manually operated rifles, and 
+        semiautomatic rifles are sold in the United States each year, 
+        the percentage of crimes committed with revolvers, other 
+        manually operated handguns, and manually operated rifles as 
+        compared with semiautomatic handguns and semiautomatic rifles, 
+        and the percentage of each currently on record in the NIBIN 
+        system.
+            (7) Whether in countries where ballistic identification has 
+        been implemented, a shift has occurred in the number of 
+        semiautomatic handguns and semiautomatic rifles, compared with 
+        revolvers, other manually operated handguns, and manually 
+        operated rifles that are used to commit a crime.
+            (8) A comprehensive list of environmental and 
+        nonenvironmental factors, including modifications to a firearm, 
+        that can substantially alter or change the identifying marks on 
+        a cartridge case and projectile so as to preclude a 
+        scientifically reliable comparison between specimens and the 
+        stored image from the same firearm being admissible as evidence 
+        in a court of law.
+            (9) The technical improvements in database management that 
+        will be necessary to keep pace with system growth and the 
+        estimated cost of the improvements.
+            (10) What redundant or duplicate systems exist, or have 
+        existed, the ability of the various systems to share 
+        information, and the cost and time it will take to integrate 
+        operating systems.
+            (11) Legal issues that need to be addressed at the Federal 
+        and State levels to codify the type of information that would 
+        be captured and stored as part of a national ballistic 
+        identification program and the sharing of the information 
+        between State systems and NIBIN.
+            (12) What storage and retrieval procedures guarantee the 
+        integrity of cartridge cases and projectiles for indefinite 
+        periods of time and insure proper chain of custody and 
+        admissibility of ballistic evidence or images in a court of 
+        law.
+            (13) The time, cost, and resources necessary to enter 
+        images of fired cartridge cases and fired projectiles into a 
+        ballistic imaging identification system of all new handguns and 
+        rifles sold in the United States and those possessed lawfully 
+        by firearms owners.
+            (14) Whether an effective procedure is available to collect 
+        fired cartridge cases and projectiles from privately owned 
+        handguns and rifles.
+            (15) Whether the cost of ballistic imaging technology is 
+        worth the investigative benefit to law enforcement officers.
+            (16) Whether State-based ballistic imaging systems, or a 
+        combination of State and Federal ballistic imaging systems that 
+        record and store cartridge cases and projectiles can be used to 
+        create a centralized list of firearms owners.
+            (17) The cost-effectiveness of using a Federal, NIBIN-based 
+        approach to using ballistic imaging technology as opposed to 
+        State-based initiatives.
+
+SEC. 4. CONSULTATION.
+
+    In carrying out this Act, the National Research Council of the 
+National Academy of Sciences shall consult with--
+            (1) Federal, State, and local officials with expertise in 
+        budgeting, administering, and using a ballistic imaging system, 
+        including the Bureau of Alcohol, Tobacco and Firearms, the 
+        Federal Bureau of Investigation, and the Bureau of Forensic 
+        Services at the California Department of Justice;
+            (2) law enforcement officials who use ballistic imaging 
+        systems;
+            (3) entities affected by the actual and proposed uses of 
+        ballistic imaging technology, including manufacturers, 
+        distributors, importers, and retailers of firearms and 
+        ammunition, firearms purchasers and owners and their organized 
+        representatives, the Sporting Arms and Ammunition 
+        Manufacturers' Institute, Inc., and the National Shooting 
+        Sports Foundation, Inc.;
+            (4) experts in ballistics imaging and related fields, such 
+        as the Association of Firearm and Tool Mark Examiners, 
+        projectile recovery system manufacturers, and ballistic imaging 
+        device manufacturers;
+            (5) foreign officials administering ballistic imaging 
+        systems and foreign experts; and
+            (6) individuals or organizations with significant expertise 
+        in the field of ballistic imaging technology, as the Attorney 
+        General deems necessary.
+
+SEC. 5. REPORT.
+
+    Not later than 30 days after the National Research Council of the 
+National Academy of Sciences completes the study conducted under 
+section 3, the National Research Council shall submit to the Attorney 
+General a report on the results of the study, and the Attorney General 
+shall submit to the Congress a report, which shall be made public, that 
+contains--
+            (1) the results of the study; and
+            (2) recommendations for legislation, if applicable.
+
+SEC. 6. SUSPENSION OF USE OF FEDERAL FUNDS FOR BALLISTIC IMAGING 
+              TECHNOLOGY.
+
+    (a) In General.--Notwithstanding any other provision of law, a 
+State shall not use Federal funds for ballistic imaging technology 
+until the report referred to in section 5 is completed and transmitted 
+to the Congress.
+    (b) Waiver Authority.--On request of a State, the Secretary of the 
+Treasury may waive the application of subsection (a) to a use of 
+Federal funds upon a showing that the use would be in the national 
+interest.
+
+SEC. 7. DEFINITIONS.
+
+    In this Act:
+            (1) The term ``ballistic imaging technology'' means 
+        software and hardware that records electronically, stores, 
+        retrieves, and compares the marks or impressions on the 
+        cartridge case and projectile of a round of ammunition fired 
+        from a handgun or rifle.
+            (2) The term ``handgun'' has the meaning given the term in 
+        section 921(a)(29) of title 18, United States Code.
+            (3) The term ``rifle'' has the meaning given the term in 
+        section 921(a)(7) of title 18, United States Code.
+            (4) The term ``cartridge case'' means the part of a fully 
+        assembled ammunition cartridge that contains the propellant and 
+        primer for firing.
+            (5) The terms ``manually operated handgun'' and ``manually 
+        operated rifle'' mean any handgun or rifle, as the case may be, 
+        in which all loading, unloading, and reloading of the firing 
+        chamber is accomplished through manipulation by the user.
+            (6) The term ``semiautomatic handgun'' means any repeating 
+        handgun which utilizes a portion of the energy of a firing 
+        cartridge to extract the fired cartridge case and chamber the 
+        next round, which requires a pull of the trigger to fire each 
+        cartridge.
+            (7) The term ``semiautomatic rifle'' has the meaning given 
+        the term in section 921(a)(28) of title 18, United States Code.
+            (8) The term ``projectile'' means that part of ammunition 
+        that is, by means of an explosive, expelled through the barrel 
+        of a handgun or rifle.
+                                 <all>
+

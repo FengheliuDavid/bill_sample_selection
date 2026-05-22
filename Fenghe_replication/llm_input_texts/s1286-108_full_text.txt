@@ -1,0 +1,1029 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1286 Introduced in Senate (IS)]
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                S. 1286
+
+   To combat nursing home fraud and abuse, increase protections for 
+ victims of telemarketing fraud, enhance safeguards for pension plans 
+  and health care benefit programs, and enhance penalties for crimes 
+                against seniors, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 18, 2003
+
+Mr. Leahy (for himself, Mr. Daschle, Mr. Kennedy, Mr. Feingold, and Mr. 
+   Bingaman) introduced the following bill; which was read twice and 
+               referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To combat nursing home fraud and abuse, increase protections for 
+ victims of telemarketing fraud, enhance safeguards for pension plans 
+  and health care benefit programs, and enhance penalties for crimes 
+                against seniors, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Seniors Safety Act 
+of 2003''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings and purposes.
+Sec. 3. Definitions.
+               TITLE I--COMBATING CRIMES AGAINST SENIORS
+
+Sec. 101. Enhanced sentencing penalties based on age of victim.
+Sec. 102. Study and report on health care fraud sentences.
+Sec. 103. Increased penalties for fraud resulting in serious injury or 
+                            death.
+Sec. 104. Safeguarding pension plans from fraud and theft. 
+Sec. 105. Additional civil penalties for defrauding pension plans. 
+Sec. 106. Punishing bribery and graft in connection with employee 
+                            benefit plans.
+                TITLE II--PREVENTING TELEMARKETING FRAUD
+
+Sec. 201. Centralized complaint and consumer education service for 
+                            victims of telemarketing fraud.
+Sec. 202. Blocking of telemarketing scams.
+                TITLE III--PREVENTING HEALTH CARE FRAUD
+
+Sec. 301. Injunctive authority relating to false claims and illegal 
+                            kickback schemes involving Federal health 
+                            care programs.
+Sec. 302. Authorized investigative demand procedures.
+Sec. 303. Extending antifraud safeguards to the Federal employee health 
+                            benefits program.
+Sec. 304. Grand jury disclosure.
+Sec. 305. Increasing the effectiveness of civil investigative demands 
+                            in false claims investigations.
+            TITLE IV--PROTECTING RESIDENTS OF NURSING HOMES
+
+Sec. 401. Short title.
+Sec. 402. Nursing home resident protection.
+        TITLE V--PROTECTING THE RIGHTS OF ELDERLY CRIME VICTIMS
+
+Sec. 501. Use of forfeited funds to pay restitution to crime victims 
+                            and regulatory agencies.
+Sec. 502. Victim restitution.
+Sec. 503. Bankruptcy proceedings not used to shield illegal gains from 
+                            false claims.
+Sec. 504. Forfeiture for retirement offenses.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) The number of older Americans is rapidly growing in the 
+        United States. According to the 2000 census, 21 percent of the 
+        United States population is 55 years of age or older.
+            (2) In 1997, 7 percent of victims of serious violent crime 
+        were 50 years of age or older.
+            (3) In 1997, 17.7 percent of murder victims were 55 years 
+        of age or older.
+            (4) According to the Department of Justice, persons 65 
+        years of age and older experienced approximately 2,700,000 
+        crimes a year between 1992 and 1997.
+            (5) Older victims of violent crime are almost twice as 
+        likely as younger victims to be raped, robbed, or assaulted at 
+        or in their own homes.
+            (6) Approximately half of all Americans who are 50 years of 
+        age or older are afraid to walk alone at night in their own 
+        neighborhoods.
+            (7) Seniors over 50 years of age reportedly account for 37 
+        percent of the estimated $40,000,000,000 in losses each year 
+        due to telemarketing fraud.
+            (8) A 1996 American Association of Retired Persons survey 
+        of people 50 years of age and older showed that 57 percent were 
+        likely to receive calls from telemarketers at least once a 
+        week.
+            (9) In 1998, Congress enacted legislation to provide for 
+        increased penalties for telemarketing fraud that targets 
+        seniors.
+            (10) It has been estimated that--
+                    (A) approximately 43 percent of persons turning 65 
+                years of age can expect to spend some time in a long-
+                term care facility; and
+                    (B) approximately 20 percent can expect to spend 5 
+                years or more in such a facility.
+            (11) In 1997, approximately $82,800,000,000 was spent on 
+        nursing home care in the United States and over half of this 
+        amount was spent by the Medicaid and Medicare programs.
+            (12) Losses to fraud and abuse in health care reportedly 
+        cost the United States an estimated $100,000,000,000 in 1996.
+            (13) The Inspector General for the Department of Health and 
+        Human Services has estimated that about $12,600,000,000 in 
+        improper Medicare benefit payments, due to inadvertent mistake, 
+        fraud, and abuse were made during fiscal year 1998.
+            (14) Incidents of health care fraud and abuse remain common 
+        despite awareness of the problem.
+    (b) Purposes.--The purposes of this Act are to--
+            (1) combat nursing home fraud and abuse;
+            (2) enhance safeguards for pension plans and health care 
+        programs;
+            (3) develop strategies for preventing and punishing crimes 
+        that target or otherwise disproportionately affect seniors by 
+        collecting appropriate data--
+                    (A) to measure the extent of crimes committed 
+                against seniors; and
+                    (B) to determine the extent of domestic and elder 
+                abuse of seniors; and
+            (4) prevent and deter criminal activity, such as 
+        telemarketing fraud, that results in economic and physical harm 
+        against seniors, and ensure appropriate restitution.
+
+SEC. 3. DEFINITIONS.
+
+    In this Act:
+            (1) Crime.--The term ``crime'' means any criminal offense 
+        under Federal or State law.
+            (2) Nursing home.--The term ``nursing home'' means any 
+        institution or residential care facility defined as such for 
+        licensing purposes under State law, or if State law does not 
+        employ the term nursing home, the equivalent term or terms as 
+        determined by the Secretary of Health and Human Services, 
+        pursuant to section 1908(e) of the Social Security Act (42 
+        U.S.C. 1396g(e)).
+            (3) Senior.--The term ``senior'' means an individual who is 
+        more than 55 years of age.
+
+               TITLE I--COMBATING CRIMES AGAINST SENIORS
+
+SEC. 101. ENHANCED SENTENCING PENALTIES BASED ON AGE OF VICTIM.
+
+    (a) Directive to the United States Sentencing Commission.--Pursuant 
+to its authority under section 994(p) of title 28, United States Code, 
+and in accordance with this section, the United States Sentencing 
+Commission (referred to in this section as the ``Commission'') shall 
+review and, if appropriate, amend section 3A1.1(a) of the Federal 
+sentencing guidelines to include the age of a crime victim as one of 
+the criteria for determining whether the application of a sentencing 
+enhancement is appropriate.
+    (b) Requirements.--In carrying out this section, the Commission 
+shall--
+            (1) ensure that the Federal sentencing guidelines and the 
+        policy statements of the Commission reflect the serious 
+        economic and physical harms associated with criminal activity 
+        targeted at seniors due to their particular vulnerability;
+            (2) consider providing increased penalties for persons 
+        convicted of offenses in which the victim was a senior in 
+        appropriate circumstances;
+            (3) consult with individuals or groups representing 
+        seniors, law enforcement agencies, victims organizations, and 
+        the Federal judiciary as part of the review described in 
+        subsection (a);
+            (4) ensure reasonable consistency with other Federal 
+        sentencing guidelines and directives;
+            (5) account for any aggravating or mitigating circumstances 
+        that may justify exceptions, including circumstances for which 
+the Federal sentencing guidelines provide sentencing enhancements;
+            (6) make any necessary conforming changes to the Federal 
+        sentencing guidelines; and
+            (7) ensure that the Federal sentencing guidelines 
+        adequately meet the purposes of sentencing set forth in section 
+        3553(a)(2) of title 18, United States Code.
+    (c) Report.--Not later than December 31, 2004, the Commission shall 
+submit to Congress a report on issues relating to the age of crime 
+victims, which shall include--
+            (1) an explanation of any changes to sentencing policy made 
+        by the Commission under this section; and
+            (2) any recommendations of the Commission for retention or 
+        modification of penalty levels, including statutory penalty 
+        levels, for offenses involving seniors.
+
+SEC. 102. STUDY AND REPORT ON HEALTH CARE FRAUD SENTENCES.
+
+    (a) Directive to the United States Sentencing Commission.--Pursuant 
+to its authority under section 994(p) of title 28, United States Code, 
+and in accordance with this section, the United States Sentencing 
+Commission (referred to in this section as the ``Commission'') shall 
+review and, if appropriate, amend the Federal sentencing guidelines and 
+the policy statements of the Commission with respect to persons 
+convicted of offenses involving fraud in connection with a health care 
+benefit program (as defined in section 24(b) of title 18, United States 
+Code).
+    (b) Requirements.--In carrying out this section, the Commission 
+shall--
+            (1) ensure that the Federal sentencing guidelines and the 
+        policy statements of the Commission reflect the serious harms 
+        associated with health care fraud and the need for aggressive 
+        and appropriate law enforcement action to prevent such fraud;
+            (2) consider providing increased penalties for persons 
+        convicted of health care fraud in appropriate circumstances;
+            (3) consult with individuals or groups representing victims 
+        of health care fraud, law enforcement agencies, the health care 
+        industry, and the Federal judiciary as part of the review 
+        described in subsection (a);
+            (4) ensure reasonable consistency with other Federal 
+        sentencing guidelines and directives;
+            (5) account for any aggravating or mitigating circumstances 
+        that might justify exceptions, including circumstances for 
+        which the Federal sentencing guidelines provide sentencing 
+        enhancements;
+            (6) make any necessary conforming changes to the Federal 
+        sentencing guidelines; and
+            (7) ensure that the Federal sentencing guidelines 
+        adequately meet the purposes of sentencing as set forth in 
+        section 3553(a)(2) of title 18, United States Code.
+    (c) Report.--Not later than December 31, 2004, the Commission shall 
+submit to Congress a report on issues relating to offenses described in 
+subsection (a), which shall include--
+            (1) an explanation of any changes to sentencing policy made 
+        by the Commission under this section; and
+            (2) any recommendations of the Commission for retention or 
+        modification of penalty levels, including statutory penalty 
+        levels, for those offenses.
+
+SEC. 103. INCREASED PENALTIES FOR FRAUD RESULTING IN SERIOUS INJURY OR 
+              DEATH.
+
+    Sections 1341 and 1343 of title 18, United States Code, are each 
+amended by inserting before the last sentence the following: ``If the 
+violation results in serious bodily injury (as defined in section 
+1365), such person shall be fined under this title, imprisoned not more 
+than 20 years, or both, and if the violation results in death, such 
+person shall be fined under this title, imprisoned for any term of 
+years or life, or both.''.
+
+SEC. 104. SAFEGUARDING PENSION PLANS FROM FRAUD AND THEFT.
+
+    (a) In General.--Chapter 63 of title 18, United States Code, is 
+amended by adding at the end the following:
+``Sec. 1351. Fraud in relation to retirement arrangements
+    ``(a) Definition.--
+            ``(1) Retirement arrangement.--In this section, the term 
+        `retirement arrangement' means--
+                    ``(A) any employee pension benefit plan subject to 
+                any provision of title I of the Employee Retirement 
+                Income Security Act of 1974;
+                    ``(B) any qualified retirement plan within the 
+                meaning of section 4974(c) of the Internal Revenue Code 
+                of 1986;
+                    ``(C) any medical savings account described in 
+                section 220 of the Internal Revenue Code of 1986; or
+                    ``(D) a fund established within the Thrift Savings 
+                Fund by the Federal Retirement Thrift Investment Board 
+                pursuant to subchapter III of chapter 84 of title 5.
+            ``(2) Certain arrangements included.--The term `retirement 
+        arrangement' shall include any arrangement that has been 
+        represented to be an arrangement described in any subparagraph 
+        of paragraph (1) (whether or not so described).
+            ``(3) Exception for governmental plan.--Except as provided 
+        in paragraph (1)(D), the term `retirement arrangement' shall 
+        not include any governmental plan (as defined in section 3(32) 
+        of title I of the Employee Retirement Income Security Act of 
+        1974 (29 U.S.C. 1002(32))).
+    ``(b) Prohibition and Penalties.--Whoever executes, or attempts to 
+execute, a scheme or artifice--
+            ``(1) to defraud any retirement arrangement or other person 
+        in connection with the establishment or maintenance of a 
+        retirement arrangement; or
+            ``(2) to obtain, by means of false or fraudulent pretenses, 
+        representations, or promises, any of the money or property 
+        owned by, or under the custody or control of, any retirement 
+        arrangement or other person in connection with the 
+        establishment or maintenance of a retirement arrangement;
+shall be fined under this title, imprisoned not more than 10 years, or 
+both.
+    ``(c) Enforcement.--
+            ``(1) In general.--Subject to paragraph (2), the Attorney 
+        General may investigate any violation of, and otherwise 
+        enforce, this section.
+            ``(2) Effect on other authority.--Nothing in this 
+        subsection may be construed to preclude the Secretary of Labor 
+        or the head of any other appropriate Federal agency from 
+        investigating a violation of this section in relation to a 
+        retirement arrangement subject to title I of the Employee 
+        Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) 
+        or any other provision of Federal law.''.
+    (b) Technical Amendment.--Section 24(a)(1) of title 18, United 
+States Code, is amended by inserting ``1351,'' after ``1347,''.
+    (c) Conforming Amendment.--The analysis for chapter 63 of title 18, 
+United States Code, is amended by adding at the end the following:
+
+``1351. Fraud in relation to retirement arrangements.''.
+
+SEC. 105. ADDITIONAL CIVIL PENALTIES FOR DEFRAUDING PENSION PLANS.
+
+    (a) In General.--
+            (1) Action by attorney general.--Except as provided in 
+        subsection (b)--
+                    (A) the Attorney General may bring a civil action 
+                in the appropriate district court of the United States 
+                against any person who engages in conduct constituting 
+                an offense under section 1351 of title 18, United 
+                States Code, or conspiracy to violate such section 
+                1351; and
+                    (B) upon proof of such conduct by a preponderance 
+                of the evidence, such person shall be subject to a 
+                civil penalty in an amount equal to the greatest of--
+                            (i) the amount of pecuniary gain to that 
+                        person;
+                            (ii) the amount of pecuniary loss sustained 
+                        by the victim; or
+                            (iii) not more than--
+                                    (I) $50,000 for each such violation 
+                                in the case of an individual; or
+                                    (II) $100,000 for each such 
+                                violation in the case of a person other 
+                                than an individual.
+            (2) No effect on other remedies.--The imposition of a civil 
+        penalty under this subsection does not preclude any other 
+        statutory, common law, or administrative remedy available by 
+        law to the United States or any other person.
+    (b) Exception.--No civil penalty may be imposed pursuant to 
+subsection (a) with respect to conduct involving a retirement 
+arrangement that--
+            (1) is an employee pension benefit plan subject to title I 
+        of the Employee Retirement Income Security Act of 1974; and
+            (2) for which the civil penalties may be imposed under 
+        section 502 of the Employee Retirement Income Security Act of 
+        1974 (29 U.S.C. 1132).
+    (c) Determination of Penalty Amount.--In determining the amount of 
+the penalty under subsection (a), the district court may consider the 
+effect of the penalty on the violator or other person's ability to--
+            (1) restore all losses to the victims; or
+            (2) provide other relief ordered in another civil or 
+        criminal prosecution related to such conduct, including any 
+        penalty or tax imposed on the violator or other person pursuant 
+        to the Internal Revenue Code of 1986.
+
+SEC. 106. PUNISHING BRIBERY AND GRAFT IN CONNECTION WITH EMPLOYEE 
+              BENEFIT PLANS.
+
+    (a) In General.--Section 1954 of title 18, United States Code, is 
+amended to read as follows:
+``Sec. 1954. Bribery and graft in connection with employee benefit 
+              plans
+    ``(a) Definitions.--In this section--
+            ``(1) the term `employee benefit plan' means any employee 
+        welfare benefit plan or employee pension benefit plan subject 
+        to any provision of title I of the Employee Retirement Income 
+        Security Act of 1974;
+            ``(2) the terms `employee organization', `administrator', 
+        and `employee benefit plan sponsor' mean any employee 
+        organization, administrator, or plan sponsor, as defined in 
+        title I of the Employment Retirement Income Security Act of 
+        1974; and
+            ``(3) the term `applicable person' means--
+                    ``(A) an administrator, officer, trustee, 
+                custodian, counsel, agent, or employee of any employee 
+                benefit plan;
+                    ``(B) an officer, counsel, agent, or employee of an 
+                employer or an employer any of whose employees are 
+                covered by such plan;
+                    ``(C) an officer, counsel, agent, or employee of an 
+                employee organization any of whose members are covered 
+                by such plan;
+                    ``(D) a person who, or an officer, counsel, agent, 
+                or employee of an organization that, provides benefit 
+                plan services to such plan; or
+                    ``(E) a person with actual or apparent influence or 
+                decisionmaking authority in regard to such plan.
+    ``(b) Bribery and Graft.--Whoever--
+            ``(1) being an applicable person, receives or agrees to 
+        receive or solicits, any fee, kickback, commission, gift, loan, 
+        money, or thing of value, personally or for any other person, 
+        because of or with the intent to be corruptly influenced with 
+        respect to any action, decision, or duty of that applicable 
+        person relating to any question or matter concerning an 
+        employee benefit plan;
+            ``(2) directly or indirectly, gives or offers, or promises 
+        to give or offer, any fee, kickback, commission, gift, loan, 
+        money, or thing of value, to any applicable person, because of 
+        or with the intent to be corruptly influenced with respect to 
+        any action, decision, or duty of that applicable person 
+        relating to any question or matter concerning an employee 
+        benefit plan; or
+            ``(3) attempts to give, accept, or receive any thing of 
+        value with the intent to be corruptly influenced in violation 
+        of this section;
+shall be fined under this title, imprisoned not more than 5 years, or 
+both.
+    ``(c) Exceptions.--Nothing in this section may be construed to 
+apply to any--
+            ``(1) payment to, or acceptance by, any person of bona fide 
+        salary, compensation, or other payments made for goods or 
+        facilities actually furnished or for services actually 
+        performed in the regular course of his duties as an applicable 
+        person; or
+            ``(2) payment to, or acceptance in good faith by, any 
+        employee benefit plan sponsor, or person acting on behalf of 
+        the sponsor, of anything of value relating to the decision or 
+        action of the sponsor to establish, terminate, or modify the 
+        governing instruments of an employee benefit plan in a manner 
+        that does not violate--
+                    ``(A) title I of the Employee Retirement Income 
+                Security Act of 1974;
+                    ``(B) any regulation or order promulgated under 
+                title I of the Employee Retirement Income Security Act 
+                of 1974; or
+                    ``(C) any other provision of law governing the 
+                plan.''.
+    (b) Conforming Amendment.--The analysis for chapter 95 of title 18, 
+United States Code, is amended by striking the item relating to section 
+1954 and inserting the following:
+
+``1954. Bribery and graft in connection with employee benefit plans.''.
+
+                TITLE II--PREVENTING TELEMARKETING FRAUD
+
+SEC. 201. CENTRALIZED COMPLAINT AND CONSUMER EDUCATION SERVICE FOR 
+              VICTIMS OF TELEMARKETING FRAUD.
+
+    (a) Centralized Service.--
+            (1) Requirement.--The Federal Trade Commission shall, after 
+        consultation with the Attorney General, establish procedures 
+        to--
+                    (A) log the receipt of complaints by individuals 
+                who claim that they have been the victim of fraud in 
+                connection with the conduct of telemarketing (as that 
+                term is defined in section 2325 of title 18, United 
+                States Code, as amended by section 202(a) of this Act);
+                    (B) provide to individuals described in 
+                subparagraph (A), and to any other persons, if 
+                requested, information on telemarketing fraud, 
+                including--
+                            (i) general information on telemarketing 
+                        fraud, including descriptions of the most 
+                        common telemarketing fraud schemes;
+                            (ii) information on means of referring 
+                        complaints on telemarketing fraud to 
+                        appropriate law enforcement agencies, including 
+                        the Director of the Federal Bureau of 
+                        Investigation, the attorneys general of the 
+                        States, and the national toll-free telephone 
+                        number on telemarketing fraud established by 
+                        the Attorney General; and
+                            (iii) information, if available, on any 
+                        record of civil or criminal law enforcement 
+                        action for telemarketing fraud against a 
+                        particular company for which a specific request 
+                        has been made; and
+                    (C) refer complaints described in subparagraph (A), 
+                as appropriate, to law enforcement authorities, 
+                including State consumer protection agencies or 
+                entities, for potential action.
+            (2) Commencement.--The Federal Trade Commission shall 
+        commence carrying out the service not later than 1 year after 
+        the date of enactment of this Act.
+    (b) Fraud Conviction Data.--
+            (1) Entry of information on convictions into ftc 
+        database.--The Attorney General shall provide information on 
+        the corporations and companies that are the subject of civil or 
+        criminal law enforcement action for telemarketing fraud under 
+        Federal and State law to the Federal Trade Commission in such 
+        electronic format as will enable the Federal Trade Commission 
+        to automatically enter the information into a database 
+        maintained in accordance with subsection (a).
+            (2) Information.--The information described in paragraph 
+        (1) shall include a description of the type and method of the 
+        fraud scheme that prompted the law enforcement action against 
+        each such corporation or company.
+            (3) Use of database.--The Attorney General shall make 
+        information in the database available to the Federal Trade 
+        Commission for purposes of providing information as part of the 
+        service under subsection (a).
+    (c) Authorization of Appropriations.--There is authorized to be 
+appropriated such sums as may be necessary to carry out this section.
+
+SEC. 202. BLOCKING OF TELEMARKETING SCAMS.
+
+    (a) Expansion of Scope of Telemarketing Fraud Subject to Enhanced 
+Criminal Penalties.--Section 2325(1) of title 18, United States Code, 
+is amended by striking ``telephone calls'' and inserting ``wire 
+communications utilizing a telephone service''.
+    (b) Blocking or Termination of Telephone Service Associated With 
+Telemarketing Fraud.--
+            (1) In general.--Chapter 113A of title 18, United States 
+        Code, is amended by adding at the end the following:
+``Sec. 2328. Blocking or termination of telephone service
+    ``(a) Definitions.--In this section:
+            ``(1) Reasonable notice to the subscriber.--
+                    ``(A) In general.--The term `reasonable notice to 
+                the subscriber', in the case of a subscriber of a 
+                common carrier, means any information necessary to 
+                provide notice to the subscriber that--
+                            ``(i) the wire communications facilities 
+                        furnished by the common carrier may not be used 
+                        for the purpose of transmitting, receiving, 
+                        forwarding, or delivering a wire communication 
+                        in interstate or foreign commerce for the 
+                        purpose of executing any scheme or artifice to 
+                        defraud in connection with the conduct of 
+                        telemarketing; and
+                            ``(ii) such use constitutes sufficient 
+                        grounds for the immediate discontinuance or 
+                        refusal of the leasing, furnishing, or 
+                        maintaining of the facilities to or for the 
+                        subscriber.
+                    ``(B) Included matter.--The term includes any 
+                tariff filed by the common carrier with the Federal 
+                Communications Commission that contains the information 
+                specified in subparagraph (A).
+            ``(2) Wire communication.--The term `wire communication' 
+        has the same meaning given that term in section 2510(1).
+            ``(3) Wire communications facility.--The term `wire 
+        communications facility' means any facility (including 
+        instrumentalities, personnel, and services) used by a common 
+        carrier for purposes of the transmission, receipt, forwarding, 
+        or delivery of wire communications.
+    ``(b) Blocking or Terminating Telephone Service.--If a common 
+carrier subject to the jurisdiction of the Federal Communications 
+Commission is notified in writing by the Attorney General, acting 
+within the jurisdiction of the Attorney General, that any wire 
+communications facility furnished by that common carrier is being used 
+or will be used by a subscriber for the purpose of transmitting or 
+receiving a wire communication in interstate or foreign commerce for 
+the purpose of executing any scheme or artifice to defraud, or for 
+obtaining money or property by means of false or fraudulent pretenses, 
+representations, or promises, in connection with the conduct of 
+telemarketing, the common carrier shall discontinue or refuse the 
+leasing, furnishing, or maintaining of the facility to or for the 
+subscriber after reasonable notice to the subscriber.
+    ``(c) Prohibition on Damages.--No damages, penalty, or forfeiture, 
+whether civil or criminal, shall be found or imposed against any common 
+carrier for any act done by the common carrier in compliance with a 
+notice received from the Attorney General under this section.
+    ``(d) Relief.--
+            ``(1) In general.--Nothing in this section may be construed 
+        to prejudice the right of any person affected thereby to secure 
+        an appropriate determination, as otherwise provided by law, in 
+        a Federal court, that--
+                    ``(A) the leasing, furnishing, or maintaining of a 
+                facility should not be discontinued or refused under 
+                this section; or
+                    ``(B) the leasing, furnishing, or maintaining of a 
+                facility that has been so discontinued or refused 
+                should be restored.
+            ``(2) Supporting information.--In any action brought under 
+        this subsection, the court may direct that the Attorney General 
+        present evidence in support of the notice made under subsection 
+        (b) to which such action relates.''.
+            (2) Conforming amendment.--The analysis for chapter 113A of 
+        title 18, United States Code, is amended by adding at the end 
+        the following:
+
+``2328. Blocking or termination of telephone service.''.
+
+                TITLE III--PREVENTING HEALTH CARE FRAUD
+
+SEC. 301. INJUNCTIVE AUTHORITY RELATING TO FALSE CLAIMS AND ILLEGAL 
+              KICKBACK SCHEMES INVOLVING FEDERAL HEALTH CARE PROGRAMS.
+
+    (a) In General.--Section 1345(a) of title 18, United States Code, 
+is amended--
+            (1) in paragraph (1)--
+                    (A) in subparagraph (B), by striking ``, or'' and 
+                inserting a semicolon;
+                    (B) in subparagraph (C), by striking the period at 
+                the end and inserting ``; or''; and
+                    (C) by adding at the end the following:
+            ``(D) committing or about to commit an offense under 
+        section 1128B of the Social Security Act (42 U.S.C. 1320a-
+        7b);''; and
+            (2) in paragraph (2), by inserting ``a violation of 
+        paragraph (1)(D),'' before ``a banking''.
+    (b) Civil Actions.--
+            (1) In general.--Section 1128B of the Social Security Act 
+        (42 U.S.C. 1320a-7b) is amended by adding at the end the 
+        following:
+    ``(g) Civil Actions.--
+            ``(1) In general.--The Attorney General may bring an action 
+        in the appropriate district court of the United States to 
+        impose upon any person who carries out any activity in 
+        violation of this section with respect to a Federal health care 
+        program a civil penalty of not more than $50,000 for each such 
+        violation, or damages of 3 times the total remuneration 
+        offered, paid, solicited, or received, whichever is greater.
+            ``(2) Existence of violation.--A violation exists under 
+        paragraph (1) if 1 or more purposes of the remuneration is 
+        unlawful, and the damages shall be the full amount of such 
+        remuneration.
+            ``(3) Procedures.--An action under paragraph (1) shall be 
+        governed by--
+                    ``(A) the procedures with regard to subpoenas, 
+                statutes of limitations, standards of proof, and 
+                collateral estoppel set forth in section 3731 of title 
+                31, United States Code; and
+                    ``(B) the Federal Rules of Civil Procedure.
+            ``(4) No effect on other remedies.--Nothing in this section 
+        may be construed to affect the availability of any other 
+        criminal or civil remedy.
+    ``(h) Injunctive Relief.--The Attorney General may commence a civil 
+action in an appropriate district court of the United States to enjoin 
+a violation of this section, as provided in section 1345 of title 18, 
+United States Code.''.
+            (2) Conforming amendment.--The heading of section 1128B of 
+        the Social Security Act (42 U.S.C. 1320a-7b) is amended by 
+        inserting ``AND CIVIL'' after ``CRIMINAL''.
+
+SEC. 302. AUTHORIZED INVESTIGATIVE DEMAND PROCEDURES.
+
+    Section 3486 of title 18, United States Code, is amended--
+            (1) in subsection (a), by inserting ``, or any allegation 
+        of fraud or false claims (whether criminal or civil) in 
+        connection with a Federal health care program (as defined in 
+        section 1128B(f) of the Social Security Act (42 U.S.C. 1320a-
+        7b(f))),'' after ``Federal health care offense'' each place it 
+        appears; and
+            (2) by adding at the end the following:
+    ``(f) Privacy Protection.--
+            ``(1) In general.--Except as provided in paragraph (2), any 
+        record (including any book, paper, document, electronic medium, 
+        or other object or tangible thing) produced pursuant to a 
+        subpoena issued under this section that contains personally 
+        identifiable health information may not be disclosed to any 
+        person, except pursuant to a court order under subsection 
+        (e)(1).
+            ``(2) Exceptions.--A record described in paragraph (1) may 
+        be disclosed--
+                    ``(A) to an attorney for the Government for use in 
+                the performance of the official duty of the attorney 
+                (including presentation to a Federal grand jury);
+                    ``(B) to government personnel (including personnel 
+                of a State or subdivision of a State) as are determined 
+                to be necessary by an attorney for the Government to 
+                assist an attorney for the Government in the 
+                performance of the official duty of that attorney to 
+                enforce Federal criminal law;
+                    ``(C) as directed by a court preliminarily to, or 
+                in connection with, a judicial proceeding;
+                    ``(D) as permitted by a court at the request of a 
+                defendant in an administrative, civil, or criminal 
+                action brought by the United States, upon a showing 
+                that grounds may exist for a motion to exclude evidence 
+                obtained under this section; or
+                    ``(E) at the request of an attorney for the 
+                Government, upon a showing that such matters may 
+                disclose a violation of State criminal law, to an 
+                appropriate official of a State or subdivision of a 
+                State for the purpose of enforcing such law.
+            ``(3) Manner of court ordered disclosures.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), if a court orders the disclosure of 
+                any record described in paragraph (1), the disclosure--
+                            ``(i) shall be made in such manner, at such 
+                        time, and under such conditions as the court 
+                        may direct; and
+                            ``(ii) shall be undertaken in a manner that 
+                        preserves the confidentiality and privacy of 
+                        individuals who are the subject of the record.
+                    ``(B) Exception.--If disclosure is required by the 
+                nature of the proceedings, the attorney for the 
+                Government shall request that the presiding judicial or 
+                administrative officer enter an order limiting the 
+                disclosure of the record to the maximum extent 
+                practicable, including redacting the personally 
+                identifiable health information from publicly disclosed 
+                or filed pleadings or records.
+            ``(4) Destruction of records.--Any record described in 
+        paragraph (1), and all copies of that record, in whatever form 
+        (including electronic), shall be destroyed not later than 90 
+        days after the date on which the record is produced, unless 
+        otherwise ordered by a court of competent jurisdiction, upon a 
+        showing of good cause.
+            ``(5) Effect of violation.--Any person who knowingly fails 
+        to comply with this subsection may be punished as in contempt 
+        of court.
+    ``(g) Personally Identifiable Health Information Defined.--In this 
+section, the term `personally identifiable health information' means 
+any information, including genetic information, demographic 
+information, and tissue samples collected from an individual, whether 
+oral or recorded in any form or medium, that--
+            ``(1) relates to the past, present, or future physical or 
+        mental health or condition of an individual, the provision of 
+        health care to an individual, or the past, present, or future 
+        payment for the provision of health care to an individual; and
+            ``(2) either--
+                    ``(A) identifies an individual; or
+                    ``(B) with respect to which there is a reasonable 
+                basis to believe that the information can be used to 
+                identify an individual.''.
+
+SEC. 303. EXTENDING ANTIFRAUD SAFEGUARDS TO THE FEDERAL EMPLOYEE HEALTH 
+              BENEFITS PROGRAM.
+
+    Section 1128B(f)(1) of the Social Security Act (42 U.S.C. 1320a-
+7b(f)(1)) is amended by striking ``(other than the health insurance 
+program under chapter 89 of title 5, United States Code)''.
+
+SEC. 304. GRAND JURY DISCLOSURE.
+
+    Section 3322 of title 18, United States Code, is amended--
+            (1) by redesignating subsections (c) and (d) as subsections 
+        (d) and (e), respectively; and
+            (2) by inserting after subsection (b) the following:
+    ``(c) Grand Jury Disclosure.--Subject to section 3486(f), upon ex 
+parte motion of an attorney for the Government showing that a 
+disclosure in accordance with that subsection would be of assistance to 
+enforce any provision of Federal law, a court may direct the disclosure 
+of any matter occurring before a grand jury during an investigation of 
+a Federal health care offense (as defined in section 24(a) of this 
+title) to an attorney for the Government to use in any investigation or 
+civil proceeding relating to fraud or false claims in connection with a 
+Federal health care program (as defined in section 1128B(f) of the 
+Social Security Act (42 U.S.C. 1320a-7b(f))).''.
+
+SEC. 305. INCREASING THE EFFECTIVENESS OF CIVIL INVESTIGATIVE DEMANDS 
+              IN FALSE CLAIMS INVESTIGATIONS.
+
+    Section 3733 of title 31, United States Code, is amended--
+            (1) in subsection (a)(1), in the second sentence, by 
+        inserting ``, except to the Deputy Attorney General or to an 
+        Assistant Attorney General'' before the period at the end; and
+            (2) in subsection (i)(2)(C), by adding at the end the 
+        following: ``Disclosure of information to a person who brings a 
+        civil action under section 3730, or the counsel of that person, 
+        shall be allowed only upon application to a United States 
+        district court showing that such disclosure would assist the 
+        Department of Justice in carrying out its statutory 
+        responsibilities.''.
+
+            TITLE IV--PROTECTING RESIDENTS OF NURSING HOMES
+
+SEC. 401. SHORT TITLE.
+
+    This title may be cited as the ``Nursing Home Resident Protection 
+Act of 2002''.
+
+SEC. 402. NURSING HOME RESIDENT PROTECTION.
+
+    (a) Protection of Residents in Nursing Homes and Other Residential 
+Health Care Facilities.--Chapter 63 of title 18, United States Code, is 
+amended by adding at the end the following:
+``Sec. 1352. Pattern of violations resulting in harm to residents of 
+              nursing homes and related facilities
+    ``(a) Definitions.--In this section:
+            ``(1) Entity.--The term `entity' means--
+                    ``(A) any residential health care facility 
+                (including facilities that do not exclusively provide 
+                residential health care services);
+                    ``(B) any entity that manages a residential health 
+                care facility; or
+                    ``(C) any entity that owns, directly or indirectly, 
+                a controlling interest or a 50 percent or greater 
+                interest in 1 or more residential health care 
+                facilities including States, localities, and political 
+                subdivisions thereof.
+            ``(2) Federal health care program.--The term `Federal 
+        health care program' has the same meaning given that term in 
+        section 1128B(f) of the Social Security Act.
+            ``(3) Pattern of violations.--The term `pattern of 
+        violations' means multiple violations of a single Federal or 
+        State law, regulation, or rule or single violations of multiple 
+        Federal or State laws, regulations, or rules, that are 
+        widespread, systemic, repeated, similar in nature, or result 
+        from a policy or practice.
+            ``(4) Residential health care facility.--The term 
+        `residential health care facility' means any facility 
+        (including any facility that does not exclusively provide 
+        residential health care services), including skilled and 
+        unskilled nursing facilities and mental health and mental 
+        retardation facilities, that--
+                    ``(A) receives Federal funds, directly from the 
+                Federal Government or indirectly from a third party on 
+                contract with or receiving a grant or other monies from 
+                the Federal Government, to provide health care; or
+                    ``(B) provides health care services in a 
+                residential setting and, in any calendar year in which 
+                a violation occurs, is the recipient of benefits or 
+                payments in excess of $10,000 from a Federal health 
+                care program.
+            ``(5) State.--The term `State' means each of the several 
+        States of the United States, the District of Columbia, and any 
+        commonwealth, territory, or possession of the United States.
+    ``(b) Prohibition and Penalties.--Whoever knowingly and willfully 
+engages in a pattern of violations that affects the health, safety, or 
+care of individuals residing in a residential health care facility or 
+facilities, and that results in significant physical or mental harm to 
+1 or more of such residents, shall be punished as provided in section 
+1347, except that any organization shall be fined not more than 
+$2,000,000 per residential health care facility.
+    ``(c) Civil Provisions.--
+            ``(1) In general.--The Attorney General may bring an action 
+        in a district court of the United States to impose on any 
+        individual or entity that engages in a pattern of violations 
+        that affects the health, safety, or care of individuals 
+        residing in a residential health care facility, and that 
+        results in physical or mental harm to 1 or more such 
+        residents--
+                    ``(A) a civil penalty; or
+                    ``(B) in the case of--
+                            ``(i) an individual (other than an owner, 
+                        operator, officer, or manager of such a 
+                        residential health care facility), not more 
+                        than $10,000;
+                            ``(ii) an individual who is an owner, 
+                        operator, officer, or manager of such a 
+                        residential health care facility, not more than 
+                        $100,000 for each separate facility involved in 
+                        the pattern of violations under this section;
+                            ``(iii) a residential health care facility, 
+                        not more than $1,000,000 for each pattern of 
+                        violations; or
+                            ``(iv) an entity, not more than $1,000,000 
+                        for each separate residential health care 
+                        facility involved in the pattern of violations 
+                        owned or managed by that entity.
+            ``(2) Other appropriate relief.--If the Attorney General 
+        has reason to believe that an individual or entity is engaging 
+        in or is about to engage in a pattern of violations that would 
+        affect the health, safety, or care of individuals residing in a 
+        residential health care facility, and that results in or has 
+        the potential to result in physical or mental harm to 1 or more 
+        such residents, the Attorney General may petition an 
+        appropriate district court of the United States for appropriate 
+        equitable and declaratory relief to eliminate the pattern of 
+        violations.
+            ``(3) Procedures.--In any action under this subsection--
+                    ``(A) a subpoena requiring the attendance of a 
+                witness at a trial or hearing may be served at any 
+                place in the United States;
+                    ``(B) the action may not be brought more than 6 
+                years after the date on which the violation occurred;
+                    ``(C) the United States shall be required to prove 
+                each charge by a preponderance of the evidence;
+                    ``(D) the civil investigative demand procedures set 
+                forth in the Antitrust Civil Process Act (15 U.S.C. 
+                1311 et seq.) and regulations promulgated pursuant to 
+                that Act shall apply to any investigation; and
+                    ``(E) the filing or resolution of a matter shall 
+                not preclude any other remedy that is available to the 
+                United States or any other person.
+    ``(d) Prohibition Against Retaliation.--Any person who is the 
+subject of retaliation, either directly or indirectly, for reporting a 
+condition that may constitute grounds for relief under this section may 
+bring an action in an appropriate district court of the United States 
+for damages, attorneys' fees, and other relief.''.
+    (b) Authorized Investigative Demand Procedures.--Section 3486(a)(1) 
+of title 18, United States Code, as amended by section 302 of this Act, 
+is amended by inserting ``, act or activity involving section 1352 of 
+this title'' after ``Federal health care offense''.
+    (c) Conforming Amendment.--The analysis for chapter 63 of title 18, 
+United States Code, is amended by adding at the end the following:
+
+``1352. Pattern of violations resulting in harm to residents of nursing 
+                            homes and related facilities.''.
+
+        TITLE V--PROTECTING THE RIGHTS OF ELDERLY CRIME VICTIMS
+
+SEC. 501. USE OF FORFEITED FUNDS TO PAY RESTITUTION TO CRIME VICTIMS 
+              AND REGULATORY AGENCIES.
+
+    Section 981(e) of title 18, United States Code, is amended--
+            (1) in each of paragraphs (3), (4), and (5), by striking 
+        ``in the case of property referred to in subsection 
+        (a)(1)(C),'' and inserting ``in the case of property forfeited 
+        in connection with an offense resulting in a pecuniary loss to 
+        a financial institution or regulatory agency,''; and
+            (2) in paragraph (7), by striking ``In the case of property 
+        referred to in subsection (a)(1)(D)'' and inserting ``in the 
+        case of property forfeited in connection with an offense 
+        relating to the sale of assets acquired or held by any Federal 
+        financial institution or regulatory agency, or person appointed 
+        by such agency, as receiver, conservator, or liquidating agent 
+        for a financial institution''.
+
+SEC. 502. VICTIM RESTITUTION.
+
+    Section 413 of the Controlled Substances Act (21 U.S.C. 853) is 
+amended by adding at the end the following:
+    ``(r) Victim Restitution.--
+            ``(1) Satisfaction of order of restitution.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), a defendant may not use property 
+                subject to forfeiture under this section to satisfy an 
+                order of restitution.
+                    ``(B) Exception.--If there are 1 or more 
+                identifiable victims entitled to restitution from a 
+                defendant, and the defendant has no assets other than 
+                the property subject to forfeiture with which to pay 
+                restitution to the victim or victims, the attorney for 
+                the Government may move to dismiss a forfeiture 
+                allegation against the defendant before entry of a 
+                judgment of forfeiture in order to allow the property 
+                to be used by the defendant to pay restitution in 
+                whatever manner the court determines to be appropriate 
+                if the court grants the motion. In granting a motion 
+                under this subparagraph, the court shall include a 
+                provision ensuring that costs associated with the 
+                identification, seizure, management, and disposition of 
+                the property are recovered by the United States.
+            ``(2) Restoration of forfeited property.--
+                    ``(A) In general.--If an order of forfeiture is 
+                entered pursuant to this section and the defendant has 
+                no assets other than the forfeited property to pay 
+                restitution to 1 or more identifiable victims who are 
+                entitled to restitution, the Government shall restore 
+                the forfeited property to the victims pursuant to 
+subsection (i)(1) once the ancillary proceeding under subsection (n) 
+has been completed and the costs of the forfeiture action have been 
+deducted.
+                    ``(B) Distribution of property.--On a motion of the 
+                attorney for the Government, the court may enter any 
+                order necessary to facilitate the distribution of any 
+                property restored under this paragraph.
+            ``(3) Victim defined.--In this subsection, the term 
+        `victim'--
+                    ``(A) means a person other than a person with a 
+                legal right, title, or interest in the forfeited 
+                property sufficient to satisfy the standing 
+                requirements of subsection (n)(2) who may be entitled 
+                to restitution from the forfeited funds pursuant to 
+                section 9.8 of part 9 of title 28, Code of Federal 
+                Regulations (or any successor to that regulation); and
+                    ``(B) includes any person who is the victim of the 
+                offense giving rise to the forfeiture, or of any 
+                offense that was part of the same scheme, conspiracy, 
+                or pattern of criminal activity, including, in the case 
+                of a money laundering offense, any offense constituting 
+                the underlying specified unlawful activity.''.
+
+SEC. 503. BANKRUPTCY PROCEEDINGS NOT USED TO SHIELD ILLEGAL GAINS FROM 
+              FALSE CLAIMS.
+
+    (a) Certain Actions Not Stayed by Bankruptcy Proceedings.--
+            (1) In general.--Notwithstanding any other provision of 
+        law, the commencement or continuation of an action under 
+        section 3729 of title 31, United States Code, does not operate 
+        as a stay under section 105(a) or 362(a)(1) of title 11, United 
+        States Code.
+            (2) Conforming amendment.--Section 362(b) of title 11, 
+        United States Code, is amended--
+                    (A) in paragraph (17), by striking ``or'' at the 
+                end;
+                    (B) in paragraph (18), by striking the period at 
+                the end and inserting ``; or''; and
+                    (C) by adding at the end the following:
+            ``(19) the commencement or continuation of an action under 
+        section 3729 of title 31.''.
+    (b) Certain Debts Not Dischargeable in Bankruptcy.--Section 523 of 
+title 11, United States Code, is amended by adding at the end the 
+following:
+    ``(f) A discharge under section 727, 1141, 1228(a), 1228(b), or 
+1328(b) does not discharge a debtor from a debt owed for violating 
+section 3729 of title 31.''.
+    (c) Repayment of Certain Debts Considered Final.--
+            (1) In general.--Chapter 1 of title 11, United States Code, 
+        is amended by adding at the end the following:
+``Sec. 111. False claims
+    ``No transfer on account of a debt owed to the United States for 
+violating section 3729 of title 31, or under a compromise order or 
+other agreement resolving such a debt may be avoided under section 544, 
+545, 547, 548, 549, 553(b), or 742(a).''.
+            (2) Conforming amendment.--The analysis for chapter 1 of 
+        title 11, United States Code, is amended by adding at the end 
+        the following:
+
+``111. False claims.''.
+
+SEC. 504. FORFEITURE FOR RETIREMENT OFFENSES.
+
+    (a) Criminal Forfeiture.--Section 982(a) of title 18, United States 
+Code, is amended by adding at the end the following:
+    ``(9) Criminal Forfeiture.--
+            ``(A) In general.--The court, in imposing a sentence on a 
+        person convicted of a retirement offense, shall order the 
+        person to forfeit property, real or personal, that constitutes 
+        or that is derived, directly or indirectly, from proceeds 
+        traceable to the commission of the offense.
+            ``(B) Retirement offense defined.--In this paragraph, if a 
+        violation, conspiracy, or solicitation relates to a retirement 
+        arrangement (as defined in section 1351 of title 18, United 
+        States Code), the term `retirement offense' means a violation 
+        of--
+                    ``(i) section 664, 1001, 1027, 1341, 1343, 1351, 
+                1951, 1952, or 1954 of title 18, United States Code; or
+                    ``(ii) section 411, 501, or 511 of the Employee 
+                Retirement Income Security Act of 1974 (29 U.S.C. 1111, 
+                1131, 1141).''.
+    (b) Civil Forfeiture.--Section 981(a)(1) of title 18, United States 
+Code, is amended by adding at the end the following:
+            ``(I) Any property, real or personal, that constitutes or 
+        is derived, directly or indirectly, from proceeds traceable to 
+        the commission of, criminal conspiracy to violate, or 
+        solicitation to commit a crime of violence involving, a 
+        retirement offense (as defined in section 982(a)(9)(B)).''.
+
+

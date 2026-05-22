@@ -1,0 +1,73 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3480 Introduced in Senate (IS)]
+
+112th CONGRESS
+  2d Session
+                                S. 3480
+
+To provide end user exemptions from certain provisions of the Commodity 
+         Exchange Act and the Securities Exchange Act of 1934.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             August 1, 2012
+
+Mr. Johanns (for himself, Mr. Crapo, Mr. Tester, Mr. Kohl, Mr. Toomey, 
+and Mrs. Hagan) introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To provide end user exemptions from certain provisions of the Commodity 
+         Exchange Act and the Securities Exchange Act of 1934.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. MARGIN REQUIREMENTS.
+
+    (a) Requirements.--
+            (1) Commodity exchange act amendment.--Section 4s(e) of the 
+        Commodity Exchange Act (7 U.S.C. 6s(e)), as added by section 
+        731 of the Dodd-Frank Wall Street Reform and Consumer 
+        Protection Act, is amended by adding at the end the following 
+        new paragraph:
+            ``(4) Applicability with respect to counterparties.--The 
+        requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not 
+        apply to a swap in which a counterparty qualifies for an 
+        exception under section 2(h)(7)(A) or satisfies the criteria in 
+        section 2(h)(7)(D).''.
+            (2) Securities exchange act amendment.--Section 15F(e) of 
+        the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(e)), as 
+        added by section 764(a) of the Dodd-Frank Wall Street Reform 
+        and Consumer Protection Act, is amended by adding at the end 
+        the following new paragraph:
+            ``(4) Applicability with respect to counterparties.--The 
+        requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not 
+        apply to a security-based swap in which a counterparty 
+        qualifies for an exception under section 3C(g)(1) or satisfies 
+        the criteria in section 3C(g)(4).''.
+    (b) Implementation.--The amendments made by this section to the 
+Commodity Exchange Act shall be implemented--
+            (1) without regard to--
+                    (A) chapter 35 of title 44, United States Code; and
+                    (B) the notice and comment provisions of section 
+                553 of title 5, United States Code;
+            (2) through the promulgation of an interim final rule, 
+        pursuant to which public comment will be sought before a final 
+        rule is issued; and
+            (3) such that paragraph (1) shall apply solely to changes 
+        to rules and regulations, or proposed rules and regulations, 
+        that are limited to and directly a consequence of such 
+        amendments.
+                                 <all>
+

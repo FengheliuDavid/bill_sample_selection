@@ -1,0 +1,81 @@
+[Congressional Bills 115th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6332 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+115th CONGRESS
+  2d Session
+                                H. R. 6332
+
+To require the Director of the Financial Crimes Enforcement Network to 
+submit a report to Congress on the way in which data collected pursuant 
+           to title 31 is being used, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 11, 2018
+
+Mr. Tipton (for himself and Ms. Sinema) introduced the following bill; 
+       which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To require the Director of the Financial Crimes Enforcement Network to 
+submit a report to Congress on the way in which data collected pursuant 
+           to title 31 is being used, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Improving Strategies to Counter 
+Weapons Proliferation Act''.
+
+SEC. 2. FINANCIAL CRIMES ENFORCEMENT NETWORK REPORTING REQUIREMENT.
+
+    Section 310 of title 31, United States Code, is amended by adding 
+at the end the following:
+    ``(e) Reports Relating to Use of Collected Data.--
+            ``(1) In general.--Not later than 1 year after the date of 
+        enactment of this subsection and every year thereafter, the 
+        Director shall submit to the Committee on Financial Services of 
+        the House of Representatives and the Committee on Banking, 
+        Housing, and Urban Affairs of the Senate a report on--
+                    ``(A) intelligence products created by FinCEN on 
+                finance transactions for the proliferation of weapons 
+                from filings submitted pursuant to subchapter II of 
+                chapter 53;
+                    ``(B) FinCEN's efforts to collaborate with law 
+                enforcement agencies, the intelligence community, and 
+                foreign financial intelligence units to maximize the 
+                use of data that is collected pursuant to subchapter II 
+                of chapter 53; and
+                    ``(C) advisory notices issued to financial 
+                institutions (as defined under section 5312(a)) on 
+                financial activity related to the proliferation of 
+                weapons.
+            ``(2) Separate presentation of classified material.--Any 
+        part of the report under paragraph (1) that involves 
+        information that is properly classified under criteria 
+        established by the President shall be submitted to the Congress 
+        separately in a classified annex.
+            ``(3) Sunset.--No report is required under this subsection 
+        after the end of the 5-year period beginning on the date of 
+        enactment of this subsection.''.
+                                 <all>
+

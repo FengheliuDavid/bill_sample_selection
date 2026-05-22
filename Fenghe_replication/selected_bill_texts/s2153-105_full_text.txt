@@ -1,0 +1,418 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[S. 2153 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                S. 2153
+
+  To require certain expenditures by the Federal Reserve System to be 
+     made subject to congressional appropriations, to prohibit the 
+ maintenance of surplus accounts by Federal reserve banks, to provide 
+   for annual independent audits of Federal reserve banks, to apply 
+   Federal procurement regulations to the Federal Reserve System, to 
+reform the pricing practices of the Federal Reserve System for services 
+    provided to the domestic banking system, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 10, 1998
+
+ Mr. Dorgan (for himself and Mr. Reid) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To require certain expenditures by the Federal Reserve System to be 
+     made subject to congressional appropriations, to prohibit the 
+ maintenance of surplus accounts by Federal reserve banks, to provide 
+   for annual independent audits of Federal reserve banks, to apply 
+   Federal procurement regulations to the Federal Reserve System, to 
+reform the pricing practices of the Federal Reserve System for services 
+    provided to the domestic banking system, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Federal Reserve Fiscal 
+Accountability Act of 1998''.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act--
+            (1) the term ``Board'' means the Board of Governors of the 
+        Federal Reserve System; and
+            (2) the term ``Federal reserve bank'' has the same meaning 
+        as in the third undesignated paragraph of section 1 of the 
+        Federal Reserve Act.
+
+SEC. 3. NON-MONETARY POLICY SPENDING SUBJECT TO CONGRESSIONAL 
+              APPROPRIATIONS.
+
+    (a) Determination by Comptroller General.--
+            (1) In general.--The Comptroller General of the United 
+        States, in consultation with the Board, shall specifically 
+        identify the functions and activities of the Board and of each 
+        Federal reserve bank that are directly related to the 
+        establishment and conduct of the monetary policy of the United 
+        States.
+            (2) Report.--Not later than 6 months after the date of 
+        enactment of this Act, the Comptroller General of the United 
+        States shall submit a report to the Congress containing the 
+        information referred to in paragraph (1).
+    (b) Certain Spending Subject to Appropriations.--
+            (1) In general.--Beginning with the first fiscal year that 
+        commences after the date on which the report referred to in 
+        subsection (a) is submitted to the Congress, and in each fiscal 
+        year thereafter, all expenditures by the Board or any Federal 
+        reserve bank shall be made only as provided in advance in an 
+        appropriations Act.
+            (2) Exception.--Notwithstanding paragraph (1), funds used 
+        to pay expenditures directly related to the establishment and 
+        conduct of monetary policy, as identified under subsection (a), 
+        shall not be subject to appropriations in advance.
+    (c) Annual Report.--Not later than 6 months after the end of each 
+fiscal year to which subsection (b) applies, the Comptroller General of 
+the United States shall submit a report to the Congress on the 
+compliance of the Board and the Federal reserve banks with the 
+requirements of this section during the preceding fiscal year.
+
+SEC. 4. TREATMENT OF SURPLUS ACCOUNT.
+
+    (a) Termination of Surplus Account Authorization.--
+            (1) Amendments to the federal reserve act.--Section 7(a) of 
+        the Federal Reserve Act (12 U.S.C. 289) is amended--
+                    (A) in the subsection heading, by striking ``and 
+                Surplus Funds'';
+                    (B) by striking paragraphs (2) and (3);
+                    (C) in paragraph (1)--
+                            (i) by striking ``(1) Stockholder 
+                        dividends.--''; and
+                            (ii) by redesignating subparagraphs (A) and 
+                        (B) as paragraphs (1) and (2), respectively, 
+                        and moving the margins 2 ems to the left; and
+                    (D) in paragraph (2), as redesignated, by striking 
+                ``subparagraph (A)'' and inserting ``paragraph (1)''.
+            (2) Return of funds.--Not later than 30 days after the date 
+        of enactment of this Act, each Federal reserve bank shall 
+        transfer to the Board for transfer to the Secretary of the 
+        Treasury for deposit in the general fund of the Treasury, all 
+        funds held on the date of enactment of this Act by that Federal 
+        reserve bank in a surplus account established under section 
+        7(a) of the Federal Reserve Act, as that section existed on the 
+        day before the date of enactment of this Act.
+    (b) Determination by Comptroller General.--
+            (1) In general.--The Comptroller General of the United 
+        States shall determine what percentage, if any, of the net 
+        earnings of the Federal reserve banks should be transferred on 
+        an annual basis to the Secretary of the Treasury for deposit in 
+the general fund of the Treasury.
+            (2) Report.--Not later than 6 months after the date of 
+        enactment of this Act, the Comptroller General of the United 
+        States shall report its determination under paragraph (1) to 
+        the Congress, together with any recommendations for necessary 
+        legislative action.
+
+SEC. 5. ANNUAL INDEPENDENT AUDITS OF RESERVE BANKS.
+
+    (a) Audit Required.--Each Federal reserve bank shall annually 
+obtain an audit using generally accepted accounting principles from an 
+independent auditor that meets the requirements of subsection (b).
+    (b) Auditor's Qualifications.--The independent auditor referred to 
+in subsection (a) shall--
+            (1) be a certified public accountant who is independent of 
+        the Federal Reserve System; and
+            (2) meet any other qualifications that the Board may 
+        establish.
+    (c)  Certification Required.--In each audit required under 
+subsection (a), the auditor shall certify to the Federal reserve bank 
+and the Board, under penalty of perjury that the auditor--
+            (1) is a certified public accountant and is independent of 
+        the Federal Reserve System; and
+            (2) conducted the audit using generally accepted auditing 
+        principles.
+    (d) Certification by Federal Reserve Bank.--Not later than 30 days 
+after the completion of each audit required under subsection (a), the 
+Federal reserve bank shall provide to the Comptroller General of the 
+United States--
+            (1) a certification, under penalty of perjury, that--
+                    (A) the Federal reserve bank has obtained the audit 
+                required under subsection (a);
+                    (B) the Federal reserve bank has received the 
+                certifications of the auditor required under subsection 
+                (c); and
+                    (C) the audit fully complies with subsection (a); 
+                and
+            (2) proof that the Federal reserve bank and the Board have 
+        each received a copy of the audit report.
+    (e) Detection of Illegal Acts.--
+            (1) Audit procedures.--Each audit required by this section 
+        shall include procedures designed to provide reasonable 
+        assurances of detecting illegal acts that would have an effect 
+        on the determination of financial statement amounts.
+            (2) Reporting possible illegalities.--If, in the course of 
+        conducting an audit required by this section, the independent 
+        auditor detects or otherwise becomes aware of information 
+        indicating that an illegal act (whether or not perceived to 
+        have an effect on the financial statements of the Federal 
+        reserve bank) has or may have occurred, the auditor--
+                    (A) shall determine whether it is likely that the 
+                illegal act has occurred; and
+                    (B) shall, if the auditor determines that the 
+                illegal act is likely to have occurred--
+                            (i) determine and consider the possible 
+                        effect of the illegal act on the financial 
+                        statements of the Federal reserve bank; and
+                            (ii) as soon as practicable, inform the 
+                        Board that an illegal act is likely to have 
+                        occurred or has otherwise come to the attention 
+                        of the auditor.
+            (3) Report to comptroller general.--The independent auditor 
+        under this section shall, as soon as practicable, directly 
+        report its conclusions to the Comptroller General of the United 
+        States with regard to any possible illegal act that has been 
+        detected or has otherwise come to the attention of the auditor 
+        during the course of the audit required by this section, if, 
+        after determining that the Board is adequately informed with 
+        respect to such possible illegal act, the auditor concludes 
+        that--
+                    (A) the possible illegal act has an effect on the 
+                financial statements of the Federal reserve bank;
+                    (B) the Board has not taken timely and appropriate 
+                remedial actions with respect to the possible illegal 
+                act; and
+                    (C) the failure to take remedial action is 
+                reasonably expected to warrant departure from a 
+                standard report of the auditor when made, or warrant 
+                resignation from the audit engagement.
+            (4) Resignation of auditor.--If an independent auditor 
+        resigns from its engagement to audit a Federal reserve bank 
+        under paragraph (3), the auditor shall furnish to the 
+        Comptroller General of the United States, not later than 1 
+        business day after such resignation, a copy of the report of 
+        the auditor (or documentation of any oral report given).
+    (f) Compliance With Fee Schedule Requirements.--
+            (1) In general.--As part of each audit of a Federal reserve 
+        bank required by this section, the auditor shall make a 
+        determination of whether, in the opinion of the auditor, the 
+        Federal reserve bank is meeting the requirements of section 
+        11A(c)(3) of the Federal Reserve Act (as amended by this Act) 
+        with respect to each service referred to in section 11A(b) of 
+        the Federal Reserve Act (as amended by this Act).
+            (2) Report to board.--The auditor shall report its 
+        determinations under paragraph (1) to the Board in written 
+        form.
+            (3) Report to congress.--The Board shall annually compile 
+        reports received under paragraph (2) and annually submit those 
+        reports to the Congress.
+    (g) Recordkeeping.--To facilitate compliance with this section, 
+each Federal reserve bank shall--
+            (1) ensure that the books, records, and accounts of the 
+        Federal reserve bank are maintained and kept in sufficient 
+        detail to accurately and fairly reflect the transactions and 
+        dispositions of the assets of the bank;
+            (2) devise and maintain a system of internal accounting 
+        controls sufficient to provide reasonable assurances that 
+        transactions are recorded as necessary to permit preparation of 
+        financial statements in conformity with generally accepted 
+        accounting principles and to maintain accountability for 
+        assets;
+            (3) ensure that access to assets of the Federal reserve 
+        bank is permitted only in accordance with the general or 
+        specific authorization of the Board; and
+            (4) ensure that--
+                    (A) the recorded accountability for assets is 
+                compared with the existing assets at reasonable 
+                intervals; and
+                    (B) appropriate action is taken with respect to any 
+                differences.
+    (h) Reports to Board.--Not later than December 31 of each year, 
+each Federal reserve bank shall submit a copy of each audit conducted 
+under this section to the Board.
+
+SEC. 6 INDEPENDENT AUDITS OF FEDERAL RESERVE SYSTEM AND FEDERAL RESERVE 
+              BOARD.
+
+    (a) Audit of Reserve System.--The Board, in consultation with the 
+Comptroller General of the United States, shall annually obtain an 
+audit of the consolidated financial statements of the Federal Reserve 
+System from an independent auditor, using generally accepted accounting 
+principles, based on reports of audits of Federal reserve banks 
+submitted to the Board under section 5(h) and the audit of the Board 
+under subsection (b) of this section.
+    (b) Audit of Board.--
+            (1) In general.--The Board shall annually obtain an 
+        evaluation of the management and administration of the Board 
+        and an audit of the financial statements of the Board from an 
+        independent auditor, using generally accepted accounting 
+        principles.
+            (2) Fee schedule considerations.--
+                    (A) In general.--As part of each audit of the Board 
+                required by this subsection, the auditor shall make a 
+                determination of whether, in the opinion of the 
+                auditor, the Board has prescribed fee schedules under 
+                section 11A(b) of the Federal Reserve Act (as amended 
+                by this Act) based on information contained in the 
+                reports submitted to the Board under section 5(f) of 
+                this Act.
+                    (B) Report to board.--The auditor shall report its 
+                determinations under subparagraph (A) to the Board in 
+                written form.
+            (3) Availability to the public.--The results of each 
+        evaluation and audit performed in accordance with this 
+        subsection shall be made available to the public.
+            (4) Limitation.--The evaluations and audits required by 
+        this subsection shall be conducted in a manner that does not 
+        impair or otherwise directly affect any monetary policy 
+        function of the Board.
+    (c) Auditor's Qualifications.--An independent auditor referred to 
+in subsections (a) and (b) shall--
+            (1) be a certified public accountant who is independent of 
+        the Federal Reserve System; and
+            (2) meet any other qualifications that the Board may 
+        establish.
+    (d)  Certification Required.--In each audit required under this 
+section, the auditor shall certify to the Board, under penalty of 
+perjury that the auditor--
+            (1) is a certified public accountant and is independent of 
+        the Federal Reserve System; and
+            (2) conducted the audit using generally accepted auditing 
+        principles.
+    (e) Detection of Illegal Acts.--
+            (1) Audit procedures.--Each audit required by this section 
+        shall include procedures designed to provide reasonable 
+        assurances of detecting illegal acts that would have an effect 
+        on the determination of financial statement amounts.
+            (2) Reporting possible illegalities.--If, in the course of 
+        conducting an audit of the Federal Reserve System or the Board 
+        required by this section, the independent auditor detects or 
+        otherwise becomes aware of information indicating that an 
+        illegal act has or may have occurred, the auditor--
+                    (A) shall determine whether it is likely that the 
+                illegal act has occurred; and
+                    (B) shall, if the auditor determines that the 
+                illegal act is likely to have occurred--
+                            (i) determine and consider the possible 
+                        effect of the illegal act on the financial 
+                        statements of the Federal Reserve System or the 
+                        Board, as applicable; and
+                            (ii) as soon as practicable, inform the 
+                        Board that an illegal act is likely to have 
+                        occurred or has otherwise come to the attention 
+                        of the auditor.
+            (3) Report to comptroller general.--An independent auditor 
+        under this section shall, as soon as practicable, directly 
+        report its conclusions to the Comptroller General of the United 
+        States with regard to any possible illegal act that has been 
+        detected or has otherwise come to the attention of the auditor 
+        during the course of an audit of the Federal Reserve System or 
+        the Board required by this section, if, after determining that 
+        the Board is adequately informed with respect to such possible 
+        illegal act, the auditor concludes that--
+                    (A) the possible illegal act has an effect on the 
+                financial statements of the Federal Reserve System or 
+                the Board, as applicable;
+                    (B) the Board has not taken timely and appropriate 
+                remedial actions with respect to the possible illegal 
+                act; and
+                    (C) the failure to take remedial action is 
+                reasonably expected to warrant departure from a 
+                standard report of the auditor when made, or warrant 
+                resignation from the audit engagement.
+            (4) Resignation of auditor.--If an independent auditor 
+        resigns from its engagement to audit the Federal Reserve System 
+        or the Board under paragraph (3), the auditor shall furnish to 
+        the Comptroller General of the United States, not later than 1 
+        business day after such resignation, a copy of the report of 
+        the auditor (or documentation of any oral report given).
+    (f) Recordkeeping.--To facilitate compliance with this section, the 
+Board shall--
+            (1) ensure that the books, records, and accounts of the 
+        Board are maintained and kept in sufficient detail to 
+        accurately and fairly reflect the transactions and dispositions 
+        of assets;
+            (2) devise and maintain a system of internal accounting 
+        controls sufficient to provide reasonable assurances that 
+        transactions are recorded as necessary to permit preparation of 
+        financial statements in conformity with generally accepted 
+        accounting principles and to maintain accountability for 
+        assets;
+            (3) ensure that access to assets of the Board is permitted 
+        only in accordance with the general or specific authorization 
+        of the Board; and
+            (4) ensure that--
+                    (A) the recorded accountability for assets is 
+                compared with the existing assets at reasonable 
+                intervals; and
+                    (B) appropriate action is taken with respect to any 
+                differences.
+
+SEC. 7. APPLICABILITY OF FEDERAL PROCUREMENT PROCEDURES.
+
+    Beginning on the first day of the first fiscal year following the 
+date of enactment of this Act, the following provisions of law apply to 
+the Board and to each Federal reserve bank as if the Board and such 
+banks were executive agencies for the purposes of such provisions of 
+law:
+            (1) Title III of the Federal Property and Administrative 
+        Services Act of 1949 (41 U.S.C. 251 et seq.).
+            (2) The Brooks Architect-Engineers Act (40 U.S.C. 541 et 
+        seq.).
+            (3) The Office of Federal Procurement Policy Act (41 U.S.C. 
+        401 et seq.).
+            (4) The Clinger-Cohen Act of 1996 (Division E of Public Law 
+        104-106; 40 U.S.C. 1401 et seq.).
+
+SEC. 8. AMENDMENTS RELATING TO FEDERAL RESERVE ACT.
+
+    (a) Clarification of Fee Schedule Requirements.--
+            (1) In general.--Section 11A(b) of the Federal Reserve Act 
+        (12 U.S.C. 248a(b)) is amended--
+                    (A) by redesignating paragraphs (4) through (8) as 
+                paragraphs (5) through (9), respectively; and
+                    (B) by inserting after paragraph (3) the following 
+                new paragraph:
+            ``(4) transportation of paper checks in the clearing 
+        process;''.
+            (2) Publication of revised schedule.--Not later than 60 
+        days after the date of enactment of this Act, the Board shall 
+        publish a revision of the schedule of fees required under 
+        section 11A of the Federal Reserve Act that reflects the 
+        changes made in the schedule in accordance with the amendments 
+        made by paragraph (1) of this subsection.
+    (b) Clarification of Applicable Pricing Criteria.--
+            (1) In general.--Section 11A(c) of the Federal Reserve Act 
+        (12 U.S.C. 248a(c)) is amended by striking paragraph (3) and 
+        inserting the following:
+            ``(3)(A) In each fiscal year, fees shall be established for 
+        each service provided by the Federal reserve banks on the basis 
+        of all direct and indirect costs actually incurred (excluding 
+        the effect of any pension cost credit) in providing each of the 
+        services, including interest on items credited prior to actual 
+        collection, overhead, and an allocation of imputed costs, which 
+        takes into account the taxes that would have been paid and the 
+        return on capital that would have been provided had the 
+        services been provided by a private business firm.
+            ``(B) The pricing principles referred to in subparagraph 
+        (A) shall be carried out with due regard to competitive factors 
+        and the provision of an adequate level of such services 
+        nationwide.''.
+                                 <all>
+

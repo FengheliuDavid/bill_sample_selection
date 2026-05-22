@@ -1,0 +1,1308 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1958 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                S. 1958
+
+To prevent the practice of late trading by mutual funds, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           November 25, 2003
+
+ Mr. Daschle (for himself, Mr. Kerry, and Mr. Kennedy) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                  Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To prevent the practice of late trading by mutual funds, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SEC. 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Mutual Fund 
+Investor Protection Act of 2003''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+                   TITLE I--REGULATORY IMPROVEMENTS.
+
+Sec. 101. Regulatory improvements.
+                 TITLE II--MUTUAL FUND OVERSIGHT BOARD.
+
+Sec. 201. Establishment; administrative provisions.
+Sec. 202. Registration with the board.
+Sec. 203. Auditing, quality control, and independence standards and 
+                            rules.
+Sec. 204. Inspections of registered mutual funds.
+Sec. 205. Investigations and disciplinary proceedings.
+Sec. 206. Commission oversight of the board.
+Sec. 207. Funding.
+Sec. 208. No preemption of State securities actions.
+Sec. 209. Arbitration of investor claims in independent forum.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act, the following definitions shall apply:
+            (1) Board.--The term ``Board'' means the Mutual Fund 
+        Oversight Board established under section 201.
+            (2) Commission.--The term ``Commission means the Security 
+        and Exchange Commission.
+            (3) Mutual fund.--The term ``mutual fund'' means such 
+        entities designated as mutual funds by regulation of the Mutual 
+        Fund Oversight Board established under title II of this Act.
+            (4) Registered mutual fund.----The term ``registered mutual 
+        fund'' has the same meaning as in section 5 of the Investment 
+        Company Act of 1940.
+            (5) Securities laws.--The term ``securities laws'' has the 
+        same meaning as in section 3 of the Securities Exchange Act of 
+        1934.
+
+                    TITLE I--REGULATORY IMPROVEMENTS
+
+SEC. 101. REGULATORY IMPROVEMENTS.
+
+    (a) Pricing of Shares.--The Investment Company Act of 1940 (15 
+U.S.C. 80a-1 et seq.) is amended by inserting after section 11 the 
+following:
+
+``SEC. 11A. PRICING OF SECURITIES.
+
+    ``On any calendar day, the purchaser of the securities of a 
+registered open-end company shall be required to place an order to 
+purchase such securities prior to the time at which the registered 
+open-end company sets the price of the securities for that day in order 
+to purchase the securities at that price.''.
+    (b) Penalties.--
+            (1) Securities act of 1933.--Section 24 of the Securities 
+        Act of 1933 (15 U.S.C. 77x) is amended--
+                    (A) by striking ``Any person'' and inserting the 
+                following:
+    ``(a) In General.--Except as provided under subsection (b), any 
+person''; and
+                    (B) by adding at the end the following:
+    ``(b) Open-End Companies.--Any person who willfully violates 
+section 17(a) with respect to the offer or sale of any security of a 
+registered open-end company (as that term is defined under section 5 of 
+the Investment Company Act of 1940) shall, upon conviction, be fined 
+not more than $1,000,000, imprisoned for not more than 20 years, or 
+both.''.
+            (2) Securities exchange act of 1934.--Section 32(a) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78ff(a)) is 
+        amended--
+                    (A) by striking ``(a) Any person'' and inserting 
+                the following:
+    ``(a) Willful Violations.--
+            ``(1) In general.--Except as provided under paragraphs (2) 
+        and (3), any person''; and
+                    (B) by adding at the end the following:
+            ``(2) Open-end companies; brokerage transactions.--
+                    ``(A) In general.--A person shall, upon conviction, 
+                be subject to the penalties in subparagraph (B) if such 
+                person willfully violates--
+                            ``(i) section 10(b), with respect to the 
+                        purchase or sale of the securities of a 
+                        registered open-end company (as that term is 
+                        defined under section 5 of the Investment 
+                        Company Act of 1940); or
+                            ``(ii) section 17(a) of the Securities Act 
+                        of 1933.
+                    ``(B) Penalties.--Any person convicted of a 
+                violation described in subparagraph (A) shall be fined 
+                not more than $10,000,000, imprisoned for not more than 
+                25 years, or both, or, if the person is not a natural 
+                person, fined not more than $50,000,000.
+            ``(3) Lifetime ban.--Any natural person who engages in a 
+        violation described in paragraph (2) shall be prohibited from 
+        participating in any sale or offer to sell securities for the 
+        life of such person.''.
+            (3) Investment company act of 1940.--Section 49 of the 
+        Investment Company Act of 1940 (15 U.S.C. 80a-48) is amended--
+                    (A) by striking ``Any person'' and inserting the 
+                following:
+    ``(a) In General.--Except as provided under subsection (b), any 
+person''; and
+                    (B) by adding at the end the following:
+    ``(b) Open-End Companies.--Any person who willfully violates 
+section 22(a) with respect to the securities of a registered open-end 
+company shall, upon conviction, be fined not more than $1,000,000, 
+imprisoned not more than 20 years, or both.''.
+    (c) RICO Enforcement.--Section 1961(1) of title 18, United States 
+Code, is amended--
+            (1) in subparagraph (E), by striking ``or'' at the end; and
+            (2) by striking the semicolon at the end and inserting ``, 
+        (G) any act that violates section 17(a) of the Securities Act 
+        of 1933, with respect to the sale of or an offer to sell 
+        securities of a registered open-end company (as that term is 
+        defined under section 5 of the Investment Company Act of 1940), 
+        (H) section 10(b) or 17(a) of the Securities Exchange Act of 
+        1934, with respect to the purchase or sale of the securities of 
+        such a registered open-end company, or (I) section 22(c) of the 
+        Investment Company Act of 1940, with respect to the valuation 
+        of the securities of such a registered open-end company;''.
+    (d) Disclosure of Market Timing Policies.--Section 24 of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-24) is amended by adding 
+at the end the following:
+    ``(h) Market Timing Policies.--Each prospectus distributed by a 
+registered open-end company shall disclose--
+            ``(1) the policies of the registered open-end company with 
+        respect to the timing of the pricing of its shares; and
+            ``(2) the steps taken by the registered open-end company to 
+        prevent the abuse of such pricing policies.''.
+    (e) Director and Chairman Independence.--Section 10(a) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-10) is amended--
+            (1) by striking ``60 per centum'' and inserting ``one-
+        fourth''; and
+            (2) by adding at the end the following:
+    ``(i) Chairman.--No registered investment company have as chairman 
+of such board an interested person of such registered company. Such 
+chairman shall have access to all information, including but not 
+limited to any outside advisory, management, marketing, or investment 
+service fees paid by the investment company.''.
+    (f) Definition of Interested Person.--Section 2(a)(19) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(19)) is amended--
+            (1) in subparagraph (A)--
+                    (A) by striking clauses (v) and (vi) and inserting 
+                the following:
+                            ``(v) any natural person who is a member of 
+                        a class of persons who the Commission, by rule 
+                        or regulation, determines are unlikely to 
+                        exercise an appropriate degree of independence 
+                        as a result of--
+                                    ``(I) a material business or 
+                                professional relationship with the 
+                                company or any affiliated person of the 
+                                company; or
+                                    ``(II) a close familial 
+                                relationship with any natural person 
+                                who is an affiliated person of the 
+                                company,''; and
+                    (B) by redesignating clause (vii) as clause (vi); 
+                and
+            (2) in subparagraph (B)--
+                    (A) by striking clauses (v) and (vi) and inserting 
+                the following:
+                            ``(v) any natural person who is a member of 
+                        a class of persons who the Commission, by rule 
+                        or regulation, determines are unlikely to 
+                        exercise an appropriate degree of independence 
+                        as a result of--
+                                    ``(I) a material business or 
+                                professional relationship with such 
+                                investment adviser or principal 
+                                underwriter (or affiliated person 
+                                thereof); or
+                                    ``(II) a close familial 
+                                relationship with a natural person who 
+                                is such investment adviser or principal 
+                                underwriter (or affiliated person 
+                                thereof),''; and
+                    (B) by redesignating clause (v) as clause (vi).
+    (g) Fiduciary Duty of Board of Directors.--
+            (1) In general.--Not later than 270 days after enactment of 
+        this Act, the Securities and Exchange Commission shall publish 
+        regulations to require that the board of directors of a 
+        registered investment company shall have a fiduciary duty--
+                    (A) to demonstrate that the negotiated advisory, 
+                management, marketing, and investment service fees that 
+                are reasonable and are in the best interest of their 
+                shareholders. This may be accomplished by obtaining 
+                multiple bids, an independent evaluation or appraisal, 
+                including a provision in all fee contracts preventing 
+                contractors from charging rates in excess of those paid 
+by other clients, and any other means practicable to ensure that 
+shareholders are not overcharged for any services provided to the 
+registered investment company; and
+                    (B) to provide a report to the Commission, which 
+                shall also be disclosed in any prospectus delivered to 
+                shareholders of the company, on any significant or 
+                material business or professional relationship with any 
+                advisory, management, marketing, investment, or other 
+                service provided to the registered investment company 
+                to ensure that such services are provided in the best 
+                interest of their shareholders.
+    (h) Improved Transparency of Mutual Fund Costs.--
+            (1) Regulation revision required.--Not later than 270 days 
+        after the date of enactment of this Act, the Securities and 
+        Exchange Commission shall revise regulation under the 
+        Securities Act of 1933, the Securities Exchange Act of 1934, or 
+        the Investment Company Act of 1940, or any combination thereof, 
+        to require, consistent with the protection of investors and the 
+        public interest, improved disclosure with respect to any 
+        registered investment company, in the quarterly statement or 
+        other periodic report to shareholders or other appropriate 
+        disclosure document, of--
+                    (A) the estimated amount, in dollars, of the 
+                operating expenses of the company, including any 
+                advisory, management, marketing, and investment service 
+                fees, that are born by the shareholders, and the amount 
+                born by each shareholder of the company, based on the 
+                investment of each shareholder in the company;
+                    (B) the structure of, or method used to determine, 
+                the compensation of individuals employed by the 
+                investment adviser of the company to manage the 
+                portfolio of the company, and the ownership interest of 
+                such individuals in the securities of the company;
+                    (C) the portfolio turnover rate of the company, set 
+                forth in a manner that facilitates comparison among 
+                investment companies, and a description of the 
+                implications of a high turnover rate for portfolio 
+                transaction costs and performance;
+                    (D) information concerning any payments of 
+                commissions for effecting securities transactions to a 
+                member of an exchange, broker, or dealer who--
+                            (i) furnishes advice, either directly or 
+                        through publications or writings, as to the 
+                        value of securities, the advisability of 
+                        investing in, purchasing, or selling 
+                        securities, and the availability of securities 
+                        or purchasers or sellers of securities;
+                            (ii) furnishes analyses and reports 
+                        concerning issuers, industries, securities, 
+                        economic factors and trends, portfolio 
+                        strategy, and the performance of accounts; and
+                            (iii) facilitates the sale or distribution 
+                        of the shares of the company;
+                    (E) information concerning payments by any person 
+                other than the company that are intended to facilitate 
+                the sale and distribution of the shares of the company; 
+                and
+                    (F) information concerning discounts on front-end 
+                sales loads for which investors may be eligible 
+                including the minimum purchase amounts required for 
+                such discounts.
+            (2) Appropriate disclosure document.--
+                    (A) In general.--For the purposes of paragraph (1), 
+                a disclosure shall not be considered to be made in an 
+                appropriate disclosure document if the disclosure is 
+                made exclusively in a prospectus or statement of 
+                additional information, or both such documents.
+                    (B) Exceptions.--Notwithstanding subparagraph (A), 
+                the disclosures required by subparagraphs (B) and (D) 
+                of paragraph (1) may be considered to be made in an 
+                appropriate disclosure document if the disclosure is 
+                made exclusively in a prospectus or statement of 
+                additional information, or both such documents.
+            (3) Concept release required.--
+                    (A) In general.--The Commission shall issue a 
+                concept release examining the issue of portfolio 
+                transaction costs incurred by investment companies 
+                including commission, spread, opportunity, and market 
+                impact costs, with respect to trading of portfolio 
+                securities and any advisory, management, marketing, and 
+                investment service fees paid by investment companies 
+                and how such costs may be disclosed to mutual fund 
+                investors in a manner that will enable investors to 
+                compare such costs among funds.
+                    (B) Report and recommendations required.--Not later 
+                than 270 days after the date of enactment of this Act, 
+                the Commission shall submit a report on the findings 
+                from the concept release required under subparagraph 
+                (A), as well as any legislative and regulatory 
+                recommendations, if any, to the Committee on Banking, 
+                Housing, and Urban Affairs of the Senate and the 
+                Committee on Financial Services of the House of 
+                Representatives.
+            (4) Additional requirement for fee statement.--
+                    (A) In general.--Not later than 270 days after the 
+                date of enactment of this Act, the Commission shall 
+                prescribe a rule to require, with respect to any 
+                registered investment company, in the quarterly 
+                statement or other periodic report, or other 
+                appropriate disclosure document, a statement informing 
+                shareholders of what amount of fees they have paid on 
+                each $1,000 of their investments over the past 365 
+                days, that such fees have been deducted from the 
+                amounts shown on the statements, and where such 
+                shareholders may find additional information regarding 
+                the amount of these fees.
+                    (B) Appropriate disclosure document.--The statement 
+                required by subparagraph (A) shall not be considered to 
+                be made in an appropriate disclosure document unless 
+such statement is--
+                            (i) made in each periodic statement to a 
+                        shareholder that discloses the value of the 
+                        holdings of the shareholder in the securities 
+                        of the company; and
+                            (ii) prominently displayed, in a location 
+                        in close proximity to the statement of the 
+                        shares account value.
+            (5) Reducing burdens on small funds.--In prescribing rules 
+        under this subsection, the Commission shall give consideration 
+        to methods for reducing for small investment companies the 
+        burdens of making disclosures by requiring such rules, 
+        consistent with the public interest and the protection of 
+        investors.
+    (i) Short-Term Trading by Interested Persons Prohibited.--
+            (1) Short-term trading prohibited.--Section 17 of the 
+        Investment Company Act of 1940 (15 U.S.C. 80a-17) is amended by 
+        adding at the end the following:
+    ``(k) Short-Term Trading Prohibited.--It shall be unlawful for any 
+officer, director, partner, or employee of a registered investment 
+company, any affiliated person, investment adviser, or principal 
+underwriter of such company, or any officer, director, partner, or 
+employee of such affiliated person, investment adviser, or principal 
+underwriter, to engage in short-term transactions, as such term is 
+defined by the Commission by rule, in any securities of which such 
+company, or any affiliate of such company, is the issuer, except that 
+this subsection shall not prohibit transactions in money market funds, 
+or other funds the investment policy of which expressly permits short-
+term transactions, or such other categories of registered investment 
+companies as the Commission shall specify by rule.''.
+    (j) Mutual Fund Compliance Officer.--Not later than 270 days after 
+the date of enactment of this Act, the Commission shall, by rule, 
+require each registered investment company to appoint a compliance 
+officer to ensure that such company is complying with all relevant 
+rules and regulations, consistent with the protection of investors and 
+the public interest. Each compliance officer of a registered investment 
+company shall report only to directors that are not interested persons 
+of the company, as such term is defined in section 2(a)(19) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(19)).
+
+                 TITLE II--MUTUAL FUND OVERSIGHT BOARD
+
+SEC. 201. ESTABLISHMENT; ADMINISTRATIVE PROVISIONS.
+
+    (a) Establishment of Board.--There is established the Mutual Fund 
+Oversight Board, to oversee the conduct of mutual funds and related 
+matters, in order to protect the interests of investors. The Board 
+shall be a body corporate, operate as a nonprofit corporation, and have 
+succession until dissolved by an Act of Congress.
+    (b) Status.--The Board shall not be an agency or establishment of 
+the United States Government, and, except as otherwise provided in this 
+title, shall be subject to, and have all of the powers conferred upon a 
+nonprofit corporation by the District of Columbia Nonprofit Corporation 
+Act. Each member and person employed by the Board shall be deemed to be 
+an officer or employee of, or agent for, the Federal Government by 
+reason of such service.
+    (c) Duties of the Board.--The Board shall, subject to action by the 
+Commission under section 206, and once a determination is made by the 
+Commission under subsection (d) of this section--
+            (1) register mutual funds in accordance with section 202;
+            (2) establish or adopt, or both, by rule, internal 
+        auditing, quality control, ethics, independence, and other 
+        standards relating to the conduct of mutual funds, in 
+        accordance with section 203;
+            (3) conduct inspections of mutual funds, in accordance with 
+        section 204 and the rules of the Board;
+            (4) conduct investigations and disciplinary proceedings 
+        concerning, and impose appropriate sanctions where justified 
+        upon, mutual funds and associated persons of such mutual funds, 
+        in accordance with section 205;
+            (5) perform such other duties and functions as the Board 
+        determines are necessary or appropriate to promote high 
+        professional standards among, and improve the quality of 
+        services offered by, mutual funds, in order to protect 
+        investors, or to further the public interest;
+            (6) enforce compliance with this title, the rules of the 
+        Board, professional standards, and the securities laws relating 
+        to mutual funds and associated persons thereof; and
+            (7) set the budget and manage the operations of the Board 
+        and the staff of the Board.
+    (d) Commission Determination.--The members of the Board shall take 
+such action (including hiring of staff, proposal of rules, and adoption 
+of initial and transitional auditing and other professional standards) 
+as may be necessary or appropriate to enable the Commission to 
+determine, not later than 270 days after the date of enactment of this 
+Act, that the Board is so organized and has the capacity to carry out 
+the requirements of this title, and to enforce compliance with this 
+title by registered mutual funds and associated persons thereof.
+    (e) Board Membership.--
+            (1) Composition.--The Board shall have 5 members, appointed 
+        in accordance with paragraph (3), from among prominent 
+        individuals of integrity and reputation who have a demonstrated 
+        commitment to the interests of investors and the public, and an 
+        understanding of the responsibilities for and nature of the 
+        financial services offered by registered mutual funds.
+            (2) Full-time independent service.--Each member of the 
+        Board shall serve on a full-time basis, and may not, concurrent 
+        with service on the Board, be employed by any other person or 
+        engage in any other professional or business activity. No 
+        member of the Board may share in any of the profits of, or 
+receive payments from, a mutual fund (or any other person, as 
+determined by rule of the Commission), other than fixed continuing 
+payments, subject to such conditions as the Commission may impose, 
+under standard arrangements for the retirement of employees of mutual 
+funds.
+            (3) Appointment of board members.--
+                    (A) Initial board.--Not later than 90 days after 
+                the date of enactment of this Act, the Commission, 
+                after consultation with the Chairman of the Board of 
+                Governors of the Federal Reserve System and the 
+                Secretary of the Treasury, shall appoint the 
+                chairperson and other initial members of the Board.
+                    (B) Vacancies.--A vacancy on the Board shall not 
+                affect the powers of the Board, but shall be filled in 
+                the same manner as provided for appointments under this 
+                section.
+            (4) Term of service.--
+                    (A) In general.--The term of service of each Board 
+                member shall be 5 years, and until a successor is 
+                appointed, except that--
+                            (i) the terms of office of the initial 
+                        Board members (other than the chairperson) 
+                        shall expire in annual increments, 1 on each of 
+                        the first 4 anniversaries of the initial date 
+                        of appointment; and
+                            (ii) any Board member appointed to fill a 
+                        vacancy occurring before the expiration of the 
+                        term for which the predecessor was appointed 
+                        shall be appointed only for the remainder of 
+                        that term.
+                    (B) Term limitation.--No person may serve as a 
+                member of the Board, or as chairperson of the Board, 
+                for more than 2 terms, whether or not such terms of 
+                service are consecutive.
+            (5) Removal from office.--A member of the Board may be 
+        removed by the Commission from office, in accordance with 
+        section 206(d)(3), for good cause shown before the expiration 
+        of the term of that member.
+    (f) Powers of the Board.--In addition to any authority granted to 
+the Board under this title, the Board shall have the power, subject to 
+section 206--
+            (1) to sue and be sued, complain and defend, in its 
+        corporate name and through its own counsel, with the approval 
+        of the Commission, in any Federal, State, or other court;
+            (2) to conduct its operations and maintain offices, and to 
+        exercise all other rights and powers authorized by this title, 
+        in any State, without regard to any qualification, licensing, 
+        or other provision of law in effect in such State (or a 
+        political subdivision thereof);
+            (3) to lease, purchase, accept gifts or donations of, or 
+        otherwise acquire, improve, use, sell, exchange, or convey, all 
+        of or an interest in any property, wherever situated;
+            (4) to appoint such employees, accountants, attorneys, and 
+        other agents as may be necessary or appropriate, and to 
+        determine their qualifications, define their duties, and fix 
+        their salaries or other compensation (at a level that is 
+        comparable to private sector self-regulatory, accounting, 
+        technical, supervisory, or other staff or management 
+        positions);
+            (5) to allocate, assess, and collect support fees 
+        established pursuant to section 209, for the Board, and other 
+        fees and charges imposed under this title; and
+            (6) to enter into contracts, execute instruments, incur 
+        liabilities, and do any and all other acts and things 
+        necessary, appropriate, or incidental to the conduct of its 
+        operations and the exercise of its obligations, rights, and 
+        powers imposed or granted by this title.
+    (g) Rules of the Board.--The rules of the Board shall, subject to 
+the approval of the Commission--
+            (1) provide for the operation and administration of the 
+        Board, the exercise of its authority, and the performance of 
+        its responsibilities under this title;
+            (2) permit, as the Board determines necessary or 
+        appropriate, delegation by the Board of any of its functions to 
+        an individual member or employee of the Board, or to a division 
+        of the Board, including functions with respect to hearing, 
+        determining, ordering, certifying, reporting, or otherwise 
+        acting as to any matter, except that--
+                    (A) the Board shall retain a discretionary right to 
+                review any action pursuant to any such delegated 
+                function, upon its own motion;
+                    (B) a person shall be entitled to a review by the 
+                Board with respect to any matter so delegated, and the 
+                decision of the Board upon such review shall be deemed 
+                to be the action of the Board for all purposes 
+                (including appeal or review thereof); and
+                    (C) if the right to exercise a review described in 
+                subparagraph (A) is declined, or if no such review is 
+                sought within the time stated in the rules of the 
+                Board, then the action taken by the holder of such 
+                delegation shall for all purposes, including appeal or 
+                review thereof, be deemed to be the action of the 
+                Board;
+            (3) establish ethics rules and standards of conduct for 
+        Board members and staff, including a bar on practice before the 
+        Board (and the Commission, with respect to Board-related 
+        matters) of 1 year for former members of the Board, and 
+        appropriate periods (not to exceed 1 year) for former staff of 
+        the Board; and
+            (4) provide as otherwise required by this title.
+    (h) Annual Report to the Commission.--
+            (1) In general.--The Board shall submit an annual report 
+        (including its audited financial statements) to the Commission.
+            (2) Submission to congress.--Not later than 30 days after 
+        the date of receipt of a report under paragraph (1), the 
+        Commission shall transmit a copy of that report to--
+                    (A) the Committee on Banking, Housing, and Urban 
+                Affairs of the Senate; and
+                    (B) the Committee on Financial Services of the 
+                House of Representatives.
+
+SEC. 202. REGISTRATION WITH THE BOARD.
+
+    (a) Mandatory Registration.--Beginning 180 days after the date of 
+the determination of the Commission under section 201(d), it shall be 
+unlawful for any mutual fund to conduct business if that mutual fund is 
+not registered with the Board under this section.
+    (b) Applications for Registration.--
+            (1) Form of application.--A mutual fund shall use such form 
+        as the Board may prescribe, by rule, to apply for registration 
+        under this section.
+            (2) Contents of applications.--Each mutual fund shall 
+        submit, as part of its application for registration, in such 
+        detail as the Board shall specify--
+                    (A) the policies of each mutual fund regarding, and 
+                efforts taken by that mutual fund to eliminate, market 
+                timing practices;
+                    (B) the annual fees received by the mutual fund;
+                    (C) such other current financial information for 
+                the most recently completed fiscal year of the mutual 
+                fund as the Board may reasonably request;
+                    (D) a statement of the quality control policies of 
+                the mutual fund;
+                    (E) the policies of each mutual fund regarding, and 
+                efforts taken by that mutual fund to eliminate, late 
+                trading practices; and
+                    (F) information relating to criminal, civil, or 
+                administrative actions or disciplinary proceedings 
+                pending against the mutual fund or any associated 
+                person of the mutual fund in connection with the 
+                conduct of the mutual fund; and
+                    (G) such other information as the rules of the 
+                Board or the Commission shall specify as necessary or 
+                appropriate in the public interest or for the 
+                protection of investors.
+            (3) Consents.--Each application for registration under this 
+        subsection shall include--
+                    (A) a consent executed by the mutual fund to 
+                cooperation in and compliance with any request for 
+                testimony or the production of documents made by the 
+                Board in the furtherance of its authority and 
+                responsibilities under this title (and an agreement to 
+                secure and enforce similar consents from each of the 
+                associated persons of the mutual fund as a condition of 
+                their continued employment by or other association with 
+                such mutual fund); and
+                    (B) a statement that such mutual fund understands 
+                and agrees that cooperation and compliance, as 
+                described in the consent required by subparagraph (A), 
+                and the securing and enforcement of such consents from 
+                its associated persons, in accordance with the rules of 
+                the Board, shall be a condition to the continuing 
+                effectiveness of the registration of the mutual fund 
+                with the Board.
+    (c) Action on Applications.--
+            (1) Timing.--The Board shall approve a completed 
+        application for registration not later than 45 days after the 
+        date of receipt of the application, in accordance with the 
+        rules of the Board, unless the Board, prior to such date, 
+        issues a written notice of disapproval to, or requests more 
+        information from, the prospective registrant.
+            (2) Treatment.--A written notice of disapproval of a 
+        completed application under paragraph (1) for registration 
+        shall be treated as a disciplinary sanction for purposes of 
+        sections 205(d) and 206(c).
+    (d) Periodic Reports.--Each registered mutual fund shall submit an 
+annual report to the Board, and may be required to report more 
+frequently, as necessary to update the information contained in its 
+application for registration under this section, and to provide to the 
+Board such additional information as the Board or the Commission may 
+specify, in accordance with subsection (b)(2).
+    (e) Public Availability.--Registration applications and annual 
+reports required by this subsection, or such portions of such 
+applications or reports as may be designated under rules of the Board, 
+shall be made available for public inspection, subject to rules of the 
+Board or the Commission, and to applicable laws relating to the 
+confidentiality of proprietary, personal, or other information 
+contained in such applications or reports, provided that, in all 
+events, the Board shall protect from public disclosure information 
+reasonably identified by the subject mutual fund as proprietary 
+information.
+    (f) Registration and Annual Fees.--The Board shall assess and 
+collect a registration fee and an annual fee from each registered 
+mutual fund, in amounts that are sufficient to recover the costs of 
+processing and reviewing applications and annual reports.
+
+SEC. 203. AUDITING, QUALITY CONTROL, AND INDEPENDENCE STANDARDS AND 
+              RULES.
+
+    (a) Auditing, Quality Control, and Ethics Standards.--
+            (1) In general.--The Board shall, by rule, establish such 
+        internal auditing and quality control standards, and such 
+        ethics standards to be used by registered mutual funds in 
+        conducting their business, as required by this title or the 
+        rules of the Commission, or as may be necessary or appropriate 
+        in the public interest or for the protection of investors.
+            (2) Rule requirements.--In carrying out paragraph (1), the 
+        Board--
+                    (A) shall include in the internal auditing 
+                standards that it adopts, requirements that each 
+                registered mutual fund shall--
+                            (i) prepare, and maintain for a period of 
+                        not less than 7 years, audit work papers, and 
+                        other information related to any internal audit 
+                        report, in sufficient detail to support the 
+                        conclusions reached in such report; and
+                            (ii) provide a concurring or second 
+                        executive officer review and approval of such 
+                        audit report (and other related information), 
+                        and concurring approval in its issuance, by a 
+                        qualified person (as prescribed by the Board) 
+                        associated with the mutual fund, other than the 
+                        person in charge of the audit, or by an 
+independent reviewer (as prescribed by the Board); and
+                    (B) shall include in the quality control standards 
+                that it adopts with respect to the issuance of audit 
+                reports, requirements applicable to every registered 
+                mutual fund relating to--
+                            (i) monitoring of professional ethics and 
+                        quality standards;
+                            (ii) consultation within such mutual fund 
+                        on auditing questions;
+                            (iii) supervision of internal audit work;
+                            (iv) hiring, professional development, and 
+                        advancement of audit personnel;
+                            (v) internal inspection; and
+                            (vi) such other requirements as the Board 
+                        may prescribe, subject to paragraph (1).
+            (3) Authority to adopt other standards.--
+                    (A) In general.--The Board--
+                            (i) may adopt as its rules, subject to 
+                        section 206, any portion of any statement of 
+                        professional standards that the Board 
+                        determines satisfy the requirements of 
+                        paragraph (1), and that were proposed by 1 or 
+                        more professional groups that shall be 
+                        designated or recognized by the Board, by rule, 
+                        for such purpose, pursuant to this paragraph or 
+                        1 or more advisory groups convened pursuant to 
+                        paragraph (4); and
+                            (ii) notwithstanding clause (i), shall 
+                        retain full authority to modify, supplement, 
+                        revise, or subsequently amend, modify, or 
+                        repeal, in whole or in part, any portion of any 
+                        statement described in clause (i).
+                    (B) Initial and transitional standards.--The Board 
+                shall adopt standards described in subparagraph (A)(i) 
+                as initial or transitional standards, to the extent the 
+                Board determines necessary, prior to a determination of 
+                the Commission under section 201(d), and such standards 
+                shall be separately approved by the Commission at the 
+                time of that determination, without regard to the 
+                procedures required by section 206 that otherwise would 
+                apply to the approval of rules of the Board.
+            (4) Advisory groups.--The Board shall convene, or authorize 
+        its staff to convene, such expert advisory groups as may be 
+        appropriate, which may include representatives of the mutual 
+        fund industry and other experts, as well as representatives of 
+        other interested groups, subject to such rules as the Board may 
+        prescribe to prevent conflicts of interest, to make 
+        recommendations concerning the content (including proposed 
+        drafts) of auditing, quality control, ethics, independence, or 
+        other standards required to be established under this section.
+    (b) Independence Standards and Rules.--The Board shall establish 
+such rules ensuring compliance with section 10 of the Investment 
+Company Act of 1940, as may be necessary or appropriate in the public 
+interest or for the protection of investors.
+    (c) Cooperation With Designated Professional Groups of Mutual Funds 
+and Advisory Groups.--
+            (1) In general.--The Board shall--
+                    (A) cooperate on an ongoing basis with professional 
+                groups designated under subsection (a)(3)(A) and 
+                advisory groups convened under subsection (a)(4) in the 
+                examination of the need for changes in any standards 
+                subject to its authority under subsection (a);
+                    (B) recommend issues for inclusion on the agendas 
+                of such designated professional groups or advisory 
+                groups; and
+                    (C) take such other steps as it deems appropriate 
+                to increase the effectiveness of the standard setting 
+                process.
+            (2) Board responses.--The Board shall respond in a timely 
+        fashion to requests from designated professional groups and 
+        advisory groups referred to in paragraph (1) for any changes in 
+        standards over which the Board has authority.
+    (d) Evaluation of Standard Setting Process.--The Board shall 
+include in the annual report required by section 201(h) the results of 
+its standard setting responsibilities during the period to which the 
+report relates, including a discussion of the work of the Board with 
+any designated professional groups and advisory groups described in 
+paragraphs (3)(A) and (4) of subsection (a), and its pending issues 
+agenda for future standard setting projects.
+
+SEC. 204. INSPECTIONS OF REGISTERED MUTUAL FUNDS.
+
+    (a) In General.--The Board shall conduct a continuing program of 
+inspections, at such intervals as are established under the rules of 
+the Board to assess the degree of compliance of each registered mutual 
+fund and associated persons of that mutual fund with this title, the 
+rules of the Board, the rules of the Commission, or professional 
+standards.
+    (b) Inspection Frequency.--
+            (1) In general.--Subject to paragraph (2), inspections 
+        required by this section shall be conducted annually with 
+        respect to each registered mutual fund that is the basis for 
+        any difference between these 2 standards.
+            (2) Adjustments to schedules.--The Board may, by rule, 
+        adjust the inspection schedules set under paragraph (1) if the 
+        Board finds that different inspection schedules are consistent 
+        with the purposes of this title, the public interest, and the 
+        protection of investors.
+    (c) Procedures.--The Board shall, in each inspection under this 
+section, and in accordance with its rules for such inspections--
+            (1) identify any act or practice or omission to act by the 
+        registered mutual fund, or by any associated person thereof, 
+        revealed by such inspection that may be in violation of this 
+        title, the rules of the Board, the rules of the Commission, the 
+        quality control policies of the mutual fund, or professional 
+        standards;
+            (2) report any such act, practice, or omission, if 
+        appropriate, to the Commission and each appropriate State 
+        regulatory authority; and
+            (3) begin a formal investigation or take appropriate 
+        disciplinary action, if any, with respect to any such 
+        violation, in accordance with this title and the rules of the 
+        Board.
+    (d) Conduct of Inspections.--In conducting an inspection of a 
+registered mutual fund under this section, the Board shall--
+            (1) inspect and review internal audits performed by the 
+        mutual fund;
+            (2) evaluate the sufficiency of the quality control system 
+        of the mutual fund, and the manner of the documentation and 
+        communication of that system by the mutual fund; and
+            (3) perform such other testing of the internal audit, 
+        supervisory, and quality control procedures of the mutual fund 
+        as are necessary or appropriate in light of the purpose of the 
+        inspection and the responsibilities of the Board.
+    (e) Record Retention.--The rules of the Board may require the 
+retention by registered mutual funds for inspection purposes of 
+records, the retention of which is not otherwise required by section 
+203 or the rules issued thereunder.
+    (f) Procedures for Review.--
+            (1) Review and response.--The rules of the Board shall 
+        provide a procedure for the review of and response to a draft 
+        inspection report by the registered mutual fund under 
+        inspection.
+            (2) Action on response.--The Board shall take such action 
+        with respect to such response as it considers appropriate 
+        (including revising the draft report or continuing or 
+        supplementing its inspection activities before issuing a final 
+        report, as appropriate). The text of any such response, 
+        appropriately redacted to protect information reasonably 
+        identified by the mutual fund as confidential, shall be 
+        attached to and made part of the inspection report.
+    (g) Report.--A written report of the findings of the Board for each 
+inspection under this section, subject to subsection (h), shall be--
+            (1) transmitted, in appropriate detail, to the Commission 
+        and each appropriate State regulatory authority, accompanied by 
+        any letter or comments by the Board or the inspector, and any 
+        letter of response from the registered mutual fund; and
+            (2) made available in appropriate detail to the public 
+        (subject to section 205(b)(5)(A), and to the protection of such 
+        confidential and proprietary information as the Board may 
+        determine to be appropriate, or as may be required by law), 
+        except that no portion of the inspection report that deals with 
+        criticisms of or potential defects in the quality control 
+        systems of the mutual fund under inspection shall be made 
+        public if those criticisms or defects are addressed by the 
+        mutual fund, to the satisfaction of the Board, not later than 
+        12 months after the date of the inspection report.
+    (h) Interim Commission Review.--
+            (1) Reviewable matters.--A registered mutual fund may seek 
+        review by the Commission, pursuant to such rules as the 
+        Commission shall promulgate, if the mutual fund--
+                    (A) has provided the Board with a response, 
+                pursuant to rules issued by the Board under subsection 
+                (f), to the substance of particular items in a draft 
+                inspection report, and disagrees with the assessments 
+                contained in any final report prepared by the Board 
+                following such response; or
+                    (B) disagrees with the determination of the Board 
+                that criticisms or defects identified in an inspection 
+                report have not been addressed to the satisfaction of 
+                the Board within 12 months after the date of the 
+                inspection report, for purposes of subsection (g)(2).
+            (2) Treatment of review.--Any decision of the Commission 
+        with respect to a review under paragraph (1) shall not be 
+        reviewable under section 25 of the Securities Exchange Act of 
+        1934 (15 U.S.C. 78y), or deemed to be ``final agency action'' 
+        for purposes of section 704 of title 5, United States Code.
+            (3) Timing.--Review under paragraph (1) may be sought 
+        during the 30-day period following the date of the event giving 
+        rise to the review under subparagraph (A) or (B) of paragraph 
+        (1).
+
+SEC. 205. INVESTIGATIONS AND DISCIPLINARY PROCEEDINGS.
+
+    (a) In General.--The Board shall establish, by rule, subject to the 
+requirements of this section, fair procedures for the investigation and 
+disciplining of registered mutual funds and associated persons of such 
+mutual funds.
+    (b) Investigations.--
+            (1) Authority.--In accordance with the rules of the Board, 
+        the Board may conduct an investigation of any act or practice, 
+        or omission to act, by a registered mutual fund, any associated 
+        person of such mutual fund, or both, that may violate any 
+        provision of this title, the rules of the Board, the provisions 
+        of the securities laws relating to mutual funds, or 
+        professional standards, regardless of how the act, practice, or 
+        omission is brought to the attention of the Board.
+            (2) Testimony and document production.--In addition to such 
+        other actions as the Board determines to be necessary, the 
+        rules of the Board may--
+                    (A) require the testimony of the registered mutual 
+                fund or of any person associated with a registered 
+                mutual fund, with respect to any matter that the Board 
+                considers relevant or material to an investigation;
+                    (B) require the production of audit work papers and 
+                any other document or information in the possession of 
+                a registered mutual fund or any associated person 
+                thereof, wherever domiciled, that the Board considers 
+                relevant or material to the investigation, and may 
+                inspect the books and records of such mutual fund or 
+associated person to verify the accuracy of any documents or 
+information supplied;
+                    (C) request the testimony of, and production of any 
+                document in the possession of, any other person, 
+                including any client of a registered mutual fund that 
+                the Board considers relevant or material to an 
+                investigation under this section, with appropriate 
+                notice, subject to the needs of the investigation, as 
+                permitted under the rules of the Board; and
+                    (D) provide for procedures to seek issuance by the 
+                Commission, in a manner established by the Commission, 
+                of a subpoena to require the testimony of, and 
+                production of any document in the possession of, any 
+                person, including any client of a registered mutual 
+                fund, that the Board considers relevant or material to 
+                an investigation under this section.
+            (3) Noncooperation with investigations.--
+                    (A) In general.--If a registered mutual fund or any 
+                associated person thereof refuses to testify, produce 
+                documents, or otherwise cooperate with the Board in 
+                connection with an investigation under this section, 
+                the Board may--
+                            (i) suspend or bar such person from being 
+                        associated with a registered mutual fund, or 
+                        require the registered mutual fund to end such 
+                        association;
+                            (ii) suspend or revoke the registration of 
+                        the mutual fund; and
+                            (iii) invoke such other lesser sanctions as 
+                        the Board considers appropriate, and as 
+                        specified by rule of the Board.
+                    (B) Procedure.--Any action taken by the Board under 
+                this paragraph shall be subject to the terms of section 
+                206(c).
+            (4) Referral.--The Board may refer an investigation under 
+        this section--
+                    (A) to the Commission; and
+                    (B) at the direction of the Commission, to--
+                            (i) the Attorney General of the United 
+                        States;
+                            (ii) the attorney general of 1 or more 
+                        States; and
+                            (iii) the appropriate State regulatory 
+                        authority.
+            (5) Use of documents.--
+                    (A) Confidentiality.--Except as provided in 
+                subparagraph (B), all documents and information 
+                prepared or received by or specifically for the Board, 
+                and deliberations of the Board and its employees and 
+                agents, in connection with an inspection under section 
+                204 or with an investigation under this section, shall 
+                be confidential and privileged as an evidentiary matter 
+                (and shall not be subject to civil discovery or other 
+                legal process) in any proceeding in any Federal or 
+                State court or administrative agency, and shall be 
+                exempt from disclosure, in the hands of an agency or 
+                establishment of the Federal Government, under the 
+                Freedom of Information Act (5 U.S.C. 552a), or 
+                otherwise, unless and until presented in connection 
+                with a public proceeding or released in accordance with 
+                subsection (c).
+                    (B) Availability to government agencies.--All 
+                information referred to in subparagraph (A) may, in the 
+                discretion of the Board, when determined by the Board 
+                to be necessary to accomplish the purposes of this 
+                title or to protect investors, and without the loss of 
+                its status as confidential and privileged in the hands 
+                of the Board, be made available to the Commission, the 
+                Attorney General of the United States, to State 
+                attorneys general in connection with any criminal 
+                investigation, and to any appropriate State regulatory 
+                authority, which shall maintain such information as 
+                confidential and privileged.
+            (6) Immunity.--Any employee of the Board engaged in 
+        carrying out an investigation under this title shall be immune 
+        from any civil liability arising out of such investigation in 
+        the same manner and to the same extent as an employee of the 
+        Federal Government in similar circumstances.
+    (c) Disciplinary Procedures.--
+            (1) Notification; recordkeeping.--The rules of the Board 
+        shall provide that in any proceeding by the Board to determine 
+        whether a registered mutual fund, or an associated person 
+        thereof, should be disciplined, the Board shall--
+                    (A) bring specific charges with respect to the 
+                mutual fund or associated person;
+                    (B) notify such mutual fund or associated person 
+                of, and provide to the mutual fund or associated person 
+                an opportunity to defend against, such charges; and
+                    (C) keep a record of the proceedings.
+            (2) Public hearings.--Hearings under this section shall be 
+        open to the public, unless otherwise ordered by the Board for 
+        good cause shown.
+            (3) Supporting statement.--A determination by the Board to 
+        impose a sanction under this subsection shall be supported by a 
+        statement setting forth--
+                    (A) each act or practice in which the registered 
+                mutual fund, or associated person, has engaged (or 
+                omitted to engage), or that forms a basis for all or a 
+                part of such sanction;
+                    (B) the specific provision of this title, the 
+                securities laws, the rules of the Board, or 
+                professional standards which the Board determines has 
+                been violated; and
+                    (C) the sanction imposed, including a justification 
+                for that sanction.
+            (4) Sanctions.--If the Board finds, based on all of the 
+        facts and circumstances, that a registered mutual fund or 
+        associated person thereof has engaged in any act or practice, 
+        or omitted to act, in violation of this title, the rules of the 
+        Board, the provisions of the securities laws relating to the 
+preparation and issuance of audit reports and the obligations and 
+liabilities of accountants with respect thereto, including the rules of 
+the Commission issued under this title, or professional standards, the 
+Board may impose such disciplinary or remedial sanctions as it 
+determines appropriate, subject to applicable limitations under 
+paragraph (5), including--
+                    (A) temporary suspension or permanent revocation of 
+                registration under this title;
+                    (B) temporary or permanent suspension or bar of a 
+                person from further association with any registered 
+                mutual fund;
+                    (C) temporary or permanent limitation on the 
+                activities, functions, or operations of such mutual 
+                fund or person (other than in connection with required 
+                additional professional education or training);
+                    (D) a civil money penalty for each such violation, 
+                in an amount equal to--
+                            (i) not more than $100,000 for a natural 
+                        person or $2,000,000 for any other person; and
+                            (ii) in any case to which paragraph (5) 
+                        applies, not more than $750,000 for a natural 
+                        person or $15,000,000 for any other person;
+                    (E) censure;
+                    (F) required additional professional education or 
+                training; or
+                    (G) any other appropriate sanction provided for in 
+                the rules of the Board.
+            (5) Intentional or other knowing conduct.--The sanctions 
+        and penalties described in subparagraphs (A) through (C) and 
+        (D)(ii) of paragraph (4) shall only apply to--
+                    (A) intentional or knowing conduct, including 
+                reckless conduct, that results in violation of the 
+                applicable statutory, regulatory, or professional 
+                standard; or
+                    (B) repeated instances of negligent conduct, each 
+                resulting in a violation of the applicable statutory, 
+                regulatory, or professional standard.
+            (6) Failure to supervise.--
+                    (A) In general.--The Board may impose sanctions 
+                under this section on a registered mutual fund or upon 
+                the supervisory personnel of such mutual fund, if the 
+                Board finds that--
+                            (i) the mutual fund has failed reasonably 
+                        to supervise an associated person, either as 
+                        required by the rules of the Board relating to 
+                        auditing or quality control standards, or 
+                        otherwise, with a view to preventing violations 
+                        of this Act, the rules of the Board, the 
+                        provisions of the securities laws relating to 
+                        mutual funds, including the rules of the 
+                        Commission under this title, or professional 
+                        standards; and
+                            (ii) such associated person commits a 
+                        violation of this title, or any of such rules, 
+                        laws, or standards.
+                    (B) Rule of construction.--No associated person of 
+                a registered mutual fund shall be deemed to have failed 
+                to reasonably supervise any other person for purposes 
+                of subparagraph (A), if--
+                            (i) there have been established in and for 
+                        that mutual fund procedures, and a system for 
+                        applying such procedures, that comply with 
+                        applicable rules of the Board and that would 
+                        reasonably be expected to prevent and detect 
+                        any such violation by such associated person; 
+                        and
+                            (ii) such person has reasonably discharged 
+                        the duties and obligations incumbent upon that 
+                        person by reason of such procedures and system, 
+                        and had no reasonable cause to believe that 
+                        such procedures and system were not being 
+                        complied with.
+            (7) Effect of suspension.--It shall be unlawful for any 
+        person that is suspended or barred from being associated with a 
+        registered mutual fund under this subsection willfully to 
+        become or remain associated with any registered mutual fund, or 
+        for any registered mutual fund that knew, or, in the exercise 
+        of reasonable care should have known, of the suspension or bar, 
+        to permit such an association, without the consent of the Board 
+        or the Commission.
+    (d) Reporting of Sanctions.--
+            (1) Recipients.--If the Board imposes a disciplinary 
+        sanction, in accordance with this section, the Board shall 
+        report the sanction to--
+                    (A) the Commission;
+                    (B) any appropriate State regulatory authorities; 
+                and
+                    (C) the public (once any stay on the imposition of 
+                such sanction has been lifted).
+            (2) Contents.--The information reported under paragraph (1) 
+        shall include--
+                    (A) the name of the sanctioned person;
+                    (B) a description of the sanction and the basis for 
+                its imposition; and
+                    (C) such other information as the Board deems 
+                appropriate.
+    (e) Stay of Sanctions.--
+            (1) In general.--Application to the Commission for review, 
+        or the institution by the Commission of review, of any 
+        disciplinary action of the Board shall operate as a stay of any 
+        such disciplinary action, unless and until the Commission 
+        orders (summarily or after notice and opportunity for hearing 
+        on the question of a stay, which hearing may consist solely of 
+        the submission of affidavits or presentation of oral arguments) 
+        that no such stay shall continue to operate.
+            (2) Expedited procedures.--The Commission shall establish 
+        for appropriate cases an expedited procedure for consideration 
+        and determination of the question of the duration of a stay 
+        pending review of any disciplinary action of the Board under 
+        this subsection.
+
+SEC. 206. COMMISSION OVERSIGHT OF THE BOARD.
+
+    (a) General Oversight Responsibility.--The Commission shall have 
+oversight and enforcement authority over the Board, as provided in this 
+title.
+    (b) Rules of the Board.--
+            (1) Definition.--In this section, the term ``proposed 
+        rule'' means any proposed rule of the Board, and any 
+        modification of any such rule.
+            (2) Prior approval required.--No rule of the Board shall 
+        become effective without prior approval of the Commission in 
+        accordance with this section, other than as provided in section 
+        203(a)(3)(B) with respect to initial or transitional standards.
+            (3) Approval criteria.--The Commission shall approve a 
+        proposed rule, if it finds that the rule is consistent with the 
+        requirements of this title and the securities laws, or is 
+        necessary in the public interest or for the protection of 
+        investors.
+            (4) Proposed rule procedures.--The provisions of paragraphs 
+        (1) through (3) of section 19(b) of the Securities Exchange Act 
+        of 1934 (15 U.S.C. 78s(b)) shall govern the proposed rules of 
+        the Board, as fully as if the Board were a ``registered 
+        securities association'' for purposes of that section 19(b), 
+        except that, for purposes of this paragraph--
+                    (A) the phrase ``consistent with the requirements 
+                of this title and the rules and regulations thereunder 
+                applicable to such organization'' in section 19(b)(2) 
+                of that Act shall be deemed to read ``consistent with 
+                the requirements of title II of the Mutual Fund 
+                Investor Protection Act of 2003, and the rules and 
+                regulations issued thereunder applicable to such 
+                organization, or as necessary in the public interest or 
+                for the protection of investors''; and
+                    (B) the phrase ``otherwise in furtherance of the 
+                purposes of this title'' in section 19(b)(3)(C) of that 
+                Act shall be deemed to read ``otherwise in furtherance 
+                of the purposes of title II of the Mutual Fund Investor 
+                Protection Act of 2003''.
+            (5) Commission authority to amend rules of the board.--The 
+        provisions of section 19(c) of the Securities Exchange Act of 
+        1934 (15 U.S.C. 78s(c)) shall govern the abrogation, deletion, 
+        or addition to portions of the rules of the Board by the 
+        Commission as fully as if the Board were a ``registered 
+        securities association'' for purposes of that section 19(c), 
+        except that the phrase ``to conform its rules to the 
+        requirements of this title and the rules and regulations 
+        thereunder applicable to such organization, or otherwise in 
+        furtherance of the purposes of this title'' in section 19(c) of 
+        that Act shall, for purposes of this paragraph, be deemed to 
+        read ``to assure the fair administration of the Mutual Fund 
+        Oversight Board, conform the rules promulgated by that Board to 
+        the requirements of title II of the Mutual Fund Investor 
+        Protection Act of 2002, or otherwise further the purposes of 
+        that Act, the securities laws, and the rules and regulations 
+        thereunder applicable to that Board''.
+    (c) Commission Review of Disciplinary Action Taken by the Board.--
+            (1) Notice of sanction.--The Board shall promptly file 
+        notice with the Commission of any final sanction on any 
+        registered mutual fund or on any associated person thereof, in 
+        such form and containing such information as the Commission, by 
+        rule, may prescribe.
+            (2) Review of sanctions.--The provisions of sections 
+        19(d)(2) and 19(e)(1) of the Securities Exchange Act of 1934 
+        (15 U.S.C. 78s (d)(2) and (e)(1)) shall govern the review by 
+        the Commission of final disciplinary sanctions imposed by the 
+        Board (including sanctions imposed under section 205(b)(3) of 
+        this title for noncooperation in an investigation of the 
+        Board), as fully as if the Board were a self-regulatory 
+        organization and the Commission were the appropriate regulatory 
+        agency for such organization for purposes of those sections 
+        19(d)(2) and 19(e)(1), except that, for purposes of this 
+        paragraph--
+                    (A) section 205(e) of this title (rather than that 
+                section 19(d)(2)) shall govern the extent to which 
+                application for, or institution by the Commission on 
+                its own motion of, review of any disciplinary action of 
+                the Board operates as a stay of such action;
+                    (B) references in that section 19(e)(1) to 
+                ``members'' of such an organization shall be deemed to 
+                be references to registered mutual funds;
+                    (C) the phrase ``consistent with the purposes of 
+                this title'' in that section 19(e)(1) shall be deemed 
+                to read ``consistent with the purposes of this title 
+                and title II of the Mutual Fund Investor Protection Act 
+                of 2002'';
+                    (D) references to rules of the Municipal Securities 
+                Rulemaking Board in that section 19(e)(1) shall not 
+                apply; and
+                    (E) the reference to section 19(e)(2) of the 
+                Securities Exchange Act of 1934 shall refer instead to 
+                section 206(c)(3) of this title.
+            (3) Commission modification authority.--The Commission may 
+        enhance, modify, cancel, reduce, or require the remission of a 
+        sanction imposed by the Board upon a registered mutual fund or 
+        associated person thereof, if the Commission, having due regard 
+        for the public interest and the protection of investors, finds, 
+        after a proceeding in accordance with this subsection, that the 
+        sanction--
+                    (A) is not necessary or appropriate in furtherance 
+                of this title or the securities laws; or
+                    (B) is excessive, oppressive, inadequate, or 
+                otherwise not appropriate to the finding or the basis 
+                on which the sanction was imposed.
+    (d) Censure of the Board; Other Sanctions.--
+            (1) Rescission of board authority.--The Commission, by 
+        rule, consistent with the public interest, the protection of 
+        investors, and the other purposes of this title and the 
+        securities laws, may relieve the Board of any responsibility to 
+        enforce compliance with any provision of this title, the 
+        securities laws, the rules of the Board, or professional 
+        standards.
+            (2) Censure of the board; limitations.--The Commission may, 
+        by order, as it determines necessary or appropriate in the 
+        public interest, for the protection of investors, or otherwise 
+        in furtherance of the purposes of this title or the securities 
+        laws, censure or impose limitations upon the activities, 
+        functions, and operations of the Board, if the Commission 
+        finds, on the record, after notice and opportunity for a 
+        hearing, that the Board--
+                    (A) has violated or is unable to comply with any 
+                provision of this title, the rules of the Board, or the 
+                securities laws; or
+                    (B) without reasonable justification or excuse, has 
+                failed to enforce compliance with any such provision or 
+                rule, or any professional standard by a registered 
+                mutual fund or an associated person thereof.
+            (3) Censure of board members; removal from office.--The 
+        Commission may, as necessary or appropriate in the public 
+        interest, for the protection of investors, or otherwise in 
+        furtherance of the purposes of this title or the securities 
+        laws, remove from office or censure any member of the Board, if 
+        the Commission finds, on the record, after notice and 
+        opportunity for a hearing, that such member--
+                    (A) has willfully violated any provision of this 
+                title, the rules of the Board, or the securities laws;
+                    (B) has willfully abused the authority of that 
+                member; or
+                    (C) without reasonable justification or excuse, has 
+                failed to enforce compliance with any such provision or 
+                rule, or any professional standard by any registered 
+                mutual fund or any associated person thereof.
+
+SEC. 207. FUNDING.
+
+    (a) In General.--The Board shall be funded as provided in this 
+section.
+    (b) Annual Budgets.--The Board shall establish a budget for each 
+fiscal year, which shall be reviewed and approved according to 
+procedures established by the Board, not less than 1 month prior to the 
+commencement of the fiscal year to which the budget pertains. The 
+budget of the Board shall be subject to approval by the Commission.
+    (c) Sources and Uses of Funds.--The budget of the Board (reduced by 
+any registration or annual fees received under section 202(e) for the 
+year preceding the year for which the budget is being computed), for 
+each fiscal year shall be payable from annual support fees, in 
+accordance with subsection (d).
+    (d) Annual Support Fee for the Board.--
+            (1) Establishment of fee.--The Board shall establish, with 
+        the approval of the Commission, a reasonable annual support fee 
+        (or a formula for the computation thereof), as may be necessary 
+        or appropriate to establish and maintain the Board.
+            (2) Assessments.--The rules of the Board under paragraph 
+        (1) shall provide for the equitable allocation, assessment, and 
+        collection by the Board (or an agent appointed by the Board) of 
+        the fee established under paragraph (1), among mutual funds, in 
+        accordance with subsection (f), allowing for differentiation 
+        among classes of mutual funds, as appropriate.
+    (e) Allocation of Support Fees Among Mutual Funds.--Any amount due 
+from mutual funds (or a particular class of mutual funds) under this 
+section to fund the budget of the Board shall be allocated among and 
+payable by each mutual fund (or each mutual fund in a particular class, 
+as applicable) in an amount equal to the total of such amount, 
+multiplied by a fraction--
+            (1) the numerator of which is the average monthly equity 
+        market capitalization of the mutual fund for the 12-month 
+        period immediately preceding the beginning of the fiscal year 
+        to which such budget relates; and
+            (2) the denominator of which is the average monthly equity 
+        market capitalization of all such mutual funds for such 12-
+        month period.
+    (f) Rule of Construction.--Nothing in this section shall be 
+construed to render the Board subject to procedures in Congress to 
+authorize or appropriate public funds, or to prevent such organization 
+from utilizing additional sources of revenue for its activities, such 
+as earnings from publication sales, provided that each additional 
+source of revenue shall not jeopardize, in the judgment of the 
+Commission, the actual and perceived independence of such organization.
+
+SEC. 208. NO PREEMPTION OF STATE SECURITIES ACTIONS.
+
+    No action taken by the Mutual Fund Oversight Board shall preempt 
+any State securities investigation or enforcement action, or any State 
+law, regulation, order, interpretation, or other action related to 
+corporate governance or antitrust, provided such corporate governance 
+or antitrust law, regulation, order, interpretation, or other action is 
+of general applicability.
+
+SEC. 209. ARBITRATION OF INVESTOR CLAIMS IN AN INDEPENDENT FORUM.
+
+    Not later than 270 days after the date of enactment of this Act, 
+the Commission shall prescribe rules under the Securities Act of 1933, 
+the Securities Exchange Act of 1934, the Investment Company Act of 
+1940, and the Investment Advisers Act of 1940, as appropriate, to be 
+adopted by the Commission, any self-regulatory organization, or both, 
+requiring that complainants who bring claims under such Acts shall have 
+the option, at the time the complaint is filed, to have any arbitration 
+of that complaint held in an independent arbitration forum the 
+complainant chooses.
+                                 <all>
+

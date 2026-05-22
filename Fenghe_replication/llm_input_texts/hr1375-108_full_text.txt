@@ -1,0 +1,2372 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1375 Introduced in House (IH)]
+
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                H. R. 1375
+
+   To provide regulatory relief and improve productivity for insured 
+            depository institutions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 20, 2003
+
+    Mrs. Capito (for herself, Mr. Oxley, Mr. Bachus, and Mr. Ross) 
+ introduced the following bill; which was referred to the Committee on 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To provide regulatory relief and improve productivity for insured 
+            depository institutions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Financial Services 
+Regulatory Relief Act of 2003''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+                   TITLE I--NATIONAL BANK PROVISIONS
+
+Sec. 101. National bank directors.
+Sec. 102. Voting in shareholder elections.
+Sec. 103. Simplifying dividend calculations for national banks.
+Sec. 104. Repeal of obsolete limitation on removal authority of the 
+                            Comptroller of the Currency.
+Sec. 105. Repeal of intrastate branch capital requirements.
+Sec. 106. Clarification of waiver of publication requirements for bank 
+                            merger notices.
+Sec. 107. Capital equivalency deposits for Federal branches and 
+                            agencies of foreign banks.
+Sec. 108. Equal treatment for Federal agencies of foreign banks.
+Sec. 109. Maintenance of a Federal branch and a Federal agency in the 
+                            same State.
+Sec. 110. Business organization flexibility for national banks.
+Sec. 111. Clarification of the main place of business of a national 
+                            bank.
+                TITLE II--SAVINGS ASSOCIATION PROVISIONS
+
+Sec. 201. Parity for savings associations under the Securities Exchange 
+                            Act of 1934 and the Investment Advisers Act 
+                            of 1940.
+Sec. 202. Investments by Federal savings associations authorized to 
+                            promote the public welfare.
+Sec. 203. Mergers and consolidations of Federal savings associations 
+                            with nondepository institution affiliates.
+Sec. 204. Repeal of statutory dividend notice requirement for savings 
+                            association subsidiaries of savings and 
+                            loan holding companies.
+Sec. 205. Modernizing statutory authority for trust ownership of 
+                            savings associations.
+Sec. 206. Repeal of overlapping rules governing purchased mortgage 
+                            servicing rights.
+Sec. 207. Restatement of authority for Federal savings associations to 
+                            invest in small business investment 
+                            companies.
+Sec. 208. Removal of limitation on investments in auto loans.
+Sec. 209. Selling and offering of deposit products.
+Sec. 210. Funeral- and cemetery-related fiduciary services.
+Sec. 211. Repeal of qualified thrift lender requirement with respect to 
+                            out-of-state branches.
+Sec. 212. Small business and other commercial loans.
+Sec. 213. Clarifying citizenship of Federal savings associations for 
+                            Federal court jurisdiction.
+Sec. 214. Clarification of applicability of certain procedural 
+                            doctrines.
+                   TITLE III--CREDIT UNION PROVISIONS
+
+Sec. 301. Privately insured credit unions authorized to become members 
+                            of a Federal home loan bank.
+Sec. 302. Leases of land on Federal facilities for credit unions.
+Sec. 303. Investments in securities by Federal credit unions.
+Sec. 304. Increase in general 12-year limitation of term of Federal 
+                            credit union loans to 15 years.
+Sec. 305. Increase in 1 percent investment limit in credit union 
+                            service organizations.
+Sec. 306. Member business loan exclusion for loans to nonprofit 
+                            religious organizations.
+Sec. 307. Check cashing and money transfer services offered within the 
+                            field of membership.
+Sec. 308. Voluntary mergers involving multiple common-bond credit 
+                            unions.
+Sec. 309. Conversions involving common-bond credit unions.
+Sec. 310. Credit union governance.
+Sec. 311. Providing the National Credit Union Administration with 
+                            greater flexibility in responding to market 
+                            conditions.
+Sec. 312. Exemption from pre-merger notification requirement of the 
+                            Clayton Act.
+Sec. 313. Treatment of credit unions as depository institutions under 
+                            securities laws.
+              TITLE IV--DEPOSITORY INSTITUTION PROVISIONS
+
+Sec. 401. Easing restrictions on interstate branching and mergers.
+Sec. 402. Statute of limitations for judicial review of appointment of 
+                            a receiver for depository institutions.
+Sec. 403. Reporting requirements relating to insider lending.
+Sec. 404. Amendment to provide an inflation adjustment for the small 
+                            depository institution exception under the 
+                            Depository Institution Management 
+                            Interlocks Act.
+Sec. 405. Enhancing the safety and soundness of insured depository 
+                            institutions.
+Sec. 406. Investments by insured savings associations in bank service 
+                            companies authorized.
+Sec. 407. Cross guarantee authority.
+Sec. 408. Golden parachute authority and nonbank holding companies.
+Sec. 409. Amendments relating to change in bank control.
+         TITLE V--DEPOSITORY INSTITUTION AFFILIATES PROVISIONS
+
+Sec. 501. Clarification of cross marketing provision.
+Sec. 502. Amendment to provide the Federal Reserve Board with 
+                            discretion concerning the imputation of 
+                            control of shares of a company by trustees.
+Sec. 503. Eliminating geographic limits on thrift service companies.
+Sec. 504. Clarification of scope of applicable rate provision.
+                  TITLE VI--BANKING AGENCY PROVISIONS
+
+Sec. 601. Waiver of examination schedule in order to allocate examiner 
+                            resources.
+Sec. 602. Interagency data sharing.
+Sec. 603. Penalty for unauthorized participation by convicted 
+                            individual.
+Sec. 604. Amendment permitting the destruction of old records of a 
+                            depository institution by the FDIC after 
+                            the appointment of the FDIC as receiver.
+Sec. 605. Modernization of FDIC recordkeeping requirement.
+Sec. 606. Clarification of extent of suspension, removal, and 
+                            prohibition authority of Federal banking 
+                            agencies in cases of certain crimes by 
+                            institution-affiliated parties.
+Sec. 607. Streamlining depository institution merger application 
+                            requirements.
+Sec. 608. Inclusion of Director of the Office of Thrift Supervision in 
+                            list of banking agencies regarding 
+                            insurance customer protection regulations.
+Sec. 609. Shortening of post-approval antitrust review period with the 
+                            agreement of the Attorney General.
+Sec. 610. Protection of confidential information received by Federal 
+                            banking regulators from foreign banking 
+                            supervisors.
+Sec. 611. Prohibition on the participation in the affairs of bank 
+                            holding company or Edge Act or agreement 
+                            corporations by convicted individual.
+Sec. 612. Clarification that notice after separation from service may 
+                            be made by an order.
+Sec. 613. Examiners of financial institutions.
+Sec. 614. Parity in standards for institution-affiliated parties.
+Sec. 615. Enforcement against misrepresentations regarding FDIC deposit 
+                            insurance coverage.
+Sec. 616. Compensation of Federal home loan bank directors.
+              TITLE VII--CLERICAL AND TECHNICAL AMENDMENTS
+
+Sec. 701. Clerical amendments to the Home Owners' Loan Act.
+Sec. 702. Technical corrections to the Federal Credit Union Act.
+Sec. 703. Other technical corrections.
+Sec. 704. Repeal of obsolete provisions of the Bank Holding Company Act 
+                            of 1956.
+
+                   TITLE I--NATIONAL BANK PROVISIONS
+
+SEC. 101. NATIONAL BANK DIRECTORS.
+
+    Section 5146 of the Revised Statutes of the United States (12 
+U.S.C. 72) is amended--
+            (1) by striking ``Sec. 5146. Every director must during'' 
+        and inserting the following:
+
+``SEC. 5146. REQUIREMENTS FOR BANK DIRECTORS.
+
+    ``(a) Residency Requirements.--Every director of a national bank 
+shall, during'';
+            (2) by striking ``total number of directors. Every director 
+        must own in his or her own right'' and inserting ``total number 
+        of directors.
+    ``(b) Investment Requirement.--
+            ``(1) In general.--Every director of a national bank shall 
+        own, in his or her own right,''; and
+            (3) by adding at the end the following new paragraph:
+            ``(2) Exception for subordinated debt in certain cases.--In 
+        lieu of the requirements of paragraph (1) relating to the 
+        ownership of capital stock in the national bank, the 
+        Comptroller of the Currency may, by regulation or order, permit 
+        an individual to serve as a director of a national bank that 
+        has elected, or notifies the Comptroller of the bank's 
+        intention to elect, to operate as a S corporation pursuant to 
+        section 1362(a) of the Internal Revenue Code of 1986, if that 
+        individual holds debt of at least $1,000 issued by the national 
+        bank that is subordinated to the interests of depositors and 
+        other general creditors of the national bank.''.
+
+SEC. 102. VOTING IN SHAREHOLDER ELECTIONS.
+
+    Section 5144 of the Revised Statutes of the United States (12 
+U.S.C. 61) is amended--
+            (1) by striking ``or to cumulate'' and inserting ``or, if 
+        so provided by the articles of association of the national 
+        bank, to cumulate'';
+            (2) by striking the comma after ``his shares shall equal''; 
+        and
+            (3) by adding at the end the following new sentence: ``The 
+        Comptroller of the Currency may prescribe such regulations to 
+        carry out the purposes of this section as the Comptroller 
+        determines to be appropriate.''.
+
+SEC. 103. SIMPLIFYING DIVIDEND CALCULATIONS FOR NATIONAL BANKS.
+
+    Section 5199 of the Revised Statutes of the United States (12 
+U.S.C. 60) is amended to read as follows:
+
+``SEC. 5199. NATIONAL BANK DIVIDENDS.
+
+    ``(a) In General.--Subject to subsection (b), the directors of any 
+national bank may declare a dividend of so much of the undivided 
+profits of the bank as the directors judge to be expedient.
+    ``(b) Approval Required Under Certain Circumstances.--A national 
+bank may not declare and pay dividends in any year in excess of an 
+amount equal to the sum of the total of the net income of the bank for 
+that year and the retained net income of the bank in the preceding two 
+years, minus any transfers required by the Comptroller of the Currency 
+(including any transfers required to be made to a fund for the 
+retirement of any preferred stock), unless the Comptroller of the 
+Currency approves the declaration and payment of dividends in excess of 
+such amount.''.
+
+SEC. 104. REPEAL OF OBSOLETE LIMITATION ON REMOVAL AUTHORITY OF THE 
+              COMPTROLLER OF THE CURRENCY.
+
+    Section 8(e)(4) of the Federal Deposit Insurance Act (12 U.S.C. 
+1818(e)(4)) is amended by striking the 5th sentence.
+
+SEC. 105. REPEAL OF INTRASTATE BRANCH CAPITAL REQUIREMENTS.
+
+    Section 5155(c) of the Revised Statutes of the United States (12 
+U.S.C. 36(c)) is amended--
+            (1) in the 2nd sentence, by striking ``, without regard to 
+        the capital requirements of this section,''; and
+            (2) by striking the last sentence.
+
+SEC. 106. CLARIFICATION OF WAIVER OF PUBLICATION REQUIREMENTS FOR BANK 
+              MERGER NOTICES.
+
+    The last sentence of sections 2(a) and 3(a)(2) of the National Bank 
+Consolidation and Merger Act (12 U.S.C. 215(a) and 215a(a)(2), 
+respectively) are each amended by striking ``Publication of notice may 
+be waived, in cases where the Comptroller determines that an emergency 
+exists justifying such waiver, by unanimous action of the shareholders 
+of the association or State bank'' and inserting ``Publication of 
+notice may be waived if the Comptroller determines that an emergency 
+exists justifying such waiver or if the shareholders of the association 
+or State bank agree by unanimous action to waive the publication 
+requirement for their respective institutions''.
+
+SEC. 107. CAPITAL EQUIVALENCY DEPOSITS FOR FEDERAL BRANCHES AND 
+              AGENCIES OF FOREIGN BANKS.
+
+    Section 4(g) of the International Banking Act of 1978 (12 U.S.C. 
+3102(g)) is amended to read as follows:
+    ``(g) Capital Equivalency Deposit.--
+            ``(1) In general.--Upon the opening of a Federal branch or 
+        agency of a foreign bank in any State and thereafter, the 
+        foreign bank, in addition to any deposit requirements imposed 
+        under section 6, shall keep on deposit, in accordance with such 
+        regulations as the Comptroller of the Currency may prescribe in 
+        accordance with paragraph (2), dollar deposits, investment 
+        securities, or other assets in such amounts as the Comptroller 
+        of the Currency determines to be necessary for the protection 
+        of depositors and other investors and to be consistent with the 
+        principles of safety and soundness.
+            ``(2) Limitation.--Notwithstanding paragraph (1), 
+        regulations prescribed under such paragraph shall not permit a 
+        foreign bank to keep assets on deposit in an amount that is 
+        less than the amount required for a State licensed branch or 
+        agency of a foreign bank under the laws and regulations of the 
+        State in which the Federal agency or branch is located.''.
+
+SEC. 108. EQUAL TREATMENT FOR FEDERAL AGENCIES OF FOREIGN BANKS.
+
+    The 1st sentence of section 4(d) of the International Banking Act 
+of 1978 (12 U.S.C. 3102(d)) is amended by inserting ``from citizens or 
+residents of the United States'' after ``deposits''.
+
+SEC. 109. MAINTENANCE OF A FEDERAL BRANCH AND A FEDERAL AGENCY IN THE 
+              SAME STATE.
+
+    Section 4(e) of the International Banking Act of 1978 (12 U.S.C. 
+3102(e)) is amended by inserting ``if the maintenance of both an agency 
+and a branch in the State is prohibited under the law of such State'' 
+before the period at the end.
+
+SEC. 110. BUSINESS ORGANIZATION FLEXIBILITY FOR NATIONAL BANKS.
+
+    (a) In General.--Chapter one of title LXII of the Revised Statutes 
+of the United States (12 U.S.C. 21 et seq.) is amended by inserting 
+after section 5136B the following new section:
+
+``SEC. 5136C. ALTERNATIVE BUSINESS ORGANIZATION.
+
+    ``(a) In General.--The Comptroller of the Currency may prescribe 
+regulations--
+            ``(1) to permit a national bank to be organized other than 
+        as a body corporate; and
+            ``(2) to provide requirements for the organizational 
+        characteristics of a national bank organized and operating 
+        other than as a body corporate, consistent with the safety and 
+        soundness of the national bank.
+    ``(b) Equal Treatment.--Except as provided in regulations 
+prescribed under subsection (a), a national bank that is operating 
+other than as a body corporate shall have the same rights and 
+privileges and shall be subject to the same duties, restrictions, 
+penalties, liabilities, conditions, and limitations as a national bank 
+that is organized as a body corporate.''.
+    (b) Technical and Conforming Amendment.--Section 5136 of the 
+Revised Statutes of the United States (12 U.S.C. 24) is amended, in the 
+matter preceding the paragraph designated as the ``First'', by 
+inserting ``or other form of business organization provided under 
+regulations prescribed by the Comptroller of the Currency under section 
+5136C'' after ``a body corporate''.
+    (c) Clerical Amendment.--The table of sections for chapter one of 
+title LXII of the Revised Statutes of the United States (12 U.S.C. 21 
+et seq.) is amended by inserting after the item relating to section 
+5136B the following new item:
+
+``5136C. Alternative business organization.''.
+
+SEC. 111. CLARIFICATION OF THE MAIN PLACE OF BUSINESS OF A NATIONAL 
+              BANK.
+
+    Title LXII of the Revised Statutes of the United States is 
+amended--
+            (1) in the paragraph designated the ``Second'' of section 
+        5134 (12 U.S.C. 22), by striking ``The place where its 
+        operation of discount and deposit are to be carried on'' and 
+        inserting ``The place where the main office of the national 
+        bank is, or is to be, located''; and
+            (2) in section 5190 (12 U.S.C. 81), by striking ``the place 
+        specified in its organization certificate'' and inserting ``the 
+        main office of the national bank''.
+
+                TITLE II--SAVINGS ASSOCIATION PROVISIONS
+
+SEC. 201. PARITY FOR SAVINGS ASSOCIATIONS UNDER THE SECURITIES EXCHANGE 
+              ACT OF 1934 AND THE INVESTMENT ADVISERS ACT OF 1940.
+
+    (a) Securities Exchange Act of 1934.--
+            (1) Definition of bank.--Section 3(a)(6) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78c(a)(6)) is amended--
+                    (A) in subparagraph (A), by inserting ``or a 
+                Federal savings association, as defined in section 2(5) 
+                of the Home Owners' Loan Act'' after ``a banking 
+                institution organized under the laws of the United 
+                States''; and
+                    (B) in subparagraph (C)--
+                            (i) by inserting ``or savings association 
+                        as defined in section 2(4) of the Home Owners' 
+                        Loan Act,'' after ``banking institution,''; and
+                            (ii) by inserting ``or savings 
+                        associations'' after ``having supervision over 
+                        banks''.
+            (2) Include ots under the definition of appropriate 
+        regulatory agency for certain purposes.--Section 3(a)(34) of 
+        such Act (15 U.S.C. 78c(a)(34)) is amended--
+                    (A) in subparagraph (A)--
+                            (i) in clause (ii), by striking ``(i) or 
+                        (iii)'' and inserting ``(i), (iii), or (iv)'';
+                            (ii) by striking ``and'' at the end of 
+                        clause (iii);
+                            (iii) by redesignating clause (iv) as 
+                        clause (v); and
+                            (iv) by inserting the following new clause 
+                        after clause (iii):
+                            ``(iv) the Director of the Office of Thrift 
+                        Supervision, in the case of a savings 
+                        association (as defined in section 3(b) of the 
+                        Federal Deposit Insurance Act (12 U.S.C. 
+                        1813(b))) the deposits of which are insured by 
+                        the Federal Deposit Insurance Corporation, a 
+                        subsidiary or a department or division of any 
+                        such savings association, or a savings and loan 
+                        holding company; and'';
+                    (B) in subparagraph (B)--
+                            (i) in clause (ii), by striking ``(i) or 
+                        (iii)'' and inserting ``(i), (iii), or (iv)'';
+                            (ii) by striking ``and'' at the end of 
+                        clause (iii);
+                            (iii) by redesignating clause (iv) as 
+                        clause (v); and
+                            (iv) by inserting the following new clause 
+                        after clause (iii):
+                            ``(iv) the Director of the Office of Thrift 
+                        Supervision, in the case of a savings 
+                        association (as defined in section 3(b) of the 
+                        Federal Deposit Insurance Act (12 U.S.C. 
+                        1813(b))) the deposits of which are insured by 
+                        the Federal Deposit Insurance Corporation, or a 
+                        subsidiary of any such savings association, or 
+                        a savings and loan holding company; and'';
+                    (C) in subparagraph (C)--
+                            (i) in clause (ii), by striking ``(i) or 
+                        (iii)'' and inserting ``(i), (iii), or (iv)'';
+                            (ii) by striking ``and'' at the end of 
+                        clause (iii);
+                            (iii) by redesignating clause (iv) as 
+                        clause (v); and
+                            (iv) by inserting the following new clause 
+                        after clause (iii):
+                            ``(iv) the Director of the Office of Thrift 
+                        Supervision, in the case of a savings 
+                        association (as defined in section 3(b) of the 
+                        Federal Deposit Insurance Act (12 U.S.C. 
+                        1813(b))) the deposits of which are insured by 
+                        the Federal Deposit Insurance Corporation, a 
+                        savings and loan holding company, or a 
+                        subsidiary of a savings and loan holding 
+                        company when the appropriate regulatory agency 
+                        for such clearing agency is not the Commission; 
+                        and'';
+                    (D) in subparagraph (D)--
+                            (i) by striking ``and'' at the end of 
+                        clause (ii);
+                            (ii) by redesignating clause (iii) as 
+                        clause (iv); and
+                            (iii) by inserting the following new clause 
+                        after clause (ii):
+                            ``(iii) the Director of the Office of 
+                        Thrift Supervision, in the case of a savings 
+                        association (as defined in section 3(b) of the 
+                        Federal Deposit Insurance Act (12 U.S.C. 
+                        1813(b))) the deposits of which are insured by 
+                        the Federal Deposit Insurance Corporation; 
+                        and'';
+                    (E) in subparagraph (F)--
+                            (i) by redesignating clauses (ii), (iii), 
+                        and (iv) as clauses (iii), (iv), and (v), 
+                        respectively; and
+                            (ii) by inserting the following new clause 
+                        after clause (i):
+                            ``(ii) the Director of the Office of Thrift 
+                        Supervision, in the case of a savings 
+                        association (as defined in section 3(b) of the 
+                        Federal Deposit Insurance Act (12 U.S.C. 
+                        1813(b))) the deposits of which are insured by 
+                        the Federal Deposit Insurance Corporation; 
+                        and''; and
+                    (F) at the end of the last undesignated paragraph, 
+                by inserting the following new sentence: ``As used in 
+                this paragraph, the term `savings and loan holding 
+                company' has the meaning given it in section 10(a) of 
+                the Home Owners' Loan Act (12 U.S.C. 1467a(a)).''.
+    (b) Investment Advisers Act of 1940.--
+            (1) Definition of bank.--Section 202(a)(2) of the 
+        Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)(2)) is 
+        amended--
+                    (A) in subparagraph (A) by inserting ``or a Federal 
+                savings association, as defined in section 2(5) of the 
+                Home Owners' Loan Act'' after ``a banking institution 
+                organized under the laws of the United States''; and
+                    (B) in subparagraph (C)--
+                            (i) by inserting ``, savings association as 
+                        defined in section 2(4) of the Home Owners' 
+                        Loan Act,'' after ``banking institution''; and
+                            (ii) by inserting ``or savings 
+                        associations'' after ``having supervision over 
+                        banks''.
+            (2) Conforming amendments.--Subsections (a)(1)(A)(i), 
+        (a)(1)(B), (a)(2), and (b) of section 210A of such Act (15 
+        U.S.C. 80b-10a), as added by section 220 of the Gramm-Leach-
+        Bliley Act, are each amended by striking ``bank holding 
+        company'' each place it occurs and inserting ``bank holding 
+        company or savings and loan holding company''.
+    (c) Conforming Amendment to the Investment Company Act of 1940.--
+Section 10(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+10(c)), as amended by section 213(c) of the Gramm-Leach-Bliley Act, is 
+amended by inserting after ``1956)'' the following: ``or any one 
+savings and loan holding company (together with its affiliates and 
+subsidiaries) (as such terms are defined in section 10 of the Home 
+Owners' Loan Act)''.
+
+SEC. 202. INVESTMENTS BY FEDERAL SAVINGS ASSOCIATIONS AUTHORIZED TO 
+              PROMOTE THE PUBLIC WELFARE.
+
+    (a) In General.--Section 5(c)(3) of the Home Owners' Loan Act (12 
+U.S.C. 1464(c)) is amended by adding at the end the following new 
+subparagraph:
+                    ``(E) Direct investments to promote the public 
+                welfare.--
+                            ``(i) In general.--A Federal savings 
+                        association may make investments designed 
+                        primarily to promote the public welfare, 
+                        including the welfare of low- and moderate-
+                        income communities or families through the 
+                        provision of housing, services, and jobs.
+                            ``(ii) Direct investments or acquisition of 
+                        interest in other companies.--Investments under 
+                        clause (i) may be made directly or by 
+                        purchasing interests in an entity primarily 
+                        engaged in making such investments.
+                            ``(iii) Prohibition on unlimited 
+                        liability.--No investment may be made under 
+                        this subparagraph which would subject a Federal 
+                        savings association to unlimited liability to 
+                        any person.
+                            ``(iv) Single investment limitation to be 
+                        established by director.--Subject to clauses 
+                        (v) and (vi), the Director shall establish, by 
+                        order or regulation, limits on--
+                                    ``(I) the amount any savings 
+                                association may invest in any 1 
+                                project; and
+                                    ``(II) the aggregate amount of 
+                                investment of any savings association 
+                                under this subparagraph.
+                            ``(v) Flexible aggregate investment 
+                        limitation.--The aggregate amount of 
+                        investments of any savings association under 
+                        this subparagraph may not exceed an amount 
+                        equal to the sum of 5 percent of the savings 
+                        association's capital stock actually paid in 
+                        and unimpaired and 5 percent of the savings 
+                        association's unimpaired surplus, unless--
+                                    ``(I) the Director determines that 
+                                the savings association is adequately 
+                                capitalized; and
+                                    ``(II) the Federal Deposit 
+                                Insurance Corporation determines, by 
+                                order, that the aggregate amount of 
+                                investments in a higher amount than the 
+                                limit under this clause will pose no 
+                                significant risk to the affected 
+                                deposit insurance fund.
+                            ``(vi) Maximum aggregate investment 
+                        limitation.--Notwithstanding clause (v), the 
+                        aggregate amount of investments of any savings 
+                        association under this subparagraph may not 
+                        exceed an amount equal to the sum of 10 percent 
+                        of the savings association's capital stock 
+                        actually paid in and unimpaired and 10 percent 
+                        of the savings association's unimpaired 
+                        surplus.
+                            ``(vii) Investments not subject to other 
+                        limitation on quality of investments.--No 
+                        obligation a Federal savings association 
+                        acquires or retains under this subparagraph 
+                        shall be taken into account for purposes of the 
+                        limitation contained in section 28(d) of the 
+                        Federal Deposit Insurance Act on the 
+                        acquisition and retention of any corporate debt 
+                        security not of investment grade.''.
+    (b) Technical and Conforming Amendment.--Section 5(c)(3)(A) of the 
+Home Owners' Loan Act (12 U.S.C. 1464(c)(3)(A)) is amended to read as 
+follows:
+                    ``(A) [Repealed.]''.
+
+SEC. 203. MERGERS AND CONSOLIDATIONS OF FEDERAL SAVINGS ASSOCIATIONS 
+              WITH NONDEPOSITORY INSTITUTION AFFILIATES.
+
+    Section 5(d)(3) of the Home Owners' Loan Act (12 U.S.C. 1464(d)(3)) 
+is amended--
+            (1) by redesignating subparagraph (B) as subparagraph (C); 
+        and
+            (2) by inserting after subparagraph (A) the following new 
+        subparagraph:
+                    ``(B) Mergers and consolidations with nondepository 
+                institution affiliates.--
+                            ``(i) In general.--Upon the approval of the 
+                        Director, a Federal savings association may 
+                        merge with any nondepository institution 
+                        affiliate of the savings association.
+                            ``(ii) Rule of construction.--No provision 
+                        of clause (i) shall be construed as--
+                                    ``(I) affecting the applicability 
+                                of section 18(c) of the Federal Deposit 
+                                Insurance Act; or
+                                    ``(II) granting a Federal savings 
+                                association any power or any authority 
+                                to engage in any activity that is not 
+                                authorized for a Federal savings 
+                                association under any other provision 
+                                of this Act or any other provision of 
+                                law.''.
+
+SEC. 204. REPEAL OF STATUTORY DIVIDEND NOTICE REQUIREMENT FOR SAVINGS 
+              ASSOCIATION SUBSIDIARIES OF SAVINGS AND LOAN HOLDING 
+              COMPANIES.
+
+    Section 10(f) of the Home Owners' Loan Act (12 U.S.C. 1467a(f)) is 
+amended to read as follows:
+    ``(f) Declaration of Dividend.--The Director may--
+            ``(1) require a savings association that is a subsidiary of 
+        a savings and loan holding company to give prior notice to the 
+        Director of the intent of the savings association to pay a 
+        dividend on its guaranty, permanent, or other nonwithdrawable 
+        stock; and
+            ``(2) establish conditions on the payment of dividends by 
+        such a savings association.''.
+
+SEC. 205. MODERNIZING STATUTORY AUTHORITY FOR TRUST OWNERSHIP OF 
+              SAVINGS ASSOCIATIONS.
+
+    (a) In General.--Section 10(a)(1)(C) of the Home Owners' Loan Act 
+(12 U.S.C. 1467a(a)(1)(C)) is amended--
+            (1) by striking ``trust,'' and inserting ``business 
+        trust,''; and
+            (2) by inserting ``or any other trust unless by its terms 
+        it must terminate within 25 years or not later than 21 years 
+        and 10 months after the death of individuals living on the 
+        effective date of the trust,'' after ``or similar 
+        organization,''.
+    (b) Technical and Conforming Amendment.--Section 10(a)(3) of the 
+Home Owners' Loan Act (12 U.S.C. 1467a(a)(3)) is amended--
+            (1) by striking ``does not include--'' and all that follows 
+        through ``any company by virtue'' where such term appears in 
+        subparagraph (A) and inserting ``does not include any company 
+        by virtue'';
+            (2) by striking ``; and'' at the end of subparagraph (A) 
+        and inserting a period; and
+            (3) by striking subparagraph (B).
+
+SEC. 206. REPEAL OF OVERLAPPING RULES GOVERNING PURCHASED MORTGAGE 
+              SERVICING RIGHTS.
+
+    Section 5(t) of the Home Owners' Loan Act (12 U.S.C. 1464(t)) is 
+amended--
+            (1) by striking paragraph (4) and inserting the following 
+        new paragraph:
+            ``(4) [Repealed.]''; and
+            (2) in paragraph (9)(A), by striking ``intangible assets, 
+        plus'' and all that follows through the period at the end and 
+        inserting ``intangible assets.''.
+
+SEC. 207. RESTATEMENT OF AUTHORITY FOR FEDERAL SAVINGS ASSOCIATIONS TO 
+              INVEST IN SMALL BUSINESS INVESTMENT COMPANIES.
+
+    Subparagraph (D) of section 5(c)(4) of the Home Owners' Loan Act 
+(12 U.S.C. 1464(c)(4)) is amended to read as follows:
+                    ``(D) Small business investment companies.--Any 
+                Federal savings association may invest in 1 or more 
+                small business investment companies, or in any entity 
+                established to invest solely in small business 
+                investment companies formed under the Small Business 
+                Investment Act of 1958, except that the total amount of 
+                investments under this subparagraph may not at any time 
+                exceed the amount equal to 5 percent of capital and 
+                surplus of the savings association.''.
+
+SEC. 208. REMOVAL OF LIMITATION ON INVESTMENTS IN AUTO LOANS.
+
+    (a) In General.--Section 5(c)(1) of the Home Owners' Loan Act (12 
+U.S.C. 1464(c)(1)) is amended by adding at the end the following new 
+subparagraph:
+                    ``(V) Auto loans.--Loans and leases for motor 
+                vehicles acquired for personal, family, or household 
+                purposes.''.
+    (b) Technical and Conforming Amendment relating to Qualified Thrift 
+Investments.--Section 10(m)(4)(C)(ii) of the Home Owners' Loan Act (12 
+U.S.C. 1467a(m)(4)(C)(ii)) is amended by adding at the end the 
+following new subclause:
+                                    ``(VIII) Loans and leases for motor 
+                                vehicles acquired for personal, family, 
+                                or household purposes.''.
+
+SEC. 209. SELLING AND OFFERING OF DEPOSIT PRODUCTS.
+
+            Section 15(h) of the Securities Exchange Act of 1934 (15 
+        U.S.C. 78o(h)) is amended by adding at the end the following 
+        new paragraph:
+            ``(4) Selling and offering of deposit products.--No law, 
+        rule, regulation, or order, or other administrative action of 
+        any State or political subdivision thereof shall directly or 
+indirectly require any agent who represents 1 Federal savings 
+association (as such term is defined in section 2(5) of the Home 
+Owners' Loan Act (12 U.S.C. 1462(5)) in selling or offering deposit (as 
+such term is defined in section 3 of the Federal Deposit Insurance Act 
+(12 U.S.C. 1813(l)) products issued by such association to qualify or 
+register as a broker, dealer, associated person of a broker, or 
+associated person of a dealer, or to qualify or register in any other 
+similar status or capacity.''.
+
+SEC. 210. FUNERAL- AND CEMETERY-RELATED FIDUCIARY SERVICES.
+
+    Section 5(n) of the Home Owners' Loan Act (12 U.S.C. 1464(n)) is 
+amended by adding at the end the following new paragraph:
+            ``(11) Funeral- and cemetery-related fiduciary services.--
+                    ``(A) In general.--A funeral director or cemetery 
+                operator, when acting in such capacity, (or any other 
+                person in connection with a contract or other agreement 
+                with a funeral director or cemetery operator) may 
+                engage any Federal savings association, regardless of 
+                where the association is located, to act in any 
+                fiduciary capacity in which the savings association has 
+                the right to act in accordance with this section, 
+                including holding funds deposited in trust or escrow by 
+                the funeral director or cemetery operator (or by such 
+                other party), and the savings association may act in 
+                such fiduciary capacity on behalf of the funeral 
+                director or cemetery operator (or such other person).
+                    ``(B) Definitions.--For purposes of this paragraph, 
+                the following definitions shall apply:
+                            ``(i) Cemetery.--The term `cemetery' means 
+                        any land or structure used, or intended to be 
+                        used, for the internment of human remains in 
+                        any form.
+                            ``(ii) Cemetery operator.--The term 
+                        `cemetery operator' means any person who 
+                        contracts or accepts payment for merchandise, 
+                        endowment, or perpetual care services in 
+                        connection with a cemetery.
+                            ``(iii) Funeral director.--The term 
+                        `funeral director' means any person who 
+                        contracts or accepts payment to provide or 
+                        arrange--
+                                    ``(I) services for the final 
+                                disposition of human remains; or
+                                    ``(II) funeral services, property, 
+                                or merchandise (including cemetery 
+                                services, property, or merchandise).''.
+
+SEC. 211. REPEAL OF QUALIFIED THRIFT LENDER REQUIREMENT WITH RESPECT TO 
+              OUT-OF-STATE BRANCHES.
+
+    Section 5(r)(1) of the Home Owners' Loan Act (12 U.S.C. 1464(r)(1)) 
+is amended by striking the ultimate sentence.
+
+SEC. 212. SMALL BUSINESS AND OTHER COMMERCIAL LOANS.
+
+    (a) Elimination of Lending Limit on Small Business Loans.--Section 
+5(c)(1) of the Home Owners' Loan Act (12 U.S.C. 1464(c)(1)) is amended 
+by inserting after subparagraph (V) (as added by section 208 of this 
+title) the following new subparagraph:
+                    ``(W) Small business loans.--Small business loans, 
+                as defined in regulations which the Director shall 
+                prescribe.''
+    (b) Increase in Lending Limit on Other Business Loans.--Section 
+5(c)(2)(A) of the Home Owners' Loan Act (12 U.S.C. 1464(c)(2)(A)) is 
+amended by striking ``, and amounts in excess of 10 percent'' and all 
+that follows through ``by the Director''.
+
+SEC. 213. CLARIFYING CITIZENSHIP OF FEDERAL SAVINGS ASSOCIATIONS FOR 
+              FEDERAL COURT JURISDICTION.
+
+    Section 5 of the Home Owners' Loan Act (12 U.S.C. 1464) is amended 
+by adding at the end the following new subsection:
+    ``(x) Home State Citizenship.--In determining whether a Federal 
+court has diversity jurisdiction over a case in which a Federal savings 
+association is a party, the Federal savings association shall be 
+considered to be a citizen only of the State in which such savings 
+association has its main office.''.
+
+SEC. 214. CLARIFICATION OF APPLICABILITY OF CERTAIN PROCEDURAL 
+              DOCTRINES.
+
+    Section 11A(d) of the Federal Deposit Insurance Act (12 U.S.C. 
+1821a(d)) is amended--
+            (1) by striking ``Legal Proceedings.--Any judgment'' and 
+        inserting ``Legal Proceedings.--
+            ``(1) In general.--Any judgment''; and
+            (2) by adding at the end the following new paragraph:
+            ``(2) Clarification of applicability of certain procedural 
+        doctrines.--In any proceeding seeking a monetary recovery 
+        against the United States, or an agency or official thereof, 
+        based upon actions of the Federal Savings and Loan Insurance 
+        Corporation prior to its dissolution, or the Federal Home Loan 
+        Bank Board prior to its dissolution, and arising from the 
+        Financial Institutions Reform, Recovery, and Enforcement Act of 
+        1989 or its implementation, and where any monetary recovery in 
+        such proceeding would be paid from the FSLIC Resolution Fund or 
+        any supplements thereto, neither the United States Court of 
+        Federal Claims, the United States Court of Appeals for the 
+        Federal Circuit, nor any other court of competent jurisdiction 
+        shall dismiss, or affirm on appeal the dismissal of, the claims 
+        of any party seeking such monetary recovery, on the basis of 
+        res judicata, collateral estoppel, or any similar doctrine, 
+        defense, or rule of law, based upon any decision, opinion, or 
+        order of judgment entered by any court prior to July 1, 1996. 
+        Unless some other defense is applicable, in any such 
+        proceeding, the United States Court of Federal Claims, the 
+        United States Court of Appeals for the Federal Circuit, and any 
+        other court of competent jurisdiction shall review the merits 
+        of the claims of the party seeking such monetary relief and 
+        shall enter judgment accordingly.''.
+
+                   TITLE III--CREDIT UNION PROVISIONS
+
+SEC. 301. PRIVATELY INSURED CREDIT UNIONS AUTHORIZED TO BECOME MEMBERS 
+              OF A FEDERAL HOME LOAN BANK.
+
+    (a) In General.--Section 4(a) of the Federal Home Loan Bank Act (12 
+U.S.C. 1424(a)) is amended by adding at the end the following new 
+paragraph:
+            ``(5) Certain privately insured credit unions.--
+                    ``(A) In general.--A credit union which has been 
+                determined, in accordance with section 43(e)(1) of the 
+                Federal Deposit Insurance Act and subject to the 
+                requirements of subparagraph (B), to meet all 
+                eligibility requirements for Federal deposit insurance 
+                shall be treated as an insured depository institution 
+                for purposes of determining the eligibility of such 
+                credit union for membership in a Federal home loan bank 
+                under paragraphs (1), (2), and (3).
+                    ``(B) Certification by appropriate supervisor.--
+                            ``(i) In general.--For purposes of this 
+                        paragraph and subject to clause (ii), a credit 
+                        union which lacks Federal deposit insurance and 
+                        which has applied for membership in a Federal 
+                        home loan bank may be treated as meeting all 
+                        the eligibility requirements for Federal 
+                        deposit insurance only if the appropriate 
+                        supervisor of the State in which the credit 
+                        union is chartered has determined that the 
+                        credit union meets all the eligibility 
+                        requirements for Federal deposit insurance as 
+                        of the date of the application for membership.
+                            ``(ii) Certification deemed valid.--If, in 
+                        the case of any credit union to which clause 
+                        (i) applies, the appropriate supervisor of the 
+                        State in which such credit union is chartered 
+                        fails to make a determination pursuant to such 
+                        clause by the end of the 6-month period 
+                        beginning on the date of the application, the 
+                        credit union shall be deemed to have met the 
+                        requirements of clause (i).
+                    ``(C) Security interests of federal home loan bank 
+                not avoidable.--Notwithstanding any provision of State 
+                law authorizing a conservator or liquidating agent of a 
+                credit union to repudiate contracts, no such provision 
+                shall apply with respect to--
+                            ``(i) any extension of credit from any 
+                        Federal home loan bank to any credit union 
+                        which is a member of any such bank pursuant to 
+                        this paragraph; or
+                            ``(ii) any security interest in the assets 
+                        of such credit union securing any such 
+                        extension of credit.''.
+    (b) Copies of Audits of Private Insurers of Certain Depository 
+Institutions Required To Be Provided to Supervisory Agencies.--Section 
+43(a)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1831t(a)(2)) 
+is amended--
+            (1) by striking ``and'' at the end of subparagraph (A)(i);
+            (2) by striking the period at the end of clause (ii) of 
+        subparagraph (A) and inserting a semicolon;
+            (3) by inserting the following new clauses at the end of 
+        subparagraph (A):
+                            ``(iii) in the case of depository 
+                        institutions described in subsection (f)(2)(A) 
+                        the deposits of which are insured by the 
+                        private insurer, the National Credit Union 
+                        Administration, not later than 7 days after 
+                        that audit is completed; and
+                            ``(iv) in the case of depository 
+                        institutions described in subsection (f)(2)(A) 
+                        the deposits of which are insured by the 
+                        private insurer which are members of a Federal 
+                        home loan bank, the Federal Housing Finance 
+                        Board, not later than 7 days after that audit 
+                        is completed.''; and
+            (4) by adding at the end of such section 43(a)(2) the 
+        following new subparagraph:
+                    ``(C) Consultation.--The appropriate supervisory 
+                agency of each State in which a private deposit insurer 
+                insures deposits in an institution described in 
+                subsection (f)(2)(A) which--
+                            ``(i) lacks Federal deposit insurance; and
+                            ``(ii) has become a member of a Federal 
+                        home loan bank,
+                shall provide the National Credit Union Administration, 
+                upon request, with the results of any examination and 
+                reports related thereto concerning the private deposit 
+                insurer to which such agency may have in its 
+                possession.''.
+
+SEC. 302. LEASES OF LAND ON FEDERAL FACILITIES FOR CREDIT UNIONS.
+
+    (a) In General.--Section 124 of the Federal Credit Union Act (12 
+U.S.C. 1770) is amended--
+            (1) by striking ``Upon application by any credit union'' 
+        and inserting ``Notwithstanding any other provision of law, 
+        upon application by any credit union'';
+            (2) by inserting ``on lands reserved for the use of, and 
+        under the exclusive or concurrent jurisdiction of, the United 
+        States or'' after ``officer or agency of the United States 
+        charged with the allotment of space'';
+            (3) by inserting ``lease land or'' after ``such officer or 
+        agency may in his or its discretion''; and
+            (4) by inserting ``or the facility built on the lease 
+        land'' after ``credit union to be served by the allotment of 
+        space''.
+    (b) Clerical Amendment.--The heading for section 124 is amended by 
+inserting ``or federal land'' after ``buildings''.
+
+SEC. 303. INVESTMENTS IN SECURITIES BY FEDERAL CREDIT UNIONS.
+
+    Section 107 of the Federal Credit Union Act (12 U.S.C. 1757) is 
+amended--
+            (1) in the matter preceding paragraph (1) by striking ``A 
+        Federal credit union'' and inserting ``(a) In General.--Any 
+        Federal credit union''; and
+            (2) by adding at the end the following new subsection:
+    ``(b) Investment for the Credit Union's Own Account.--
+            ``(1) In general.--A Federal credit union may purchase and 
+        hold for its own account such investment securities of 
+        investment grade as the Board may authorize by regulation, 
+        subject to such limitations and restrictions as the Board may 
+        prescribe in the regulations.
+            ``(2) Percentage limitations.--
+                    ``(A) Single obligor.--In no event may the total 
+                amount of investment securities of any single obligor 
+                or maker held by a Federal credit union for the credit 
+                union's own account exceed at any time an amount equal 
+                to 10 percent of the net worth of the credit union.
+                    ``(B) Aggregate investments.--In no event may the 
+                aggregate amount of investment securities held by a 
+                Federal credit union for the credit union's own account 
+                exceed at any time an amount equal to 10 percent of the 
+                assets of the credit union.
+            ``(3) Investment security defined.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term `investment security' means marketable 
+                obligations evidencing the indebtedness of any person 
+                in the form of bonds, notes, or debentures and other 
+                instruments commonly referred to as investment 
+                securities.
+                    ``(B) Further definition by board.--The Board may 
+                further define the term `investment security'.
+            ``(4) Investment grade defined.--The term `investment 
+        grade' means with respect to an investment security purchased 
+        by a credit union for its own account, an investment security 
+        that at the time of such purchase is rated in one of the 4 
+        highest rating categories by at least 1 nationally recognized 
+        statistical rating organization.
+            ``(5) Clarification of Prohibition on Stock Ownership.--No 
+        provision of this subsection shall be construed as authorizing 
+        a Federal credit union to purchase shares of stock of any 
+        corporation for the credit union's own account, except as 
+        otherwise permitted by law.''.
+
+SEC. 304. INCREASE IN GENERAL 12-YEAR LIMITATION OF TERM OF FEDERAL 
+              CREDIT UNION LOANS TO 15 YEARS.
+
+    Section 107(a)(5) of the Federal Credit Union Act (12 U.S.C. 
+1757(5)) (as so designated by section 303 of this title) is amended--
+            (1) in the matter preceding subparagraph (A), by striking 
+        ``to make loans, the maturities of which shall not exceed 
+        twelve years except as otherwise provided herein'' and 
+        inserting ``to make loans, the maturities of which shall not 
+        exceed 15 years or any longer maturity as the Board may allow, 
+        in regulations, except as otherwise provided in this Act'';
+            (2) in subparagraph (A)--
+                    (A) by striking clause (ii);
+                    (B) by redesignating clauses (iii) through (x) as 
+                clauses (ii) through (ix), respectively; and
+                    (C) by inserting ``and'' after the semicolon at the 
+                end of clause (viii) (as so redesignated).
+
+SEC. 305. INCREASE IN 1 PERCENT INVESTMENT LIMIT IN CREDIT UNION 
+              SERVICE ORGANIZATIONS.
+
+    Section 107(a)(7)(I) of the Federal Credit Union Act (12 U.S.C. 
+1757(7)(I)) (as so designated by section 303 of this title) is amended 
+by striking ``up to 1 per centum of the total paid'' and inserting ``up 
+to 3 percent of the total paid''.
+
+SEC. 306. MEMBER BUSINESS LOAN EXCLUSION FOR LOANS TO NONPROFIT 
+              RELIGIOUS ORGANIZATIONS.
+
+    Section 107A(a) of the Federal Credit Union Act (12 U.S.C. 
+1757a(a)) is amended by inserting ``, excluding loans made to nonprofit 
+religious organizations,'' after ``total amount of such loans''.
+
+SEC. 307. CHECK CASHING AND MONEY TRANSFER SERVICES OFFERED WITHIN THE 
+              FIELD OF MEMBERSHIP.
+
+    Paragraph (12) of section 107(a) of the Federal Credit Union Act 
+(12 U.S.C. 1757(12)) (as so designated by section 303 of this title) is 
+amended to read as follows:
+            ``(12) in accordance with regulations prescribed by the 
+        Board--
+                    ``(A) to sell, to persons in the field of 
+                membership, negotiable checks (including travelers 
+                checks), money orders, and other similar money transfer 
+                instruments (including electronic fund transfers); and
+                    ``(B) to cash checks and money orders and receive 
+                electronic fund transfers for persons in the field of 
+                membership for a fee;''.
+
+SEC. 308. VOLUNTARY MERGERS INVOLVING MULTIPLE COMMON-BOND CREDIT 
+              UNIONS.
+
+    Section 109(d)(2) of the Federal Credit Union Act (12 U.S.C. 
+1759(d)(2) is amended--
+            (1) by striking ``or'' at the end of clause (ii) of 
+        subparagraph (B);
+            (2) by striking the period at the end of subparagraph (C) 
+        and inserting ``; or''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(D) a merger involving any such Federal credit 
+                union approved by the Board on or after August 7, 
+                1998.''.
+
+SEC. 309. CONVERSIONS INVOLVING COMMON-BOND CREDIT UNIONS.
+
+    Section 109(g) of the Federal Credit Union Act (12 U.S.C. 1759(g)) 
+is amended by inserting after paragraph (2) the following new 
+paragraph:
+            ``(3) Criteria for continued membership of certain member 
+        groups in community charter conversions.--In the case of a 
+        voluntary conversion of a common-bond credit union described in 
+        paragraph (1) or (2) of subsection (b) into a community credit 
+        union described in subsection (b)(3), the Board shall 
+        prescribe, by regulation, the criteria under which the Board 
+        may determine that a member group or other portion of a credit 
+        union's existing membership, that is located outside the well-
+        defined local community, neighborhood, or rural district that 
+        shall constitute the community charter, can be satisfactorily 
+        served by the credit union and remain within the community 
+        credit union's field of membership.''.
+
+SEC. 310. CREDIT UNION GOVERNANCE.
+
+    (a) Expulsion of Members For Just Cause.--Subsection (b) of section 
+118 of the Federal Credit Union Act (12 U.S.C. 1764(b)) is amended to 
+read as follows:
+    ``(b) Policy and Actions of Boards of Directors of Federal Credit 
+Unions.--
+            ``(1) Expulsion of members for nonparticipation or for just 
+        cause.--The board of directors of a Federal credit union may, 
+        by majority vote of a quorum of directors, adopt and enforce a 
+        policy with respect to expulsion from membership, by a majority 
+        vote of such board of directors, based on just cause, including 
+        disruption of credit union operations, or on nonparticipation 
+        by a member in the affairs of the credit union.
+            ``(2) Written notice of policy to members.--If a policy 
+        described in paragraph (1) is adopted, written notice of the 
+        policy as adopted and the effective date of such policy shall 
+        be provided to--
+                    ``(A) each existing member of the credit union not 
+                less than 30 days prior to the effective date of such 
+                policy; and
+                    ``(B) each new member prior to or upon applying for 
+                membership.''.
+    (b) Term Limits Authorized for Board Members of Federal Credit 
+Unions.--Section 111(a) of the Federal Credit Union Act (12 U.S.C. 
+1761(a)) is amended by adding at the end the following new sentence: 
+``The bylaws of a Federal credit union may limit the number of 
+consecutive terms any person may serve on the board of directors of 
+such credit union.''.
+    (c) Reimbursement For Lost Wages Due to Service on Credit Union 
+Board Not Treated as Compensation.--Section 111(c) of the Federal 
+Credit Union Act (12 U.S.C. 1761(c)) is amended by inserting ``, 
+including lost wages,'' after ``the reimbursement of reasonable 
+expenses''.
+
+SEC. 311. PROVIDING THE NATIONAL CREDIT UNION ADMINISTRATION WITH 
+              GREATER FLEXIBILITY IN RESPONDING TO MARKET CONDITIONS.
+
+    Section 107(a)(5)(A)(vi)(I) of the Federal Credit Union Act (12 
+U.S.C. 1757(5)(A)(vi)(I)) (as so designated by section 303 of this 
+title) is amended by striking ``six-month period and that prevailing 
+interest rate levels'' and inserting ``6-month period or that 
+prevailing interest rate levels''.
+
+SEC. 312. EXEMPTION FROM PRE-MERGER NOTIFICATION REQUIREMENT OF THE 
+              CLAYTON ACT.
+
+    Section 7A(c)(7) of the Clayton Act (15 U.S.C. 18a(c)(7)) is 
+amended by inserting ``205(b)(3) of the Federal Credit Union Act (12 
+U.S.C. 1785(b)(3),'' before ``or section 3''.
+
+SEC. 313. TREATMENT OF CREDIT UNIONS AS DEPOSITORY INSTITUTIONS UNDER 
+              SECURITIES LAWS.
+
+    (a) Definition of Bank Under the Securities Exchange Act of 1934.--
+Section 3(a)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78c(a)(6)) (as amended by section 201(a)(1) of this Act) is amended--
+            (1) by striking ``this title, and (D) a receiver'' and 
+        inserting ``this title, (D) an insured credit union (as defined 
+        in section 101(7) of the Federal Credit Union Act) but only for 
+        purposes of paragraphs (4) and (5) of this subsection and only 
+        for activities otherwise authorized by applicable laws to which 
+        such credit unions are subject, and (E) a receiver''; and
+            (2) in subparagraph (E) (as so redesignated by paragraph 
+        (1) of this subsection) by striking ``(A), (B), or (C)'' and 
+        inserting ``(A), (B), (C), or (D)''.
+    (b) Definition of Bank Under the Investment Advisers Act of 1940.--
+Section 202(a)(2) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2(a)(2)) (as amended by section 201(b)(1) of this Act) is amended--
+            (1) by striking ``this title, and (D) a receiver'' and 
+        inserting ``this title, (D) an insured credit union (as defined 
+        in section 101(7) of the Federal Credit Union Act) but only for 
+        activities otherwise authorized by applicable laws to which 
+        such credit unions are subject, and (E) a receiver''; and
+            (2) in subparagraph (E) (as so redesignated by paragraph 
+        (1) of this subsection) by striking ``(A), (B), or (C)'' and 
+        inserting ``(A), (B), (C), or (D)''.
+    (c) Definition of Appropriate Federal Banking Agency.--Section 
+210A(c) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-10a(c)) 
+(as amended by section 201(c) of this Act) is amended by inserting 
+``and includes the National Credit Union Administration Board, in the 
+case of an insured credit union (as defined in section 101(7) of the 
+Federal Credit Union Act)'' before the period at the end.
+
+              TITLE IV--DEPOSITORY INSTITUTION PROVISIONS
+
+SEC. 401. EASING RESTRICTIONS ON INTERSTATE BRANCHING AND MERGERS.
+
+    (a) De Novo Interstate Branches of National Banks.--
+            (1) In general.--Section 5155(g)(1) of the Revised Statutes 
+        of the United States (12 U.S.C. 36(g)(1)) is amended by 
+        striking ``maintain a branch if--'' and all that follows 
+        through the end of subparagraph (B) and inserting ``maintain a 
+        branch.''.
+            (2) Clerical amendment.--The heading for subsection (g) of 
+        section 5155 of the Revised Statutes of the United States is 
+        amended by striking ``State `Opt-In' Election to Permit''.
+    (b) De Novo Interstate Branches of State Nonmember Banks.--
+            (1) In general.--Section 18(d)(4)(A) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1828(d)(4)(A)) is amended by striking 
+        ``maintain a branch if--'' and all that follows through the end 
+        of clause (ii) and inserting ``maintain a branch.''.
+            (2) Clerical amendment.--The heading for paragraph (4) of 
+        section 18(d) of the Federal Deposit Insurance Act is amended 
+        by striking ``State `opt-in' election to permit interstate'' 
+        and inserting ``Interstate''.
+    (c) De Novo Interstate Branches of State Member Banks.--The 3rd 
+undesignated paragraph of section 9 of the Federal Reserve Act (12 
+U.S.C. 321) is amended by adding at the end the following new 
+sentences: ``A State member bank may establish and operate a de novo 
+branch in a host State (as such terms are defined in section 18(d) of 
+the Federal Deposit Insurance Act) on the same terms and conditions and 
+subject to the same limitations and restrictions as are applicable to 
+the establishment of a de novo branch of a national bank in a host 
+State under section 5155(g) of the Revised Statutes of the United 
+States. Such section 5155(g) shall be applied for purposes of the 
+preceding sentence by substituting `Board of Governors of the Federal 
+Reserve System' for `Comptroller of the Currency' and `State member 
+bank' for `national bank'.''.
+    (d) Interstate Merger of Banks.--
+            (1) Merger of insured bank with another depository 
+        institution or trust company.--Section 44(a)(1) of the Federal 
+        Deposit Insurance Act (12 U.S.C. 1831u(a)(1)) is amended--
+                    (A) by striking ``Beginning on June 1, 1997, the'' 
+                and inserting ``The''; and
+                    (B) by striking ``insured banks with different home 
+                States'' and inserting ``an insured bank and another 
+                insured depository institution or trust company with a 
+                different home State than the resulting insured bank''.
+            (2) National bank trust company merger with other trust 
+        company.--Subsection (b) of section 4 of the National Bank 
+        Consolidation and Merger Act (12 U.S.C. 215a-1(b)) is amended 
+        to read as follows:
+    ``(b) Merger of National Bank Trust Company With Another Trust 
+Company.--A national bank that is a trust company may engage in a 
+consolidation or merger under this Act with any trust company with a 
+different home State, under the same terms and conditions that would 
+apply if the trust companies were located within the same State.''.
+    (e) Interstate Fiduciary Activity.--Section 18(d) of the Federal 
+Deposit Insurance Act (12 U.S.C. 1828(d)) is amended by adding at the 
+end the following new paragraph:
+            ``(5) Interstate fiduciary activity.--
+                    ``(A) Authority of state bank supervisor.--The 
+                State bank supervisor of a State bank may approve an 
+                application by the State bank, when not in 
+                contravention of home State or host State law, to act 
+                as trustee, executor, administrator, registrar of 
+                stocks and bonds, guardian of estates, assignee, 
+                receiver, committee of estates of lunatics, or in any 
+                other fiduciary capacity in a host State in which State 
+                banks or other corporations which come into competition 
+                with national banks are permitted to act under the laws 
+                of such host State.
+                    ``(B) Noncontravention of host state law.--Whenever 
+                the laws of a host State authorize or permit the 
+                exercise of any or all of the foregoing powers by State 
+                banks or other corporations which compete with national 
+                banks, the granting to and the exercise of such powers 
+                by a State bank as provided in this paragraph shall not 
+                be deemed to be in contravention of host State law 
+                within the meaning of this paragraph.
+                    ``(C) State bank includes trust companies.--For 
+                purposes of this paragraph, the term `State bank' 
+                includes any State-chartered trust company (as defined 
+                in section 44(g)).
+                    ``(D) Other definitions.--For purposes of this 
+                paragraph, the term `home State' and `host State' have 
+                the meanings given such terms in section 44.''.
+    (f) Technical and Conforming Amendments.--
+            (1) Section 44 of the Federal Deposit Insurance Act (12 
+        U.S.C. 1831u) is amended--
+                    (A) in subsection (a)--
+                            (i) by striking paragraph (4) and inserting 
+                        the following new paragraph:
+            ``(4) Treatment of branches in connection with certain 
+        interstate merger transactions.--In the case of an interstate 
+        merger transaction which involves the acquisition of a branch 
+        of an insured depository institution or trust company without 
+        the acquisition of the insured depository institution or trust 
+        company, the branch shall be treated, for purposes of this 
+        section, as an insured depository institution or trust company 
+        the home State of which is the State in which the branch is 
+        located.''; and
+                            (ii) by striking paragraphs (5) and (6);
+                    (B) in subsection (b)--
+                            (i) by striking ``bank'' each place such 
+                        term appears in paragraph (2)(B)(i) and 
+                        inserting ``insured depository institution'';
+                            (ii) by striking ``banks'' where such term 
+                        appears in paragraph (2)(E) and inserting 
+                        ``insured depository institutions or trust 
+                        companies'';
+                            (iii) by striking ``bank affiliate'' each 
+                        place such term appears in that portion of 
+                        paragraph (3) that precedes subparagraph (A) 
+                        and inserting ``insured depository institution 
+                        affiliate'';
+                            (iv) by striking ``any bank'' where such 
+                        term appears in paragraph (3)(B) and inserting 
+                        ``any insured depository institution'';
+                            (v) by striking ``bank'' where such term 
+                        appears in paragraph (4)(A) and inserting 
+                        ``insured depository institution and trust 
+                        company''; and
+                            (vi) by striking ``all banks'' where such 
+                        term appears in paragraph (5) and inserting 
+                        ``all insured depository institutions and trust 
+                        companies'';
+                    (C) in subsection (d)(1), by striking ``any bank'' 
+                and inserting ``any insured depository institution or 
+                trust company'';
+                    (D) in subsection (e)--
+                            (i) by striking ``1 or more banks'' and 
+                        inserting ``1 or more insured depository 
+                        institutions''; and
+                            (ii) by striking ``paragraph (2), (4), or 
+                        (5)'' and inserting ``paragraph (2)'';
+                    (E) by striking clauses (i) and (ii) of subsection 
+                (g)(4)(A) and inserting the following new clauses:
+                            ``(i) with respect to a national bank or 
+                        Federal savings association, the State in which 
+                        the main office of the bank or savings 
+                        association is located; and
+                            ``(ii) with respect to a State bank, State 
+                        savings association, or State-chartered trust 
+                        company, the State by which the bank, savings 
+                        association, or trust company is chartered; 
+                        and'';
+                    (F) by striking paragraph (5) of subsection (g) and 
+                inserting the following new paragraph:
+            ``(5) Host state.--The term `host State' means--
+                    ``(A) with respect to an insured depository 
+                institution, a State, other than the home State of the 
+                depository institution, in which the depository 
+                institution maintains, or seeks to establish and 
+                maintain, a branch; and
+                    ``(B) with respect to a trust company, a State, 
+                other than the home State of the trust company, in 
+                which the trust company acts, or seeks to act, in 1 or 
+                more fiduciary capacities.'';
+                    (G) in subsection (g)(10), by striking ``section 
+                18(c)(2)'' and inserting ``paragraph (1) or (2) of 
+                section 18(c), as appropriate,''; and
+                    (H) in subsection (g), by adding at the end the 
+                following new paragraph:
+            ``(12) Trust company.--The term `trust company' means--
+                    ``(A) any national bank;
+                    ``(B) any savings association; and
+                    ``(C) any bank, banking association, trust company, 
+                savings bank, or other banking institution which is 
+                incorporated under the laws of any State,
+        that is authorized to act in 1 or more fiduciary capacities but 
+        is not in the business of receiving deposits other than trust 
+        funds (as defined in section 3(p)).''.
+            (2) Section 3(d) of the Bank Holding Company Act of 1956 
+        (12 U.S.C. 1842(d)) is amended--
+                    (A) in paragraph (1)--
+                            (i) by striking subparagraphs (B) and (C); 
+                        and
+                            (ii) by redesignating subparagraph (D) as 
+                        subparagraph (B); and
+                    (B) in paragraph (5), by striking ``subparagraph 
+                (B) or (D)'' and inserting ``subparagraph (B)''.
+            (3) Subsection (c) of section 4 of the National Bank 
+        Consolidation and Merger Act (12 U.S.C. 215a-1(c)) is amended 
+        to read as follows:
+    ``(c) Definitions.--For purposes of this section, the terms `home 
+State', `out-of-State bank', and `trust company' each have the same 
+meaning as in section 44(g) of the Federal Deposit Insurance Act.''.
+    (g) Clerical Amendments.--
+            (1) The heading for section 44(b)(2)(E) of the Federal 
+        Deposit Insurance Act (12 U.S.C. 1831u(b)(2)(E)) is amended by 
+        striking ``banks'' and inserting ``insured depository 
+        institutions and trust companies''.
+            (2) The heading for section 44(e) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1831u(e)) is amended by striking 
+        ``Banks'' and inserting ``Insured Depository Institutions''.
+
+SEC. 402. STATUTE OF LIMITATIONS FOR JUDICIAL REVIEW OF APPOINTMENT OF 
+              A RECEIVER FOR DEPOSITORY INSTITUTIONS.
+
+    (a) National Banks.--Section 2 of the National Bank Receivership 
+Act (12 U.S.C. 191) is amended--
+            (1) by striking ``Section 2. The Comptroller of the 
+        Currency'' and inserting the following:
+
+``SEC. 2. APPOINTMENT OF RECEIVER FOR A NATIONAL BANK.
+
+    ``(a) In General.--The Comptroller of the Currency''; and
+            (2) by adding at the end the following new subsection:
+    ``(b) Judicial Review.--If the Comptroller of the Currency appoints 
+a receiver under subsection (a), the national bank may, within 30 days 
+thereafter, bring an action in the United States district court for the 
+judicial district in which the home office of such bank is located, or 
+in the United States District Court for the District of Columbia, for 
+an order requiring the Comptroller of the Currency to remove the 
+receiver, and the court shall, upon the merits, dismiss such action or 
+direct the Comptroller of the Currency to remove the receiver.''.
+    (b) Insured Depository Institutions.--Section 11(c)(7) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1821(c)(7)) is amended to read 
+as follows:
+            ``(7) Judicial review.--If the Corporation is appointed 
+        (including the appointment of the Corporation as receiver by 
+        the Board of Directors) as conservator or receiver of a 
+        depository institution under paragraph (4), (9), or (10), the 
+        depository institution may, within 30 days thereafter, bring an 
+        action in the United States district court for the judicial 
+        district in which the home office of such depository 
+        institution is located, or in the United States District Court 
+        for the District of Columbia, for an order requiring the 
+        Corporation to be removed as the conservator or receiver 
+        (regardless of how such appointment was made), and the court 
+        shall, upon the merits, dismiss such action or direct the 
+        Corporation to be removed as the conservator or receiver.''.
+    (c) Expansion of Period for Challenging the Appointment of a 
+Liquidating Agent.--Subparagraph (B) of section 207(a)(1) of the 
+Federal Credit Union Act (12 U.S.C. 1787(a)(1)) is amended by striking 
+``10 days'' and inserting ``30 days''.
+    (d) Effective Date.--The amendments made by subsections (a), (b), 
+and (c) shall apply with respect to conservators, receivers, or 
+liquidating agents appointed on or after the date of the enactment of 
+this Act.
+
+SEC. 403. REPORTING REQUIREMENTS RELATING TO INSIDER LENDING.
+
+    (a) Reporting Requirements Regarding Loans to Executive Officers of 
+Member Banks.--Section 22(g) of the Federal Reserve Act (12 U.S.C. 
+375a) is amended--
+            (1) by striking paragraphs (6) and (9); and
+            (2) by redesignating paragraphs (7), (8), and (10) as 
+        paragraphs (6), (7), and (8), respectively.
+    (b) Reporting Requirements Regarding Loans From Correspondent Banks 
+to Executive Officers and Shareholders of Insured Banks.--Section 
+106(b)(2) of the Bank Holding Company Act Amendments of 1970 (12 U.S.C. 
+1972(2)) is amended--
+            (1) by striking subparagraph (G); and
+            (2) by redesignating subparagraphs (H) and (I) as 
+        subparagraphs (G) and (H), respectively.
+
+SEC. 404. AMENDMENT TO PROVIDE AN INFLATION ADJUSTMENT FOR THE SMALL 
+              DEPOSITORY INSTITUTION EXCEPTION UNDER THE DEPOSITORY 
+              INSTITUTION MANAGEMENT INTERLOCKS ACT.
+
+    Section 203(1) of the Depository Institution Management Interlocks 
+Act (12 U.S.C. 3202(1)) is amended by striking ``$20,000,000'' and 
+inserting ``$100,000,000''.
+
+SEC. 405. ENHANCING THE SAFETY AND SOUNDNESS OF INSURED DEPOSITORY 
+              INSTITUTIONS.
+
+    (a) Clarification Relating to the Enforceability of Agreements and 
+Conditions.--The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) 
+is amended by adding at the end the following new section:
+
+``SEC. 49. ENFORCEMENT OF AGREEMENTS.
+
+    ``(a) In General.--Notwithstanding clause (i) or (ii) of section 
+8(b)(6)(A) or section 38(e)(2)(E), an appropriate Federal banking 
+agency may enforce, under section 8, the terms of--
+            ``(1) any condition imposed in writing by the agency on a 
+        depository institution or an institution-affiliated party 
+        (including a bank holding company) in connection with any 
+        action on any application, notice, or other request concerning 
+        a depository institution; or
+            ``(2) any written agreement entered into between the agency 
+        and an institution-affiliated party (including a bank holding 
+        company).
+    ``(b) Receiverships and Conservatorships.--After the appointment of 
+the Corporation as the receiver or conservator for any insured 
+depository institution, the Corporation may enforce any condition or 
+agreement described in paragraph (1) or (2) of subsection (a) involving 
+such institution or any institution-affiliated party (including a bank 
+holding company), through an action brought in an appropriate United 
+States district court.''.
+    (b) Protection of Capital of Insured Depository Institutions.--
+Paragraph (1) of section 18(u) of the Federal Deposit Insurance Act (12 
+U.S.C. 1828(u)) is amended by striking subparagraph (B) and by 
+redesignating subparagraph (C) as subparagraph (B).
+
+SEC. 406. INVESTMENTS BY INSURED SAVINGS ASSOCIATIONS IN BANK SERVICE 
+              COMPANIES AUTHORIZED.
+
+    (a) In General.--Sections 2 and 3 of the Bank Service Company Act 
+(12 U.S.C. 1862, 1863) are each amended by striking ``insured bank'' 
+each place such term appears and inserting ``insured depository 
+institution''.
+    (b) Technical and Conforming Amendments.--
+            (1) Section 1(b)(4) of the Bank Service Company Act (12 
+        U.S.C. 1861(b)(4)) is amended--
+                    (A) by inserting ``, except when such term appears 
+                in connection with the term `insured depository 
+                institution','' after ``means''; and
+                    (B) by striking ``Federal Home Loan Bank Board'' 
+                and inserting ``Director of the Office of Thrift 
+                Supervision''.
+            (2) Section 1(b) of the Bank Service Company Act (12 U.S.C. 
+        1861(b)) is amended--
+                    (A) by striking paragraph (5) and inserting the 
+                following new paragraph:
+            ``(5) Insured depository institution.--The term `insured 
+        depository institution' has the meaning given the term in 
+        section 3(c) of the Federal Deposit Insurance Act;'';
+                    (B) by striking ``and'' at the end of paragraph 
+                (7);
+                    (C) by striking the period at the end of paragraph 
+                (8) and inserting ``; and''; and
+                    (D) by adding at the end the following new 
+                paragraph:
+            ``(9) the terms `State depository institution', `Federal 
+        depository institution', `State savings association' and 
+        `Federal savings association' have the meanings given the terms 
+        in section 3 of the Federal Deposit Insurance Act.''.
+            (3) The 1st sentence of section 5(c)(4)(B) of the Home 
+        Owners' Loan Act (12 U.S.C. 1464(c)(4)(B)) is amended by 
+        striking ``by savings associations of such State and by Federal 
+        associations'' and inserting ``by State and Federal depository 
+        institutions''.
+            (4) Subparagraph (A)(ii) and subparagraph (B)(ii) of 
+        section 1(b)(2) of the Bank Service Company Act (12 U.S.C. 
+        1861(b)(2)) are each amended by striking ``insured banks'' and 
+        inserting ``insured depository institutions''.
+            (5) Section 1(b)(8) of the Bank Service Company Act (12 
+        U.S.C. 1861(b)(8)) is further amended--
+                    (A) by striking ``insured bank'' and inserting 
+                ``insured depository institution''
+                    (B) by striking ``insured banks'' each place such 
+                term appears and inserting ``insured depository 
+                institutions''; and
+                    (C) by striking ``the bank's'' and inserting ``the 
+                depository institution's''.
+            (6) Section 2 of the Bank Service Company Act (12 U.S.C. 
+        1862) is amended by inserting ``or savings associations, other 
+        than the limitation on the amount of investment by a Federal 
+        savings association contained in section 5(c)(4)(B) of Home 
+        Owners' Loan Act'' after ``relating to banks''.
+            (7) Section 4(c) of the Bank Service Company Act (12 U.S.C. 
+        1864(c)) is amended by inserting ``or State savings 
+        association'' after ``State bank'' each place such term 
+        appears.
+            (8) Section 4(d) of the Bank Service Company Act (12 U.S.C. 
+        1864(d)) is amended by inserting ``or Federal savings 
+        association'' after ``national bank'' each place such term 
+        appears.
+            (9) Section 4(e) of the Bank Service Company Act (12 U.S.C. 
+        1864(e)) is amended to read as follows:
+    ``(e) A bank service company may perform--
+            ``(1) only those services that each depository institution 
+        shareholder or member is otherwise authorized to perform under 
+        any applicable Federal or State law; and
+            ``(2) such services only at locations in a State in which 
+        each such shareholder or member is authorized to perform such 
+        services.''.
+            (10) Section 4(f) of the Bank Service Company Act (12 
+        U.S.C. 1864(f)) is amended by inserting ``or savings 
+        associations'' after ``location of banks''.
+            (11) Section 5 of the Bank Service Company Act (12 U.S.C. 
+        1865) is amended--
+                    (A) in subsection (a)--
+                            (i) by striking ``insured bank'' and 
+                        inserting ``insured depository institution''; 
+                        and
+                            (ii) by striking ``bank's'' and inserting 
+                        ``institution's''.
+                    (B) in subsection (b), by striking ``insured bank'' 
+                and inserting ``insured depository institution''; and
+                    (C) in subsection (c)--
+                            (i) by striking ``the bank or banks'' and 
+                        inserting ``any depository institution''; and
+                            (ii) by striking ``capability of the bank'' 
+                        and inserting ``capability of the depository 
+                        institution''.
+            (12) Section 7 of the Bank Service Company Act (12 U.S.C. 
+        1867) is amended--
+                    (A) in subsection (b), by striking ``insured bank'' 
+                and inserting ``insured depository institution'';
+                    (B) in subsection (c)--
+                            (i) by striking ``a bank'' each place such 
+                        term appears and inserting ``a depository 
+                        institution''; and
+                            (ii) by striking ``the bank'' each place 
+                        such term appears and inserting ``the 
+                        depository institution''.
+
+SEC. 407. CROSS GUARANTEE AUTHORITY.
+
+    Subparagraph (A) of section 5(e)(9) of the Federal Deposit 
+Insurance Act (12 U.S.C. 1815(e)(9)(A)) is amended to read as follows:
+                    ``(A) such institutions are controlled by the same 
+                company; or''.
+
+SEC. 408. GOLDEN PARACHUTE AUTHORITY AND NONBANK HOLDING COMPANIES.
+
+    Subsection (k) of section 18 of the Federal Deposit Insurance Act 
+(12 U.S.C. 1828(k)) is amended--
+            (1) in paragraph (2)(A), by striking ``or depository 
+        institution holding company'' and inserting ``or covered 
+        company'';
+            (2) by striking subparagraph (B) of paragraph (2) and 
+        inserting the following new subparagraph:
+                    ``(B) Whether there is a reasonable basis to 
+                believe that the institution-affiliated party is 
+                substantially responsible for--
+                            ``(i) the insolvency of the depository 
+                        institution or covered company;
+                            ``(ii) the appointment of a conservator or 
+                        receiver for the depository institution; or
+                            ``(iii) the depository institution's 
+                        troubled condition (as defined in the 
+                        regulations prescribed pursuant to section 
+                        32(f)).'';
+            (3) in paragraph (2)(F), by striking ``depository 
+        institution holding company'' and inserting ``covered 
+        company,'';
+            (4) in paragraph (3) in the matter preceding subparagraph 
+        (A), by striking ``depository institution holding company'' and 
+        inserting ``covered company'';
+            (5) in paragraph (3)(A), by striking ``holding company'' 
+        and inserting ``covered company'';
+            (6) in paragraph (4)(A)--
+                    (A) by striking ``depository institution holding 
+                company'' each place such term appears and inserting 
+                ``covered company''; and
+                    (B) by striking ``holding company'' each place such 
+                term appears (other than in connection with the term 
+                referred to in subparagraph (A)) and inserting 
+                ``covered company'';
+            (7) in paragraph (5)(A), by striking ``depository 
+        institution holding company'' and inserting ``covered 
+        company'';
+            (8) in paragraph (5), by adding at the end the following 
+        new subparagraph:
+                    ``(D) Covered company.--The term `covered company' 
+                means any depository institution holding company 
+                (including any company required to file a report under 
+                section 4(f)(6) of the Bank Holding Company Act of 
+                1956), or any other company that controls an insured 
+                depository institution.''; and
+            (9) in paragraph (6)--
+                    (A) by striking ``depository institution holding 
+                company'' and inserting ``covered company,''; and
+                    (B) by striking ``or holding company'' and 
+                inserting ``or covered company''.
+
+SEC. 409. AMENDMENTS RELATING TO CHANGE IN BANK CONTROL.
+
+    Section 7(j) of the Federal Deposit Insurance Act (12 U.S.C. 
+1817(j)) is amended--
+            (1) in paragraph (1)(D)--
+                    (A) by striking ``is needed to investigate'' and 
+                inserting ``is needed--
+                            ``(i) to investigate'';
+                    (B) by striking ``United States Code.'' and 
+                inserting ``United States Code; or''; and
+                    (C) by adding at the end the following new clause:
+                            ``(ii) to analyze the safety and soundness 
+                        of any plans or proposals described in 
+                        paragraph (6)(E) or the future prospects of the 
+                        institution.''; and
+            (2) in paragraph (7)(C), by striking ``the financial 
+        condition of any acquiring person'' and inserting ``either the 
+        financial condition of any acquiring person or the future 
+        prospects of the institution''.
+
+         TITLE V--DEPOSITORY INSTITUTION AFFILIATES PROVISIONS
+
+SEC. 501. CLARIFICATION OF CROSS MARKETING PROVISION.
+
+    Section 4(n)(5) of the Bank Holding Company Act of 1956 (12 U.S.C. 
+1843(n)(5)) is amended--
+            (1) in subparagraph (B), by striking ``subsection 
+        (k)(4)(I)'' and inserting ``subparagraph (H) or (I) of 
+        subsection (k)(4)''; and
+            (2) by adding at the end the following new subparagraph:
+                    ``(C) Threshold of control.--Subparagraph (A) shall 
+                not apply with respect to a company described or 
+                referred to in clause (i) or (ii) of such subparagraph 
+                if the financial holding company does not own or 
+                control 25 percent or more of the total equity or any 
+                class of voting securities of such company.''.
+
+SEC. 502. AMENDMENT TO PROVIDE THE FEDERAL RESERVE BOARD WITH 
+              DISCRETION CONCERNING THE IMPUTATION OF CONTROL OF SHARES 
+              OF A COMPANY BY TRUSTEES.
+
+    Section 2(g)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 
+1841(g)(2)) is amended by inserting ``, unless the Board determines 
+that such treatment is not appropriate in light of the facts and 
+circumstances of the case and the purposes of this Act'' before the 
+period at the end.
+
+SEC. 503. ELIMINATING GEOGRAPHIC LIMITS ON THRIFT SERVICE COMPANIES.
+
+    (a) In General.--The 1st sentence of section 5(c)(4)(B) of the Home 
+Owners' Loan Act (12 U.S.C. 1464(c)(4)(B)) (as amended by section 
+406(b)(3) of this Act) is amended--
+            (1) by striking ``corporation organized'' and all that 
+        follows through ``is available for purchase'' and inserting 
+        ``company, if the entire capital of the company is available 
+        for purchase''; and
+            (2) by striking ``having their home offices in such 
+        State''.
+    (b) Technical Corrections.--
+            (1) The heading for subparagraph (B) of section 5(c)(4) of 
+        the Home Owners' Loan Act (12 U.S.C. 1464(c)(4)(B)) is amended 
+        by striking ``corporations'' and inserting ``companies''.
+            (2) The 2nd sentence of section 5(n)(1) of the Home Owners' 
+        Loan Act (12 U.S.C. 1464(n)(1)) is amended by striking 
+        ``service corporations'' and inserting ``service companies''.
+            (3) Section 5(q)(1) of the Home Owners' Loan Act (12 U.S.C. 
+        1464(q)(1)) is amended by striking ``service corporation'' each 
+        place such term appears in subparagraphs (A), (B), and (C) and 
+        inserting ``service company''.
+            (4) Section 10(m)(4)(C)(iii)(II) of the Home Owners' Loan 
+        Act (12 U.S.C. 1467a(m)(4)(C)(iii)(II)) is amended by striking 
+        ``service corporation'' each place such term appears and 
+        inserting ``service company''.
+
+SEC. 504. CLARIFICATION OF SCOPE OF APPLICABLE RATE PROVISION.
+
+    Section 44(f) of the Federal Deposit Insurance Act (12 U.S.C. 
+1831u(f)) is amended by adding at the end the following new paragraphs:
+            ``(3) Other lenders.--In the case of any other lender doing 
+        business in the State described in paragraph (1), the maximum 
+        interest rate or amount of interest, discount points, finance 
+        charges, or other similar charges that may be charged, taken, 
+        received, or reserved from time to time in any loan, discount, 
+        or credit sale made, or upon any note, bill of exchange, 
+        financing transaction, or other evidence of debt issued to or 
+        acquired by any other lender shall be equal to not more than 
+        the greater of the rates described in subparagraph (A) or (B) 
+        of paragraph (1).
+            ``(4) Other lender defined.--For purposes of paragraph (3), 
+        the term `other lender' means any person engaged in the 
+        business of selling or financing the sale of personal property 
+        (and any servicers incidental to the sale of personal property) 
+        in such State, except that, with regard to any person or entity 
+        described in such paragraph, such term does not include--
+                    ``(A) an insured depository institution; or
+                    ``(B) any person or entity engaged in the business 
+                of providing a short-term case advance to any consumer 
+                in exchange for--
+                            ``(i) a consumer's personal check or share 
+                        draft, in the amount of the advance plus a fee, 
+                        where presentment or negotiation of such check 
+                        or share draft is deferred by agreement of the 
+                        parties until a designated future date; or
+                            ``(ii) a consumer authorization to debit 
+                        the consumer's transaction account, in the 
+                        amount of the advance plus a fee, where such 
+                        account will be debited on or after a 
+                        designated future date.''.
+
+                  TITLE VI--BANKING AGENCY PROVISIONS
+
+SEC. 601. WAIVER OF EXAMINATION SCHEDULE IN ORDER TO ALLOCATE EXAMINER 
+              RESOURCES.
+
+    Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 
+1820(d)) is amended--
+            (1) by redesignating paragraphs (5), (6), (7), (8), (9), 
+        and (10) as paragraphs (6), (7), (8), (9), (10), and (11), 
+        respectively;
+            (2) by inserting after paragraph (4), the following new 
+        paragraph:
+            ``(5) Waiver of schedule when necessary to achieve safe and 
+        sound allocation of examiner resources.--Notwithstanding 
+        paragraphs (1), (2), (3), and (4), an appropriate Federal 
+        banking agency may make adjustments in the examination cycle 
+        for an insured depository institution if necessary to allocate 
+        available resources of examiners in a manner that provides for 
+        the safety and soundness of, and the effective examination and 
+        supervision of, insured depository institutions.''; and
+            (3) in paragraphs (8) and (9), as so redesignated, by 
+        striking ``paragraph (6)'' and inserting ``paragraph (7)''.
+
+SEC. 602. INTERAGENCY DATA SHARING.
+
+    (a) Federal Banking Agencies.--Section 7(a)(2) of the Federal 
+Deposit Insurance Act (12 U.S.C. 1817(a)(2)) is amended by adding at 
+the end the following new subparagraph:
+                    ``(C) Data sharing with other agencies and 
+                persons.--In addition to reports of examination, 
+                reports of condition, and other reports required to be 
+                regularly provided to the Corporation (with respect to 
+                all insured depository institutions, including a 
+                depository institution for which the Corporation has 
+                been appointed conservator or receiver) or an 
+                appropriate State bank supervisor (with respect to a 
+                State depository institution) under subparagraph (A) or 
+                (B), a Federal banking agency may, in the agency's 
+                discretion, furnish any report of examination or other 
+                confidential supervisory information concerning any 
+                depository institution or other entity examined by such 
+                agency under authority of any Federal law, to--
+                            ``(i) any other Federal or State agency or 
+                        authority with supervisory or regulatory 
+                        authority over the depository institution or 
+                        other entity;
+                            ``(ii) to any officer, director, or 
+                        receiver of such depository institution or 
+                        entity; and
+                            ``(iii) any other person the Federal 
+                        banking agency determines to be appropriate.''.
+    (b) National Credit Union Administration.--Section 202(a) of the 
+Federal Credit Union Act (12 U.S.C. 1782(a)) is amended by adding at 
+the end the following new paragraph:
+            ``(8) Data sharing with other agencies and persons.--In 
+        addition to reports of examination, reports of condition, and 
+        other reports required to be regularly provided to the Board 
+        (with respect to all insured credit unions, including a credit 
+        union for which the Corporation has been appointed conservator 
+        or liquidating agent) or an appropriate State commission, 
+board, or authority having supervision of a State-chartered credit 
+union, the Board may, in the Board's discretion, furnish any report of 
+examination or other confidential supervisory information concerning 
+any credit union or other entity examined by the Board under authority 
+of any Federal law, to--
+                    ``(A) any other Federal or State agency or 
+                authority with supervisory or regulatory authority over 
+                the credit union or other entity;
+                    ``(B) to any officer, director, or receiver of such 
+                credit union or entity; and
+                    ``(C) any other institution-affiliated party of 
+                such credit union or entity the Board determines to be 
+                appropriate.''.
+
+SEC. 603. PENALTY FOR UNAUTHORIZED PARTICIPATION BY CONVICTED 
+              INDIVIDUAL.
+
+    Section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829) is 
+amended by adding at the end the following new subsection:
+    ``(c) Noninsured Banks.--Subsections (a) and (b) shall apply to a 
+noninsured national bank and a noninsured State member bank, and any 
+agency or noninsured branch (as such terms are defined in section 1(b) 
+of the International Banking Act of 1978) of a foreign bank as if such 
+bank, branch, or agency were an insured depository institution, except 
+such subsections shall be applied for purposes of this subsection by 
+substituting the agency determined under the following paragraphs for 
+`Corporation' each place such term appears in such subsections:
+            ``(1) The Comptroller of the Currency, in the case of a 
+        noninsured national bank or any Federal agency or noninsured 
+        Federal branch of a foreign bank.
+            ``(2) The Board of Governors of the Federal Reserve System, 
+        in the case of a noninsured State member bank or any State 
+        agency or noninsured State branch of a foreign bank.''.
+
+SEC. 604. AMENDMENT PERMITTING THE DESTRUCTION OF OLD RECORDS OF A 
+              DEPOSITORY INSTITUTION BY THE FDIC AFTER THE APPOINTMENT 
+              OF THE FDIC AS RECEIVER.
+
+    Section 11(d)(15)(D) of the Federal Deposit Insurance Act (12 
+U.S.C. 1821(d)(15)(D)) is amended--
+            (1) by striking ``Recordkeeping requirement.--After the end 
+        of the 6-year period'' and inserting ``Recordkeeping 
+        requirement.--
+                            ``(i) In general.--Except as provided in 
+                        clause (ii), after the end of the 6-year 
+                        period''; and
+            (2) by adding at the end the following new clause:
+                            ``(ii) Old records.--In the case of records 
+                        of an insured depository institution which are 
+                        at least 10 years old as of the date the 
+                        Corporation is appointed as the receiver of 
+                        such depository institution, the Corporation 
+                        may destroy such records in accordance with 
+                        clause (i) any time after such appointment is 
+                        final without regard to the 6-year period of 
+                        limitation contained in such clause.''.
+
+SEC. 605. MODERNIZATION OF FDIC RECORDKEEPING REQUIREMENT.
+
+    Subsection (f) of section 10 of the Federal Deposit Insurance Act 
+(12 U.S.C. 1820(f)) is amended to read as follows:
+    ``(f) Preservation of Agency Records.--
+            ``(1) In general.--The Corporation may cause any and all 
+        records, papers, or documents kept by the Corporation or in the 
+        possession or custody of the Corporation to be--
+                    ``(A) photographed or microphotographed or 
+                otherwise reproduced upon film; or
+                    ``(B) preserved in any electronic medium or format 
+                which is capable of--
+                            ``(i) being read or scanned by computer; 
+                        and
+                            ``(ii) being reproduced from such 
+                        electronic medium or format by printing or any 
+                        other form of reproduction of electronically 
+                        stored data.
+            ``(2) Treatment as original records.--Any photographs, 
+        microphotographs, or photographic film or copies thereof 
+        described in paragraph (1)(A) or reproduction of electronically 
+stored data described in paragraph (1)(B) shall be deemed to be an 
+original record for all purposes, including introduction in evidence in 
+all State and Federal courts or administrative agencies and shall be 
+admissible to prove any act, transaction, occurrence, or event therein 
+recorded.
+            ``(3) Authority of the board of directors.--Any 
+        photographs, microphotographs, or photographic film or copies 
+        thereof described in paragraph (1)(A) or reproduction of 
+        electronically stored data described in paragraph (1)(B) shall 
+        be preserved in such manner as the Board of Directors shall 
+        prescribe and the original records, papers, or documents may be 
+        destroyed or otherwise disposed of as the Board of Directors 
+        may direct.''.
+
+SEC. 606. CLARIFICATION OF EXTENT OF SUSPENSION, REMOVAL, AND 
+              PROHIBITION AUTHORITY OF FEDERAL BANKING AGENCIES IN 
+              CASES OF CERTAIN CRIMES BY INSTITUTION-AFFILIATED 
+              PARTIES.
+
+    (a) Insured Depository Institution.--
+            (1) In general.--Section 8(g)(1) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1818(g) is amended--
+                    (A) in subparagraph (A), by striking ``the 
+                depository'' each place such term appears and inserting 
+                ``any depository'';
+                    (B) in subparagraph (B)(i), by inserting ``of which 
+                the subject of the order is an institution-affiliated 
+                party'' before the period at the end;
+                    (C) in subparagraph (C), by striking ``the 
+                depository'' each place such term appears and inserting 
+                ``any depository'';
+                    (D) in subparagraph (D)(i), by inserting ``of which 
+                the subject of the order is an institution-affiliated 
+                party'' after ``upon the depository institution''; and
+                    (E) by adding at the end the following new 
+                subparagraph:
+                    ``(E) Continuation of authority.--A Federal banking 
+                agency may issue an order under this paragraph with 
+                respect to an individual who is an institution-
+                affiliated party at a depository institution at the 
+                time of an offense described in subparagraph (A) 
+                without regard to--
+                            ``(i) whether such individual is an 
+                        institution-affiliated party at any depository 
+                        institution at the time the order is considered 
+                        or issued by the agency; or
+                            ``(ii) whether the depository institution 
+                        at which the individual was an institution-
+                        affiliated party at the time of the offense 
+                        remains in existence at the time the order is 
+                        considered or issued by the agency.''.
+            (2) Clerical amendment.--Section 8(g) of the Federal 
+        Deposit Insurance Act (12 U.S.C. 1818(g) is amended by striking 
+        ``(g)'' and inserting the following new subsection heading:
+    ``(g) Suspension, Removal, and Prohibition From Participation 
+Orders in the Case of Certain Criminal Offenses.--''.
+    (b) Insured Credit Unions.--
+            (1) In general.--Section 206(i)(1) of the Federal Credit 
+        Union Act (12 U.S.C. 1786(i)(1)) is amended--
+                    (A) in subparagraph (A), by striking ``the credit 
+                union'' each place such term appears and inserting 
+                ``any credit union'';
+                    (B) in subparagraph (B)(i), by inserting ``of which 
+                the subject of the order is, or most recently was, an 
+                institution-affiliated party'' before the period at the 
+                end;
+                    (C) in subparagraph (C), by striking ``the credit 
+                union'' each place such term appears and inserting 
+                ``any credit union'';
+                    (D) in subparagraph (D)(i), by striking ``upon such 
+                credit union'' and inserting ``upon the credit union of 
+                which the subject of the order is, or most recently 
+                was, an institution-affiliated party''; and
+                    (E) by adding at the end the following new 
+                subparagraph:
+                    ``(E) Continuation of authority.--The Board may 
+                issue an order under this paragraph with respect to an 
+                individual who is an institution-affiliated party at a 
+                credit union at the time of an offense described in 
+                subparagraph (A) without regard to--
+                            ``(i) whether such individual is an 
+                        institution-affiliated party at any credit 
+                        union at the time the order is considered or 
+                        issued by the Board; or
+                            ``(ii) whether the credit union at which 
+                        the individual was an institution-affiliated 
+                        party at the time of the offense remains in 
+                        existence at the time the order is considered 
+                        or issued by the Board.''.
+            (2) Clerical amendment.--Section 206(i) of the Federal 
+        Credit Union Act (12 U.S.C. 1786(i)) is amended by striking 
+        ``(i)'' at the beginning and inserting the following new 
+        subsection heading:
+    ``(i) Suspension, Removal, and Prohibition From Participation 
+Orders in the Case of Certain Criminal Offenses.--''.
+
+SEC. 607. STREAMLINING DEPOSITORY INSTITUTION MERGER APPLICATION 
+              REQUIREMENTS.
+
+    (a) In General.--Paragraph (4) of section 18(c) of the Federal 
+Deposit Insurance Act (12 U.S.C. 1828(c)) is amended to read as 
+follows:
+            ``(4) Reports on competitive factors.--
+                    ``(A) Request for report.--In the interests of 
+                uniform standards, before acting on any application for 
+                approval of a merger transaction, the responsible 
+                agency, unless the agency finds that it must act 
+                immediately in order to prevent the probable failure of 
+                a depository institution involved, shall--
+                            ``(i) request a report on the competitive 
+                        factors involved from the Attorney General; and
+                            ``(ii) provide a copy of the request to the 
+                        Corporation (when the Corporation is not the 
+                        responsible agency).
+                    ``(B) Furnishing of report.--The report requested 
+                under subparagraph (A) shall be furnished by the 
+                Attorney General to the responsible agency--
+                            ``(i) not more than 30 calendar days after 
+                        the date on which the Attorney General received 
+                        the request; or
+                            ``(ii) not more than 10 calendar days after 
+                        such date, if the requesting agency advises the 
+                        Attorney General that an emergency exists 
+                        requiring expeditious action.''.
+    (b) Technical and Conforming Amendment.--The penultimate sentence 
+of section 18(c)(6) of the Federal Deposit Insurance Act (12 U.S.C. 
+1828(c)(6)) is amended to read as follows: ``If the agency has advised 
+the Attorney General under paragraph (4)(B) of the existence of an 
+emergency requiring expeditious action and has requested a report on 
+the competitive factors within 10 days, the transaction may not be 
+consummated before the fifth calendar day after the date of approval by 
+the agency.''.
+
+SEC. 608. INCLUSION OF DIRECTOR OF THE OFFICE OF THRIFT SUPERVISION IN 
+              LIST OF BANKING AGENCIES REGARDING INSURANCE CUSTOMER 
+              PROTECTION REGULATIONS.
+
+    Section 47(g)(2)(B)(i) of the Federal Deposit Insurance Act (12 
+U.S.C. 1831x(g)(2)(B)(i)) is amended by inserting ``the Director of the 
+Office of Thrift Supervision,'' after ``Comptroller of the Currency,''.
+
+SEC. 609. SHORTENING OF POST-APPROVAL ANTITRUST REVIEW PERIOD WITH THE 
+              AGREEMENT OF THE ATTORNEY GENERAL.
+
+    (a) Antitrust Reviews Under the Bank Holding Company Act of 1956.--
+The 4th sentence of section 11(b) of the Bank Holding Company Act of 
+1956 (12 U.S.C. 1849(b) is amended by striking ``15 calendar days'' and 
+inserting ``5 calendar days''.
+    (b) Antitrust Reviews Under the Federal Deposit Insurance Act.--The 
+last sentence of section 18(c)(6) of the Federal Deposit Insurance Act 
+(12 U.S.C. 1828(c)(6)) is amended by striking ``15 calendar days'' and 
+inserting ``5 calendar days''.
+
+SEC. 610. PROTECTION OF CONFIDENTIAL INFORMATION RECEIVED BY FEDERAL 
+              BANKING REGULATORS FROM FOREIGN BANKING SUPERVISORS.
+
+    Section 15 of the International Banking Act of 1978 (12 U.S.C. 
+3109) is amended by adding at the end the following new subsection:
+    ``(c) Confidential Information Received From Foreign Supervisors.--
+            ``(1) In General.--Except as provided in paragraph (3), a 
+        Federal banking agency may not be compelled to disclose 
+        information received from a foreign regulatory or supervisory 
+        authority if--
+                    ``(A) the foreign regulatory or supervisory 
+                authority has, in good faith, determined and 
+                represented to such Federal banking agency that public 
+                disclosure of the information would violate the laws 
+                applicable to that foreign regulatory or supervisory 
+                authority; and
+                    ``(B) the relevant Federal banking agency obtained 
+                such information pursuant to--
+                            ``(i) such procedures as the Federal 
+                        banking agencies may establish for use in 
+                        connection with the administration and 
+                        enforcement of Federal banking laws; or
+                            ``(ii) a memorandum of understanding or 
+                        other similar arrangement between the Federal 
+                        banking agency and the foreign regulatory or 
+                        supervisory authority.
+            ``(2) Treatment under title 5, united states code.--For 
+        purposes of section 552 of title 5, United States Code, this 
+        subsection shall be treated as a statute described in 
+        subsection (b)(3)(B) of such section.
+            ``(3) Savings provision.--No provision of this section 
+        shall be construed as--
+                    ``(A) authorizing any Federal banking agency to 
+                withhold any information from any duly authorized 
+                committee of the House of Representatives or the 
+                Senate; or
+                    ``(B) preventing any Federal banking agency from 
+                complying with an order of a court of the United States 
+                in an action commenced by the United States or such 
+                agency.
+            ``(4) Federal banking agency defined.--For purposes of this 
+        subsection, the term `Federal banking agency' means the Board, 
+        the Comptroller, the Federal Deposit Insurance Corporation, and 
+        the Director of the Office of Thrift Supervision.''.
+
+SEC. 611. PROHIBITION ON THE PARTICIPATION IN THE AFFAIRS OF BANK 
+              HOLDING COMPANY OR EDGE ACT OR AGREEMENT CORPORATIONS BY 
+              CONVICTED INDIVIDUAL.
+
+    Section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829) is 
+amended by inserting after subsection (c) (as added by section 604 of 
+this title) the following new subsection:
+    ``(c) Bank Holding Companies.--Subsections (a) and (b) shall apply 
+to any bank holding company any subsidiary (other than a bank) of a 
+bank holding company and any organization organized and operated under 
+section 25A of the Federal Reserve Act or operating under section 25 of 
+the Federal Reserve Act as if such bank holding company, subsidiary, or 
+organization were an insured depository institution, except such 
+subsections shall be applied for purposes of this subsection by 
+substituting ``Board of Governors of the Federal Reserve System'' for 
+``Corporation'' each place such term appears in such subsections.''.
+
+SEC. 612. CLARIFICATION THAT NOTICE AFTER SEPARATION FROM SERVICE MAY 
+              BE MADE BY AN ORDER.
+
+    Section 8(i)(3) of the Federal Deposit Insurance Act (12 U.S.C. 
+1818(i)(3)) is amended by inserting ``or order'' after ``notice'' each 
+place such term appears.
+
+SEC. 613. EXAMINERS OF FINANCIAL INSTITUTIONS.
+
+    (a) Offer of Credit to Bank Examiner.--Section 212 of title 18, 
+United States Code, is amended to read as follows:
+``Sec. 212. Offer of credit to bank examiner
+    ``(a) Subject to section 213(b), whoever being an officer, director 
+or employee of a financial institution extends credit to any examiner 
+which the examiner is prohibited from accepting under section 213 shall 
+be fined under this title or imprisoned not more than one year, or 
+both; and may be fined a further sum equal to the money so loaned or 
+gratuity given.
+    ``(b) For purposes of this section, the following definitions shall 
+apply:
+            ``(1) The term `financial institution' does not include a 
+        credit union.
+            ``(2) The term `examiner' means any person--
+                    ``(A) appointed by a Federal financial institution 
+                regulatory agency or pursuant to the laws of any State 
+                to examine a financial institution; or
+                    ``(B) elected under the law of any State to conduct 
+                examinations of any financial institution.
+            ``(3) The term `Federal financial institution regulatory 
+        agency' means--
+                    ``(A) the Comptroller of the Currency;
+                    ``(B) the Board of Governors of the Federal Reserve 
+                System;
+                    ``(C) the Director of the Office of Thrift 
+                Supervision;
+                    ``(D) the Federal Deposit Insurance Corporation;
+                    ``(E) the Federal Housing Finance Board;
+                    ``(F) the Farm Credit Administration;
+                    ``(G) the Farm Credit System Insurance Corporation; 
+                and
+                    ``(H) the Small Business Administration.''.
+    (b) Acceptance of Credit by a Bank Examiner.--Section 213 of title 
+18, United States Code, is amended to read as follows:
+``Sec. 213. Acceptance of credit by bank examiner
+    ``(a) Whoever, being an examiner, accepts an extension of credit 
+from any financial institution that the examiner examines or has 
+authority to examine, or from any person connected with any such 
+financial institution, shall be fined under this title or imprisoned 
+not more than one year, or both; and may be fined a further sum equal 
+to the money so loaned or gratuity given, and shall be disqualified 
+from holding office as such examiner.
+    ``(b) Notwithstanding subsection (a) or section 212, a Federal 
+financial institution regulatory agency may, by regulation or by order 
+on a case-by-case basis, permit a financial institution to extend 
+credit to an examiner, and permit an examiner to accept an extension of 
+credit from a financial institution, if the agency determines that the 
+extension of credit would not likely affect the integrity of any 
+examination of a financial institution. Before prescribing regulations 
+or issuing any order under this subsection, a Federal financial 
+institution regulatory agency shall consult with each other Federal 
+financial institution regulatory agency with regard to any such 
+regulation or order. Any regulation prescribed by a Federal financial 
+institution regulatory agency under this subsection, may exempt certain 
+classes or categories of credit from the scope of this section or 
+section 212, and shall provide procedures for examiners and financial 
+institutions to request case-by-case exemption orders under this 
+subsection, subject to subsection (c).
+    ``(c) In considering any request by a financial institution or 
+examiner for a case-by-case exemption order under subsection (b), a 
+Federal financial institution regulatory agency shall consider such 
+factors as the agency determine to be appropriate, including--
+            ``(1) whether the terms and conditions of the credit being 
+        offered the examiner are generally comparable to those offered 
+        by the financial institution in connection with similar types 
+        of credit extended to other customers in similar circumstances;
+            ``(2) the nature and extent of any other relationship the 
+        examiner has with the financial institution or any officer, 
+        director, or employee of the financial institution;
+            ``(3) the proximity in time between any examination of the 
+        financial institution in which the examiner participated, or is 
+        scheduled to participate, and the extension, or the offer of an 
+        extension, of credit;
+            ``(4) whether there are any other circumstances involving 
+        the transaction, or the proposed transaction, that may be 
+        perceived as providing the examiner with preferential 
+        treatment; and
+            ``(5) any other fact or circumstance the agency may 
+        consider to be appropriate under the circumstances.
+    ``(d) Notwithstanding subsection (a) or section 212, an examiner 
+employed by a Federal financial institution regulatory agency may apply 
+for and receive a credit card, or otherwise be approved as a credit 
+cardholder, under any credit card account under an open end consumer 
+credit plan, to the extent the terms and conditions applicable with 
+respect to such account, and any credit extended under such account, 
+are no more favorable generally to the examiner than the terms and 
+conditions that are generally applicable to credit card accounts 
+offered by the same financial institution to other cardholders under 
+open end consumer credit plans.
+    ``(e) For purposes of this section, the following definitions shall 
+apply:
+            ``(1) The terms `examiner', `Federal financial institution 
+        regulatory agency', and `financial institution' have the same 
+        meaning as in section 212.
+            ``(2) The term `credit' means the right granted by a 
+        creditor to a debtor to defer payment of debt or to incur debt 
+        and defer its payment.
+            ``(3) The term `creditor' refers only to a person who both 
+        (A) regularly extends, whether in connection with loans, sales 
+        of property or services, or otherwise, consumer credit which is 
+        payable by agreement in more than four installments or for 
+        which the payment of a finance charge is or may be required, 
+        and (B) is the person to whom the debt arising from the 
+        consumer credit transaction is initially payable on the face of 
+        the evidence of indebtedness or, if there is no such evidence 
+        of indebtedness, by agreement. Notwithstanding the preceding 
+        sentence, in the case of an open-end credit plan involving a 
+        credit card, the card issuer and any person who honors the 
+        credit card and offers a discount which is a finance charge are 
+        creditors.
+            ``(4) The term `consumer', when used with reference to an 
+        open end credit plan, means a credit plan under which the party 
+        to whom credit is offered or extended is a natural person, and 
+        the money, property, or services which are the subject of any 
+        transaction under the plan are primarily for personal, family, 
+        or household purposes.
+            ``(5) The term `open end credit plan' means a plan under 
+        which the creditor reasonably contemplates repeated 
+        transactions, which prescribes the terms of such transactions, 
+        and which provides for a finance charge which may be computed 
+        from time to time on the outstanding unpaid balance. A credit 
+plan which is an open end credit plan within the meaning of the 
+preceding sentence is an open end credit plan even if credit 
+information is verified from time to time.
+            ``(6) The term `credit card' means any card, plate, coupon 
+        book or other credit device existing for the purpose of 
+        obtaining money, property, labor, or services on credit.
+            ``(7) The term `cardholder' means any person to whom a 
+        credit card is issued or any person who has agreed with the 
+        card issuer to pay obligations arising from the issuance of a 
+        credit card to another person.
+            ``(8) The term `card issuer' means any person who issues a 
+        credit card, or the agent of such person with respect to such 
+        card.''.
+    (c) Clerical Amendments.--The table of sections for chapter 11 of 
+title 18, United States Code, is amended by striking the items relating 
+to sections 212 and 213 and inserting the following new items:
+
+``212. Offer of credit to bank examiner.
+``213. Acceptance of credit by bank examiner.''.
+
+SEC. 614. PARITY IN STANDARDS FOR INSTITUTION-AFFILIATED PARTIES.
+
+    Section 3(u)(4) of the Federal Deposit Insurance Act (12 U.S.C. 
+1813(u)(4)) is amended by striking ``knowingly or recklessly''.
+
+SEC. 615. ENFORCEMENT AGAINST MISREPRESENTATIONS REGARDING FDIC DEPOSIT 
+              INSURANCE COVERAGE.
+
+    (a) In General.--Section 8 of the Federal Deposit Insurance Act (12 
+U.S.C. 1818) is amended by adding at the end the following new 
+subsection:
+    ``(x) Misrepresentation Regarding Deposit Insurance Coverage.--
+            ``(1) In general.--Any person who knowingly violates the 
+        third undesignated paragraph of section 709 of title 18, United 
+        States Code, shall be liable to the United States Government 
+        for a civil penalty in an amount not to exceed $1,000,000 for 
+        each day during which such violation occurs or continues.
+            ``(2) Time limitations for assessments and commencement of 
+        civil actions.--
+                    ``(A) Assessments.--The Corporation may assess a 
+                civil penalty under paragraph (1) at any time before 
+                the end of the 6-year period beginning on the later 
+                of--
+                            ``(i) the date the violation occurred; or
+                            ``(ii) in the case of a continuing 
+                        violation, the last day the continuing 
+                        violation occurred.
+                    ``(B) Civil actions.--The Corporation may commence 
+                a civil action to recover a civil penalty assessed 
+                under this subsection at any time before the end of the 
+                2-year period beginning on the later of--
+                            ``(i) the date the penalty was assessed; or
+                            ``(ii) the date any judgment becomes final 
+                        in any criminal action under section 709 of 
+                        title 18, United States Code, in connection 
+                        with the same violation with respect to which 
+                        the penalty is assessed.
+            ``(3) Criminal penalty not exclusive of civil penalty.--A 
+        civil money penalty may be imposed under this subsection with 
+        respect to any violation of the third undesignated paragraph of 
+        section 709 of title 18, United States Code, notwithstanding 
+        the fact that a criminal penalty is imposed with respect to the 
+        same violation.''.
+
+SEC. 616. COMPENSATION OF FEDERAL HOME LOAN BANK DIRECTORS.
+
+    Section 17(i) of the Federal Home Loan Bank Act (12 U.S.C. 1427(i)) 
+is amended to read as follows:
+    ``(i) Directors' Compensation.--
+            ``(1) In general.--Each Federal home loan bank may pay the 
+        directors on the board of directors of the bank reasonable 
+        compensation for the time required of such directors, and 
+        reasonable expenses incurred by the directors, in connection 
+        with service on the board of directors, in accordance with 
+        resolutions adopted by the board of directors and subject to 
+        the approval of the Board.
+            ``(2) Annual report by the board.--Information regarding 
+        compensation and expenses paid by the Federal home loan banks 
+        to the directors on the boards of directors of the banks shall 
+        be included in the annual report submitted to the Congress by 
+        the Board pursuant to section 2B(d).''.
+
+              TITLE VII--CLERICAL AND TECHNICAL AMENDMENTS
+
+SEC. 701. CLERICAL AMENDMENTS TO THE HOME OWNERS' LOAN ACT.
+
+    (a) Amendment to Table of Contents.--The table of contents in 
+section 1 of the Home Owners' Loan Act (12 U.S.C. 1461) is amended by 
+striking the items relating to sections 5 and 6 and inserting the 
+following new items:
+
+``Sec. 5. Savings associations.
+``Sec. 6. [Repealed.]''.
+    (b) Clerical Amendments to Headings.--
+            (1) The heading for section 4(a) of the Home Owners' Loan 
+        Act (12 U.S.C. 1463(a)) is amended by striking ``(a) Federal 
+        Savings Associations.--'' and inserting ``(a) General 
+        Responsibilities of the Director.--''.
+            (2) The section heading for section 5 of the Home Owners' 
+        Loan Act (12 U.S.C. 1464) is amended to read as follows:
+
+``SEC. 5. SAVINGS ASSOCIATIONS.''.
+
+SEC. 702. TECHNICAL CORRECTIONS TO THE FEDERAL CREDIT UNION ACT.
+
+    The Federal Credit Union Act (12 U.S.C. 1751 et seq.) is amended as 
+follows:
+            (1) In section 101(3), strike ``and'' after the semicolon.
+            (2) In section 101(5), strike the terms ``account account'' 
+        and ``account accounts'' each place any such term appears and 
+        insert ``account''.
+            (3) In section 107(a)(5)(E) (as so designated by section 
+        303 of this Act), strike the period at the end and insert a 
+        semicolon.
+            (4) In paragraphs (6) and (7) of section 107(a) (as so 
+        designated by section 303 of this Act), strike the period at 
+        the end and insert a semicolon.
+            (5) In section 107(a)(7)(D) (as so designated by section 
+        303 of this Act), strike ``the Federal Savings and Loan 
+        Insurance Corporation or''.
+            (6) In section 107(a)(7)(E) (as so designated by section 
+        303 of this Act), strike ``the Federal Home Loan Bank Board,'' 
+        and insert ``the Federal Housing Finance Board,''.
+            (7) In section 107(a)(9) (as so designated by section 303 
+        of this Act), strike ``subchapter III'' and insert ``title 
+        III''.
+            (8) In section 107(a)(13) (as so designated by section 303 
+        of this Act), strike the ``and'' after the semicolon at the 
+        end.
+            (9) In section 109(c)(2)(i), strike ``(12 U.S.C. 
+        4703(16))''.
+            (10) In section 120(h), strike ``under the Act approved 
+        July 30, 1947 (6 U.S.C., secs. 6-13),'' and insert ``chapter 93 
+        of title 31, United States Code,''.
+            (11) In section 201(b)(5), strike ``section 116 of''.
+            (12) In section 202(h)(3), strike ``section 207(c)(1)'' and 
+        insert ``section 207(k)(1)''.
+            (13) In section 204(b), strike ``such others powers'' and 
+        insert ``such other powers''.
+            (14) In section 206(e)(3)(D), strike ``and'' after the 
+        semicolon at the end.
+            (15) In section 206(f)(1), strike ``subsection (e)(3)(B)'' 
+        and insert ``subsection (e)(3)''.
+            (16) In section 206(g)(7)(D), strike ``and subsection 
+        (1)''.
+            (17) In section 206(t)(2)(B), insert ``regulations'' after 
+        ``as defined in''.
+            (18) In section 206(t)(2)(C), strike ``material affect'' 
+        and insert ``material effect''.
+            (19) In section 206(t)(4)(A)(ii)(II), strike ``or'' after 
+        the semicolon at the end.
+            (20) In section 206A(a)(2)(A), strike ``regulator agency'' 
+        and insert ``regulatory agency''.
+            (21) In section 207(c)(5)(B)(i)(I), insert ``and'' after 
+        the semicolon at the end.
+            (22) In section 207(c)(8)(D)(ii)(I), insert a closing 
+        parenthesis after ``Act of 1934''.
+            (23) In the heading for subparagraph (A) of section 
+        207(d)(3), strike ``to'' and insert ``with''.
+            (24) In section 207(f)(3)(A), strike ``category or 
+        claimants'' and insert ``category of claimants''.
+            (25) In section 209(a)(8), strike the period at the end and 
+        insert a semicolon.
+            (26) In section 216(n), insert ``any action'' before ``that 
+        is required''.
+            (27) In section 304(b)(3), strike ``the affairs or such 
+        credit union'' and insert ``the affairs of such credit union''.
+            (28) In section 310, strike ``section 102(e)'' and insert 
+        ``section 102(d)''.
+
+SEC. 703. OTHER TECHNICAL CORRECTIONS.
+
+    Section 1306 of title 18, United States Code, is amended by 
+striking ``5136A'' and inserting ``5136B''.
+
+SEC. 704. REPEAL OF OBSOLETE PROVISIONS OF THE BANK HOLDING COMPANY ACT 
+              OF 1956.
+
+      (a) In General.--Section 2 of the Bank Holding Company Act of 
+1956 (12 U.S.C. 1841) is amended--
+            (1) in subsection (c)(2), by striking subparagraphs (I) and 
+        (J); and
+            (2) by striking subsection (m) and inserting the following 
+        new subsection:
+    ``(m) [Repealed]''.
+    (b) Technical and Conforming Amendments.--Paragraphs (1) and (2) of 
+section 4(h) of the Bank Holding Company Act of 1956 (12 U.S.C. 
+1843(h)) are each amended by striking ``(G), (H), (I), or (J) of 
+section 2(c)(2)'' and inserting ``(G), or (H) of section 2(c)(2)''.
+                                 <all>
+

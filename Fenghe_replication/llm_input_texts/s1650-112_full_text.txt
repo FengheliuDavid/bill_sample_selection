@@ -1,0 +1,343 @@
+[Congressional Bills 112th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1650 Introduced in Senate (IS)]
+
+112th CONGRESS
+  1st Session
+                                S. 1650
+
+ To provide for the orderly implementation of the provisions of title 
+ VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            October 4, 2011
+
+   Mr. Crapo (for himself, Mr. Johanns, Mr. Shelby, Mr. Vitter, Mr. 
+ Toomey, Mr. Moran, and Mr. Kirk) introduced the following bill; which 
+ was read twice and referred to the Committee on Banking, Housing, and 
+                             Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To provide for the orderly implementation of the provisions of title 
+ VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Dodd-Frank Improvement Act of 
+2011''.
+
+SEC. 2. DODD-FRANK IMPROVEMENTS REGARDING REGULATION OF DERIVATIVES.
+
+    (a) Establishment.--Section 4 of the Securities Exchange Act of 
+1934 (15 U.S.C. 78d) is amended by adding at the end the following:
+    ``(j) Office of Derivatives.--
+            ``(1) Office established.--There is established within the 
+        Commission the Office of Derivatives (referred to in this 
+        subsection as the `Office')--
+                    ``(A) to administer the rules of the Commission 
+                with respect to security-based swaps and, as necessary, 
+                to make recommendations to the Commission for new rules 
+                or changes to existing rules with respect to security-
+                based swaps;
+                    ``(B) to coordinate oversight of the market for 
+                swaps and security-based swaps, participants in that 
+                market, and infrastructure providers for that market 
+                with other relevant domestic and international 
+                regulators; and
+                    ``(C) to monitor developments in the market for 
+                swaps and security-based swaps.
+            ``(2) Director of the office.--The head of the Office shall 
+        be the Director, who shall report to the Director of the 
+        Division of Trading and Markets and the Director of Risk, 
+        Strategy, and Financial Innovation.
+            ``(3) Staffing.--
+                    ``(A) In general.--The Office shall be staffed by 
+                persons transferred in accordance with subparagraph 
+                (B), including persons having knowledge of and 
+                expertise in the uses for, trading in, execution of, 
+                and clearing of swaps and security-based swaps.
+                    ``(B) Transfers.--The Director of the Office of 
+                Derivatives, the Director of the Division of Trading 
+                and Markets, the Director of Risk, Strategy, and 
+                Financial Innovation, and the Director of the Office of 
+                Compliance, Inspections, and Examinations shall jointly 
+                identify employees to be transferred from the Division 
+                of Trading and Markets, the Division of Risk, Strategy, 
+                and Financial Innovation, and the Office of Compliance, 
+                Inspections, and Examinations, respectively, to the 
+                Office of Derivatives, in numbers sufficient to carry 
+                out fully the requirements of this subsection.
+            ``(4) Enforcement.--The Division of Enforcement shall 
+        consult with the Office before presenting a recommendation with 
+        respect to security-based swaps to the Commission.
+            ``(5) Inspections and examinations.--A representative of 
+        the Office shall be afforded the opportunity to participate in 
+        any inspection or examination of a security-based swap dealer, 
+        major security-based swap participant, security-based swap data 
+        repository, or clearing agency that clears security-based 
+        swaps.
+            ``(6) Annual report.--On or before the date that is one 
+        year after the Office is established and annually thereafter, 
+        the Director shall submit to the Chairman and publish on the 
+        public website of the Commission a report that describes the 
+        activities of the Office during the preceding year, and the 
+        developments in the swaps and security-based swaps market.''
+    (b) Orderly Implementation of Derivatives Provisions.--
+            (1) Review of regulatory authority.--Section 712 of the 
+        Dodd-Frank Wall Street Reform and Consumer Protection Act (15 
+        U.S.C. 8302) is amended--
+                    (A) in each of subsections (a)(3) and (e), by 
+                striking ``360'' each place that term appears and 
+                inserting ``720''; and
+                    (B) by adding at the end the following:
+    ``(g) Orderly Implementation Schedule.--
+            ``(1) In general.--Not later than December 31, 2011, the 
+        Commodity Futures Trading Commission, the Securities and 
+        Exchange Commission, and the prudential regulators shall 
+        jointly, pursuant to the notice and comment requirements 
+        contained in title 5, United States Code, adopt an 
+        implementation schedule for this title.
+            ``(2) Schedule content.--Such implementation schedule 
+        shall--
+                    ``(A) set forth a schedule for the publication of 
+                final rules required by this title, except that, unless 
+                otherwise specifically provided by a provision of this 
+                title, the rules required by subsection (d)(1) shall be 
+                adopted before any other required rules;
+                    ``(B) set forth a schedule for the effective dates 
+                for provisions of this title, including provisions that 
+                require a rulemaking and provisions that do not require 
+                a rulemaking;
+                    ``(C) take into consideration--
+                            ``(i) a quantitative analysis of the 
+                        effects of this title on United States economic 
+                        growth and job creation;
+                            ``(ii) the implications of this title for 
+                        cross-border activity by, and international 
+                        competitiveness of, United States financial 
+                        institutions, companies, and investors;
+                            ``(iii) whether and how the definitional, 
+                        clearing, trading, reporting, recordkeeping, 
+                        real-time reporting, registration, capital, 
+                        margin, business conduct, position limits and 
+                        other requirements of this title work together, 
+                        and how they affect market depth and liquidity; 
+                        and
+                            ``(iv) the implications of any lack of 
+                        harmonization by the Securities and Exchange 
+                        Commission, the Commodity Futures Trading 
+                        Commission, and the prudential regulators with 
+                        respect to the timing and the substance of 
+                        their rules.
+    ``(h) Orderly Implementation Authority.--Notwithstanding any other 
+provision of law, the Commodity Futures Trading Commission, the 
+Securities and Exchange Commission and the prudential regulators, by 
+rule, regulation, or order, may conditionally or unconditionally exempt 
+any person, swap, security-based swap, activity, or transaction, or any 
+class or classes of persons, swaps, security-based swaps, activities, 
+or transactions, from any provision or provisions of this title 
+administered thereby, or any rule or regulation thereunder, to the 
+extent that such exemption is necessary or appropriate in the public 
+interest and is in furtherance of the objectives of this title, such as 
+the orderly implementation and international harmonization of the 
+timing and substance of derivatives regulatory reform.''.
+            (2) Effective dates.--Title VII of the Dodd-Frank Wall 
+        Street Reform and Consumer Protection Act (Public Law 111-203, 
+        124 Stat. 1641) is amended--
+                    (A) in section 754 (7 U.S.C. 7a note), by striking 
+                ``the later of'' and all that follows through the 
+                period and inserting ``the dates specified in the 
+                implementation schedule adopted pursuant to section 
+                712(g).''; and
+                    (B) in section 774 (15 U.S.C. 77b note), by 
+                striking ``the later of'' and all that follows through 
+                the period and inserting ``the dates specified in the 
+                implementation schedule adopted pursuant to section 
+                712(g).''.
+    (c) Clarification of End User Status.--
+            (1) End users of swaps.--
+                    (A) Margin requirements.--Section 4s(e) of the 
+                Commodity Exchange Act (7 U.S.C. 6s(e)), as added by 
+                section 731 of the Dodd-Frank Wall Street Reform and 
+                Consumer Protection Act, is amended by adding at the 
+                end the following:
+            ``(4) Applicability with respect to counterparties.--The 
+        margin requirements of this subsection shall not apply to a 
+        swap in which one of the counterparties is not--
+                    ``(A) a swap dealer or major swap participant;
+                    ``(B) an investment fund that--
+                            ``(i) has issued securities (other than 
+                        debt securities) to more than 5 unaffiliated 
+                        persons;
+                            ``(ii) would be an investment company (as 
+                        defined in section 3 of the Investment Company 
+                        Act of 1940 (15 U.S.C. 80a-3)) but for 
+                        paragraph (1) or (7) of subsection (c) of that 
+                        section; and
+                            ``(iii) is not primarily invested in 
+                        physical assets (including commercial real 
+                        estate) directly or through an interest in an 
+                        affiliate that owns the physical assets;
+                    ``(C) a regulated entity, as defined in section 
+                1303 of the Federal Housing Enterprises Financial 
+                Safety and Soundness Act of 1992 (12 U.S.C. 4502); or
+                    ``(D) a commodity pool that is predominantly 
+                invested in any combination of commodities, commodity 
+                swaps, commodity options, or commodity futures.
+            ``(5) Margin transition rules.--Swaps entered into before 
+        the date on which final rules under section 712(e) of the Dodd-
+        Frank Wall Street Reform and Consumer Protection Act (15 U.S.C. 
+        8302(e)) become effective shall be exempt from the margin 
+        requirements under this subsection.''.
+                    (B) Major swap participant.--Section 1a(33)(A) of 
+                the Commodity Exchange Act (7 U.S.C. 1a(33)(A)) is 
+                amended by striking clause (ii) and inserting the 
+                following:
+                            ``(ii) whose outstanding swaps create 
+                        substantial net uncollateralized counterparty 
+                        exposure that could have serious adverse 
+                        effects on the financial stability of the 
+                        United States banking system or financial 
+                        markets; or''.
+                    (C) Effective date.--The amendments made by 
+                subsection (a) shall have the same effective date as 
+                provided in section 754 of the Dodd-Frank Wall Street 
+                Reform and Consumer Protection Act, as amended by 
+                section 1(b) of this Act.
+            (2) End users of security-based swaps.--
+                    (A) Margin requirements.--Section 15F(e) of the 
+                Securities Exchange Act of 1934 (15 U.S.C. 780-10(e)), 
+                as added by section 764 of the Dodd-Frank Wall Street 
+                Reform and Consumer Protection Act, is amended by 
+                adding at the end the following:
+            ``(4) Applicability with respect to counterparties.--The 
+        margin requirements of this subsection shall not apply to a 
+        security-based swap in which one of the counterparties is not--
+                    ``(A) a security-based swap dealer or major 
+                security-based swap participant;
+                    ``(B) an investment fund that would be an 
+                investment company (as defined in section 3 of the 
+                Investment Company Act of 1940 (15 U.S.C. 80a-3)), but 
+                for paragraph (1) or (7) of section 3(c) of that Act 
+                (15 U.S.C. 80a-3(c)), that is not primarily invested in 
+                physical assets (including commercial real estate) 
+                directly or through interest in its affiliates that own 
+                such assets;
+                    ``(C) a regulated entity, as defined in section 
+                1303 of the Federal Housing Enterprises Financial 
+                Safety and Soundness Act of 1992 (12 U.S.C. 4502); or
+                    ``(D) a commodity pool that is predominantly 
+                invested in any combination of commodities, commodity 
+                swaps, commodity options or commodity futures.
+            ``(5) Margin transition rules.--Security-based swaps 
+        entered into before the date on which final rules under section 
+        712(e) of the Dodd-Frank Wall Street Reform and Consumer 
+        Protection Act become effective are exempt from the margin 
+        requirements of this subsection.''.
+                    (B) Major security-based swap participant.--Section 
+                3(a)(67)(A)(ii)(II) of the Securities Exchange Act of 
+                1934 (15 U.S.C. 78c(a)(67)(A)(ii)(II)), is amended to 
+                read as follows:
+                                    ``(II) whose outstanding security-
+                                based swaps create substantial net 
+                                uncollateralized counterparty exposure 
+                                that could have serious adverse effects 
+                                on the financial stability of the 
+                                United States banking system or 
+                                financial markets;''.
+                    (C) Effective date.--The amendments made by this 
+                paragraph shall have the same effective date as 
+                provided in section 774 of the Dodd-Frank Wall Street 
+                Reform and Consumer Protection Act, as amended by this 
+                Act.
+    (d) Treatment of Affiliate Transactions.--Title VII of the Dodd-
+Frank Wall Street Reform and Consumer Protection Act (15 U.S.C. 8301 et 
+seq.) is amended by inserting after section 713 (15 U.S.C. the 
+following new section:
+
+``SEC. 713A. TREATMENT OF AFFILIATE TRANSACTIONS.
+
+    ``(a) In General.--An agreement, contract, or transaction that 
+would otherwise be a swap or security-based swap, and that is entered 
+into by a party that is controlling, controlled by, or under common 
+control with its counterparty shall not be deemed to be a `swap' or 
+`security-based swap' for purposes of this Act.
+    ``(b) Reporting.--All agreements, contracts, or transactions 
+described in subsection (a) shall be reported to either a swap data 
+repository, or, if there is no swap data repository that would accept 
+such transaction reports, to the Commission pursuant to sections 729 
+and 766. within such time period as the Commission may prescribe by 
+rule or regulation.''.
+    (e) International Competitiveness and Harmonization.--
+            (1) Study on international swap regulation.--Section 
+        719(c)(2) of the Dodd-Frank Wall Street Reform and Consumer 
+        Protection Act (15 U.S.C. 8307(c)(2)) is amended--
+                    (A) by striking ``18'' and inserting ``30'';
+                    (B) in subparagraph (C), by striking ``and'' at the 
+                end;
+                    (C) in subparagraph (D), by striking the period at 
+                the end and inserting ``; and''; and
+                    (D) by adding at the end the following:
+                    ``(E) an analysis of the progress of members of the 
+                Group of 20 and other countries toward implementing 
+                derivatives regulatory reform, including material 
+                differences in the schedule for implementation (as well 
+                as material differences in definitions, clearing, 
+                trading, reporting, registration, capital, margin, 
+                business conduct, and position limits) and their 
+                possible and likely effects on United States 
+                competitiveness, market liquidity, and financial 
+                stability.''.
+            (2) Applicability.--The Dodd-Frank Wall Street Reform and 
+        Consumer Protection Act is amended by inserting after section 
+        719 the following new section:
+
+``SEC. 719A. APPLICABILITY.
+
+    ``(a) In General.--Subject to subsections (b) and (c), and 
+notwithstanding any other provision of this title, no activities 
+conducted outside of the United States between counterparties 
+established under the laws of any jurisdiction outside of the United 
+States (including a non-United States branch of a United States entity 
+licensed and recognized under local law outside of the United States) 
+shall be considered--
+            ``(1) to have a direct and significant connection with 
+        activities in, or effect on, commerce of the United States;
+            ``(2) to constitute a business within the jurisdiction of 
+        the United States; or
+            ``(3) to constitute evasion of any provision of this title, 
+        unless those activities contravene such rules as may be adopted 
+        by the Commodity Futures Trading Commission and the Securities 
+        and Exchange Commission pursuant to subsection (b).
+    ``(b) Rulemaking.--After completing the report required by section 
+719(c)(2), the Commodity Futures Trading Commission and the Securities 
+and Exchange Commission may jointly issue such rules as are necessary 
+to prohibit transactions or activities, or classes of transactions or 
+activities conducted outside of the United States that the agencies 
+find--
+            ``(1) have no valid business purpose;
+            ``(2) are structured with the sole purpose of evading the 
+        requirements of this title; and
+            ``(3) might reasonably be expected to have a serious 
+        adverse effect on the stability of the United States financial 
+        system.
+    ``(c) Exception.--Subsection (a) shall not apply to any provision 
+of this title prohibiting fraud or manipulation or any rule or 
+regulation thereunder.''.
+                                 <all>
+

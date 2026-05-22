@@ -1,0 +1,336 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[S. 31 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                 S. 31
+
+ To amend the Electronic Fund Transfer Act to extend certain consumer 
+protections to international remittance transfers of funds originating 
+             in the United States, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            January 24, 2005
+
+ Mr. Sarbanes (for himself, Mr. Corzine, Mrs. Clinton, Mr. Akaka, Mr. 
+  Bingaman, Mr. Schumer, Mr. Dodd, Mrs. Boxer,, Ms. Mikulski, and Mr. 
+Reid) introduced the following bill; which was read twice and referred 
+        to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Electronic Fund Transfer Act to extend certain consumer 
+protections to international remittance transfers of funds originating 
+             in the United States, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``International Remittance Consumer 
+Protection Act of 2005''.
+
+SEC. 2. TREATMENT OF REMITTANCE TRANSFERS.
+
+    (a) In General.--The Electronic Fund Transfer Act (15 U.S.C. 1693 
+et seq.) is amended--
+            (1) in section 902(b), by inserting ``and remittance'' 
+        after ``electronic fund'';
+            (2) by redesignating sections 918, 919, 920, and 921 as 
+        sections 919, 920, 921, and 922, respectively; and
+            (3) by inserting after section 917 the following:
+
+``SEC. 918. REMITTANCE TRANSFERS.
+
+    ``(a) Disclosures Required for Remittance Transfers.--
+            ``(1) In general.--Each remittance transfer provider shall 
+        make disclosures to consumers, as specified by this section and 
+        augmented by regulation of the Board.
+            ``(2) Specific disclosures.--In addition to any other 
+        disclosures applicable under this title, a remittance transfer 
+        provider shall clearly and conspicuously disclose, in writing 
+        and in a form that the consumer may keep, to each consumer 
+        requesting a remittance transfer--
+                    ``(A) at the time at which the consumer makes the 
+                request, and prior to the consumer making any payment 
+                in connection with the transfer--
+                            ``(i) the total amount of currency that 
+                        will be required to be tendered by the consumer 
+                        in connection with the remittance transfer;
+                            ``(ii) the amount of currency that will be 
+                        sent to the designated recipient of the 
+                        remittance transfer, using the values of the 
+                        currency into which the funds will be 
+                        exchanged;
+                            ``(iii) the total remittance transfer cost, 
+                        identified as the `Total Cost'; and
+                            ``(iv) an itemization of the charges 
+                        included in clause (iii), as determined 
+                        necessary by the Board; and
+                    ``(B) at the time at which the consumer makes 
+                payment in connection with the remittance transfer, if 
+                any--
+                            ``(i) a receipt showing--
+                                    ``(I) the information described in 
+                                subparagraph (A);
+                                    ``(II) the promised date of 
+                                delivery;
+                                    ``(III) the name and telephone 
+                                number or address of the designated 
+                                recipient; and
+                            ``(ii) a notice containing--
+                                    ``(I) information about the rights 
+                                of the consumer under this section to 
+                                resolve errors; and
+                                    ``(II) appropriate contact 
+                                information for the remittance transfer 
+                                provider and its State licensing 
+                                authority and Federal or State 
+                                regulator, as applicable.
+            ``(3) Exemption authority.--The Board may, by rule, and 
+        subject to subsection (d)(3), permit a remittance transfer 
+        provider--
+                    ``(A) to satisfy the requirements of paragraph 
+                (2)(A) orally if the transaction is conducted entirely 
+                by telephone;
+                    ``(B) to satisfy the requirements of paragraph 
+                (2)(B) by mailing the documents required under such 
+                paragraph to the consumer not later than 1 business day 
+                after the date on which the transaction is conducted, 
+                if the transaction is conducted entirely by telephone; 
+                and
+                    ``(C) to satisfy the requirements of subparagraphs 
+                (A) and (B) of paragraph (2) with 1 written disclosure, 
+                but only to the extent that the information provided in 
+                accordance with paragraph (2)(A) is accurate at the 
+                time at which payment is made in connection with the 
+                subject remittance transfer.
+    ``(b) Foreign Language Disclosures.--The disclosures required under 
+this section shall be made in English and in the same languages 
+principally used by the remittance transfer provider, or any of its 
+agents, to advertise, solicit, or market, either orally or in writing, 
+at that office, if other than English.
+    ``(c) Remittance Transfer Errors.--
+            ``(1) Error resolution.--
+                    ``(A) In general.--If a remittance transfer 
+                provider receives oral or written notice from the 
+                consumer within 365 days of the promised date of 
+                delivery that an error occurred with respect to a 
+                remittance transfer, including that the full amount of 
+                the funds to be remitted was not made available to the 
+                designated recipient in the foreign country, the 
+                remittance transfer provider shall resolve the error 
+                pursuant to this subsection.
+                    ``(B) Remedies.--Not later than 90 days after the 
+                date of receipt of a notice from the consumer pursuant 
+                to subparagraph (A), the remittance transfer provider 
+                shall, as applicable to the error and as designated by 
+the consumer--
+                            ``(i) refund to the consumer the total 
+                        amount of funds tendered by the consumer in 
+                        connection with the remittance transfer which 
+                        was not properly transmitted;
+                            ``(ii) make available to the designated 
+                        recipient, without additional cost to the 
+                        designated recipient or to the consumer, the 
+                        amount appropriate to resolve the error;
+                            ``(iii) provide such other remedy, as 
+                        determined appropriate by rule of the Board for 
+                        the protection of consumers; or
+                            ``(iv) demonstrate to the consumer that 
+                        there was no error.
+            ``(2) Rules.--The Board shall establish, by rule, clear and 
+        appropriate standards for remittance transfer providers with 
+        respect to error resolution relating to remittance transfers, 
+        to protect consumers from such errors.
+    ``(d) Applicability of Other Provisions of Law.--
+            ``(1) Applicability of title 18 and title 31 provisions.--A 
+        remittance transfer provider may only provide remittance 
+        transfers if such provider is in compliance with the 
+        requirements of section 5330 of title 31, United States Code, 
+        and section 1960 of title 18, United States Code, as 
+        applicable.
+            ``(2) Applicability of this title.--A remittance transfer 
+        that is not an electronic fund transfer, as defined in section 
+        903, shall not be subject to any of sections 905 through 913. A 
+        remittance transfer that is an electronic fund transfer, as 
+        defined in section 903, shall be subject to all provisions of 
+        this title that are otherwise applicable to electronic fund 
+        transfers under this title.
+            ``(3) Rule of construction.--Nothing in this section shall 
+        be construed--
+                    ``(A) to affect the application to any transaction, 
+                to any remittance provider, or to any other person of 
+                any of the provisions of subchapter II of chapter 53 of 
+                title 31, United States Code, section 21 of the Federal 
+                Deposit Insurance Act (12 U.S.C. 1829b), or chapter 2 
+                of title I of Public Law 91-508 (12 U.S.C. 1951-1959), 
+                or any regulations promulgated thereunder; or
+                    ``(B) to cause any fund transfer that would not 
+                otherwise be treated as such under paragraph (2) to be 
+                treated as an electronic fund transfer, or as otherwise 
+                subject to this title, for the purposes of any of the 
+                provisions referred to in subparagraph (A) or any 
+                regulations promulgated thereunder.
+    ``(e) Publication of Exchange Rates.--The Secretary of the Treasury 
+shall make available to the public in electronic form, not later than 
+noon on each business day, the dollar exchange rate for all foreign 
+currencies, using any methodology that the Secretary determines 
+appropriate, which may include the methodology used pursuant to section 
+613(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2363(b)).
+    ``(f) Agents and Subsidiaries.--A remittance transfer provider 
+shall be liable for any violation of this section by any agent or 
+subsidiary of that remittance transfer provider.
+    ``(g) Definitions.--As used in this section--
+            ``(1) the term `exchange rate fee' means the difference 
+        between the total dollar amount transferred, valued at the 
+        exchange rate offered by the remittance transfer provider, and 
+        the total dollar amount transferred, valued at the exchange 
+        rate posted by the Secretary of the Treasury in accordance with 
+        subsection (e) on the business day prior to the initiation of 
+        the subject remittance transfer;
+            ``(2) the term `remittance transfer' means the electronic 
+        (as defined in section 106(2) of the Electronic Signatures in 
+        Global and National Commerce Act (15 U.S.C. 7006(2))) transfer 
+        of funds at the request of a consumer located in any State to a 
+        person in another country that is initiated by a remittance 
+        transfer provider, whether or not the consumer is an account 
+        holder of the remittance transfer provider or whether or not 
+        the remittance transfer is also an electronic fund transfer, as 
+        defined in section 903;
+            ``(3) the term `remittance transfer provider' means any 
+        person or financial institution that provides remittance 
+        transfers on behalf of consumers in the normal course of its 
+        business, whether or not the consumer is an account holder of 
+        that person or financial institution;
+            ``(4) the term `State' means any of the several States, the 
+        Commonwealth of Puerto Rico, the District of Columbia, and any 
+        territory or possession of the United States; and
+            ``(5) the term `total remittance transfer cost' means the 
+        total cost of a remittance transfer expressed in dollars, 
+        including all fees charged by the remittance transfer provider, 
+        including the exchange rate fee.''.
+    (b) Effect on State Laws.--Section 919 of the Electronic Fund 
+Transfer Act (12 U.S.C. 1693q) is amended--
+            (1) in the first sentence, by inserting ``or remittance 
+        transfers (as defined in section 918)'' after ``transfers''; 
+        and
+            (2) in the fourth sentence, by inserting ``, or remittance 
+        transfer providers (as defined in section 918), in the case of 
+        remittance transfers,'' after ``financial institutions''.
+
+SEC. 3. FEDERAL CREDIT UNION ACT AMENDMENT.
+
+    Paragraph (12) of section 107 of the Federal Credit Union Act (12 
+U.S.C. 1757(12)) is amended to read as follows:
+            ``(12) in accordance with regulations prescribed by the 
+        Board--
+                    ``(A) to provide remittance transfers, as defined 
+                in section 918(h) of the Electronic Fund Transfer Act, 
+                to persons in the field of membership; and
+                    ``(B) to cash checks and money orders for persons 
+                in the field of membership for a fee;''.
+
+SEC. 4. AUTOMATED CLEARINGHOUSE SYSTEM.
+
+    (a) Expansion of System.--The Board of Governors of the Federal 
+Reserve System shall work with the Federal reserve banks to expand the 
+use of the automated clearinghouse system for remittance transfers to 
+foreign countries, with a focus on countries that receive significant 
+remittance transfers from the United States, based on--
+            (1) the number, volume, and sizes of such transfers;
+            (2) the significance of the volume of such transfers, 
+        relative to the external financial flows of the receiving 
+        country; and
+            (3) the feasibility of such an expansion.
+    (b) Report to Congress.--Not later than 180 days after the date of 
+enactment of this Act, and on April 30 biannually thereafter, the Board 
+of Governors of the Federal Reserve System shall submit a report to the 
+Committee on Banking, Housing, and Urban Affairs of the Senate and the 
+Committee on Financial Services of the House of Representatives on the 
+status of the automated clearinghouse system and its progress in 
+complying with the requirements of this section.
+
+SEC. 5. EXPANSION OF FINANCIAL INSTITUTION PROVISION OF REMITTANCE 
+              TRANSFERS.
+
+    (a) Provision of Guidelines to Institutions.--Each of the Federal 
+banking agencies (as defined in section 3 of the Federal Deposit 
+Insurance Act) and the National Credit Union Administration shall 
+provide guidelines to financial institutions under the jurisdiction of 
+the agency regarding the offering of low-cost remittance transfers and 
+no-cost or low-cost basic consumer accounts, as well as agency services 
+to remittance transfer providers.
+    (b) Content of Guidelines.--Guidelines provided to financial 
+institutions under this section shall include--
+            (1) information as to the methods of providing remittance 
+        transfer services;
+            (2) the potential economic opportunities in providing low-
+        cost remittance transfers; and
+            (3) the potential value to financial institutions of 
+        broadening their financial bases to include persons that use 
+        remittance transfers.
+    (c) Assistance to Financial Literacy Commission.--The Secretary of 
+the Treasury and each agency referred to in subsection (a) shall, as 
+part of their duties as members of the Financial Literacy and Education 
+Commission, assist that Commission in improving the financial literacy 
+and education of consumers who send remittances.
+
+SEC. 6. STUDY AND REPORT ON REMITTANCES.
+
+    (a) Study.--The Comptroller General of the United States shall 
+conduct a study and analysis of the remittance transfer system, 
+including an analysis of its impact on consumers.
+    (b) Areas of Consideration.--The study conducted under this section 
+shall include, to the extent that information is available--
+            (1) an estimate of the total amount, in dollars, 
+        transmitted from individuals in the United States to other 
+        countries, including per country data, historical data, and any 
+        available projections concerning future remittance levels;
+            (2) a comparison of the amount of remittance funds, in 
+        total and per country, to the amount of foreign trade, 
+        bilateral assistance, and multi-development bank programs 
+        involving each of the subject countries;
+            (3) an analysis of the methods used to remit the funds, 
+        with estimates of the amounts remitted through each method and 
+        descriptive statistics for each method, such as market share, 
+        median transaction size, and cost per transaction, including 
+        through--
+                    (A) depository institutions;
+                    (B) postal money orders and other money orders;
+                    (C) automatic teller machines;
+                    (D) wire transfer services; and
+                    (E) personal delivery services;
+            (4) an analysis of advantages and disadvantages of each 
+        remitting method listed in subparagraphs (A) through (E) of 
+        paragraph (3);
+            (5) an analysis of the types and specificity of disclosures 
+        made by various types of remittance transaction providers to 
+        consumers who send remittances; and
+            (6) if reliable data are unavailable, recommendations 
+        concerning options for Congress to consider to improve the 
+        state of information on remittances from the United States.
+    (c) Report to Congress.--Not later than 1 year after the date of 
+enactment of this Act, the Comptroller General shall submit a report to 
+the Committee on Banking, Housing, and Urban Affairs of the Senate and 
+the Committee on Financial Services of the House of Representatives on 
+the results of the study conducted under this section.
+                                 <all>
+

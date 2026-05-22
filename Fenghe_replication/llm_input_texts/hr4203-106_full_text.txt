@@ -1,0 +1,580 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4203 Introduced in House (IH)]
+
+
+
+
+
+
+
+106th CONGRESS
+  2d Session
+                                H. R. 4203
+
+To establish a comprehensive regulatory framework over the clearing of 
+  over-the-counter derivative instruments that will operate under the 
+supervision of the Federal banking agencies, to clarify the lawfulness 
+   of the use of multilateral clearing systems for over-the-counter 
+      derivative instrument transactions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 6, 2000
+
+  Mr. Leach (for himself, Mr. LaFalce, Mr. Baker, and Mr. Kanjorski) 
+ introduced the following bill; which was referred to the Committee on 
+ Banking and Financial Services, and in addition to the Committees on 
+     Commerce, Agriculture, and the Judiciary, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To establish a comprehensive regulatory framework over the clearing of 
+  over-the-counter derivative instruments that will operate under the 
+supervision of the Federal banking agencies, to clarify the lawfulness 
+   of the use of multilateral clearing systems for over-the-counter 
+      derivative instrument transactions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Over-the-Counter Derivatives 
+Systemic Risk Reduction Act of 2000''.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    The Congress finds as follows:
+            (1) Banks and other financial institutions regulated under 
+        Federal banking laws--
+                    (A) are dominant participants in the market for 
+                over-the-counter derivative instruments; and
+                    (B) use such instruments in their capital market 
+                activities for, among other purposes, controlling 
+                financial risks and facilitating investment strategies.
+            (2) Multilateral clearing systems can reduce risks to the 
+        financial system posed by certain categories of over-the-
+        counter derivative instruments by mutualizing the credit risk 
+        of each transaction.
+            (3) A multilateral clearing system may--
+                    (A) mitigate losses that the parties to 
+                transactions involving over-the-counter derivative 
+                instruments would suffer if their counterparties fail 
+                to settle obligations in connection with such 
+                transactions; and
+                    (B) make such transactions more economically 
+                efficient by facilitating the offset and netting of 
+                obligations arising under contracts cleared through the 
+                system.
+            (4) Although it is evident that the establishment of 
+        multilateral clearing systems in the United States for 
+        transactions involving over-the-counter derivative instruments 
+        would enhance the competitiveness of United States financial 
+        institutions, efforts to establish such systems have been 
+        hindered by concerns that the use of such a system may render 
+        the underlying transactions illegal under existing Federal law.
+            (5) In November 1999, the Secretary of the Treasury, the 
+        Chairman of the Board of Governors of the Federal Reserve 
+        System, the Chairman of the Securities and Exchange Commission, 
+        and the Chairman of the Commodity Futures Trading Commission 
+        all agreed to foster the development of multilateral clearing 
+        systems for over-the-counter derivative instruments 
+        transactions.
+            (6) Federal supervision of multilateral clearing systems 
+        for over-the-counter derivative instruments markets will foster 
+        the effectiveness and integrity of the operations, the risk 
+        management of such systems, and the stability of the financial 
+        markets and the safety and soundness of the banking system.
+            (7) Questions about the enforceability of over-the-counter 
+        derivatives contracts under Federal and State law could have a 
+        negative impact on the stability of the financial institutions 
+        that are parties to them and could threaten the safety and 
+        soundness of the financial system.
+            (8) Interpretations of Federal law suggesting that the use 
+        of certain electronic technologies in the trading of over-the-
+        counter derivative instruments might raise questions about 
+        their lawfulness have hampered the development of more 
+        efficient trading systems and, therefore, more effective risk 
+        management for financial institutions.
+
+SEC. 3. MULTILATERAL CLEARING ORGANIZATIONS.
+
+    (a) In General.--Subtitle A of title IV of the Federal Deposit 
+Insurance Corporation Improvement Act of 1991 is amended--
+            (1) by inserting before the section heading for section 
+        401, the following new heading:
+
+      ``CHAPTER 1--BILATERAL AND CLEARING ORGANIZATION NETTING'';
+
+            (2) in section 401, by striking ``this subtitle'' and 
+        inserting ``this chapter''; and
+            (3) by inserting after section 407, the following new 
+        chapter:
+
+            ``CHAPTER 2--MULTILATERAL CLEARING ORGANIZATIONS
+
+``SEC. 408. DEFINITIONS.
+
+    For purposes of this chapter, the following definitions shall 
+apply:
+            ``(1) Multilateral clearing organization.--The term 
+        `multilateral clearing organization' means a system utilized by 
+        more than 2 participants in which the bilateral credit 
+        exposures of participants arising from the transactions cleared 
+        are effectively eliminated and replaced by a system of 
+        guarantees, insurance, or mutualized risk of loss.
+            ``(2) Over-the-counter derivative instrument.--The term 
+        `over-the-counter derivative instrument' means--
+                    ``(A) any agreement, including the terms and 
+                conditions incorporated by reference in any such 
+                agreement, which is an interest rate swap, option, or 
+                forward agreement, including a rate floor, rate cap, 
+                rate collar, cross-currency rate swap, basis swap, and 
+                forward rate agreement; a spot, same day-tomorrow, 
+                tomorrow-next, forward, or other foreign exchange or 
+                precious metals agreement; a currency swap, option, or 
+                forward agreement; an equity index or equity swap, 
+                option, or forward agreement; a debt index or debt 
+                swap, option, or forward agreement; a credit spread or 
+                credit swap, option, or forward agreement; a commodity 
+                index or commodity swap, option, or forward agreement; 
+                and a weather swap, weather derivative, or weather 
+                option;
+                    ``(B) any agreement or transaction similar to any 
+                other agreement or transaction referred to in this 
+                clause that is presently, or in the future becomes, 
+                regularly entered into by parties that participate in 
+                swap transactions (including terms and conditions 
+                incorporated by reference in such agreement) and that 
+                is a forward, swap, or option on 1 or more rates, 
+                currencies, commodities, equity securities or other 
+                equity instruments, debt securities or other debt 
+                instruments, or economic or other indices or measures 
+                of economic or other risk or value; and
+                    ``(C) any option to enter into any, or any 
+                combination of, agreements or transactions referred to 
+                in this subparagraph.
+            ``(3) Other definitions.--The terms `bank' and `affiliate' 
+        have the meanings given the terms in section 2 of the Bank 
+        Holding Company Act of 1956.
+
+``SEC. 409. MULTILATERAL CLEARING ORGANIZATIONS.
+
+    ``(a) In General.--Except with respect to clearing organizations 
+described in subsection (b), no person may operate a multilateral 
+clearing organization for over-the-counter derivative instruments, or 
+otherwise engage in activities that constitute such a multilateral 
+clearing organization unless the person is a bank, or a corporation 
+chartered under section 25A of the Federal Reserve Act.
+    ``(b) Clearing Organizations.--Subsection (a) shall not apply to 
+any clearing organization that--
+            ``(1) is registered as a clearing agency under the 
+        Securities Exchange Act of 1934;
+            ``(2) performs clearing functions for a contract market 
+        designated pursuant to the Commodity Exchange Act; or
+            ``(3) is supervised by a foreign financial regulator that 
+        an appropriate Federal financial regulatory agency has 
+        determined satisfies appropriate standards.
+    ``(c) Rules of Construction.--
+            ``(1) Over-the-counter derivative instruments.--The fact 
+        that an over-the-counter derivative instrument is cleared or 
+        settled through a multilateral clearing organization shall not 
+        be construed to mean, or used to support a conclusion, that 
+        such transaction is subject to the Commodity Exchange Act.
+            ``(2) CFTC jurisdiction.--No provision of this chapter 
+        shall be construed as altering, limiting, or otherwise 
+        affecting the applicability of the Commodity Exchange Act to, 
+        or the jurisdiction of the Commodity Futures Trading Commission 
+        over--
+                    ``(A) trading in or clearing of transactions in, or 
+                based on, nonfinancial commodities with finite 
+                supplies; and
+                    ``(B) clearing by organizations that clear 
+                exchange-traded contracts for the purchase or sale of a 
+                commodity for future delivery, commodity options, and 
+                options on contracts for the purchase or sale of a 
+                commodity for future delivery under the Commodity 
+                Exchange Act.
+            ``(3) SEC jurisdiction.--No provision of this chapter shall 
+        be construed as altering, limiting, or otherwise affecting the 
+        jurisdiction of the Securities and Exchange Commission over 
+        clearance and settlement by a clearing agency registered under 
+        the Securities Exchange Act of 1934.
+            ``(4) No effect on applicability of securities exchange act 
+        of 1934 to clearing of securities.--No provision of this 
+        chapter shall be construed as altering, limiting, or otherwise 
+        affecting the applicability of the Securities Exchange Act of 
+        1934 to the clearing of securities, including the applicability 
+        of section 17A(d) of such Act to the clearing through a 
+        multilateral clearing organization under this chapter of over-
+        the-counter derivative instruments that are securities within 
+        the meaning of the Federal securities laws.
+            ``(5) Federal reserve board and occ jurisdiction.--A 
+        multilateral clearing organization under the jurisdiction of 
+        the Board of Governors of the Federal Reserve System or the 
+        Comptroller of the Currency in accordance with subsection (a) 
+        shall not be subject to the jurisdiction of any other Federal 
+        department or agency as a result of clearing any over-the-
+        counter derivative instrument.''.
+    (b) Enforcement Powers of the Board of Governors of the Federal 
+Reserve System.--Section 9 of the Federal Reserve Act (12 U.S.C. 221) 
+is amended by adding at the end the following new paragraph:
+            ``(24) Enforcement authority.--Section 3(u), subsections 
+        (j) and (k) of section 7, subsections (b) through (n), (s), 
+        (u), and (v) of section 8, and section 19 of the Federal 
+        Deposit Insurance Act shall apply to a State member bank which 
+        is not an insured depository institution (as defined in section 
+        3 of the Federal Deposit Insurance Act) in the same manner and 
+        to the same extent as such provisions apply to State member 
+        insured banks, and any reference in such sections to an insured 
+        depository institution shall be deemed to include a reference 
+        to any such noninsured State member bank.''.
+
+SEC. 4. LEGAL CERTAINTY.
+
+    No over-the-counter derivative instrument (as defined in section 
+408(2) of the Federal Deposit Insurance Corporation Improvement Act of 
+1991) to which a financial institution (as defined in or under section 
+402(9) of such Act or in or under section 509(3)(A) of the Gramm-Leach-
+Bliley Act) is a party shall be held void, subject to rescission, or 
+unenforceable based solely on the regulatory status of, or regulatory 
+jurisdiction over, such agreement, contract, or transaction under 
+Federal or State law.
+
+SEC. 5. ELECTRONIC TRADING.
+
+    (a) Rules of Construction.--
+            (1) Over-the-counter derivative instruments.--The fact that 
+        an over-the-counter derivative instrument is the subject of 
+        communication on, or is entered into or traded through or by 
+        means of, a financial electronic trading system shall not be 
+        construed to mean, or used to support a conclusion, that such 
+        transaction is subject to the Commodity Exchange Act.
+            (2) CFTC jurisdiction.--No provision of this section shall 
+        be construed as altering, limiting, or otherwise affecting the 
+        applicability of the Commodity Exchange Act to, or the 
+        jurisdiction of the Commodity Futures Trading Commission over, 
+        trading in transactions in, or based on, nonfinancial 
+        commodities with finite supplies.
+    (b) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            (1) Eligible contract participant.--The term ``eligible 
+        contract participant'' means any of the following persons 
+        acting for its own account:
+                    (A) Any depository institution (as defined in 
+                section 3 of the Federal Deposit Insurance Act), 
+                foreign bank (as defined in section 1(b) of the 
+                International Banking Act of 1978), Federal or State 
+                credit union (as defined in section 101 of the Federal 
+                Credit Union Act), corporation organized under section 
+                25A of the Federal Reserve Act, corporation operating 
+                under section 25 of such Act, trust company, or 
+                affiliate of any such person.
+                    (B) An insurance company (as defined in section 
+                2(q) of the Bank Holding Company Act of 1956).
+                    (C) An investment company subject to regulation 
+                under the Investment Company Act of 1940 or a foreign 
+                person performing a similar role or function subject as 
+                such to foreign regulation (regardless of whether the 
+                investors in such investment company or foreign person 
+                are themselves eligible contract participants).
+                    (D) A commodity pool which has total assets 
+                exceeding $5,000,000 and which is formed and operated 
+                by a person subject to regulation under the Commodity 
+                Exchange Act or a foreign person performing a similar 
+                role or function subject as such to foreign regulation 
+                (regardless of whether the investors in such commodity 
+                pool are themselves eligible contract participants).
+                    (E) A corporation, partnership, proprietorship, 
+                organization, trust, or other entity--
+                            (i) which has total assets exceeding 
+                        $10,000,000;
+                            (ii) the obligations of which under an 
+                        agreement, contract, or transaction are 
+                        guaranteed or otherwise supported by a letter 
+                        of credit or any other agreement by any entity 
+                        referred to in clause (i) of this subparagraph 
+                        or subparagraph (A), (B), (C), or (D); or
+                            (iii) which has a net worth of $1,000,000 
+                        and enters into an agreement, contract, or 
+                        transaction in connection with the conduct of 
+                        its business or to manage the risk associated 
+                        with an asset or liability owned or incurred or 
+                        reasonably likely to be owned or incurred by 
+                        such person in the conduct of its business.
+                    (F) A broker or dealer subject to regulation under 
+                the Securities Exchange Act of 1934 or a foreign person 
+                performing a similar role or function subject as such 
+                to foreign regulation, except that if such broker or 
+                dealer is a natural person or proprietorship, the 
+                broker or dealer shall not be deemed an eligible 
+                contract participant unless the broker or dealer also 
+                meets the requirements of subparagraph (E) or owns and 
+                invests on a discretionary basis not less than 
+                $25,000,000 in investments.
+                    (G) A futures commission merchant, floor broker, or 
+                floor trader subject to regulation under the Commodity 
+                Exchange Act or a foreign person performing a similar 
+                role or function subject as such to foreign regulation, 
+                except that if such futures commission merchant, floor 
+                broker, or floor trader is a natural person or 
+                proprietorship, the futures commission merchant, floor 
+                broker, or floor trader shall not be deemed an eligible 
+                contract participant, unless the futures commission 
+                merchant, floor broker, or floor trader also meets the 
+                requirements of subparagraph (E) or owns and invests on 
+                a discretionary basis not less than $25,000,000 in 
+                investments.
+            (2) Financial electronic trading system.--The term 
+        ``financial electronic trading system'' means any person or 
+        group of persons, including any exchange that has been 
+        designated as a contract market by the Commodity Futures 
+        Trading Commission, that constitutes, maintains, or provides an 
+        electronic facility or system, including a computer system or 
+        network, in which--
+                    (A) each participant is a financial institution (as 
+                defined in or under section 402(9) of the Federal 
+                Deposit Insurance Corporation Improvement Act of 1991 
+                or in or under section 509(3)(A) of the Gramm-Leach-
+                Bliley Act) that is an eligible contract participant;
+                    (B) participants have the ability to communicate 
+                information or to execute or trade agreements, 
+                contracts, or transactions that are open to 
+                participants in such facility or system; and
+                    (C) no participant may act as an agent for another 
+                person in using the system.
+            (3) Over-the-counter derivative instrument.--The term 
+        `over-the-counter derivative instrument' has the same meaning 
+        as in section 408(2) of the Federal Deposit Insurance 
+        Corporation Improvement Act of 1991.
+
+SEC. 6. CLEARING BANKS.
+
+    (a) In General.--The Federal Reserve Act (12 U.S.C. 221 et seq.) is 
+amended by inserting after section 9A the following new section:
+
+``SEC. 9B. RESOLUTION OF CLEARING BANKS.
+
+    ``(a) Conservatorship or Receivership.--
+            ``(1) Appointment.--The Board may appoint a conservator or 
+        receiver to take possession and control of a State bank which 
+        operates, or operates as, a multilateral clearing organization 
+        pursuant to section 409 of the Federal Deposit Insurance 
+        Corporation Improvement Act of 1991 to the same extent and in 
+        the same manner as the Comptroller of the Currency may appoint 
+        a conservator or receiver for a national bank.
+            ``(2) Powers.--The conservator or receiver for a State bank 
+        referred to in paragraph (1) shall exercise the same powers, 
+        functions, and duties, subject to the same limitations, as a 
+        conservator or receiver for a national bank.
+    ``(b) Board Authority.--The Board shall have the same authority 
+with respect to any conservator or receiver appointed under subsection 
+(a), and the State bank for which the conservator or receiver has been 
+appointed, as the Comptroller of the Currency has with respect to a 
+conservator or receiver for a national bank and the national bank for 
+which the conservator or receiver has been appointed.
+    ``(c) Bankruptcy Proceedings.--The Comptroller of the Currency (in 
+the case of a national bank which operates, or operates as, a 
+multilateral clearing organization pursuant to section 409 of the 
+Federal Deposit Insurance Corporation Improvement Act of 1991) or the 
+Board (in the case of a State bank which operates, or operates as, such 
+a multilateral clearing organization) may direct a conservator or 
+receiver appointed for such bank to file a petition pursuant to title 
+11, United States Code, in which case, title 11, United States Code, 
+shall apply to such bank in lieu of otherwise applicable Federal or 
+State insolvency law.''.
+    (b) Technical and Conforming Amendments to Title 11, United States 
+Code.--
+            (1) Bankruptcy code debtors.--Section 109(b)(2) of title 
+        11, United States Code, is amended by striking `; or' and 
+        inserting the following: `, except that a bank or a corporation 
+        organized under section 25A of the Federal Reserve Act which 
+        operates, or operates as, a multilateral clearing organization 
+        pursuant to section 409 of the Federal Deposit Insurance 
+        Corporation Improvement Act of 1991 may be a debtor if a 
+        petition is filed at the direction of the Comptroller of the 
+        Currency (in the case of a national bank) or the Board of 
+        Governors of the Federal Reserve System (in the case of a State 
+        bank or such a corporation); or''.
+            (2) Chapter 7 debtors.--Section 109(d) of title 11, United 
+        States Code, is amended to read as follows:
+    ``(d) Only a railroad, a person that may be a debtor under chapter 
+7 of this title (except a stockbroker or a commodity broker), and a 
+bank or a corporation organized under section 25A of the Federal 
+Reserve Act which operates, or operates as, a multilateral clearing 
+organization pursuant to section 409 of the Federal Deposit Insurance 
+Corporation Improvement Act of 1991 may be a debtor under chapter 11 of 
+this title.''.
+            (3) Definition of financial institution.--Section 101(22) 
+        of title 11, United States Code, is amended to read as follows:
+            ``(22) the term `financial institution'--
+                    ``(A) means a person that is a commercial or 
+                savings bank, industrial savings bank, savings and loan 
+                association, trust company, a bank or a corporation 
+                organized under section 25A of the Federal Reserve Act 
+                and, when any such person is acting as agent or 
+                custodian for a customer in connection with a 
+                securities contract, as defined in section 741 of this 
+                title, such customer; and
+                    ``(B) includes any person described in subparagraph 
+                (A) which operates, or operates as, a multilateral 
+                clearing organization pursuant to section 409 of the 
+                Federal Deposit Insurance Corporation Improvement Act 
+                of 1991;''.
+            (4) Subchapter v of chapter 7.--
+                    (A) In general.--Section 103 of title 11, United 
+                States Code, is amended--
+                            (i) by redesignating subsections (e) 
+                        through (i) as subsections (f) through (j), 
+                        respectively; and
+                            (ii) by inserting after subsection (d) the 
+                        following new subsection:
+    ``(e) Scope of Application.--Subchapter V of chapter 7 of this 
+title shall apply only in a case under such chapter concerning the 
+liquidation of a bank or a corporation organized under section 25A of 
+the Federal Reserve Act which operates, or operates as, a multilateral 
+clearing organization pursuant to section 409 of the Federal Deposit 
+Insurance Corporation Improvement Act of 1991.''.
+                    (B) Clearing bank liquidation.--Chapter 7 of title 
+                11, United States Code, is amended by adding at the end 
+                the following new subchapter:
+
+               ``Subchapter V--Clearing Bank Liquidation
+
+``Sec. Sec. 781. Definitions.
+    ``For purposes of this subchapter, the following definitions shall 
+apply:
+            ``(1) Board.--The term `Board' means the Board of Governors 
+        of the Federal Reserve System.
+            ``(2) Depository institution.--The term `depository 
+        institution' has the same meaning as in section 3 of the 
+        Federal Deposit Insurance Act, and includes any wholesale bank.
+            ``(3) Clearing bank.--The term `clearing bank' means a 
+        national or State bank, or a corporation organized under 
+        section 25A of the Federal Reserve Act, which operates, or 
+        operates as, a multilateral clearing organization pursuant to 
+        section 409 of the Federal Deposit Insurance Corporation 
+        Improvement Act of 1991.
+``Sec. Sec. 782. Selection of trustee
+    ``(a) In General.--
+            ``(1) Appointment.--Notwithstanding any other provision of 
+        this title, the conservator or receiver who files the petition 
+        shall be the trustee under this chapter, unless the Comptroller 
+        of the Currency (in the case of a clearing bank for which the 
+        Comptroller of the Currency appointed a conservator or 
+        receiver) or the Board (in the case of any clearing bank for 
+        which the Board appointed a conservator or receiver) designates 
+        an alternative trustee.
+            ``(2) Successor.--The Comptroller of the Currency or the 
+        Board of Governors of the Federal Reserve System (as the case 
+        may be) may designate a successor trustee, if required.
+    ``(b) Authority of Trustee.--Whenever the Comptroller of the 
+Currency or the Board appoints or designates a trustee, chapter 3 and 
+sections 704 and 705 of this title shall apply to the Comptroller or 
+the Board, as applicable, in the same way and to the same extent that 
+they apply to a United States trustee.
+``Sec. Sec. 783. Additional powers of trustee
+    ``(a) Distribution of Nonestate Property.--The trustee under this 
+subchapter has power to distribute property not of the estate, 
+including distributions to customers that are mandated by subchapters 
+III and IV of this chapter.
+    ``(b) Disposition of Institution.--The trustee under this 
+subchapter may, after notice and a hearing--
+            ``(1) sell the clearing bank to a depository institution or 
+        consortium of depository institutions (which consortium may 
+agree on the allocation of the clearing bank among the consortium);
+            ``(2) merge the clearing bank with a depository 
+        institution;
+            ``(3) transfer contracts to the same extent as could a 
+        receiver for a depository institution under paragraphs (9) and 
+        (10) of section 11(e) of the Federal Deposit Insurance Act;
+            ``(4) transfer assets or liabilities to a depository 
+        institution;
+            ``(5) transfer assets and liabilities to a bridge bank as 
+        provided in paragraphs (1), (3)(A), (5), (6), of section 11(n) 
+        of the Federal Deposit Insurance Act, paragraphs (9) through 
+        (13) of such section, and subparagraphs (A) through (H) and 
+        subparagraph (K) of paragraph (4) of such section 11(n), except 
+        that--
+                    ``(A) the bridge bank to which such assets or 
+                liabilities are transferred shall be treated as a 
+                clearing bank for the purpose of this subsection; and
+                    ``(B) any references in any such provision of law 
+                to the Federal Deposit Insurance Corporation shall be 
+                construed to be references to the appointing agency and 
+                that references to deposit insurance shall be omitted.
+    ``(c) Certain Transfers Included.--Any reference in this section to 
+transfers of liabilities includes a ratable transfer of liabilities 
+within a priority class.
+``Sec. Sec. 784. Right to be heard
+    ``The Comptroller of the Currency (in the case of a clearing bank 
+for which the Comptroller of the Currency appointed a conservator or 
+receiver), the Board of Governors of the Federal Reserve System (in the 
+case of any clearing bank for which the Board appointed a conservator 
+or receiver), or a Federal reserve bank (in the case of a clearing bank 
+that is a member of that bank) may raise and may appear and be heard on 
+any issue in a case under this subchapter.''.
+    (c) Conforming Amendment.--The table of sections for chapter 7 of 
+title 11, United States Code, is amended by adding at the end the 
+following new items:
+
+               ``Subchapter V--Clearing Bank Liquidation
+
+``Sec.
+``781. Definitions.
+``782. Selection of trustee.
+``783. Additional powers of trustee.
+``784. Right to be heard.''.
+    (d) Resolution of Edge Act Corporations.--The 16th undesignated 
+paragraph of section 25A of the Federal Reserve Act (12 U.S.C. 624) is 
+amended to read as follows:
+            ``(16) Appointment of receiver or conservator.--
+                    ``(A) In general.--The Board may appoint a 
+                conservator or receiver for a corporation organized 
+                under the provisions of this section to the same extent 
+                and in the same manner as the Comptroller of the 
+                Currency may appoint a conservator or receiver for a 
+                national bank, and the conservator or receiver for such 
+                corporation shall exercise the same powers, functions, 
+                and duties, subject to the same limitations, as a 
+                conservator or receiver for a national bank.
+                    ``(B) Equivalent authority.--The Board shall have 
+                the same authority with respect to any conservator or 
+                receiver appointed for a corporation organized under 
+                the provisions of this section under this paragraph and 
+                any such corporation as the Comptroller of the Currency 
+                has with respect to a conservator or receiver of a 
+                national bank and the national bank for which a 
+                conservator or receiver has been appointed.
+                    ``(C) Title 11 petitions.--The Board may direct the 
+                conservator or receiver of a corporation organized 
+                under the provisions of this section to file a petition 
+                pursuant to title 11, United States Code, in which 
+                case, title 11, United States Code, shall apply to the 
+                corporation in lieu of otherwise applicable Federal or 
+                State insolvency law.''.
+
+SEC. 7. RELATION TO STATE LAW.
+
+    No state or local law that prohibits or regulates gaming or the 
+operation of ``bucket shops'' (other than anti-fraud provisions of 
+general applicability) shall be deemed to govern or be in any way 
+applicable to any over-the-counter derivative instrument (as defined in 
+section 408(2) of the Federal Deposit Insurance Corporation Improvement 
+Act of 1991) to which a financial institution (as defined in or under 
+section 402(9) of such Act or in or under section 509(3)(A) of the 
+Gramm-Leach-Bliley Act) is a party.
+                                 <all>
+

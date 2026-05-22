@@ -1,0 +1,162 @@
+[Congressional Bills 109th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5491 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                H. R. 5491
+
+ To protect investors by fostering transparency and accountability of 
+              attorneys in private securities litigation.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 25, 2006
+
+Mr. Baker (for himself, Mr. McHenry, and Mr. Hensarling) introduced the 
+   following bill; which was referred to the Committee on Financial 
+  Services, and in addition to the Committee on the Judiciary, for a 
+ period to be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To protect investors by fostering transparency and accountability of 
+              attorneys in private securities litigation.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securities Litigation Attorney 
+Accountability and Transparency Act''.
+
+SEC. 2. LOSING PLAINTIFF'S ATTORNEY PAYS.
+
+    (a) Securities Exchange Act of 1934.--Section 21D(c) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78u-4(c)) is amended by 
+adding at the end the following new paragraph:
+            ``(4) Assessment of fees and expenses.--
+                    ``(A) Determination required.--If the court in any 
+                private action arising under this title enters a final 
+                judgment against a plaintiff on the basis of a motion 
+                to dismiss, motion for summary judgment, or a trial on 
+                the merits, the court shall, upon motion by the 
+                defendant, determine whether--
+                            ``(i) the position of the plaintiff was not 
+                        substantially justified;
+                            ``(ii) imposing fees and expenses on the 
+                        plaintiff's attorney would be just; and
+                            ``(iii) the cost of such fees and expenses 
+                        to the defendant is substantially burdensome or 
+                        unjust.
+                    ``(B) Award.--If the court makes the determinations 
+                described in clauses (i), (ii), and (iii) of 
+                subparagraph (A), the court shall award the defendant 
+                reasonable fees and other expenses incurred by the 
+                defendant and impose such fees and expenses on the 
+                plaintiff's attorney.
+                    ``(C) Basis of determination regarding position; 
+                burden of persuasion.--The determination of whether the 
+                position of the plaintiff was substantially justified 
+                shall be made on the basis of the record in the action 
+                for which fees and other expenses are sought, but the 
+                burden of persuasion shall be on the defendant.''.
+    (b) Securities Act of 1933.--Section 27(c) of the Securities Act of 
+1933 (15 U.S.C. 77z-1(c)) is amended by adding at the end the following 
+new paragraph:
+            ``(4) Assessment of fees and expenses.--
+                    ``(A) Determination required.--If the court in any 
+                private action arising under this title enters a final 
+                judgment against a plaintiff on the basis of a motion 
+                to dismiss, motion for summary judgment, or a trial on 
+                the merits, the court shall, upon motion by the 
+                defendant, determine whether--
+                            ``(i) the position of the plaintiff was not 
+                        substantially justified;
+                            ``(ii) imposing fees and expenses on the 
+                        plaintiff's attorney would be just; and
+                            ``(iii) the cost of such fees and expenses 
+                        to the defendant is substantially burdensome or 
+                        unjust.
+                    ``(B) Award.--If the court makes the determinations 
+                described in clauses (i), (ii), and (iii) of 
+                subparagraph (A), the court shall award the defendant 
+                reasonable fees and other expenses incurred by the 
+                defendant and impose such fees and expenses on the 
+                plaintiff's attorney.
+                    ``(C) Basis of determination regarding position; 
+                burden of persuasion.--The determination of whether the 
+                position of the plaintiff was substantially justified 
+                shall be made on the basis of the record in the action 
+                for which fees and other expenses are sought, but the 
+                burden of persuasion shall be on the defendant.''.
+
+SEC. 3. DISCLOSURES OF CONFLICTS OF INTEREST BETWEEN PLAINTIFF AND 
+              ATTORNEYS.
+
+    (a) Securities Exchange Act of 1934.--Section 21D(a) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78u-4(a)) is amended by 
+adding at the end the following new paragraph:
+            ``(10) Disclosures regarding conflicts of interest.--In any 
+        private action arising under this title, each plaintiff and any 
+        attorney for such plaintiff shall provide sworn certifications, 
+        which shall be personally signed by such plaintiff and such 
+        attorney, respectively, and filed with the complaint, that 
+        identifies any conflict of interest, including any direct or 
+        indirect payment, between such attorney and such plaintiff and 
+        between such attorney and any affiliated person of such 
+        plaintiff. The court shall make a determination of whether such 
+        conflict is sufficient to disqualify the attorney from 
+        representing the plaintiff.''.
+    (b) Securities Act of 1933.--Section 27(a) of the Securities Act of 
+1933 (15 U.S.C. 77z-1(a)) is amended by adding at the end the following 
+new paragraph:
+            ``(10) Disclosures regarding conflicts of interest.--In any 
+        private action arising under this title, each plaintiff and any 
+        attorney for such plaintiff shall provide sworn certifications, 
+        which shall be personally signed by such plaintiff and such 
+        attorney, respectively, and filed with the complaint, that 
+        identifies any conflict of interest, including any direct or 
+        indirect payment, between such attorney and such plaintiff and 
+        between such attorney and any affiliated person (as such term 
+        is defined in section 2(a)(3) of the Investment Company Act of 
+        1940 (15 U.S.C. 80a-3(a)(3))) of such plaintiff. The court 
+        shall make a determination of whether such conflict is 
+        sufficient to disqualify the attorney from representing the 
+        plaintiff.''.
+
+SEC. 4. SELECTION OF LEAD COUNSEL.
+
+    (a) Securities Exchange Act of 1934.--Section 21D(a)(3)(B)(v) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78u-4(a)(3)(B)(v)) is 
+amended by adding at the end the following: ``In exercising the 
+discretion of the court over the approval of lead counsel, the court 
+may employ alternative means in the selection and retention of counsel 
+for the most adequate plaintiff, including a competitive bidding 
+process.''.
+    (b) Securities Act of 1933.--Section 27(a)(3)(B)(v) of the 
+Securities Act of 1933 (15 U.S.C. 77z-1(a)(3)(B)(v)) is amended by 
+adding at the end the following: ``In exercising the discretion of the 
+court over the approval of lead counsel, the court may employ 
+alternative means in the selection and retention of counsel for the 
+most adequate plaintiff, including a competitive bidding process.''.
+                                 <all>
+

@@ -1,0 +1,76 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2996 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 2996
+
+ To amend the Securities Exchange Act of 1934 to revise the definition 
+               of limited partnership rollup transaction.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            November 9, 1997
+
+ Mr. Kennedy of Massachusetts introduced the following bill; which was 
+                 referred to the Committee on Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Securities Exchange Act of 1934 to revise the definition 
+               of limited partnership rollup transaction.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Partnership Rollup Efficiency Act''.
+
+SEC. 2. REVISION OF DEFINITION.
+
+    Section 14(h)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78n(h)(5)) is amended--
+            (1) by striking ``or'' at the end of subparagraph (E);
+            (2) by striking the period at the end of subparagraph (F) 
+        and inserting ``; or''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(G) any combination (whether by sale or transfer 
+                of assets, transfer of partnership interests, or 
+                otherwise) of--
+                            ``(i)(I) a single limited partnership, or
+                            ``(II) multiple limited partnerships whose 
+                        real estate assets consist solely of partial 
+                        interests in the same property, with
+                            ``(ii) an unaffiliated issuer of 
+                        securities,
+                where such combination is not conditioned upon the 
+                completion of any other acquisition transaction, in 
+                exchange for securities (or a combination or 
+                alternative offer of securities and cash), if the 
+                securities issued in the combination to the limited 
+                partners in the combining partnership or partnerships 
+                represent 10 percent or less of a class of securities 
+                that is, or will be upon notice of issuance, listed on 
+                the New York Stock Exchange or American Stock Exchange 
+                or the National Market System of the Nasdaq Stock 
+                Market (or any successor to such entities) and are part 
+                of a class of securities so listed for a year or 
+                more.''.
+                                 <all>
+

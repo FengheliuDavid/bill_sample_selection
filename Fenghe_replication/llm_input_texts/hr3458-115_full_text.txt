@@ -1,0 +1,122 @@
+[Congressional Bills 115th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3458 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+115th CONGRESS
+  1st Session
+                                H. R. 3458
+
+  To require certain semiautomatic pistols manufactured, imported, or 
+   sold by Federal firearms licensees to be capable of microstamping 
+ammunition, and to prohibit the removal, obliteration, or alteration of 
+    the microstamped code or microstamping capability of a firearm.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 27, 2017
+
+  Mr. Brown of Maryland (for himself, Mr. Brady of Pennsylvania, Mr. 
+Cicilline, Mr. Connolly, Mr. Gutierrez, Mr. Larson of Connecticut, Mr. 
+  McEachin, Ms. Norton, Mr. Raskin, Ms. Schakowsky, Mr. Serrano, Mr. 
+   Suozzi, and Mr. Vargas) introduced the following bill; which was 
+               referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To require certain semiautomatic pistols manufactured, imported, or 
+   sold by Federal firearms licensees to be capable of microstamping 
+ammunition, and to prohibit the removal, obliteration, or alteration of 
+    the microstamped code or microstamping capability of a firearm.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Make Identifiable Criminal Rounds 
+Obvious Act'' or the ``MICRO Act''.
+
+SEC. 2. REQUIREMENT THAT CERTAIN SEMIAUTOMATIC PISTOLS MANUFACTURED, 
+              IMPORTED, OR SOLD BY FEDERAL FIREARMS LICENSEES BE 
+              CAPABLE OF MICROSTAMPING AMMUNITION.
+
+    Section 923 of title 18, United States Code, is amended by adding 
+at the end the following:
+    ``(m)(1)(A) A person licensed under this chapter shall not 
+manufacture, import, or transfer a semiautomatic pistol to which this 
+subparagraph applies that is not capable of microstamping ammunition.
+    ``(B) For purposes of subparagraph (A), a pistol is capable of 
+microstamping ammunition if--
+            ``(i) a microscopic array of characters that identify the 
+        make, model, and serial number of the pistol is etched into the 
+        breech face and firing pin of the pistol; and
+            ``(ii) when ammunition is fired from the pistol, the 
+        characters are copied from the breech face and firing pin onto 
+        the cartridge case of the ammunition.
+    ``(C) Subparagraph (A) shall apply only to semiautomatic pistols 
+which--
+            ``(i) are manufactured, or imported into the United States, 
+        on or after the effective date of this subsection; and
+            ``(ii) have not been transferred to a person not licensed 
+        under this chapter.
+    ``(2) Whoever violates paragraph (1) shall be fined an amount equal 
+to--
+            ``(A) in the case of a first such violation by the 
+        violator, $1,000 multiplied by the number of semiautomatic 
+        pistols involved in the violation;
+            ``(B) in the case of a second such violation by the 
+        violator, $2,000 multiplied by the number of semiautomatic 
+        pistols involved in the violation; or
+            ``(C) in the case of a third such violation by the 
+        violator, $3,000 multiplied by the number of semiautomatic 
+        pistols involved in the violation.''.
+
+SEC. 3. PROHIBITION ON THE REMOVAL, OBLITERATION, OR ALTERATION OF THE 
+              MICROSTAMPED CODE OR MICROSTAMPING CAPABILITY OF A 
+              FIREARM.
+
+    (a) In General.--Section 922 of title 18, United States Code, is 
+amended by inserting after subsection (t) the following:
+    ``(v)(1) It shall be unlawful for any person to remove, obliterate, 
+or alter the microstamped code or microstamping capability of a firearm 
+that has been shipped or transported in interstate or foreign commerce.
+    ``(2) Paragraph (1) shall not apply to the replacement of a firing 
+pin that is damaged or worn, and is in need of replacement.''.
+    (b) Penalties.--Section 924 of such title is amended by adding at 
+the end the following:
+    ``(q)(1)(A) In the case of a knowing violation of section 922(v), 
+the Attorney General may, after notice and opportunity for hearing--
+            ``(i) subject the violator to a civil penalty in an amount 
+        equal to not more than $5,000; and
+            ``(ii) if the violator is a licensed manufacturer, licensed 
+        importer, or licensed dealer, suspend for not more than 6 
+        months, or revoke, any license issued to the licensee under 
+        this chapter.
+    ``(B) An action under subparagraph (A) may be reviewed only as 
+provided under section 923(f).
+    ``(2) The suspension or revocation of a license or the imposition 
+of a civil penalty under paragraph (1) shall not preclude any 
+administrative remedy that is otherwise available to the Attorney 
+General.''.
+
+SEC. 4. EFFECTIVE DATE.
+
+    The amendments made by this Act shall take effect on the date that 
+is 2 years after the date of the enactment of this Act.
+                                 <all>
+

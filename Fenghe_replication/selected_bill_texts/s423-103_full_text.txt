@@ -1,0 +1,416 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[S. 423 Engrossed Amendment House (EAH)]
+
+                In the House of Representatives, U. S.,
+
+                                                       October 5, 1994.
+      Resolved, That the bill from the Senate (S. 423) entitled ``An 
+Act to provide for recovery of costs of supervision and regulation of 
+investment advisers and their activities, and for other purposes'', do 
+pass with the following
+
+                               AMENDMENT:
+
+        Strike out all after the enacting clause and insert:
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Investment Advisers Amendments of 
+1994''.
+
+SEC. 2. ADDITIONAL RESOURCES FOR INVESTMENT ADVISER SUPERVISION.
+
+    (a) Fees for Registrants and Applicants.--The Investment Advisers 
+Act of 1940 (15 U.S.C. 80b-1 et seq.) is amended by inserting after 
+section 203 the following new section:
+
+                 ``fees for registrants and applicants
+
+    ``Sec. 203A. (a) In General.--The Commission is authorized, in 
+accordance with this section, to collect fees to recover the costs of 
+registration, supervision, and regulation of investment advisers and 
+their activities. Any such fees shall be collected, and shall be 
+available, only to the extent provided in advance in appropriations 
+Acts. No appropriations Act may authorize fees to be collected under 
+this section during any fiscal year after fiscal year 1995, unless the 
+amount appropriated by such Act for such costs for such fiscal year 
+equals or exceeds the aggregate amount that may reasonably be expected 
+to be collected by such fees. Any such fees shall be deposited as an 
+offsetting collection to the Commission's appropriation and may remain 
+available for such purposes for the succeeding fiscal year. The costs 
+covered by such fees shall be limited to the costs of Commission 
+expenses for registration, examinations, and surveys of persons 
+registered or required to register under this title.
+    ``(b) Time for Payment.--
+            ``(1) New registrants.--At the time of filing an 
+        application for registration under this title, the applicant 
+        shall pay to the Commission the fee specified in subsection 
+        (c). No part of such fee shall be refunded to the applicant. 
+        The filing of an application for registration under this title 
+        shall not be deemed to have occurred unless the application is 
+        accompanied by the fee required under subsection (c).
+            ``(2) Ongoing registrants.--Each investment adviser, the 
+        registration of which is effective on the last day of its 
+        fiscal year, shall pay the Commission the fee specified in 
+        subsection (c). Such payment shall be made not later than 90 
+        days after the end of its fiscal year, or at such other time as 
+        the Commission, by rule, shall determine, unless its 
+        registration has been withdrawn, canceled, or revoked prior to 
+        that date. No part of such fee shall be refunded to the 
+        investment adviser.
+    ``(c) Cost-Based Schedule of Fees.--For any fiscal year for which 
+fees are authorized to be collected by an appropriations Act, the 
+amount of any fees due from investment advisers in accordance with 
+subsection (b) shall be determined according to the following schedule:
+
+``Assets under management                                      Fee due:
+    Less than $10,000,000.........................                 $300
+    $10,000,000 or more, but less than $25,000,000                 $500
+    $25,000,000 or more, but less than $50,000,000               $1,000
+    $50,000,000 or more, but less than                           $2,500
+        $100,000,000.
+    $100,000,000 or more, but less than                          $4,000
+        $250,000,000.
+    $250,000,000 or more, but less than                          $5,000
+        $500,000,000.
+    $500,000,000 or more..........................              $7,000.
+    ``(d) Suspension for Failure To Pay.--The Commission, by order, may 
+suspend the registration of any investment adviser if it finds, after 
+notice, that such investment adviser has failed to pay when due any fee 
+required by this section. The Commission shall reinstate such 
+registration upon payment of the fee (and any penalty due), if such 
+suspension was based solely on the failure to pay the fee.
+    ``(e) Definition of Assets Under Management.--As used in this 
+section, the term `assets under management' means the client assets 
+with respect to which an investment adviser provides continuous and 
+regular supervisory or management services.
+    ``(f) Rulemaking.--The Commission may adopt such rules as are 
+necessary to carry out this section.''.
+    (b) Effective Date.--The amendments made by this section shall 
+become effective--
+            (1) in the case of section 203A(f) of the Investment 
+        Advisers Act of 1940 (as added by this section), upon the date 
+        of enactment of this Act; and
+            (2) in the case of subsections (a) through (e) of section 
+        203A of the Investment Advisers Act of 1940 (as added by this 
+        section), upon the adoption by the Securities and Exchange 
+        Commission of implementing rules in accordance with section 
+        203A(f) of such Act.
+
+SEC. 3. SURVEYS.
+
+    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is 
+amended by inserting after section 222 the following new section:
+
+                               ``surveys
+
+    ``Sec. 223. (a) Surveys of Unregistered Persons.--
+            ``(1) In general.--The Commission shall, not later than 3 
+        years after the date of enactment of this section, and 
+        thereafter as appropriate, provide for the conduct of a survey 
+        to determine the extent of, and reasons for, the failure of 
+        persons to register as required by this title.
+            ``(2) Actions based on survey.--The Commission shall, on 
+        the basis of the results of the survey conducted under 
+        paragraph (1), establish objectives for the reduction or 
+        elimination of any failures identified therein and shall 
+        include in any annual reports to the Congress under section 
+        23(b) of the Securities Exchange Act of 1934 submitted after 
+        completion of the first survey--
+                    ``(A) a statement of such objectives;
+                    ``(B) an evaluation of the success in attaining 
+                those objectives during the preceding year; and
+                    ``(C) such recommendations as the Commission 
+                considers appropriate to assist in the attainment of 
+                those objectives.
+            ``(3) Patterns of noncompliance.--If the survey conducted 
+        under paragraph (1) identifies any pattern of noncompliance 
+        with the registration requirements of this title and the rules 
+        issued under this title, the Commission shall undertake such 
+        rulemaking proceedings as may be necessary to correct such 
+        patterns of noncompliance.
+    ``(b) Provisions Not Limitation.--The provisions of this section 
+shall not be construed to limit the authority of the Commission to 
+issue rules under this title, to conduct an examination or 
+investigation at any time, or to institute proceedings under this title 
+or any other provision of law.''.
+
+SEC. 4. DESIGNATION OF SELF-REGULATORY ORGANIZATIONS.
+
+    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is 
+amended by inserting after section 223 (as added by section 3 of this 
+Act) the following new section:
+
+             ``designation of self-regulatory organizations
+
+    ``Sec. 224. (a) Designation To Conduct Examinations.--
+            ``(1) In general.--The Commission may by rule, consistent 
+        with the public interest, the protection of investors, and the 
+        purposes of this title, designate one or more self-regulatory 
+        organizations registered with the Commission under section 6 or 
+        15A of the Securities Exchange Act of 1934, to conduct periodic 
+        examinations of its members, and affiliates of members, that 
+        are registered or required to register under this title, to 
+        determine compliance with applicable provisions of this title 
+        and the rules and regulations issued under this title. Any such 
+        rule shall specify the minimum scope and frequency for such 
+        examinations and shall, to the extent consistent with the 
+        protection of investors, be designed to avoid unnecessary 
+        regulatory duplication or undue regulatory burdens.
+            ``(2) Authority of organization.--Any self-regulatory 
+        organization designated under paragraph (1) may discipline the 
+        members and affiliates of members described in parargraph (1) 
+        for violations of the applicable provisions of this title and 
+        the rules and regulations issued under this title pursuant to 
+        the standards and procedures set forth in sections 6, 15A, and 
+        19 of the Securities Exchange Act of 1934.
+            ``(3) Penalties.--Any money penalties imposed by a self-
+        regulatory organization for violations of this title shall not 
+        exceed those contained in section 203(i).
+    ``(b) Limitations.--
+            ``(1) Primary business limitation.--The Commission shall 
+        not exercise the designation authority contained in subsection 
+        (a) with respect to a member or affiliate of a member if the 
+        primary business of the member and its affiliates is investment 
+        advisory activities.
+            ``(2) Limitation with respect to affiliates of members.--
+        The Commission shall not exercise the authority contained in 
+        subsection (a) with respect to an affiliate of a member of a 
+        self-regulatory organization if--
+                    ``(A) the primary business of the affiliate is 
+                investment advisory activities;
+                    ``(B) the affiliate is an affiliate of the member 
+                solely as a result of the adviser's (or an associated 
+                person of the adviser's) registration with the member 
+                as a registered representative; and
+                    ``(C) the affiliate is a registered representative 
+                of the member solely to enable the adviser to execute 
+                transactions that are incidental to the investment 
+                adviser's primary business;
+        unless the Commission determines, in accordance with such other 
+        criteria as the Commission establishes by rule, that such 
+        exercise of designation authority is consistent with the public 
+        interest, the protection of investors, the purposes of this 
+        title, and the objectives of the Commission's investment 
+        adviser examination program.
+            ``(3) Limitation with respect to savings association 
+        affiliates of members.--The Commission shall not exercise the 
+        authority contained in subsection (a) with respect to an 
+        affiliate of a member of a self-regulatory organization if the 
+        affiliate is a savings association, as such term is defined in 
+        section 3(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 
+        1813(b)(1)).
+            ``(4) Definitional rules.--For purposes of this subsection, 
+        the Commission may, by rule, establish criteria for defining 
+        the terms `primary business' and `incidental to the investment 
+        adviser's primary business'.
+    ``(c) Authority To Impose Fees.--
+            ``(1) In general.--Any self-regulatory organization 
+        designated by the Commission to perform the examinations 
+        specified in subsection (a) shall have the authority to collect 
+        fees in accordance with this subsection.
+            ``(2) Limitation.--The total fee paid by a registered 
+        investment adviser under this subsection shall not exceed an 
+        amount determined in accordance with rules prescribed by the 
+        Commission. Such rules shall require that the fees collected by 
+        a self-regulatory organization under this subsection--
+                    ``(A) cover only the costs of the self-regulatory 
+                organization's expenses for examinations conducted 
+                pursuant to subsection (a);
+                    ``(B) as to any investment adviser, bear a 
+                reasonable relationship to the costs of conducting an 
+                examination of that adviser pursuant to subsection (a); 
+                and
+                    ``(C) not exceed such portion of the fee authorized 
+                under section 203A as the Commission determines is 
+                allocable to the Commission's expenses for conducting 
+                such an examination.
+            ``(3) Reduction of section 203a fees.--The amount of any 
+        fee that a registered investment adviser is required to pay to 
+        the Commission under section 203A with respect to any fiscal 
+        year shall be reduced by the amount paid to a self-regulatory 
+        organization in accordance with this subsection with respect to 
+        such fiscal year.
+    ``(d) Effective Date of Rule.--A rule issued by the Commission 
+under this section shall become effective not earlier than 90 days 
+after the date on which the Commission submits to the House of 
+Representatives and the Senate a report--
+            ``(1) containing the text of the proposed rule and the 
+        reasons therefor;
+            ``(2) describing the procedures to be used to coordinate 
+        the collection of fees by the Commission under section 203A and 
+        by a self-regulatory organization under the rule; and
+            ``(3) containing such other information as may be necessary 
+        to describe the implementation and enforcement of the rule.
+    ``(e) Definition.--For purposes of this section, the term 
+`affiliate' means any person directly or indirectly controlling, 
+controlled by, or under common control with a member of a self-
+regulatory organization.''.
+
+SEC. 5. ADDITIONAL DISCLOSURE OBLIGATIONS OF INVESTMENT ADVISERS.
+
+    (a) Disclosure Obligations.--Section 204 of the Investment Advisers 
+Act of 1940 (15 U.S.C. 80b-4) is amended--
+            (1) by striking the section heading and inserting the 
+        following:
+
+        ``periodic reports and other disclosure requirements'';
+
+            (2) by inserting ``(a) Periodic and Other Reports.--'' 
+        after ``Sec. 204.''; and
+            (3) by adding at the end the following new subsections:
+    ``(b) Review of Conflicts of Interest.--
+            ``(1) Examination.--The Commission shall, not later than 1 
+        year after the date of enactment of this subsection, examine 
+        the nature of the conflicts of interest with an investment 
+        adviser's fiduciary duties that may arise when an investment 
+        adviser is compensated on the basis of commissions or fees from 
+        the sale of investment products to clients or receives credits 
+        toward non-cash compensation.
+            ``(2) Rules.--On the basis of the examination conducted 
+        under paragraph (1), the Commission shall prescribe any rules 
+        that may be necessary and appropriate in the public interest or 
+        for the protection of investors and consistent with the 
+        purposes of this title to require that the existence and extent 
+        of any material conflicts of interest between investment 
+        advisers and their clients be fully disclosed. Such rules shall 
+        take into account the rules applicable to registered brokers 
+        and dealers and their associated persons under the Federal 
+        securities laws (including the rules of self-regulatory 
+        organizations registered thereunder).
+    ``(c) Facilities for Filing Records and Reports; Access to 
+Disciplinary and Other Information.--
+            ``(1) Filing depositories.--The Commission, by rule, may 
+        require any investment adviser--
+                    ``(A) to file with the Commission any fee, 
+                application, report, or notice required by this title 
+                or by the rules issued under this title through any 
+                entity designated by the Commission for that purpose; 
+                and
+                    ``(B) to pay all reasonable costs associated with--
+                            ``(i) such filing; and
+                            ``(ii) the maintenance of a process to 
+                        receive and respond to inquiries under 
+                        paragraph (2).
+            ``(2) Response to inquiries.--
+                    ``(A) In general.--An entity designated by the 
+                Commission under paragraph (1) shall--
+                            ``(i) establish and maintain a readily 
+                        accessible telephonic or other electronic 
+                        process to receive inquiries regarding 
+                        disciplinary actions and proceedings involving 
+                        investment advisers and persons associated with 
+                        investment advisers; and
+                            ``(ii) respond promptly to such inquiries.
+                    ``(B) Fees.--An entity designated by the Commission 
+                under paragraph (1) may charge a person, other than an 
+                individual investor, reasonable fees for the cost of 
+                providing written responses to inquiries.
+                    ``(C) Liability.--An entity designated by the 
+                Commission under paragraph (1) shall not be liable for 
+                any action taken or omitted in good faith under this 
+                paragraph.''.
+
+SEC. 6. COMPLETION OF RULEMAKING INITIATIVES REQUIRED.
+
+    Section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+4), as amended by section 5, is amended by adding at the end the 
+following new subsections:
+    ``(d) Registration Form Revisions.--
+            ``(1) Statements in annual reports.--The Commission shall 
+        include in each of the first 3 annual reports submitted 
+        pursuant to section 23(b) of the Securities Exchange Act of 
+        1934 after the date of enactment of this subsection a statement 
+        describing the status of--
+                    ``(A) the Commission's proposals for the revision 
+                of the form required for the registration of investment 
+                advisers under this title;
+                    ``(B) consultations with State securities 
+                commissions and other State authorities concerning the 
+                collection and dissemination of information contained 
+                on such form; and
+                    ``(C) the implementation of systems to collect and 
+                disseminate such information to enforce compliance with 
+                this title.
+            ``(2) Analysis required.--The first statement required by 
+        paragraph (1) shall include an analysis of the methods by which 
+        the revisions of such registration form will result in--
+                    ``(A) the timely and effective disclosure to 
+                investment adviser clients of material facts concerning 
+                the background, compensation, services, and practices 
+                of the adviser; and
+                    ``(B) the prominent disclosure to such clients of--
+                            ``(i) any conflicts of interest;
+                            ``(ii) methods available for securing 
+                        additional information concerning the adviser 
+                        and its employees;
+                            ``(iii) remedies available with respect to 
+                        disputes arising out of the advisory 
+                        relationship; and
+                            ``(iv) any conviction of the investment 
+                        adviser or any person associated with the 
+                        investment adviser within 10 years preceding 
+                        the filing of any application for registration, 
+                        or at any time thereafter, of any crime that is 
+                        punishable by imprisonment for 1 or more years, 
+                        or of a substantially equivalent crime by a 
+                        foreign court of competent jurisdiction.''.
+
+SEC. 7. BOND REQUIREMENT.
+
+    Section 208 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
+8) is amended by adding at the end the following new subsection:
+    ``(e)(1) The Commission may require, by rules and regulations for 
+the protection of investors, any investment adviser registered under 
+section 203 that--
+            ``(A) is authorized to exercise investment discretion, as 
+        defined in section 3(a)(35) of the Securities Exchange Act of 
+        1934, with respect to an account;
+            ``(B) has access to the securities or funds of a client; or
+            ``(C) is an investment adviser of an investment company, as 
+        defined in section 2(a)(20) of the Investment Company Act of 
+        1940,
+to obtain a bond from a reputable fidelity insurance company against 
+larceny and embezzlement in such reasonable amounts and covering such 
+officers, partners, directors, and employees of the investment adviser 
+as the Commission may prescribe.
+    ``(2) In implementing paragraph (1), the Commission shall 
+consider--
+            ``(A) the degree of risk to client assets that is involved;
+            ``(B) the cost and availability of fidelity bonds;
+            ``(C) existing fidelity bonding requirements;
+            ``(D) any alternative means to protect client assets; and
+            ``(E) the results, findings, and conclusions of the study 
+        required by paragraph (3).
+    ``(3) Before implementing paragraph (1), the Commission shall study 
+(and shall make such study and its conclusions and findings available 
+to the public)--
+            ``(A) the availability of fidelity bonds, both for large-
+        scale and small-scale investment advisers, and also for 
+        investment advisers not located in urban areas; and
+            ``(B) the impact of the provisions of paragraph (1) on the 
+        competitive position of small-scale investment advisers.
+    ``(4) If the Commission adopts any rule or regulation pursuant to 
+paragraph (1), the Commission may, by rule, exempt any person or class 
+of persons from the requirements of this subsection and the rules 
+issued under this subsection, under such terms or conditions and for 
+such period as the Commission shall prescribe. The Commission shall 
+exempt any investment adviser from the requirements of this subsection 
+if--
+            ``(A) fidelity bonds are not readily or reasonably 
+        available in the urban or rural areas in which such investment 
+        adviser is located; or
+            ``(B) the cost of obtaining a fidelity bond would have a 
+        substantial adverse impact on such investment adviser's 
+        competitive position.''.
+103d CONGRESS
+
+  2d Session
+
+                                 S. 423
+
+_______________________________________________________________________
+
+                               AMENDMENT
+

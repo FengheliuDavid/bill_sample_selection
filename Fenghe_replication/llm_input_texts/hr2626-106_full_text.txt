@@ -1,0 +1,498 @@
+[Congressional Bills 106th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2626 Introduced in House (IH)]
+
+
+
+
+
+
+
+106th CONGRESS
+  1st Session
+                                H. R. 2626
+
+To amend certain consumer protection laws to facilitate the electronic 
+             delivery of disclosures and other information.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 27, 1999
+
+ Mrs. Roukema (for herself, Mr. Lazio, and Mr. Inslee) introduced the 
+  following bill; which was referred to the Committee on Banking and 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend certain consumer protection laws to facilitate the electronic 
+             delivery of disclosures and other information.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Electronic Disclosures Delivery Act 
+of 1999''.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--The Congress finds as follows:
+            (1) Dramatic growth in the use of the Internet is enabling 
+        more consumers to access financial products and services on-
+        line.
+            (2) Electronic media also make it possible for consumer 
+        disclosures and other information to be provided more 
+        efficiently and in a more user-friendly fashion than in static, 
+        paper formats.
+            (3) To take full advantage of this new technology, however, 
+        it is desirable to clarify the provisions of certain consumer 
+        protection laws to facilitate delivery of disclosures and other 
+        information electronically.
+    (b) Purposes.--
+            (1) In general.--The purpose of this Act is to provide a 
+        procedure by which persons subject to Federal consumer 
+        protections laws may satisfy requirements for provision of 
+        disclosures, notices, and other information through electronic 
+        communications with the informed consent of consumers.
+            (2) Scope.--It is the purpose of this Act to address only 
+        electronic delivery of information to and from consumers and 
+        financial services providers and not to affect the substantive 
+        rights and responsibilities of any person or the content of any 
+        disclosure, including both the timing and format of disclosures 
+        and information to be provided.
+
+SEC. 3. ELECTRONIC COMMUNICATIONS MODERNIZATION.
+
+    (a) Amendments to Truth in Lending Act.--
+            (1) Definitions.--Section 103 of the Truth in Lending Act 
+        (15 U.S.C. 1602) is amended by adding at the end the following 
+        new subsection:
+    ``(cc) Definitions Relating to Electronic Communication.--
+            ``(1) Acknowledgment.--The term `acknowledgment' includes 
+        an electronic acknowledgment.
+            ``(2) Communication.--The term `communication' means any 
+        provision of information pursuant to this title and includes 
+        the delivery or provision of disclosures, booklets, notices, 
+        copies, written or printed materials, documents, records, 
+        statements, authorizations, and acknowledgments.
+            ``(3) Electronic acknowledgment.--The term `electronic 
+        acknowledgment' means an electronic identifying sound, symbol, 
+        or process, attached to or logically associated with an 
+        electronic communication and executed or adopted by a person 
+        with the intent and effect of--
+                    ``(A) establishing the assent or association of the 
+                person to the electronic communication in the same 
+manner and to the same extent that a physical signature establishes the 
+assent or association of an identifiable person to a physical document; 
+and
+                    ``(B) establishing, or permitting the establishment 
+                of, the form and content beyond a reasonable doubt as 
+                of the time of acknowledgment of an electronic 
+                communication to which the electronic acknowledgment is 
+                attached.
+            ``(4) Electronic communication.--The term `electronic 
+        communication' means a communication created, stored, 
+        generated, received, or transmitted by electronic means in a 
+        format that allows visual text to be displayed.
+            ``(5) Electronic.--The term `electronic' means of or 
+        relating to technology having electrical, digital, magnetic, 
+        optical, electromagnetic, or similar capabilities regardless of 
+        medium.''.
+            (2) Electronic communication.--The Truth in Lending Act (15 
+        U.S.C. 1601 et seq.) is amended by inserting after section 103 
+        the following new section:
+
+``SEC. 103A. ELECTRONIC COMMUNICATIONS.
+
+    ``(a) In General.--Any communication delivered pursuant to this 
+title (other than chapter 5) may be delivered in the form of an 
+electronic communication, and any acknowledgment which may be affixed 
+to a communication pursuant to this title (other than chapter 5) may be 
+affixed as an electronic acknowledgment to an electronic communication 
+if the person who is sent such communication or who provides an 
+acknowledgement--
+            ``(1) is provided with--
+                    ``(A) a description of the types of communications 
+                to be provided electronically;
+                    ``(B) an explanation of how to access and retain 
+                such electronic communications which directs the 
+                person's attention to consideration of the person's 
+                ability to print or download such disclosures; and
+                    ``(C) a notice of the period of time that the 
+                communications will be available to such person in 
+                electronic form; and
+            ``(2) expressly consents by electronic means to the 
+        electronic communication or the use of an electronic 
+        acknowledgment.
+    ``(b) Regulations.--The Board may--
+            ``(1) from time to time and with respect to federally 
+        related mortgage loans, in consultation with the Secretary of 
+        Housing and Urban Development, prescribe regulations to clarify 
+        the procedures applicable to the delivery of electronic 
+        communications provided for in this section; and
+            ``(2) without affecting or impairing the legal 
+        effectiveness of the delivery of any electronic communication 
+        provided in accordance with this section, prescribe procedures 
+        which provide consumers with the option to request paper copies 
+        of any such communications if the Board finds that such 
+        procedures are necessary and appropriate to supplement 
+        electronic communications.''.
+    (b) Amendments to Equal Credit Opportunity Act.--
+            (1) Definitions.--Section 702 of the Equal Credit 
+        Opportunity Act (15 U.S.C. 1691a) is amended by adding at the 
+        end the following new subsection:
+    ``(g) Definitions Relating to Electronic Communications.--
+            ``(1) Acknowledgment.--The term `acknowledgment' includes 
+        an electronic acknowledgment.
+            ``(2) Communication.--The term `communication' means any 
+        provision of information pursuant to this title and includes 
+        the delivery or provision of disclosures, booklets, notices, 
+        copies, written or printed materials, documents, records, 
+        statements, authorizations, and acknowledgments.
+            ``(3) Electronic acknowledgment.--The term `electronic 
+        acknowledgment' means an electronic identifying sound, symbol, 
+        or process, attached to or logically associated with an 
+        electronic communication and executed or adopted by a person 
+        with the intent and effect of--
+                    ``(A) establishing the assent or association of the 
+                person to the electronic communication in the same 
+                manner and to the same extent that a physical signature 
+                establishes the assent or association of an 
+                identifiable person to a physical document; and
+                    ``(B) establishing, or permitting the establishment 
+                of, the form and content beyond a reasonable doubt as 
+                of the time of acknowledgment of an electronic 
+                communication to which the electronic acknowledgment is 
+                attached.
+            ``(4) Electronic communication.--The term `electronic 
+        communication' means a communication created, stored, 
+        generated, received, or transmitted by electronic means in a 
+        format that allows visual text to be displayed.
+            ``(5) Electronic.--The term `electronic' means of or 
+        relating to technology having electrical, digital, magnetic, 
+        optical, electromagnetic, or similar capabilities regardless of 
+        medium.''.
+            (2) Electronic communication.--The Equal Credit Opportunity 
+        Act (15 U.S.C. 191 et seq.) is amended by inserting after 
+        section 702 the following new section:
+
+``SEC. 702A. ELECTRONIC COMMUNICATIONS.
+
+    ``(a) In General.--Any communication delivered pursuant to this 
+title may be delivered in the form of an electronic communication, and 
+any acknowledgment which may be affixed to a communication pursuant to 
+this title may be affixed as an electronic acknowledgment to an 
+electronic communication if the person who is sent such communication 
+or who provides an acknowledgment--
+            ``(1) is provided with--
+                    ``(A) a description of the types of communications 
+                to be provided electronically;
+                    ``(B) an explanation of how to access and retain 
+                such electronic communications which directs the 
+                person's attention to consideration of the person's 
+                ability to print or download such disclosures; and
+                    ``(C) a notice of the period of time that the 
+                communications will be available to such person in 
+                electronic form; and
+            ``(2) expressly consents by electronic means to the 
+        electronic communication or the use of an electronic 
+        acknowledgment.
+    ``(b) Regulations.--The Board may--
+            ``(1) from time to time prescribe regulations to clarify 
+        the procedures applicable to the delivery of electronic 
+        communications provided for in this section; and
+            ``(2) without affecting or impairing the legal 
+        effectiveness of the delivery of any electronic communication 
+        provided in accordance with this section, prescribe procedures 
+        which provide consumers with the option to request paper copies 
+        of any such communications if the Board finds that such 
+        procedures are necessary and appropriate to supplement 
+        electronic communications.''.
+    (c) Amendments to Fair Credit Reporting Act.--
+            (1) Definitions.--Section 603 of the Fair Credit Reporting 
+        Act (15 U.S.C. 1681a) is amended by adding at the end the 
+        following new subsection:
+    ``(q) Definitions Relating to Electronic Communication.--
+            ``(1) Acknowledgment.--The term `acknowledgment' includes 
+        an electronic acknowledgment.
+            ``(2) Communication.--The term `communication' means any 
+        provision of information pursuant to this title and includes 
+        the delivery or provision of disclosures, booklets, notices, 
+        copies, written or printed materials, documents, records, 
+        statements, authorizations, and acknowledgments.
+            ``(3) Electronic acknowledgment.--The term `electronic 
+        acknowledgment' means an electronic identifying sound, symbol, 
+        or process, attached to or logically associated with an 
+        electronic communication and executed or adopted by a person 
+        with the intent and effect of--
+                    ``(A) establishing the assent or association of the 
+                person to the electronic communication in the same 
+                manner and to the same extent that a physical signature 
+                establishes the assent or association of an 
+                identifiable person to a physical document; and
+                    ``(B) establishing, or permitting the establishment 
+                of, the form and content beyond a reasonable doubt as 
+                of the time of acknowledgment of an electronic 
+                communication to which the electronic acknowledgment is 
+                attached.
+            ``(4) Electronic communication.--The term `electronic 
+        communication' means a communication created, stored, 
+        generated, received, or transmitted by electronic means in a 
+        format that allows visual text to be displayed.
+            ``(5) Electronic.--The term `electronic' means of or 
+        relating to technology having electrical, digital, magnetic, 
+        optical, electromagnetic, or similar capabilities regardless of 
+        medium.''.
+            (2) Electronic communications.--The Fair Credit Reporting 
+        Act (15 U.S.C. 1681 et seq.) is amended by inserting after 
+        section 603 the following new section:
+
+``SEC. 603A. ELECTRONIC COMMUNICATIONS.
+
+    ``Any communication delivered pursuant to this title may be 
+delivered in the form of an electronic communication, and any 
+acknowledgment which may be affixed to a communication pursuant to this 
+title may be affixed as an electronic acknowledgment to an electronic 
+communication if the person who is sent such communication or who 
+provides an acknowledgment--
+            ``(1) is provided with--
+                    ``(A) a description of the types of communications 
+                to be provided electronically;
+                    ``(B) an explanation of how to access and retain 
+                such electronic communications which directs the 
+                person's attention to consideration of the person's 
+                ability to print or download such disclosures; and
+                    ``(C) a notice of the period of time that the 
+                communications will be available to such person in 
+                electronic form; and
+            ``(2) expressly consents by electronic means to the 
+        electronic communication or the use of an electronic 
+        acknowledgment.''.
+    (d) Amendments to Real Estate Settlement Procedures Act of 1974.--
+            (1) Definitions.--Section 3 of the Real Estate Settlement 
+        Procedures Act (12 U.S.C. 2602) is amended--
+                    (A) by striking ``and'' at the end of paragraph 
+                (7);
+                    (B) by striking the period at the end of paragraph 
+                (8) and inserting a semicolon; and
+                    (C) by adding at the end the following new 
+                paragraphs:
+            ``(9) the term `acknowledgment' includes an electronic 
+        acknowledgment;
+            ``(10) the term `communication' means any provision of 
+        information pursuant to this title and includes the delivery or 
+        provision of disclosures, booklets, notices, copies, written or 
+        printed materials, documents, records, statements, 
+        authorizations, and acknowledgments;
+            ``(11) the term `electronic acknowledgment' means an 
+        electronic identifying sound, symbol, or process, attached to 
+        or logically associated with an electronic communication and 
+        executed or adopted by a person with the intent and effect of--
+                    ``(A) establishing the assent or association of the 
+                person to the electronic communication in the same 
+                manner and to the same extent that a physical signature 
+                establishes the assent or association of an 
+                identifiable person to a physical document; and
+                    ``(B) establishing, or permitting the establishment 
+                of, the form and content beyond a reasonable doubt as 
+                of the time of acknowledgment of an electronic 
+                communication to which the electronic acknowledgment is 
+                attached;
+            ``(12) the term `electronic communication' means a 
+        communication created, stored, generated, received, or 
+        transmitted by electronic means in a format that allows visual 
+        text to be displayed; and
+            ``(13) the term `electronic' means of or relating to 
+        technology having electrical, digital, magnetic, optical, 
+        electromagnetic, or similar capabilities regardless of 
+        medium.''.
+            (2) Electronic communication.--The Real Estate Settlement 
+        Procedures Act (12 U.S.C. 2601 et seq.) is amended by inserting 
+        after section 3 the following new section:
+
+``SEC. 3A. ELECTRONIC COMMUNICATIONS.
+
+    ``(a) In General.--Any communication delivered pursuant to this Act 
+may be delivered in the form of an electronic communication, and any 
+acknowledgment which may be affixed to a communication pursuant to this 
+Act may be affixed as an electronic acknowledgment to an electronic 
+communication if the person who is sent such communication or who 
+provides an acknowledgment--
+            ``(1) is provided with--
+                    ``(A) a description of the types of communications 
+                to be provided electronically;
+                    ``(B) an explanation of how to access and retain 
+                such electronic communications which directs the 
+                person's attention to consideration of the person's 
+                ability to print or download such disclosures; and
+                    ``(C) a notice of the period of time that the 
+                communications will be available to such person in 
+                electronic form; and
+            ``(2) expressly consents by electronic means to the 
+        electronic communication or the use of an electronic 
+        acknowledgment.
+    ``(b) Regulations.--The Secretary may--
+            ``(1) from time to time and in consultation with the Board 
+        of Governors of the Federal Reserve System, prescribe 
+        regulations to clarify the procedures applicable to the 
+        delivery of electronic communications provided for in this 
+        section; and
+            ``(2) without affecting or impairing the legal 
+        effectiveness of the delivery of any electronic communication 
+        provided in accordance with this section, prescribe procedures 
+        which provide consumers with the option to request paper copies 
+        of any such communications if the Secretary finds that such 
+        procedures are necessary and appropriate to supplement 
+electronic communications.''.
+    (e) Amendments to Truth in Savings Act.--
+            (1) Definitions.--Section 274 of the Truth in Savings Act 
+        (12 U.S.C. 4313) is amended by adding at the end the following 
+        new paragraphs:
+            ``(9) Acknowledgment.--The term `acknowledgment' includes 
+        an electronic acknowledgment.
+            ``(10) Communication.--The term `communication' means any 
+        provision of information pursuant to this title and includes 
+        the delivery or provision of disclosures, booklets, notices, 
+        copies, written or printed materials, documents, records, 
+        statements, authorizations, and acknowledgments.
+            ``(11) Electronic acknowledgment.--The term `electronic 
+        acknowledgment' means an electronic identifying sound, symbol, 
+        or process, attached to or logically associated with an 
+        electronic communication and executed or adopted by a person 
+        with the intent and effect of--
+                    ``(A) establishing the assent or association of the 
+                person to the electronic communication in the same 
+                manner and to the same extent that a physical signature 
+                establishes the assent or association of an 
+                identifiable person to a physical document; and
+                    ``(B) establishing, or permitting the establishment 
+                of, the form and content beyond a reasonable doubt as 
+                of the time of acknowledgment of an electronic 
+                communication to which the electronic acknowledgment is 
+                attached.
+            ``(12) Electronic communication.--The term `electronic 
+        communication' means a communication created, stored, 
+        generated, received, or transmitted by electronic means in a 
+        format that allows visual text to be displayed.
+            ``(13) Electronic.--The term `electronic' means of or 
+        relating to technology having electrical, digital, magnetic, 
+        optical, electromagnetic, or similar capabilities regardless of 
+        medium.''.
+            (2) Electronic communication.--The Truth in Savings Act (12 
+        U.S.C. 4301 et seq.) is amended by inserting after section 274 
+        the following new section:
+
+``SEC. 275. ELECTRONIC COMMUNICATIONS.
+
+    ``(a) In General.--Any communication delivered pursuant to this 
+title may be delivered in the form of an electronic communication, and 
+any acknowledgment which may be affixed to a communication pursuant to 
+this title may be affixed as an electronic acknowledgment to an 
+electronic communication if the person who is sent such communication 
+or who provides an acknowledgment--
+            ``(1) is provided with--
+                    ``(A) a description of the types of communications 
+                to be provided electronically;
+                    ``(B) an explanation of how to access and retain 
+                such electronic communications which directs the 
+                person's attention to consideration of the person's 
+                ability to print or download such disclosures; and
+                    ``(C) a notice of the period of time that the 
+                communications will be available to such person in 
+                electronic form; and
+            ``(2) expressly consents by electronic means to the 
+        electronic communication or the use of an electronic 
+        acknowledgment.
+    ``(b) Regulations.--The Board may--
+            ``(1) from time to time prescribe regulations to clarify 
+        the procedures applicable to the delivery of electronic 
+        communications provided for in this section; and
+            ``(2) without affecting or impairing the legal 
+        effectiveness of the delivery of any electronic communication 
+        provided in accordance with this section, prescribe procedures 
+        which provide consumers with the option to request paper copies 
+        of any such communications if the Board finds that such 
+        procedures are necessary and appropriate to supplement 
+        electronic communications.''.
+    (f) Amendments Relating to Consumer Leasing.--
+            (1) Definitions.--Section 181 of the Truth in Lending Act 
+        (15 U.S.C. 1667) is amended by adding at the end the following 
+        new paragraphs:
+            ``(6) Acknowledgment.--The term `acknowledgment' includes 
+        an electronic acknowledgment.
+            ``(7) Communication.--The term `communication' means any 
+        provision of information pursuant to this title and includes 
+        the delivery or provision of disclosures, booklets, notices, 
+        copies, written or printed materials, documents, records, 
+        statements, authorizations, and acknowledgments.
+            ``(8) Electronic acknowledgment.--The term `electronic 
+        acknowledgment' means an electronic identifying sound, symbol, 
+        or process, attached to or logically associated with an 
+        electronic communication and executed or adopted by a person 
+        with the intent and effect of--
+                    ``(A) establishing the assent or association of the 
+                person to the electronic communication in the same 
+                manner and to the same extent that a physical signature 
+                establishes the assent or association of an 
+                identifiable person to a physical document; and
+                    ``(B) establishing, or permitting the establishment 
+                of, the form and content beyond a reasonable doubt as 
+                of the time of acknowledgment of an electronic 
+                communication to which the electronic acknowledgment is 
+                attached.
+            ``(9) Electronic communication.--The term `electronic 
+        communication' means a communication created, stored, 
+        generated, received, or transmitted by electronic means in a 
+        format that allows visual text to be displayed.
+            ``(10) Electronic.--The term `electronic' means of or 
+        relating to technology having electrical, digital, magnetic, 
+        optical, electromagnetic, or similar capabilities regardless of 
+        medium.''.
+            (2) Electronic communication.--Chapter 5 of the Truth in 
+        Lending Act (15 U.S.C. 1667 et seq.) is amended by inserting 
+        after section 181 the following new section:
+
+``SEC. 181A. ELECTRONIC COMMUNICATIONS.
+
+    ``(a) In General.--Any communication delivered pursuant to this 
+chapter may be delivered in the form of an electronic communication, 
+and any acknowledgment which may be affixed to a communication pursuant 
+to this chapter may be affixed as an electronic acknowledgment to an 
+electronic communication if the person who is sent such communication 
+or who provides an acknowledgment--
+            ``(1) is provided with--
+                    ``(A) a description of the types of communications 
+                to be provided electronically;
+                    ``(B) an explanation of how to access and retain 
+                such electronic communications which directs the 
+                person's attention to consideration of the person's 
+                ability to print or download such disclosures; and
+                    ``(C) a notice of the period of time that the 
+                communications will be available to such person in 
+                electronic form; and
+            ``(2) expressly consents by electronic means to the 
+        electronic communication or the use of an electronic 
+        acknowledgment.
+    ``(b) Regulations.--The Board may--
+            ``(1) from time to time prescribe regulations to clarify 
+        the procedures applicable to the delivery of electronic 
+        communications provided for in this section; and
+            ``(2) without affecting or impairing the legal 
+        effectiveness of the delivery of any electronic communication 
+        provided in accordance with this section, prescribe procedures 
+        which provide consumers with the option to request paper copies 
+        of any such communications if the Board finds that such 
+        procedures are necessary and appropriate to supplement 
+        electronic communications.''.
+                                 <all>
+

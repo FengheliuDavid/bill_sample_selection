@@ -1,0 +1,1218 @@
+[Congressional Bills 103th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 59 Introduced in House (IH)]
+
+103d CONGRESS
+  1st Session
+                                 H. R. 59
+
+ To increase the amount of credit available to fuel economic growth by 
+ reducing the regulatory burden imposed upon depository institutions, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 5, 1993
+
+ Mr. Bereuter introduced the following bill; which was referred to the 
+            Committee on Banking, Finance and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To increase the amount of credit available to fuel economic growth by 
+ reducing the regulatory burden imposed upon depository institutions, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Depository Institution Burden Relief 
+Act of 1993''.
+
+SEC. 2. PURPOSES.
+
+    The purposes of this Act are as follows:
+            (1) To increase regulatory efficiency by eliminating 
+        duplicative and needless regulatory requirements that are 
+        unrelated to assuring the safety and soundness of financial 
+        institutions.
+            (2) To reduce regulatory compliance burdens on capital-
+        efficient depository institutions, especially small, community-
+        oriented depository institutions, which come in the form of 
+        costly software purchases and hiring additional staff solely 
+        for regulatory compliance duties.
+            (3) To decrease statutory prescription of regulations of 
+        financial institutions.
+            (4) To increase the bank regulator's supervisory 
+        discretion, and thus, increase some flexibility in its 
+        examinations of financial institutions.
+            (5) To encourage bank regulators to return to a practice of 
+        reviewing its regulations and discarding stale ones.
+            (6) To ensure that bank attention is focused on complying 
+        with regulations that are designed to ensure safe and sound 
+        operation of the institutions.
+            (7) To reduce regulatory burdens for banks, the cost of 
+        which is eventually borne by the public--either by higher cost 
+        of services or in terms of less service.
+            (8) To ensure that Federal banking agency resources are 
+        targeted at those financial institutions operating in areas 
+        where banking services are a problem or in dispute.
+            (9) To reduce the cost of regulation of the banking 
+        industry to the Federal Government.
+
+                      TITLE I--SUPERVISORY REFORMS
+
+SEC. 101. COORDINATION OF FEDERAL AND STATE EXAMINATIONS TO REDUCE 
+              DUPLICATIVE EFFORTS.
+
+    (a) Reciprocity for State Examinations.--Section 10(d)(3) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1820(d)(3)) (as amended by 
+section 111 of the Federal Deposit Insurance Corporation Improvement 
+Act of 1991) is amended to read as follows:
+            ``(3) State examinations acceptable.--The examination 
+        requirement established under paragraph (1) may be satisfied by 
+        an examination of the insured depository institution conducted 
+        by the appropriate State bank supervisor during the 12-month 
+        period if the appropriate Federal banking agency determines 
+        that the State examination carries out the purposes of this 
+        subsection.''.
+    (b) State Coordination With Federal Examinations.--The appropriate 
+Federal banking agencies and appropriate State bank supervisors shall, 
+to the greatest extent practicable--
+            (1) coordinate examinations of insured depository 
+        institutions; and
+            (2) obtain and use copies of reports of examinations of 
+        insured depository institutions made by any other appropriate 
+        Federal banking agency or appropriate State bank supervisor.
+    (c) Technical and Conforming Amendment.--Section 3(r) of the 
+Federal Deposit Insurance Act (12 U.S.C. 1813(r)) is amended to read as 
+follows:
+    ``(r) Appropriate State Bank Supervisor.--The term `appropriate 
+State bank supervisor' means any officer, agency, or other entity of 
+any State which has primary regulatory authority over State banks or 
+State savings associations in such State.''.
+
+SEC. 102. COORDINATION OF FEDERAL AND STATE REPORTING REQUIREMENTS TO 
+              REDUCE DUPLICATIVE EFFORTS.
+
+    (a) State Access to Federal Agency Reports.--The 1st sentence of 
+section 7(a)(2)(A) of the Federal Deposit Insurance Act (12 U.S.C. 
+1817(a)(2)(A)) is amended by inserting ``and any appropriate State bank 
+supervisor'' after ``The Corporation''.
+    (b) State Coordination With Federal Reporting Requirements.--The 
+Federal banking agencies and State bank supervisors shall, to the 
+greatest extent practicable--
+            (1) coordinate the number, types, and frequency of reports 
+        (as defined in section 44(b)(4) of the Federal Deposit 
+        Insurance Act) required to be submitted by insured depository 
+        institutions and the type and amount of information required to 
+        be included in such reports; and
+            (2) obtain and use copies of reports of condition and other 
+        reports submitted by such institutions to any such agency or 
+        supervisor.
+
+SEC. 103. CONSOLIDATED REPORTS IN THE CASE OF CAPITAL-EFFICIENT 
+              DEPOSITORY INSTITUTION SUBSIDIARIES OF DEPOSITORY 
+              INSTITUTION HOLDING COMPANIES.
+
+    (a) In General.--The Federal Deposit Insurance Act (12 U.S.C. 1811 
+et seq.) is amended by adding at the end the following new section:
+
+``SEC. 44. REPORT AND REGULATORY RELIEF PROVISIONS.
+
+    ``(a) Consolidated Reports Allowed.--Notwithstanding any provision 
+of this Act, title LXII of the Revised Statutes, the Federal Reserve 
+Act, the Home Owners' Loan Act, or the Bank Holding Company Act of 1956 
+or any regulation prescribed under any such law, any provision of any 
+such law which requires the submission of any report to any appropriate 
+Federal banking agency by any capital-efficient insured depository 
+institution which is a subsidiary of a depository institution holding 
+company may be satisfied with respect to such depository institution by 
+a consolidated report by the holding company which consolidates the 
+information required to meet the requirements of such provision with 
+respect to each capital-efficient insured depository institution 
+subsidiary of the holding company.''.
+    (b) Capital-Efficient Insured Depository Institution Defined.--
+Section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)) 
+is amended by adding at the end the following new paragraph:
+            ``(6) Capital-efficient insured depository institution.--
+        The term `capital-efficient insured depository institution' 
+        means an insured depository institution which--
+                    ``(A) is adequately capitalized (as defined in 
+                section 38); and
+                    ``(B) has a CAMEL composite rating of 1 or 2 under 
+                the Uniform Financial Institution Rating System or an 
+                equivalent rating under a comparable system.''.
+
+SEC. 104. APPLICABILITY OF CERTAIN REQUIREMENTS RELATING TO EARLY 
+              IDENTIFICATION OF NEEDED IMPROVEMENTS.
+
+    Section 36 of the Federal Deposit Insurance Act (12 U.S.C. 1831m) 
+is amended by adding at the end the following new subsection:
+    ``(k) Applicability to Capital-Efficient Insured Depository 
+Institutions.--This section shall not apply with respect to any 
+capital-efficient insured depository institution.''.
+
+SEC. 105. REDUCTION IN SUBMISSION OF DUPLICATIVE INFORMATION.
+
+    Section 44 of the Federal Deposit Insurance Act (as added by 
+section 5 of this Act) is amended by inserting after subsection (a) the 
+following new subsection:
+    ``(b) Reduction in Submission of Duplicative Information.--
+            ``(1) Describing information previously submitted.--In the 
+        case of any information which--
+                    ``(A) is required to be included in a report 
+                submitted by any insured depository institution to an 
+                appropriate Federal banking agency pursuant to any 
+                provision of this Act, title LXII of the Revised 
+                Statutes, the Federal Reserve Act, the Home Owners' 
+                Loan Act, or the Bank Holding Company Act of 1956, or 
+                any regulation prescribed under any such law; and
+                    ``(B) was included in a report submitted by such 
+                institution (before the date of the submission of the 
+                report referred to in subparagraph (A)) to such agency 
+                or any other Federal banking agency,
+        the requirement to include such information in the report 
+        referred to in subparagraph (A) shall be deemed to be met if 
+        the report contains an explicit reference to the report in 
+        which such information was previously included.
+            ``(2) Coordination of information requirements.--
+                    ``(A) Submission of duplicative information 
+                prohibited.--Notwithstanding any provision of this Act, 
+                title LXII of the Revised Statutes, the Federal Reserve 
+                Act, the Home Owners' Loan Act, or the Bank Holding 
+                Company Act of 1956, or any regulation prescribed under 
+                any such law, a Federal banking agency may not require 
+                the submission by any insured depository institution of 
+                information which is available from any other Federal 
+                banking agency.
+                    ``(B) Consultation required.--The appropriate 
+                Federal banking agencies shall consult with each other 
+                through the Financial Institutions Examination Council 
+                on a regular basis to--
+                            ``(i) coordinate the manner in which 
+                        information is collected from insured 
+                        depository institutions; and
+                            ``(ii) ensure compliance with subparagraph 
+                        (A) and section 1012 of the Federal Financial 
+                        Institutions Examination Council Act of 1978.
+            ``(3) Prohibition on requiring the submission of more than 
+        1 copy of any report.--A Federal banking agency may not require 
+        the submission of more than 1 copy of any report, including any 
+        exhibit or other material required to be filed with any report, 
+        submitted by any insured depository institution to such agency.
+            ``(4) Reports defined.--For purposes of this section, the 
+        term `report' includes any application, notice, or other 
+        document.''.
+
+SEC. 106. PROHIBITION ON DATA COLLECTION WHICH IS UNRELATED TO SAFETY 
+              AND SOUNDNESS.
+
+    (a) Limitation on Data Collection Authority.--Section 44 of the 
+Federal Deposit Insurance Act (as added by section 5 of this Act) is 
+amended by inserting after subsection (b) (as added by section 7 of 
+this Act) the following new subsection:
+    ``(c) Prohibition on Data Collection Which Is Not Related to Safety 
+and Soundness.--Notwithstanding any other provision of this Act other 
+than section 8, an appropriate Federal banking agency may not require 
+an insured depository institution to submit any information which is 
+not related to--
+            ``(1) the safety or soundness of the institution;
+            ``(2) the insured deposits of the institution; or
+            ``(3) reserve requirements applicable with respect to the 
+        institution,
+in connection with any report, application, notice or other document 
+otherwise authorized or required under this Act.''.
+    (b) Repeal of Other Reporting Burdens.--
+            (1) Section 122 of the Federal Deposit Insurance 
+        Corporation Improvement Act of 1991 is repealed.
+            (2) Section 477 of the Federal Deposit Insurance 
+        Corporation Improvement Act of 1991 is repealed.
+
+SEC. 107. REDUCTION OF CALL REPORT BURDENS.
+
+    (a) ``Short Form'' Call Report for Capital-Efficient Depository 
+Institutions.--Section 44 of the Federal Deposit Insurance Act (as 
+added by section 5 of this Act) is amended by inserting after 
+subsection (c) (as added by section 8 of this Act) the following new 
+subsection:
+    ``(d) `Short Form' Call Report.--
+            ``(1) In general.--Notwithstanding any provision of this 
+        Act, title LXII of the Revised Statutes, the Federal Reserve 
+        Act, or the Home Owners' Loan Act, or any regulation prescribed 
+        pursuant to any such provision, no capital-efficient insured 
+        depository institution shall be required by any appropriate 
+        Federal banking agency to include any information in any report 
+        of condition submitted by such institution other than the 
+        following information:
+                    ``(A) Income statement.
+                    ``(B) Balance sheet, including risk-based capital.
+                    ``(C) Schedule of off-balance sheet items.
+            ``(2) Nonapplicability in case of false or misleading 
+        reports.--This subsection shall not apply to any insured 
+        depository institution which--
+                    ``(A) fails to make any report of condition 
+                described in paragraph (1) within the period of time 
+                required, or submits a false or misleading report of 
+                condition during the 10-year period beginning on the 
+                date the appropriate Federal banking agency determines 
+                that such action or failure to act has occurred, unless 
+                the institution demonstrates to the satisfaction of 
+                such agency--
+                            ``(i) that--
+                                    ``(I) the institution maintains 
+                                procedures reasonably adapted to avoid 
+                                any inadvertent error; and
+                                    ``(II) the failure to file the 
+                                report within the period of time 
+                                required or the submission of a false 
+                                or misleading report was unintentional 
+                                and a result of such inadvertent error; 
+                                or
+                            ``(ii) in the case of a report submitted 
+                        after the period of time required, that--
+                                    ``(I) the report was minimally 
+                                late; and
+                                    ``(II) the late submission by the 
+                                institution was inadvertent; or
+                    ``(B) is required by order to file a report of 
+                condition.''.
+    (b) Repeal of Publication Requirements.--
+            (1) The 5th sentence of section 5211(a) of the Revised 
+        Statutes (12 U.S.C. 161(a)) is amended by striking ``; and the 
+        statement of resources and liabilities in the same form in 
+        which it is made to the Comptroller shall be published in a 
+        newspaper'' and all that follows through the period and 
+        inserting a period.
+            (2) Section 5211(c) of the Revised Statutes (12 U.S.C. 
+        161(c)) is amended by striking the 5th sentence.
+            (3) Section 7(a)(1) of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1817(a)(1)) is amended by striking the 4th sentence.
+            (4) The last sentence of the 6th undesignated paragraph of 
+        section 9 of the Federal Reserve Act (12 U.S.C. 324) is amended 
+        by striking ``and shall be published'' and all that follows 
+        through the end of the sentence and inserting a period.
+    (c) Reduction of Other Call Report Burdens.--
+            (1) In general.--Before the end of the 120-day period 
+        beginning on the date of enactment of this Act, each 
+        appropriate Federal banking agency shall review the regulatory 
+        burden and costs incurred by insured depository institutions in 
+        connection with their preparation of reports of condition.
+            (2) Factors to be considered.--In conducting the review 
+        required under paragraph (1), each agency shall consider all 
+        relevant factors that the agency determines to be necessary to 
+        correctly determine the extent of the burden and costs, 
+        including--
+                    (A) the actual dollar cost to insured depository 
+                institutions in preparing such reports;
+                    (B) the time and resources expended to meet 
+                regulatory directives;
+                    (C) the frequency with which the agency has 
+                modified the types of information required to be 
+                reported in such reports and the costs and burdens 
+                associated with complying with such modifications;
+                    (D) the types of report of condition information 
+                required of other types of insured depository 
+                institutions by such institutions' appropriate Federal 
+                banking agencies; and
+                    (E) the extent to which such costs and burdens 
+                impact upon the availability of credit.
+            (3) Corrective measures.--
+                    (A) In general.--After conducting the review 
+                required under paragraph (1), each appropriate Federal 
+                banking agency shall, in consultation with the other 
+                appropriate Federal banking agencies, revise the 
+                agency's report of condition requirements to eliminate 
+                any unnecessary burdens and costs.
+                    (B) Consideration of burdens and costs.--Before 
+                making any subsequent modification in report of 
+                condition requirements, each appropriate Federal 
+                banking agency shall consider the extent to which such 
+                modifications impose unnecessary regulatory burdens and 
+                costs upon insured depository institutions.
+            (4) Amendment relating to national banks.--Section 5211(a) 
+        of the Revised Statutes (12 U.S.C. 161(a)) is amended by adding 
+        at the end the following sentence: ``Any change in the form of 
+        report of condition made under this subsection shall be 
+        effective only once in a particular calendar year, and only 
+        after at least 6 months from the date that notice of the change 
+        is published in the Federal Register, except that such a change 
+        may be effective on a subsequent date or after less notice if 
+        the Comptroller makes a specific finding that an additional 
+        change in the form or a shorter advance-notice period is 
+        necessary because of an emergency or change in Federal law.''.
+            (5) Amendment relating to state non-member insured banks.--
+        Section 7(a) of the Federal Deposit Insurance Act (12 U.S.C. 
+        1817(a) is amended by adding at the end the following new 
+        paragraph:
+            ``(10) Transition period for changes in report 
+        requirements.--Any change in the form of reports of condition 
+        made under this subsection shall be effective only once in a 
+        particular calendar year, and only after at least 6 months from 
+        the date that notice of the change is published in the Federal 
+        Register, except that such a change may be effective on a 
+        subsequent date or after less notice if the Board of Directors 
+        makes a specific finding that an additional change in the form 
+        or a shorter advance-notice period is necessary because of an 
+        emergency or change in Federal law.''.
+            (6) Amendment relating to state member banks.--The 6th 
+        undesignated paragraph of section 9 of the Federal Reserve Act 
+        (12 U.S.C. 324) is amended by adding at the end the following 
+        sentence: ``Any change in the form of report of condition made 
+        under this subsection shall be effective only once in a 
+        particular calendar year, and only after at least 6 months from 
+        the date that notice of the change is published in the Federal 
+        Register, except that such a change may be effective on a 
+        subsequent date or after less notice if the Board of Governors 
+        of the Federal Reserve System makes a specific finding that an 
+        additional change in the form or a shorter advance-notice 
+        period is necessary because of an emergency or change in 
+        Federal law.''.
+            (7) Amendment relating to savings association.--Section 
+        5(v) of the Home Owners' Loan Act (12 U.S.C. 1464(v)) is 
+        amended by adding at the end the following new paragraph:
+            ``(9) Transition period for changes in report 
+        requirements.--Any change in the form of reports of condition 
+        made under this subsection shall be effective only once in a 
+        particular calendar year, and only after at least 6 months from 
+        the date that notice of the change is published in the Federal 
+        Register, except that such a change may be effective on a 
+        subsequent date or after less notice if the Director makes a 
+        specific finding that an additional change in the form or a 
+        shorter advance-notice period is necessary because of an 
+        emergency or change in Federal law.''.
+            (8) Amendment relating to credit unions.--Section 202(a)(1) 
+        of the Federal Credit Union Act (12 U.S.C. 1782(a)(1)) is 
+        amended by adding at the end the following sentence: ``Any 
+        change in the form of reports of condition made under this 
+        subsection shall be effective only once in a particular 
+        calendar year, and only after at least 6 months from the date 
+        that notice of the change is published in the Federal Register, 
+        except that such a change may be effective on a subsequent date 
+        or after less notice if the Board makes a specific finding that 
+        an additional change in the form or a shorter advance-notice 
+        period is necessary because of an emergency or change in 
+        Federal law.''.
+            (9) Definitions.--For purposes of this subsection, the 
+        terms ``insured depository institution'' and ``appropriate 
+        Federal banking agency'' shall have the same meanings as 
+        provided in section 3 of the Federal Deposit Insurance Act.
+    (d) Effective Date.--The amendment made by subsection (a) shall 
+apply with respect to reports of conditions for periods beginning after 
+the first September 30 which occurs not less than 6 months after the 
+date of the enactment of this Act.
+
+SEC. 108. REGULATORY STANDARDS FOR CAPITAL-EFFICIENT DEPOSITORY 
+              INSTITUTIONS.
+
+    Section 39 of the Federal Deposit Insurance Act (as added by 
+section 132 of the Federal Deposit Insurance Corporation Improvement 
+Act of 1991) is amended--
+            (1) by redesignating subsections (d), (e), (f), and (g) as 
+        subsections (e), (f), (g), and (h), respectively; and
+            (2) by inserting after subsection (c) the following new 
+        subsection:
+    ``(d) Standards for Capital-Efficient Depository Institutions.--
+Subsections (a), (b), and (c) shall not apply with respect to any 
+capital-efficient insured depository institution.''.
+
+SEC. 109. AMENDMENT RELATING TO CERTAIN NOTICE REQUIREMENTS.
+
+    Section 42 of the Federal Deposit Insurance Act (12 U.S.C. 1831s) 
+is amended by adding at the end the following new subsections:
+    ``(d) Applicability to `Outstanding' Institutions.--This section 
+shall not apply with respect to any insured depository institution 
+which received a rating of `outstanding record of meeting community 
+credit needs' in the most recent examination of such institution under 
+section 804 of the Community Reinvestment Act of 1977.
+    ``(e) Branch Defined.--For purposes of this section, the term 
+`branch' shall not include--
+            ``(1) an automated teller machine;
+            ``(2) a branch acquired through merger, consolidation, 
+        purchase, assumption or other method that is located in a local 
+        market area currently served by another branch of the acquiring 
+        institution;
+            ``(3) a branch that is closed and reopened in another 
+        location within the same local market area which would continue 
+        to provide banking services to substantially all of the 
+        customers currently served by the branch that is closed;
+            ``(4) a branch that is closed in connection with--
+                    ``(A) an emergency acquisition under--
+                            ``(i) section 11(n); or
+                            ``(ii) subsections (f) or (k) of section 
+                        13; or
+                    ``(B) any assistance provided by the Corporation 
+                under section 13(c); and
+            ``(5) any other branch that is closed and for which 
+        exemption from the notice requirements of this section would 
+        not produce a result inconsistent with the purposes of this 
+        section, as determined by the appropriate Federal banking 
+        agency by regulation.''.
+
+SEC. 110. REGULATORY BURDEN REVIEW.
+
+    (a) In General.--Before the end of each 4-year period beginning on 
+the date of the enactment of this Act, each Federal banking agency, in 
+consultation with individuals representing insured depository 
+institutions, consumers, community groups, and other interested 
+parties, shall--
+            (1) review the regulations, policies and procedures, and 
+        recordkeeping and documentation requirements used to monitor 
+        and enforce compliance with all laws under the jurisdiction of 
+        the Federal banking agencies;
+            (2) determine whether such regulations, policies, 
+        procedures, and requirements impose unnecessary burdens on 
+        insured depository institutions; and
+            (3) identify and prescribe any revisions of such 
+        regulations, policies, procedures, and requirements that could 
+        reduce unnecessary burdens on insured depository institutions 
+        without in any respect--
+                    (A) diminishing either compliance with or 
+                enforcement of consumer laws in any respect; or
+                    (B) endangering the safety and soundness of insured 
+                depository institutions.
+    (b) Report.--At the end of each 4-year period beginning on the date 
+of the enactment of this Act, each Federal banking agency shall submit 
+to the Congress a report describing the revisions identified under 
+subsection (a)(3).
+    (c) Uniform Regulations.--In prescribing regulations on any matter 
+or issuing any interpretation of any such regulation, each appropriate 
+Federal banking agency shall ensure, subject to any other applicable 
+provision of law, that the regulation, and any formal or informal 
+interpretation of such regulation, are uniform with the regulations and 
+interpretations of each other appropriate Federal banking agency 
+regarding such matter.
+    (d) Definitions.--For purposes of this section--
+            (1) Appropriate federal banking agency.--The term 
+        ``appropriate Federal banking agency'' has the meaning given to 
+        such term in section 3(q) of the Federal Deposit Insurance Act.
+            (2) Insured depository institution.--The term ``insured 
+        depository institution'' has the meaning given to such term in 
+        section 3(c)(2) of the Federal Deposit Insurance Act.
+
+SEC. 111. REPEAL OF INTERBANK LIABILITY PROVISIONS.
+
+    Section 23 of the Federal Reserve Act (12 U.S.C. 371b-2) is 
+repealed.
+
+SEC. 112. APPROVALS FOR CAPITAL-EFFICIENT STATE BANKS.
+
+    Section 24(g) of the Federal Deposit Insurance Act (12 U.S.C. 
+1831a(g)) is amended to read as follows:
+    ``(g) Determinations.--
+            ``(1) In general.--Except as provided in paragraph (2), the 
+        Corporation shall make determinations under this section by 
+        regulation or order.
+            ``(2) Expedited approval for certain well-qualified insured 
+        state banks.--If--
+                    ``(A) any State bank which is a capital-efficient 
+                insured depository institution files a notice with the 
+                Corporation which states the bank's intention to 
+                engage, directly or through a subsidiary, in any 
+                activity which is subject to subsection (a) or (d) and 
+                describes such activity; and
+                    ``(B) before the end of the 45-day period beginning 
+                on the date such notice is filed the Corporation has 
+                not determined that such activity poses a significant 
+                risk to the appropriate deposit insurance fund,
+        the Corporation shall be deemed to have determined as of the 
+        end of such period that such activity poses no significant risk 
+        to the appropriate deposit insurance fund.''.
+
+SEC. 113. COMMUNITY REINVESTMENT ACT AMENDMENTS.
+
+    (a) Self-Certification.--The Community Reinvestment Act of 1977 (12 
+U.S.C. 2901 et seq.) is amended by adding after section 808 the 
+following new sections:
+
+``SEC. 809. SELF-CERTIFICATION.
+
+    ``(a) Scope.--
+            ``(1) In general.--This section shall only apply during a 
+        calendar year to a regulated financial institution that--
+                    ``(A) has not been found to be in violation of 
+                section 701(a) of the Equal Credit Opportunity Act, or 
+                any other substantive provision of such Act, for the 5-
+                year period preceding such calendar year;
+                    ``(B) does not currently have a rating of `needs to 
+                improve' or `substantial noncompliance' from the 
+                appropriate Federal financial supervisory agency under 
+                section 807(b); and
+                    ``(C) had total assets, as of the preceding 
+                December 31, less than $250,000,000.
+            ``(2) Indexing of minimum total asset requirement.--For 
+        purposes of paragraph (1), the amount referred to in paragraph 
+        (1)(C) shall be adjusted annually after December 31, 1992, by 
+        the annual percentage increase in the Consumer Price Index for 
+        Urban Wage Earners and Clerical Workers published by the Bureau 
+        of Labor Statistics.
+    ``(b) Modified Reporting.--In lieu of being evaluated under section 
+804 and receiving a written evaluation under section 807 during the 
+calendar year referred to in subsection (a), a regulated financial 
+institution described in subsection (a) shall--
+            ``(1) declare in writing to the appropriate Federal 
+        financial supervisory agency that--
+                    ``(A) the institution is a regulated financial 
+                institution described in subsection (a); and
+                    ``(B) the institution is in compliance with the 
+                requirements of this subsection;
+            ``(2) display any notices that may be required by the 
+        appropriate Federal financial supervisory agency concerning the 
+        institution's compliance with the requirements of this Act; and
+            ``(3) make available for public inspection the following 
+        information regarding the record of such institution in meeting 
+        the credit needs of the institution's entire community:
+                    ``(A) An identification of the community served by 
+                the institution.
+                    ``(B) A list of the types of credit offered by the 
+                institution.
+                    ``(C) Any public comments received within the 
+                previous 2 years regarding the institution's service of 
+                the entire community's credit needs.
+                    ``(D) Copies of any declaration submitted under 
+                paragraph (1).
+    ``(c) Penalties.--If the appropriate Federal financial supervisory 
+agency finds that a regulated financial institution has submitted 
+intentionally false information to the appropriate Federal financial 
+supervisory agency or otherwise has willfully violated the requirements 
+of subsection (b), such institution--
+            ``(1) shall, notwithstanding this section, be subject to 
+        the requirements of section 804 for a period of not more than 
+        10 years; and
+            ``(2) shall be subject to a fine of not more than $10,000.
+    ``(d) Community Challenge.--The appropriate Federal financial 
+supervisory agency shall investigate any allegation filed against a 
+regulated financial institution subject to this section that relates to 
+whether such institution is helping to meet the credit needs of the 
+institution's entire community, consistent with the safe and sound 
+operation of such institution.
+
+``SEC. 810. SAFE HARBOR.
+
+    ``Notwithstanding section 804(2), an application for a deposit 
+facility by a regulated financial institution shall not be denied on 
+the basis of such institution's compliance with this Act if such 
+institution--
+            ``(1) received a rating `Outstanding record of meeting 
+        community credit needs' or `Satisfactory record of meeting 
+        community credit needs' in the institution's last evaluation 
+        under section 804; or
+            ``(2) maintains continued compliance with section 809.
+
+``SEC. 811. STATE EXAMINATIONS.
+
+    ``The appropriate Federal financial supervisory agency may accept 
+examinations conducted by State supervisory agencies pursuant to 
+comparable State community reinvestment laws in order to satisfy the 
+requirements of this Act.
+
+``SEC. 812. EXPEDITED EXAMINATION PROCEDURES.
+
+    ``(a) In General.--In connection with an examination of a regulated 
+financial institution, the appropriate Federal financial supervisory 
+agency shall establish a 2-tiered approach to evaluating a regulated 
+financial institution pursuant to section 804.
+    ``(b) Condition for Comprehensive Examination.--A comprehensive and 
+in-depth examination of performance pursuant to section 804 shall only 
+be conducted if the appropriate Federal financial supervisory agency is 
+not satisfied that credit is being extended throughout the community in 
+a nondiscriminatory manner.''.
+    (b) Duplicative Information Collection.--Section 804 of the 
+Community Reinvestment Act of 1977 (12 U.S.C. 2903) is amended--
+            (1) by striking ``and'' at the end of paragraph (1);
+            (2) by striking the period at the end of paragraph (2) and 
+        inserting instead ``; and''; and
+            (3) by adding after paragraph (2) following new paragraph:
+                    ``(3) not require a regulated financial institution 
+                to collect, prepare, file or maintain data or 
+                information for purposes of assessing the institution's 
+                record of helping to meet the credit needs of its 
+                entire community, if such data or information is also 
+                required to be submitted under the Home Mortgage 
+                Disclosure Act of 1975.''.
+    (c) Public Disclosure.--Section 807(b)(1)(B) of the Community 
+Reinvestment Act of 1977 (12 U.S.C. 2906(b)(1)(B)) is amended by 
+striking ``and data''.
+
+SEC. 114. CLARIFICATION OF DEFINITION.
+
+    Section 803(b) of the Community Reinvestment Act of 1977 (12 U.S.C. 
+2902(b)) in the 2d paragraph which is designated as paragraph (2) 
+(defining regulated financial institution) by inserting ``and does not 
+include any bank described in section 2(c)(2)(F) of the Bank Holding 
+Company Act of 1956'' before the semicolon.
+
+SEC. 115. ASSESSMENT BASE FOR DEPOSIT INSURANCE PREMIUMS.
+
+    Section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817) is 
+amended--
+            (1) in the 3d sentence of subsection (a)(3)--
+                    (A) by striking ``, and the reports on such dates 
+                shall be the basis for the certified statement to be 
+                filed in July pursuant to subsection (c) of this 
+                section''; and
+                    (B) by striking ``, and the reports on such dates 
+                shall be the basis for the certified statement to be 
+                filed in January pursuant to subsection (c) of this 
+                section''; and
+            (2) in subsection (b)(3) (as in effect before the effective 
+        date of the amendment made by section 302(a) of Federal Deposit 
+        Insurance Corporation Improvement Act of 1991) is amended by 
+        adding at the end the following new sentence: ``Notwithstanding 
+        the preceding sentence, if the Corporation determines that the 
+        implementation of filing of certified statements under 
+        subsection (c) would be facilitated, the Corporation may adopt 
+        procedures under which the average assessment base is 
+        calculated using the assessment base on the last date in the 
+        immediately preceding assessment period in which the 
+        institution was required to make a report of condition in lieu 
+        of the assessment base on the last date in the current 
+        assessment period for which the institution was required to 
+        make a report of condition.''.
+
+SEC. 116. ECONOMIC ANALYSIS OF CERTAIN BANKING REGULATIONS.
+
+    (a) Statement Required.--An appropriate Federal banking agency that 
+certifies, pursuant to section 605(b) of title 5, United States Code, 
+that a proposed or final rule will not have a significant economic 
+impact on a substantial number of all small banks or savings 
+associations, shall publish with such certification a detailed 
+statement that contains--
+            (1) an explanation of why the rule will not have such an 
+        economic impact;
+            (2) an estimate of the number of small banks or savings 
+        associations affected by the rule;
+            (3) an estimate of the costs and benefits to each small 
+        bank or savings association attributable to compliance with the 
+        rule; and
+            (4) in the case of a proposed rule, a request for public 
+        comments on the economic impact of and the number of small 
+        banks or savings associations affected by the rule.
+    (b) Final Rules.--The preamble of each final rule prescribed by an 
+appropriate Federal banking agency which has been preceded by a 
+proposed rule shall--
+            (1) specifically respond to comments from the public 
+        addressing the economic impact of, or the number of small banks 
+        or savings associations affected by, the proposed rule; and
+            (2) explain whether and how the final rule responds to 
+        those comments.
+    (c) Definitions.--For purposes of this section--
+            (1) Appropriate federal banking agency.--The term 
+        ``appropriate Federal banking agency'' has the meaning given to 
+        such term in section 3 of the Federal Deposit Insurance Act.
+            (2) Small bank or savings association.--The term ``small 
+        bank or savings association'' means a bank or savings 
+        association (as defined in section 3 of the Federal Deposit 
+        Insurance Act) that has total assets of not more than 
+        $250,000,000.
+            (3) Substantial number.--The term ``substantial number'' 
+        means more than 20 percent.
+
+SEC. 117. OFFICE OF REGULATORY QUALITY.
+
+    The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is 
+amended by inserting after section 44 (as added by section 5 of this 
+Act) the following new section:
+
+``SEC. 45. OFFICE OF REGULATORY QUALITY.
+
+    ``(a) Establishment Required.--Each appropriate Federal banking 
+agency shall--
+            ``(1) establish, within 180 days of the enactment of this 
+        section, a separate Office of Regulatory Quality to determine 
+        and monitor the accuracy, consistency and quality of the 
+        examination activities of such agency; and
+            ``(2) establish the position of director of the Office of 
+        Regulatory Quality as the head of such office.
+    ``(b) Regional Employees.--
+            ``(1) Assignment.--The director of the Office of Regulatory 
+        Quality of each appropriate Federal banking agency shall assign 
+        1 or more employees of the Office of Regulatory Quality to each 
+        regional office of such agency.
+            ``(2) Number of employees.--The number of employees 
+        assigned to each regional office under paragraph (1) shall be 
+        sufficient to adequately monitor and maintain the quality of 
+        the examinations of that regional office.
+    ``(c) Reports of Complaints or Questions.--Any insured depository 
+institution and any officer, director, employee or other representative 
+of any insured depository institution may report to the Office of 
+Regulatory Quality of the appropriate Federal banking agency 
+responsible for the supervision of that insured depository institution 
+any complaints or questions that such institution or person may have 
+regarding the examination activities of the Federal banking agency or 
+any employee of that agency.
+    ``(d) Development of Uniform Standards of Accuracy, Consistency, 
+and Quality.--
+            ``(1) In general.--The directors of the Offices of 
+        Regulatory Quality of the appropriate Federal banking agencies 
+        shall, on a coordinated basis, develop a uniform form which 
+        sets forth the standards upon which the accuracy, consistency 
+        and quality of the examination activities of each appropriate 
+        Federal banking agency shall be evaluated.
+            ``(2) Availability of form.--The forms prepared pursuant to 
+        paragraph (1) shall be made available to each insured 
+        depository institution for use in evaluating the appropriate 
+        Federal banking agencies.
+            ``(3) Notice of availability of form.--Upon the completion 
+        of any examination involving an insured depository institution, 
+        the appropriate Federal banking agency shall notify such 
+        institution of the availability of the forms prepared pursuant 
+        to paragraph (1).
+    ``(e) Response to Questions and Complaints Relating to Agency 
+Operations.--
+            ``(1) Investigation and response.--An Office of Regulatory 
+        Quality shall promptly investigate and respond to each 
+        complaint and question received under subsection (c) with 
+        respect to the Federal banking agency of which the Office is a 
+        part.
+            ``(2) Referral.--If an Office receives a complaint or 
+        question regarding another Federal banking agency, or an 
+        employee of another Federal banking agency, it shall promptly 
+        refer such complaint or question to the appropriate Office of 
+        Regulatory Quality for that agency.
+    ``(f) Access to Agency Records.--The director of an Office of 
+Regulatory Quality, and any duly authorized representative of that 
+Office, shall have access to, and the right to examine and copy, all 
+records and recorded information in any form within the possession or 
+control of that Federal banking agency or any employee or 
+representative of that agency which the director of the Office of 
+Regulatory Quality deems relevant to the investigation under this 
+section.
+    ``(g) Access to Agency Information.--The director of an Office of 
+Regulatory Quality shall have the same right of access to information 
+under this section with respect to the appropriate Federal banking 
+agency, and the same right to enforce this access, as the Comptroller 
+General pursuant to section 716 of title 31, United States Code.
+    ``(h) Subpoena Authority; Confidentiality.--
+            ``(1) Subpoena authority.--The provisions of section 716(c) 
+        of title 31, United States Code, shall apply to the director of 
+        an Office of Regulatory Quality, or any representative of that 
+        Office, with respect to information which is necessary for the 
+        Office to carry out the purposes of this section in the same 
+        manner such section applies to the Comptroller of the Currency.
+            ``(2) Confidentiality of information, complaint, and 
+        complainant.--An Office of Regulatory Quality, and the director 
+        and any representative of such Office, shall maintain the 
+        confidentiality of--
+                    ``(A) any information contained in any form 
+                described in subsection (d) which is submitted to the 
+                Office;
+                    ``(B) any complaint or question received from any 
+                insured depository institution or any representative of 
+                that institution; and
+                    ``(C) the identity of any insured depository 
+                institution and any representative of an institution 
+                which submits any such form, complaint, or question.
+    ``(i) Annual Report.--
+            ``(1) Report required.--The director of the Office of 
+        Regulatory Quality for each appropriate Federal banking agency 
+        shall submit an annual report to the Congress which shall 
+        contain information, with respect to the 12-month period for 
+        which such report is made, regarding the accuracy, consistency 
+        and quality of the examination activities of such agency, the 
+        nature and number of complaints and questions received 
+        regarding such agency and its employees and the actions taken 
+        by that Office of Regulatory Quality to improve the accuracy, 
+        consistency and quality of the examination activities of the 
+        agency.
+            ``(2) Recommendations.--The director of such Office shall 
+        also include within that report recommendations to simplify and 
+        streamline such examination activities.''.
+
+SEC. 118. PRIORITY OF SAFETY AND SOUNDNESS EXAMINATIONS.
+
+    Section 10 of the Federal Deposit Insurance Act (12 U.S.C. 1820) is 
+amended by adding at the end the following new subsection:
+    ``(g) Priority of Safety and Soundness Examinations.--No insured 
+depository institution shall be subject to any routine examination, 
+other than an examination for purposes of determining the safety and 
+soundness of such institution, more frequently than the frequency at 
+which the institution is subject to full-scope, on-site examinations 
+required under subsection (d).''.
+
+SEC. 119. BANK HOLDING COMPANY FORMATION THROUGH REORGANIZATIONS.
+
+    (a) Exception to Approval Requirements in Connection With Certain 
+Bank Reorganizations.--The 2d sentence of section 3(a) of the Bank 
+Holding Company Act of 1956 (12 U.S.C. 1842(a)) is amended--
+            (1) by striking out ``or (B)'' and inserting in lieu 
+        thereof ``(B)''; and
+            (2) by inserting before the period at the end the 
+        following: ``; or (C) the acquisition by a company of control 
+        of a bank in connection with a reorganization described in 
+        paragraph (1) of subsection (h) if the requirements of such 
+        subsection are met''.
+    (b) Expedited Procedures for Certain Reorganizations of Banks Into 
+Holding Companies.--Section 3 of the Bank Holding Company Act of 1956 
+(12 U.S.C. 1842) is amended by adding at the end thereof the following 
+new subsection:
+    ``(h) Expedited Procedures for Certain Reorganizations of Banks 
+Into Holding Companies.--
+            ``(1) Reorganization described.--For purposes of 
+        subparagraph (C) of the second sentence of subsection (a), a 
+        reorganization is described in this paragraph if--
+                    ``(A) the transaction represents the exchange, by 
+                the shareholders of the bank, of substantially all of 
+                the shares of a capital-efficient bank for shares of a 
+                newly-formed bank holding company;
+                    ``(B) each shareholder of the newly-formed bank 
+                holding company holds, after such exchange, 
+                substantially the same proportionate interest in the 
+                bank holding company as each such shareholder held in 
+                the bank before such exchange, other than any change in 
+                the shareholders' proportionate interest in such 
+                holding company which resulted from the exercise of 
+                dissenting shareholders' rights under State or Federal 
+                law; and
+                    ``(C) immediately following the reorganization, the 
+                resulting bank holding company meets the capital and 
+                other financial standards prescribed by the Board by 
+                regulation for a bank holding company.
+            ``(2) Expedited procedure.--The exception provided by 
+        subparagraph (C) of the second sentence of subsection (a) to 
+        the approval requirement of such subsection shall apply with 
+        respect to a reorganization described in paragraph (1) of this 
+        subsection, if--
+                    ``(A) the bank referred to in paragraph (1)(A) 
+                provides notice to the Board of such reorganization at 
+                least 30 days before the date on which such 
+                reorganization is scheduled to begin; and
+                    ``(B) the Board has not--
+                            ``(i) issued an order before such date 
+                        disapproving such reorganization; or
+                            ``(ii) issued a notice before such date 
+                        that the provisions of this subsection are not 
+                        applicable to such reorganization by reason of 
+                        paragraph (3).
+            ``(3) Exception in case of certain nonbanking activities.--
+        This subsection shall not apply to any reorganization described 
+        in paragraph (1) if, as a result of such reorganization, the 
+        bank holding company would be engaging in any activity other 
+        than banking or managing and controlling banks.
+            ``(4) Capital-efficient bank defined.--The term `capital-
+        efficient bank' means a bank which is a capital-efficient 
+        insured depository institution (as defined in section 3(c)(6) 
+        of the Federal Deposit Insurance Act).''.
+
+SEC. 120. EXPEDITED PROCEDURES FOR CERTAIN BANK HOLDING COMPANIES TO 
+              SEEK APPROVAL TO ENGAGE IN CERTAIN NONBANKING ACTIVITIES.
+
+    (a) In General.--Section 4 of the Bank Holding Company Act of 1956 
+(12 U.S.C. 1843) is amended by adding at the end the following new 
+subsection:
+    ``(j) Notice Procedures for Nonbanking Activities.--
+            ``(1) General notice procedure.--
+                    ``(A) Notice requirement.--In the case of a bank 
+                holding company the insured depository institution 
+                subsidiaries of which consist only of capital-efficient 
+                depository institutions (as defined in section 3(c)(6) 
+                of the Federal Deposit Insurance Act), the bank holding 
+                company may not engage in any nonbanking activity or 
+                acquire or retain ownership or control of the shares of 
+                a company engaged in activities pursuant to subsection 
+                (c)(8) without providing the Board with written notice 
+                of the proposed transaction or activity at least 45 
+                days before the transaction or activity is proposed to 
+                occur or commence.
+                    ``(B) Contents of notice.--
+                            ``(i) In general.--The notice submitted to 
+                        the Board shall contain such information as the 
+                        Board shall prescribe by regulation or by 
+                        specific request in connection with a 
+                        particular notice.
+                            ``(ii) Limitation on information.--The 
+                        Board may only require a notice under this 
+                        subsection to contain such information as may 
+                        be relevant to the nature and scope of the 
+                        proposed activities or transaction or to the 
+                        Board's evaluation of the criteria contained in 
+                        paragraph (2).
+                    ``(C) Procedure for agency action.--
+                            ``(i) Notice of disapproval.--Any notice 
+                        filed under this subsection shall be deemed to 
+                        be approved by the Board unless, before the end 
+                        of the 45-day period beginning on the date the 
+                        Board receives a complete notice under 
+                        subparagraph (A), the Board issues an order 
+                        disapproving the transaction or activity and 
+                        setting forth the reasons for disapproval.
+                          ``(ii) Extension of period.--The Board may 
+                        extend the 45-day period referred to in clause 
+                        (i) for an additional 45 days.
+                    ``(D) Approval before end of period.--
+                            ``(i) In general.--Any transaction or 
+                        activity may commence before the expiration of 
+                        any period for disapproval established under 
+                        this paragraph if the Board issues a written 
+                        notice of approval.
+                            ``(ii) Shorter periods by regulation.--The 
+                        Board may prescribe regulations which provide 
+                        for no notice under this paragraph or for a 
+                        shorter notice period with respect to 
+                        particular activities or transactions.
+                    ``(E) Extension of period.--
+                            ``(i) Activities not previously approved.--
+                                    ``(I) In general.--In the case of 
+                                any notice to engage in, or to acquire 
+                                or retain ownership or control of 
+                                shares of any company engaged in, any 
+                                activity pursuant to subsection (c)(8) 
+                                that has not been previously approved 
+                                by order or regulation, the Board may 
+                                extend the notice period under this 
+                                subsection for an additional 90 days.
+                                    ``(II) Determination of period in 
+                                case of public hearing.--If a public 
+                                hearing is conducted in connection with 
+                                any proposal referred to in subclause 
+                                (I), the Board may extend the notice 
+                                period under this subsection for a 
+                                period not to exceed 90 days from the 
+                                conclusion of the hearing procedure.
+                            ``(ii) Section 3 application.--In the case 
+                        of any notice filed in connection with an 
+                        application under section 3, the Board may 
+                        extend the notice period for the time necessary 
+                        to complete action on the application under 
+                        section 3.
+            ``(2) General standards for review.--
+                    ``(A) Criteria.--In connection with a notice under 
+                this subsection, the Board may consider the following 
+                criteria:
+                            ``(i) The managerial resources of the 
+                        companies involved.
+                            ``(ii) The adequacy of the companies 
+                        financial resources, including capital, giving 
+                        consideration to the financial resources and 
+                        capital of others engaged in similar 
+                        activities.
+                            ``(iii) Any material adverse effect on the 
+                        safety and soundness or financial condition of 
+                        any insured depository institution affiliate.
+                            ``(iv) Whether performance of the activity 
+                        by a bank holding company or a subsidiary of 
+                        such company can reasonably be expected to 
+                        produce benefits to the public, such as greater 
+                        convenience, increased competition, or gains in 
+                        efficiency, that outweigh possible adverse 
+                        effects, such as undue concentration of 
+                        resources, decreased or unfair competition, 
+                        conflicts of interest, or unsound banking 
+                        practices.
+                    ``(B) Requirements for disapproval.--The Board 
+                shall disapprove any proposed transaction pursuant to a 
+                notice filed under this subsection if the Board 
+                determines that any insured depository institution 
+                subsidiary of the bank holding company--
+                            ``(i) is engaging in any unsafe and unsound 
+                        practice; or
+                            ``(ii) is in an unsafe and unsound 
+                        condition.''.
+    (b) Technical and Conforming Amendments.--
+            (1) Section 4(c)(8) of the Bank Holding Company Act of 1956 
+        (12 U.S.C. 1843(c)(8)) is amended--
+                    (A) in the 1st clause, by inserting ``subject to 
+                subsection (j),'' before ``shares of any company''; and
+                    (B) in the 1st complete sentence, by inserting ``, 
+                except in the case of a notice filed under subsection 
+                (j),'' after ``Board shall consider''.
+            (2) The penultimate sentence of section 4(c) of the Bank 
+        Holding Company Act of 1956 (12 U.S.C. 1843(c)) is amended by 
+        striking ``In the event'' and inserting ``Except with respect 
+        to a notice filed under subsection (j), in the event''.
+
+SEC. 121. REDUCTION OF POST-APPROVAL PERIOD FOR BANK HOLDING COMPANY 
+              ACQUISITIONS AND BANK MERGERS.
+
+    (a) Bank Holding Company Acquisitions.--The 4th sentence of section 
+11(b)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1849(b)(1)) 
+is amended by inserting ``or such shorter period as the Board may 
+prescribe with the concurrence of the Attorney General'' before the 
+period.
+    (b) Depository Institution Mergers.--The last sentence of section 
+18(c)(6) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)(6)) is 
+amended by inserting ``or such shorter period as the agency may 
+prescribe with the concurrence of the Attorney General'' before the 
+period.
+
+SEC. 122. BANK SECRECY ACT AMENDMENTS.
+
+    (a) Staff Commentaries.--Title 31 of the United States Code is 
+amended to add the following new section 5327:
+
+``SEC. 5327. STAFF COMMENTARIES.
+
+    ``The Secretary of the Treasury shall review all regulations 
+promulgated under this title on an annual basis and seek comment from 
+the public pursuant to this review. The Secretary shall publish all 
+written rulings interpreting this title, as well as a staff commentary 
+to the regulations issued under this title. This commentary shall be 
+issued on an annual basis.''.
+    (b) Log Requirements.--Section 5325(a)(1) of title 31 of the United 
+States Code is amended--
+            (1) by striking subparagraphs (A) and (B); and
+            (2) by inserting the following new paragraph (1):
+            ``(1) the individual has a transaction account with such 
+        financial institution and the financial institution verifies 
+        that fact through a signature card or other information 
+        maintained by such institution in connection with the account 
+        of such individual.''.
+    (c) Exemption Process.--Section 5318(a)(5) of title 31 of the 
+United States Code is amended--
+            (1) by inserting ``or exception'' after ``an appropriate 
+        exemption''; and
+            (2) by inserting ``only after receiving comments from the 
+        entities covered by this chapter. The Secretary must take into 
+        account the effect that changes to the exemption or exception 
+        process will have on the cost and efficiency of the reporting 
+        process.'', after the words ``under this subchapter''.
+    (d) Customer Filings.--Section 5313(a) of title 31 of the United 
+States Code is amended by striking ``, the institution and any other 
+participant in the transaction the Secretary may prescribe shall file a 
+report'' and inserting ``the person who participates in the transaction 
+shall file a report''.
+    (e) Inflation Adjustments on CTR Amounts.--Section 5313(a) of title 
+31 of the United States Code is amended by inserting after the second 
+sentence the following new sentence: ``The Secretary must review the 
+reporting requirements mentioned above by September 1 of each calendar 
+year to determine if the reporting amount prescribed by the Secretary 
+should be adjusted to account for inflation, cost effectiveness of the 
+requirement or the usefulness for law enforcement purposes. The 
+Secretary must submit a written report to the Congress each year 
+disclosing how the reporting threshold decision was reached. The report 
+must include an analysis of how the change will affect domestic 
+financial institutions.''.
+
+SEC. 123. AGGREGATE LENDING LIMITS FOR SMALL BANKS.
+
+    Section 22(h)(5) of the Federal Reserve Act (12 U.S.C. 375b(5)) is 
+amended--
+            (1) by redesignating subparagraph (C) as subparagraph (D); 
+        and
+            (2) by inserting after subparagraph (B) the following new 
+        subparagraph:
+                    ``(C) Small bank exception.--Notwithstanding 
+                subparagraph (A), member banks with less than 
+                $100,000,000 in deposits may make such extensions of 
+                credit in the aggregate to persons specified in 
+                subparagraph (A) in an amount not to exceed 2 times the 
+                bank's unimpaired capital and unimpaired surplus.''; 
+                and
+            (3) in subparagraph (D) (as redesignated), by striking 
+        ``less than $100,000,000'' and inserting ``between $100,000,000 
+        and $250,000,000''.
+
+SEC. 124. EFFECTIVE DATE.
+
+    Except as otherwise explicitly provided in any provision of this 
+title, this title and amendments made by this title shall take effect 
+at the end of the 6-month period beginning on the date of the enactment 
+of this Act.
+
+                    TITLE II--NONSUPERVISORY REFORMS
+
+   Subtitle A--Expedited Funds Availability and Electronic Transfers
+
+SEC. 201. AVAILABILITY SCHEDULES.
+
+    (a) Treasury Checks.--Section 603(a)(2)(A) of the Expedited Funds 
+Availability Act (12 U.S.C. 4002(a)(2)(A)) is amended--
+            (1) by redesignating clauses (i) and (ii) as clauses (ii) 
+        and (iii), respectively; and
+            (2) by inserting before clause (ii) (as so redesignated), 
+        the following new clause:
+                    ``(i) is deposited at a receiving depository 
+                institution (other than by use of a propriety ATM) 
+                which is staffed by individuals employed by such 
+                institution;''.
+    (b) Proprietary ATM Exception.--Section 603(a)(2)(E)) of the 
+Expedited Funds Availability Act (12 U.S.C. 4002(A)(2)(E)) is amended 
+by inserting ``(other than by use of a proprietary ATM)'' after 
+``branch of a depository institution''.
+    (c) Local Checks.--Section 603(b)(1) of the Expedited Funds 
+Availability Act (12 U.S.C. 4002(b)(1)) is amended by striking ``1 
+business day'' and inserting ``2 business days''.
+
+SEC. 202. DEFINITION OF A NEW ACCOUNT.
+
+    Section 604(a) of the Expedited Funds Availability Act (12 U.S.C. 
+4003(a)) is amended by striking ``30-day period'' and inserting ``90-
+day period''.
+
+SEC. 203. AUTHORITY TO ESTABLISH RULES REGARDING PAYMENT SYSTEM LOSSES 
+              AND LIABILITIES.
+
+    Section 611(f) of the Expedited Funds Availability Act (12 U.S.C. 
+4010(f)) is amended in the first sentence by inserting ``, and other 
+entities participating in the payments system, including States and 
+political subdivisions of States on which checks are drawn,'' after 
+``depository institutions''.
+
+           Subtitle B--Amendments to the Truth in Lending Act
+
+SEC. 211. EXEMPTION FOR CERTAIN BORROWERS.
+
+    Section 104 of the Truth in Lending Act (15 U.S.C. 1603) is amended 
+by adding at the end the following new paragraph:
+            ``(7) Credit transactions involving a consumer who had 
+        individual income on excess of $200,000 in each of the 2 most 
+        recent calendar years or who has an individual net worth, or 
+        joint net worth with that person's spouse, at the time of the 
+        transaction, that exceeds $1,000,000.''.
+
+SEC. 212. TRUTH IN LENDING ACT RIGHT OF RESCISSION.
+
+    Section 125(a) of the Truth in Lending Act (15 U.S.C. 1635(a)) is 
+amended by adding at the end the following sentence: ``The creditor 
+shall be deemed to have delivered to an obligor the information, 
+rescission forms, and statement of material disclosures required 
+pursuant to this section notwithstanding any errors included in such 
+information, forms or statement, unless any such error is unintentional 
+and does not materially understate the cost of the transaction to the 
+obligor.''.
+
+                  Subtitle C--Homeownership Amendments
+
+SEC. 221. HOME MORTGAGE DISCLOSURE ACT EXEMPTION.
+
+    The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.) 
+is amended--
+            (1) in section 304 (12 U.S.C. 2803), by striking subsection 
+        (i); and
+            (2) in section 309 (12 U.S.C. 2808) by adding at the end 
+        thereof ``The dollar amount of total assets referred to in this 
+        section shall be adjusted annually on January 1 by the annual 
+        percentage change in the Consumer Price Index reported for the 
+        previous June 1.''.
+
+SEC. 222. HOMEOWNERSHIP DEBT COUNSELING NOTIFICATION.
+
+    Section 106(c)(5) of the Housing and Urban Development Act of 1968 
+(12 U.S.C. 1701x(c)(5)) is repealed.
+
+SEC. 223. ELIMINATION OF DUPLICATIVE DATA COLLECTION.
+
+    Effective 6 months after the date of enactment of this Act, an 
+appropriate Federal banking agency shall not require any insured 
+depository institution (as defined in section 3(q) of the Federal 
+Deposit Insurance Act) to prepare, file, or maintain data to further 
+the purposes of, or to fulfill the requirements of, the Fair Housing 
+Act if the preparation, filing, or maintenance of such data is required 
+under the Home Mortgage Disclosure Act of 1975.
+
+                                 <all>
+
+HR 59 IH----2
+HR 59 IH----3
+HR 59 IH----4
+

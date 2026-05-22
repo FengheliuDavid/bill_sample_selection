@@ -1,0 +1,361 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[S. 344 Introduced in Senate (IS)]
+
+111th CONGRESS
+  1st Session
+                                 S. 344
+
+  To require hedge funds to register with the Securities and Exchange 
+                  Commission, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            January 29, 2009
+
+Mr. Grassley (for himself and Mr. Levin) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To require hedge funds to register with the Securities and Exchange 
+                  Commission, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Hedge Fund Transparency Act''.
+
+SEC. 2. HEDGE FUND REGISTRATION REQUIREMENTS.
+
+    (a) Definition of Investment Company.--Section 3(c) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-3(c)) is amended--
+            (1) by striking paragraph (1);
+            (2) by striking paragraph (7);
+            (3) by redesignating paragraphs (2) through (6) as 
+        paragraphs (1) through (5), respectively; and
+            (4) by redesignating paragraphs (8) through (14) as 
+        paragraphs (6) through (12), respectively.
+    (b) Additional Exemptions.--Section 6 of the Investment Company Act 
+of 1940 (15 U.S.C. 80a-6) is amended--
+            (1) in subsection (a), by adding at the end the following:
+            ``(6)(A) Subject to subsection (g), any issuer whose 
+        outstanding securities (other than short-term paper) are 
+        beneficially owned by not more than 100 persons, and which is 
+        not making and does not presently propose to make a public 
+        offering of its securities.
+            ``(B) For purposes of this paragraph and paragraph (7), 
+        beneficial ownership--
+                    ``(i) by a company shall be deemed to be beneficial 
+                ownership by one person, except that, if the company 
+                owns 10 percent or more of the outstanding voting 
+                securities of the issuer, and is or, but for the 
+                exemption provided for in this paragraph or paragraph 
+                (7), would be an investment company, the beneficial 
+                ownership shall be deemed to be that of the holders of 
+                the outstanding securities (other than short-term 
+                paper) of such company; and
+                    ``(ii) by any person who acquires securities or 
+                interests in securities of an issuer described in this 
+                paragraph shall be deemed to be beneficial ownership by 
+                the person from whom such transfer was made, pursuant 
+                to such rules and regulations as the Commission shall 
+                prescribe as necessary or appropriate in the public 
+                interest and consistent with the protection of 
+                investors and the purposes fairly intended by the 
+                policy and provisions of this title, where the transfer 
+                was caused by legal separation, divorce, death, or any 
+                other involuntary event.
+            ``(7)(A) Subject to subsection (g), any issuer, the 
+        outstanding securities of which are owned exclusively by 
+        persons who, at the time of the acquisition of such securities, 
+        are qualified purchasers, and which is not making and does not 
+        at that time propose to make a public offering of such 
+        securities. Securities that are owned by persons who received 
+        the securities from a qualified purchaser as a gift or bequest, 
+        or in a case in which the transfer was caused by legal 
+        separation, divorce, death, or any other involuntary event, 
+        shall be deemed to be owned by a qualified purchaser, subject 
+        to such rules, regulations, and orders as the Commission may 
+        prescribe as necessary or appropriate in the public interest or 
+        for the protection of investors.
+            ``(B) Notwithstanding subparagraph (A), an issuer is exempt 
+        under this paragraph if--
+                    ``(i) in addition to qualified purchasers, 
+                outstanding securities of that issuer are beneficially 
+                owned by not more than 100 persons who are not 
+                qualified purchasers, if--
+                            ``(I) such persons acquired any portion of 
+                        the securities of such issuer on or before 
+                        September 1, 1996; and
+                            ``(II) at the time at which such persons 
+                        initially acquired the securities of such 
+                        issuer, the issuer was exempt under paragraph 
+                        (6); and
+                    ``(ii) prior to availing itself of the exemption 
+                provided by this paragraph--
+                            ``(I) such issuer has disclosed to each 
+                        beneficial owner that future investors will be 
+                        limited to qualified purchasers, and that 
+                        ownership in such issuer is no longer limited 
+                        to not more than 100 persons; and
+                            ``(II) concurrently with or after such 
+                        disclosure, such issuer has provided each 
+                        beneficial owner with a reasonable opportunity 
+                        to redeem any part or all of their interests in 
+                        the issuer, notwithstanding any agreement to 
+                        the contrary between the issuer and such 
+                        persons, for the proportionate share of that 
+                        person of the net assets of the issuer.
+            ``(C) Each person that elects to redeem under subparagraph 
+        (B)(ii)(II) shall receive an amount in cash equal to the 
+        proportionate share of that person of the net assets of the 
+        issuer, unless the issuer elects to provide such person with 
+        the option of receiving, and such person agrees to receive, all 
+        or a portion of the share of that person in assets of the 
+        issuer. If the issuer elects to provide such persons with such 
+        an opportunity, disclosure concerning such opportunity shall be 
+        made in the disclosure required by subparagraph (B)(ii)(I).
+            ``(D) An issuer that is exempt under this paragraph shall 
+        nonetheless be deemed to be an investment company for purposes 
+        of the limitations set forth in subparagraphs (A)(i) and (B)(i) 
+        of section 12(d)(1) (15 U.S.C. 80a-12(d)(1) (A)(i) and (B)(i)) 
+        relating to the purchase or other acquisition by such issuer of 
+        any security issued by any registered investment company and 
+        the sale of any security issued by any registered open-end 
+        investment company to any such issuer.
+            ``(E) For purposes of determining compliance with this 
+        paragraph and paragraph (6), an issuer that is otherwise exempt 
+        under this paragraph and an issuer that is otherwise exempt 
+        under paragraph (6) shall not be treated by the Commission as 
+        being a single issuer for purposes of determining whether the 
+        outstanding securities of the issuer exempt under paragraph (6) 
+        are beneficially owned by not more than 100 persons, or whether 
+        the outstanding securities of the issuer exempt under this 
+        paragraph are owned by persons that are not qualified 
+        purchasers. Nothing in this subparagraph shall be construed to 
+        establish that a person is a bona fide qualified purchaser for 
+        purposes of this paragraph or a bona fide beneficial owner for 
+        purposes of paragraph (6).''; and
+            (2) by adding at the end the following:
+    ``(g) Limitation on Exemptions for Large Investment Companies.--
+            ``(1) In general.--An investment company with assets, or 
+        assets under management, of not less than $50,000,000 is exempt 
+        under subsection (a)(6) or (a)(7) only if that company--
+                    ``(A) registers with the Commission;
+                    ``(B) files an information form with the Commission 
+                under paragraph (2);
+                    ``(C) maintains such books and records as the 
+                Commission may require; and
+                    ``(D) cooperates with any request for information 
+                or examination by the Commission.
+            ``(2) Information form.--The information form required 
+        under paragraph (1) shall be filed at such time and in such 
+        manner as the Commission shall require, and shall--
+                    ``(A) be filed electronically;
+                    ``(B) be filed not less frequently than once every 
+                12 months;
+                    ``(C) include--
+                            ``(i) the name and current address of--
+                                    ``(I) each natural person who is a 
+                                beneficial owner of the investment 
+                                company;
+                                    ``(II) any company with an 
+                                ownership interest in the investment 
+                                company; and
+                                    ``(III) the primary accountant and 
+                                primary broker used by the investment 
+                                company;
+                            ``(ii) an explanation of the structure of 
+                        ownership interests in the investment company;
+                            ``(iii) information on any affliation that 
+                        the investment company has with another 
+                        financial institution;
+                            ``(iv) a statement of any minimum 
+                        investment commitment required of a limited 
+                        partner, member, or other investor;
+                            ``(v) the total number of any limited 
+                        partners, members, or other investors; and
+                            ``(vi) the current value of--
+                                    ``(I) the assets of the investment 
+                                company; and
+                                    ``(II) any assets under management 
+                                by the investment company; and
+                    ``(D) be made available by the Commission to the 
+                public at no cost and in an electronic, searchable 
+                format.''.
+
+SEC. 3. IMPLEMENTING GUIDANCE AND RULES.
+
+    (a) Forms and Guidance.--Not later than 180 days after the date of 
+enactment of this Act, the Securities and Exchange Commission shall 
+issue such forms and guidance as are necessary to carry out this Act.
+    (b) Rules.--The Securities and Exchange Commission may make a rule 
+to carry out this Act.
+
+SEC. 4. ANTI-MONEY LAUNDERING OBLIGATIONS.
+
+    (a) Purpose.--It is the purpose of this section to safeguard 
+against the financing of terrorist organizations and money laundering.
+    (b) In General.--An investment company that relies on paragraph (6) 
+or (7) of section 6(a) of the Investment Company Act of 1940 (15 U.S.C. 
+80a-6(a) (6) and (7)), as amended by this Act, as the basis for an 
+exemption under that Act shall establish an anti-money laundering 
+program and shall report suspicious transactions under subsections (g) 
+and (h) of section 5318 of title 31, United States Code.
+    (c) Rulemaking.--
+            (1) In general.--The Secretary of the Treasury, in 
+        consultation with the Chairman of the Securities and Exchange 
+        Commission and the Chairman of the Commodity Futures Trading 
+        Commission, shall, by rule, establish the policies, procedures, 
+        and controls necessary to carry out subsection (b).
+            (2) Contents.--The rule required by paragraph (1)--
+                    (A) shall require that each investment company that 
+                receives an exemption under paragraph (6) or (7) of 
+                section 6(a) of the Investment Company Act of 1940 (15 
+                U.S.C. 80a-6(a) (6) and (7)), as amended by this Act, 
+                shall--
+                            (i) use risk-based due diligence policies, 
+                        procedures, and controls that are reasonably 
+                        designed to ascertain the indentity of and 
+                        evaluate any foreign person (including, where 
+                        appropriate, the nominal and beneficial owner 
+                        or beneficiary of a foreign corporation, 
+                        partnership, trust, or other foreign entity) 
+                        that supplies or plans to supply funds to be 
+                        invested with the advice or assistance of such 
+                        investment company; and
+                            (ii) be subject to section 5318(k)(2) of 
+                        title 31, United States Code; and
+                    (B) may incorporate elements of the proposed rule 
+                for unregistered investment companies published in the 
+                Federal Register on September 26, 2002 (67 Fed. Reg. 
+                60617) (relating to anti-money laundering programs).
+            (3) Publication date.--The Secretary of the Treasury, 
+        shall--
+                    (A) propose the rule required by this subsection 
+                not later than 90 days after the date of enactment of 
+                this Act; and
+                    (B) issue the rule required by this subsection in 
+                final form not later than 180 days after the date of 
+                enactment of this Act.
+    (d) Effective Date.--Subsection (b) shall take effect 1 year after 
+the date of enactment of this Act, whether or not a final rule is 
+issued under subsection (c), and the failure to issue such rule shall 
+in no way affect the enforceability of this section.
+
+SEC. 5. TECHNICAL CORRECTIONS.
+
+    (a) Securities Act of 1933.--Section 3(a) of the Securities Act of 
+1933 (15 U.S.C. 77c(a)) is amended--
+            (1) in paragraph (2)--
+                    (A) by striking ``section 3(c)(3)'' and inserting 
+                ``section 3(c)(2)''; and
+                    (B) by striking ``section 3(c)(14)'' and inserting 
+                ``section 3(c)(12)'';
+            (2) in paragraph (4), by striking ``section 3(c)(10)(B)'' 
+        and inserting ``section 3(c)(8)(B)''; and
+            (3) in paragraph (13), by striking ``section (3)(c)(14)'' 
+        and inserting ``section 3(c)(12)''.
+    (b) Securities Exchange Act of 1934.--The Securities Exchange Act 
+of 1934 (15 U.S.C. 78a et seq.) is amended--
+            (1) in section 3(a) (15 U.S.C. 78c(a))--
+                    (A) in paragraph (12)(A)--
+                            (i) in clause (iii), by striking ``section 
+                        3(c)(3)'' and inserting ``section 3(c)(2)'';
+                            (ii) in clause (v), by striking ``section 
+                        3(c)(10)(B)'' and inserting ``section 
+                        3(c)(8)(B)''; and
+                            (iii) in clause (vi), by striking ``section 
+                        3(c)(14)'' and inserting ``section 3(c)(12)'';
+                    (B) in paragraph (12)(C), by striking ``section 
+                3(c)(14)'' and inserting ``section 3(c)(12)''; and
+                    (C) in paragraph (54)(A)--
+                            (i) in clause (ii), by striking ``exclusion 
+                        from the definition of investment company 
+                        pursuant to section 3(c)(7)'' and inserting 
+                        ``exemption under section 6(a)(7)''; and
+                            (ii) in clause (vii), by striking ``section 
+                        3(c)(2)'' and inserting ``section 3(c)(1)'';
+            (2) in section 3(g) (15 U.S.C. 78c(g)) by striking 
+        ``section 3(c)(14)'' each place that term appears and inserting 
+        ``section 3(c)(12)''; and
+            (3) in section 12(g)(2) (15 U.S.C. 78l(g)(2))--
+                    (A) in subparagraph (D), by striking ``section 
+                3(c)(10)(B)'' and inserting ``section 3(c)(8)(B)''; and
+                    (B) in subparagraph (H), by striking ``section 
+                3(c)(14)'' and inserting ``section 3(c)(12)''.
+    (c) Investment Company Act of 1940.--The Investment Company Act of 
+1940 (15 U.S.C. 80a-1 et seq.) is amended--
+            (1) in section 2(a)(51) (15 U.S.C. 80a-2(a)(51))--
+                    (A) in subparagraph (A)(i), by striking ``excepted 
+                under section 3(c)(7)'' and inserting ``exempt under 
+                section 6(a)(7)''; and
+                    (B) in subparagraph (C)--
+                            (i) by striking ``that, but for the 
+                        exceptions provided for in paragraph (1) or (7) 
+                        of section 3(c), would be an investment company 
+                        (hereafter in this paragraph referred to as an 
+                        `excepted investment company')'' and inserting 
+                        ``that is exempt under paragraph (6) or (7) of 
+                        section 6(a) (hereafter in this paragraph 
+                        referred to as an `exempt investment 
+                        company')'';
+                            (ii) by striking ``section 3(c)(1)(A)'' and 
+                        inserting ``section 6(a)(6)(B)(i)''; and
+                            (iii) by striking ``excepted'' each place 
+                        that term appears and inserting ``any exempt'';
+            (2) in section 6 (15 U.S.C. 80a-6)--
+                    (A) in subsection (a)--
+                            (i) in paragraph (2), by striking ``section 
+                        3(c)(1)'' and inserting ``section 6(a)(6)''; 
+                        and
+                            (ii) in paragraph (5)(A)(iv), by striking 
+                        ``that would be an investment company except 
+                        for the exclusions from the definition of the 
+                        term `investment company' under paragraph (1) 
+                        or (7) of section 3(c)'' and inserting ``that 
+                        is exempt under paragraph (6) or (7) of section 
+                        6(a)''; and
+                    (B) in subsection (f), by striking ``excluded from 
+                the definition of an investment company by section 
+                3(c)(1)'' and inserting ``exempt under section 
+                6(a)(6)'';
+            (3) in section 7(e) (15 U.S.C. 80a-7(e)), by striking 
+        ``section 3(c)(10)(B)'' and inserting ``section 3(c)(8)(B)''; 
+        and
+            (4) in section 30 (15 U.S.C. 80a-29) in each of subsections 
+        (i) and (j), by striking ``section 3(c)(14)'' each place that 
+        term appears and inserting ``section 3(c)(12)''.
+    (d) Investment Advisers Act of 1940.--The Investment Advisers Act 
+of 1940 (15 U.S.C. 80b-1 et seq.) is amended--
+            (1) in section 203(b) (15 U.S.C. 80b-3(b))--
+                    (A) in paragraph (4) by striking ``section 
+                3(c)(10)'' each place that term appears and inserting 
+                ``section 3(c)(8)''; and
+                    (B) in paragraph (5), by striking ``section 
+                3(c)(14)'' and inserting ``section 3(c)(12)''; and
+            (2) in section 205(b) (15 U.S.C. 80b-5(b))--
+                    (A) in paragraph (2)(B), by striking ``section 
+                3(c)(11)'' and inserting ``section 3(c)(9)''; and
+                    (B) in paragraph (4), by striking ``excepted from 
+                the definition of an investment company under section 
+                3(c)(7)'' and inserting ``exempt under section 
+                6(a)(7)''.
+    (e) Internal Revenue Code of 1986.--Section 851(a)(2) of the 
+Internal Revenue Code of 1986 (relating to the definition of regulated 
+investment company) is amended by striking ``section 3(c)(3)'' and 
+inserting ``section 3(c)(2)''.
+                                 <all>
+

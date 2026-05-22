@@ -1,0 +1,1641 @@
+[Congressional Bills 104th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1487 Introduced in House (IH)]
+
+
+
+
+
+
+
+104th CONGRESS
+  1st Session
+                                H. R. 1487
+
+       To reform and modernize the Federal Home Loan Bank System.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 7, 1995
+
+ Mr. Baker of Louisiana (for himself and Mr. Chrysler) introduced the 
+  following bill; which was referred to the Committee on Banking and 
+                           Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+       To reform and modernize the Federal Home Loan Bank System.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Federal Home Loan 
+Bank System Modernization Act of 1995''.
+    (b) Table of Contents.--
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Mission of the Federal home loan banks.
+Sec. 3. Federal Housing Finance Board.
+Sec. 4. The Office of Finance Corporation.
+Sec. 5. Capital stock of the Federal home loan banks.
+Sec. 8. Modification of annual contribution to the resolution funding 
+                            corporation.
+Sec. 9. Community support requirements.
+Sec. 10. Technical and conforming amendments.
+Sec. 11. Incorporation of banks; corporate powers.
+Sec. 12. Liquidation or reorganization.
+Sec. 13. Definitions.
+Sec. 14. Effective date.
+
+SEC. 2. MISSION OF THE FEDERAL HOME LOAN BANKS.
+
+    The Federal Home Loan Bank Act (12 U.S.C. 1421) is amended by 
+inserting after section 4 the following new section:
+
+``SEC. 5. MISSION STATEMENT; FEDERAL HOME LOAN BANK DISTRICTS AND 
+              MEMBERS.
+
+    ``(a) Mission Statement.--The Federal Home Loan Bank System shall--
+            ``(1) be a profit-making enterprise whose purpose is to 
+        support residential mortgage lending (including mortgages on 
+        housing for low- and moderate-income families), and related 
+        community and economic development lending, throughout the 
+        nation, safely and soundly, through a program of collateralized 
+        advances and other financial services to members; and
+            ``(2) facilitate such lending by providing long-term credit 
+        and liquidity and other financial services to members of 
+        Federal home loan banks.
+    ``(b) Districts Established.--
+            ``(1) In general.--Subject to subsection (c), there shall 
+        be 12 districts known as Federal home loan bank districts.
+            ``(2) Name of district.--Each district shall bear a name 
+        descriptive of the geographic location of the district.
+            ``(3) Districts designated.--Subject to subsection (c), the 
+        12 districts shall be comprised as follows:
+                    ``(A) District 1 shall be composed of the states of 
+                Connecticut, Maine, Massachusetts, New Hampshire, Rhode 
+                Island, and Vermont.
+                    ``(B) District 2 shall be composed of the states of 
+                New Jersey and New York, the Commonwealth of Puerto 
+                Rico, and the territory of the Virgin Islands.
+                    ``(C) District 3 shall be composed of the states of 
+                Delaware, Pennsylvania, and West Virginia.
+                    ``(D) District 4 shall be composed of the states of 
+                Alabama, Florida, Georgia, Maryland, North Carolina, 
+                South Carolina, and Virginia, and the District of 
+                Columbia.
+                    ``(E) District 5 shall be composed of the states of 
+                Kentucky, Ohio, and Tennessee.
+                    ``(F) District 6 shall be composed of the states of 
+                Indiana and Michigan.
+                    ``(G) District 7 shall be composed of the states of 
+                Illinois and Wisconsin.
+                    ``(H) District 8 shall be composed of the states of 
+                Iowa, Minnesota, Missouri, North Dakota, and South 
+                Dakota.
+                    ``(I) District 9 shall be composed of the states of 
+                Arkansas, Louisiana, Mississippi, New Mexico, and 
+                Texas.
+                    ``(J) District 10 shall be composed of the states 
+                of Colorado, Kansas, Nebraska, and Oklahoma.
+                    ``(K) District 11 shall be composed of the states 
+                of Arizona, California, and Nevada.
+                    ``(L) District 12 shall be composed of the states 
+                of Alaska, Hawaii, Idaho, Montana, Oregon, Utah, 
+                Washington, and Wyoming, and the territories of Guam 
+                and the Pacific Islands.
+    ``(c) Mergers, Consolidations and Combinations of Banks.--
+            ``(1) In general.--Notwithstanding subsection (b), 2 or 
+        more Federal home loan banks may merge or otherwise combine or 
+        consolidate.
+            ``(2) Prerequisites for transaction.--A merger, 
+        combination, or consolidation of Federal home loan banks may be 
+        consummated under this subsection only if the transaction is 
+        approved by--
+                    ``(A) a majority of the board of directors of each 
+                bank participating in the transaction; and
+                    ``(B) the holders of a majority of the shares of 
+                capital stock of each such bank.
+            ``(3) Effective date of transaction.--If the requirements 
+        of paragraph (2) have been met, a merger, combination, or 
+        consolidation of Federal home loan banks shall be effective at 
+        such time as a certificate of merger, combination, or 
+        consolidation (in such form as the Finance Board shall 
+        prescribe) is--
+                    ``(A) executed by the banks participating in such 
+                transaction; and
+                    ``(B) filed with the Finance Board in accordance 
+                with section 12(a)(3).
+            ``(4) Merger agreement.--
+                    ``(A) In general.--Any merger, combination, or 
+                consolidation of Federal home loan banks under this 
+                subsection shall be carried out pursuant to an 
+                agreement entered into by all the Federal home loan 
+                banks participating in the transaction.
+                    ``(B) Contents of agreement.--Any agreement 
+                referred to in subparagraph (A) shall specify--
+                            ``(i) the terms and conditions of the 
+                        merger, combination, or consolidation;
+                            ``(ii) the amendments to the chartered 
+                        documents of the resulting bank to be affected 
+                        by the transaction, if any;
+                            ``(iii) the principal offices of the 
+                        resulting bank;
+                            ``(iv) the manner of converting the shares 
+                        of each of the banks participating in the 
+                        transaction into shares of the resulting bank; 
+                        and
+                            ``(v) such other details or provisions as 
+                        are appropriate.
+            ``(5) Succession in interest.--Upon the effective date of 
+        any merger, combination, or consolidation of Federal home loan 
+        banks under this subsection--
+                    ``(A) the separate existence of any bank 
+                participating in the transaction other than the 
+                resulting bank shall cease to exist;
+                    ``(B) the resulting bank shall--
+                            ``(i) succeed to all the rights and 
+                        properties of each of the banks described in 
+                        subparagraph (A) without other transfer; and
+                            ``(ii) be subject to all the debts and 
+                        liabilities of each such bank in the same 
+                        manner as if the resulting bank had incurred 
+                        such debts and liabilities.
+            ``(6) Existing rights not affected.--This subsection shall 
+        not affect any right of any creditor of any Federal home loan 
+        bank which is participating in any merger, combination, or 
+        consolidation under this subsection.
+            ``(7) Preservation of liens.--All liens upon the property 
+        of any Federal home loan bank which is participating in any 
+        merger, combination, or consolidation under this subsection 
+        shall continue to be effective after the consummation of the 
+        transaction except that any lien upon property of any bank 
+        other than the resulting bank shall be effective only with 
+        respect to the property which was subject to the lien 
+        immediately before consummation of the transaction.
+            ``(8) Continuation of suits.--
+                    ``(A) In general.--No action or other proceeding 
+                commenced by or against any Federal home loan bank 
+                which is participating in any merger, combination, or 
+                consolidation under this subsection shall abate by 
+                reason of the consummation of such transaction.
+                    ``(B) Substitution of resulting bank.--In any 
+                action or proceeding described in subparagraph (A), the 
+                Federal home loan bank resulting from the transaction 
+                referred to in such subparagraph shall be substituted 
+                for the Federal home loan bank involved in such action 
+                or proceeding before the consummation of the 
+                transaction.
+                    ``(C) Applicability to resulting bank.--Any final 
+                judgment or other determination which becomes final in 
+                any action or proceeding described in subparagraph (A) 
+                shall be binding on the bank resulting from the 
+                transaction referred to in such subparagraph.
+            ``(9) Number of elected directors of resulting bank.--Any 
+        Bank resulting from a merger, combination, or consolidation 
+        pursuant to this section may have a number of directors equal 
+        to or less than the total number of elected directors of all 
+        the banks which participated in such transaction (as determined 
+        immediately before such transaction). and
+            ``(10) Number of appointed directors of resulting bank.--
+        The number of appointed directors of any Bank resulting from a 
+        merger, combination, or consolidation pursuant to this section 
+        shall be not less than \1/2\ and not more than \3/4\ of the 
+        number of elected directors.
+            ``(11) Adjustment of district boundaries.--After a merger, 
+        combination, or consolidation of 2 or more Federal home loan 
+        banks under this subsection is consummated, the Finance Board 
+        shall adjust the districts established in subsection (b) to 
+        reflect such merger, combination, or consolidation.
+    ``(d) Criteria For Eligibility for Membership in a Bank.--
+            ``(1) In general.--Any insurance company or regulated 
+        financial institution shall be eligible to become and remain a 
+        member of a Federal home loan bank if the institution meets and 
+        continues to meet the following eligibility requirements:
+                    ``(A) The institution is subject to inspection and 
+                regulation under the banking laws, or under similar 
+                laws, of the State in which the institution is 
+                organized or of the United States.
+                    ``(B) The institution maintains an investment in 
+                residential mortgage assets in an amount not less than 
+                the amount which is equal to 10 percent of the total 
+                assets of the institution.
+            ``(2) Applicability of minimum residential mortgage 
+        investment requirement to new institutions.--
+                    ``(A) In general.--In the case of an institution 
+                which is applying for membership in a Federal home loan 
+                bank before or as of the date on which the institution 
+                commences initial business operations, paragraph (1)(B) 
+                shall not apply with respect to such institution until 
+                the end of the 1-year period beginning on such date.
+                    ``(B) Intention to invest in residential mortgage 
+                assets.--A Federal home loan bank may require an 
+                institution described in subparagraph (A) to provide 
+                the bank with such evidence of the institution's 
+                intention to comply with paragraph (1)(B) as the bank 
+                considers appropriate.
+            ``(3) Bank membership.--An institution which is eligible to 
+        become a member of a Federal home loan bank under this section 
+        may only become a member of, or secure advances from--
+                    ``(A) the Federal home loan bank of the district in 
+                which is located the institution's principal place of 
+                business; or
+                    ``(B) the bank of a district adjoining the district 
+                described in subparagraph (A) if--
+                            ``(i) demanded by convenience; and
+                            ``(ii) the Finance Board approves.
+            ``(4) Insurance company subject to inspection and 
+        regulation.--Notwithstanding paragraph (1)(A), any insurance 
+        company which would be eligible to become a member of a Federal 
+        home loan bank but for the fact that the institution is not 
+        subject to inspection and regulation under the banking laws or 
+        similar laws of the State in which such company is organized 
+        shall be eligible to become a member if the company agrees to 
+        be subject to such inspection and regulation as the Finance 
+        Board shall prescribe.
+            ``(5) Voluntary membership.--Subject to section 6(e), no 
+        insurance company or regulated financial institution may be 
+        required to become or remain a member of a Federal home loan 
+        bank by any State, or by any agency, department or independent 
+        establishment of the United States or any State.''.
+
+SEC. 3. FEDERAL HOUSING FINANCE BOARD.
+
+    (a) In General.--Section 3 of the Federal Home Loan Bank Act (12 
+U.S.C. 1423) is amended to read as follows:
+
+``SEC. 3. FEDERAL HOUSING FINANCE BOARD.
+
+    ``(a) Establishment.
+            ``(1) In general.--There shall be a Federal Housing Finance 
+        Board in the executive branch which shall be an independent 
+        agency to regulate the safety and soundness of the Federal Home 
+        Loan Bank System.
+            ``(2) Duties.--The duties of the Finance Board shall be the 
+        following:
+                    ``(A) To ensure that the Federal home loan banks--
+                            ``(i) operate in accordance with this Act 
+                        in a safe and sound manner; and
+                            ``(ii) remain adequately capitalized.
+                    ``(B) To provide periodic reports to the Congress 
+                regarding the safety and soundness of the Federal Home 
+                Loan Bank System.
+    ``(b) Composition of Finance Board.--
+            ``(1) In general.--The Finance Board shall be composed of 3 
+        directors appointed by the President, by and with the advice 
+        and consent of the Senate, from among individuals who--
+                    ``(A) are citizens of the United States; and
+                    ``(B) have--
+                            ``(i) extensive experience or training in 
+                        housing finance or the operation of regulated 
+                        financial institutions; or
+                            ``(ii) a commitment to provide specialized 
+                        housing credit.
+            ``(2) Terms.--
+                    ``(A) In general.--Each director of the Finance 
+                Board shall be appointed for a term of 7 years.
+                    ``(B) Interim appointments.--Any director appointed 
+                to fill a vacancy occurring before the expiration of 
+                the term for which such director's predecessor was 
+                appointed shall be appointed only for the remainder of 
+                such term.
+                    ``(C) Continuation of service.--Each director may 
+                continue to serve after the expiration of the term to 
+                which such director was appointed until a successor has 
+                been appointed and qualified.
+            ``(3) Chairperson and acting chairperson.--
+                    ``(A) Chairperson.--The President shall designate 1 
+                of the directors to be the Chairperson of the Finance 
+                Board.
+                    ``(B) Acting chairperson.--
+                            ``(i) In general.--The Chairperson shall 
+                        designate another director to serve as Acting 
+                        Chairperson during the absence or disability of 
+                        the Chairperson.
+                            ``(ii) Selection by directors.--If a 
+                        designation by the Chairperson has not been 
+                        made pursuant to clause (i) and the position of 
+                        Chairperson becomes vacant, the remaining 
+                        directors shall elect a director to serve as 
+                        the Acting Chairperson until a Chairperson has 
+                        been appointed.
+            ``(4) Representational requirements.--
+                    ``(A) Political affiliation.--Not more than 2 
+                directors may be members of the same political party.
+                    ``(B) District representation.--Not more than 1 
+                director may be appointed from any single district of 
+                the Federal Home Loan Bank System.
+            ``(5) Vacancy.--Any vacancy on the Finance Board shall be 
+        filled in the manner in which the original appointment was 
+        made.
+            ``(6) Limitations on conflicts of interest.--No director on 
+        the Finance Board may, while serving as a director--
+                    ``(A) serve as a director, officer, employee, 
+                counsel, or agent of any Federal home loan bank; or
+                    ``(B) hold shares of, serve as a director, officer, 
+                employee, counsel, or agent of, or have any other 
+                financial interest in any member of any such bank.
+            ``(7) Full-time service.--All directors shall serve on a 
+        full-time basis.
+            ``(8) Quorum.--2 directors shall constitute a quorum.
+    ``(c) General Powers.--The Finance Board shall have the following 
+powers:
+            ``(1) To maintain such oversight of the Federal home loan 
+        banks as may be necessary to ensure that such banks operate in 
+        a financially safe and sound manner.
+            ``(2) To prescribe or issue, and enforce, such regulations 
+        and orders as the Finance Board determines to be necessary to 
+        achieve such purpose.
+            ``(3) To suspend or remove for cause a director, officer, 
+        employee, or agent of any Federal home loan bank or joint 
+        office of the Federal Home Loan Bank System.
+            ``(4) To determine necessary expenditures of the Finance 
+        Board under this Act and the manner in which such expenditures 
+        shall be incurred, allowed, and paid.
+            ``(5) To use the United States mails in the same manner and 
+        under the same conditions as a department or agency of the 
+        United States.
+    ``(d) Receipts of the Finance Board.--
+            ``(1) Deposit in treasury.--Receipts of the Finance Board 
+        derived from assessments imposed on the Federal home loan banks 
+        and from other sources shall be deposited in the Treasury of 
+        the United States.
+            ``(2) Payment of expenses.--Salaries of the directors and 
+        other employees of the Finance Board and all other expenses of 
+        the Finance Board may be paid from the receipts described in 
+        paragraph (1).
+            ``(3) Treatment of amounts received.--Notwithstanding any 
+        other provision of law--
+                    ``(A) no amount received by the Finance Board 
+                pursuant to any assessment imposed on any Federal home 
+                loan bank or any other income of the Finance Board may 
+                be construed to be Government funds or appropriated 
+                money;
+                    ``(B) no authority of the Finance Board to spend or 
+                otherwise obligate any such amount may be treated as 
+                budget authority, spending authority, or credit 
+                authority or as authority to obligate funds of the 
+                United States; and
+                    ``(C) no such amount shall be subject to 
+                apportionment for purposes of chapter 15 of title 31, 
+                United States Code, or under any other authority.
+    ``(e) Staff.--
+            ``(1) In general.--Subject to title IV of the Financial 
+        Institutions Reform, Recovery, and Enforcement Act of 1989, the 
+        Finance Board may employ, direct, and fix the compensation and 
+        number of employees, attorneys, and agents of the Finance 
+        Board.
+            ``(2) Prohibition on delegation to banks or the office of 
+        finance corporation.--The Finance Board may not delegate any 
+        function to any employee or administrative unit of any bank or 
+        the Office of Finance Corporation.
+            ``(3) Consultation.--In directing and fixing the 
+        compensation of staff, attorneys, and agents, the Finance Board 
+        shall consult with and maintain comparability with the 
+        compensation at the Federal banking agencies (as defined in 
+        section 3(z) of the Federal Deposit Insurance Act).
+            ``(4) Restatement of prior law.--The compensation of staff, 
+        attorneys, and agents shall be paid without regard to the 
+        provisions of other laws applicable to officers or employees of 
+        the United States.
+    ``(f) Prohibition on Joint Offices.--
+            ``(1) In general.--Except to the extent specifically 
+        provided in this Act, there shall be no joint or collective 
+        offices of the Federal home loan banks in the Federal Home Loan 
+        Bank System.
+            ``(2) Transition provision.--
+                    ``(A) Prior joint or collective office abolished.--
+                Effective at the end of the 6-month period beginning on 
+                the effective date of the Federal Home Loan Bank System 
+                Modernization Act of 1995, any entity which existed as 
+                or was operated as a joint or collective office of the 
+                Federal home loan banks on the day before the date of 
+                the enactment of such Act is hereby abolished.
+                    ``(B) Transfer of functions.--Any function of any 
+                entity abolished under subparagraph (A) shall be 
+                transferred by the Finance Board to the Office of 
+                Finance Corporation before the end of the 6-month 
+                period beginning on the effective date of the Federal 
+                Home Loan Bank System Modernization Act of 1995.
+                    ``(C) Savings provision.--The abolishment of the 
+                Office of Finance pursuant to this section shall not 
+                affect the validity of any right, duty, or obligation 
+                of any person or entity pertaining in any manner to the 
+                Office of Finance.
+    ``(g) Annual Reports.--
+            ``(1) Board reports.--The Finance Board shall make an 
+        annual report to the Congress regarding the safety and 
+        soundness of the Federal Home Loan Bank System.
+            ``(2) Bank reports.--The Federal home loan banks shall 
+        submit a collective annual report to the Congress on the 
+        fulfillment of the mission of the banks under this Act.
+            ``(3) Affordable housing advisory councils.--The affordable 
+        housing advisory councils of the Federal home loan banks shall 
+        submit a collective annual report to the Congress on the 
+        fulfillment by the Bank System of the system's affordable 
+        housing mission under section 10 of this Act.
+    ``(h) Status of Bank Employees.--Notwithstanding any other 
+provision of this Act, no officer, employee, or agent of a Federal home 
+loan bank or any joint office of such banks shall be considered to be 
+an officer or employee of the United States for purposes of title 5, 
+United States Code.
+    ``(i) Suspension or Removal of Bank Employees for Cause.--
+            ``(1) Written notice.--In exercising any authority under 
+        subsection (c)(2) to suspend or remove for cause a director, 
+        officer, employee, or agent of any Federal home loan bank or 
+        joint office of the Federal Home Loan Bank System, the Finance 
+        Board shall provide written notice of such suspension or 
+        removal and the cause of the suspension or removal to such 
+        director, officer, employee, or agent and to such bank or joint 
+        office.
+            ``(2) Hearing.--The notice provided pursuant to paragraph 
+        (1) shall establish the time and place for a hearing on the 
+        suspension or removal in accordance with section 554 of title 
+        5, United States Code.''.
+
+SEC. 4. THE OFFICE OF FINANCE CORPORATION.
+
+    Section 4 of the Federal Home Loan Bank Act (12 U.S.C. 1424) is 
+amended to read as follows:
+
+``SEC. 4 THE OFFICE OF FINANCE CORPORATION.
+
+    ``(a) Establishment.--
+            ``(1) In general.--There is hereby established the Office 
+        of Finance Corporation (hereafter in this section referred to 
+        as the `Corporation') which shall be a federally chartered 
+        instrumentality of the United States.
+            ``(2) Purposes.--The purpose of the Corporation shall be to 
+        issue the notes, bonds, and debentures of the Federal home loan 
+        banks in accordance with this Act.
+            ``(3) Transfer of functions.--The functions of the Office 
+        of Finance of the Federal home loan banks shall be transferred 
+        to the Corporation before the end of the 6-month period 
+        beginning on the effective date of the Federal Home Loan Bank 
+        System Modernization Act of 1995 in accordance with section 
+        3(f)(2).
+    ``(b) Powers.--Subject to the other provisions of this Act and such 
+safety and soundness regulations as the Finance Board may prescribe, 
+the Corporation shall have the following powers:
+            ``(1) To issue voting capital stock to the Federal home 
+        loan banks.
+            ``(2) To issue Federal home loan bank notes, bonds and 
+        debentures pursuant to section 11 of this Act on behalf of the 
+        banks.
+            ``(3) To determine the amount, maturities, rate of 
+        interest, terms, and other conditions of Federal home loan bank 
+        notes, bonds and debentures.
+            ``(4) To adopt, alter, and use a corporate seal.
+            ``(5) To enter into contracts.
+            ``(6) To sue and be sued in the corporate capacity of the 
+        corporation, and to complain and defend in any action brought 
+        by or against the Corporation in any court of competent 
+        jurisdiction.
+            ``(7) To exercise such incidental powers not inconsistent 
+        with the provisions of this Act as are necessary and 
+        appropriate to carry out the provisions of this Act.
+    ``(c) Board of Directors.--
+            ``(1) Establishment.--The management of the Corporation 
+        shall be vested in a board of directors composed of directors 
+        elected by the Federal home loan banks in accordance with 
+        paragraph (2).
+            ``(2) Composition of board.--Each Federal home loan bank 
+        shall annually elect 1 individual who, as of the time of the 
+        election, is an officer or director of such bank to serve as a 
+        member of the board of directors of the Corporation.
+            ``(3) Duties.--The board of directors shall administer the 
+        affairs of the Corporation in accordance with the provisions of 
+        this Act.
+            ``(4) Terms.--
+                    ``(A) In general.--Each member of the board of 
+                directors shall be elected for a term of 1 year and 
+                shall serve at the pleasure of the board of directors 
+                of the Federal home loan bank which elected such 
+                member.
+                    ``(B) Term limitation.--No member of the board of 
+                directors may serve more than 3 full consecutive terms.
+                    ``(C) Interim appointments.--Any director elected 
+                to fill a vacancy occurring before the expiration of 
+                the term for which such director's predecessor was 
+                elected shall be elected only for the remainder of such 
+                term.
+                    ``(D) Continuation of service.--Each director may 
+                continue to serve after the expiration of the term to 
+                which such director was elected until a successor has 
+                been elected and qualified.
+            ``(5) Powers.--The board of directors shall exercise such 
+        powers as may be necessary and appropriate to carry out the 
+        purposes of this section, including the power--
+                    ``(A) to impose an assessment on the Federal home 
+                loan banks to cover the operating expenses of the 
+                Corporation; and
+                    ``(B) to appoint, establish the duties of, 
+                compensate, and dismiss at will the employees of the 
+                Corporation.
+            ``(6) Pay.--The members of the board of directors shall 
+        serve without additional compensation, but shall be reimbursed 
+        for reasonable expenses of travel, lodging, and subsistence 
+        incurred in attending meetings and other activities of the 
+        Corporation.
+            ``(7) Quorum requirement.--No business may be conducted by 
+        the board of directors unless a quorum of the members of such 
+        board of directors is present.
+            ``(8) Vacancies.--Any vacancy on the board of directors 
+        shall be filled in the same manner in which the original 
+        appointment was made.
+            ``(9) Appointment of officers and adoptions of rules of 
+        procedure.--The board of directors shall--
+                    ``(A) select, from among the members of such board, 
+                a Chairperson, a Vice Chairperson, and a Secretary; and
+                    ``(B) adopt rules of procedure for actions before 
+                the board of directors.
+    ``(d) Stock.--
+            ``(1) Issuance of equal amount to each bank.--The 
+        Corporation shall issue 100 shares of voting capital stock, 
+        with a par value of $100 per share to each Federal home loan 
+        bank.
+            ``(2) Nontransferability.--Stock issued under paragraph (1) 
+        may be owned and held only by the Federal home loan banks.
+            ``(3) Payment upon issuance.--Upon issuance of any share of 
+        stock under this subsection to any Federal home loan bank, the 
+        bank shall pay to the Corporation the total amount due for such 
+        stock.
+            ``(4) Distribution requirement.--The total amount of 
+        outstanding stock of the Corporation shall, at all times, be 
+        distributed equally among all the Federal home loan banks.
+    ``(e) Status.--Except to the extent expressly provided in this Act, 
+the Corporation shall be treated as a Federal home loan bank for 
+purposes of any law.
+    ``(f) Jurisdiction, Removal Power.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, any civil action or proceeding to which the Corporation is 
+        a party shall be deemed to arise under the laws of the United 
+        States.
+            ``(2) Venue.--The United States District Court for the 
+        District of Columbia shall have exclusive jurisdiction over any 
+        action to which the Corporation is a party.
+            ``(3) Removal.--The Corporation may, without bond or 
+        security, remove any action or proceeding to which the 
+        corporation is or becomes a party from a State court to the 
+        United States District Court for the District of Columbia.''.
+
+SEC. 5. CAPITAL STOCK OF THE FEDERAL HOME LOAN BANKS.
+
+    (a) Issuance of Capital Stock.--Section 6(a) of the Federal Home 
+Loan Bank Act is amended--
+            (1) by striking ``(a) The capital stock'' and inserting 
+        ``(a) Issuance of Capital Stock.--
+            ``(1) In general.--The capital stock'';
+            (2) by striking the 2d and 3d sentences and inserting ``The 
+        capital stock shall be issued at par.''; and
+            (3) by adding at the end the following new paragraph:
+            ``(2) Rules and requirements.--The board of directors of 
+        each Federal home loan bank shall promptly prescribe rules and 
+        requirements, consistent with this Act, governing the capital 
+        stock of such bank and other provisions of this section.''.
+    (b) Subscription and Retirement of Stock.--Section 6(b) of the 
+Federal Home Loan Bank Act is amended to read as follows:
+    ``(b) Subscription and Retirement of Stock.--
+            ``(1) Minimum investment requirement.--Subject to 
+        paragraphs (3) and (6), the minimum investment of each 
+        institution eligible to become a member of a Federal home loan 
+        bank under section 5 in the stock of such bank shall be an 
+        amount not less than the greater of--
+                    ``(A) the minimum amount required to meet the 
+                asset-based investment requirement established by the 
+                bank pursuant to paragraph (2); or
+                    ``(B) the minimum amount required to meet the 
+                advances-related investment requirement established by 
+                the bank pursuant to paragraph (4).
+            ``(2) Asset-based requirement.--
+                    ``(A) Transition schedule.--During calendar years 
+                1996, 1997, and 1998, the minimum investment of each 
+                member of a Federal home loan bank in the stock of such 
+                bank, as determined on the basis of the assets of such 
+                member, shall be an amount not less than the amount set 
+                forth in the following table, as determined annually by 
+                the bank's board of directors by April 30 of each year 
+                as of the close of the preceding year:
+
+``During the year:                  The minimum amount of stock shall 
+                                            be:
+    1996...........................
+                                        An amount equal to the lesser 
+                                                of 0.6 percent of 
+                                                member's total assets 
+                                                or 1.0 percent of the 
+                                                member's residential 
+                                                mortgage assets, but in 
+                                                any case not less than 
+                                                the amount equal to 0.3 
+                                                percent of total assets
+    1997...........................
+                                        An amount equal to the lesser 
+                                                of 0.5 percent of a 
+                                                member's total assets 
+                                                or 1.0 percent of the 
+                                                member's residential 
+                                                mortgage assets, but in 
+                                                any case not less than 
+                                                the amount equal to 
+                                                0.35 percent of total 
+                                                assets
+    1998...........................
+                                        An amount equal to the lesser 
+                                                of 0.4 percent of a 
+                                                member's total assets 
+                                                or 1.0 percent of the 
+                                                member's residential 
+                                                mortgage assets
+            
+                    ``(B) After 1998.--The minimum investment of each 
+                member of a Federal home loan bank in the stock of such 
+                bank after 1998, as determined on the basis of the 
+                assets of such member, shall be an amount equal to not 
+                less than 0.3 percent and not more than 0.6 percent of 
+                the member's total assets, as determined by the bank's 
+                board of directors from time to time.
+            ``(3) Discretionary increase in amount of minimum 
+        investment authorized.--Notwithstanding paragraph (2)(A), the 
+        board of directors of each Federal home loan bank may, in the 
+        discretion of the board of directors, substitute--
+                    ``(A) `an amount determined by the board of 
+                directors between 0.5 percent and 0.6 percent of a 
+                member's total assets' for `0.5 percent of a member's 
+                total assets' where such term appears in the table in 
+                paragraph (2)(A) in connection with 1997; and
+                    ``(B) `an amount determined by the board of 
+                directors between 0.4 percent and 0.6 percent of a 
+                member's total assets' for `0.4 percent of a member's 
+                total assets' where such term appears in the table in 
+                paragraph (2)(A) in connection with 1998.
+            ``(4) Advances-related requirement.--The minimum investment 
+        of each member of a Federal home loan bank in the stock of such 
+        bank, as determined on the basis of the amount of outstanding 
+        advances from such bank to the member, shall be an amount which 
+        is equal to not less than 3.0 percent of such advances and not 
+        more than 6.0 percent of such advances, as determined by the 
+        board of directors of the bank from time to time.
+            ``(5) De minimus investment requirement authorized.--
+        Notwithstanding the requirements of this section, the board of 
+        directors of each Federal home loan bank may establish a 
+        minimum capital stock subscription of at least $1,000.
+            ``(6) Finance board authority to increase investment 
+        requirement to maintain bank safety and soundness or system 
+        liquidity.--
+                    ``(A) District-wide application.--If the Finance 
+                Board determines that the safety and soundness of a 
+                Federal home loan bank requires an increase in the 
+                amount of capital of such bank, the Finance Board may 
+                require each member of such bank to maintain an 
+                investment in the capital stock of such bank in an 
+                amount determined by the Finance Board which shall not 
+                exceed, as applied with respect to any member, the 
+                greater of--
+                            ``(i) an amount equal to 0.6 percent of the 
+                        total assets of the member; or
+                            ``(ii) an amount equal to 6.0 percent of 
+                        the total outstanding advances of the member 
+                        from such bank.
+                    ``(B) System-wide application.--If the Finance 
+                Board determines that the ability of the Federal Home 
+                Loan Bank System to meet the collective financial 
+                obligations of the Federal home loan banks requires an 
+                increase in the amount of capital of all such banks, 
+                the Finance Board may require all the members of all 
+                the banks to maintain an investment in the capital 
+                stock of each such member's bank in an amount 
+                determined by the Finance Board which shall not exceed 
+                the greater of the amounts described in clauses (i) and 
+                (ii) of subparagraph (A).
+            ``(7) Retirement of stock upon application of member.--
+                    ``(A) In general.--Upon application by a member, a 
+                bank shall retire the amount of stock sought to be 
+                retired by such member, no later than 6 months after 
+                the date of the filing of the application, if the board 
+                of directors of the bank determines that the following 
+                additional conditions have been met:
+                            ``(i) The amount of such member's 
+                        investment in the capital stock of the bank 
+                        which would remain after the retirement of the 
+                        stock sought in the application is not less 
+                        than the minimum required investment amount 
+                        applicable to such member.
+                            ``(ii) The bank is adequately capitalized, 
+                        and would remain adequately capitalized, if the 
+                        stock subject to all pending applications by 
+                        members for retirement of stock were 
+                        immediately deducted from the Bank's capital.
+                            ``(iii) The member is not in breach of any 
+                        agreement with the bank.
+                    ``(B) Pro rata basis.--If the retirement, in any 
+                calendar quarter, of the total amount of stock which is 
+                subject to pending applications by members of a bank 
+                under subparagraph (A) would cause the bank to cease to 
+                be adequately capitalized, the bank may retire such pro 
+                rata portion of the total amount of stock each 
+such member is seeking to retire as would allow the Bank to remain 
+adequately capitalized after such retirement.
+                    ``(C) Retirement of excess stock given precedence 
+                over withdrawal from membership notices.--Except as 
+                provided in subparagraph (D), a bank shall dispose of 
+                all pending applications for retirement of stock under 
+                subparagraph (A), and make all payments with respect to 
+                the retirement of such stock, before taking any action 
+                to retire the stock of any member of the bank which has 
+                submitted a notice of withdrawal from membership 
+                pursuant to subsection (e)(1).
+                    ``(D) Treatment of notice of withdrawal as 
+                application to retire excess stock for purposes of 
+                allowing prompt payment.--Subject to such regulations 
+                as the Finance Board may prescribe, a bank may treat, 
+                for purposes of subparagraph (C), the submission by a 
+                member of a notice of withdrawal of membership under 
+                subsection (e)(1) as an application by such member 
+                under subparagraph (A) to retire that portion of such 
+                member's investment in the capital stock of the bank as 
+                exceeds the minimum investment amount applicable to 
+                such member.
+            ``(8) Retirement of stock district-wide.--
+                    ``(A) In general.--Upon a determination of the 
+                board of directors of a bank, a bank may retire all, or 
+                any portion, of the outstanding stock of the bank in 
+                excess of the total of the minimum investment amounts 
+                of all the members of the bank, if the board of 
+                directors determines that the bank is adequately 
+                capitalized, and would remain adequately capitalized if 
+                all the stock of the bank which--
+                            ``(i) the bank proposes to retire under 
+                        this subparagraph; and
+                            ``(ii) is subject to pending applications 
+                        for retirement, and pending notices of 
+                        termination of or withdrawal from membership,
+                were deducted from the bank's capital.
+                    ``(B) Retirement required to be made on a pro rata 
+                basis.--The determination of the amount of shares held 
+                by each member of a bank which are subject to 
+                retirement pursuant to a determination by the board of 
+                directors of the bank in accordance with subparagraph 
+                (A) shall be made on a pro rata basis.
+                    ``(C) Retirement subject to minimum investment 
+                requirements.--No retirement of shares held by a member 
+                of a bank may be made under this section to the extent 
+                such retirement of shares would cause the amount of 
+                such member's remaining investment in the capital stock 
+                of the bank after such retirement to fall below the 
+                minimum investment amount applicable to such member.
+            ``(9) Payment and cancellation.--In the case of any 
+        retirement of stock of a Federal home loan bank in accordance 
+        with this subsection, the bank shall--
+                    ``(A) at the election of the bank--
+                            (i) pay the member an amount equal to the 
+                        product of the number of shares of stock 
+                        retired and the par value of such stock; or
+                            (ii) credit such amount, in whole or in 
+                        part, against any indebtedness of the member to 
+                        the bank, including any outstanding prepayment 
+                        fees; and
+                    ``(B) cancel the shares so retired.
+            ``(10) Issuance and retirement of whole shares.--The board 
+        of directors of each bank may provide for such adjustments in 
+        amounts of any stock to be issued or retired as may be 
+        appropriate in order that stock may be issued or retired only 
+        in entire shares.
+            ``(11) Minimum investment amount defined.--For purposes of 
+        this subsection, the term `minimum investment amount' means, 
+        with respect to any member of a Federal home loan bank, the 
+        minimum amount required, under this subsection, to be invested 
+        by such member in such bank.''.
+    (c) Termination of Membership.--Section 6(e) of the Federal Home 
+Loan Bank Act (12 U.S.C. 1426(e)) is amended to read as follows:
+    ``(e) Termination of Membership.--
+            ``(1) Voluntary withdrawal from membership.--
+                    ``(A) In general.--Any member of a Federal home 
+                loan bank may withdraw from membership in such bank 
+                by--
+                            ``(i) filing a written notice of the 
+                        member's intention to withdraw with the board 
+                        of directors of the bank; and
+                            ``(ii) paying a fee equal to 0.1 percent of 
+                        the minimum investment amount applicable to 
+                        such member under subsection (b).
+                    ``(B) Rescission of notice.--Any member of a 
+                Federal home loan bank may rescind any notice submitted 
+                to the board of directors of the bank in accordance 
+                with subparagraph (A) at any time before the member 
+                receives any payment in connection with any retirement 
+                of such member's stock in the bank pursuant to such 
+                notice (other than any payment made pursuant to a 
+                determination by the board of directors under 
+                subsection (b)(6)(D).
+                    ``(C) Limitation on authority to vote shares while 
+                notice is pending.--No member may vote the capital 
+                stock of a Federal home loan bank on any matter while a 
+                notice by such member of withdrawal from membership of 
+                the bank is pending before the board of directors of 
+                the bank.
+            ``(2) Removal from membership.--The board of directors of 
+        any Federal home loan bank may remove any member from 
+        membership, if--
+                    ``(A) in the opinion of the board of directors, 
+                such member has failed to comply with a provision of 
+                this Act or any other applicable law; or
+                    ``(B) the member has been determined to be 
+                insolvent, or otherwise subject to the appointment of a 
+                conservator, receiver, or other legal custodian, by a 
+                state or Federal authority with regulatory and 
+                supervisory responsibility for such member.
+            ``(2) Liquidation of debt.--
+                    ``(A) In general.--If any member's membership in a 
+                Federal home loan bank is terminated for any reason, 
+                the indebtedness of such member to the Federal home 
+                loan bank shall be liquidated in an orderly manner (as 
+                determined by the bank).
+                    ``(B) Treatment as prepayment.--Any liquidation of 
+                indebtedness pursuant to subparagraph (A) shall be 
+                treated as a prepayment of any such indebtedness, and 
+                shall be subject to any penalties or other fees 
+                applicable to such prepayment.
+                    ``(C) Return of collateral.--Upon the liquidation 
+                of indebtedness of a member pursuant to subparagraph 
+                (A), the member shall be entitled to the return of any 
+                collateral relating to the indebtedness.
+            ``(3) Surrender and cancellation of stock.--If any member's 
+        membership in a Federal home loan bank is terminated for any 
+        reason, the capital stock in the bank owned by such member 
+        shall be surrendered and canceled after the liquidation of any 
+        indebtedness (of the member to the bank) is completed pursuant 
+        to paragraph (2).
+            ``(4) Payment on canceled stock.--
+                    ``(A) In general.--Upon the surrender and 
+                cancellation of any capital stock of a member in a 
+                Federal home loan bank in accordance with paragraph 
+                (3), the member shall be paid an amount equal to the 
+                product of the number of shares of stock canceled and 
+                the par value of such stock.
+                    ``(B) Withholding of payment in case of 
+                undercapitalized bank.--If the Finance Board finds that 
+                a Federal home loan bank is less than adequately 
+                capitalized, or would be less than adequately 
+                capitalized if all the shares of stock in such bank 
+                which are the subject of pending applications for stock 
+                retirement and notices of withdrawal were immediately 
+                deducted from the bank's capital, the Finance Board may 
+                order the bank to--
+                            ``(i) withhold the amount to be paid 
+                        required under subparagraph (A) with respect to 
+                        any stock for up to 12 months; and
+                            ``(ii) in the case of a critically 
+                        undercapitalized bank (as defined by the 
+                        Finance Board in accordance with section 28), 
+                        withhold a pro rata share of the amount to be 
+                        paid with respect to such stock under 
+                        subparagraph (A) equal to the additional 
+                        capital which members of the bank are required 
+                        to contribute to the bank under a capital 
+                        restoration plan imposed by the Finance Board 
+                        in accordance with section 28, until such 
+                        capital restoration plan has been terminated by 
+                        the Finance Board.''.
+    (d) Reduction of Period Required Before Withdrawn Member May Resume 
+Membership.--Section 6(h) of the Federal Home Loan Bank Act (12 U.S.C. 
+1426(h)) is amended--
+            (1) by striking ``10'' and inserting ``5''; and
+            (2) by inserting before the period at the end ``, except 
+        that any institution that withdrew from membership in any such 
+        bank before the date of the enactment of the Federal Home Loan 
+        Bank Modernization Act of 1995 may acquire membership in a 
+        Federal Home Loan Bank at any time after such date subject to 
+        the requirements of this Act.''
+    (e) Eligibility of Non-QTL Savings Associations to Obtain New 
+Advances and Maintain Advances.--Section 10(m)(3)(B) of the Home 
+Owners' Loan Act (12 U.S.C. 1467a(m)(3)(B)) is amended--
+            (1) in clause (i), by striking subclause (III) and 
+        redesignating subclause (IV) as subclause (III); and
+            (2) in clause (ii), by striking subclause (II).
+    (f) Voluntary Membership of Federal Savings Associations.--Section 
+5(f) of the Home Owners' Loan Act (12 U.S.C. 1464(f)) is amended to 
+read as follows:
+    ``(f) Voluntary Membership in Federal Home Loan Bank.--Each Federal 
+savings association may qualify for membership in a Federal home loan 
+bank in the manner provided in the Federal Home Loan Bank Act.''.
+
+SEC. 6. CAPITAL REQUIREMENTS.
+
+    (a) Establishment of Capital Requirements.--The Federal Home Loan 
+Bank Act (12 U.S.C. 1421 et seq.) is amended by redesignating sections 
+28, 29, and 30 as sections 29, 30, and 31, respectively, and by 
+inserting after section 27 the following new section:
+
+``SEC. 28. BANK CAPITAL REQUIREMENTS.
+
+    ``(a) In General.--
+            ``(1) Uniform capital standards.--The Finance Board shall, 
+        by regulation, establish a uniform capital requirement for 
+        Federal home loan banks which shall take into consideration 
+        interest rate risk, credit risk, and all other risks and 
+        obligations associated with the operation of the banks.
+            ``(2) Minimum total tangible capital requirement.--At a 
+        minimum, the regulations prescribed by the Finance Board under 
+        paragraph (1) shall require each Federal home loan bank to 
+        maintain total tangible capital in an amount which is equal to 
+        or greater than the greater of--
+                    ``(A) the sum of--
+                            ``(i) 2.5 percent of the bank's total 
+                        assets; and
+                            ``(ii) 0.45 percent of the bank's net off-
+                        balance sheet exposure; or
+                    ``(B) 10 percent of the bank's risk-weighted 
+                assets.
+            ``(3) Total tangible capital defined.--For purposes of this 
+        section, the term `total tangible capital' means capital stock 
+        and retained earnings.
+    ``(b) Capital Classifications.--
+            ``(1) In general.--Before the end of the 120-day period 
+        beginning on the date of the enactment of the Federal Home Loan 
+        Bank System Modernization Act of 1995, the Finance Board shall 
+        prescribe standards for classifying the capital adequacy of 
+        Federal home loan banks in accordance with the following 
+        capital categories:
+                    ``(A) Adequately capitalized.
+                    ``(B) Undercapitalized.
+                    ``(C) Significantly undercapitalized.
+                    ``(D) Critically undercapitalized.
+            ``(2) Minimum requirements for adequately capitalized 
+        category.--Under the standards established by the Finance Board 
+        under paragraph (1) a bank may not be classified as adequately 
+        capitalized unless the bank--
+                    ``(A) meets the minimum tangible capital 
+                requirements referred to in subsection (a); and
+                    ``(B) maintains additional capital as may be 
+                prescribed by the Finance Board to ensure that the bank 
+                has sufficient capital to account for the bank's 
+                exposure to interest-rate risk, credit risk, and all 
+                other risks and obligations associated with operating 
+                the bank.
+            ``(3) Quarterly evaluation of capital adequacy.--
+                    ``(A) In general.--The Finance Board shall
+                            ``(i) evaluate the capital adequacy of each 
+                        Federal home loan bank at least once in each 
+                        calendar quarter; and
+                            ``(ii) classify the capital adequacy of the 
+                        bank in accordance with the categories 
+                        established pursuant to paragraph (1).
+                    ``(B) Judicial review.--For the purpose of 
+                obtaining judicial review of--
+                            ``(i) any classification of the capital 
+                        adequacy of a Federal home loan bank under 
+                        subparagraph (A); or
+                            ``(ii) any action taken by the Finance 
+                        Board pursuant to such classification,
+                the classification, or the action taken pursuant to a 
+                classification, shall be treated as a final order of 
+                the Finance Board.
+    ``(c) Capital and Income Restoration Plans.--
+            ``(1) In general.--The Finance Board shall prescribe 
+        regulations which require any Federal home loan bank that is 
+        less than adequately capitalized to file an acceptable capital 
+        and income restoration plan with the Finance Board.
+            ``(2) Contents of plan.--A capital and income restoration 
+        plan of a Federal home loan bank shall demonstrate the actions 
+        the bank will take to become adequately capitalized and to 
+        increase earnings and the time frame within which such goals 
+        will be achieved.
+            ``(3) Authority to prohibit distributions.--In addition to 
+        any other actions which the Finance Board may take against an 
+        undercapitalized Federal home loan bank which--
+                    ``(A) does not submit an acceptable capital 
+                restoration plan; or
+                    ``(B) does not substantially comply with a capital 
+                restoration plan that has been accepted by the Finance 
+                Board,
+        the Finance Board may prohibit such Bank from making any 
+        capital distribution until the bank is adequately capitalized.
+    ``(d) Ownership Interest in Capital.--
+            ``(1) In general.--Notwithstanding any provision of this 
+        Act or any other provision of law, each Federal home loan bank 
+        and the members of each bank shall have an ownership interest 
+        in, and a property right in, the paid-in-capital and retained 
+        earnings of the bank.
+            ``(2) Description of interest.--The ownership interests and 
+        property rights of members referred to in paragraph (1) with 
+        respect to a Federal home loan bank shall be the same in all 
+        respects as the ownership interest in, and property right in, 
+        the paid-in-capital and retained earnings of a private for-
+        profit business corporation organized under the laws of the 
+        State in which such bank is located.
+            ``(3) Shares treated as evidence of ownership interest.--
+        The shares of a Federal home loan bank which are held by a 
+        member shall be treated as evidence of ownership interest and 
+        property right of the member with respect to the paid-in-
+        capital and retained earnings of such bank.''.
+
+SEC. 7. MANAGEMENT OF BANKS.
+
+    Section 7 of the Federal Home Loan Bank Act (12 U.S.C. 1427) is 
+amended to read as follows:
+
+``SEC. 7. MANAGEMENT OF BANKS.
+
+    ``(a) Board of Directors.--
+            ``(1) Composition of board.--Except as otherwise provided 
+        in this section, the management of each Federal home loan bank 
+        shall be vested in a board of directors consisting of 14 
+        directors selected as follows:
+                    ``(A) 8 shall be elected by the members of the bank 
+                as provided in paragraph (5).
+                    ``(B) 6 shall be appointed by the President of the 
+                United States.
+            ``(2) Qualifications.--
+                    ``(A) In general.--Each director of a Federal home 
+                loan bank shall be a citizen of the United States and a 
+                bona fide resident of the district in which such bank 
+                is located.
+                    ``(B) Disqualification.--An individual who is an 
+                officer or director of a member that fails to meet any 
+                applicable capital requirement shall not be qualified 
+                to be a director on the board of directors of a Federal 
+                home loan bank.
+            ``(3) State representational criteria.--
+                    ``(A) In general.--The number of elected directors 
+                of a Federal home loan bank from each State within the 
+                district of such bank shall bear the same approximate 
+                relationship to the total number of elected directors 
+                of such bank as the total amount which the members of 
+the bank whose principal places of business are located in such State 
+are required to invest in the stock of the bank under section 6(b) 
+bears to the total amount which all members of such bank are required 
+to invest in the bank under such section.
+                    ``(B) Transition provision.--Notwithstanding 
+                subparagraph (A), the composition of the boards of 
+                directors of the 12 Federal home loan banks immediately 
+                after the effective date of the Federal Home Loan Bank 
+                System Modernization Act of 1995 shall be the same as 
+                the composition of such boards of directors on January 
+                1, 1995.
+                    ``(C) Discretionary increase in overall number of 
+                directors.--In order to ensure director representation 
+                on the board of directors of a Federal home loan bank 
+                consistent with this paragraph, the board of directors 
+                of the bank may--
+                            ``(i) increase the number of elected 
+                        directors on the board of directors; and
+                            ``(ii) increase the number of appointed 
+                        directors to an amount not less than one-half 
+                        and not more than three-quarters of the number 
+                        of elected directors.
+                    ``(D) Mandatory increase to achieve minimum state 
+                representation.--If, at any time, the number of elected 
+                directors of a Federal home loan bank is less than the 
+                number of States in the district of such bank, the 
+                board of directors of the bank shall increase the 
+                number of elected directors on such board of directors 
+                to a number at least equal to the number of States in 
+                such district.
+                    ``(E) Maximum number from any state.--Not more than 
+                6 directors on the board of directors of any Federal 
+                home loan bank may be residents of the same State.
+                    ``(F) No decrease in state representation.--The 
+                number of elected directors on the board of directors 
+                of any Federal home loan bank from any State may not 
+                decrease below the number of elected directors on the 
+                board of directors from such State as of January 1, 
+                1995.
+            ``(4) Chairperson and vice chairperson.--The board of 
+        directors of each Federal home loan bank shall elect--
+                    ``(A) 1 of the directors of the bank to be the 
+                chairperson of the board of directors; and
+                    ``(B) 1 of the directors of the bank to be vice 
+                chairperson of the board of directors.
+            ``(5) Provisions applicable to appointed directors.--
+                    ``(A) Representational requirement.--At least 2 of 
+                the directors of each Federal home loan bank who are 
+                appointed by the President shall be appointed from 
+                among representatives of organizations with more than a 
+                2-year history of representing consumer or community 
+                interests on banking services, credit needs, housing, 
+                or financial consumer protections.
+                    ``(B) Conflict of interest provision.--No director 
+                on the board of directors of a Federal home loan bank 
+                who is appointed pursuant to this subsection may, 
+                during such director's term of office--
+                            ``(i) serve as an officer of any Federal 
+                        home loan bank or as a director or officer of 
+                        any member of a bank; or
+                            ``(ii) hold shares, or any other financial 
+                        interest in, any member of a bank.
+            ``(6) Provisions applicable to elected directors.--
+                    ``(A) Designation of state to be represented.--Each 
+                position of elected director on the board of directors 
+                of any Federal home loan bank shall be designated by 
+                the board of directors as a position to be filled by a 
+                director representing the members of the bank whose 
+                principal places of business are located in a 
+                particular State.
+                    ``(B) Qualification.--Only officers and directors 
+                of members whose principal places of business are 
+                located in a State shall be qualified to serve as a 
+                director representing such State.
+                    ``(C) Nomination of directors.--All members (of a 
+                Federal home loan bank) whose principal places of 
+                business are located in any State may nominate any 
+                qualified individual for election as a director 
+                representing such State.
+                    ``(D) Voting procedure.--In any election of a 
+                director of a Federal home loan bank, each member whose 
+                principal place of business is located in the State 
+                which such director represents may cast for such office 
+                a number of votes equal to the lesser of--
+                            ``(i) the minimum number of shares of the 
+                        capital stock of such bank in which such member 
+                        is required, under section 6(b), to be invested 
+                        as of the end of the calendar year immediately 
+                        preceding the election, as determined by the 
+                        board of directors of the Federal home loan 
+                        bank; and
+                            ``(ii) the average of the minimum number of 
+                        shares of such stock in which all members whose 
+                        principal places of business are located in 
+                        such State are required, under section 6(b), to 
+                        be invested as of the end of the calendar year 
+                        immediately preceding the election, as so 
+                        determined.
+                    ``(E) Plurality decision.--Each position of elected 
+                director of a Federal home loan bank shall be filled by 
+                the nominee, for such position, who receives a larger 
+                number of the votes cast in an election held for the 
+                purpose of filling such position than any other 
+                nominee.
+            ``(7) Terms.--
+                    ``(A) In general.--The term of each director who is 
+                elected or appointed to the board of directors of a 
+                Federal home loan bank after the date of the enactment 
+                of the Federal Home Loan Bank System Modernization Act 
+                of 1995 shall be 4 years.
+                    ``(B) Term limit.--No individual may serve as a 
+                director on the board of directors of a Federal home 
+                loan bank for more than 2 full consecutive 4-year 
+                terms.
+                    ``(C) Interim appointments.--Any director appointed 
+                or elected to fill a vacancy occurring before the 
+                expiration of the term for which such director's 
+                predecessor was appointed or elected shall be appointed 
+                or elected only for the remainder of such term.
+                    ``(D) Continuation of service.--Each director of a 
+                Federal home loan bank may continue to serve after the 
+                expiration of the term to which such director was 
+                appointed or elected until a successor has been 
+                qualified.
+            ``(8) Vacancies.--
+                    ``(A) Appointed director.--Any vacancy occurring in 
+                the position of appointed director of a Federal home 
+                loan bank shall be filled in the manner in which the 
+                original appointment was made.
+                    ``(B) Elected director.--Any vacancy occurring in 
+                the position of elected director of a Federal home loan 
+bank shall be filled by an affirmative vote of a majority of the 
+remaining directors of such bank, without regard to whether such 
+remaining directors constitute a quorum of the board of directors.
+                    ``(C) Vacancy as a result of disqualification of 
+                director.--
+                            ``(i) In general.--If any director of a 
+                        Federal home loan bank ceases to meet any 
+                        qualification for such position--
+                                    ``(I) the position shall 
+                                immediately become vacant by operation 
+                                of law; and
+                                    ``(II) service by such director in 
+                                such position shall cease.
+                            ``(ii) Continuation.--Notwithstanding 
+                        clause (i), an appointed director of a Federal 
+                        home loan bank whose position became vacant 
+                        pursuant to such clause may continue to serve 
+                        in such position until a successor has been 
+                        qualified.
+            ``(9) Regulations governing nominations and elections.--The 
+        bylaws of each Federal home loan bank shall provide procedures 
+        for the nomination and election of directors on the board of 
+        directors of the bank.
+            ``(10) Definitions.--For purposes of this subsection, the 
+        following definitions shall apply:
+                    ``(A) Member.--The term `member' means, with 
+                respect to any year, any institution which is a member 
+                of a Federal home loan bank and was a member of such 
+                bank at the end of the immediately preceding calendar 
+                year.
+                    ``(B) State.--The term `State' means any State, the 
+                District of Columbia, and the Commonwealth of Puerto 
+                Rico.
+    ``(b) Powers of Boards of Directors.--The board of directors of 
+each Federal home loan bank shall have all power necessary to exercise 
+the responsibility of such board with respect to such bank, including 
+the following powers:
+            ``(1) Establish financial and other performance targets.
+            ``(2) Conduct studies of trends of home or other property 
+        values, methods of appraisals, state and Federal laws, 
+        regulations, policies, and procedures relevant to the 
+        operations of the bank and the members of the bank, and such 
+        other subjects as the board of directors may consider to be 
+        useful for the general guidance of the policies and operations 
+        of the bank and institutions authorized to secure advances from 
+        the bank.
+            ``(3) Establish credit policy and policy for management of 
+        the bank's investments.
+            ``(4) Establish policy regarding the bank's interest rate 
+        risk.
+            ``(5) Determine dividends.
+            ``(6) Establish policy regarding the documentation required 
+        for advances.
+            ``(7) Establish policy regarding item processing pricing.
+            ``(8) Establish policy regarding the sale and purchase of, 
+        and participations in, advances.
+            ``(9) Establish policy regarding lending to members that 
+        are insolvent or not in compliance with applicable capital 
+        requirements.
+            ``(10) Establish policy regarding--
+                    ``(A) lending to and borrowing from the Federal 
+                home loan banks; and
+                    ``(B) making deposits in and accepting deposits 
+                from such banks.
+            ``(11) Establish policy regarding the community investment 
+        program.
+            ``(12) Establish policy regarding incentives for community 
+        support by member institutions.
+            ``(13) Establish policy regarding publication of community 
+        support activities of member institutions.
+            ``(14) Establish policy regarding the development and 
+        implementation of the business plan of the bank.
+            ``(15) Approve the budget of the bank and modifications to 
+        such budget.
+            ``(16) Approve the bylaws of the bank and modifications to 
+        such bylaws.
+            ``(17) Establish the travel policy of the bank.
+            ``(18) Determine the location of meetings of boards of 
+        directors.
+            ``(19) Determine the eligibility of individuals to serve as 
+        directors and conduct elections of directors.
+            ``(20) Establish policy regarding audit plans and charters 
+        of the audit committee and audit director of the bank and 
+        select independent accountants to prepare the bank's financial 
+        reports.
+            ``(21) Establish policy regarding charitable donations and 
+        membership in organizations.
+            ``(22) Establish policy regarding mandatory retirement of 
+        directors, officers and employees.
+            ``(23) Establish policy regarding gold and gold-related 
+        transactions.
+            ``(24) Establish policy regarding indemnification of 
+        directors, officers, employees, and agents.
+            ``(25) Establish policy regarding the disaster recovery 
+        plan of the bank.
+            ``(26) Establish the records retention policy of the bank.
+    ``(c) Duties of Directors.--The board of directors of each Federal 
+home loan bank shall--
+            ``(1) administer the affairs of the bank fairly and 
+        impartially and without discrimination in favor of or against 
+        any member borrower; and
+            ``(2) subject to the provisions of this Act, extend to each 
+        institution authorized to secure advances such advances as may 
+        be made safely and reasonably with due regard for--
+                    ``(A) the claims and demands of other institutions; 
+                and
+                    ``(B) the maintenance of adequate credit standing 
+                for the bank and the bank's obligations.''.
+
+SEC. 8. MODIFICATION OF ANNUAL CONTRIBUTION TO THE RESOLUTION FUNDING 
+              CORPORATION.
+
+    (a) Funding of Interest Payments by the Resolution Funding 
+Corporation.--Subsection 21B(f)(2)(C) of the Federal Home Loan Bank Act 
+(12 U.S.C. 1441b(f)(2)(C)) is amended to read as follows:
+                    ``(C) Payments by federal home loan banks.--
+                            ``(i) In general.--To the extent the 
+                        amounts available pursuant to subparagraphs (A) 
+                        and (B) are insufficient to cover the amount of 
+                        interest payments, the Federal home loan banks 
+                        shall pay to the Funding Corporation each 
+                        calendar year $300,000,000.
+                            ``(ii) Individual bank share.--Each Federal 
+                        home loan bank's share of the amount required 
+                        to be paid under clause (i) for any year shall 
+                        be determined by dividing--
+                                    ``(I) the daily average minimum 
+                                level of tangible capital which such 
+                                bank was required to maintain in order 
+                                to comply with the bank's minimum 
+                                capital requirement for the adequately 
+                                capitalized category established 
+                                pursuant to section 28(b)(2); by
+                                    ``(II) the sum of the daily average 
+                                minimum levels of tangible capital 
+                                which all the banks were required to 
+                                maintain in order to comply with each 
+                                such bank's minimum capital requirement 
+                                for the adequately capitalized 
+                                category.''
+    (b) Bank Contributions to the Bank's Affordable Housing Program.--
+            ``(1) 1995.--Subsection 10(j)(5)(C) of the Federal Home 
+        Loan Bank Act (12 U.S.C. 1430(j)(5)(C)) is amended to read as 
+        follows:
+                    ``(C) In 1995, the greater of--
+                            ``(i) 10 percent of the net income of the 
+                        bank in the preceding year; or
+                            ``(ii) such prorated sum as the Finance 
+                        Board may determine to be necessary to assure 
+                        that the aggregate contribution of all the 
+                        Federal home loan banks shall not be less than 
+                        $100,000,000 for 1995.''
+    (c) 1996 and Subsequent Years.--Subsection 10(j)(5) of the Federal 
+Home Loan Bank Act (12 U.S.C. 1430(j)(5)) is amended by adding at the 
+end the following new subparagraph:
+                    ``(D) In 1996 and subsequent years, 10 percent of 
+                the net income of the bank in the preceding year, as 
+                determined after deducting the payment made by each 
+                Federal home loan bank to the Funding Corporation under 
+                section 21B(f)(2)(C).''.
+
+SEC. 9. COMMUNITY SUPPORT REQUIREMENTS.
+
+    Subsection (g) of section 10 of the Federal Home Loan Bank Act (12 
+U.S.C. 1430(g)) is amended by adding at the end the following new 
+paragraph:
+            ``(3) Safe harbor for member's receiving cra ratings of 
+        satisfactory or better.--Notwithstanding paragraphs (1) and 
+        (2), any member which receives a rating of satisfactory or 
+        outstanding pursuant to section 807 of the Community 
+        Reinvestment Act of 1977 in such member's most recent 
+        examination shall be treated as having satisfied the 
+        requirements of such paragraphs.''.
+
+SEC. 10. TECHNICAL AND CONFORMING AMENDMENTS.
+
+    (a) Section 9.--Section 9 of the Federal Home Loan Bank Act (12 
+U.S.C. 1429) is amended--
+            (1) in the 2d sentence, by striking ``with the approval of 
+        the Board''; and
+            (2) in the 3d sentence, by striking ``, subject to the 
+        approval of the Board,''.
+    (b) Section 10.--
+            (1) Subsection (a) of section 10 of the Federal Home Loan 
+        Bank Act (12 U.S.C. 1430(a)) is amended--
+                    (A) in the 1st sentence before paragraph (1), by 
+                striking ``or section 11(g) of this Act'';
+                    (B) in the 2d sentence before paragraph (1), by 
+                striking ``housing finance'' and inserting ``mortgage 
+                assets'';
+                    (C) in the 2d sentence of paragraph (5), by 
+                striking ``and the Board''; and
+                    (D) in the last sentence of paragraph (5), by 
+                striking ``Board'' and inserting ``bank''.
+            (2) The last sentence of section 10(b) of the Federal Home 
+        Loan Bank Act (12 U.S.C. 1430(b)) is amended by striking 
+        ``Board'' and inserting ``bank''.
+            (3) Section 10(c) of the Federal Home Loan Bank Act (12 
+        U.S.C. 1430(c) is amended--
+                    (A) in the 1st sentence, by striking ``Board'' and 
+                inserting ``bank''; and
+                    (B) by striking the 2d sentence.
+            (4) The last sentence of section 10(d) of the Federal Home 
+        Loan Bank Act (12 U.S.C. 1430(d)) is amended by striking 
+        ``Subject to the approval of the Board, any'' and inserting 
+        ``Any''.
+            (5) Section 10 of the Federal Home Loan Bank Act (12 U.S.C. 
+        1430) is amended by striking the 1st of the 2 subsections 
+        designated as subsection (e).
+    (c) Section 10b.--Subsection (a) of section 10b of the Federal Home 
+Loan Bank Act (12 U.S.C. 1430b) is amended--
+            (1) by striking ``Board'' and inserting ``bank''; and
+            (2) by inserting ``home'' before ``mortgage loan''.
+    (d) Section 11.--
+            (1) Subsection (a) of section 11 of the Federal Home Loan 
+        Bank Act (12 U.S.C. 1431(a)) is amended--
+                    (A) by striking ``(a) Each Federal Home Loan Bank'' 
+                and inserting ``(a) Borrowing Authority.--
+            ``(1) In general.--Each Federal home loan bank'';
+                    (B) by striking ``, subject to rules and 
+                regulations prescribed by the Board'';
+                    (C) by striking ``Board'' and inserting ``board of 
+                directors of the bank''; and
+                    (D) by adding at the end the following new 
+                paragraph:
+            ``(2) Borrowing through the office of finance corporation 
+        only.--Notwithstanding paragraph (1), all notes, bonds, and 
+        debentures issued by any Federal home loan bank shall be issued 
+        through the Office of Finance Corporation.''
+            (2) Subsection (b) of section 11 of the Federal Home Loan 
+        Bank Act (12 U.S.C. 1431(b)) is amended to read as follows:
+    ``(b) Issuance of Federal Home Loan Bank Bonds.--
+            ``(1) In general.--Effective as of the date the Finance 
+        Board transfers the functions of the Office of Finance to the 
+        Office of Finance Corporation pursuant to section 4(a)(3), the 
+        Office of Finance Corporation may issue consolidated Federal 
+        home loan bank bonds and other consolidated obligations on 
+        behalf of the banks.
+            ``(2) Joint and several obligation; terms and conditions.--
+        Consolidated obligations issued by the Office of Finance 
+        Corporation under paragraph (1) shall--
+                    ``(A) be the joint and several obligations of all 
+                the Federal home loan banks; and
+                    ``(B) shall be issued upon such terms and 
+                conditions as shall be established by the Office of 
+                Finance Corporation.''.
+            (3) Section 11 of the Federal Home Loan Bank Act (12 U.S.C. 
+        1431) is amended by striking subsections (c) and (d) and by 
+        redesignating subsections (e), (f), (g), (h), (i), (j) and (k) 
+        as subsections (c), (d), (e), (f), (g), (h) and (i), 
+        respectively.
+            (4) Subsection (d) of section 11 of the Federal Home Loan 
+        Bank Act (as so redesignated by paragraph (3)) is amended to 
+        read as follows:
+    ``(d) Rediscount of Notes Held by Other Banks; Purchase of Bonds of 
+Other Banks.--The Federal home loan banks may--
+            ``(1) rediscount the discounted notes of members held by 
+        other Federal home loan banks;
+            ``(2) make loans to, or make deposits with, other Federal 
+        home loan banks; or
+            ``(3) purchase any bonds or debentures issued under this 
+        section.''.
+    (e) Repeal of Sections 2A and 2B.--The Federal Home Loan Bank Act 
+(12 U.S.C. 1421 et seq.) is amended by striking sections 2A and 2B.
+
+SEC. 11. INCORPORATION OF BANKS; CORPORATE POWERS.
+
+    Section 12 of the Federal Home Loan Bank Act is amended to read as 
+follows:
+
+``SEC. 12. INCORPORATION OF BANKS; CORPORATE POWERS.
+
+    ``(a) Organizational Certificates.--
+            ``(1) Custodianship.--The Finance Board shall be the 
+        custodian of the organizational certificates of the Federal 
+        home loan banks previously filed with the Federal Home Loan 
+        Bank Board (as in existence before the end of the 60-day period 
+        beginning on the date of the enactment of the Financial 
+        Institutions Reform, Recovery, and Enforcement Act of 1989) or 
+        the Finance Board.
+            ``(2) Replacement of lost or destroyed certificate.--If the 
+        organizational certificate of a Federal home loan bank is lost 
+        or destroyed, the board of directors of the bank shall provide 
+        the Finance Board with a substitute certificate containing such 
+        information as the Finance Board may require.
+            ``(3) Amendment in case of merger, combination, or 
+        consolidation.--If 2 or more Federal home loan banks merge, 
+        combine, or otherwise consolidate, the resulting bank shall 
+        provide the Finance Board with an amended organizational 
+        certificate containing such information as the Finance Board 
+        may require.
+    ``(b) Corporate Status.--Each Federal home loan bank shall be a 
+corporation.
+    ``(c) Powers.--Each Federal home loan bank shall have the following 
+powers:
+            ``(1) To adopt, alter, and use a corporate seal.
+            ``(2) To make contracts.
+            ``(3) To purchase or lease and hold or dispose of such real 
+        estate as may be necessary or convenient for the transaction of 
+        the business of the bank.
+            ``(4) To sue and be sued, to complain, and to defend, in 
+        any court of competent jurisdiction.
+            ``(5) To select, employ, and fix the compensation of such 
+        officers, employees, attorneys, and agents as the board of 
+        directors determines to be necessary for the transaction of the 
+        business of the bank.
+            ``(6) To define the duties of, and require bonds of, 
+        officers, employees, attorneys, and agents of the bank and fix 
+        the penalties of any such bonds.
+            ``(7) To dismiss at pleasure officers, employees, 
+        attorneys, and agents of the bank.
+            ``(8) By the board of directors, to prescribe, amend, and 
+        repeal bylaws and policies governing the manner in which the 
+        affairs of the bank may be administered.
+            ``(9) Such incidental powers as are not inconsistent with 
+        the provisions of this Act and are customary and usual in 
+        corporations generally.
+    ``(d) Prohibition on Excessive Compensation.--
+            ``(1) In general.--The Finance Board shall prohibit the 
+        Federal home loan banks from providing compensation to any 
+        employee of the bank that is not reasonable and comparable with 
+        compensation for employment in other similar businesses 
+        (including other financial institutions or major financial 
+        services companies) involving similar duties and 
+        responsibilities.
+            ``(2) Limitation on Finance Board's Authority to Set 
+        Compensation.--In carrying out paragraph (1), the Finance Board 
+        may not prescribe or set a specific level or range of 
+        compensation.''.
+
+SEC. 12. LIQUIDATION OR REORGANIZATION.
+
+    Section 25 of the Federal Home Loan Bank Act (12 U.S.C. 1445) is 
+amended by striking ``the Board under this Act'' and inserting 
+``operation of law''.
+
+SEC. 13. DEFINITIONS.
+
+    (a) Finance Board Defined.--Paragraph (1) of section 2 of the 
+Federal Home Loan Bank Act (12 U.S.C. 1422(1)) is amended to read as 
+follows:
+            ``(1) Finance board.--The term `Finance Board' means the 
+        Federal Housing Finance Board established under section 3.''
+    ``(b) Home Mortgage Loan Defined.--Section 2 of the Federal Home 
+Loan Bank Act (12 U.S.C. 1422) is amended by striking paragraphs (5) 
+and (6) and inserting the following new paragraph:
+            ``(5) Home mortgage loan.--
+                    ``(A) In general.--The term `home mortgage loan' 
+                means a loan made by a member or a nonmember borrower 
+                upon the security of--
+                            ``(i) a mortgage, deed of trust or other 
+                        security arrangement upon qualified real 
+                        estate, in fee simple; or
+                            ``(ii) on a qualified leasehold--
+                                    ``(I) under a lease which has a 
+                                period to maturity of not less than 99 
+                                years and is renewable; or
+                                    ``(II) under a lease having a 
+                                period of not less than 50 years to run 
+                                from the date the mortgage, deed of 
+                                trust, or other security arrangement 
+                                was executed.
+                    ``(B) Certain loans included.--The term `home 
+                mortgage loan' includes--
+                            ``(i) such classes of first liens as are 
+                        commonly given to secure advances on real 
+                        estate, under the laws of the State in which 
+                        the real estate is located, by institutions 
+                        authorized under this Act to become members of 
+                        a Federal home loan bank; and
+                            ``(ii) the credit instruments, if any, 
+                        secured by such liens.
+                    ``(C) Qualified real estate; qualified leasehold.--
+                The terms `qualified real estate' and `qualified 
+                leasehold' mean real estate upon which is located, or 
+                which comprises or includes, 1 or more homes or other 
+                dwelling units.
+                    ``(D) Definition of further terms.--The Finance 
+                Board may define any term used in this paragraph.''.
+    (c) Residential Mortgage Assets Defined.--Section 2 of the Federal 
+Home Loan Bank Act (12 U.S.C. 1422) is amended--
+            (1) by redesignating paragraphs (7), (8), (9), (10), (11), 
+        and (12) as paragraphs (6), (7), (8), (9), (10), (11), 
+        respectively; and
+            (2) by adding at the end the following new paragraph:
+            ``(12) Residential mortgage assets.--The term `residential 
+        mortgage asset'--
+                    ``(A) means a home mortgage, deed of trust, or 
+                other security arrangement upon real estate that is 
+                solely residential; and
+                    ``(B) includes any mortgage pass-through security 
+                or mortgage debt security representing an interest in, 
+                or which is collateralized by, a home mortgage loan.''
+    (d) Regulated Financial Institution Defined.--Section 2 of the 
+Federal Home Loan Bank Act (12 U.S.C. 1422) is amended by adding after 
+paragraph (12) (as added by subsection (c) of this section) the 
+following new paragraph:
+            ``(13) Regulated financial institution.--The term 
+        `regulated financial institution' means--
+                    ``(A) any insured depository institution; and
+                    ``(B) any building and loan association, saving and 
+                loan association, cooperative bank, homestead 
+                association, or savings bank which is duly organized 
+                under the laws of any state or of the United States.''.
+    (e) Capital Distribution Defined.--Section 2 of the Federal Home 
+Loan Bank Act (12 U.S.C. 1422) is amended by adding after paragraph 
+(13) (as added by subsection (d) of this section) the following new 
+paragraph:
+            ``(14) Capital distribution.--The term `capital 
+        distribution' means--
+                    ``(A) any dividend or other distribution in cash or 
+                other property made with respect to any shares of, or 
+                other ownership interest in, a Federal home loan bank, 
+                other than a dividend consisting only of shares of any 
+                such bank;
+                    ``(B) any payment in cash or other property made by 
+                a Federal home loan bank to repurchase, redeem, retire, 
+                or otherwise acquire any of the shares of the bank, 
+                including any extension of credit made to finance an 
+                acquisition by a bank of such shares; and
+                    ``(C) any transaction that the Finance Board 
+                determines by regulation to be, in substance, a 
+                distribution of capital of a Federal home loan bank.''.
+
+SEC. 14. EFFECTIVE DATE.
+
+    Except as otherwise expressly provided in this Act, this Act and 
+the amendments made by this Act shall take effect on the first January 
+1 which occurs after the date of the enactment of this Act.
+                                 <all>
+HR 1487 IH----2
+HR 1487 IH----3
+HR 1487 IH----4
+HR 1487 IH----5
+HR 1487 IH----6
+

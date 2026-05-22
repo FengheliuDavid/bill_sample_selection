@@ -1,0 +1,179 @@
+[Congressional Bills 111th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3272 Introduced in House (IH)]
+
+111th CONGRESS
+  1st Session
+                                H. R. 3272
+
+ To amend the Securities Exchange Act of 1934 to add requirements for 
+      board of directors committees regarding risk management and 
+  compensation policies, to require non-binding shareholder votes on 
+            executive compensation, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 21, 2009
+
+ Mr. Ellison introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Securities Exchange Act of 1934 to add requirements for 
+      board of directors committees regarding risk management and 
+  compensation policies, to require non-binding shareholder votes on 
+            executive compensation, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Corporate Governance Reform Act of 
+2009''.
+
+SEC. 2. INDEPENDENCE OF CHAIRMAN OF THE BOARD.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by inserting after section 10A the following new section:
+
+``SEC. 10B. INDEPENDENCE OF CHAIRMAN OF THE BOARD.
+
+    ``(a) Independence Requirement.--The chairman of the board of 
+directors of an issuer shall be independent.
+    ``(b) Prohibition on Service as Executive Officer.--An individual 
+may not serve as an executive officer of an issuer while serving as the 
+chairman of the board of directors of such issuer.''.
+
+SEC. 3. RISK MANAGEMENT COMMITTEE.
+
+    (a) In General.--The Securities Exchange Act of 1934 (15 U.S.C. 78a 
+et seq.), as amended, is further amended by inserting after section 10B 
+the following new section:
+
+``SEC. 10C. RISK MANAGEMENT.
+
+    ``(a) Risk Management Committee.--
+            ``(1) Independence required.--Each member of the risk 
+        management committee of an issuer shall be independent.
+            ``(2) Duties.--The risk management committee of an issuer 
+        shall periodically review the risk management policies of the 
+        issuer.
+    ``(b) Chief Risk Officer.--Each issuer shall have a chief risk 
+officer who shall--
+            ``(1) establish, evaluate, and enforce the risk management 
+        policies and procedures of the issuer; and
+            ``(2) report directly to the risk management committee.''.
+    (b) Definition.--Section 3(a) of the Securities Exchange Act (15 
+U.S.C. 78c(a)) is amended by adding at the end the following:
+            ``(65) Risk management committee.--The term `risk 
+        management committee' means--
+                    ``(A) a committee (or equivalent body) established 
+                by and amongst the board of directors of an issuer for 
+                the purpose of overseeing the risk management policies 
+                and procedures of the issuer; and
+                    ``(B) if no such committee exists with respect to 
+                an issuer, the entire board of directors of the 
+                issuer.''.
+
+SEC. 4. COMPENSATION COMMITTEE.
+
+    (a) In General.--The Securities Exchange Act of 1934 (15 U.S.C. 78a 
+et seq.), as amended, is further amended by inserting after section 10C 
+the following new section:
+
+``SEC. 10D. COMPENSATION COMMITTEE.
+
+    ``(a) Independence Required.--Each member of the compensation 
+committee of an issuer shall be independent.
+    ``(b) Duties.--The compensation committee of an issuer shall 
+periodically review all compensation practices and structures of the 
+issuer.''.
+    (b) Definition.--Section 3(a) of the Securities Exchange Act (15 
+U.S.C. 78c(a)), as amended, is further amended by adding at the end the 
+following:
+            ``(66) Compensation committee.--The term `compensation 
+        committee' means--
+                    ``(A) a committee (or equivalent body) established 
+                by and amongst the board of directors of an issuer for 
+                the purpose of overseeing and reviewing the 
+                compensation provided by the issuer to the executives 
+                and employees of the issuer; and
+                    ``(B) if no such committee exists with respect to 
+                an issuer, the entire board of directors of the 
+                issuer.''.
+
+SEC. 5. SHAREHOLDER VOTE ON EXECUTIVE COMPENSATION.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by inserting after section 14 the following new section:
+
+``SEC. 14A. ANNUAL SHAREHOLDER APPROVAL OF EXECUTIVE COMPENSATION.
+
+    ``(a) Separate Resolution Required.--Any proxy or consent or 
+authorization for an annual or other meeting for which the proxy 
+solicitation rules of the Commission require compensation disclosure of 
+the shareholders occurring after the end of the 1-year period beginning 
+on the date of enactment of this subsection, shall include a separate 
+resolution subject to shareholder vote to approve the compensation of 
+executives as disclosed pursuant to the compensation disclosure rules 
+of the Commission (which disclosure shall include the compensation 
+discussion and analysis, the compensation tables, and any related 
+material).
+    ``(b) Rule of Construction.--The shareholder vote referred to in 
+subsection (a) shall not be binding on the board of directors and shall 
+not be construed--
+            ``(1) as overruling a decision by such board;
+            ``(2) to create or imply any change to the current 
+        fiduciary duties of such board;
+            ``(3) to create or imply any additional fiduciary duty by 
+        such board; or
+            ``(4) to restrict or limit the ability of shareholders to 
+        make proposals for inclusion in such proxy materials related to 
+        executive compensation.''.
+
+SEC. 6. STUDY ON DIRECTOR CERTIFICATION.
+
+    (a) Study Required.--The Securities and Exchange Commission shall 
+carry out a study on the feasibility of requiring, and the logistics of 
+implementing, a certification process under which an individual seeking 
+to become a member of the board of directors of an issuer would have to 
+first be certified by the Securities and Exchange Commission as having 
+the experience and expertise necessary to carry out the functions of a 
+member of the board of directors of such issuer.
+    (b) Report.--Not later than the end of the 1-year period beginning 
+on the date of the enactment of this Act, the Securities and Exchange 
+Commission shall submit a report to the Committee on Financial Services 
+of the House of Representatives and the Committee on Banking, Housing, 
+and Urban Affairs of the Senate containing the conclusions of the study 
+required under subsection (a).
+
+SEC. 7. REGULATIONS AND PROHIBITION ON LISTING FOR NON-COMPLIANCE.
+
+    Not later than the end of the 6-month period beginning on the date 
+of the enactment of this Act, the Securities and Exchange Commission 
+shall--
+            (1) issue regulations to carry out the amendments made by 
+        this Act; and
+            (2) by rule, direct the national securities exchanges and 
+        national securities associations to prohibit the listing of any 
+        security of an issuer that is not in compliance with the 
+        requirements of any portion of sections 10B, 10C, or 10D of the 
+        Securities Exchange Act of 1934.
+
+SEC. 8. EFFECTIVE DATE.
+
+    The amendments made by this Act shall take effect with respect to 
+issuers after the end of the 1-year period beginning on the date of the 
+enactment of this Act.
+                                 <all>
+

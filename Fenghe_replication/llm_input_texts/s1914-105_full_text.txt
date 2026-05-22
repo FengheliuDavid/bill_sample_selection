@@ -1,0 +1,2802 @@
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[S. 1914 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                S. 1914
+
+To amend title 11, United States Code, provide for business bankruptcy 
+                    reform, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 2, 1998
+
+ Mr. Grassley introduced the following bill; which was read twice and 
+               referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend title 11, United States Code, provide for business bankruptcy 
+                    reform, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Business 
+Bankruptcy Reform Act''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+               TITLE I--HEALTH CARE AND EMPLOYEE BENEFITS
+
+Sec. 101. Definitions.
+Sec. 102. Disposal of patient records.
+Sec. 103. Administrative expense claim for costs of closing a health 
+                            care business.
+Sec. 104. Appointment of ombudsman to act as patient advocate.
+Sec. 105. Debtor in possession; duty of trustee to transfer patients.
+Sec. 106. Clarification of treatment of pension plan contribution 
+                            during pendency of a case.
+Sec. 107. Pension plan contribution requirement.
+Sec. 108. Exclusion of payroll deductions.
+                    TITLE II--FINANCIAL INSTRUMENTS
+
+Sec. 201. Definitions of certain contracts and agreements.
+Sec. 202. Definitions of financial institution and forward contract 
+                            merchant.
+Sec. 203. Master netting agreement and master netting agreement 
+                            participant defined.
+Sec. 204. Swap agreements, securities contracts, commodity contracts, 
+                            forward contracts, repurchase agreements 
+                            and master netting agreements under an 
+                            automatic stay.
+Sec. 205. Limitation of avoidance powers under master netting 
+                            agreement.
+Sec. 206. Fraudulent transfers of master netting agreements.
+Sec. 207. Liquidation, termination, or acceleration of certain 
+                            instruments.
+Sec. 208. Municipal bankruptcies.
+Sec. 209. Securities contracts, commodity contracts, and forward 
+                            contracts.
+Sec. 210. Ancillary proceedings.
+Sec. 211. Liquidations.
+Sec. 212. Setoff.
+Sec. 213. Recordkeeping requirements.
+Sec. 214. Damage measure.
+Sec. 215. Asset-backed securitizations.
+Sec. 216. Applicability.
+           TITLE III--ANCILLARY AND OTHER CROSS-BORDER CASES
+
+Sec. 301. Amendment to add a chapter 6 to title 11, United States Code.
+Sec. 302. Amendments to other chapters in title 11, United States Code.
+                  TITLE IV--SMALL BUSINESS BANKRUPTCY
+
+Sec. 401. Small business defined.
+Sec. 402. Flexible rules for disclosure statement and plan.
+Sec. 403. Standard form disclosure statements and plans.
+Sec. 404. Uniform national reporting requirements.
+Sec. 405. Uniform reporting rules and forms.
+Sec. 406. Duties in small business cases.
+Sec. 407. Plan filing and confirmation deadlines.
+Sec. 408. Plan confirmation deadline.
+Sec. 409. Prohibition against extension of time.
+Sec. 410. Duties of the United States trustee and bankruptcy 
+                            administrator.
+Sec. 411. Scheduling conferences.
+Sec. 412. Serial filer provisions.
+Sec. 413. Expanded grounds for dismissal or conversion and appointment 
+                            of trustee.
+Sec. 414. Single asset real estate defined.
+Sec. 415. Plan confirmation.
+Sec. 416. Payment of interest.
+                     TITLE V--BANKRUPTCY TAX ISSUES
+
+Sec. 501. Effective notice to government.
+Sec. 502. Notice of request for a determination of taxes.
+Sec. 503. Rate of interest on tax claims.
+Sec. 504. Tolling of priority of tax claim time periods.
+Sec. 505. Assessment defined.
+Sec. 506. Chapter 11 discharge of fraudulent taxes.
+Sec. 507. The stay of proceedings in tax court.
+Sec. 508. Periodic payment of taxes in chapter 11 cases.
+Sec. 509. The avoidance of statutory tax liens prohibited.
+Sec. 510. Course of business payment of taxes.
+Sec. 511. Tardily filed priority tax claims.
+Sec. 512. Income tax returns prepared by tax authorities.
+Sec. 513. The discharge of the estate's liability for unpaid taxes.
+Sec. 514. Standards for tax disclosure.
+Sec. 515. Setoff of tax refunds.
+                        TITLE VI--MISCELLANEOUS
+
+Sec. 601. Executory contracts and unexpired leases.
+Sec. 602. Allowance of claims or interests.
+Sec. 603. Expedited appeals of bankruptcy cases to courts of appeals.
+Sec. 604. Creditors and equity security holders committees.
+Sec. 605. Repeal of sunset provision.
+Sec. 606. Cases ancillary to foreign proceedings.
+
+               TITLE I--HEALTH CARE AND EMPLOYEE BENEFITS
+
+SEC. 101. DEFINITIONS.
+
+    (a) Health Care Business Defined.--Section 101 of title 11, United 
+States Code, is amended by inserting after paragraph (27) the 
+following:
+            ``(27A) `health care business'--
+                    ``(A) means any public or private entity (without 
+                regard to whether that entity is organized for profit 
+                or not for profit) that is primarily engaged in 
+                offering to the general public facilities and services 
+                for--
+                            ``(i) the diagnosis or treatment of injury, 
+                        deformity, or disease;
+                            ``(ii) surgical, drug treatment, 
+                        psychiatric or obstetric care; and
+                    ``(B) includes--
+                            ``(i) any--
+                                    ``(I) general or specialized 
+                                hospital;
+                                    ``(II) ancillary ambulatory, 
+                                emergency, or surgical treatment 
+                                facility;
+                                    ``(III) hospice;
+                                    ``(IV) health maintenance 
+                                organization;
+                                    ``(V) home health agency; and
+                                    ``(VI) other health care 
+                                institution that is similar to an 
+                                entity referred to in subclause (I), 
+                                (II), (III), (IV), or (V); and
+                            ``(ii) any long-term care facility, 
+                        including any--
+                                    ``(I) skilled nursing facility;
+                                    ``(II) intermediate care facility;
+                                    ``(III) assisted living facility;
+                                    ``(IV) home for the aged;
+                                    ``(V) domicilary care facility; and
+                                    ``(VI) health care institution that 
+                                is related to a facility referred to 
+in subclause (I), (II), (III), (IV), or (V), if that institution is 
+primarily engaged in offering room, board, laundry, or personal 
+assistance with activities of daily living and incidentals to 
+activities of daily living;''.
+    (b) Health Maintenance Organization Defined.--Section 101 of title 
+11, United States Code, as amended by subsection (a), is amended by 
+inserting after paragraph (27A) the following:
+            ``(27B) `health maintenance organization' means any person 
+        that undertakes to provide or arrange for basic health care 
+        services through an organized system--
+                    ``(A) that--
+                            ``(i) combines the delivery and financing 
+                        of health care to enrollees; and
+                            ``(ii)(I) provides--
+                                    ``(aa) physician services directly 
+                                through physicians or 1 or more groups 
+                                of physicians; and
+                                    ``(bb) basic health care services 
+                                directly or under a contractual 
+                                arrangement; and
+                            ``(II) if reasonable and appropriate, 
+                        provides physician services and basic health 
+                        care services through arrangements other than 
+                        the arrangements referred to in clause (i); and
+                    ``(B) includes any organization described in 
+                subparagraph (A) that provides, or arranges for, health 
+                care services on a prepayment or other financial 
+                basis;''.
+    (c) Patient.--Section 101 of title 11, United States Code, as 
+amended by subsection (b), is amended by inserting after paragraph (40) 
+the following:
+            ``(40A) `patient' means any person who obtains or receives 
+        services from a health care business;''.
+    (d) Patient Records.--Section 101 of title 11, United States Code, 
+as amended by subsection (c), is amended by inserting after paragraph 
+(40A) the following:
+            ``(40B) `patient records' means any written document 
+        relating to a patient or record recorded in a magnetic, 
+        optical, or other form of electronic medium;''.
+
+SEC. 102. DISPOSAL OF PATIENT RECORDS.
+
+    (a) In General.--Subchapter III of chapter 3 of title 11, United 
+States Code, is amended by adding at the end the following:
+``Sec. 351. Disposal of patient records
+    ``If a health care business commences a case under chapter 7, 9, or 
+11, and the trustee does not have a sufficient amount of funds to pay 
+for the storage of patient records in the manner required under 
+applicable Federal or State law, the following requirements shall 
+apply:
+            ``(1) The trustee shall mail, by certified mail, a written 
+        request to each appropriate Federal or State agency to request 
+        permission from that agency to deposit the patient records with 
+        that agency.
+            ``(2) If no appropriate Federal or State agency agrees to 
+        permit the deposit of patient records referred to in paragraph 
+        (1) by the date that is 60 days after the trustee mails a 
+        written request under that paragraph, the trustee shall--
+                    ``(A) publish notice, in 1 or more appropriate 
+                newspapers, that if those patient records are not 
+                claimed by the patient or an insurance provider (if 
+                applicable law permits the insurance provider to make 
+                that claim) by the date that is 60 days after the date 
+                of that notification, the trustee will destroy the 
+                patient records; and
+                    ``(B) during the 60-day period described in 
+                subparagraph (A), the trustee shall attempt to notify 
+                directly each patient that is the subject of the 
+                patient records concerning the patient records by 
+                mailing to the last known address of that patient an 
+                appropriate notice regarding the claiming or disposing 
+                of patient records.
+            ``(3) If, after providing the notification under paragraph 
+        (2), patient records are not claimed during the 60-day period 
+        described in paragraph (2)(A) or in any case in which a notice 
+        is mailed under paragraph (2)(B), during the 90-day period 
+        beginning on the date on which the notice is mailed, by a 
+        patient or insurance provider in accordance with that 
+        paragraph, the trustee shall destroy those records by--
+                    ``(A) if the records are written, shredding or 
+                burning the records; or
+                    ``(B) if the records are magnetic, optical, or 
+                other electronic records, by otherwise destroying those 
+                records so that those records cannot be retrieved.''.
+    (b) Clerical Amendment.--The chapter analysis for chapter 3 of 
+title 11, United States Code, is amended by inserting after the item 
+relating to section 350 the following:
+
+``351. Disposal of patient records.''.
+
+SEC. 103. ADMINISTRATIVE EXPENSE CLAIM FOR COSTS OF CLOSING A HEALTH 
+              CARE BUSINESS.
+
+    Section 503(b) of title 11, United States Code, is amended--
+            (1) in paragraph (5), by striking ``and'' at the end;
+            (2) in paragraph (6), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(7) the actual, necessary costs and expenses of closing a 
+        health care business incurred by a trustee, including any cost 
+        or expense incurred--
+                    ``(A) in disposing of patient records in accordance 
+                with section 351; or
+                    ``(B) in connection with transferring patients from 
+                the health care business that is in the process of 
+                being closed to another health care business.''.
+
+SEC. 104. APPOINTMENT OF OMBUDSMAN TO ACT AS PATIENT ADVOCATE.
+
+    (a) In General.--
+            (1) Appointment of ombudsman.--Subchapter II of chapter 3 
+        of title 11, United States Code, is amended by inserting after 
+        section 331 the following:
+``Sec. 332. Appointment of ombudsman
+    ``(a) Not later than 30 days after a case is commenced by a health 
+care business under chapter 7, 9, or 11, the court shall appoint an 
+ombudsman to represent the interests of the patients of the health care 
+business.
+    ``(b) An ombudsman appointed under subsection (a) shall--
+            ``(1) monitor the quality of patient care, to the extent 
+        necessary under the circumstances, including reviewing records 
+        and interviewing patients and physicians;
+            ``(2) report to the court, at a hearing or in writing, not 
+        later than 60 days after the date of appointment, and not less 
+        frequently than every 60 days thereafter, regarding the quality 
+        of patient care at the health care business involved; and
+            ``(3) if the ombudsman determines that the quality of 
+        patient care is declining significantly or is otherwise being 
+        materially compromised, notify the court by motion or written 
+        report, with notice to appropriate parties in interest, 
+        immediately upon making that determination.
+    ``(c) An ombudsman shall maintain any information obtained by the 
+ombudsman under this section that relates to patients (including 
+information relating to patient records) as confidential 
+information.''.
+            (2) Clerical amendment.--The chapter analysis for chapter 3 
+        of title 11, United States Code, is amended by inserting after 
+        the item relating to section 331 the following:
+
+``332. Appointment of ombudsman.''.
+    (b) Compensation of Ombudsman.--Section 330(a)(1) of title 11, 
+United States Code, is amended--
+            (1) in the matter proceeding subparagraph (A), by inserting 
+        ``an ombudsman appointed under section 331, or'' before ``a 
+        professional person''; and
+            (2) in subparagraph (A), by inserting ``ombudsman,'' before 
+        ``professional person''.
+
+SEC. 105. DEBTOR IN POSSESSION; DUTY OF TRUSTEE TO TRANSFER PATIENTS.
+
+    (a) In General.--Section 704 of title 11, United States Code, is 
+amended--
+            (1) in paragraph (8), by striking ``and'' at the end;
+            (2) in paragraph (9), by striking the period and inserting 
+        ``; and''; and
+            (3) by adding at the end the following:
+            ``(10) use all reasonable and best efforts to transfer 
+        patients from a health care business that is in the process of 
+        being closed to an appropriate health care business that--
+                    ``(A) is in the vicinity of the health care 
+                business that is closing;
+                    ``(B) provides the patient with services that are 
+                substantially similar to those provided by the health 
+                care business that is in the process of being closed; 
+                and
+                    ``(C) maintains a reasonable quality of care.''.
+    (b) Conforming Amendment.--Section 1106(a)(1) of title 11, United 
+States Code, is amended by striking ``and 704(9)'' and inserting 
+``704(9), and 704(10)''.
+
+SEC. 106. CLARIFICATION OF TREATMENT OF PENSION PLAN CONTRIBUTION 
+              DURING PENDENCY OF A CASE.
+
+    (a) Treatment of Pension Benefits as Administrative Expenses.--
+Section 503(b) of title 11, United States Code, as amended by section 
+103, is amended--
+            (1) in paragraph (6), by striking ``and'' at the end;
+            (2) in paragraph (7), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(8) minimum funding contributions for which the debtor is 
+        liable that--
+                    ``(A) are made to an employee pension benefit plan 
+                that is subject to the minimum funding requirements 
+                under--
+                            ``(i) section 412 of the Internal Revenue 
+                        Code of 1986; or
+                            ``(ii) section 302 of the Employee 
+                        Retirement Income Security Act of 1974 (29 
+                        U.S.C. 1082); and
+                    ``(B) become due on or after the date of filing of 
+                the petition commencing the case.''.
+    (b) Timely Payment Required in Certain Circumstances.--Section 
+503(b) of title 11, United States Code is amended by adding at the end 
+the following flush sentence:
+``If, as of a due date referred to in paragraph (8)(B), a pension plan 
+is required to make a contribution under section 412(m)(5) of the 
+Internal Revenue Code of 1986 or section 302(e)(6) of the Employee 
+Retirement Income Security Act of 1974 (29 U.S.C. 1082(e)(6)), the 
+trustee shall make that contribution under that section by the 
+applicable date specified in that section.''.
+    (c) Applicability.--The amendment made by subsection (b) shall 
+apply to contributions made on or after the date of enactment of this 
+Act.
+
+SEC. 107. PENSION PLAN CONTRIBUTION REQUIREMENT.
+
+    (a) Funding Required if Plan Is Not Terminated.--Subchapter IV of 
+chapter 3 of title 11, United States Code, is amended by adding at the 
+end the following:
+``Sec. 367. Continuance of certain pension plans
+    ``Notwithstanding sections 502(b)(2) and 503, in any case under 
+this title in which the debtor is the sponsor of a pension plan covered 
+under section 4021 of the Employee Retirement Income Security Act of 
+1974 (29 U.S.C. 1321), if the trustee does not terminate that pension 
+plan in accordance with section 4041 of such Act (29 U.S.C. 1341) 
+during the 180-day period beginning on the date of issuance of an order 
+for relief, the trustee shall--
+            ``(1) pay any amount of contributions, including any 
+        interest due on that amount, that--
+                    ``(A) is outstanding at the end of that 180-day 
+                period; and
+                    ``(B) is required to be paid under that Act; and
+            ``(2) unless the pension plan is terminated in accordance 
+        with the Employee Retirement Income Security Act of 1974 (29 
+        U.S.C. 1001 et seq.) after the end of that 180-day period--
+                    ``(A) pay any contributions that are required to be 
+                paid after that date as those contributions become due; 
+                or
+                    ``(B) provide to the court adequate assurances that 
+                the contributions referred to in subparagraph (A) will 
+                be paid.''.
+    (b) Applicability.--This section applies to cases that are pending 
+or commenced on or after the date of enactment of this Act.
+    (c) Clerical Amendment.--The chapter analysis for chapter 3 of 
+title 11, United States Code, is amended by inserting after the item 
+relating to section 366 the following:
+
+``367. Continuance of certain pension plans.''.
+
+SEC. 108. EXCLUSION OF PAYROLL DEDUCTIONS.
+
+    Section 541(b) of title 11, United States Code, is amended--
+            (1) in paragraph (4), by striking ``or'' at the end;
+            (2) in paragraph (5), by striking the period at the end and 
+        inserting ``; or''; and
+            (3) by adding at the end the following:
+            ``(6) any funds deducted from paid wages, if those 
+        deductions--
+                    ``(A) were made during the 180-day period 
+                immediately preceding the commencement of a case under 
+                this title;
+                    ``(B) are held by an employer who is the debtor in 
+                the case referred to in subparagraph (A); and
+                    ``(C) were made for funds that are owed to any 
+                entity other than to the United States.''.
+
+                    TITLE II--FINANCIAL INSTRUMENTS
+
+SEC. 201. DEFINITIONS OF CERTAIN CONTRACTS AND AGREEMENTS.
+
+    (a) Forward Contracts; Repurchase Agreements; Swap Agreements.--
+            (1) Amendments to title 11.--Section 101 of title 11, 
+        United States Code, is amended--
+                    (A) in paragraph (25)--
+                            (i) by striking ``means a contract'' and 
+                        inserting the following: ``means--
+                    ``(A) a contract''; and
+                            (ii) by striking ``, or any combination 
+                        thereof or option thereon;'' and inserting the 
+                        following: ``, or any other similar agreement;
+                    ``(B) any combination of agreements or transactions 
+                referred to in subparagraph (A);
+                    ``(C) any option to enter into any agreement or 
+                transaction referred to in subparagraph (A);
+                    ``(D) a master agreement that provides for an 
+                agreement or transaction referred to in subparagraph 
+                (A), together with supplements thereto, without regard 
+                to whether the master agreement provides for an 
+                agreement or transaction that is not a forward contract 
+                under this paragraph, except that the master agreement 
+                shall be considered to be a forward contract under this 
+                paragraph only with respect to each agreement or 
+                transaction under the master agreement that is referred 
+                to subparagraph (A); and
+                    ``(E) a security agreement or arrangement or other 
+                credit enhancement related to any contract referred to 
+                in subparagraph (A);'';
+                    (B) by striking paragraph (47) and inserting the 
+                following:
+            ``(47) `repurchase agreement'--
+                    ``(A) means--
+                            ``(i) an agreement, including related 
+                        terms, that provides for the transfer of 1 or 
+                        more certificates of deposit, eligible bankers' 
+                        acceptances, or securities, against the 
+                        transfer of funds by the transferee of the 
+                        certificates of deposit, acceptances, or 
+                        securities, with a simultaneous agreement by 
+                        such transferee to transfer to the transferor 
+                        thereof certificates, acceptances, or 
+                        securities as described in this subparagraph, 
+                        at a date certain or on demand, against the 
+                        transfer of funds, and any other similar 
+                        agreement;
+                            ``(ii) a master agreement that provides for 
+                        an agreement or transaction referred to in 
+                        clause (i), together with all supplements, 
+                        without regard to whether the master agreement 
+                        provides for an agreement or transaction that 
+                        is not a repurchase agreement under this 
+                        subparagraph, except that the master agreement 
+                        shall be considered to be a repurchase 
+                        agreement under this subparagraph only with 
+                        respect to each agreement or transaction under 
+                        the master agreement that is referred to in 
+                        clause (i);
+                            ``(iii) any combination of agreements or 
+                        transactions referred to in clause (i);
+                            ``(iv) any option to enter into any 
+                        agreement or transaction referred to in clause 
+                        (i); or
+                            ``(v) a security agreement or arrangement 
+                        or other credit enhancement related to any 
+                        agreement or transaction referred to in clause 
+                        (i); and
+                    ``(B) includes a reverse repurchase agreement.''; 
+                and
+                    (C) by striking paragraph (53B) and inserting the 
+                following:
+            ``(53B) `swap agreement' means--
+                    ``(A) any agreement, including the terms and 
+                conditions incorporated by reference in any such 
+                agreement, that is--
+                            ``(i) an interest rate swap, option, 
+                        future, or forward agreement, including a rate 
+                        floor, rate cap, rate collar, cross-currency 
+                        rate swap, or basis swap;
+                            ``(ii) a spot, same day-tomorrow, tomorrow-
+                        next, forward or other foreign exchange 
+                        agreement;
+                            ``(iii) a currency swap, option, future, or 
+                        forward agreement;
+                            ``(iv) an equity index or equity swap, 
+                        option, future, or forward agreement;
+                            ``(v) a debt index or debt swap, option, 
+                        future, or forward agreement;
+                            ``(vi) a credit spread or credit swap, 
+                        option, future, or forward agreement;
+                            ``(vii) a commodity index or commodity 
+                        swap, option, future, or forward agreement;
+                            ``(viii) similar to any other agreement 
+                        referred to in this subparagraph that is 
+                        presently or in the future becomes regularly 
+                        entered into in the swap agreement market 
+                        (including terms and conditions incorporated by 
+                        reference therein) and that is a forward, swap, 
+                        future, or option on 1 or more rates, 
+                        currencies, commodities, equity securities or 
+                        other equity instruments, debt securities or 
+                        other debt instruments, or economic indices or 
+                        measures of economic risk or value;
+                            ``(ix) a master agreement that provides for 
+                        an agreement or transaction referred to in 
+                        clause (i), (ii), (iii), (iv), (v), (vi), 
+                        (vii), or (viii), together with all supplements 
+                        thereto, without regard to whether the master 
+                        agreement contains an agreement or transaction 
+                        that is described in any of those clauses, 
+                        except that the master agreement shall be 
+                        considered to be a swap agreement only with 
+                        respect to each agreement or transaction under 
+                        the master agreement that is referred to in 
+                        clause (i), (ii), (iii), (iv), (vi), (vii), or 
+                        (viii); or
+                            ``(x) any combination of agreements 
+                        referred to in this subparagraph;
+                    ``(B) any option to enter into any agreement 
+                referred to in subparagraph (A); and
+                    ``(C) any security agreement or arrangement or 
+                other credit enhancement related to any agreements or 
+                transactions referred to in subparagraph (A);''.
+            (2) Rule of construction.--Nothing in paragraph (53B) of 
+        section 101 of title 11, United States Code, as amended by this 
+        section, shall be construed or applied to challenge or affect 
+        the characterization, definition, or treatment of any swap 
+        agreement or any instrument defined as a swap agreement in that 
+        paragraph under any other provision of law, except as expressly 
+        provided in that other provision of law, including--
+                    (A) the Securities Act of 1933 (15 U.S.C. 77a et 
+                seq.);
+                    (B) the Securities Exchange Act of 1934 (15 U.S.C. 
+                78a et seq.);
+                    (C) the Public Utility Holding Company Act of 1935 
+                (15 U.S.C. 79a et seq.);
+                    (D) the Trust Indenture Act of 1939 (15 U.S.C. 
+                77aaa et seq.);
+                    (E) the Investment Company Act of 1940 (15 U.S.C. 
+                80a-1 et seq.);
+                    (F) the Investment Advisers Act of 1940 (15 U.S.C. 
+                80b et seq.);
+                    (G) the Securities Investor Protection Act of 1970 
+                (15 U.S.C. 78aaa et seq.);
+                    (H) the Commodity Exchange Act (7 U.S.C. 1 et 
+                seq.); and
+                    (I) any rule or regulation promulgated by the 
+                Securities and Exchange Commission or the Commodities 
+                Futures Trading Commission.
+    (b) Securities Contracts.--Section 741(7) of title 11, United 
+States Code, is amended to read as follows:
+            ``(7) `securities contract' means--
+                    ``(A) a contract for the purchase, sale, or loan of 
+                a security, including an option for the purchase or 
+                sale of a security, certificate of deposit, or group or 
+                index of securities (including any interest therein or 
+                based on the value thereof);
+                    ``(B) any option entered into on a national 
+                securities exchange relating to foreign currencies;
+                    ``(C) the guarantee of any settlement of cash or 
+                securities by or to a securities clearing agency;
+                    ``(D) any margin loan;
+                    ``(E) any other agreement or transaction that is 
+                similar to any instrument referred to in this 
+                paragraph;
+                    ``(F) a master agreement that provides for an 
+                agreement or transaction referred to in subparagraph 
+                (A), (B), (C), (D), or (E), together with supplements 
+                thereto, without regard to whether the master agreement 
+                provides for an agreement or transaction that is not a 
+                securities contract under this paragraph, except that 
+                the master agreement shall be considered to be a 
+                securities contract under this paragraph only with 
+                respect to each agreement or transaction under the 
+                master agreement that is referred to in subparagraph 
+                (A), (B), (C), (D), or (E);
+                    ``(G) any combination of the agreements or 
+                transactions referred to in this paragraph; or
+                    ``(H) any option to enter into any agreement or 
+                transaction referred to in this paragraph;''.
+    (c) Commodity Contracts.--Section 761(4) of title 11, United States 
+Code, is amended--
+            (1) in subparagraph (D), by striking ``or'' at the end; and
+            (2) by adding at the end the following:
+                    ``(F) any other agreement or transaction that is 
+                similar to any instrument referred to in this 
+                paragraph;
+                    ``(G) a master agreement that provides for an 
+                agreement or transaction referred to in subparagraph 
+                (A), (B), (C), (D), (E), or (F), together with 
+                supplements thereto, without regard to whether the 
+                master agreement provides for an agreement or 
+                transaction that is not a commodity contract under this 
+                paragraph, except that the master agreement shall be 
+                considered to be a commodity contract under this 
+                paragraph only with respect to each agreement or 
+                transaction under the master agreement that is referred 
+                to in subparagraph (A), (B), (C), (D), (E), or (F);
+                    ``(H) any combination of the agreements or 
+                transactions referred to in this paragraph;
+                    ``(I) any option to enter into any agreement or 
+                transaction referred to in this paragraph; or
+                    ``(J) a security agreement or arrangement or other 
+                credit enhancement related to 1 or more instruments 
+                referred to in this paragraph;''.
+
+SEC. 202. DEFINITIONS OF FINANCIAL INSTITUTION AND FORWARD CONTRACT 
+              MERCHANT.
+
+    (a) Financial Institution Defined.--Section 101(22) of title 11, 
+United States Code, is amended to read as follows:
+            ``(22) `financial institution'--
+                    ``(A) means--
+                            ``(i) a depository institution, as that 
+                        term is defined in section 3 of the Federal 
+                        Deposit Insurance Act; and
+                            ``(ii) a credit union, as defined in 
+                        section 101 of the Federal Credit Union Act; 
+                        and
+                    ``(B) includes--
+                            ``(i) a Federal Reserve bank;
+                            ``(ii) a trust company;
+                            ``(iii) a savings bank and a savings 
+                        association, as those terms are defined in 
+                        section 3 of the Federal Deposit Insurance Act;
+                            ``(iv) a receiver or conservator for any 
+                        institution referred to in this paragraph; and
+                            ``(v) a customer of any institution 
+                        referred to in this paragraph in any case in 
+                        which such institution acts as agent or 
+                        custodian for that customer in connection with 
+                        a securities contract, as defined in section 
+                        741(7);''.
+    (b) Financial Participant Defined.--Section 101 of title 11, United 
+States Code, is amended by inserting after paragraph (22) the following 
+new paragraph:
+            ``(22A) `financial participant' means--
+                    ``(A) any commodity broker, forward contract 
+                merchant, stockbroker, financial institution, or 
+                securities clearing agency; or
+                    ``(B) any entity that, at any time before the 
+                filing of the petition, has an outstanding commodity 
+                contract, forward contract, or securities contract with 
+                the debtor.''.
+    (c) Forward Contract Merchant Defined.--Section 101(26) of title 
+11, United States Code, is amended to read as follows:
+            ``(26) `forward contract merchant' means a Federal Reserve 
+        bank, or a person whose business consists in whole or in part 
+        of entering into forward contracts, as or with merchants, in a 
+        commodity (as that term is defined in section 761(8)), or any 
+        similar good, article, service, right, or interest that is or 
+        becomes the subject of dealing in the forward contract 
+        trade;''.
+
+SEC. 203. MASTER NETTING AGREEMENT AND MASTER NETTING AGREEMENT 
+              PARTICIPANT DEFINED.
+
+    Section 101 of title 11, United States Code, is amended by 
+inserting after paragraph (38) the following new paragraphs:
+            ``(38A) `master netting agreement' means--
+                    ``(A) an agreement providing for the exercise of 
+                rights, including rights of netting, setoff, 
+                liquidation, termination, acceleration, or closeout, 
+                under or in connection with 1 or more contracts 
+                described in section 561(a)(2); and
+                    ``(B) any security agreement or arrangement or 
+                other credit enhancement related to any of the 
+                agreements referred to in subparagraph (A);
+            ``(38B) `master netting agreement participant' means an 
+        entity that, at any time before the filing, of a petition, is a 
+        party to an outstanding master netting agreement with the 
+        debtor;''.
+
+SEC. 204. SWAP AGREEMENTS, SECURITIES CONTRACTS, COMMODITY CONTRACTS, 
+              FORWARD CONTRACTS, REPURCHASE AGREEMENTS AND MASTER 
+              NETTING AGREEMENTS UNDER AN AUTOMATIC STAY.
+
+    (a) In General.--Section 362(b) of title 11, United States Code, is 
+amended--
+            (1) in paragraph (6), by inserting ``, pledged to, and 
+        under the control of such entity,'' after ``held by'';
+            (2) in paragraph (7), by inserting ``, pledged to, and 
+        under the control of such repo participant,'' after ``held 
+        by'';
+            (3) by striking paragraph (17) and inserting the following:
+            ``(17) under subsection (a), of the setoff by a swap 
+        participant of any mutual debt and claim under or in connection 
+        with 1 or more swap agreements that constitutes the setoff of a 
+        claim against the debtor for any payment or other transfer of 
+        property due from the debtor under or in connection with such 
+        swap agreements against--
+                    ``(A) any payment due to the debtor from the swap 
+                participant under or in connection with such swap 
+                agreements; or
+                    ``(B) cash, securities, or other property--
+                            ``(i) held by, pledged to, and under the 
+                        control of that swap participant; and
+                            ``(ii) due from that swap participant to 
+                        margin, guarantee, secure, or settle such swap 
+                        agreement;'';
+            (4) in paragraph (18), by striking the period at the end 
+        and inserting ``; or''; and
+            (5) by adding at the end the following:
+            ``(19) under subsection (a), of the setoff by a master 
+        netting agreement participant of a mutual debt and claim under 
+        or in connection with 1 or more master netting agreements that 
+        constitutes the setoff of a claim against the debtor for any 
+        payment or other transfer of property due from the debtor under 
+        or in connection with such agreements against--
+                    ``(A) any payment due to the debtor from such 
+                participant under or in connection with such agreements 
+                or any contract or agreement subject to such 
+                agreements; or
+                    ``(B) cash, securities, or other property held by, 
+                pledged to and under the control of, or due from such 
+                participant to margin, guarantee, secure, or settle 
+                such agreements or any contract or agreement subject to 
+                such agreements.''.
+    (b) Limitation.--Section 362 of title 11, United States Code, is 
+amended by adding at the end the following:
+    ``(i) The exercise of rights not subject to the stay arising under 
+subsection (a) pursuant to paragraph (6), (7), (17), or (19) of 
+subsection (b) shall not be stayed, avoided, or otherwise limited by 
+operation of any provision of this title or by any order of a court or 
+administrative agency in any proceeding under this title.''.
+
+SEC. 205. LIMITATION OF AVOIDANCE POWERS UNDER MASTER NETTING 
+              AGREEMENT.
+
+    Section 546 of title 11, United States Code, is amended--
+            (1) in the first subsection designated as subsection (g) 
+        (as added by section 103 of the Act entitled ``An Act to amend 
+        title 11 of the United States Code regarding swap agreements 
+        and forward contracts'', approved June 25, 1990 (Public Law 
+        101-311; 104 Stat. 268))--
+                    (A) by striking ``under a swap agreement,''; and
+                    (B) by striking ``, in connection with a swap 
+                agreement'' and inserting ``under or in connection with 
+                any swap agreement'';
+            (2) by adding at the end the following:
+    ``(h) Notwithstanding sections 544, 545, 547, 548(a)(2), and 
+548(b), a trustee may not avoid a transfer made by or to a master 
+netting agreement participant under or in connection with any master 
+netting agreement that is made before the commencement of the case, 
+except under section 548(a)(1).''; and
+            (3) by redesignating the second subsection designated as 
+        subsection (g) (as added by section 222(a) of the Bankruptcy 
+        Reform Act of 1994 (108 Stat. 4129)) as subsection (i) and 
+        inserting that subsection after subsection (h), as added by 
+        this section.
+
+SEC. 206. FRAUDULENT TRANSFERS OF MASTER NETTING AGREEMENTS.
+
+    Section 548(d)(2) of title 11, United States Code, is amended--
+            (1) in subparagraph (C), by striking ``and'' at the end;
+            (2) in subparagraph (D), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+                    ``(E) a master netting agreement participant that 
+                receives a transfer in connection with a master netting 
+                agreement takes for value to the extent of that 
+                transfer.''.
+
+SEC. 207. LIQUIDATION, TERMINATION, OR ACCELERATION OF CERTAIN 
+              INSTRUMENTS.
+
+    (a) Securities Contracts.--Section 555 of title 11, United States 
+Code, is amended--
+            (1) by striking the section heading and inserting the 
+        following:
+``Sec. 555. Contractual right to liquidate, terminate, or accelerate a 
+              securities contract'';
+        and
+            (2) in the first sentence, by inserting ``, termination, or 
+        acceleration'' after ``liquidation''.
+    (b) Commodities or Forward Contracts.--Section 556 of title 11, 
+United States Code, is amended--
+            (1) by striking the section heading and insert the 
+        following:
+``Sec. 556. Contractual right to liquidate, terminate, or accelerate a 
+              commodities contract or forward contract'';
+        and
+            (2) in the first sentence, by inserting ``, termination, or 
+        acceleration'' after ``liquidation''.
+    (c) Repurchase Agreements.--Section 559 of title 11, United States 
+Code, is amended--
+            (1) by striking the section heading and inserting the 
+        following:
+``Sec. 559. Contractual right to liquidate, terminate, or accelerate a 
+              repurchase agreement'';
+        and
+            (2) in the first sentence, by inserting ``, termination, or 
+        acceleration'' after ``liquidation''.
+    (d) Swap Agreements.--Section 560 of title 11, United States Code, 
+is amended--
+            (1) by striking the section heading and inserting the 
+        following:
+``Sec. 560. Contractual right to liquidate, terminate, or accelerate a 
+              swap agreement'';
+        and
+            (2) in the first sentence--
+                    (A) by striking ``termination of a swap agreement'' 
+                and inserting ``liquidation, termination, or 
+                acceleration of 1 or more swap agreements''; and
+                    (B) by striking ``in connection with any swap 
+                agreement'' and inserting ``in connection with 1 or 
+                more swap agreements''.
+    (e) Master Netting Agreements.--Subchapter III of chapter 5 of 
+title 11, United States Code, is amended by adding at the end the 
+following:
+``Sec. 561. Contractual right to terminate, liquidate, accelerate, or 
+              offset under a master netting agreement and across 
+              contracts
+    ``(a) Prohibition on Stay, Avoidance, or Other Limitation.--
+            ``(1) In general.--Subject to subsection (b), the exercise 
+        of any contractual right, because of a condition of the kind 
+        specified in section 365(e)(1), to cause the termination, 
+        liquidation, or acceleration of, or to offset or net 
+        termination values, payment amounts, or other transfer 
+        obligations arising under or in connection with 1 or more 
+        contracts or agreements described in paragraph (2) shall not be 
+        stayed, avoided, or otherwise limited--
+                    ``(A) by operation of any provision of this title; 
+                or
+                    ``(B) by any order of a court or administrative 
+                agency in any proceeding under this title.
+            ``(2) Definition.--A contract or agreement described in 
+        this paragraph is--
+                    ``(A) a securities contract, as defined in section 
+                741(7);
+                    ``(B) a commodity contract, as defined in section 
+                761(4);
+                    ``(C) a forward contract;
+                    ``(D) a repurchase agreement;
+                    ``(E) a swap agreement; or
+                    ``(F) a master netting agreement.
+    ``(b) Limitations.--A party may exercise a contractual right 
+described in subsection (a) to terminate, liquidate, or accelerate only 
+to the extent that the party could exercise such a right under section 
+555, 556, 559, or 560 for each individual contract covered by the 
+master netting agreement in issue, notwithstanding whether or not each 
+individual contract contains such contractual rights.
+    ``(c) Definition.--In this section, the term `contractual right' 
+includes--
+            ``(1) a right set forth in a rule or bylaw of a national 
+        securities exchange, a national securities association or a 
+        securities clearing agency;
+            ``(2) a right set forth in a bylaw of a clearing 
+        organization or contract market or in a resolution of the 
+        governing board thereof; and
+            ``(3) a right, without regard to whether that right is 
+        evidenced in writing, arising--
+                    ``(A) under common law;
+                    ``(B) under law merchant; or
+                    ``(C) by reason of normal business practice.''.
+    (f) Clerical Amendments.--The chapter analysis for chapter 5 of 
+title 11, United States Code, is amended--
+            (1) by striking the items relating to sections 555 and 556 
+        and inserting the following:
+
+``555. Contractual right to liquidate, terminate, or accelerate a 
+                            securities contract.
+``556. Contractual right to liquidate, terminate, or accelerate a 
+                            commodities contract or forward 
+                            contract.'';
+        and
+            (2) by striking the items relating to sections 559 and 560 
+        and inserting the following:
+
+``559. Contractual right to liquidate, terminate, or accelerate a 
+                            repurchase agreement.
+``560. Contractual right to liquidate, terminate, or accelerate a swap 
+                            agreement.
+``561. Contractual right to terminate, liquidate, accelerate, or offset 
+                            under a master netting agreement and across 
+                            contracts.''.
+
+SEC. 208. MUNICIPAL BANKRUPTCIES.
+
+    Section 901(a) of title 11, United States Code, is amended by 
+striking ``557'' and inserting ``555, 556, 557, 559, 560, 561, 562''.
+
+SEC. 209. SECURITIES CONTRACTS, COMMODITY CONTRACTS, AND FORWARD 
+              CONTRACTS.
+
+    Title 11, United States Code, is amended--
+            (1) in section 362(b)(6), by striking ``commodity broker, 
+        forward contract merchant, stockbroker, financial institutions, 
+        or securities clearing agency'' each place it appears and 
+        inserting ``financial participant'';
+            (2) in section 546(e), by striking ``commodity broker, 
+        forward contract merchant, stockbroker, financial institution, 
+        or securities clearing agency'' and inserting ``financial 
+        participant'';
+            (3) in section 548(d)(2)(B), by striking ``commodity 
+        broker, forward contract merchant, stockbroker, financial 
+        institution, or securities clearing agency'' and inserting 
+        ``financial participant'';
+            (4) in section 555--
+                    (A) by striking ``stockbroker, financial 
+                institution, or securities clearing agency'' and 
+                inserting ``financial participant''; and
+                    (B) by inserting before the period ``, a right set 
+                forth in a bylaw of a clearing organization or contract 
+                market or in a resolution of the governing board 
+                thereof, and a right, whether or not in writing, 
+                arising under common law, under law merchant, or by 
+                reason of normal business practice''; and
+            (5) in section 556, by striking ``commodity broker or 
+        forward contract merchant'' and inserting ``financial 
+        participant''.
+
+SEC. 210. ANCILLARY PROCEEDINGS.
+
+    Section 304 of title 11, United States Code, is amended by adding 
+at the end the following:
+    ``(d) Any provision of this title relating to securities contracts, 
+commodity contracts, forward contracts, repurchase agreements, swap 
+agreements, or master netting agreements shall apply in a case 
+ancillary to a foreign proceeding under this section so that 
+enforcement of contractual provisions of such contracts and agreements 
+in accordance with their terms will not be stayed or otherwise limited 
+by operation of any provision of this title or by order of a court in 
+any proceeding under this title, and to limit avoidance powers to the 
+same extent as a proceeding under chapter 7 or 11 of this title (such 
+enforcement not to be limited based on the presence or absence of 
+assets of the debtor in the United States).''.
+
+SEC. 211. LIQUIDATIONS.
+
+    (a) Commodity Brokers.--Subchapter IV of chapter 7 of title 11, 
+United States Code, is amended by adding at the end the following:
+``Sec. 767. Commodity broker liquidation and forward contract 
+              merchants, commodity brokers, stockbrokers, financial 
+              institutions, securities clearing agencies, swap 
+              participants, financial participants, repo participants, 
+              and master netting agreement participants
+    ``Notwithstanding any other provision of this title, the exercise 
+of rights by a forward contract merchant, commodity broker, 
+stockbroker, financial institution, securities clearing agency, swap 
+participant, financial participant, repo participant, or master netting 
+agreement participant under this title shall not affect--
+            ``(1) the priority of any unsecured claim that such person 
+        may have after the exercise of those rights; or
+            ``(2) the applicability of this subchapter with respect to 
+        customer property or distributions after the exercise of such 
+        rights.''.
+    (b) Stockbrokers.--Subchapter III of chapter 7 of title 11, United 
+States Code, is amended by adding at the end the following:
+``Sec. 753. Stockbroker liquidation and forward contract merchants, 
+              commodity brokers, stockbrokers, financial institutions, 
+              securities clearing agencies, swap participants, 
+              financial participants, repo participants, and master 
+              netting agreement participants
+    ``Notwithstanding any other provision of this title, the exercise 
+of rights by a forward contract merchant, commodity broker, 
+stockbroker, financial institution, securities clearing agency, swap 
+participant, financial participant, repo participant, or master netting 
+agreement participant under this title shall not affect--
+            ``(1) the priority of any unsecured claim that such person 
+        may have after the exercise of those rights; or
+            ``(2) the applicability of this subchapter with respect to 
+        customer property or distributions after the exercise of such 
+        rights.''.
+    (c) Clerical Amendments.--The chapter analysis for chapter 7 of 
+title 11, United States Code, is amended--
+            (1) by inserting after the item relating to section 766 the 
+        following:
+
+``767. Commodity broker liquidation and forward contract merchants, 
+                            commodity brokers, stockbrokers, financial 
+                            institutions, securities clearing agencies, 
+                            swap participants, repo participants, and 
+                            master netting agreement participants.'';
+        and
+            (2) by inserting after the item relating to section 752 the 
+        following:
+
+``753. Stockbroker liquidation and forward contract merchants, 
+                            commodity brokers, stockbrokers, financial 
+                            institutions, securities clearing agencies, 
+                            swap participants, repo participants, and 
+                            master netting agreement participants.''.
+
+SEC. 212. SETOFF.
+
+    Section 553 of title 11, United States Code, is amended--
+            (1) in subsection (a)(3)(C), by inserting before the period 
+        ``(except for a setoff of a kind described in section 
+        362(b)(6), 362(b)(7), 362(b)(17), 362(b)(19), 555, 556, 559, 
+        560, or 561)''; and
+            (2) in subsection (b)(1), by striking ``362(b)(14), 365(h), 
+        546(h), or 365(i)(2)'' and inserting ``362(b)(17), 362(b)(19), 
+        365(h), 365(i)(2), 546(h), 555, 556, 559, 560, or 561''.
+
+SEC. 213. RECORDKEEPING REQUIREMENTS.
+
+    Section 11(e)(8) of the Federal Deposit Insurance Act (12 U.S.C. 
+1821(e)(8)) is amended by adding at the end the following:
+                    ``(F) Recordkeeping requirements.--The Corporation, 
+                in consultation with the appropriate Federal banking 
+                agencies, may prescribe regulations to require detailed 
+                recordkeeping by insured depository institutions with 
+                respect to qualified financial contracts (including 
+                market valuations).''.
+
+SEC. 214. DAMAGE MEASURE.
+
+    (a) Damage Measure.--
+            (1) In general.--Subchapter IV of chapter 5 of title 11, 
+        United States Code, as amended by this Act, is amended by 
+        adding at the end the following:
+``Sec. 562. Damage measure in connection with swap agreements, 
+              securities contracts, forward contracts, commodity 
+              contracts, repurchase agreements, or master netting 
+              agreements
+    ``If a trustee rejects a swap agreement, securities contract (as 
+that term is defined in section 741), forward contract, repurchase 
+agreement, commodity contract, or master netting agreement pursuant to 
+section 365(a), or if a forward contract merchant, stockbroker, 
+financial institution, securities clearing agency, repo participant, 
+master netting agreement participant, commodity contract, or swap 
+participant liquidates, terminates, or accelerates any such contract or 
+agreement, damages shall be measured as of the earlier of--
+            ``(1) the date of that rejection; or
+            ``(2) the date of that liquidation, termination, or 
+        acceleration.''.
+            (2) Clerical amendment.--The chapter analysis for chapter 5 
+        of title 11, United States Code, is amended by adding at the 
+        end the following:
+
+``562. Damage measure in connection with swap agreements, securities 
+                            contracts, forward contracts, commodity 
+                            contracts, repurchase agreements, or master 
+                            netting agreements.''.
+    (b) Claims Arising From Rejection.--Section 502(g) of title 11, 
+United States Code, is amended--
+            (1) by striking ``(g) A claim'' and inserting the 
+        following:
+    ``(g) Treatment of Claim Upon Rejection.--
+            ``(1) In general.--''; and
+            (2) by adding at the end the following:
+            ``(2) Claims for damages.--A claim for damages calculated 
+        in accordance with section 562 shall be allowed under 
+        subsection (a), (b), or (c), or shall be disallowed under 
+        subsection (d) or (e), as if that claim had arisen before the 
+        date of the filing of the petition.''.
+
+SEC. 215. ASSET-BACKED SECURITIZATIONS.
+
+    Section 541 of title 11, United States Code, is amended--
+            (1) in subsection (b)--
+                    (A) in paragraph (4), by striking ``or'' at the 
+                end;
+                    (B) by redesignating paragraph (5) as paragraph 
+                (6); and
+                    (C) by inserting after paragraph (4) the following:
+            ``(5) any eligible asset (or proceeds thereof), to the 
+        extent that such eligible asset was transferred by the debtor, 
+        before the date of commencement of the action, to an eligible 
+        entity in connection with an asset-backed securitization; or''; 
+        and
+            (2) by adding at the end the following:
+    ``(e) For purposes of this section--
+            ``(1) the term `asset-backed securitization' means a 
+        transaction in which eligible assets transferred to an eligible 
+        entity are used as collateral for securities, the most senior 
+        of which are rated investment grade by 1 or more nationally 
+        recognized securities rating organizations, issued by an 
+        issuer;
+            ``(2) the term `eligible asset' means--
+                    ``(A) financial assets (including interests therein 
+                and proceeds thereof), either fixed or revolving, 
+                including residential and commercial mortgage loans, 
+                consumer receivables, trade receivables, and lease 
+                receivables, that, by their terms, convert into cash 
+                within a finite time period, plus any rights or other 
+                assets designed to assure the servicing or timely 
+                distribution of proceeds to security holders;
+                    ``(B) cash; and
+                    ``(C) securities;
+            ``(3) the term `eligible entity' means--
+                    ``(A) an issuer; or
+                    ``(B) a trust, corporation, partnership, or other 
+                entity engaged exclusively in the business of acquiring 
+                and transferring eligible assets directly or indirectly 
+                to an issuer and taking actions ancillary thereto;
+            ``(4) the term `issuer' means a trust, corporation, 
+        partnership, or other entity engaged exclusively in the 
+        business of acquiring and holding eligible assets, issuing 
+        securities backed by eligible assets, and taking actions 
+        ancillary thereto; and
+            ``(5) the term `transferred' means the debtor, pursuant to 
+        a written agreement, represented and warranted that eligible 
+        assets were sold, contributed, or otherwise conveyed with the 
+        intention of removing them from the estate of the debtor 
+        pursuant to subsection (b)(5), irrespective of--
+                    ``(A) whether the debtor directly or indirectly 
+                obtained or held an interest in the issuer or in any 
+                securities issued by the issuer;
+                    ``(B) whether the debtor had an obligation to 
+                repurchase or to service or supervise the servicing of 
+                all or any portion of such eligible assets; or
+                    ``(C) the characterization of such sale, 
+                contribution, or other conveyance for tax, accounting, 
+                regulatory reporting, or other purposes.''.
+
+SEC. 216. APPLICABILITY.
+
+    The amendments made by this title shall apply with respect to cases 
+commenced or appointments made under any Federal or State law after the 
+date of enactment of this Act.
+
+           TITLE III--ANCILLARY AND OTHER CROSS-BORDER CASES
+
+SEC. 301. AMENDMENT TO ADD A CHAPTER 6 TO TITLE 11, UNITED STATES CODE.
+
+    (a) In General.--Title 11, United States Code, is amended by 
+inserting after chapter 5 the following:
+
+          ``CHAPTER 6--ANCILLARY AND OTHER CROSS-BORDER CASES
+
+``Sec.
+``601. Purpose and scope of application.
+                   ``SUBCHAPTER I--GENERAL PROVISIONS
+
+``602. Definitions.
+``603. International obligations of the United States.
+``604. Commencement of ancillary case.
+``605. Authorization to act in a foreign country.
+``606. Public policy exception.
+``607. Additional assistance.
+``608. Interpretation.
+``SUBCHAPTER II--ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE 
+                                 COURT
+
+``609. Right of direct access.
+``610. Limited jurisdiction.
+``611. Commencement of bankruptcy case under section 301 or 303.
+``612. Participation of a foreign representative in a case under this 
+                            title.
+``613. Access of foreign creditors to a case under this title.
+``614. Notification to foreign creditors concerning a case under this 
+                            title.
+    ``SUBCHAPTER III--RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF
+
+``615. Application for recognition of a foreign proceeding.
+``616. Presumptions concerning recognition.
+``617. Order recognizing a foreign proceeding.
+``618. Subsequent information.
+``619. Relief that may be granted upon petition for recognition of a 
+                            foreign proceeding.
+``620. Effects of recognition of a foreign main proceeding.
+``621. Relief that may be granted upon recognition of a foreign 
+                            proceeding.
+``622. Protection of creditors and other interested persons.
+``623. Actions to avoid acts detrimental to creditors.
+``624. Intervention by a foreign representative.
+     ``SUBCHAPTER IV--COOPERATION WITH FOREIGN COURTS AND FOREIGN 
+                            REPRESENTATIVES
+
+``625. Cooperation and direct communication between the court and 
+                            foreign courts or foreign representatives.
+``626. Cooperation and direct communication between the trustee and 
+                            foreign courts or foreign representatives.
+``627. Forms of cooperation.
+                 ``SUBCHAPTER V--CONCURRENT PROCEEDINGS
+
+``628. Commencement of a case under this title after recognition of a 
+                            foreign main proceeding.
+``629. Coordination of a case under this title and a foreign 
+                            proceeding.
+``630. Coordination of more than 1 foreign proceeding.
+``631. Presumption of insolvency based on recognition of a foreign main 
+                            proceeding.
+``632. Rule of payment in concurrent proceedings.
+``Sec. 601. Purpose and scope of application
+    ``(a) The purpose of this chapter is to incorporate the Model Law 
+on Cross-Border Insolvency so as to provide effective mechanisms for 
+dealing with cases of cross-border insolvency with the objectives of--
+            ``(1) cooperation between--
+                    ``(A) United States courts, United States Trustees, 
+                trustees, examiners, debtors, and debtors in 
+                possession; and
+                    ``(B) the courts and other competent authorities of 
+                foreign countries involved in cross-border insolvency 
+                cases;
+            ``(2) greater legal certainty for trade and investment;
+            ``(3) fair and efficient administration of cross-border 
+        insolvencies that protects the interests of all creditors, and 
+        other interested entities, including the debtor;
+            ``(4) protection and maximization of the value of the 
+        debtor's assets; and
+            ``(5) facilitation of the rescue of financially troubled 
+        businesses, thereby protecting investment and preserving 
+        employment.
+    ``(b) This chapter applies where--
+            ``(1) assistance is sought in the United States by a 
+        foreign court or a foreign representative in connection with a 
+        foreign proceeding;
+            ``(2) assistance is sought in a foreign country in 
+        connection with a case under this title;
+            ``(3) a foreign proceeding and a case under this title with 
+        respect to the same debtor are taking place concurrently; or
+            ``(4) creditors or other interested persons in a foreign 
+        country have an interest in requesting the commencement of, or 
+        participating in, a case or proceeding under this title.
+    ``(c) This chapter does not apply to--
+            ``(1) a proceeding concerning an entity identified by 
+        exclusion in subsection 109(b); or
+            ``(2) a natural person or a natural person and that 
+        person's spouse who have debts within the limits specified in 
+        under section 109(e) and who are citizens of the United States 
+        or aliens lawfully admitted for permanent residence in the 
+        United States.
+
+                   ``SUBCHAPTER I--GENERAL PROVISIONS
+
+``Sec. 602. Definitions
+    ``For the purposes of this chapter, the term--
+            ``(1) `debtor' means an entity that is the subject of a 
+        foreign proceeding;
+            ``(2) `establishment' means any place of operations where 
+        the debtor carries out a nontransitory economic activity;
+            ``(3) `foreign court' means a judicial or other authority 
+        competent to control or supervise a foreign proceeding;
+            ``(4) `foreign main proceeding' means a foreign proceeding 
+        taking place in the country where the debtor has the center of 
+        its main interests;
+            ``(5) `foreign nonmain proceeding' means a foreign 
+        proceeding, other than a foreign main proceeding, taking place 
+        in a country where the debtor has an establishment;
+            ``(6) `trustee' includes a trustee, a debtor in possession 
+        in a case under any chapter of this title, or a debtor under 
+        chapters 9 or 13 of this title; and
+            ``(7) `within the territorial jurisdiction of the United 
+        States' when used with reference to property of a debtor refers 
+        to tangible property located within the territory of the United 
+        States and intangible property deemed to be located within that 
+        territory, including any property that may properly be seized 
+        or garnished by an action in a Federal or State court in the 
+        United States.
+``Sec. 603. International obligations of the United States
+    ``To the extent that this chapter conflicts with an obligation of 
+the United States arising out of any treaty or other form of agreement 
+to which it is a party with 1 or more other countries, the requirements 
+of the treaty or agreement prevail.
+``Sec. 604. Commencement of ancillary case
+    ``A case under this chapter is commenced by the filing of a 
+petition for recognition of a foreign proceeding under section 615.
+``Sec. 605. Authorization to act in a foreign country
+    ``A trustee or another entity designated by the court may be 
+authorized by the court to act in a foreign country on behalf of an 
+estate created under section 541. An entity authorized to act under 
+this section may act in any way permitted by the applicable foreign 
+law.
+``Sec. 606. Public policy exception
+    ``Nothing in this chapter prevents the court from refusing to take 
+an action governed by this chapter if the action would be manifestly 
+contrary to the public policy of the United States.
+``Sec. 607. Additional assistance
+    ``(a) Nothing in this chapter limits the power of the court, upon 
+recognition of a foreign proceeding, to provide additional assistance 
+to a foreign representative under this title or under other laws of the 
+United States.
+    ``(b) In determining whether to provide additional assistance under 
+this title or under other laws of the United States, the court shall 
+consider whether such additional assistance, consistent with the 
+principles of comity, will reasonably assure--
+            ``(1) just treatment of all holders of claims against or 
+        interests in the debtor's property;
+            ``(2) protection of claim holders in the United States 
+        against prejudice and inconvenience in the processing of claims 
+        in such foreign proceeding;
+            ``(3) prevention of preferential or fraudulent dispositions 
+        of property of the debtor;
+            ``(4) distribution of proceeds of the debtor's property 
+        substantially in accordance with the order prescribed by this 
+        title; and
+            ``(5) if appropriate, the provision of an opportunity for a 
+        fresh start for the individual that such foreign proceeding 
+        concerns.
+``Sec. 608. Interpretation
+    ``In interpreting this chapter, the court shall consider its 
+international origin, and the need to promote an application of this 
+chapter that is consistent with the application of similar statutes 
+adopted by foreign jurisdictions.
+
+``SUBCHAPTER II--ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE 
+                                 COURT
+
+``Sec. 609. Right of direct access
+    ``(a) A foreign representative is entitled to commence a case under 
+section 604 by filing a petition for recognition under section 615, and 
+upon recognition, to apply directly to other Federal and State courts 
+for appropriate relief in those courts.
+    ``(b) Upon recognition, and subject to section 610, a foreign 
+representative has the capacity to sue and be sued.
+    ``(c) Recognition under this chapter is prerequisite to the 
+granting of comity or cooperation to a foreign proceeding in any State 
+or Federal court in the United States. Any request for comity or 
+cooperation in any court shall be accompanied by a sworn statement 
+setting forth whether recognition under section 615 has been sought and 
+the status of any such petition.
+    ``(d) Upon denial of recognition under this chapter, the court may 
+issue appropriate orders necessary to prevent an attempt to obtain 
+comity or cooperation from courts in the United States without such 
+recognition.
+``Sec. 610. Limited jurisdiction
+    ``The sole fact that a foreign representative files a petition 
+under sections 604 and 615 does not subject the foreign representative 
+to the jurisdiction of any court in the United States for any other 
+purpose.
+``Sec. 611. Commencement of bankruptcy case under section 301 or 303
+    ``(a) Upon filing a petition for recognition, a foreign 
+representative may commence--
+            ``(1) an involuntary case under section 303; or
+            ``(2) a voluntary case under section 301 or 302, if the 
+        foreign proceeding is a foreign main proceeding.
+    ``(b) The petition commencing a case under subsection (a) of this 
+section must be accompanied by a statement describing the petition for 
+recognition and its current status. The court where the petition for 
+recognition has been filed must be advised of the foreign 
+representative's intent to commence a case under subsection (a) of this 
+section prior to such commencement.
+    ``(c) A case under subsection (a) shall be dismissed unless 
+recognition is granted.
+``Sec. 612. Participation of a foreign representative in a case under 
+              this title
+    ``Upon recognition of a foreign proceeding, the foreign 
+representative in that proceeding is entitled to participate as a party 
+in interest in a case regarding the debtor under this title.
+``Sec. 613. Access of foreign creditors to a case under this title
+    ``(a) Foreign creditors have the same rights regarding the 
+commencement of, and participation in, a case under this title as 
+domestic creditors.
+    ``(b)(1) Subsection (a) of this section does not change or codify 
+law in effect on the date of enactment of this chapter as to the 
+priority of claims under section 507 or 726, except that the claim of a 
+foreign creditor under those sections shall not be given a lower 
+priority than the class of general unsecured claims without priority 
+solely because the holder of such claim is a foreign creditor.
+    ``(2)(A) Subsection (a) of this section and paragraph (1) of this 
+subsection do not change or codify law in effect on the date of 
+enactment of this chapter as to the allowability of foreign revenue 
+claims or other foreign public law claims in a proceeding under this 
+title.
+    ``(B) Allowance and priority as to a foreign tax claim or other 
+foreign public law claim shall be governed by any applicable tax treaty 
+of the United States, under the conditions and circumstances specified 
+therein.
+``Sec. 614. Notification to foreign creditors concerning a case under 
+              this title
+    ``(a) Whenever in a case under this title, notice is to be given to 
+creditors generally or to any class or category of creditors, such 
+notice shall also be given to the known creditors generally, or to 
+creditors in the notified class or category, that do not have addresses 
+in the United States. The court may order that appropriate steps be 
+taken with a view to notifying any creditor whose address is not yet 
+known.
+    ``(b) The notification to creditors with foreign addresses 
+described in subsection (a) shall be given individually, unless the 
+court considers that, under the circumstances, some other form of 
+notification would be more appropriate. No letters rogatory or other 
+similar formality is required.
+    ``(c) When a notification of commencement of a case is to be given 
+to foreign creditors, the notification shall--
+            ``(1) indicate the time period for filing proofs of claim 
+        and specify the place for their filing;
+            ``(2) indicate whether secured creditors need to file their 
+        proofs of claim; and
+            ``(3) contain any other information required to be included 
+        in such a notification to creditors pursuant to this title and 
+        the orders of the court.
+    ``(d) Any rule of procedure or order of the court as to notice or 
+the filing of a claim shall provide such additional time to creditors 
+with foreign addresses as is reasonable under the circumstances.
+
+    ``SUBCHAPTER III--RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF
+
+``Sec. 615. Application for recognition of a foreign proceeding
+    ``(a) A foreign representative applies to the court for recognition 
+of the foreign proceeding in which the foreign representative has been 
+appointed by filing a petition for recognition.
+    ``(b) A petition for recognition shall be accompanied by--
+            ``(1) a certified copy of the decision commencing the 
+        foreign proceeding and appointing the foreign representative;
+            ``(2) a certificate from the foreign court affirming the 
+        existence of the foreign proceeding and of the appointment of 
+        the foreign representative; or
+            ``(3) in the absence of evidence referred to in paragraphs 
+        (1) and (2), any other evidence acceptable to the court of the 
+        existence of the foreign proceeding and of the appointment of 
+        the foreign representative.
+    ``(c) A petition for recognition shall also be accompanied by a 
+statement identifying all foreign proceedings with respect to the 
+debtor that are known to the foreign representative.
+    ``(d) The documents referred to in paragraphs (1) and (2) of 
+subsection (b) must be translated into English. The court may require a 
+translation into English of additional documents.
+``Sec. 616. Presumptions concerning recognition
+    ``(a) If the decision or certificate referred to in section 615(b) 
+indicates that the foreign proceeding is a foreign proceeding within 
+the meaning of section 101(23) and that the person or body is a foreign 
+representative within the meaning of section 101(24), the court is 
+entitled to so presume.
+    ``(b) The court is entitled to presume that documents submitted in 
+support of the petition for recognition are authentic, whether the 
+documents have been subjected to legal processing under applicable law.
+    ``(c) In the absence of evidence to the contrary, the debtor's 
+registered office, or habitual residence in the case of an individual, 
+is presumed to be the center of the debtor's main interests.
+``Sec. 617. Order recognizing a foreign proceeding
+    ``(a) Subject to section 606, an order recognizing a foreign 
+proceeding shall be entered if--
+            ``(1) the foreign proceeding is a foreign main proceeding 
+        or foreign nonmain proceeding within the meaning of section 602 
+        and is a foreign proceeding within the meaning of section 
+        101(23);
+            ``(2) the person or body applying for recognition is a 
+        foreign representative within the meaning of section 101(24); 
+        and
+            ``(3) the petition meets the requirements of section 615.
+    ``(b) The foreign proceeding shall be recognized--
+            ``(1) as a foreign main proceeding if it is taking place in 
+        the country where the debtor has the center of its main 
+        interests; or
+            ``(2) as a foreign nonmain proceeding if the debtor has an 
+        establishment within the meaning of section 602 in the foreign 
+        country where the proceeding is pending.
+    ``(c) A petition for recognition of a foreign proceeding shall be 
+decided upon at the earliest possible time. Entry of an order 
+recognizing a foreign proceeding shall constitute recognition under 
+this chapter.
+    ``(d) The provisions of this subchapter do not prevent modification 
+or termination of recognition if it is shown that the grounds for 
+granting it were fully or partially lacking or have ceased to exist, 
+but in considering such action the court shall give due weight to 
+possible prejudice to parties that have relied upon the granting of 
+recognition. The foreign proceeding may be closed in the manner 
+prescribed for a case under section 350.
+``Sec. 618. Subsequent information
+    ``From the time of filing the petition for recognition of the 
+foreign proceeding, the foreign representative shall file with the 
+court promptly a notice of change of status concerning--
+            ``(1) any substantial change in the status of the foreign 
+        proceeding or the status of the foreign representative's 
+        appointment; and
+            ``(2) any other foreign proceeding regarding the debtor 
+        that becomes known to the foreign representative.
+``Sec. 619. Relief that may be granted upon petition for recognition of 
+              a foreign proceeding
+    ``(a) From the time of filing a petition for recognition until the 
+petition is decided upon, the court may, at the request of the foreign 
+representative, where relief is urgently needed to protect the assets 
+of the debtor or the interests of the creditors, grant relief of a 
+provisional nature, including--
+            ``(1) staying execution against the debtor's assets;
+            ``(2) entrusting the administration or realization of all 
+        or part of the debtor's assets located in the United States to 
+        the foreign representative or another person designated by the 
+        court, including an examiner, in order to protect and preserve 
+        the value of assets that, by their nature or because of other 
+        circumstances, are perishable, susceptible to devaluation or 
+        otherwise in jeopardy; and
+            ``(3) any relief referred to in paragraph (3), (4), or (7) 
+        of section 621(a).
+    ``(b) Unless extended under section 621(a)(6), the relief granted 
+under this section terminates when the petition for recognition is 
+decided upon.
+    ``(c) It is a ground for denial of relief under this section that 
+such relief would interfere with the administration of a foreign main 
+proceeding.
+    ``(d) The court may not enjoin a police or regulatory act of a 
+governmental unit, including a criminal action or proceeding, under 
+this section.
+    ``(e) The standards, procedures, and limitations applicable to an 
+injunction shall apply to relief under this section.
+``Sec. 620. Effects of recognition of a foreign main proceeding
+    ``(a) Upon recognition of a foreign proceeding that is a foreign 
+main proceeding--
+            ``(1) section 362 applies with respect to the debtor and 
+        that property of the debtor that is within the territorial 
+        jurisdiction of the United States; and
+            ``(2) transfer, encumbrance, or any other disposition of an 
+        interest of the debtor in property within the territorial 
+        jurisdiction of the United States is restrained as and to the 
+        extent that is provided for property of an estate under 
+        sections 363, 549, and 552.
+Unless the court orders otherwise, the foreign representative may 
+operate the debtor's business and may exercise the powers of a trustee 
+under section 549, subject to sections 363 and 552.
+    ``(b) The scope, and the modification or termination, of the stay 
+and restraints referred to in subsection (a) of this section are 
+subject to the exceptions and limitations provided in subsections (b), 
+(c), and (d) of section 362, subsections (b) and (c) of section 363, 
+and sections 552, 555 through 557, 559, and 560.
+    ``(c) Subsection (a) of this section does not affect the right to 
+commence individual actions or proceedings in a foreign country to the 
+extent necessary to preserve a claim against the debtor.
+    ``(d) Subsection (a) of this section does not affect the right of a 
+foreign representative or an entity to file a petition commencing a 
+case under this title or the right of any party to file claims or take 
+other proper actions in such a case.
+``Sec. 621. Relief that may be granted upon recognition of a foreign 
+              proceeding
+    ``(a) Upon recognition of a foreign proceeding, whether main or 
+nonmain, where necessary to effectuate the purpose of this chapter and 
+to protect the assets of the debtor or the interests of the creditors, 
+the court may, at the request of the foreign representative, grant any 
+appropriate relief, including--
+            ``(1) staying the commencement or continuation of 
+        individual actions or individual proceedings concerning the 
+        debtor's assets, rights, obligations or liabilities to the 
+        extent they have not been stayed under section 620(a);
+            ``(2) staying execution against the debtor's assets to the 
+        extent it has not been stayed under section 620(a);
+            ``(3) suspending the right to transfer, encumber or 
+        otherwise dispose of any assets of the debtor to the extent 
+        this right has not been suspended under section 620(a);
+            ``(4) providing for the examination of witnesses, the 
+        taking of evidence or the delivery of information concerning 
+        the debtor's assets, affairs, rights, obligations or 
+        liabilities;
+            ``(5) entrusting the administration or realization of all 
+        or part of the debtor's assets within the territorial 
+        jurisdiction of the United States to the foreign representative 
+        or another person, including an examiner, designated by the 
+        court;
+            ``(6) extending relief granted under section 619(a); and
+            ``(7) granting any additional relief that may be available 
+        to a trustee, except for relief available under sections 522, 
+        544, 545, 547, 548, 550, and 724(a).
+    ``(b) Upon recognition of a foreign proceeding, whether main or 
+nonmain, the court may, at the request of the foreign representative, 
+entrust the distribution of all or part of the debtor's assets located 
+in the United States to the foreign representative or another person, 
+including an examiner, designated by the court, provided that the court 
+is satisfied that the interests of creditors in the United States are 
+sufficiently protected.
+    ``(c) In granting relief under this section to a representative of 
+a foreign nonmain proceeding, the court must be satisfied that the 
+relief relates to assets that, under the law of the United States, 
+should be administered in the foreign nonmain proceeding or concerns 
+information required in that proceeding.
+    ``(d) The court may not enjoin a police or regulatory act of a 
+governmental unit, including a criminal action or proceeding, under 
+this section.
+``Sec. 622. Protection of creditors and other interested persons
+    ``(a) In granting or denying relief under section 619 or 621, or in 
+modifying or terminating relief under subsection (c) of this section, 
+the court must find that the interests of the creditors and other 
+interested persons or entities, including the debtor, are sufficiently 
+protected.
+    ``(b) The court may subject relief granted under section 619 or 621 
+to conditions it considers appropriate.
+    ``(c) The court may, at the request of the foreign representative 
+or an entity affected by relief granted under section 619 or 621, or at 
+its own motion, modify or terminate such relief.
+``Sec. 623. Actions to avoid acts detrimental to creditors
+    ``(a) Upon recognition of a foreign proceeding, the foreign 
+representative has standing in a pending case under another chapter of 
+this title to initiate actions under sections 522, 544, 545, 547, 548, 
+550, and 724(a).
+    ``(b) When the foreign proceeding is a foreign nonmain proceeding, 
+the court must be satisfied that an action under subsection (a) of this 
+section relates to assets that, under United States law, should be 
+administered in the foreign nonmain proceeding.
+``Sec. 624. Intervention by a foreign representative
+    ``Upon recognition of a foreign proceeding, the foreign 
+representative may intervene in any proceedings in a State or Federal 
+court in the United States in which the debtor is a party.
+
+     ``SUBCHAPTER IV--COOPERATION WITH FOREIGN COURTS AND FOREIGN 
+                            REPRESENTATIVES
+
+``Sec. 625. Cooperation and direct communication between the court and 
+              foreign courts or foreign representatives
+    ``(a) In all matters included within section 601, the court shall 
+cooperate to the maximum extent possible with foreign courts or foreign 
+representatives, either directly or through the trustee.
+    ``(b) The court is entitled to communicate directly with, or to 
+request information or assistance directly from, foreign courts or 
+foreign representatives, subject to the rights of parties in interest 
+to notice and participation.
+``Sec. 626. Cooperation and direct communication between the trustee 
+              and foreign courts or foreign representatives
+    ``(a) In all matters included in section 601, the trustee or other 
+person, including an examiner, designated by the court, shall, subject 
+to the supervision of the court, cooperate to the maximum extent 
+possible with foreign courts or foreign representatives.
+    ``(b) The trustee or other person, including an examiner, 
+designated by the court is entitled, subject to the supervision of the 
+court, to communicate directly with foreign courts or foreign 
+representatives.
+    ``(c) Section 1104(d) shall apply to the appointment of an examiner 
+under this chapter. Any examiner shall comply with the qualification 
+requirements imposed on a trustee by section 322(a).
+``Sec. 627. Forms of cooperation
+    ``Cooperation referred to in sections 625 and 626 may be 
+implemented by any appropriate means, including--
+            ``(1) appointment of a person or body, including an 
+        examiner, to act at the direction of the court;
+            ``(2) communication of information by any means considered 
+        appropriate by the court;
+            ``(3) coordination of the administration and supervision of 
+        the debtor's assets and affairs;
+            ``(4) approval or implementation of agreements concerning 
+        the coordination of proceedings; and
+            ``(5) coordination of concurrent proceedings regarding the 
+        same debtor.
+
+                 ``SUBCHAPTER V--CONCURRENT PROCEEDINGS
+
+``Sec. 628. Commencement of a case under this title after recognition 
+              of a foreign main proceeding
+    ``After recognition of a foreign main proceeding, a case under 
+another chapter of this title may be commenced only if the debtor has 
+assets in the United States. The effects of that case shall be 
+restricted to the assets of the debtor that are within the territorial 
+jurisdiction of the United States and, to the extent necessary to 
+implement cooperation and coordination under sections 625, 626, and 
+627, to other assets of the debtor that are within the jurisdiction of 
+the court under sections 541(a) and 1334(e), to the extent that such 
+other assets are not subject to the jurisdiction and control of a 
+foreign proceeding that has been recognized under this chapter.
+``Sec. 629. Coordination of a case under this title and a foreign 
+              proceeding
+    ``Where a foreign proceeding and a case under another chapter of 
+this title are taking place concurrently regarding the same debtor, the 
+court shall seek cooperation and coordination under sections 625, 626, 
+and 627, and the following shall apply:
+            ``(1) When the case in the United States is taking place at 
+        the time the petition for recognition of the foreign proceeding 
+        is filed--
+                    ``(A) any relief granted under sections 619 or 621 
+                must be consistent with the case in the United States; 
+                and
+                    ``(B) even if the foreign proceeding is recognized 
+                as a foreign main proceeding, section 620 does not 
+                apply.
+            ``(2) When a case in the United States under this title 
+        commences after recognition, or after the filing of the 
+        petition for recognition, of the foreign proceeding--
+                    ``(A) any relief in effect under sections 619 or 
+                621 shall be reviewed by the court and shall be 
+                modified or terminated if inconsistent with the case in 
+                the United States; and
+                    ``(B) if the foreign proceeding is a foreign main 
+                proceeding, the stay and suspension referred to in 
+                section 620(a) shall be modified or terminated if 
+                inconsistent with the case in the United States.
+            ``(3) In granting, extending, or modifying relief granted 
+        to a representative of a foreign nonmain proceeding, the court 
+        must be satisfied that the relief relates to assets that, under 
+        the law of the United States, should be administered in the 
+        foreign nonmain proceeding or concerns information required in 
+        that proceeding.
+            ``(4) In achieving cooperation and coordination under 
+        sections 628 and 629, the court may grant any of the relief 
+        authorized under section 305.
+``Sec. 630. Coordination of more than 1 foreign proceeding
+    ``In matters referred to in section 601, with respect to more than 
+one foreign proceeding regarding the debtor, the court shall seek 
+cooperation and coordination under sections 625, 626, and 627, and the 
+following shall apply:
+            ``(1) Any relief granted under section 619 or 621 to a 
+        representative of a foreign nonmain proceeding after 
+        recognition of a foreign main proceeding must be consistent 
+        with the foreign main proceeding.
+            ``(2) If a foreign main proceeding is recognized after 
+        recognition, or after the filing of a petition for recognition, 
+        of a foreign nonmain proceeding, any relief in effect under 
+        section 619 or 621 shall be reviewed by the court and shall be 
+        modified or terminated if inconsistent with the foreign main 
+        proceeding.
+            ``(3) If, after recognition of a foreign nonmain 
+        proceeding, another foreign nonmain proceeding is recognized, 
+        the court shall grant, modify, or terminate relief for the 
+        purpose of facilitating coordination of the proceedings.
+``Sec. 631. Presumption of insolvency based on recognition of a foreign 
+              main proceeding
+    ``In the absence of evidence to the contrary, recognition of a 
+foreign main proceeding is for the purpose of commencing a proceeding 
+under section 303, proof that the debtor is generally not paying its 
+debts.
+``Sec. 632. Rule of payment in concurrent proceedings
+    ``Without prejudice to secured claims or rights in rem, a creditor 
+who has received payment with respect to its claim in a foreign 
+proceeding pursuant to a law relating to insolvency may not receive a 
+payment for the same claim in a case under any other chapter of this 
+title regarding the debtor, so long as the payment to other creditors 
+of the same class is proportionately less than the payment the creditor 
+has already received.''.
+    (b) Clerical Amendment.--The table of chapters for title 11, United 
+States Code, is amended by inserting after the item relating to chapter 
+5 the following:
+
+``6. Ancillary and Other Cross-Border Cases.................     601''.
+
+SEC. 302. AMENDMENTS TO OTHER CHAPTERS IN TITLE 11, UNITED STATES CODE.
+
+    (a) Applicability of Chapters.--Section 103 of title 11, United 
+States Code, is amended--
+            (1) in subsection (a), by inserting before the period the 
+        following: ``and this chapter, sections 307, 555 through 557, 
+        559, and 560 apply in a case under chapter 6''; and
+            (2) by adding at the end the following:
+    ``(j) Chapter 6 applies only in a case under that chapter, except 
+that section 605 applies to trustees and to any other entity designated 
+by the court, including an examiner, under chapters 7, 11, and 12, to 
+debtors in possession under chapters 11 and 12, and to debtors or 
+trustees under chapters 9 and 13 who are authorized to act under 
+section 605.''.
+    (b) Definitions.--Section 101 of title 11, United States Code, is 
+amended by striking paragraphs (23) and (24) and inserting the 
+following:
+            ``(23) `foreign proceeding' means a collective judicial or 
+        administrative proceeding in a foreign state, including an 
+        interim proceeding, pursuant to a law relating to insolvency in 
+        which proceeding the assets and affairs of the debtor are 
+        subject to control or supervision by a foreign court, for the 
+        purpose of reorganization or liquidation;
+            ``(24) `foreign representative' means a person or body, 
+        including 1 appointed on an interim basis, authorized in a 
+        foreign proceeding to administer the reorganization or the 
+        liquidation of the debtor's assets or affairs or to act as a 
+        representative of the foreign proceeding;''.
+    (c) Amendments to Title 28, United States Code.--
+            (1) Procedures.--Section 157(b)(2) of title 28, United 
+        States Code, is amended--
+                    (A) in subparagraph (N), by striking ``and'' at the 
+                end;
+                    (B) in subparagraph (O), by striking the period at 
+                the end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+                    ``(P) recognition of foreign proceedings and other 
+                matters under chapter 6.''.
+            (2) Bankruptcy cases and proceedings.--Section 1334(c) of 
+        title 28, United States Code, is amended by striking ``Nothing 
+        in'' and inserting ``Except with respect to a case under 
+        chapter 6 of title 11, nothing in''.
+            (3) Duties of trustees.--Section 586(a)(3) of title 28, 
+        United States Code, is amended by inserting ``6,'' after 
+        ``chapter''.
+
+                  TITLE IV--SMALL BUSINESS BANKRUPTCY
+
+SEC. 401. SMALL BUSINESS DEFINED.
+
+    Section 101 of title 11, United States Code, is amended by striking 
+paragraph (51C) and inserting the following:
+            ``(51C) `small business case' means any case filed under 
+        chapter 11 of this title in which the debtor is a small 
+        business debtor;
+            ``(51D) `small business debtor' means--
+                    ``(A) any debtor in a case under chapter 11 
+                (including any group of affiliated debtors) that, as of 
+                the date of filing of the petition for the case 
+                involved, has noncontingent, liquidated secured and 
+                unsecured debts in an aggregate amount not to exceed 
+                $5,000,000 (excluding any debt owed to 1 or more 
+                affiliates or insiders); and
+                    ``(B) any single asset real estate debtor, without 
+                regard to the amount of liabilities of that debtor;''.
+
+SEC. 402. FLEXIBLE RULES FOR DISCLOSURE STATEMENT AND PLAN.
+
+    Section 1125(f) of title 11, United States Code, is amended to read 
+as follows:
+    ``(f) Notwithstanding subsection (b), in a small business case--
+            ``(1) in determining whether a disclosure statement 
+        provides adequate information, the court shall consider--
+                    ``(A) the size of the case;
+                    ``(B) the benefit of additional information to 
+                creditors and other parties in interest; and
+                    ``(C) the cost of providing additional information;
+            ``(2) in an appropriate case the court may determine that--
+                    ``(A) the plan provides adequate information; and
+                    ``(B) a separate disclosure statement is not 
+                necessary;
+            ``(3) the court may approve a disclosure statement 
+        submitted on standard forms approved by the court or adopted 
+        pursuant to section 2075 of title 28;
+            ``(4)(A) the court may conditionally approve a disclosure 
+        statement subject to final approval after notice and a hearing;
+            ``(B) acceptances and rejections of a plan may be solicited 
+        based on a conditionally approved disclosure statement as long 
+        as the debtor provides adequate information to each holder of a 
+        claim or interest that is solicited, but a conditionally 
+        approved disclosure statement shall be mailed at least 20 days 
+        before the date of the hearing on confirmation of the plan; and
+            ``(C) the hearing on the disclosure statement may be 
+        combined with the hearing on confirmation of the plan.''.
+
+SEC. 403. STANDARD FORM DISCLOSURE STATEMENTS AND PLANS.
+
+    (a) In General.--The Advisory Committee on Bankruptcy Rules of the 
+Judicial Conference shall, within a reasonable period of time after the 
+date of enactment of this Act, propose for adoption standard form 
+disclosure statements and plans of reorganization for small business 
+debtors, as that term is defined in section 101(51C) of title 11, 
+United States Code, as added by section 401 of this Act.
+    (b) Contents.--The proposed standard form disclosure statements and 
+plans for reorganization referred to in subsection (a) shall be 
+designed to achieve a practical balance between--
+            (1) the reasonable needs of the courts, the United States 
+        trustee or bankruptcy administrator, creditors, and other 
+        parties in interest for reasonably complete information; and
+            (2) economy and simplicity for debtors.
+
+SEC. 404. UNIFORM NATIONAL REPORTING REQUIREMENTS.
+
+    (a) Small Business Debtor Reporting Requirements.--
+            (1) In general.--Subchapter I of chapter 3 of title 11, 
+        United States Code, is amended by adding at the end the 
+        following:
+``Sec. 308. Small business debtor reporting requirements
+    ``Each small business debtor shall file with the court periodic 
+financial reports and other reports that the court determines to be 
+appropriate containing information relating to--
+            ``(1) the profitability of the debtor that contains 
+        specific information concerning the amount of income carried or 
+        losses incurred during the then current financial period and 
+        any other fiscal period that the court determines to be 
+        appropriate;
+            ``(2) reasonable approximations of projected cash receipts 
+        and cash disbursements over a reasonable period of time (as 
+        determined by the court);
+            ``(3) with respect to a report submitted under this section 
+        after an initial report, a comparison of actual cash receipts 
+        and disbursements for the period covered by the report with the 
+        projection contained in each preceding report submitted under 
+        this subsection;
+            ``(4) whether the debtor is--
+                    ``(A) in compliance in all material respects with 
+                postpetition requirements under this title and the 
+                Federal Rules of Bankruptcy Procedure; and
+                    ``(B) in a timely manner, filing tax returns and 
+                making payments of taxes and other administrative 
+                claims;
+            ``(5) if the debtor is not filing a tax return or making a 
+        payment of a tax or administrative claim--
+                    ``(A) the nature of the failure by the debtor to 
+                file the return or make the claim; and
+                    ``(B) how the debtor intends to remedy the failure, 
+                including--
+                            ``(i) the cost to the debtor of the remedy; 
+                        and
+                            ``(ii) when the debtor intends to carry out 
+                        the remedy;
+            ``(6) such other matters as the court determines to be--
+                    ``(A) in the best interests of small business 
+                debtors and creditors; and
+                    ``(B) in the public interest, in promoting fair and 
+                efficient procedures under chapter 11.''.
+            (2) Clerical amendment.--The chapter analysis for chapter 3 
+        of title 11, United States Code, is amended by inserting after 
+        the item relating to section 307 the following:
+
+``308. Small business debtor reporting requirements.''.
+    (b) Effective Date.--The amendments made by this section shall 
+become effective 60 days after the date on which the Supreme Court, 
+under section 2075 of title 28, United States Code, prescribes rules to 
+provide for appropriate forms and reporting under section 308 of title 
+11, United States Code.
+
+SEC. 405. UNIFORM REPORTING RULES AND FORMS.
+
+    (a) In General.--The Advisory Committee on Bankruptcy Rules of the 
+Judicial Conference shall, within a reasonable period of time after the 
+date of enactment of this Act, propose for adoption revisions to the 
+Federal Rules of Bankruptcy Procedure and Official Bankruptcy Forms 
+that would enable small business debtors (as that term is defined in 
+section 101(51D) of title 11, United States Code, as added by section 
+401 of this Act) to comply with section 308 of title 11, United States 
+Code.
+    (b) Requirements for Rules.--The rules prescribed under subsection 
+(a) shall be designed to achieve a practical balance between--
+            (1) the reasonable needs of the courts, the United States 
+        trustee or bankruptcy administrator, creditors, and other 
+        parties in interest for reasonably complete information; and
+            (2) economy and simplicity for debtors.
+
+SEC. 406. DUTIES IN SMALL BUSINESS CASES.
+
+    (a) In General.--Subchapter I of chapter 11 of title 11, United 
+States Code, is amended by adding at the end the following:
+``Sec. 1115. Duties of a trustee or a debtor in possession in small 
+              business cases
+    ``In a small business case, a trustee or the debtor in possession, 
+in addition to the duties required under this title and as otherwise 
+required by law, shall--
+            ``(1) append to the voluntary petition or, in an 
+        involuntary case, file within 3 days after the order for 
+        relief--
+                    ``(A) the most recent balance sheet of the trustee 
+                or debtor, statement of operations and cashflow 
+                statement and most recent Federal income tax return 
+                filed by the trustee or the debtor; or
+                    ``(B) a statement made under penalty of perjury 
+                that--
+                            ``(i) no financial statement referred to in 
+                        subparagraph (A) has been prepared; or
+                            ``(ii) no Federal income tax return 
+                        referred to in subparagraph (A) has been filed;
+            ``(2) attend, through the senior management personnel or 
+        counsel of the debtor or trustee, meetings scheduled by the 
+        court or the United States trustee including--
+                    ``(A) initial debtor interviews;
+                    ``(B) scheduling conferences; and
+                    ``(C) meetings of creditors convened under section 
+                341;
+            ``(3) timely file all schedules and statements of financial 
+        affairs, unless the court, after notice and a hearing, grants 
+        an extension, except that any such extension shall terminate 
+        not later than 30 days after the issuance by the court of the 
+        order for relief, unless the court determines that 
+        extraordinary and compelling circumstances merit an extension 
+        beyond that date;
+            ``(4) file all postpetition financial and other reports 
+        required by the Federal Rules of Bankruptcy Procedure or by 
+        local rule;
+            ``(5) maintain insurance customary and appropriate to the 
+        industry;
+            ``(6)(A) timely file tax returns;
+            ``(B) timely pay all administrative expense tax claims, 
+        except for any such claim that the trustee or debtor is 
+        contesting by appropriate proceedings and with due diligence; 
+        and
+            ``(C)(i) establish 1 or more separate deposit accounts 
+        within 10 business days after the entry of order for relief (or 
+        as soon thereafter as practicable in any case in which, during 
+        that 10-day period, all banks contacted by the trustee or 
+        debtor decline to establish those accounts); and
+            ``(ii) deposit in the accounts, within 1 business day after 
+        receipt thereof, all taxes collected or withheld by the trustee 
+        or debtor for governmental units; and
+            ``(7) allow the United States trustee or bankruptcy 
+        administrator or its designated representative to inspect the 
+        debtor's business premises, books, and records at reasonable 
+        times, after reasonable prior written notice, unless the 
+        inspection requirement is waived.''.
+    (b) Clerical Amendment.--The chapter analysis for chapter 11 of 
+title 11, United States Code, is amended by inserting after the item 
+relating to section 1114 the following:
+
+``1115. Duties of a trustee or a debtor in possession in small business 
+                            cases.''.
+
+SEC. 407. PLAN FILING AND CONFIRMATION DEADLINES.
+
+    Section 1121(e) of title 11, United States Code, is amended to read 
+as follows:
+    ``(e) In a small business case--
+            ``(1) only the debtor may file a plan until after 90 days 
+        after the entry of the order for relief, unless--
+                    ``(A) that period is extended under this 
+                subsection, after notice and hearing; or
+                    ``(B) the court, for cause, orders otherwise;
+            ``(2) the plan, and any necessary disclosure statement, 
+        shall be filed on or before 90 days after the entry of the 
+        order for relief; and
+            ``(3) the period for filing of a plan specified in 
+        paragraph (1) or (2) and the period specified in section 
+        1129(e) within which the plan is required to be confirmed may 
+        be extended only if--
+                    ``(A) the debtor, after providing notice to each 
+                party in interest, including the United States trustee, 
+                demonstrates by clear and convincing evidence that the 
+                trustee or debtor will confirm a plan of reorganization 
+                within a reasonable period of time;
+                    ``(B) the court imposes a termination date by which 
+                the debtor shall be required to meet the applicable 
+                requirement; and
+                    ``(C) the order that providers for the extension is 
+                issued before the applicable date specified in 
+                paragraph (1) or (2).''.
+
+SEC. 408. PLAN CONFIRMATION DEADLINE.
+
+    Section 1129 of title 11, United States Code, is amended by adding 
+at the end the following:
+    ``(e) In a small business case, the plan shall be confirmed on or 
+before 150 days after the entry of the order for relief, unless such 
+time period is extended under section 1121(e)(3).''.
+
+SEC. 409. PROHIBITION AGAINST EXTENSION OF TIME.
+
+    Section 105(d)(2) of title 11, United States Code, is amended--
+            (1) in subparagraph (A), by striking ``or'' at the end;
+            (2) in subparagraph (B), by striking the period and 
+        inserting ``; or''; and
+            (3) by adding at the end the following:
+                    ``(C) except as provided in section 1121(e)(3), in 
+                a small business case, the court may not extend a time 
+                period specified in section 1121(e) or 1129(e).''.
+
+SEC. 410. DUTIES OF THE UNITED STATES TRUSTEE AND BANKRUPTCY 
+              ADMINISTRATOR.
+
+    (a) Duties of the United States Trustee.--Section 586(a)(3) of 
+title 28, United States Code, is amended--
+            (1) in subparagraph (G), by striking ``and'' at the end;
+            (2) by redesignating subparagraph (H) as subparagraph (I); 
+        and
+            (3) by inserting after subparagraph (G) the following:
+                    ``(H) in small business cases, as defined in 
+                section 101(51C) of title 11, performing the additional 
+                duties specified in that title pertaining to those 
+                cases, and in each such case the United States trustee 
+                shall--
+                            ``(i) conduct an initial debtor interview 
+                        with the debtor as soon as practicable after 
+                        the entry of order for relief but before the 
+                        first meeting scheduled under section 341(a) of 
+                        title 11, at which time the United States 
+                        trustee shall--
+                                    ``(I) begin to investigate the 
+                                debtor's viability;
+                                    ``(II) inquire about the debtor's 
+                                business plan;
+                                    ``(III) explain the debtor's 
+                                obligations to file monthly operating 
+                                reports and other required reports;
+                                    ``(IV) attempt to develop an agreed 
+                                scheduling order; and
+                                    ``(V) inform the debtor of other 
+                                obligations;
+                            ``(ii) if determined to be appropriate and 
+                        advisable, visit the appropriate business 
+                        premises of the debtor and ascertain the state 
+                        of the debtor's books and records and verify 
+                        that the debtor has filed the debtor's tax 
+                        returns;
+                            ``(iii) review and monitor diligently the 
+                        debtor's activities, to identify as promptly as 
+                        practicable after the entry of order for relief 
+                        whether the debtor will be unable to confirm a 
+                        plan; and
+                            ``(iv) in any case in which the United 
+                        States trustee finds material grounds for any 
+                        relief under section 1112 of title 11, move the 
+                        court promptly for relief; and''.
+    (b) Duties of the Bankruptcy Administrator.--
+            (1) In general.--Subchapter I of chapter 11 of title 11, 
+        United States Code, is amended by adding at the end the 
+        following:
+``Sec. 1116. Duties of the bankruptcy administrator
+    ``In small business cases the bankruptcy administrator shall 
+perform the duties specified in section 586(a)(3)(H) of title 28, in 
+addition to the duties of the United States trustee specified in this 
+title.''.
+            (2) Clerical amendment.--The chapter analysis for chapter 
+        11 of title 11, United States Code, is amended by inserting 
+        after the item relating to section 1115 the following:
+
+``1116. Duties of the bankruptcy administrator.''.
+
+SEC. 411. SCHEDULING CONFERENCES.
+
+    Section 105(d) of title 11, United States Code, is amended by 
+striking ``The court, on its own motion'' and all that follows through 
+``issue an order'' in paragraph (2) and inserting the following:
+    ``(d) The court, on its own motion or on the request of a party in 
+interest--
+            ``(1) shall hold such status conferences as are necessary 
+        to further the expeditious and economical resolution of the 
+        case; and
+            ``(2) may issue an order.''.
+
+SEC. 412. SERIAL FILER PROVISIONS.
+
+    Section 362 of title 11, United States Code, as amended by section 
+204(b), is amended by adding at the end the following:
+    ``(j)(1) Except as provided in paragraphs (2) and (3), the filing 
+of a petition under chapter 11 does not operate as a stay of any act 
+described in subsection (a) in any case in which the debtor--
+            ``(A) is or was a debtor in a small business case pending 
+        at the time of the petition in the subject case;
+            ``(B) was a debtor in a small business case that was 
+        dismissed for any reason by an order that became final within 2 
+        years after the issuance of the order for relief in the subject 
+        case;
+            ``(C) was a debtor in a small business case in which a plan 
+        was confirmed within 2 years after the issuance of the order 
+        for relief in the subject case; or
+            ``(D) is an entity that has succeeded to substantially all 
+        of the assets or business of a small business debtor described 
+        in subparagraph (A), (B), or (C).
+    ``(2) Paragraph (1) does not apply to a debtor if the debtor 
+proves, by a preponderance of the evidence, that--
+            ``(A) the subject case has resulted from circumstances 
+        beyond the control of the debtor not foreseeable at the time 
+        the first case was filed; and
+            ``(B) it is more likely than not that the debtor will 
+        confirm a feasible plan, other than a liquidating plan, within 
+        a reasonable period of time.
+    ``(3)(A) Except as provided in subparagraph (B), in any case in 
+which a debtor has transferred its business or former business to a new 
+legal entity that is not a debtor in a case under any chapter of this 
+title, the filing of the petition operates as a stay of the acts 
+described in subsection (a) of this section.
+    ``(B) In any case in which the United States trustee files a 
+verified, ex parte motion seeking relief from the stay, the court shall 
+grant relief from the stay under subsection (a), by terminating or 
+annulling that stay.
+    ``(C) With respect to a stay terminated or annulled under paragraph 
+(2), if, after notice and hearing, the debtor satisfies the 
+requirements of paragraph (2) and shows that immediate and irreparable 
+injury, loss, or damage will result to the debtor, the court may order 
+that the stay shall be reimposed.''.
+
+SEC. 413. EXPANDED GROUNDS FOR DISMISSAL OR CONVERSION AND APPOINTMENT 
+              OF TRUSTEE.
+
+    (a) Expanded Grounds for Dismissal or Conversion.--Section 1112(b) 
+of title 11, United States Code, is amended to read as follows:
+    ``(b)(1) Except as provided in paragraph (2), subsection (c), or 
+section 1104(a)(3), on request of a party in interest, and after notice 
+and a hearing, if the movant establishes cause--
+            ``(A) the court shall convert a case under this chapter to 
+        a case under chapter 7; or
+            ``(B) dismiss a case under this chapter,
+whichever is in the best interest of creditors and the estate.
+    ``(2) The relief provided in paragraph (1) shall not be granted if 
+the debtor or another party in interest objects and establishes, by a 
+preponderance of the evidence--
+            ``(A) that it is more likely than not that a plan will be 
+        confirmed--
+                    ``(i) within an applicable period of time specified 
+                in this title;
+                    ``(ii) by order of the court entered pursuant to 
+                the provisions of section 1121(e)(3); or
+                    ``(iii) within a reasonable period of time if there 
+                is no applicable period specified in this title; and
+            ``(B) if the cause of action is an act or omission of the 
+        debtor--
+                    ``(i) that there exists a reasonable justification 
+                for the act or omission; and
+                    ``(ii) that the act or omission will be cured 
+                within a reasonable period of time but not to exceed 30 
+                days after the court decides the motion specified by 
+                the court, unless--
+                            ``(I) the movant expressly consents to a 
+                        continuance for a specific period of time; or
+                            ``(II) compelling circumstances beyond the 
+                        control of the debtor justify an extension.
+    ``(3) For purposes of this subsection, the term `cause' includes--
+            ``(A) substantial or continuing loss to or diminution of 
+        the estate;
+            ``(B) gross mismanagement of the estate;
+            ``(C) failure to maintain appropriate insurance;
+            ``(D) unauthorized use of cash collateral harmful to 1 or 
+        more creditors;
+            ``(E) failure to comply with an order of the court;
+            ``(F) failure to timely satisfy any filing or reporting 
+        requirement established by this title or by applicable rule;
+            ``(G) failure to attend the meeting of creditors convened 
+        under section 341(a) of this title or an examination ordered 
+        under Rule 2004;
+            ``(H) failure to timely provide information or attend 
+        meetings reasonably requested by the United States trustee;
+            ``(I) failure to timely pay taxes due after the order for 
+        relief or to file tax returns due after the order for relief;
+            ``(J) failure to file or confirm a plan--
+                    ``(i) within the applicable period under this 
+                title; or
+                    ``(ii) by order of the court; and
+            ``(K) failure to pay any fee or charge required under 
+        chapter 123 of title 28.
+    ``(4)(A) Subject to subparagraph (B), the court shall--
+            ``(i) commence a hearing on any motion under this 
+        subsection within 30 days after the filing of the motion; and
+            ``(ii) decide the motion within 15 days after commencement 
+        of the hearing.
+    ``(B) The court may extend a period described in clause (i) or (ii) 
+of subparagraph (A) with respect to a movant if--
+            ``(i) the movant expressly consents to a continuance for a 
+        specific period of time; or
+            ``(ii) compelling circumstances prevent the court from 
+        meeting a time limit established under clause (i) or (ii) of 
+        subparagraph (A).''.
+    (b) Additional Grounds for Appointment of Trustee.--Section 1104(a) 
+of title 11, United States Code, is amended--
+            (1) in paragraph (1), by striking ``or'' at the end;
+            (2) in paragraph (2), by striking the period at the end and 
+        inserting ``; or''; and
+            (3) by adding at the end the following:
+            ``(3) in any case in which grounds exist to convert or 
+        dismiss the case under section 1112, but the court determines 
+        that the appointment of a trustee is in the best interests of 
+        creditors and the estate.''.
+
+SEC. 414. SINGLE ASSET REAL ESTATE DEFINED.
+
+    Section 101(51B) of title 11, United States Code, is amended to 
+read as follows:
+            ``(51B) `single asset real estate' means undeveloped real 
+        property or other real property constituting a single property 
+        or project, other than residential real property with fewer 
+        than 4 residential units, on which--
+                    ``(A) is located a single development or project 
+                that generates substantially all of the gross income of 
+                a debtor; and
+                    ``(B) no substantial business is being conducted 
+                by--
+                            ``(i) a debtor; or
+                            ``(ii) a commonly controlled group of 
+                        entities all of which are concurrently debtors 
+                        in a case under chapter 11 of this title, other 
+                        than the business of operating the real 
+                        property and activities incidental thereto;''.
+
+SEC. 415. PLAN CONFIRMATION.
+
+    Section 1129(b)(2)(A) of title 11, United States Code, is amended--
+            (1) by striking ``or'' at the end of clause (ii); and
+            (2) by striking the period at the end of clause (iii) and 
+        inserting ``; or''; and
+            (3) by adding at the end the following:
+                    ``(iv)(I) the court may find the plan to be fair 
+                and equitable in any case in which--
+                            ``(aa) a class of secured claims invoke the 
+                        applicability of this subparagraph;
+                            ``(bb) that class of secured claims has not 
+                        made the election provided for under section 
+                        1111(b)(1)(A)(i);
+                            ``(cc) the plan proponent seeks to confirm 
+                        a plan over the rejection by the class of 
+                        unsecured claims that includes the deficiency 
+                        claim (that would not be paid in full under the 
+                        plan) held by the class of secured claims; and
+                            ``(dd) the plan is for a debtor that owns, 
+                        leases, or otherwise holds single asset real 
+                        estate; except that
+                    ``(II) the court may find the plan for the debtor 
+                to be fair and equitable under this clause only if, in 
+                addition to the fulfillment of all other requirements 
+                of this section--
+                            ``(aa) the value determined in accordance 
+                        with this subparagraph (referred to in this 
+                        subclause as the `new value') is contributed in 
+                        cash on or before the effective date of the 
+                        plan, and in a manner in which the only 
+                        permissible accounting treatment is for the new 
+                        value to be accounted for as equity capital 
+                        that is not convertible for or exchangeable 
+                        into any other form of capital including debt 
+                        capital;
+                            ``(bb) the new value is required to be 
+                        applied on the effective date of the plan under 
+                        the plan to pay down in cash the allowed 
+                        secured claims of that class of secured claims 
+                        in such amount that, after that payment is 
+made, the principal amount of debt secured by the single asset real 
+estate does not exceed 75 percent of the value of the single asset real 
+estate; and
+                            ``(cc) the payment and other terms for the 
+                        debt remaining after the mandatory application 
+                        of new value as provided in item (bb) satisfy, 
+                        in all material particulars, all relevant, 
+                        then-prevailing market terms in the locality 
+                        for new loans secured by liens on comparable 
+                        real estate with respect to--
+                                    ``(AA) maturity date;
+                                    ``(BB) amortization;
+                                    ``(CC) interest rate;
+                                    ``(DD) fixed-charge coverage; and
+                                    ``(EE) loan documentation.''.
+
+SEC. 416. PAYMENT OF INTEREST.
+
+    Section 362(d)(3) of title 11, United States Code, is amended--
+            (1) in the matter preceding subparagraph (A), by inserting 
+        ``, or not later than 30 days after the court determines that 
+        the debtor is subject to this paragraph, whichever is later'' 
+        after ``90-day period)''; and
+            (2) by striking subparagraph (B) and inserting the 
+        following:
+                    ``(B) the debtor has commenced monthly payments 
+                (that notwithstanding section 363(c)(2) may, in the 
+                debtor's sole discretion, be made from rents or other 
+                income generated before or after the commencement of 
+                the case by or from the property) to each creditor 
+                whose claim is secured by that real estate (other than 
+                a claim secured by a judgment lien or an unmatured 
+                statutory lien), in an amount equal to the interest on 
+                the value of the creditor's interest in the real 
+                estate, determined at the then-applicable contract rate 
+                of interest.''.
+
+                     TITLE V--BANKRUPTCY TAX ISSUES
+
+SEC. 501. EFFECTIVE NOTICE TO GOVERNMENT.
+
+    (a) Clarification of Definition of Governmental Unit.--Section 
+101(27) of title 11, United States Code, is amended by striking 
+``State;'' and inserting ``State or subdivision thereof;''.
+    (b) Safe Harbor Address; Penalties for Failure of Notice.--
+            (1) In general.--Section 342 of title 11, United States 
+        Code, is amended by adding at the end the following:
+    ``(d) If a debtor lists a governmental unit as a creditor in a list 
+or schedule, any notice required to be given by the debtor under this 
+title, any rule, applicable law, or order of the court, shall identify 
+the department, agency, or instrumentality through which the debtor is 
+indebted. The debtor shall also identify (with information such as a 
+taxpayer identification number, loan, account or contract number, or 
+real estate parcel number, if applicable) and describe the underlying 
+basis for the claim of the governmental unit. If the liability of the 
+debtor to a governmental unit arises from a debt or obligation owed or 
+incurred by another individual, entity, or organization, or under a 
+different name, the debtor shall identify that individual, entity, 
+organization, or name.
+    ``(e) The clerk shall keep and update quarterly, in the form and 
+manner as the appropriate Federal official prescribes, and make 
+available to debtors, a register in which a governmental unit shall 
+designate a safe harbor mailing address for service of notice in cases 
+pending in the district. A governmental unit shall file a statement 
+with the clerk designating a safe harbor address to which notices are 
+to be sent.''.
+            (2) Penalties.--Section 342 of title 11, United States 
+        Code, as amended by paragraph (1), is amended by adding at the 
+        end the following:
+    ``(f)(1) Subject to paragraph (2), if, after notice and hearing, a 
+governmental unit demonstrates, by a preponderance of the evidence, 
+that the governmental unit did not receive timely actual notice as 
+required under this section--
+            ``(A) any claim, right, or obligation in favor of that 
+        governmental unit shall not be discharged; and
+            ``(B) any order entered by the court barring the 
+        enforcement of, or inhibiting any right, duty, or obligation of 
+        that governmental unit shall be void.
+    ``(2) The debtor shall have the burden of proof in refuting an 
+assertion by a governmental unit under paragraph (1) that the 
+governmental unit did not receive the timely actual notice referred to 
+in that paragraph.
+    ``(3) Notwithstanding paragraph (1), the relief sought by a 
+governmental unit under this subsection shall not be granted, if, in a 
+hearing under this title, a debtor demonstrates that--
+            ``(A) the debtor provided timely actual notice to the 
+        governmental unit in a manner reasonably calculated to satisfy 
+        the requirements of this subsection; and
+            ``(B) if the register referred to in subsection (e), at the 
+        time of the notification, included a safe harbor address for 
+        the governmental unit involved, the debtor provided the timely 
+        actual notice to the governmental unit through the use of such 
+        safe harbor address.
+    ``(4) No sanction under section 362(h) or any other provision of 
+law that provides for the imposition by a court of a sanction for a 
+violation of a stay under section 362(h) or a sanction for failing to 
+meet the applicable requirements of section 542 or 543 may be imposed, 
+unless that violation occurs after a notice of commencement of a case 
+made in accordance with this section is received by the entity.''.
+    (c) Proposed Revision of Rules for Providing Notice.--
+            (1) In general.--The Advisory Committee on Bankruptcy Rules 
+        of the Judicial Conference shall, within a reasonable period of 
+        time after the date of enactment of this Act, propose for 
+        adoption revised rules for the provision by a debtor (or an 
+        entity on behalf of which the debtor is required to provide 
+        notice) of notice to each Federal, State, or local governmental 
+        unit (as that term is defined in section 101(27) of title 11, 
+        United States Code) that has regulatory authority with respect 
+        to the debtor or is a creditor or potential creditor of that 
+        debtor.
+            (2) Revised rules.--The proposed rules described in 
+        paragraph (1) shall provide for notice reasonably calculated to 
+        ensure that the notice will be received by a representative of 
+        each governmental unit that is authorized to act on the notice. 
+        At a minimum, the proposed rules shall--
+                    (A) require that the debtor--
+                            (i) identify in the schedules for the case 
+                        and the notice, the subdivision, agency, or 
+                        entity of the governmental unit with respect to 
+                        which the notice should be received; and
+                            (ii) provide sufficient information 
+                        (including case captions, permit numbers, 
+                        taxpayer identification numbers, or similar 
+                        identifying information) to permit the 
+                        governmental unit entitled to receive that 
+                        notice to identify--
+                                    (I) the debtor, or the entity on 
+                                behalf of which the debtor is obligated 
+                                to provide that notice, in the event 
+                                the debtor is a successor in interest 
+                                or is not the same as the entity that 
+                                incurred the debt or obligation;
+                                    (II) any property that is the 
+                                subject of the claim or obligation 
+                                specified in the notice;
+                                    (III) the nature of the claim or 
+                                obligation referred to in subclause 
+                                (II); and
+                                    (IV) the purpose of the notice; and
+                    (B) provide sufficient information to permit a 
+                debtor to identify the appropriate Federal, State, or 
+                local governmental unit through the use of a safe 
+                harbor list established under section 342(e) of title 
+                11, United States Code, as added by subsection (b) of 
+                this section.
+
+SEC. 502. NOTICE OF REQUEST FOR A DETERMINATION OF TAXES.
+
+    (a) Adoption of Revised Rules for Providing Notice.--The Advisory 
+Committee on Bankruptcy Rules of the Judicial Conference shall, within 
+a reasonable period of time after the date of enactment of this Act, 
+propose for adoption rules under which the Federal, State, and local 
+governmental units may designate the manner in which a trustee may make 
+a request for the determination of any unpaid liability of the estate 
+for any tax incurred during the administration of the case, as provided 
+under section 505(b) of title 11, United States Code.
+    (b) Notice Required.--The second sentence of section 505(b) of 
+title 11, United States Code, is amended by striking ``Unless'' and 
+inserting ``If the request is made in the manner designated by that 
+governmental unit and unless''.
+
+SEC. 503. RATE OF INTEREST ON TAX CLAIMS.
+
+    (a) In General.--Subchapter I of chapter 5 of title 11, United 
+States Code, is amended by adding at the end the following:
+``Sec. 511. Rate of interest on tax claims
+    ``In any case in which the holder of a claim for taxes arising 
+before the date of the order for relief is entitled to receive interest 
+on that claim, the rate of interest to be applied shall be at least the 
+rate provided in section 6621(a)(2) of the Internal Revenue Code of 
+1986.''.
+    (b) Clerical Amendment.--The chapter analysis for chapter 5 of 
+title 11, United States Code, is amended by inserting after the item 
+relating to section 510 the following:
+
+``511. Rate of interest on tax claims.''.
+
+SEC. 504. TOLLING OF PRIORITY OF TAX CLAIM TIME PERIODS.
+
+    Section 507(a)(8)(A) of title 11, United States Code, is amended--
+            (1) in clause (i), by inserting before the semicolon at the 
+        end the following: ``, plus any time plus 6 months, during 
+        which a stay of proceedings against collections was in effect 
+        with respect to that tax in a prior case under this title; and
+            (2) by striking clause (ii) and inserting the following:
+                            ``(ii) assessed within 240 days before the 
+                        date of the filing of the petition, exclusive 
+                        of--
+                                    ``(I) any time plus 30 days during 
+                                which an offer in compromise or 
+                                installment agreement with respect to 
+                                that tax, was pending or in effect 
+                                during that 240-day period; and
+                                    ``(II) any time plus 6 months 
+                                during which a stay of proceedings 
+                                against collections was in effect with 
+                                respect to that tax in a prior case 
+                                under this title during that 240-day 
+                                period;''.
+
+SEC. 505. ASSESSMENT DEFINED.
+
+    Section 101 of title 11, United States Code, is amended by 
+inserting after paragraph (2) the following:
+            ``(3)(A) `assessment'--
+                    ``(i) for purposes of State and local taxes, means 
+                that action which is sufficiently final so that 
+                thereafter a taxing authority may commence an action to 
+                collect the tax; and
+                    ``(ii) for Federal tax purposes has the meaning 
+                given such term in the Internal Revenue Code of 1986; 
+                and
+            ``(B) `assessed' and `assessable' shall be interpreted in a 
+        manner consistent with the definition of the term `assessment' 
+        in this paragraph;''.
+
+SEC. 506. CHAPTER 11 DISCHARGE OF FRAUDULENT TAXES.
+
+    Section 1141(d) of title 11, United States Code, is amended by 
+adding at the end the following:
+            ``(5) Notwithstanding paragraph (1), the confirmation of a 
+        plan does not discharge a debtor that is a corporation from any 
+        debt for a tax or customs duty if, with respect to that tax or 
+        duty, the debtor filed a fraudulent return or willfully 
+        attempted in any manner to evade or defeat the tax or duty.''.
+
+SEC. 507. THE STAY OF PROCEEDINGS IN TAX COURT.
+
+    (a) Section 362 Stay Limited to Prepetition Taxes.--Section 
+362(a)(8) of title 11, United States Code, is amended by striking the 
+period at the end and inserting ``, with respect to a tax liability for 
+a taxable period ending before the order for relief under section 301, 
+302, or 303.''.
+    (b) Appeal of Tax Court Decisions Permitted.--Section 362(b)(9) of 
+title 11, United States Code, is amended--
+            (1) in subparagraph (C), by striking ``or'' at the end;
+            (2) in subparagraph (D), by striking the period at the end 
+        and inserting ``; or''; and
+            (3) by adding at the end the following:
+                    ``(E) the appeal of a decision by a court or 
+                administrative tribunal which determines a tax 
+                liability of the debtor.''.
+
+SEC. 508. PERIODIC PAYMENT OF TAXES IN CHAPTER 11 CASES.
+
+    Section 1129(a)(9) of title 11, United States Code, is amended--
+            (1) in subparagraph (B), by striking ``and'' at the end;
+            (2) in subparagraph (C)--
+                    (A) by inserting ``in quarterly installments or 
+                more frequent installments that shall be paid in full 
+                not later than 6 years after the date on which the 
+                order for relief is issued under this title,'' after 
+                ``payments,''; and
+                    (B) by striking the period at the end and inserting 
+                ``; and''; and
+            (3) by adding at the end the following:
+                    ``(D) with respect to a secured claim that would 
+                otherwise meet the description of an unsecured claim of 
+                a governmental unit under section 507(a)(8), but for 
+                the secured status of that claim, the holder of that 
+                claim will receive, on account of that claim, cash 
+                payments, in the same manner and over the same period, 
+                as prescribed in subparagraph (C).''.
+
+SEC. 509. THE AVOIDANCE OF STATUTORY TAX LIENS PROHIBITED.
+
+    Section 545(2) of title 11, United States Code, is amended by 
+striking the semicolon at the end and inserting ``, except in any case 
+in which a purchaser is a purchaser described in section 6123 of the 
+Internal Revenue Code of 1986, or in any other similar provision of 
+State or local law;''.
+
+SEC. 510. COURSE OF BUSINESS PAYMENT OF TAXES.
+
+    (a) Payment of Taxes Required.--Section 960 of title 28, United 
+States Code, is amended by striking the period at the end and inserting 
+the following: ``, and except with respect to a property tax secured by 
+a lien against property of the estate that is abandoned by the trustee 
+of a bankruptcy estate pursuant to section 554 of title 11, shall pay 
+each such tax when due in the course of that business. An officer or 
+agent described in the preceding sentence shall pay any property tax 
+secured by a lien described in the preceding sentence within a 
+reasonable period of time after the lien attaches.''.
+    (b) Payment of Ad Valorem Taxes Required.--Section 503(b)(1)(B)(i) 
+of title 11, United States Code, is amended by inserting ``whether 
+secured or unsecured, including property taxes for which liability is 
+in rem, in personam, or both,'', after ``estate,''.
+    (c) Request for Payment of Administrative Expense Taxes 
+Eliminated.--Section 503(b)(1) of title 11, United States Code, is 
+amended--
+            (1) in subparagraph (B), by striking ``and'' at the end;
+            (2) in subparagraph (C), by inserting ``and'' at the end; 
+        and
+            (3) by adding at the end the following:
+                    ``(D) notwithstanding subsection (a), a 
+                governmental unit shall not be required to file a 
+                request for the payment of a claim described in 
+                subparagraph (B) or (C);''.
+
+SEC. 511. TARDILY FILED PRIORITY TAX CLAIMS.
+
+    Section 726(a)(1) of title 11, United States Code, is amended by 
+striking ``the trustee commences distribution under this section;'' and 
+inserting ``the court approves the final report and accounting of the 
+trustee;''.
+
+SEC. 512. INCOME TAX RETURNS PREPARED BY TAX AUTHORITIES.
+
+    Section 523(a) of title 11, United States Code, is amended--
+            (1) in paragraph (1)(B)--
+                    (A) in clause (i), by striking ``or'' at the end; 
+                and
+                    (B) by adding at the end the following:
+                            ``(iii) did not satisfy the requirements of 
+                        applicable nonbankruptcy law or was not filed 
+                        in the manner prescribed by applicable 
+                        nonbankruptcy law; or''; and
+            (2) by adding at the end the following flush sentence:
+``For purposes of this subsection, the term `return' does not include a 
+return made pursuant to section 6020(b) of the Internal Revenue Code of 
+1986, or similar State or local law.''.
+
+SEC. 513. THE DISCHARGE OF THE ESTATE'S LIABILITY FOR UNPAID TAXES.
+
+    The second sentence of section 505(b) of title 11, United States 
+Code, is amended by inserting ``the estate,'' after 
+``misrepresentation,''.
+
+SEC. 514. STANDARDS FOR TAX DISCLOSURE.
+
+    Section 1125(a)(1) of title 11, United States Code, is amended--
+            (1) by inserting ``including, with respect to a plan, a 
+        full discussion of the potential material Federal and State tax 
+        consequences of the plan with respect to the debtor, any 
+        successor to the debtor, and a hypothetical investor 
+        representative of the holders of claims or interests in the 
+        case,'' after ``records,'';
+            (2) by inserting ``such'' after ``enable''; and
+            (3) by striking ``hypothetical reasonable investor typical 
+        of holders of claims or interests'' and inserting 
+        ``hypothetical investor''.
+
+SEC. 515. SETOFF OF TAX REFUNDS.
+
+    Section 362(b) of title 11, United States Code, as amended by 
+section 204, is amended--
+            (1) in paragraph (18), by striking ``or'' at the end;
+            (2) in paragraph (19), by striking the period at the end 
+        and inserting ``, or'';
+            (3) by inserting after paragraph (19) the following:
+            ``(20) under subsection (a), of the setoff of an income tax 
+        refund by a governmental unit, with respect to a taxable period 
+        that ends before the order for relief against an income tax 
+        liability for a taxable period that ends before the order for 
+        relief, unless before that setoff, an action is commenced under 
+        section 505(a) to determine the amount or legality of that tax 
+        liability.''; and
+            (4) in the flush material following paragraph (19), by 
+        adding at the end the following: ``In any case referred to in 
+        paragraph (19) in which the setoff of an income tax refund is 
+        not permitted by reason of a pending action to determine the 
+        amount or legality of a tax liability, the governmental unit 
+        involved may hold the refund pending the resolution of the 
+        action.''.
+
+                        TITLE VI--MISCELLANEOUS
+
+SEC. 601. EXECUTORY CONTRACTS AND UNEXPIRED LEASES.
+
+    Section 365(d)(4) of title 11, United States Code, is amended to 
+read as follows:
+    ``(4)(A) Subject to subparagraph (B), in any case under any chapter 
+of this title, an unexpired lease of nonresidential real property under 
+which the debtor is the lessee shall be deemed rejected and the trustee 
+shall immediately surrender that nonresidential real property to the 
+lessor if the trustee does not assume or reject the unexpired lease by 
+the earlier of--
+            ``(i) the date that is 120 days after the date of the order 
+        for relief; or
+            ``(ii) the date of the entry of an order confirming a plan.
+    ``(B) The court may extend the period determined under subparagraph 
+(A) only upon a motion of the lessor.''.
+
+SEC. 602. ALLOWANCE OF CLAIMS OR INTERESTS.
+
+    Section 502(b)(6) of title 11, United States Code, is amended to 
+read as follows:
+            ``(6)(A) if that claim is the claim of a lessor for damages 
+        resulting from the termination of a lease of real property, 
+        that claim exceeds an amount equal to the sum of--
+                    ``(i) monetary obligations under the lease 
+                (including rent, percentage rent, additional rent, 
+                common area maintenance charges, taxes, utilities, 
+                reasonable attorneys' fees, and other costs), without 
+                acceleration, for the period beginning immediately 
+                after that termination of the lease and ending on the 
+                later of--
+                            ``(I) 1 year after the date of that 
+                        termination; or
+                            ``(II) the date on which 15 percent of the 
+                        remaining term of the lease would have tolled, 
+                        but for the termination of the lease, but not 
+                        later than 3 years after the date of that 
+                        termination;
+                    ``(ii) any unpaid monetary obligations due under 
+                the lease, without acceleration, as of the date of 
+                filing of the petition; and
+                    ``(iii) all costs (including tenant improvements 
+                and brokers' fees or commissions) that are reasonably 
+                incurred (or will, as of the date of the determination 
+                of the sum under this subparagraph, be reasonably 
+                incurred) during the 1-year period beginning on the 
+                date of the termination of the lease; except that
+            ``(B) any mitigation that is required by law resulting from 
+        the termination of the lease shall be applied against the claim 
+        of the lessor without regard to the limitations imposed under 
+        clauses (i) through (iii) of subparagraph (A);''.
+
+SEC. 603. EXPEDITED APPEALS OF BANKRUPTCY CASES TO COURTS OF APPEALS.
+
+    (a) In General.--Section 158 of title 28, United States Code, is 
+amended--
+            (1) by redesignating subsection (d) as subsection (e);
+            (2) by inserting after subsection (c) the following new 
+        subsection:
+    ``(d)(1) Any final judgment, decision, order, or decree of a 
+bankruptcy judge entered for a case in accordance with section 157 may 
+be appealed by any party in such case to the appropriate court of 
+appeals if--
+            ``(A) an appeal from such judgment, decision, order, or 
+        decree is first filed with the appropriate district court of 
+        the United States; and
+            ``(B) the decision on the appeal described under 
+        subparagraph (A) is not filed by a district court judge within 
+        30 days after the date such appeal is filed with the district 
+        court.
+    ``(2) On the date that an appeal is filed with a court of appeals 
+under paragraph (1), the chief judge for such court of appeals shall 
+issue an order to the clerk for the district court from which the 
+appeal is filed. Such order shall direct the clerk to enter the final 
+judgment, decision, order, or decree of the bankruptcy judge as the 
+final judgment, decision, order, or decree of the district court.''; 
+and
+            (3) in subsection (e) (as redesignated by paragraph (1) of 
+        this section) by striking ``subsections (a) and (b)'' and 
+        inserting ``subsections (a), (b), and (d)''.
+    (b) Technical and Conforming Amendments.--
+            (1) Section 305(c) of title 11, United States Code, is 
+        amended by striking ``section 158(d)'' and inserting ``section 
+        158(e)''.
+            (2) Section 1334(d) of title 28, United States Code, is 
+        amended by striking ``section 158(d)'' and inserting ``section 
+        158(e)''.
+            (3) Section 1452(b) of title 28, United States Code, is 
+        amended by striking ``section 158(d)'' and inserting ``section 
+        158(e)''.
+
+SEC. 604. CREDITORS AND EQUITY SECURITY HOLDERS COMMITTEES.
+
+    Section 1102(a)(2) of title 11, United States Code, is amended by 
+inserting before the first sentence the following: ``On its own motion 
+or on request of a party in interest, and after notice and hearing, the 
+court may order a change in the membership of a committee appointed 
+under this subsection, if the court determines that the change is 
+necessary to ensure adequate representation of creditors or equity 
+security holders.''.
+
+SEC. 605. REPEAL OF SUNSET PROVISION.
+
+    Section 302 of the Bankruptcy Judges, United States Trustees, and 
+Family Farmer Bankruptcy Act of 1986 (28 U.S.C. 581 note) is amended by 
+striking subsection (f).
+
+SEC. 606. CASES ANCILLARY TO FOREIGN PROCEEDINGS.
+
+    Section 304 of title 11, United States Code, as amended by section 
+210, is amended by adding at the end the following:
+    ``(e)(1) In this subsection--
+            ``(A) the term `domestic insurance company' means a 
+        domestic insurance company, as that term is used in section 
+        109(b)(2);
+            ``(B) the term `foreign insurance company' means a foreign 
+        insurance company, as that term is used in section 109(b)(3);
+            ``(C) the term `United States claimant' means a beneficiary 
+        of any deposit referred to in paragraph (2)(A) or any 
+        multibeneficiary trust referred to in subparagraph (B) or (C) 
+        of paragraph (2);
+            ``(D) the term `United States creditor' means, with respect 
+        to a foreign insurance company--
+                    ``(i) a United States claimant; or
+                    ``(ii) any business entity that operates in the 
+                United States and that is a creditor; and
+            ``(E) the term `United States policyholder' means a holder 
+        of an insurance policy issued in the United States.
+    ``(2) Notwithstanding subsections (b) and (c), the court may not 
+grant relief under subsection (b) to a foreign insurance company that 
+is not engaged in the business of insurance or reinsurance in the 
+United States with respect to any claim made by a United States 
+creditor against--
+            ``(A) a deposit required by an applicable State insurance 
+        law;
+            ``(B) a multibeneficiary trust required by an applicable 
+        State insurance law to protect United States policyholders or 
+        claimants against a foreign insurance company; or
+            ``(C) a multibeneficiary trust authorized under an 
+        applicable State insurance law to allow a domestic insurance 
+        company that cedes reinsurance to the debtor to reflect the 
+        reinsurance as an asset or deduction from liability in the 
+        ceding insurer's financial statements.''.
+                                 <all>
+

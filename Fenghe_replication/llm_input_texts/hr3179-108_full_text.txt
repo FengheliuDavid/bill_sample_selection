@@ -1,0 +1,120 @@
+[Congressional Bills 108th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3179 Introduced in House (IH)]
+
+
+
+
+
+
+108th CONGRESS
+  1st Session
+                                H. R. 3179
+
+     To strengthen anti-terrorism investigative tools and promote 
+              information sharing, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 25, 2003
+
+ Mr. Sensenbrenner (for himself and Mr. Goss) introduced the following 
+  bill; which was referred to the Committee on the Judiciary, and in 
+ addition to the Select Committee on Intelligence (Permanent Select), 
+for a period to be subsequently determined by the Speaker, in each case 
+for consideration of such provisions as fall within the jurisdiction of 
+                        the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+     To strengthen anti-terrorism investigative tools and promote 
+              information sharing, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Anti-Terrorism Intelligence Tools 
+Improvement Act of 2003''.
+
+SEC. 2. VIOLATION OF NONDISCLOSURE PROVISIONS OF NATIONAL SECURITY 
+              LETTERS.
+
+    Section 1510 of title 18, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(e) Whoever knowingly violates section 2709(c) of this title, 
+sections 625(d) or 626(c) of the Fair Credit Reporting Act (15 U.S.C. 
+1681u(d) or 1681v(c)), section 1114(a)(3) or 1114(a)(5)(D) of the Right 
+to Financial Privacy Act (12 U.S.C. 3414(a)(3) or 3414(a)(5)(D)), or 
+section 802(b) of the National Security Act of 1947 (50 U.S.C. 436(b)) 
+shall be imprisoned for not more than one year, and if the violation is 
+committed with the intent to obstruct an investigation or judicial 
+proceeding, shall be imprisoned for not more than five years.''.
+
+SEC. 3. JUDICIAL ENFORCEMENT OF NATIONAL SECURITY LETTERS.
+
+    Chapter 113B of title 18, United States Code, is amended--
+            (1) in the chapter analysis, by inserting before the item 
+        relating to section 2333 the following new item:
+
+``2332h. Enforcement of requests for information.'';
+        and</paragraph>
+            (2) by inserting before section 2333 the following new 
+        section:
+``Sec. 2332h. Enforcement of requests for information
+    ``In the case of a refusal to comply with a request for records, a 
+report, or other information made to any person under section 2709(b) 
+of this title, section 625(a) or (b) or 626(a) of the Fair Credit 
+Reporting Act, section 1114(a)(5)(A) of the Right to Financial Privacy 
+Act, or section 802(a) of the National Security Act of 1947, the 
+Attorney General may invoke the aid of any court of the United States 
+within the jurisdiction of which the investigation is carried on or the 
+person resides, carries on business, or may be found, to compel 
+compliance with the request. The court may issue an order requiring the 
+person to comply with the request. Any failure to obey the order of the 
+court may be punished by the court as contempt thereof. Any process 
+under this section may be served in any judicial district in which the 
+person may be found.''.
+
+SEC. 4. INDIVIDUAL TERRORISTS AS AGENTS OF FOREIGN POWERS.
+
+    Section 101(b)(1) of the Foreign Intelligence Surveillance Act of 
+1978 (50 U.S.C. 1801(b)(1)) is amended by adding at the end the 
+following new subparagraph:
+                    ``(C) engages in international terrorism or 
+                activities in preparation therefor; or''.
+
+SEC. 5. EX PARTE AUTHORIZATIONS UNDER CLASSIFIED INFORMATION PROCEDURES 
+              ACT.
+
+    The second sentence of section 4 of the Classified Information 
+Procedures Act (18 U.S.C. App. 3) is amended--
+            (1) by striking ``may'' and inserting ``shall''; and
+            (2) by striking ``a written statement to be inspected'' and 
+        inserting ``a statement to be considered''.
+
+SEC. 6. USE OF FISA INFORMATION IN IMMIGRATION PROCEEDINGS.
+
+    The following provisions of the Foreign Intelligence Surveillance 
+Act of 1978 are each amended by inserting ``(other than in civil 
+proceedings or other civil matters under the immigration laws (as that 
+term is defined in section 101(a)(17) of the Immigration and 
+Nationality Act (8 U.S.C. 1101(a)(17)))'' after ``authority of the 
+United States'':
+            (1) Subsections (c), (e), and (f) of section 106 (50 U.S.C. 
+        1806).
+            (2) Subsections (d), (f), and (g) of section 305 (50 U.S.C. 
+        1825).
+            (3) Subsections (c), (e), and (f) of section 405 (50 U.S.C. 
+        1845).
+                                 <all>
+
