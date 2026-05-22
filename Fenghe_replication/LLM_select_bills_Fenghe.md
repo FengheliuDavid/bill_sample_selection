@@ -64,29 +64,41 @@ securities and exchange commission
 - `llm_input_metadata.csv` — 2,726 rows × 7 columns: `bill_id`, `congress_term`, `introduced_at`, `policy_area`, `subjects`, `official_title`, `short_title`
 - `llm_input_texts/` — 5,452 `.txt` files, two per bill: `{bill_id}_summary.txt` and `{bill_id}_full_text.txt`
 
-**Prompt (Option B — independent judge):**
+**Prompt** (full prompt stored in `llm_bill_selection_prompt.md`):
 
 ```
-You are a legal researcher studying congressional bills related to the regulation of
-corporations and financial markets.
+You are a legislative analyst. Determine whether this U.S. Congressional bill is relevant
+to the regulation of corporate financial conduct — specifically legislation that addresses
+one or more of the following:
 
-A bill is relevant to your study if it primarily concerns:
-1. How corporations must disclose financial information to investors or regulators
-2. Rules governing securities markets (trading, fraud, manipulation)
-3. Oversight powers of financial regulators (SEC, CFTC, FDIC, etc.)
-4. Accounting standards or auditing requirements for public companies
-5. Corporate governance rules (board duties, executive compensation, shareholder rights)
+- Securities fraud or accounting fraud
+- Corporate financial disclosure and transparency requirements
+- Insider trading rules or enforcement
+- Regulation of securities markets or financial instruments
+- Powers or reforms of the SEC (Securities and Exchange Commission)
+- Corporate governance rules tied to financial reporting
 
-A bill is NOT relevant if it only incidentally mentions a corporation or financial
-institution as one actor among many (e.g., a general criminal fraud bill, a tax
-reform bill).
+A bill is RELEVANT if its primary purpose, or a significant provision, directly regulates,
+penalizes, or reforms any of the above. A bill is NOT RELEVANT if it merely mentions
+financial institutions in passing, concerns consumer banking, tax policy, or general
+economic policy without targeting corporate financial conduct specifically.
 
-Bill title: {official_title}
-Bill summary: {summary_text}
-Bill full text: {full_text}
+## Bill Information
 
-Is this bill relevant? Answer YES or NO, then explain in one sentence.
+**Official title:** {official_title}
+**Short title:** {short_title}
+**Policy area:** {policy_area}
+**Subjects:** {subjects}
+**Summary:**
+{summary_text}
+
+## Output
+
+Return ONLY a JSON object, no explanation:
+{"relevant": true, "confidence": "high", "reason": "one sentence explaining why"}
 ```
+
+Note: the prompt uses `summary_text` only (not full text), and also passes `policy_area` and `subjects` as context. The scope is narrower than Option B discussed earlier — focused specifically on corporate financial conduct and SEC regulation, explicitly excluding consumer banking, tax policy, and general economic policy.
 
 **Output:** Results are in `llm_bill_selection_combined.csv` (columns: `bill_id`, `relevant`, `confidence`, `reason`, `captured_by_keyword`).
 
