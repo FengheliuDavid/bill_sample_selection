@@ -1,7 +1,0 @@
-Micro Offering Safe Harbor Act
-
-(Sec. 2) This bill amends the Securities Act of 1933 to exempt certain micro-offerings from: (1) state regulation of securities offerings, and (2) federal prohibitions related to interstate solicitation.
-
-The exempted micro-offerings must meet all of the following requirements:
-
- the purchaser has a substantive pre-existing relationship with the issuer, during the 12-month period preceding the transaction there are no more than 35 purchasers relying on the exemption, and the amount of all securities sold by the issuer (including any amount sold in reliance upon the exemption) during the 12-month period preceding the transaction does not exceed $500,000. A transaction shall not qualify for the exemption if the issuer or one of certain related persons triggers a "bad actor" disqualification under specified regulations due to a relevant criminal conviction, court or regulatory order, or other disciplinary event.

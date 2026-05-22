@@ -1,5 +1,0 @@
-This bill amends the Federal Deposit Insurance Act with respect to the prohibition declaring that an insured depository institution that is not well-capitalized may not accept funds obtained, directly or indirectly, by or through any deposit broker for deposit into one or more deposit accounts.
-
-Reciprocal deposits of an insured depository institution, however, shall not be considered to be prohibited broker deposits if:
-
- the composite condition of the institution at its most recent examination was adjudged either good or outstanding, or total reciprocal deposits of the institution do not exceed either $10 billion or 20% of its total liabilities.

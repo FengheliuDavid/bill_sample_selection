@@ -1,9 +1,0 @@
-Homeowner Information Privacy Protection Act
-
-This bill directs the Government Accountability Office to study whether the data required to be published, made available, or disclosed under the final rule of the Consumer Financial Protection Bureau (CFPB), entitled "Home Mortgage Disclosure (Regulation C)," in connection with other publicly available data sources, could allow for or increase the probability of:
-
- exposure of the identity of mortgage applicants or mortgagors through reverse engineering; exposure of mortgage applicants or mortgagors to identity theft or the loss of sensitive personal financial information; the marketing or sale of unfair, deceptive, or abusive products to mortgage applicants or mortgagors based on such data; personal financial loss or emotional distress resulting from the exposure of mortgage applicants or mortgagors to identity theft or the loss of sensitive personal financial information; and the potential legal liability facing the CFPB. The prior rule, also entitled "Home Mortgage Disclosure (Regulation C)," was issued by the Board of Governors of the Federal Reserve System. The Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank) transferred authority over Regulation C from the Federal Reserve Board to the CFPB. The new final rule, issued by the CFPB, adds several new home mortgage reporting requirements and revises several existing ones, and also modifies Regulation C's institutional and transactional coverage.
-
-Depository institutions shall not be required to publish, disclose, or otherwise make available to the public, pursuant to the Home Mortgage Disclosure Act of 1975, any data that was not so required on the day before the enactment of Dodd-Frank.
-
-The CFPB and the Financial Institutions Examination Council shall not publish, disclose, or otherwise make available to the public any such information from a depository institution.

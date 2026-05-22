@@ -1,5 +1,0 @@
-(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
-
- Swap Data Repository and Clearinghouse Indemnification Correction Act of 2013 - Amends the Commodity Exchange Act, with respect to derivatives clearing organizations and swap data repositories, to repeal the prerequisite that, before the Commodity Futures Trading Commission (CFTC) may share information with specified regulatory agencies, such agencies must agree to indemnify the CFTC for expenses arising from litigation relating to information so provided.
-
-Amends the Securities Exchange Act of 1934 to repeal similarly the prerequisite that, before a security-based swap data repository may share information with specified regulatory entities, such entities must agree to indemnify both such repository and the Securities and Exchange Commission (SEC) for expenses arising from litigation relating to information so provided.

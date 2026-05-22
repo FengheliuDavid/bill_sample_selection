@@ -1,3 +1,0 @@
-Protection of Source Code Act
-
-This bill amends the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, and the Investment Advisers Act of 1940 to specify that the Securities and Exchange Commission may not compel a person to produce a source code or similar intellectual property that forms the basis for design of the source code without first issuing a subpoena.

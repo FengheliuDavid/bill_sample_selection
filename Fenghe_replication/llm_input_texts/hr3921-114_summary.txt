@@ -1,9 +1,0 @@
-Hedge Fund Sunshine Act of 2015
-
-This bill amends the Securities Exchange Act of 1934 to require that hedge funds send specified information to both the issuer of a security and each exchange where the security is rated within five (instead of 10) days of acquiring 1% (instead of 5%) of the beneficial ownership of an equity security, and also to file specified information required by the Securities and Exchange Commission (SEC).
-
- For purposes of determining such beneficial ownership, a hedge fund shall include any equity security with respect to which it owns a derivative instrument that includes the opportunity to profit or share in any profit derived from an increase in the value of such equity security.
-
-In addition, a hedge fund must file a quarterly report with the SEC if it: (1) has $100 million or more in assets under management, and (2) is the beneficial owner of more than 1% of a class of any security.
-
-The SEC shall make all reports received under this Act publicly available on its website.

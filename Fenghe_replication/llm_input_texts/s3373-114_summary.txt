@@ -1,5 +1,0 @@
-This bill amends the Federal Deposit Insurance Act to exclude reciprocal deposits of an insured depository institution from consideration as prohibited broker deposits if the total reciprocal deposits of the institution do not exceed the lesser of $10 billion or 20% of its total liabilities.
-
-Reciprocal deposits are those received by an agent institution through a deposit placement network with the same maturity (if any) and in the same aggregate amount as covered deposits placed by the agent institution in other network member banks.
-
-(Generally, an insured depository institution that is not well capitalized may not accept funds obtained by or through any deposit broker for deposit into one or more deposit accounts.)

@@ -1,5 +1,0 @@
-Market Data Protection Act of 2017
-
-(Sec. 2) This bill amends the Securities Exchange Act of 1934 to require the Securities and Exchange Commission, the Financial Industry Regulatory Authority, and the operator of the consolidated audit trail (a database that tracks trading in equities and options markets) to develop internal risk control mechanisms to protect stored market data.
-
-The operator of the consolidated audit trail may not accept market data until these mechanisms are developed.

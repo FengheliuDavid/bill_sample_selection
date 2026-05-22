@@ -1,7 +1,0 @@
-(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
-
-Small Company Disclosure Simplification Act 
-
- (Sec. 2) This bill exempts emerging growth companies and issuers with total annual gross revenues of less than $250 million from the requirement to use Extensible Business Reporting Language (XBRL) for financial statements and other mandatory periodic reporting filed with the Securities and Exchange Commission (SEC). Such companies, however, may elect to use XBRL for such reporting.
-
-(Sec. 3) The SEC shall: (1) analyze the costs and benefits to such issuers of the requirement to use XBRL for financial statements and other mandatory periodic reporting; and (2) report to certain congressional committees on the results of such analysis as well as on progress in implementing XBRL reporting within the SEC, and use of XBRL data by the SEC and by investors.
