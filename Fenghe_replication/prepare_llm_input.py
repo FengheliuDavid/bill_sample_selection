@@ -69,12 +69,12 @@ cursor.execute(f"""
 """)
 df_html = pd.DataFrame(cursor.fetchall(), columns=["package_name", "text_html"])
 
-# --- assemble ---
+# --- assemble (inner joins to match original script: keeps only bills with both summary and full text) ---
 df = pd.DataFrame(filtered_bills)
-df = df.merge(df_meta, on="bill_id", how="left")
-df = df.merge(df_summary, on="bill_id", how="left")
-df = df.merge(df_pkgs, on="bill_id", how="left")
-df = df.merge(df_html, on="package_name", how="left")
+df = df.merge(df_summary, on="bill_id")
+df = df.merge(df_meta, on="bill_id")
+df = df.merge(df_pkgs, on="bill_id")
+df = df.merge(df_html, on="package_name")
 
 df = df.drop_duplicates(subset="bill_id").reset_index(drop=True)
 
