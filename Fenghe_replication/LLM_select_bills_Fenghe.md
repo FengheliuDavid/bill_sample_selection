@@ -88,7 +88,59 @@ Bill full text: {full_text}
 Is this bill relevant? Answer YES or NO, then explain in one sentence.
 ```
 
-**Output:** *(to be completed after LLM run)*
+**Output:** Results are in `llm_bill_selection_combined.csv` (columns: `bill_id`, `relevant`, `confidence`, `reason`, `captured_by_keyword`).
+
+### Comparison with keyword approach
+
+|  | Keyword = True | Keyword = False |
+|---|---|---|
+| **LLM = True** | 758 | 1,441 |
+| **LLM = False** | 58 | 469 |
+
+The keyword approach has **92.9% precision but only 34.5% recall** against the LLM. The LLM selects 2,199 bills vs. 816 by keywords.
+
+---
+
+## Keyword vs. LLM Discrepancy Analysis
+
+### Group A: 58 bills — Keyword caught, LLM rejected (false positives)
+
+Root cause: the bare word `corporate` is the main culprit. It fires on incidental text completely unrelated to financial regulation.
+
+| Pattern | # Bills | Example |
+|---|---|---|
+| `corporate` from "incorporated" in rural law enforcement bills | 5 | `s349-107` — funds rural sheriffs' training; "incorporated as a nonprofit" triggers it |
+| `corporate` from "Temporary Corporate Credit Union" (a proper noun) | 4 | `hr2351-111` — credit union share insurance stabilization |
+| `financial statement` via Congress.gov subject tag on mortgage assistance bills | 6 | `hr1357-108` — HUD emergency mortgage program for homeowners |
+| `financial statement` / `financial institution` in education grant bills | 6 | `hr1866-114` — grants for financial literacy curricula, zero regulatory content |
+| `securities law` as a single cross-reference clause in insurance licensing bills | 3 | `hr1112-112` — multi-state insurance producer licensing (NARAB) |
+| `financial disclosure` for judicial officers under ethics law | 1 | `hr2336-107` — redaction of judges' personal financial disclosures |
+| LLM parse errors on large omnibus bills (some may be true positives) | 21 | Dodd-Frank `hr4173-111`, PATRIOT Act, Bankruptcy Reform Acts |
+
+**Key finding:** Standalone `corporate` as a keyword generates noise at massive scale across all legislation. A minimum of two-word phrases would dramatically reduce false positives.
+
+---
+
+### Group B: 1,441 bills — LLM caught, keywords missed (false negatives)
+
+All 1,441 received `confidence = high` from the LLM — these are not borderline cases. The keyword list covers a narrow slice of financial regulation (mainly securities fraud + disclosure) while missing ten large topic areas entirely:
+
+| Missing Topic | # Bills | Example |
+|---|---|---|
+| Systemic risk / FSOC / "too big to fail" | 87 | *Systemic Risk Designation Improvement Act* — no keyword matches |
+| Derivatives, swaps, CFTC regulation | 76 | `hr742-113` amends Securities Exchange Act AND Commodity Exchange Act — CFTC not in keyword list |
+| Executive compensation at TARP firms | 68 | `hr857-111` *Limit Executive Compensation Abuse Act* |
+| Money laundering / financial crime strategy | 51 | `s2402-109` *Combating Money Laundering and Terrorist Financing Act* — "money laundering" not in keyword list |
+| Federal Reserve audit / transparency | 48 | Multiple *Federal Reserve Transparency Act* versions |
+| Dodd-Frank reform / implementation | 43 | Bills amending specific Dodd-Frank titles |
+| SOX / PCAOB / audit firm oversight | 42 | `hr1564-113` *Audit Integrity and Job Protection Act* amends SOX directly |
+| Investment company / hedge fund regulation | 40 | Hedge fund adviser registration, Investment Advisers Act amendments |
+| Banking capital requirements / Basel III | 30 | `hr2295-113` *Basel III CASE Act* |
+| Glass-Steagall / bank-securities separation | 16 | `hr129-113` *Return to Prudent Banking Act*, `hr3054-114` *21st Century Glass-Steagall Act* |
+
+~37 bills (~2.5% of Group B) appear to be LLM over-inclusions — bills about drug control or sex trafficking that were tagged "Fraud offenses and financial crimes" by Congress.gov but have no substantive financial regulation content.
+
+**Key finding:** The keyword list was built around a narrow slice of financial regulation. The LLM captures the full breadth: CFTC, FSOC, PCAOB, TARP, Glass-Steagall, money laundering, Basel III, Federal Reserve oversight — none of which are represented in `keywords.txt`.
 
 ---
 
