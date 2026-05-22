@@ -86,16 +86,21 @@ df["full_text"] = df["text_html"].apply(
 # --- derive congress_term ---
 df["congress_term"] = df["bill_id"].apply(lambda x: x.split("-")[1])
 
-# --- final column selection and ordering ---
-df_out = df[["bill_id", "congress_term", "introduced_at", "policy_area",
-             "subjects", "official_title", "short_title",
-             "summary_text", "full_text"]]
+# --- save metadata CSV (no text columns) ---
+df_meta_out = df[["bill_id", "congress_term", "introduced_at", "policy_area",
+                  "subjects", "official_title", "short_title"]].copy()
+meta_path = SCRIPT_DIR / "llm_input_metadata.csv"
+df_meta_out.to_csv(meta_path, index=False)
+print(f"Metadata CSV saved: {meta_path}  shape={df_meta_out.shape}")
 
-output_path = SCRIPT_DIR / "llm_input_2726_bills.csv"
-df_out.to_csv(output_path, index=False)
+# --- save individual text files ---
+texts_dir = SCRIPT_DIR / "llm_input_texts"
+texts_dir.mkdir(exist_ok=True)
 
-print(f"Output shape: {df_out.shape}")
-print(f"Bills with full text:    {df_out['full_text'].notna().sum()}")
-print(f"Bills with summary text: {df_out['summary_text'].notna().sum()}")
-print(f"Bills with neither:      {(df_out['full_text'].isna() & df_out['summary_text'].isna()).sum()}")
-print(f"Saved to: {output_path}")
+for _, row in df.iterrows():
+    with open(texts_dir / f"{row['bill_id']}_summary.txt", "w", encoding="utf-8") as f:
+        f.write(row["summary_text"])
+    with open(texts_dir / f"{row['bill_id']}_full_text.txt", "w", encoding="utf-8") as f:
+        f.write(row["full_text"])
+
+print(f"Text files saved to: {texts_dir}  ({len(df) * 2} files)")
