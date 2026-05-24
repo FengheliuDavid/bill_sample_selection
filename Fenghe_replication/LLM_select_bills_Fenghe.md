@@ -129,8 +129,6 @@ Root cause: the bare word `corporate` is the main culprit. It fires on incidenta
 | `financial disclosure` for judicial officers under ethics law | 1 | `hr2336-107` — redaction of judges' personal financial disclosures |
 | Other incidental keyword matches | 12 | Various consumer credit and financial literacy bills |
 
-Note: 21 bills that initially showed as parse errors (including Dodd-Frank `hr4173-111`, Financial CHOICE Act `hr10-115`, Gramm-Leach-Bliley `hr10-106`) were re-run and correctly reclassified as `relevant=True`, reducing Group A from 58 to 37. The parse errors were caused by abnormally long summaries (40,000–211,000 chars vs. a median of 1,076 chars across all bills).
-
 **Key finding:** Standalone `corporate` as a keyword generates noise at massive scale across all legislation. A minimum of two-word phrases would dramatically reduce false positives.
 
 ---
@@ -155,6 +153,14 @@ All 1,441 received `confidence = high` from the LLM — these are not borderline
 ~37 bills (~2.5% of Group B) appear to be LLM over-inclusions — bills about drug control or sex trafficking that were tagged "Fraud offenses and financial crimes" by Congress.gov but have no substantive financial regulation content.
 
 **Key finding:** The keyword list was built around a narrow slice of financial regulation. The LLM captures the full breadth: CFTC, FSOC, PCAOB, TARP, Glass-Steagall, money laundering, Basel III, Federal Reserve oversight — none of which are represented in `keywords.txt`.
+
+---
+
+## Bill Category Distribution
+
+The 2,220 LLM-selected bills were further classified into 23 topic categories. The chart below shows the count per category, broken down by whether the keyword approach also captured the bill (dark blue) or missed it entirely (light blue).
+
+![Bill Category Distribution](bill_category_distribution.png)
 
 ---
 
