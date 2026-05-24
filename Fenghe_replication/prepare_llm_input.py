@@ -89,12 +89,12 @@ df["congress_term"] = df["bill_id"].apply(lambda x: x.split("-")[1])
 # --- save metadata CSV (no text columns) ---
 df_meta_out = df[["bill_id", "congress_term", "introduced_at", "policy_area",
                   "subjects", "official_title", "short_title"]].copy()
-meta_path = SCRIPT_DIR / "llm_input_metadata.csv"
+meta_path = SCRIPT_DIR / "llm_input_metadata_2726.csv"
 df_meta_out.to_csv(meta_path, index=False)
 print(f"Metadata CSV saved: {meta_path}  shape={df_meta_out.shape}")
 
 # --- save individual text files ---
-texts_dir = SCRIPT_DIR / "llm_input_texts"
+texts_dir = SCRIPT_DIR / "llm_input_texts_2726"
 texts_dir.mkdir(exist_ok=True)
 
 for _, row in df.iterrows():
