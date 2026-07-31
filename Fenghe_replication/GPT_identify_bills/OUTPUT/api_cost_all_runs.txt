@@ -1,0 +1,31 @@
+API Cost Summary — All Runs (07_31)
+=====================================
+
+Run 1: compare_bills_07_31.py
+  Time: 2026-07-31 10:04:21
+  GPT-4o:        $1.33  (est.)
+  Claude Sonnet: $1.63  (est.)
+  TOTAL:         $2.96  (est.)
+
+Run 2: compare_206bills_07_31_step2.py
+  Time: 2026-07-31 11:51:24
+  GPT-4o:        $1.23
+  Claude Sonnet: $1.76
+  Claude Opus:   $8.22
+  TOTAL:         $11.21
+
+Run 3: compare_206bills_07_31_step2b.py
+  Time: 2026-07-31 13:46:30
+  GPT-4o:        $1.20
+  Claude Sonnet: $1.71
+  Claude Opus:   $7.87
+  TOTAL:         $10.78
+
+Run 4: compare_bills_07_31_3model.py
+  Time: 2026-07-31 16:15:15
+  GPT-4o:        $1.03
+  Claude Sonnet: $1.43
+  Claude Opus:   $7.06
+  TOTAL:         $9.53
+
+GRAND TOTAL: $34.47
