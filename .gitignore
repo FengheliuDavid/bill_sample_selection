@@ -1,2 +1,29 @@
 Fenghe_replication/selected_bill_texts/
 Fenghe_replication/llm_input_texts_2726/
+Fenghe_replication/llm_input_texts_no_prefilter/
+
+# --- Large raw data files (exceed GitHub 100 MB limit or too large to track) ---
+
+# ViolationTracker raw data
+Fenghe_replication/group_VT_categories/ViolationTracker_basic_24jun2024.csv
+Fenghe_replication/group_VT_categories/ViolationTracker_basic_24jun2024_modified.csv
+
+# Large intermediate env violation file
+Fenghe_replication/group_VT_categories/Claude_identify_env_violations/VT_environmental_violation_with_desc.csv
+
+# Runtime checkpoint
+Fenghe_replication/group_VT_categories/Claude_identify_env_violations/checkpoint.json
+
+# Large raw input data for GPT pipeline
+Fenghe_replication/GPT_identify_bills/INPUT/llm_input_metadata_no_prefilter.csv
+Fenghe_replication/GPT_identify_bills/INPUT/llm_input_texts_no_prefilter.zip
+Fenghe_replication/GPT_identify_bills/INPUT/SAMPLE_5000_YEAR_2010_2019.zip
+
+# Duplicate raw input in pull_bills/
+Fenghe_replication/pull_bills/llm_input_metadata_no_prefilter.csv
+
+# HPC intermediate chunk outputs (merged versions are in root-level CSVs)
+Fenghe_replication/HPC/llm_bill_VT27_category_outputs_*/
+
+# HPC job log files
+Fenghe_replication/HPC/**/logs/

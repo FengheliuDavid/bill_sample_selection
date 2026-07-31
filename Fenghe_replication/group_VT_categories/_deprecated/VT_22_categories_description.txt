@@ -1,0 +1,68 @@
+ViolationTracker — 22 New Group Descriptions
+=============================================
+
+1. Wage Hour & Benefits
+   Enforcement for employers failing to pay proper wages, overtime, or benefits. Covers DOL wage and hour investigations, WARN Act advance-notice failures before mass layoffs, ERISA mismanagement of pension and 401k plans, and retaliation against employees taking FMLA leave.
+
+2. Employment Discrimination
+   Employers discriminating against job applicants or employees based on race, gender, age, national origin, disability, or other protected characteristics. Also includes employer-side FCRA violations during hiring (e.g., failure to notify applicants before obtaining background reports).
+
+3. Labor Relations
+   NLRB unfair labor practice cases for violations of workers' collective bargaining and organizing rights, employer retaliation against whistleblowers who report safety or fraud violations, and misuse of H-1B and other visa programs to displace U.S. workers.
+
+4. Workplace Safety
+   OSHA and MSHA enforcement for hazardous working conditions across general industry and mining — including toxic exposures, pandemic-related safety failures, and violations of federal mine safety standards.
+
+5. Product Food & Drug Safety
+   FDA, CPSC, and related enforcement for defective or dangerous drugs, medical devices, consumer products, and food. Includes failure to report defects or issue recalls, contaminated food shipments, and tobacco marketing violations.
+
+6. Transportation Safety
+   FRA, FAA, and NHTSA enforcement for safety violations in railroad operations, aviation maintenance, and motor vehicle manufacturing. Also includes DOJ enforcement against private prisoner transport companies.
+
+7. Infrastructure & Nuclear Safety
+   NRC and DOE enforcement for nuclear facility safety violations; PHMSA and state PUC enforcement for gas pipeline safety failures; and FERC enforcement for dam safety and hydroelectric license violations.
+
+8. Campus Safety
+   Department of Education enforcement against universities for Clery Act failures — specifically, inadequate disclosure of campus crimes and mishandling of sexual assault cases (e.g., Michigan State/Nassar, Penn State/Sandusky).
+
+9. Banking AML & Sanctions
+   Federal and state banking regulator enforcement for unsafe or deceptive banking practices, anti-money-laundering compliance failures, criminal money laundering, and OFAC sanctions violations involving prohibited countries or designated persons.
+
+10. Securities & Investor Protection
+    SEC, CFTC, and FINRA enforcement for securities fraud, insider trading, failures to protect investor assets, and improper offerings. Includes 2008 financial crisis-era toxic securities (RMBS, CDOs) and unregistered crypto offerings.
+
+11. Accounting Financial Reporting & Tax
+    SEC enforcement for falsifying financial statements; DOJ Trustee enforcement for fraudulent bankruptcy claims; and state and local tax compliance failures including underpayments and business registration violations.
+
+12. Fraud, Corruption & Criminal Conduct
+    Broad category covering FCPA foreign bribery, domestic kickbacks, general fraud (overbilling, contract fraud), racketeering, false statements, obstruction of justice, civil contempt of court orders, theft, postal violations, and defamation.
+
+13. Intellectual Property & Trade Secrets
+    Criminal and civil cases for stealing proprietary business information (often involving foreign actors), and copyright infringement, counterfeit goods trafficking, and DMCA violations.
+
+14. Consumer Protection
+    State AG and FTC enforcement for deceptive marketing, predatory lending (payday, mortgage), housing code failures, gambling and cannabis licensing violations, insurance non-compliance, privacy breaches, disability access failures, telecommunications and utility service violations, and credit reporting accuracy failures by bureaus and tenant screeners.
+
+15. Competition-related Offenses
+    Antitrust enforcement for price-fixing, bid-rigging, and predatory pricing; FERC/CFTC enforcement for energy market manipulation; customs and trade violations including duty evasion and Jones Act violations; and USDA agricultural marketing standard violations.
+
+16. Environmental Offense
+    EPA, DOT, and state enforcement spanning the full range of environmental law: air and water pollution (Clean Air Act, Clean Water Act), toxic contamination (PFAS, PCBs, asbestos, lead), hazardous and radioactive waste, underground storage tanks, oil spills, pipeline safety, energy efficiency, pesticides, mining environmental damage, and agricultural runoff. Also includes animal welfare and archaeological resource protection violations.
+
+17. Government Contracting
+    False Claims Act enforcement against contractors and healthcare providers for fraudulent billing of federal programs, and DOI enforcement against oil and gas companies for underreporting production and underpaying federal land lease royalties.
+
+18. Healthcare Fraud & Compliance
+    DOJ, FDA, HHS OIG, CMS, and DEA enforcement for pharmaceutical off-label marketing fraud, Medicare and Medicaid billing violations, nursing home care failures, controlled substances tracking failures, healthcare price transparency violations, and fetal tissue trafficking.
+
+19. Government Reporting & Compliance
+    FEC and state enforcement for illegal corporate campaign contributions and failure to disclose political advertising. Also includes agency enforcement for failure to file required regulatory reports such as CFIUS foreign ownership disclosures and lobbying contribution reports.
+
+20. National Security & Cybercrime
+    DOJ and State Department enforcement for corporate payments to designated terrorist organizations, unauthorized transfer of classified military technology to foreign countries, and unauthorized intrusion into competitor or third-party computer systems.
+
+21. Exploitation & Trafficking
+    Civil and criminal enforcement against companies that facilitated or financially benefited from sex trafficking or sexual exploitation of minors (e.g., JPMorgan/Epstein, Pornhub/Aylo).
+
+22. Firearms Violation
+    Civil litigation against firearms manufacturers for irresponsible marketing that facilitates violence, and enforcement against unlicensed ghost gun manufacturers.

@@ -1,0 +1,32 @@
+category_id,category_label,bill_count,pct_of_all_bills
+1,Wage Hour & Benefits,9747,10.33
+2,Employment Discrimination,1188,1.26
+3,Labor Relations,883,0.94
+4,Workplace Safety,507,0.54
+5,Consumer Safety,1553,1.65
+6,Transportation Safety,2256,2.39
+7,Infrastructure & Nuclear Safety,578,0.61
+8,Campus Safety,202,0.21
+9,Banking AML & Sanctions,1136,1.2
+10,Securities & Investor Protection,10399,11.02
+11,Accounting Financial Reporting & Tax,6805,7.21
+12,"Fraud, Corruption & Criminal Conduct",7490,7.94
+13,Intellectual Property & Trade Secrets,507,0.54
+14,Consumer Protection,4011,4.25
+15,Competition-related Offenses,10424,11.05
+16,Air Violation,1418,1.5
+17,Water Violation,2811,2.98
+18,Earth Violation,3133,3.32
+19,Lead Violation,158,0.17
+20,Energy Efficiency,1365,1.45
+21,Animal Welfare,538,0.57
+22,Government Contracting,3070,3.25
+23,Healthcare Fraud & Compliance,3465,3.67
+24,Government Reporting & Compliance,6686,7.09
+25,National Security & Cybercrime,784,0.83
+26,Exploitation & Trafficking,492,0.52
+27,Firearms Violation,276,0.29
+,No category assigned,38796,
+,At least one category,55569,
+,Total bills,94365,
+,Total category assignments (multi-label),81882,

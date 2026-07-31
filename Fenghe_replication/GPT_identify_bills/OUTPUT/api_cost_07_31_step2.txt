@@ -1,0 +1,46 @@
+API Cost — compare_206bills_07_31_step2.py
+==========================================
+Run completed: 2026-07-31 11:51:24 (local time)
+Script:        GPT_identify_bills/compare_206bills_07_31_step2.py
+Prompt:        HPC/prompt_step2_gpt.md
+Input pool:    llm_bill_VT27_merged_2010sample5000_07_31_step1.csv
+Bills processed: 206
+
+--- TRUE Token Counts (from API response.usage) ---
+
+GPT-4o (gpt-4o):
+  Input tokens:   446,583
+  Output tokens:  11,485
+
+Claude Sonnet (claude-sonnet-4-5):
+  Input tokens:   490,214
+  Output tokens:  19,296
+
+Claude Opus (claude-opus-4-6):
+  Input tokens:   459,554
+  Output tokens:  17,639
+
+--- Pricing Used ---
+
+GPT-4o:           $2.50 / 1M input,   $10.00 / 1M output
+Claude Sonnet:    $3.00 / 1M input,   $15.00 / 1M output
+Claude Opus:     $15.00 / 1M input,   $75.00 / 1M output
+
+--- Cost Breakdown ---
+
+GPT-4o:
+  Input cost:   $1.1165
+  Output cost:  $0.1149
+  Subtotal:     $1.2313
+
+Claude Sonnet (claude-sonnet-4-5):
+  Input cost:   $1.4706
+  Output cost:  $0.2894
+  Subtotal:     $1.7601
+
+Claude Opus (claude-opus-4-6):
+  Input cost:   $6.8933
+  Output cost:  $1.3229
+  Subtotal:     $8.2162
+
+TOTAL:          $11.2076

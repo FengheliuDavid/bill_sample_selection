@@ -104,3 +104,49 @@ for _, row in df.iterrows():
         f.write(row["full_text"])
 
 print(f"Text files saved to: {texts_dir}  ({len(df) * 2} files)")
+
+# =============================================================================
+# Additional section: all bills without Stage 1 pre-filter
+# Keeps bills introduced >= 2000 that have a CRS summary; no full text required or pulled.
+# No policy area / subjects filter applied.
+# =============================================================================
+
+print("\n--- Generating no-prefilter dataset ---")
+
+# --- pull metadata for ALL bills (no bill_id filter) ---
+cursor.execute("select bill_id, introduced_at, official_title, short_title from bill.meta")
+df_meta_nopf = pd.DataFrame(cursor.fetchall(),
+                             columns=["bill_id", "introduced_at", "official_title", "short_title"])
+
+# filter to bills introduced on or after 2000 (introduced_at is stored as ISO string YYYY-MM-DD)
+df_meta_nopf = df_meta_nopf[df_meta_nopf["introduced_at"] >= "2000-01-01"].copy()
+
+cursor.execute("select bill_id, text from bill.summary")
+df_summary_nopf = pd.DataFrame(cursor.fetchall(), columns=["bill_id", "summary_text"])
+
+# --- assemble: inner joins keep bills with a summary; no full text requirement ---
+df_nopf = pd.DataFrame(all_bills)  # all_bills already loaded above (bill_id, policy_area, subjects)
+df_nopf = df_nopf.merge(df_summary_nopf, on="bill_id")
+df_nopf = df_nopf.merge(df_meta_nopf, on="bill_id")
+df_nopf = df_nopf.drop_duplicates(subset="bill_id").reset_index(drop=True)
+print(f"Bills (no pre-filter, introduced >= 2000, with summary): {len(df_nopf)}")
+
+# --- derive congress_term ---
+df_nopf["congress_term"] = df_nopf["bill_id"].apply(lambda x: x.split("-")[1])
+
+# --- save metadata CSV ---
+df_meta_nopf_out = df_nopf[["bill_id", "congress_term", "introduced_at", "policy_area",
+                              "subjects", "official_title", "short_title"]].copy()
+meta_nopf_path = SCRIPT_DIR / "llm_input_metadata_no_prefilter.csv"
+df_meta_nopf_out.to_csv(meta_nopf_path, index=False)
+print(f"No-prefilter metadata CSV saved: {meta_nopf_path}  shape={df_meta_nopf_out.shape}")
+
+# --- save individual summary text files ---
+texts_nopf_dir = SCRIPT_DIR / "llm_input_texts_no_prefilter"
+texts_nopf_dir.mkdir(exist_ok=True)
+
+for _, row in df_nopf.iterrows():
+    with open(texts_nopf_dir / f"{row['bill_id']}_summary.txt", "w", encoding="utf-8") as f:
+        f.write(row["summary_text"])
+
+print(f"No-prefilter summary files saved to: {texts_nopf_dir}  ({len(df_nopf)} files)")

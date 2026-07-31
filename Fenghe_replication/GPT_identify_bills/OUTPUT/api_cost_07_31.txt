@@ -1,0 +1,51 @@
+API Cost Estimate — compare_bills_07_31.py
+==========================================
+Run date:        2026-07-31
+Output file completed: 2026-07-31 10:04:21 (local time)
+Script:          GPT_identify_bills/compare_bills_07_31.py
+Prompt:          HPC/8_llm_categorize_VT27_bills_prompt_07_31.md
+Input pool:      llm_bill_VT27_merged_2010sample5000_07_31_qwen.csv
+Bills processed: 140
+
+--- Token Estimates (chars / 4, conservative approximation) ---
+
+System prompt:         ~3,000 tokens  (11,999 chars)
+Avg user message:      ~3,514 tokens  (per bill, incl. summary text)
+Avg output (per call): ~   73 tokens  (JSON response)
+
+Per-model totals:
+  Input tokens:   491,548
+  Output tokens:   10,199
+
+--- Pricing Used ---
+
+GPT-4o (gpt-4o):
+  Input:   $2.50 / 1M tokens
+  Output: $10.00 / 1M tokens
+
+Claude Sonnet (claude-sonnet-4-5):
+  Input:   $3.00 / 1M tokens
+  Output: $15.00 / 1M tokens
+
+--- Cost Breakdown ---
+
+GPT-4o:
+  Input cost:   $1.2289   (491,548 tokens x $2.50/1M)
+  Output cost:  $0.1020   ( 10,199 tokens x $10.00/1M)
+  Subtotal:     $1.3309
+
+Claude Sonnet (claude-sonnet-4-5):
+  Input cost:   $1.4746   (491,548 tokens x $3.00/1M)
+  Output cost:  $0.1530   ( 10,199 tokens x $15.00/1M)
+  Subtotal:     $1.6276
+
+TOTAL:          $2.9585
+
+--- Notes ---
+- Token counts are estimated via the chars/4 rule; actual counts may differ by
+  +/- 10-15%. Actual usage can be read from API response.usage fields if needed.
+- Prices reflect published rates as of mid-2025; verify against current
+  OpenAI and Anthropic pricing pages if rates have changed.
+- Both models received identical input (same system prompt + user message).
+- Output tokens capped at 400 per call (max_tokens=400); actual outputs
+  averaged ~73 tokens per call.

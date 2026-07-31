@@ -1,0 +1,400 @@
+
+=== hr4143-112 ===
+official_title: To amend the Internal Revenue Code of 1986 to extend the period during which transfers of excess pension assets may be made to retiree health accounts and to provide for the transfer of such assets to retiree group term life insurance accounts.
+short_title: Extension of Section 420 and Retiree Life Insurance Act of 2012
+policy_area: Taxation
+reason_qwen: The bill regulates the management and transfer of assets within private employer-sponsored defined benefit pension plans and retiree health/life insurance accounts, directly impacting ERISA obligations regarding the maintenance of employee benefit plans.
+reason_4o: The bill addresses tax treatment of pension asset transfers to retiree health and life insurance accounts, not private employer wage or benefit obligations.
+reason_sonnet: The bill modifies ERISA-related rules governing how private employers can manage excess pension assets in defined benefit plans, directly affecting employer obligations regarding employee retirement and retiree benefit plans.
+
+=== hr3910-115 ===
+official_title: To amend the Internal Revenue Code of 1986 to make lifetime income and managed account options of defined contribution retirement savings plans portable.
+short_title: nan
+policy_area: Taxation
+reason_qwen: The bill amends the Internal Revenue Code to regulate the portability and distribution mechanisms of employer-sponsored defined contribution retirement plans, directly affecting private employer obligations regarding employee pension benefits under ERISA.
+reason_4o: The bill addresses the portability of investment options within employer-sponsored retirement plans, but does not impose obligations on private employers regarding wage, hour, or benefit compliance.
+reason_sonnet: This bill modifies ERISA-related rules governing employer-sponsored defined contribution retirement plans by expanding portability options when lifetime income or managed account investments are removed, directly affecting private employers' obligations as plan sponsors.
+
+=== hr3656-112 ===
+official_title: To amend the Internal Revenue Code of 1986 to provide for death and disability protection for loans from qualified employer plans.
+short_title: Retirement Savings Security Act of 2011
+policy_area: Taxation
+reason_qwen: The bill amends the Internal Revenue Code to regulate the terms of loans from qualified employer retirement plans (ERISA), specifically mandating protections against death and disability, which directly impacts private employer obligations regarding employee benefit plan administration.
+reason_4o: The bill addresses tax treatment and insurance options for loans from retirement plans, not employer wage or benefit obligations.
+reason_sonnet: Amends the Internal Revenue Code to modify qualified employer retirement plan rules by allowing participant loan protection arrangements, directly affecting employer-sponsored retirement plan obligations under ERISA-related tax code provisions.
+
+=== s143-112 ===
+official_title: A bill to amend the Internal Revenue Code of 1986 to clarify the treatment of church pension plans, and for other purposes.
+short_title: Church Plan Clarification Act of 2011
+policy_area: Taxation
+reason_qwen: The bill amends ERISA to include church plans under automatic enrollment provisions and applies limitations on benefits and contributions, directly regulating private employer obligations regarding employee pension and retirement benefit plans.
+reason_4o: The bill addresses the treatment of church pension plans under tax and ERISA provisions, which does not involve private employer wage or benefit obligations.
+reason_sonnet: The bill amends ERISA and Internal Revenue Code provisions governing church pension plans, directly affecting how private employers (churches and church-affiliated organizations) must structure and manage employee retirement benefit plans under federal law.
+
+=== s1204-113 ===
+official_title: A bill to amend the Patient Protection and Affordable Care Act to protect rights of conscience with regard to requirements for coverage of specific items and services, to amend the Public Health Service Act to prohibit certain abortion-related discrimination in governmental activities, and for other purposes.
+short_title: Health Care Conscience Rights Act
+policy_area: Health
+reason_qwen: The bill directly regulates private employer obligations regarding group health plans under ERISA by prohibiting the requirement to cover specific services (abortion) based on conscience rights, thereby imposing specific coverage restrictions on employer-sponsored benefit plans.
+reason_4o: The bill primarily addresses health insurance coverage and religious objections, not private employer wage or benefit obligations.
+reason_sonnet: The bill directly regulates private employer obligations under ERISA by allowing group health plan sponsors and issuers to exclude coverage of specific items or services based on moral or religious objections, thereby modifying the scope of employer-sponsored group health benefit plan requirements u
+
+=== hr628-115 ===
+official_title: To amend the Public Health Service Act to prohibit application of preexisting condition exclusions and to guarantee availability of health insurance coverage in the individual and group market, contingent on the enactment of legislation repealing the Patient Protection and Affordable Care Act, and for other purposes.
+short_title: Guaranteed Health Coverage for Pre-Existing Conditions Act of 2017
+policy_area: Health
+reason_qwen: The bill imposes obligations on private employers sponsoring group health plans by mandating guaranteed availability of coverage and prohibiting preexisting condition exclusions, directly regulating employer-sponsored benefit plan terms under ERISA-related statutes.
+reason_4o: The bill addresses health insurance coverage requirements for preexisting conditions, which primarily affects insurance carriers rather than imposing direct obligations on private employers as plan sponsors under ERISA.
+reason_sonnet: The bill maintains ERISA-related requirements that employer-sponsored group health plans must cover preexisting conditions and accept all applicants, directly regulating private employers' obligations as plan sponsors under employee benefit law.
+
+=== hr1423-114 ===
+official_title: To amend the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code of 1986 to exclude from the definition of health insurance coverage certain medical stop-loss insurance obtained by certain plan sponsors of group health plans.
+short_title: Self-Insurance Protection Act
+policy_area: Health
+reason_qwen: The bill amends ERISA to clarify the regulatory status of stop-loss insurance for self-insured group health plans, directly affecting the compliance obligations and risk management structures of private employers sponsoring these benefit plans.
+reason_4o: The bill modifies the definition of health insurance coverage under ERISA and related statutes, but does not impose new obligations on private employers regarding wage, hour, or benefit compliance.
+reason_sonnet: The bill amends ERISA and related statutes to clarify the regulatory treatment of stop-loss insurance obtained by sponsors of self-insured group health plans, directly affecting employer obligations regarding employer-sponsored group health benefit plans under ERISA.
+
+=== hr364-112 ===
+official_title: To repeal the Patient Protection and Affordable Care Act and to take meaningful steps to lower health care costs and increase access to health insurance coverage without raising taxes, cutting Medicare benefits for seniors, adding to the national deficit, intervening in the doctor-patient relationship, or instituting a government takeover of health care.
+short_title: Common Sense Health Reform Americans Actually Want Act
+policy_area: Health
+reason_qwen: The bill amends ERISA to establish governance rules for small business health plans and mandates dependent coverage until age 26 for group health plans, directly imposing obligations on private employers regarding their employee benefit plans.
+reason_4o: The bill primarily focuses on repealing the Affordable Care Act and modifying health insurance regulations, which do not directly impose obligations on private employers regarding wage, hour, or benefit obligations under ERISA or related statutes.
+reason_sonnet: The bill amends ERISA to establish small business health plans and continues employer-sponsored group health plan obligations regarding dependent coverage and preexisting condition exclusions, directly regulating private employer benefit plan conduct.
+
+=== s254-114 ===
+official_title: A bill to lower health premiums and increase choice for small businesses.
+short_title: Small Business Health Relief Act of 2015
+policy_area: Health
+reason_qwen: The bill repeals the employer mandate and associated reporting requirements under the Affordable Care Act, directly altering the statutory obligations of private employers regarding the provision of employer-sponsored group health benefit plans.
+reason_4o: The bill primarily addresses health insurance market rules and tax provisions, not private employer wage or benefit obligations under ERISA or related statutes.
+reason_sonnet: The bill repeals employer mandate penalties and reporting requirements under the ACA that directly regulate private employer obligations to provide health insurance coverage to full-time employees, and modifies rules governing employer-sponsored health plans and flexible spending arrangements.
+
+=== hr2443-113 ===
+official_title: To amend the Internal Revenue Code of 1986 to exempt certain educational institutions from the employer health insurance mandate.
+short_title: Safeguarding Children Harmed by Obamacare's Onerous Levies Act
+policy_area: Taxation
+reason_qwen: The bill modifies the definition of 'applicable large employer' under the Internal Revenue Code, directly altering the scope of private employers subject to the employer health insurance mandate, which is a core employer benefit obligation.
+reason_4o: The bill exempts certain educational institutions from the employer health insurance mandate, which does not directly regulate or enforce private employer wage, hour, or benefit obligations.
+reason_sonnet: The bill reduces the stringency of the Affordable Care Act's employer mandate by exempting educational institutions from the requirement to provide health insurance coverage to employees, directly affecting private employer obligations under ERISA-related health benefit provisions.
+
+=== hr4616-115 ===
+official_title: To amend the Patient Protection and Affordable Care Act to provide for a temporary moratorium on the employer mandate and to provide for a delay in the implementation of the excise tax on high cost employer-sponsored health coverage.
+short_title: Employer Relief Act of 2018
+policy_area: Health
+reason_qwen: The bill suspends the ACA employer mandate, which is a statutory obligation requiring applicable large employers to offer minimum essential coverage to their employees, thereby directly altering private employer benefit obligations under ERISA-adjacent health coverage rules.
+reason_4o: The bill suspends the employer mandate and delays the excise tax on high-cost health plans, but does not directly regulate or enforce private employer wage, hour, or benefit obligations under ERISA or related statutes.
+reason_sonnet: The bill temporarily suspends the employer mandate requiring large employers to provide health insurance and delays the excise tax on high-cost employer-sponsored health plans, both of which directly affect private employer obligations under ERISA-related provisions regarding employer-sponsored grou
+
+=== hr1-113 ===
+official_title: To amend the Internal Revenue Code of 1986 to provide for comprehensive tax reform.
+short_title: Tax Reform Act of 2014
+policy_area: Taxation
+reason_qwen: The bill revises the tax treatment of employer-provided retirement plans and prohibits employers from establishing new SIMPLE 401(k) plans, directly regulating private employer obligations regarding employee pension and retirement benefits under ERISA-related frameworks.
+reason_4o: The bill primarily addresses comprehensive tax reform, including individual and corporate tax rates, deductions, and credits, without directly imposing obligations on private employers regarding wage, hour, or benefit obligations.
+reason_sonnet: The bill modifies employer obligations under ERISA by prohibiting new SIMPLE 401(k) plans and revising tax treatment of employer-provided retirement plans, directly affecting private employer pension and benefit plan obligations.
+
+=== hr170-115 ===
+official_title: To amend the Immigration and Nationality Act to modify the definition of "exempt H-1B nonimmigrant".
+short_title: Protect and Grow American Jobs Act
+policy_area: Immigration
+reason_qwen: The bill raises the salary threshold for H-1B visa exemptions, directly regulating private employer wage obligations for specialty occupation workers to prevent wage suppression.
+reason_4o: The bill modifies the definition of 'exempt H-1B nonimmigrant' by adjusting salary thresholds, which relates to immigration policy rather than private employer wage or benefit obligations under labor laws like FLSA or ERISA.
+reason_sonnet: The bill modifies H-1B visa wage requirements by raising the salary threshold for exempt nonimmigrants from $60,000 to $100,000 with inflation adjustments, directly affecting private employer wage obligations under immigration law's specialty occupation worker provisions.
+
+=== hr2161-112 ===
+official_title: To amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, and for other purposes.
+short_title: IDEA Act of 2011
+policy_area: Immigration
+reason_qwen: The bill revises H-1B and L-1 visa provisions to impose specific wage requirements and protections against U.S. worker displacement on private employers, directly regulating private employer wage obligations.
+reason_4o: The bill primarily addresses immigration policy and procedures, including visa categories and labor certification processes, without directly imposing wage, hour, or benefit obligations on private employers.
+reason_sonnet: The bill revises H-1B and L-visa provisions to impose wage requirements, strengthen U.S. worker displacement protections, establish recruitment requirements, and authorize investigations of employer complaints—directly regulating private employer wage and hour obligations under specialty occupation 
+
+=== hr3344-113 ===
+official_title: To ensure that the provision of foreign assistance does not contribute to human trafficking and to combat human trafficking by requiring greater transparency in the recruitment of foreign workers.
+short_title: Fraudulent Overseas Recruitment and Trafficking Elimination Act of 2013
+policy_area: International Affairs
+reason_qwen: The bill imposes direct regulatory obligations and enforcement mechanisms on foreign labor contractors (private employers/recruiters) regarding worker recruitment practices, contract transparency, and fee prohibitions, which aligns with preventing wage theft and exploitation under labor standards.
+reason_4o: The bill focuses on preventing human trafficking and ensuring transparency in foreign labor recruitment, not on private employer wage or benefit obligations.
+reason_sonnet: The bill regulates foreign labor contractors who recruit workers for U.S. employers, imposing disclosure requirements, prohibiting recruitment fees charged to workers, and establishing enforcement mechanisms—directly addressing wage-and-hour-adjacent employer conduct regarding worker recruitment and
+
+=== hr3162-112 ===
+official_title: To prohibit the Secretary of Labor from implementing certain rules relating to employment of aliens described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act, and for other purposes.
+short_title: nan
+policy_area: Labor and Employment
+reason_qwen: The bill regulates the methodology for computing prevailing occupational wage levels for H-2B temporary workers and other alien labor certifications, directly affecting private employer wage obligations and compliance requirements under federal labor laws.
+reason_4o: The bill addresses regulatory procedures for foreign labor employment and wage methodology for H-2B workers, but does not directly impose or modify wage, hour, or benefit obligations on private employers.
+reason_sonnet: The bill directly affects wage methodology and prevailing wage requirements that private employers must meet when hiring H-2B temporary foreign workers, thereby altering enforcement of employer wage obligations under labor certification rules.
+
+=== s68-113 ===
+official_title: A bill to enhance the security of chemical facilities and for other purposes.
+short_title: Secure Chemical Facilities Act
+policy_area: Emergency Management
+reason_qwen: The bill establishes whistleblower protections for employees of covered chemical facilities who report safety violations, which aligns with the category's inclusion of statutes protecting employees who report unsafe working conditions or other protected activities.
+reason_4o: The bill focuses on enhancing security at chemical facilities and does not address private employer wage, hour, or benefit obligations.
+reason_sonnet: Establishes whistleblower protections for employees of covered chemical facilities who report safety violations, directly regulating private employer retaliation against employees for protected reporting activities.
+
+=== hr6544-111 ===
+official_title: To amend title 18, United States Code, to provide for the protection of the general public, and for other purposes.
+short_title: Dangerous Products Warning Act
+policy_area: Crime and Law Enforcement
+reason_qwen: The bill imposes criminal penalties on private employers for failing to warn employees of serious dangers and explicitly prohibits retaliation against employees who report such dangers, which aligns with whistleblower protections under wage and hour/benefit statutes.
+reason_4o: The bill focuses on product safety and whistleblower protections related to reporting dangers, not on private employer wage, hour, or benefit obligations.
+reason_sonnet: The bill criminalizes retaliation against employees who report serious dangers associated with products or business practices, directly strengthening protections against employer retaliation for whistleblowing activities covered under wage and hour and workplace safety statutes.
+
+=== hr1926-114 ===
+official_title: To improve compliance with mine safety and health laws, empower miners to raise safety concerns, prevent future mine tragedies, and for other purposes.
+short_title: Robert C. Byrd Mine Safety Protection Act of 2015
+policy_area: Labor and Employment
+reason_qwen: The bill mandates that mine operators provide full compensation at the regular rate of pay for miners idled due to safety withdrawal orders, directly imposing a wage obligation on private employers.
+reason_4o: The bill focuses on mine safety and health regulations, not on private employer wage, hour, or benefit obligations.
+reason_sonnet: The bill strengthens enforcement of mine safety laws and includes provisions requiring mine operators to provide full compensation to miners idled by withdrawal orders (expanding from one week to up to 60 days) and prohibiting discharge of miners without job-related grounds after completing probatio
+
+=== hr6519-111 ===
+official_title: To amend title 49, United States Code, with respect to hours of service rules for railroad employees.
+short_title: Railroad Hours of Service Act of 2010
+policy_area: Transportation and Public Works
+reason_qwen: The bill tightens hours of service regulations for railroad employees, directly imposing stricter obligations on private railroad carriers regarding worker duty hours and rest periods, which aligns with wage and hour enforcement.
+reason_4o: The bill addresses hours of service rules for railroad employees, focusing on transportation safety and labor standards, but does not directly regulate private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill strengthens hours-of-service requirements for railroad employees by expanding coverage to yardmaster employees, increasing mandatory rest periods, and imposing stricter duty-hour limitations—all of which directly regulate private railroad carriers' wage and hour obligations under federal l
+
+=== hr2750-116 ===
+official_title: To amend title 9 of the United States Code to prohibit predispute arbitration agreements that force arbitration of certain disputes arising from claims of servicemembers and veterans.
+short_title: Justice for Servicemembers Act
+policy_area: Law
+reason_qwen: The bill prohibits predispute arbitration agreements for disputes regarding the employment or reemployment rights of uniformed service members, directly regulating private employer conduct under statutes like USERRA which impose obligations on non-governmental employers to reinstate and maintain ben
+reason_4o: The bill addresses arbitration agreements related to servicemembers' employment rights, but does not impose or modify private employer wage, hour, or benefit obligations.
+reason_sonnet: The bill strengthens protections for servicemembers' employment and reemployment rights (under USERRA) by prohibiting private employers from forcing arbitration of such disputes, directly regulating private employer conduct regarding employee rights.
+
+=== hr2654-113 ===
+official_title: To prohibit discrimination on the basis of military service, and for other purposes.
+short_title: Veterans and Servicemembers Employment Rights and Housing Act of 2013
+policy_area: Armed Forces and National Security
+reason_qwen: The bill prohibits private employers from discriminating against employees based on military service, which aligns with the category's inclusion of obligations regarding reinstatement and non-retaliation for service members (e.g., under USERRA), thereby enforcing private employer conduct standards.
+reason_4o: The bill addresses employment and housing discrimination based on military service, which does not directly relate to private employer wage, hour, or benefit obligations.
+reason_sonnet: The bill prohibits private employers from discriminating against employees or applicants based on military service and establishes enforcement mechanisms through the EEOC, directly regulating private employer conduct regarding employment rights of servicemembers and veterans.
+
+=== s1651-113 ===
+official_title: A bill to amend the Internal Revenue Code of 1986 to allow manufacturing businesses to establish tax-free manufacturing reinvestment accounts to assist them in providing for new equipment and facilities and workforce training.
+short_title: Manufacturing Reinvestment Account Act of 2013
+policy_area: Taxation
+reason_qwen: The bill introduces a tax deduction (functioning as a tax incentive) for manufacturing businesses to fund employee job training and workforce development, which qualifies under the exception for credits specifically tied to employer-provided job training.
+reason_4o: The bill provides tax incentives for manufacturing reinvestment, including workforce training, but does not directly regulate or enforce private employer wage, hour, or benefit obligations.
+reason_sonnet: Introduces a tax-advantaged account allowing manufacturers to make tax-deductible contributions for workforce training and development, incentivizing private employers to invest in employee job training programs.
+
+=== s2124-114 ===
+official_title: A bill to establish a Federal tax credit approximation matching program for State new jobs training tax credits, and for other purposes.
+short_title: New Skills for New Jobs Act
+policy_area: Taxation
+reason_qwen: The bill introduces a federal tax credit mechanism tied to employer-provided job training, which qualifies under the exception for credits specifically linked to employer-provided training obligations.
+reason_4o: The bill establishes a tax credit program for state new jobs training, focusing on education and training incentives rather than private employer wage or benefit obligations.
+reason_sonnet: Introduces a federal tax credit matching program tied to employer-provided job training for new hires, incentivizing private employers to invest in workforce training programs that qualify under state new jobs tax credit schemes.
+
+=== hr3628-115 ===
+official_title: To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for employees who participate in qualified apprenticeship programs.
+short_title: LEAP Act
+policy_area: Taxation
+reason_qwen: Introduces a tax credit for employers who hire employees into qualified apprenticeship programs, which qualifies as a credit specifically tied to employer-provided job training.
+reason_4o: The bill provides a tax credit for hiring apprenticeship employees, which incentivizes hiring decisions but does not directly relate to private employer wage, hour, or benefit obligations.
+reason_sonnet: Introduces a new tax credit incentivizing private employers to hire apprenticeship employees, directly relating to employer-provided job training programs which qualify under wage and hour employer obligations.
+
+=== hr5325-113 ===
+official_title: To amend the Internal Revenue Code of 1986 to provide tax incentives to meet the needs of the American manufacturing workforce, and for other purposes.
+short_title: American Manufacturing Workforce Act of 2014
+policy_area: Taxation
+reason_qwen: Introduces a tax credit for employer-provided job training expenses, which qualifies under the exception for credits specifically tied to employer-provided job training.
+reason_4o: The bill provides tax credits for manufacturing job training expenses, which incentivizes skill development but does not directly address private employer wage, hour, or benefit obligations.
+reason_sonnet: Introduces new tax credits for employer-provided job training expenses specifically for manufacturing workers, incentivizing private employers to invest in employee skill development and training programs.
+
+=== hr6025-111 ===
+official_title: To amend the Internal Revenue Code of 1986 to allow manufacturing businesses to establish tax-free manufacturing reinvestment accounts to assist them in providing for new equipment and facilities and workforce training.
+short_title: Manufacturing Reinvestment Account Act of 2010
+policy_area: Taxation
+reason_qwen: The bill introduces a tax deduction (functioning as a tax credit/incentive) for manufacturing businesses to fund employee job training and workforce development, which qualifies under the exception for credits specifically tied to employer-provided job training.
+reason_4o: The bill provides tax benefits for manufacturing reinvestment accounts, focusing on equipment, facilities, and workforce training, but does not directly regulate or enforce private employer wage, hour, or benefit obligations.
+reason_sonnet: Introduces a tax-advantaged account allowing manufacturers to make deductible contributions for workforce training and job development expenses, incentivizing private employers to invest in employee training programs related to wage and hour obligations.
+
+=== hr1625-116 ===
+official_title: To amend the Internal Revenue Code of 1986 to provide a safe harbor for determinations of worker classification, to require increased reporting, and for other purposes.
+short_title: New Economy Works to Guarantee Independence and Growth Act of 2019
+policy_area: Taxation
+reason_qwen: The bill establishes a statutory test for worker classification, directly regulating whether private employers must treat service providers as employees subject to wage and tax obligations, thereby affecting employer compliance with wage and hour laws.
+reason_4o: The bill addresses tax classification of workers as independent contractors versus employees, which is primarily a tax administration issue rather than a direct regulation of private employer wage, hour, or benefit obligations.
+reason_sonnet: The bill establishes a safe harbor test for classifying workers as independent contractors versus employees, directly affecting private employers' wage and hour obligations under tax law, including withholding requirements and employment tax responsibilities that relate to FLSA wage obligations.
+
+=== s953-113 ===
+official_title: A bill to amend the Higher Education Act of 1965 to extend the reduced interest rate for undergraduate Federal Direct Stafford Loans, to modify required distribution rules for pension plans, to limit earnings stripping by expatriated entities, to provide for modifications related to the Oil Spill Liability Trust Fund, and for other purposes.
+short_title: Student Loan Affordability Act
+policy_area: Taxation
+reason_qwen: The bill modifies Internal Revenue Code rules regarding required distributions from tax-exempt pension plans upon an employee's death, directly regulating private employer obligations related to retirement benefit plans under ERISA.
+reason_4o: The bill primarily addresses student loan interest rates, pension plan distribution rules, and taxation of expatriated entities, without directly regulating private employer wage, hour, or benefit obligations.
+reason_sonnet: Modifies required distribution rules for tax-exempt pension plans under ERISA, directly affecting private employer obligations regarding employee retirement benefit plans.
+
+=== hr6325-114 ===
+official_title: To establish an independent advisory committee to review certain regulations, and for other purposes.
+short_title: Workforce Regulatory Review Act of 2016
+policy_area: Government Operations and Politics
+reason_qwen: The bill establishes a commission to review and recommend the modification or repeal of regulations governing private employer obligations regarding wages, hours, and employee health, directly affecting the stringency of enforcement under laws like the FLSA and ERISA.
+reason_4o: The bill establishes a commission to review and recommend changes to regulations, but it does not directly regulate or enforce private employer wage, hour, or benefit obligations.
+reason_sonnet: The bill establishes a commission to review and recommend repeal or modification of regulations governing wages, hours, and employee health with the explicit goal of reducing regulatory requirements by one-third, directly affecting the stringency of private employer wage and hour obligations under l
+
+=== hr4254-114 ===
+official_title: To prohibit employers from requiring grocery store employees to enter into covenants not to compete, and for other purposes.
+short_title: Freedom for Workers to Seek Opportunity Act
+policy_area: Labor and Employment
+reason_qwen: The bill imposes direct obligations on private grocery store employers regarding employee seniority and benefits during acquisitions and prohibits non-compete covenants, with enforcement mechanisms modeled after the Fair Labor Standards Act.
+reason_4o: The bill prohibits non-compete agreements for grocery store employees and mandates recognition of seniority and benefits, directly affecting private employer obligations related to employee rights and benefits.
+reason_sonnet: This bill regulates non-compete agreements and employee hiring restrictions in grocery store acquisitions, which relates to employment discrimination and labor-management relations rather than employer wage, hour, or benefit obligations covered by FLSA, WARN, ERISA, or FMLA.
+
+=== s2617-113 ===
+official_title: A bill to repeal the wage rate requirements commonly known as the Davis-Bacon Act.
+short_title: Davis-Bacon Repeal Act
+policy_area: Labor and Employment
+reason_qwen: The bill repeals the Davis-Bacon Act, which imposes prevailing wage obligations on private contractors working on federally funded construction projects, thereby directly altering the regulatory framework governing private employer wage compliance.
+reason_4o: Repeals the Davis-Bacon Act, which imposes prevailing wage requirements on private contractors, directly affecting private employer wage obligations on federally-funded projects.
+reason_sonnet: The Davis-Bacon Act applies to federally-financed construction contracts and regulates government contractor wage obligations, not private employer wage violations; repealing it affects public procurement wage requirements rather than the type of private employer wage and hour misconduct covered by 
+
+=== hr711-113 ===
+official_title: To amend titles 23 and 49, United States Code, to repeal wage requirements applicable to laborers and mechanics employed on Federal-aid highway and public transportation construction projects.
+short_title: Highway Trust Fund Reform Act of 2013
+policy_area: Transportation and Public Works
+reason_qwen: The bill repeals the Davis-Bacon Act requirements for prevailing wages on federal-aid construction projects, directly altering the wage obligations imposed on private contractors and employers working on these projects.
+reason_4o: Repeals the Davis-Bacon Act, removing prevailing wage requirements for private contractors on federally-funded projects, directly affecting private employer wage obligations.
+reason_sonnet: This bill addresses wage requirements for workers on federal government-funded construction projects, not private employer wage violations; Davis-Bacon Act compliance involves government contractors on public projects, which falls outside the scope of private employer wage and hour misconduct under 
+
+=== s1188-113 ===
+official_title: A bill to amend the Internal Revenue Code of 1986 to modify the definition of full-time employee for purposes of the individual mandate in the Patient Protection and Affordable Care Act.
+short_title: Forty Hours Is Full Time Act of 2013
+policy_area: Taxation
+reason_qwen: The bill modifies the definition of a full-time employee for the ACA employer mandate, directly altering the obligations of private employers to provide health coverage under ERISA-related provisions.
+reason_4o: Modifies the definition of 'full-time employee' for employer health coverage mandates under the ACA, affecting employer obligations to provide health benefits.
+reason_sonnet: This bill modifies the ACA employer mandate's definition of full-time employee for health coverage purposes, which primarily regulates health insurance market rules rather than addressing private employer wage, hour, or benefit plan violations of the type covered by FLSA, ERISA, FMLA, or WARN Act en
+
+=== s792-115 ===
+official_title: A bill to amend the Immigration and Nationality Act to establish an H-2B temporary non-agricultural work visa program, and for other purposes.
+short_title: Save Our Small and Seasonal Businesses Act of 2017
+policy_area: Immigration
+reason_qwen: The bill establishes specific wage, housing, and recruitment obligations for private employers utilizing H-2B visas, directly regulating private employer conduct regarding worker compensation and conditions.
+reason_4o: The bill primarily addresses immigration procedures and the H-2B visa program, focusing on foreign labor and visa regulations rather than private employer wage or benefit obligations.
+reason_sonnet: This bill establishes an H-2B temporary visa program for foreign workers, addressing immigration procedures and employer petition requirements rather than private employer wage, hour, or benefit violations under FLSA, WARN, ERISA, or FMLA.
+
+=== s2833-114 ===
+official_title: A bill to amend section 214(c)(8) of the Immigration and Nationality Act to modify the data reporting requirements relating to nonimmigrant employees, and for other purposes.
+short_title: Visa Transparency Anti-Trafficking Act of 2016
+policy_area: Immigration
+reason_qwen: The bill expands data reporting requirements for private employers regarding compensation and other details of nonimmigrant workers, which serves as an enforcement mechanism to detect and prevent wage theft, trafficking, and other violations of wage and hour obligations.
+reason_4o: The bill focuses on expanding data reporting requirements for nonimmigrant visas and does not directly address private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill addresses immigration data reporting requirements for nonimmigrant workers and visa classifications, not private employer wage, hour, or benefit obligations under FLSA, ERISA, FMLA, or WARN Act.
+
+=== hr5006-114 ===
+official_title: To amend section 214(c)(8) of the Immigration and Nationality Act to modify the data reporting requirements relating to nonimmigrant employees, and for other purposes.
+short_title: Visa Transparency Anti-Trafficking Act of 2016
+policy_area: Immigration
+reason_qwen: The bill expands data reporting requirements for private employers sponsoring nonimmigrant workers to include compensation details, thereby enhancing transparency and enforcement capabilities regarding wage obligations and potential trafficking or exploitation under the Immigration and Nationality A
+reason_4o: The bill focuses on expanding data reporting requirements for nonimmigrant visas and does not address private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill addresses immigration data reporting requirements for nonimmigrant workers and visa classifications, not private employer wage, hour, or benefit obligations under FLSA, ERISA, FMLA, or WARN Act.
+
+=== s3462-112 ===
+official_title: A bill to provide anti-retaliation protections for antitrust whistleblowers.
+short_title: Criminal Antitrust Anti-Retaliation Act
+policy_area: Commerce
+reason_qwen: The bill establishes anti-retaliation protections for whistleblowers reporting antitrust violations, which falls under the category of retaliating against employees for reporting protected activities covered by whistleblower statutes.
+reason_4o: The bill addresses anti-retaliation protections for antitrust whistleblowers, which is not directly related to private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill addresses antitrust whistleblower retaliation protections, not wage, hour, or benefit obligations; while it involves employment discrimination, the underlying conduct concerns antitrust violations rather than employer wage/hour/benefit misconduct covered by FLSA, WARN, ERISA, or FMLA.
+
+=== s42-113 ===
+official_title: A bill to provide anti-retaliation protections for antitrust whistleblowers.
+short_title: Criminal Antitrust Anti-Retaliation Act of 2013
+policy_area: Commerce
+reason_qwen: The bill prohibits private employers from retaliating against employees who report antitrust violations, directly addressing employer misconduct related to whistleblower retaliation protections.
+reason_4o: The bill addresses anti-retaliation protections for antitrust whistleblowers, which is not directly related to private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill protects antitrust whistleblowers from employer retaliation, but antitrust violations are not within the Wage Hour & Benefits category, which covers only wage/hour, layoff notice, pension/retirement plan, and leave-related employer misconduct.
+
+=== hr4064-113 ===
+official_title: To amend the Internal Revenue Code of 1986 to provide that the individual health insurance mandate not apply until the employer health insurance mandate is enforced without exceptions.
+short_title: FAIR Act of 2014
+policy_area: Taxation
+reason_qwen: The bill directly addresses the enforcement of the employer mandate to provide health care coverage, which imposes obligations on private employers regarding their employee benefit plans under the Affordable Care Act.
+reason_4o: The bill addresses the timing of the individual health insurance mandate relative to the employer mandate, but does not directly regulate or enforce private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill addresses the timing of ACA individual and employer mandate enforcement but does not regulate private employer wage, hour, or benefit obligations; it merely delays one tax penalty until another is enforced without exceptions.
+
+=== s38-114 ===
+official_title: A bill to ensure that long-term unemployed individuals are not taken into account for purposes of the employer health care coverage mandate.
+short_title: Helping Individuals Regain Employment Act
+policy_area: Taxation
+reason_qwen: The bill modifies the definition of 'full-time employee' under the employer shared responsibility payment provisions of the Internal Revenue Code, directly altering the scope of private employer obligations to provide health coverage under the Affordable Care Act.
+reason_4o: The bill modifies the employer health care coverage mandate by excluding long-term unemployed individuals from the full-time employee count, but it does not directly regulate or enforce private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill modifies the ACA employer mandate calculation by excluding long-term unemployed individuals from full-time employee counts, but does not address wage, hour, overtime, pension mismanagement, WARN Act violations, or other core employer wage and benefit obligations covered by this category.
+
+=== hr5858-115 ===
+official_title: To amend the Internal Revenue Code of 1986 to require coverage without a deductible of certain primary care services by high deductible health plans.
+short_title: Primary Care Patient Protection Act of 2018
+policy_area: Taxation
+reason_qwen: The bill imposes specific coverage requirements on employer-sponsored high deductible health plans, directly regulating the terms of private employer welfare benefit plans under ERISA.
+reason_4o: The bill modifies tax code requirements for high deductible health plans related to health savings accounts, but does not impose obligations on private employers regarding wage, hour, or benefit obligations under ERISA or similar statutes.
+reason_sonnet: This bill modifies health savings account rules and high deductible health plan requirements in the tax code, but does not impose wage, hour, or benefit obligations on private employers as plan sponsors under ERISA or related employment laws.
+
+=== s893-115 ===
+official_title: A bill to repeal the current Internal Revenue Code and replace it with a flat tax, thereby guaranteeing economic growth and fairness for all Americans.
+short_title: Simplified, Manageable, And Responsible Tax Act
+policy_area: Taxation
+reason_qwen: The bill repeals specific ERISA rules relating to non-discrimination, contribution limits, and restrictions on distributions for pension plans, directly altering the regulatory obligations of private employers regarding employee retirement benefits.
+reason_4o: The bill primarily addresses tax reform and simplification, including changes to income tax rates and deductions, and does not directly regulate or enforce private employer wage, hour, or benefit obligations.
+reason_sonnet: This comprehensive tax reform bill repeals most existing tax credits and deductions as part of implementing a flat tax system, but does not introduce new tax incentives targeting employer wage, hour, or benefit conduct, nor does it directly regulate private employer obligations under FLSA, ERISA, FM
+
+=== s974-112 ===
+official_title: A bill to amend the Internal Revenue Code of 1986 to expand the tip tax credit to employers of cosmetologists and to promote tax compliance in the cosmetology sector.
+short_title: Small Business Tax Equalization and Compliance Act of 2011
+policy_area: Taxation
+reason_qwen: The bill extends an existing tax credit for social security taxes paid on employee tips to employers of cosmetologists, incentivizing tax compliance regarding tip reporting and wage obligations for private employers.
+reason_4o: The bill primarily addresses tax compliance and reporting requirements for employers of cosmetologists, not private employer wage or benefit obligations.
+reason_sonnet: This bill primarily addresses tax compliance and reporting requirements for the cosmetology sector, along with extending an existing employer tax credit for social security taxes on tips; it does not regulate private employer wage, hour, or benefit obligations such as minimum wage, overtime, retirem
+
+=== s479-113 ===
+official_title: A bill to amend the Internal Revenue Code of 1986 to clarify the employment tax treatment and reporting of wages paid by professional employer organizations, and for other purposes.
+short_title: Small Business Efficiency Act
+policy_area: Taxation
+reason_qwen: The bill clarifies the employment tax treatment and reporting obligations for wages paid by professional employer organizations (PEOs), directly regulating how private employers and PEOs handle payroll taxes and wage reporting to ensure compliance with federal tax laws.
+reason_4o: The bill addresses the tax treatment and reporting of wages by professional employer organizations, focusing on tax administration rather than private employer wage or benefit obligations.
+reason_sonnet: This bill addresses tax administration and reporting procedures for professional employer organizations (PEOs) but does not regulate private employer wage, hour, or benefit obligations such as minimum wage, overtime, pension management, or leave protections.
+
+=== hr3460-112 ===
+official_title: To amend the Internal Revenue Code of 1986 to allow temporarily a reduced rate of tax with respect to repatriated foreign earnings.
+short_title: American Jobs First Act of 2011
+policy_area: Taxation
+reason_qwen: The bill introduces a tax deduction (functioning as a tax credit) for domestic corporations that increase their payroll, directly incentivizing private employer hiring and wage expenditure behavior.
+reason_4o: The bill primarily addresses tax deductions related to repatriated foreign earnings and does not impose or modify private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill provides tax incentives for corporations to repatriate foreign earnings and increase domestic payroll, but does not regulate private employer wage, hour, or benefit obligations or introduce credits specifically tied to wage/hour compliance or benefit provision.
+
+=== s2784-113 ===
+official_title: A bill to direct the Secretary of Transportation to carry out activities to improve rail safety, and for other purposes.
+short_title: Rail Safety Improvement Act of 2014
+policy_area: Transportation and Public Works
+reason_qwen: The bill revises and increases civil penalties for violations of employee hours of service and sleeping quarters requirements for railroad employees, directly regulating private employer obligations regarding worker hours and safety conditions.
+reason_4o: The bill focuses on rail safety improvements and transportation safety regulations, which do not directly relate to private employer wage, hour, or benefit obligations.
+reason_sonnet: This bill primarily addresses railroad safety regulations, equipment requirements, and operational standards for rail carriers; while it mentions transportation employees and worker safety incidentally, it does not substantively regulate private employer wage, hour, or benefit obligations.
+
+=== hr2927-115 ===
+official_title: To amend the Internal Revenue Code of 1986 to include apprentices as members of targeted groups for purposes of the work opportunity credit.
+short_title: Helpful Incentives to Restore the Economic Dream Act of 2017
+policy_area: Taxation
+reason_qwen: Introduces a tax credit for wages paid to apprentices, which qualifies as a credit specifically tied to employer-provided job training.
+reason_4o: The bill introduces a tax credit for hiring apprentices, which incentivizes hiring decisions but does not directly relate to private employer wage or benefit obligations.
+reason_sonnet: This bill offers a general hiring tax credit for employing apprentices, which incentivizes hiring decisions rather than addressing private employer wage, hour, or benefit compliance obligations.
+
+=== hr6854-115 ===
+official_title: To provide tax relief for the victims of Hurricane Florence, and for other purposes.
+short_title: Hurricane Florence Tax Relief Act
+policy_area: Taxation
+reason_qwen: The bill introduces an employee retention tax credit for wages paid to employees in disaster zones, which incentivizes private employers to retain workers and relates to wage obligations.
+reason_4o: The bill provides tax relief measures for individuals and businesses affected by Hurricane Florence, including tax credits and deductions, but does not impose or modify private employer wage, hour, or benefit obligations.
+reason_sonnet: This is a disaster relief tax bill providing various tax benefits to individuals and businesses affected by Hurricane Florence; while it mentions employee benefits and wages, it does not impose or modify private employer wage, hour, or benefit obligations under FLSA, ERISA, FMLA, or WARN Act.
+
+=== s1908-112 ===
+official_title: A bill to amend the Internal Revenue Code of 1986 to clarify the employment tax treatment and reporting of wages paid by professional employer organization, and for other purposes.
+short_title: nan
+policy_area: Taxation
+reason_qwen: The bill imposes specific financial and reporting obligations on Professional Employer Organizations (PEOs), including a mandatory bond to guarantee the payment of employment taxes, thereby strengthening enforcement mechanisms for private employer wage and tax compliance.
+reason_4o: API error
+reason_sonnet: This bill addresses tax administration and reporting procedures for professional employer organizations (PEOs) rather than regulating private employer wage, hour, or benefit obligations or introducing tax credits that incentivize employer conduct related to those obligations.
