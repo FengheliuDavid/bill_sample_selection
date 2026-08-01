@@ -60,6 +60,8 @@ css = """
         padding: 5px 10px;
         border: 1px solid #ddd;
         vertical-align: top;
+        word-break: break-word;
+        overflow-wrap: break-word;
     }
     tr:nth-child(even) td { background-color: #F0F4F9; }
     tr:nth-child(odd)  td { background-color: #ffffff; }
