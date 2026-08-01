@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+
+    @page { size: A4; margin: 2cm 2.2cm; }
+    body {
+        font-family: "Segoe UI", Arial, sans-serif;
+        font-size: 11pt;
+        line-height: 1.6;
+        color: #1a1a1a;
+        max-width: 100%;
+    }
+    h1 {
+        font-size: 18pt;
+        color: #1F4E79;
+        border-bottom: 2px solid #1F4E79;
+        padding-bottom: 6px;
+        margin-bottom: 12px;
+    }
+    h2 {
+        font-size: 14pt;
+        color: #2E4057;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 4px;
+        margin-top: 24px;
+    }
+    h3 {
+        font-size: 11.5pt;
+        color: #2E4057;
+        margin-top: 18px;
+        margin-bottom: 6px;
+    }
+    p { margin: 6px 0; }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        font-size: 9.5pt;
+        margin: 12px 0;
+    }
+    th {
+        background-color: #1F4E79;
+        color: white;
+        font-weight: bold;
+        padding: 6px 10px;
+        text-align: left;
+        border: 1px solid #ccc;
+    }
+    td {
+        padding: 5px 10px;
+        border: 1px solid #ddd;
+        vertical-align: top;
+    }
+    tr:nth-child(even) td { background-color: #F0F4F9; }
+    tr:nth-child(odd)  td { background-color: #ffffff; }
+    code {
+        background: #f0f0f0;
+        border-radius: 3px;
+        padding: 1px 4px;
+        font-family: "Consolas", monospace;
+        font-size: 9pt;
+    }
+    strong { color: #1a1a1a; }
+    hr { border: none; border-top: 1px solid #ccc; margin: 20px 0; }
+    .meta { font-size: 10pt; color: #555; margin-bottom: 16px; }
+
+</style>
+</head>
+<body>
+<h1>1-Step vs 2-Step LLM Classification: Comparison</h1>
+<p><strong>Date:</strong> 2026-07-31
+<strong>Purpose:</strong> Compare the original single-pass Qwen→GPT/Sonnet/Opus pipeline (07_31 run) against
+the new two-step pipeline (step-1 simple Qwen pre-filter → step-2 GPT-4o/Sonnet/Opus with
+detailed rules), and additionally test whether including Qwen's step-1 flagging reason as
+context in the step-2 prompt materially affects results.</p>
+<hr />
+<h2>Pipeline Overview</h2>
+<h3>1-Step Approach (07_31, <code>compare_bills_07_31_3model.py</code>)</h3>
+<ul>
+<li>Qwen runs on 5,000 bills using the <strong>full detailed prompt</strong> (<code>8_llm_categorize_VT27_bills_prompt_07_31.md</code>)</li>
+<li>Bills Qwen flags go directly to GPT-4o, Claude Sonnet, and Claude Opus for second-pass verification, using the same detailed prompt</li>
+<li><strong>140 bills</strong> passed Qwen's first filter</li>
+<li>Manual review triggered on GPT-4o vs Opus disagreements</li>
+</ul>
+<h3>2-Step Approach with Reason (07_31 step2, <code>compare_206bills_07_31_step2.py</code>)</h3>
+<ul>
+<li>Qwen runs on 5,000 bills using a <strong>simplified step-1 prompt</strong> designed to minimize false negatives (looser criteria, casts a wider net)</li>
+<li>Bills Qwen flags go to GPT-4o, Claude Sonnet, and Claude Opus for second-pass verification using <code>prompt_step2_gpt.md</code>, which applies the full detailed rules <strong>and passes Qwen's step-1 flagging reason</strong> to the verifier as context</li>
+<li><strong>206 bills</strong> passed the step-1 filter (66 more than the 1-step approach)</li>
+</ul>
+<h3>2-Step Approach without Reason (07_31 step2b, <code>compare_206bills_07_31_step2b.py</code>)</h3>
+<ul>
+<li>Same simplified Qwen step-1 pre-filter; same 206-bill input pool</li>
+<li>Same three-model step-2 verification with <code>prompt_step2_gpt.md</code> and full detailed rules, but <strong>Qwen's step-1 flagging reason is NOT passed</strong> to the verifiers</li>
+<li>Isolates the effect of the reason context on model agreement</li>
+</ul>
+<hr />
+<h2>Results Comparison</h2>
+<h3>Flagging Counts</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>1-Step (140 bills)</th>
+<th>2-Step w/ reason (206 bills)</th>
+<th>2-Step no reason (206 bills)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Input pool (after Qwen/step-1)</td>
+<td>140</td>
+<td>206</td>
+<td>206</td>
+</tr>
+<tr>
+<td>GPT-4o flagged</td>
+<td>104 (74.3%)</td>
+<td>114 (55.3%)</td>
+<td>80 (38.8%)</td>
+</tr>
+<tr>
+<td>Sonnet flagged</td>
+<td>128 (91.4%)</td>
+<td>104 (50.5%)</td>
+<td>114 (55.3%)</td>
+</tr>
+<tr>
+<td>Opus flagged</td>
+<td>124 (88.6%)</td>
+<td>107 (51.9%)</td>
+<td>103 (50.0%)</td>
+</tr>
+<tr>
+<td><strong>All-model agree</strong></td>
+<td><strong>107 / 140 (76.4%)</strong></td>
+<td><strong>169 / 206 (82.0%)</strong></td>
+<td><strong>156 / 206 (75.7%)</strong></td>
+</tr>
+</tbody>
+</table>
+<h3>GPT-4o vs Sonnet Disagreements</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>1-Step</th>
+<th>2-Step w/ reason</th>
+<th>2-Step no reason</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPT vs Sonnet disagree</td>
+<td>27 / 140 <strong>(19.3%)</strong></td>
+<td>28 / 206 <strong>(13.6%)</strong></td>
+<td>40 / 206 <strong>(19.4%)</strong></td>
+</tr>
+<tr>
+<td>GPT=flag, Sonnet=reject</td>
+<td>1</td>
+<td>19</td>
+<td>3</td>
+</tr>
+<tr>
+<td>GPT=reject, Sonnet=flag</td>
+<td>26</td>
+<td>9</td>
+<td>37</td>
+</tr>
+</tbody>
+</table>
+<h3>GPT-4o vs Opus Disagreements</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>1-Step</th>
+<th>2-Step w/ reason</th>
+<th>2-Step no reason</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPT vs Opus disagree</td>
+<td>24 / 140 <strong>(17.1%)</strong></td>
+<td>17 / 206 <strong>(8.3%)</strong></td>
+<td>29 / 206 <strong>(14.1%)</strong></td>
+</tr>
+</tbody>
+</table>
+<h3>Any-Model Disagreements (all 3 models)</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>1-Step</th>
+<th>2-Step w/ reason</th>
+<th>2-Step no reason</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Any model disagrees</td>
+<td>33 / 140 (23.6%)</td>
+<td>37 / 206 (18.0%)</td>
+<td>50 / 206 (24.3%)</td>
+</tr>
+<tr>
+<td>All 3 confirm as qualifying</td>
+<td>101</td>
+<td>89</td>
+<td>74</td>
+</tr>
+<tr>
+<td>All 3 confirm as non-qualifying</td>
+<td>6</td>
+<td>80</td>
+<td>82</td>
+</tr>
+<tr>
+<td>Sent to manual review</td>
+<td>24 → <code>manual_review_07_31_GPT_vs_Opus_24.xlsx</code></td>
+<td>17 → <code>manual_review_07_31_2step_with_reason_GPT_vs_Opus_17.xlsx</code></td>
+<td>29 → <code>manual_review_07_31_2step_wo_reason_GPT_vs_Opus_29.xlsx</code></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
