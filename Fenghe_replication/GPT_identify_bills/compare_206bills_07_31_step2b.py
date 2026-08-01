@@ -14,7 +14,7 @@ Input:
 Output:
   - OUTPUT/llm_bill_VT27_compare_07_31_step2b.csv
   - OUTPUT/compare_07_31_step2b_checkpoint.csv  (auto-deleted on completion)
-  - ../manual_review_07_31_step2b.xlsx          (any model disagreement)
+  - ../manual_review_07_31_2step_wo_reason_GPT_vs_Opus_29.xlsx
   - OUTPUT/api_cost_07_31_step2b.txt            (TRUE cost from API usage)
 """
 
@@ -44,7 +44,7 @@ TEXT_DIR   = Path(r"D:\bill_summary\SAMPLE_5000_YEAR_2010_2019") / "llm_input_te
 PROMPT_MD  = REPO_DIR / "HPC" / "prompt_step2_gpt.md"
 OUTPUT_CSV = SCRIPT_DIR / "OUTPUT" / "llm_bill_VT27_compare_07_31_step2b.csv"
 CHECKPOINT = SCRIPT_DIR / "OUTPUT" / "compare_07_31_step2b_checkpoint.csv"
-REVIEW_XLS = REPO_DIR / "manual_review_07_31_step2b.xlsx"
+REVIEW_XLS = REPO_DIR / "manual_review_07_31_2step_wo_reason_GPT_vs_Opus_29.xlsx"
 COST_TXT   = SCRIPT_DIR / "OUTPUT" / "api_cost_07_31_step2b.txt"
 
 GPT_MODEL    = "gpt-4o"
